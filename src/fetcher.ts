@@ -12,7 +12,7 @@ export async function fetchRSSFeed(source: FeedSource): Promise<NewsItem[]> {
   try {
     const response = await fetch(source.url, {
       headers: {
-        'User-Agent': 'Mozilla/5.0 (compatible; AnindaNewsBot/1.0)'
+        'User-Agent': 'Mozilla/5.0 (compatible; ActuaNewsBot/1.0)'
       },
       signal: AbortSignal.timeout(10000) // 10 second timeout
     });

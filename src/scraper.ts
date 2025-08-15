@@ -13,7 +13,7 @@ export async function scrapeABCPopularArticles(): Promise<NewsItem[]> {
   try {
     const response = await fetch('https://www.abc.net.au/news', {
       headers: {
-        'User-Agent': 'Mozilla/5.0 (compatible; AnindaNewsBot/1.0)'
+        'User-Agent': 'Mozilla/5.0 (compatible; ActuaNewsBot/1.0)'
       },
       signal: AbortSignal.timeout(15000)
     });
@@ -75,7 +75,7 @@ export async function scrapeArsTechnicaPopularArticles(): Promise<NewsItem[]> {
   try {
     const response = await fetch('https://arstechnica.com/', {
       headers: {
-        'User-Agent': 'Mozilla/5.0 (compatible; AnindaNewsBot/1.0)'
+        'User-Agent': 'Mozilla/5.0 (compatible; ActuaNewsBot/1.0)'
       },
       signal: AbortSignal.timeout(15000)
     });

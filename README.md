@@ -1,4 +1,4 @@
-# Aninda News Processor
+# Actua News Processor
 
 Private GitHub Actions-based news processing system for actua.org
 
