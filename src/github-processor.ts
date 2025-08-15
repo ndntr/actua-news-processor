@@ -6,38 +6,16 @@ import { fetchScrapedPopularArticles } from './scraper';
 import { generateAISummary, generateAIHeadline } from './normalize';
 import { SectionData, MedicalSectionData, NewsCluster } from './types';
 
-// GitHub Actions environment - create mock AI object for Cloudflare AI API
-const createAI = () => {
-  const cloudflareAccountId = process.env.CLOUDFLARE_ACCOUNT_ID;
-  const cloudflareAiToken = process.env.CLOUDFLARE_AI_TOKEN;
+// GitHub Actions environment - check for Gemini API key
+const checkAI = () => {
+  const geminiApiKey = process.env.GEMINI_API_KEY;
   
-  if (!cloudflareAccountId || !cloudflareAiToken) {
-    console.warn('Cloudflare AI credentials not found, AI summaries will be disabled');
-    return null;
+  if (!geminiApiKey) {
+    console.warn('Gemini API key not found, AI summaries will be disabled');
+    return false;
   }
 
-  return {
-    run: async (model: string, params: any) => {
-      const response = await fetch(
-        `https://api.cloudflare.com/client/v4/accounts/${cloudflareAccountId}/ai/run/${model}`,
-        {
-          method: 'POST',
-          headers: {
-            'Authorization': `Bearer ${cloudflareAiToken}`,
-            'Content-Type': 'application/json',
-          },
-          body: JSON.stringify(params),
-        }
-      );
-      
-      if (!response.ok) {
-        throw new Error(`Cloudflare AI API error: ${response.status}`);
-      }
-      
-      const result = await response.json();
-      return result.result;
-    }
-  };
+  return true;
 };
 
 async function processSection(section: string): Promise<SectionData> {
@@ -114,21 +92,21 @@ async function processSection(section: string): Promise<SectionData> {
 
   // Generate AI summaries and headlines for ALL clusters (no CPU limits in GitHub Actions!)
   if (['global', 'australia', 'technology'].includes(section)) {
-    const ai = createAI();
+    const hasAI = checkAI();
     
-    if (ai) {
-      console.log(`Generating AI summaries for ${filteredClusters.length} clusters`);
+    if (hasAI) {
+      console.log(`Generating AI summaries for ${filteredClusters.length} clusters with Gemini API`);
       
       // Process ALL clusters with AI (GitHub Actions has no CPU limits)
       for (let i = 0; i < filteredClusters.length; i++) {
         const cluster = filteredClusters[i];
         try {
-          console.log(`Processing cluster ${i + 1}/${filteredClusters.length} with AI`);
+          console.log(`Processing cluster ${i + 1}/${filteredClusters.length} with Gemini`);
           
           // Generate both summary and headline
           const [aiSummary, aiHeadline] = await Promise.all([
-            generateAISummary(cluster.items, { AI: ai }),
-            generateAIHeadline(cluster.items, { AI: ai })
+            generateAISummary(cluster.items, { GEMINI_API_KEY: process.env.GEMINI_API_KEY }),
+            generateAIHeadline(cluster.items, { GEMINI_API_KEY: process.env.GEMINI_API_KEY })
           ]);
           
           cluster.ai_summary = aiSummary;
@@ -141,7 +119,7 @@ async function processSection(section: string): Promise<SectionData> {
         }
       }
     } else {
-      console.log('AI processing disabled - no Cloudflare credentials');
+      console.log('AI processing disabled - no Gemini API key');
     }
   }
 

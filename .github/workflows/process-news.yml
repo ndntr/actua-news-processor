@@ -27,8 +27,7 @@ jobs:
       
     - name: Process RSS feeds and generate summaries
       env:
-        CLOUDFLARE_AI_TOKEN: ${{ secrets.CLOUDFLARE_AI_TOKEN }}
-        CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       run: npm run process-news
       
     - name: Commit and push generated data

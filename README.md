@@ -4,12 +4,12 @@ Private GitHub Actions-based news processing system for aninda.org
 
 ## Overview
 
-This repository processes RSS feeds from 40+ international news sources, performs intelligent clustering, and generates AI-powered summaries using Cloudflare AI. The processed data is stored as JSON files and served via Cloudflare Workers.
+This repository processes RSS feeds from 40+ international news sources, performs intelligent clustering, and generates AI-powered summaries using Google Gemini API. The processed data is stored as JSON files and served via Cloudflare Workers.
 
 ## Architecture
 
 - **GitHub Actions**: Processes RSS feeds every 4 hours
-- **Cloudflare AI**: Generates 5-bullet point summaries using gpt-oss-120b
+- **Google Gemini API**: Generates 5-bullet point summaries using Gemini 1.5 Flash
 - **JSON Storage**: Processed data stored in `/data` directory
 - **Cloudflare Workers**: Lightweight API to serve processed data
 
@@ -31,13 +31,12 @@ This repository processes RSS feeds from 40+ international news sources, perform
 ## Setup
 
 1. Set repository secrets:
-   - `CLOUDFLARE_AI_TOKEN`: Your Cloudflare AI API token
-   - `CLOUDFLARE_ACCOUNT_ID`: Your Cloudflare account ID
+   - `GEMINI_API_KEY`: Your Google Gemini API key (get from https://aistudio.google.com/app/apikey)
 
 2. GitHub Actions will automatically:
    - Run every 4 hours
    - Process all RSS feeds  
-   - Generate AI summaries
+   - Generate AI summaries using Gemini 1.5 Flash
    - Commit updated JSON files
 
 ## Manual Trigger

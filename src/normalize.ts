@@ -229,34 +229,64 @@ export function generateBulletSummary(items: NewsItem[]): string[] {
   return bullets.slice(0, 4);
 }
 
-// New AI-powered summary generation
+// New AI-powered summary generation using Gemini API
 export async function generateAISummary(items: NewsItem[], env?: any): Promise<string> {
   if (items.length === 0) return '';
 
-  // Combine content from all articles in the cluster (further reduced for CPU efficiency)
+  // Combine content from all articles in the cluster
   const combinedContent = items.map(item => {
     const title = item.title || '';
     const content = item.standfirst || item.content || '';
     const source = item.source || '';
     return `[${source}] ${title}: ${content}`;
-  }).join('\n\n').slice(0, 2000); // Further reduced to 2000 chars for faster processing
+  }).join('\n\n').slice(0, 3000); // More content allowed with Gemini
 
-  const prompt = `Summarize this news into 5 bullet points. Be factual and concise.
+  const prompt = `For the article(s) provided, summarize the news story into a 5-bullet point overview. Summarize only what is supported by the supplied articles. Be concise, neutral, and specific. Avoid clickbait, vagueness, adjectives, and opinion.
 
+Requirements:
+- Output EXACTLY 5 bullets. Each one should be ≤ 26 words.
+- Lead with what/where/when. Include proper nouns and titles once; then use surnames/roles.
+- Prefer facts corroborated by ≥2 distinct sources; if reports conflict, state the disagreement.
+- Include concrete numbers/quotes only when clearly sourced.
+- One bullet should give immediate context or stakes; the last bullet should be "what's next" or next scheduled step.
+- No speculation. No rhetorical questions. No outlet names. No timestamps/citations in bullets.
+- Use present tense and clear attributions ("The White House says…", "European and Ukrainian leaders urge…").
+- Start each bullet with a hyphen (-) on a new line.
+
+Articles:
 ${combinedContent}
 
-Output exactly 5 bullets starting with "-":`;
+Output exactly 5 bullets:`;
 
   try {
-    // Use Cloudflare AI with gpt-oss-120b (OpenAI-compatible format)
-    if (env?.AI) {
-      const response = await env.AI.run('@cf/openai/gpt-oss-120b', {
-        instructions: 'Create exactly 5 bullet point summaries. Be concise.',
-        input: prompt,
-        max_tokens: 150
+    // Use Gemini API
+    const geminiApiKey = process.env.GEMINI_API_KEY || env?.GEMINI_API_KEY;
+    
+    if (geminiApiKey) {
+      const response = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${geminiApiKey}`, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          contents: [{
+            parts: [{
+              text: prompt
+            }]
+          }],
+          generationConfig: {
+            maxOutputTokens: 200,
+            temperature: 0.1
+          }
+        })
       });
       
-      const summary = response.response?.trim() || '';
+      if (!response.ok) {
+        throw new Error(`Gemini API error: ${response.status}`);
+      }
+      
+      const result = await response.json();
+      const summary = result.candidates?.[0]?.content?.parts?.[0]?.text?.trim() || '';
       
       // Post-process to extract and clean bullets
       const cleanSummary = cleanAIBullets(summary);
@@ -413,15 +443,35 @@ Context: ${content}
 Headline:`;
 
   try {
-    // Use Cloudflare AI with gpt-oss-120b
-    if (env?.AI) {
-      const response = await env.AI.run('@cf/openai/gpt-oss-120b', {
-        instructions: 'You are a professional news editor. Create clear, neutral headlines.',
-        input: prompt,
-        max_tokens: 50
+    // Use Gemini API
+    const geminiApiKey = process.env.GEMINI_API_KEY || env?.GEMINI_API_KEY;
+    
+    if (geminiApiKey) {
+      const response = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${geminiApiKey}`, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          contents: [{
+            parts: [{
+              text: prompt
+            }]
+          }],
+          generationConfig: {
+            maxOutputTokens: 50,
+            temperature: 0.1
+          }
+        })
       });
       
-      const headline = response.response?.trim() || '';
+      if (!response.ok) {
+        throw new Error(`Gemini API error: ${response.status}`);
+      }
+      
+      const result = await response.json();
+      const headline = result.candidates?.[0]?.content?.parts?.[0]?.text?.trim() || '';
+      
       // Clean up any quotes, bullet points, multiple options, or extra formatting
       const cleanHeadline = headline
         .replace(/^["']|["']$/g, '') // Remove quotes
