@@ -27,12 +27,21 @@ jobs:
     - name: Process RSS feeds and generate summaries
       env:
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-      run: npm run process-news
+      run: |
+        echo "GEMINI_API_KEY is set: $([[ -n "$GEMINI_API_KEY" ]] && echo "Yes" || echo "No")"
+        npm run process-news
       
     - name: Commit and push generated data
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add data/*.json
-        git diff --staged --quiet || git commit -m "Update news data - $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
-        git push
+        echo "Checking for changes to commit..."
+        if git diff --staged --quiet; then
+          echo "No changes detected in data files"
+        else
+          echo "Changes detected, committing..."
+          git commit -m "Update news data - $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+          git push
+          echo "Data committed and pushed successfully"
+        fi
