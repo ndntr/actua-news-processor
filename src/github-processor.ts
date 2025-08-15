@@ -90,25 +90,7 @@ async function processSection(section: string): Promise<SectionData> {
     return (b.popularity_score || 0) - (a.popularity_score || 0);
   });
 
-  // Generate AI summaries and headlines for ALL clusters using batch processing
-  if (['global', 'australia', 'technology'].includes(section)) {
-    const hasAI = checkAI();
-    
-    if (hasAI) {
-      console.log(`Generating AI summaries for ${filteredClusters.length} clusters with Gemini API (batch processing)`);
-      
-      try {
-        // Process all clusters in a single batch API call
-        await generateBatchAISummaries(filteredClusters, { GEMINI_API_KEY: process.env.GEMINI_API_KEY });
-        console.log('Batch AI processing completed successfully');
-      } catch (error) {
-        console.error('Batch AI processing failed:', error);
-        // Clusters will keep their original titles and no AI summaries
-      }
-    } else {
-      console.log('AI processing disabled - no Gemini API key');
-    }
-  }
+  // AI processing will be done in batch for all sections at once
 
   const data: SectionData = {
     updated_at: new Date().toISOString(),
@@ -253,6 +235,31 @@ async function main() {
       processSection('technology'),
       processMedicalSections()
     ]);
+    
+    // Batch AI processing for ALL clusters from ALL sections in a single API call
+    const hasAI = checkAI();
+    if (hasAI) {
+      try {
+        // Collect all clusters that need AI processing
+        const allClusters = [
+          ...globalData.clusters,
+          ...australiaData.clusters,
+          ...technologyData.clusters
+        ];
+        
+        console.log(`Generating AI summaries for ${allClusters.length} clusters from all sections with Gemini API (single batch call)`);
+        
+        // Process ALL clusters in one API call
+        await generateBatchAISummaries(allClusters, { GEMINI_API_KEY: process.env.GEMINI_API_KEY });
+        console.log('Consolidated batch AI processing completed successfully');
+        
+      } catch (error) {
+        console.error('Consolidated batch AI processing failed:', error);
+        // Clusters will keep their original titles and no AI summaries
+      }
+    } else {
+      console.log('AI processing disabled - no Gemini API key');
+    }
     
     // Write data to JSON files
     await Promise.all([
