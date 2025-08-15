@@ -3,7 +3,7 @@ import { getFeedsBySection } from './feeds';
 import { fetchAllFeeds, fetchEvidenceAlerts } from './fetcher';
 import { clusterNewsItems } from './cluster';
 import { fetchScrapedPopularArticles } from './scraper';
-import { generateAISummary, generateAIHeadline } from './normalize';
+import { generateBatchAISummaries } from './normalize';
 import { SectionData, MedicalSectionData, NewsCluster } from './types';
 
 // GitHub Actions environment - check for Gemini API key
@@ -90,33 +90,20 @@ async function processSection(section: string): Promise<SectionData> {
     return (b.popularity_score || 0) - (a.popularity_score || 0);
   });
 
-  // Generate AI summaries and headlines for ALL clusters (no CPU limits in GitHub Actions!)
+  // Generate AI summaries and headlines for ALL clusters using batch processing
   if (['global', 'australia', 'technology'].includes(section)) {
     const hasAI = checkAI();
     
     if (hasAI) {
-      console.log(`Generating AI summaries for ${filteredClusters.length} clusters with Gemini API`);
+      console.log(`Generating AI summaries for ${filteredClusters.length} clusters with Gemini API (batch processing)`);
       
-      // Process ALL clusters with AI (GitHub Actions has no CPU limits)
-      for (let i = 0; i < filteredClusters.length; i++) {
-        const cluster = filteredClusters[i];
-        try {
-          console.log(`Processing cluster ${i + 1}/${filteredClusters.length} with Gemini`);
-          
-          // Generate both summary and headline
-          const [aiSummary, aiHeadline] = await Promise.all([
-            generateAISummary(cluster.items, { GEMINI_API_KEY: process.env.GEMINI_API_KEY }),
-            generateAIHeadline(cluster.items, { GEMINI_API_KEY: process.env.GEMINI_API_KEY })
-          ]);
-          
-          cluster.ai_summary = aiSummary;
-          cluster.neutral_headline = aiHeadline;
-          
-          console.log(`Cluster ${i + 1} processed successfully`);
-        } catch (error) {
-          console.error(`AI generation failed for cluster ${i + 1}:`, error);
-          // Continue with fallback summaries
-        }
+      try {
+        // Process all clusters in a single batch API call
+        await generateBatchAISummaries(filteredClusters, { GEMINI_API_KEY: process.env.GEMINI_API_KEY });
+        console.log('Batch AI processing completed successfully');
+      } catch (error) {
+        console.error('Batch AI processing failed:', error);
+        // Clusters will keep their original titles and no AI summaries
       }
     } else {
       console.log('AI processing disabled - no Gemini API key');

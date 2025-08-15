@@ -229,7 +229,123 @@ export function generateBulletSummary(items: NewsItem[]): string[] {
   return bullets.slice(0, 4);
 }
 
-// New AI-powered summary generation using Gemini API
+// Batch process multiple clusters with Gemini API in a single request
+export async function generateBatchAISummaries(clusters: any[], env?: any): Promise<void> {
+  if (clusters.length === 0) return;
+
+  const geminiApiKey = process.env.GEMINI_API_KEY || env?.GEMINI_API_KEY;
+  if (!geminiApiKey) return;
+
+  // Prepare batch input
+  const batchInput = clusters.map((cluster, index) => {
+    const combinedContent = cluster.items.map(item => {
+      const title = item.title || '';
+      const content = item.standfirst || item.content || '';
+      const source = item.source || '';
+      return `[${source}] ${title}: ${content}`;
+    }).join('\n\n').slice(0, 2000); // Limit per cluster
+
+    return `\n## CLUSTER ${index + 1}:\n${combinedContent}`;
+  }).join('\n');
+
+  const prompt = `Process ${clusters.length} news clusters. For each cluster, generate:
+1. A neutral headline (max 12 words, no period, no contractions)
+2. A 5-bullet summary (max 26 words per bullet)
+
+Format your response as:
+CLUSTER 1:
+HEADLINE: [headline here]
+SUMMARY:
+- [bullet 1]
+- [bullet 2]
+- [bullet 3]
+- [bullet 4]
+- [bullet 5]
+
+CLUSTER 2:
+[repeat format]
+
+Requirements:
+- Headlines: factual, no clickbait, no "Here's what..." endings
+- Summaries: specific facts only, no speculation, no generic statements
+- Use full words not contractions (government not govt)
+
+${batchInput}`;
+
+  try {
+    const response = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${geminiApiKey}`, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
+        contents: [{
+          parts: [{
+            text: prompt
+          }]
+        }],
+        generationConfig: {
+          maxOutputTokens: 4000, // Much larger for batch processing
+          temperature: 0.1
+        }
+      })
+    });
+    
+    if (!response.ok) {
+      throw new Error(`Gemini API error: ${response.status}`);
+    }
+    
+    const result = await response.json();
+    const batchResponse = result.candidates?.[0]?.content?.parts?.[0]?.text?.trim() || '';
+    
+    // Parse the batch response and assign to clusters
+    parseBatchResponse(batchResponse, clusters);
+    
+  } catch (error) {
+    console.error('Batch AI processing failed:', error);
+    // Clusters will keep their original titles and no AI summaries
+  }
+}
+
+function parseBatchResponse(response: string, clusters: any[]): void {
+  const clusterBlocks = response.split(/CLUSTER \d+:/i).slice(1);
+  
+  for (let i = 0; i < Math.min(clusterBlocks.length, clusters.length); i++) {
+    const block = clusterBlocks[i];
+    
+    // Extract headline
+    const headlineMatch = block.match(/HEADLINE:\s*(.+?)(?:\n|SUMMARY:|$)/i);
+    if (headlineMatch) {
+      let headline = headlineMatch[1].trim();
+      // Clean up the headline
+      headline = headline
+        .replace(/^["']|["']$/g, '') // Remove quotes
+        .replace(/\.+$/, '') // Remove trailing periods
+        .trim();
+      if (headline) {
+        clusters[i].neutral_headline = headline;
+      }
+    }
+    
+    // Extract summary bullets
+    const summaryMatch = block.match(/SUMMARY:\s*((?:\s*-.*(?:\n|$))+)/i);
+    if (summaryMatch) {
+      const bullets = summaryMatch[1]
+        .split(/\n/)
+        .map(line => line.trim())
+        .filter(line => line.startsWith('-'))
+        .map(line => line.replace(/^-\s*/, '').trim())
+        .filter(line => line.length > 0)
+        .slice(0, 5); // Max 5 bullets
+      
+      if (bullets.length >= 3) { // Only use if we got at least 3 good bullets
+        clusters[i].ai_summary = bullets.map(bullet => `• ${bullet}`).join('\n');
+      }
+    }
+  }
+}
+
+// New AI-powered summary generation using Gemini API (kept for backward compatibility)
 export async function generateAISummary(items: NewsItem[], env?: any): Promise<string> {
   if (items.length === 0) return '';
 
@@ -447,6 +563,9 @@ Headline:`;
         .replace(/\bhere's\b/gi, 'here is')
         .replace(/\bthere's\b/gi, 'there is')
         .replace(/\bwhat's\b/gi, 'what is');
+      
+      // Remove trailing periods from headlines (news headlines shouldn't end with periods)
+      cleanHeadline = cleanHeadline.replace(/\.+$/, '').trim();
       
       return cleanHeadline || selectBestHeadline(items);
     }
