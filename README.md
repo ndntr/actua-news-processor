@@ -1,6 +1,6 @@
-# Actua News Processor
+# Aninda News Processor
 
-Private GitHub Actions-based news processing system for actua.org
+GitHub Actions-based news processing system for aninda.org
 
 ## Overview
 
@@ -30,14 +30,38 @@ This repository processes RSS feeds from 40+ international news sources, perform
 
 ## Setup
 
-1. Set repository secrets:
-   - `GEMINI_API_KEY`: Your Google Gemini API key (get from https://aistudio.google.com/app/apikey)
+### For Local Development
 
-2. GitHub Actions will automatically:
+1. Copy `.env.example` to `.env`:
+   ```bash
+   cp .env.example .env
+   ```
+
+2. Add your Gemini API key to `.env`:
+   ```
+   GEMINI_API_KEY=your-actual-api-key-here
+   ```
+   Get your API key from: https://aistudio.google.com/app/apikey
+
+3. Run the processor:
+   ```bash
+   npm run process-news
+   ```
+
+### For GitHub Actions (Production)
+
+1. Go to your repository Settings → Secrets and variables → Actions
+2. Add a new repository secret:
+   - Name: `GEMINI_API_KEY`
+   - Value: Your Google Gemini API key
+
+3. GitHub Actions will automatically:
    - Run every 4 hours
    - Process all RSS feeds  
    - Generate AI summaries using Gemini 1.5 Flash
    - Commit updated JSON files
+
+**IMPORTANT**: Never commit your actual API key to the repository!
 
 ## Manual Trigger
 

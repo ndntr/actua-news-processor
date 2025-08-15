@@ -341,72 +341,10 @@ function cleanAIBullets(aiResponse: string): string {
   return '';
 }
 
-// Fallback bullet generation for when AI fails
+// Fallback bullet generation for when AI fails - return empty rather than generic content
 function generateFallbackBullets(items: NewsItem[]): string {
-  if (items.length === 0) return '• No summary available.';
-  
-  const bullets: string[] = [];
-  const sources = [...new Set(items.map(item => item.source))];
-  const mainItem = items[0];
-  
-  // Bullet 1: What happened (clean headline)
-  const cleanTitle = mainItem.title
-    .replace(/^(Breaking:|Live:|Update:|Exclusive:)\s*/gi, '')
-    .replace(/\s+/g, ' ')
-    .trim();
-  bullets.push(`${cleanTitle}${cleanTitle.endsWith('.') ? '' : '.'}`);
-  
-  // Bullet 2: Key details from content
-  const keyContent = items
-    .map(item => item.standfirst || item.content || '')
-    .filter(content => content.length > 50)
-    .slice(0, 2)
-    .join(' ');
-    
-  if (keyContent) {
-    const sentences = keyContent.split(/[.!?]+/).filter(s => s.trim().length > 20);
-    if (sentences.length > 0) {
-      let detail = sentences[0].trim();
-      if (detail.length > 120) {
-        detail = detail.substring(0, 117) + '...';
-      }
-      bullets.push(`${detail}${detail.endsWith('.') ? '' : '.'}`);
-    } else {
-      bullets.push('Details are emerging about the reported developments.');
-    }
-  } else {
-    bullets.push('Additional details are being reported by news outlets.');
-  }
-  
-  // Bullet 3: Sources/attribution 
-  if (sources.length >= 3) {
-    bullets.push(`Multiple outlets including ${sources.slice(0, 2).join(', ')} and others are covering the story.`);
-  } else if (sources.length === 2) {
-    bullets.push(`${sources[0]} and ${sources[1]} are among sources reporting this story.`);
-  } else {
-    bullets.push(`${sources[0]} is reporting on this developing story.`);
-  }
-  
-  // Bullet 4: Context/stakes - try to be more specific
-  const contextKeywords = ['government', 'election', 'economy', 'climate', 'war', 'peace', 'trade', 'security', 'health'];
-  const titleLower = mainItem.title.toLowerCase();
-  let context = 'The development comes amid ongoing tensions and broader considerations.';
-  
-  if (contextKeywords.some(keyword => titleLower.includes(keyword))) {
-    if (titleLower.includes('election') || titleLower.includes('government')) {
-      context = 'The announcement has political implications and could affect governance decisions.';
-    } else if (titleLower.includes('economy') || titleLower.includes('trade')) {
-      context = 'The development may have economic consequences and market implications.';
-    } else if (titleLower.includes('war') || titleLower.includes('peace') || titleLower.includes('security')) {
-      context = 'The situation is being closely watched for security and diplomatic implications.';
-    }
-  }
-  bullets.push(context);
-  
-  // Bullet 5: What's next
-  bullets.push('Further developments and official responses are anticipated.');
-  
-  return bullets.slice(0, 5).map(bullet => `• ${bullet}`).join('\n');
+  // Return empty string - better to have no summary than generic filler
+  return '';
 }
 
 // Fallback function for simple summary generation
@@ -434,7 +372,16 @@ export async function generateAIHeadline(items: NewsItem[], env?: any): Promise<
   const titles = items.map(item => item.title).join(' | ');
   const content = items.map(item => item.standfirst || '').join(' ').slice(0, 1000);
 
-  const prompt = `Write exactly one clear news headline for this story. Do not include quotes, bullet points, or multiple options.
+  const prompt = `Write exactly one clear, factual news headline for this story.
+
+Requirements:
+- Write ONE single sentence only
+- State facts, not questions or teasers
+- Do not use contractions (use "government" not "govt", "will not" not "won't")
+- Do not add commentary like "Here's what it means" or "What you need to know"
+- Do not use clickbait phrases or rhetorical questions
+- Keep it under 12 words if possible
+- Be specific and direct
 
 Headlines from different sources: ${titles}
 
@@ -473,12 +420,34 @@ Headline:`;
       const headline = result.candidates?.[0]?.content?.parts?.[0]?.text?.trim() || '';
       
       // Clean up any quotes, bullet points, multiple options, or extra formatting
-      const cleanHeadline = headline
+      let cleanHeadline = headline
         .replace(/^["']|["']$/g, '') // Remove quotes
         .replace(/^(Headline:|Here are.*?:|Option.*?:|\*.*?\*)/gi, '') // Remove prefixes
         .split(/\n|\*|\-|•/)[0] // Take only first line/option
         .replace(/^\s*[\-\*•]\s*/, '') // Remove bullet points
         .trim();
+      
+      // Remove any "Here's what..." or similar clickbait endings
+      cleanHeadline = cleanHeadline
+        .replace(/\.\s*(Here's what.*|What you need to know.*|What it means.*)$/i, '')
+        .trim();
+      
+      // Expand common contractions that might slip through
+      cleanHeadline = cleanHeadline
+        .replace(/\bgovt\b/gi, 'government')
+        .replace(/\bdon't\b/gi, 'do not')
+        .replace(/\bwon't\b/gi, 'will not')
+        .replace(/\bcan't\b/gi, 'cannot')
+        .replace(/\bisn't\b/gi, 'is not')
+        .replace(/\baren't\b/gi, 'are not')
+        .replace(/\bwasn't\b/gi, 'was not')
+        .replace(/\bweren't\b/gi, 'were not')
+        .replace(/\bit's\b/gi, 'it is')
+        .replace(/\bthat's\b/gi, 'that is')
+        .replace(/\bhere's\b/gi, 'here is')
+        .replace(/\bthere's\b/gi, 'there is')
+        .replace(/\bwhat's\b/gi, 'what is');
+      
       return cleanHeadline || selectBestHeadline(items);
     }
     

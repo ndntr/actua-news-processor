@@ -1,7 +1,7 @@
 {
-  "name": "actua-news-processor",
+  "name": "aninda-news-processor",
   "version": "1.0.0",
-  "description": "GitHub Actions news processor for actua.org",
+  "description": "GitHub Actions news processor for aninda.org",
   "main": "src/github-processor.ts",
   "scripts": {
     "build": "tsc",
@@ -10,10 +10,11 @@
   },
   "devDependencies": {
     "@types/node": "^20.11.5",
-    "typescript": "^5.3.3",
-    "tsx": "^4.7.0"
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3"
   },
   "dependencies": {
+    "dotenv": "^17.2.1",
     "fast-xml-parser": "^4.3.4",
     "wink-nlp-utils": "^2.1.0"
   }
