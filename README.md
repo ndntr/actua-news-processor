@@ -1,6 +1,6 @@
 # Aninda News Processor
 
-Private GitHub Actions-based news processing system for aninda.org
+Private GitHub Actions-based news processing system for actua.org
 
 ## Overview
 
