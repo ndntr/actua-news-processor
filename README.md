@@ -75,4 +75,4 @@ To manually trigger processing:
 - `data/global.json`: Global news clusters
 - `data/australia.json`: Australian news clusters  
 - `data/technology.json`: Technology news clusters
-- `data/medical.json`: Medical news data (4 subsections)
+- `data/medical.json`: Medical news data (4 subsections)# Force workflow recognition
