@@ -1,0 +1,20 @@
+{
+  "name": "aninda-news-processor",
+  "version": "1.0.0",
+  "description": "GitHub Actions news processor for aninda.org",
+  "main": "src/github-processor.ts",
+  "scripts": {
+    "build": "tsc",
+    "process-news": "npx tsx src/github-processor.ts",
+    "dev": "npx tsx src/github-processor.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.5",
+    "typescript": "^5.3.3",
+    "tsx": "^4.7.0"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.3.4",
+    "wink-nlp-utils": "^2.1.0"
+  }
+}
