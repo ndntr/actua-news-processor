@@ -52,10 +52,12 @@ jobs:
     
     - name: Notify Cloudflare Worker of update
       if: success()
+      env:
+        NEWS_REFRESH_TOKEN: ${{ secrets.NEWS_REFRESH_TOKEN }}
       run: |
         echo "Notifying Cloudflare Worker of update..."
         curl -X POST https://aninda.org/news-api/webhook/update \
-          -H "X-NEWS-TOKEN: 44e142b781f5af9797fa493f8dfe7f24d22e137241910accc221f72c5be1070e" \
+          -H "X-NEWS-TOKEN: $NEWS_REFRESH_TOKEN" \
           -H "Content-Type: application/json" \
           -d '{"source": "github-actions", "timestamp": "'$(date -u +%Y-%m-%dT%H:%M:%SZ)'"}'
         echo "Notification sent"
