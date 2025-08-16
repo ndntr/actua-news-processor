@@ -160,7 +160,8 @@ export function clusterNewsItems(items: NewsItem[], similarityThreshold: number 
       title: clusterTitle,
       neutral_headline: clusterHeadline,
       bullet_summary: bulletSummary,
-      items: clusterItems
+      items: clusterItems,
+      featured_image: clusterItems.find(item => item.image_url)?.image_url
     });
   }
   

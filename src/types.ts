@@ -7,6 +7,7 @@ export interface NewsItem {
   content?: string;
   canonical_url?: string;
   feed_position?: number; // Position in the original RSS feed (0 = top)
+  image_url?: string; // RSS-extracted image URL
 }
 
 export interface NewsCluster {
@@ -19,6 +20,7 @@ export interface NewsCluster {
   ai_summary?: string; // AI-generated summary
   items: NewsItem[];
   popularity_score?: number; // Calculated popularity score for sorting
+  featured_image?: string; // Featured image URL for the cluster
 }
 
 export interface SectionData {

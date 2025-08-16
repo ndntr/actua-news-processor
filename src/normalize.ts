@@ -1,4 +1,6 @@
 import { NewsItem } from './types';
+import { geminiQueue } from './request-queue';
+import { geminiQuotaTracker } from './quota-tracker';
 
 const STOPWORDS = new Set([
   'a', 'an', 'and', 'are', 'as', 'at', 'be', 'by', 'for', 'from',
@@ -229,26 +231,55 @@ export function generateBulletSummary(items: NewsItem[]): string[] {
   return bullets.slice(0, 4);
 }
 
-// Batch process multiple clusters with Gemini API in a single request
+// Batch process multiple clusters with Gemini API in smaller chunks
 export async function generateBatchAISummaries(clusters: any[], env?: any): Promise<void> {
   if (clusters.length === 0) return;
 
   const geminiApiKey = process.env.GEMINI_API_KEY || env?.GEMINI_API_KEY;
   if (!geminiApiKey) return;
 
-  // Prepare batch input
-  const batchInput = clusters.map((cluster, index) => {
-    const combinedContent = cluster.items.map(item => {
-      const title = item.title || '';
-      const content = item.standfirst || item.content || '';
-      const source = item.source || '';
-      return `[${source}] ${title}: ${content}`;
-    }).join('\n\n').slice(0, 2000); // Limit per cluster
+  // Process in chunks optimized for Gemini 2.0 Flash-Lite (30 RPM, 200 RPD)
+  const CHUNK_SIZE = 15; // Larger chunks work fine with Flash-Lite
+  const MAX_CONCURRENT = 3; // Can handle 3 concurrent with 30 RPM limit
+  
+  console.log(`Processing ${clusters.length} clusters in chunks of ${CHUNK_SIZE} with ${MAX_CONCURRENT} concurrent requests`);
+  
+  // Split clusters into chunks
+  let chunks: any[][] = [];
+  for (let i = 0; i < clusters.length; i += CHUNK_SIZE) {
+    chunks.push(clusters.slice(i, i + CHUNK_SIZE));
+  }
+  
+  // Check quota before processing
+  const quotaStatus = await geminiQuotaTracker.getStatus();
+  console.log(`Quota status: ${quotaStatus.used}/${quotaStatus.total} requests used today, ${quotaStatus.remaining} remaining`);
+  
+  if (quotaStatus.remaining < chunks.length) {
+    console.warn(`⚠️ Daily quota insufficient: need ${chunks.length} requests, have ${quotaStatus.remaining} remaining`);
+    console.warn(`Quota resets at ${quotaStatus.resetsAt}`);
+    // Process only what we can
+    chunks = chunks.slice(0, Math.max(0, quotaStatus.remaining));
+    if (chunks.length === 0) {
+      console.log('Skipping AI processing - daily quota exhausted');
+      return;
+    }
+  }
+  
+  // Process chunks with controlled parallelism
+  const processChunk = async (chunk: any[], chunkIndex: number) => {
+    // Prepare batch input for this chunk
+    const batchInput = chunk.map((cluster, index) => {
+      const combinedContent = cluster.items.map(item => {
+        const title = item.title || '';
+        const content = item.standfirst || item.content || '';
+        const source = item.source || '';
+        return `[${source}] ${title}: ${content}`;
+      }).join('\n\n').slice(0, 2000); // Limit per cluster
 
-    return `\n## CLUSTER ${index + 1}:\n${combinedContent}`;
-  }).join('\n');
+      return `\n## CLUSTER ${index + 1}:\n${combinedContent}`;
+    }).join('\n');
 
-  const prompt = `Process ${clusters.length} news clusters. For each cluster, generate:
+    const prompt = `Process ${chunk.length} news clusters. For each cluster, generate:
 1. A neutral headline (max 12 words, no period, no contractions)
 2. A 5-bullet summary (max 26 words per bullet)
 
@@ -272,39 +303,69 @@ Requirements:
 
 ${batchInput}`;
 
-  try {
-    const response = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${geminiApiKey}`, {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-      },
-      body: JSON.stringify({
-        contents: [{
-          parts: [{
-            text: prompt
-          }]
-        }],
-        generationConfig: {
-          maxOutputTokens: 4000, // Much larger for batch processing
-          temperature: 0.1
+    try {
+      const response = await geminiQueue.enqueue(async () => {
+        const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-lite:generateContent?key=${geminiApiKey}`, {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify({
+            contents: [{
+              parts: [{
+                text: prompt
+              }]
+            }],
+            generationConfig: {
+              maxOutputTokens: 3000, // Increased to allow complete 15-cluster processing
+              temperature: 0.1
+            }
+          })
+        });
+        
+        if (!res.ok) {
+          const error = new Error(`Gemini API error: ${res.status}`) as any;
+          error.status = res.status;
+          error.retryAfter = res.headers.get('retry-after') ? 
+            parseInt(res.headers.get('retry-after')!) : undefined;
+          throw error;
         }
-      })
-    });
-    
-    if (!response.ok) {
-      throw new Error(`Gemini API error: ${response.status}`);
+        
+        return res;
+      }, 10 - (chunkIndex % 3)); // Vary priority slightly to avoid thundering herd
+      
+      const result = await response.json() as any;
+      const batchResponse = result.candidates?.[0]?.content?.parts?.[0]?.text?.trim() || '';
+      
+      // Parse the batch response and assign to this chunk
+      parseBatchResponse(batchResponse, chunk);
+      
+      // Track successful request
+      await geminiQuotaTracker.incrementRequests(1);
+      
+      console.log(`Chunk ${chunkIndex + 1}/${chunks.length} processed successfully`);
+      
+    } catch (error) {
+      console.error(`Chunk ${chunkIndex + 1}/${chunks.length} AI processing failed:`, error);
+      // This chunk will keep original titles and no AI summaries
     }
+  };
+  
+  // Process chunks in batches with controlled concurrency
+  for (let i = 0; i < chunks.length; i += MAX_CONCURRENT) {
+    const batch = chunks.slice(i, i + MAX_CONCURRENT);
+    const promises = batch.map((chunk, index) => processChunk(chunk, i + index));
     
-    const result = await response.json();
-    const batchResponse = result.candidates?.[0]?.content?.parts?.[0]?.text?.trim() || '';
+    // Wait for this batch to complete before starting the next
+    await Promise.allSettled(promises);
     
-    // Parse the batch response and assign to clusters
-    parseBatchResponse(batchResponse, clusters);
-    
-  } catch (error) {
-    console.error('Batch AI processing failed:', error);
-    // Clusters will keep their original titles and no AI summaries
+    // Small delay between batches to avoid bursting
+    if (i + MAX_CONCURRENT < chunks.length) {
+      await new Promise(resolve => setTimeout(resolve, 1000)); // 1 second delay between batches
+    }
   }
+  
+  console.log('All chunks processed');
 }
 
 function parseBatchResponse(response: string, clusters: any[]): void {
@@ -379,29 +440,37 @@ Output exactly 5 bullets:`;
     const geminiApiKey = process.env.GEMINI_API_KEY || env?.GEMINI_API_KEY;
     
     if (geminiApiKey) {
-      const response = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${geminiApiKey}`, {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({
-          contents: [{
-            parts: [{
-              text: prompt
-            }]
-          }],
-          generationConfig: {
-            maxOutputTokens: 200,
-            temperature: 0.1
-          }
-        })
-      });
+      const response = await geminiQueue.enqueue(async () => {
+        const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-lite:generateContent?key=${geminiApiKey}`, {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify({
+            contents: [{
+              parts: [{
+                text: prompt
+              }]
+            }],
+            generationConfig: {
+              maxOutputTokens: 200,
+              temperature: 0.1
+            }
+          })
+        });
+        
+        if (!res.ok) {
+          const error = new Error(`Gemini API error: ${res.status}`) as any;
+          error.status = res.status;
+          error.retryAfter = res.headers.get('retry-after') ? 
+            parseInt(res.headers.get('retry-after')!) : undefined;
+          throw error;
+        }
+        
+        return res;
+      }, 5); // Medium priority for individual summaries
       
-      if (!response.ok) {
-        throw new Error(`Gemini API error: ${response.status}`);
-      }
-      
-      const result = await response.json();
+      const result = await response.json() as any;
       const summary = result.candidates?.[0]?.content?.parts?.[0]?.text?.trim() || '';
       
       // Post-process to extract and clean bullets
@@ -510,29 +579,37 @@ Headline:`;
     const geminiApiKey = process.env.GEMINI_API_KEY || env?.GEMINI_API_KEY;
     
     if (geminiApiKey) {
-      const response = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${geminiApiKey}`, {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({
-          contents: [{
-            parts: [{
-              text: prompt
-            }]
-          }],
-          generationConfig: {
-            maxOutputTokens: 50,
-            temperature: 0.1
-          }
-        })
-      });
+      const response = await geminiQueue.enqueue(async () => {
+        const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-lite:generateContent?key=${geminiApiKey}`, {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify({
+            contents: [{
+              parts: [{
+                text: prompt
+              }]
+            }],
+            generationConfig: {
+              maxOutputTokens: 50,
+              temperature: 0.1
+            }
+          })
+        });
+        
+        if (!res.ok) {
+          const error = new Error(`Gemini API error: ${res.status}`) as any;
+          error.status = res.status;
+          error.retryAfter = res.headers.get('retry-after') ? 
+            parseInt(res.headers.get('retry-after')!) : undefined;
+          throw error;
+        }
+        
+        return res;
+      }, 5); // Medium priority for headlines
       
-      if (!response.ok) {
-        throw new Error(`Gemini API error: ${response.status}`);
-      }
-      
-      const result = await response.json();
+      const result = await response.json() as any;
       const headline = result.candidates?.[0]?.content?.parts?.[0]?.text?.trim() || '';
       
       // Clean up any quotes, bullet points, multiple options, or extra formatting

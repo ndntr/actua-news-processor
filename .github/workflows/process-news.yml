@@ -2,7 +2,11 @@ name: Process News Feeds
 
 on:
   schedule:
-    - cron: '0 */4 * * *'
+    # Run at 6am, 10am, 2pm, 6pm, 10pm AEST/AEDT (UTC-10/UTC-11)
+    # AEST: UTC+10, so subtract 10 hours: 6am=20:00, 10am=00:00, 2pm=04:00, 6pm=08:00, 10pm=12:00 UTC
+    # AEDT: UTC+11, so subtract 11 hours: 6am=19:00, 10am=23:00, 2pm=03:00, 6pm=07:00, 10pm=11:00 UTC
+    # Using AEDT times (daylight saving) as primary
+    - cron: '0 19,23,3,7,11 * * *'
   workflow_dispatch:
 
 jobs:
@@ -41,7 +45,7 @@ jobs:
           echo "No changes detected in data files"
         else
           echo "Changes detected, committing..."
-          git commit -m "Update news data - $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+          git commit -m "Update news data - $(TZ=Australia/Sydney date '+%Y-%m-%d %H:%M:%S %Z')"
           git push
           echo "Data committed and pushed successfully"
         fi

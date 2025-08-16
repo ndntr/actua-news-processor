@@ -42,7 +42,8 @@ export async function fetchRSSFeed(source: FeedSource): Promise<NewsItem[]> {
           title: cleanText(item.title),
           standfirst: cleanText(item.description || item.summary || ''),
           content: cleanText(item['content:encoded'] || item.description || ''),
-          feed_position: i // Track position in RSS feed for popularity scoring
+          feed_position: i, // Track position in RSS feed for popularity scoring
+          image_url: extractImageFromItem(item)
         });
       }
     }
@@ -63,7 +64,8 @@ export async function fetchRSSFeed(source: FeedSource): Promise<NewsItem[]> {
           title: cleanText(item.title),
           standfirst: cleanText(item.summary || ''),
           content: cleanText(item.content || item.summary || ''),
-          feed_position: i // Track position in Atom feed for popularity scoring
+          feed_position: i, // Track position in Atom feed for popularity scoring
+          image_url: extractImageFromItem(item)
         });
       }
     }
@@ -101,6 +103,51 @@ export async function fetchRSSFeed(source: FeedSource): Promise<NewsItem[]> {
     console.error(`Error fetching ${source.name}:`, error);
     return [];
   }
+}
+
+function extractImageFromItem(item: any): string | undefined {
+  // 1. Check for media:thumbnail (Media RSS namespace)
+  if (item['media:thumbnail']) {
+    const thumbnail = item['media:thumbnail'];
+    if (thumbnail['@_url']) return thumbnail['@_url'];
+    if (Array.isArray(thumbnail) && thumbnail[0]?.['@_url']) {
+      return thumbnail[0]['@_url'];
+    }
+  }
+  
+  // 2. Check for media:content with image type
+  if (item['media:content']) {
+    const content = item['media:content'];
+    if (content['@_url'] && content['@_type']?.startsWith('image/')) {
+      return content['@_url'];
+    }
+    if (Array.isArray(content)) {
+      const imageContent = content.find(c => c['@_type']?.startsWith('image/'));
+      if (imageContent?.['@_url']) return imageContent['@_url'];
+    }
+  }
+  
+  // 3. Check for enclosure with image type
+  if (item.enclosure) {
+    const enclosure = item.enclosure;
+    if (enclosure['@_url'] && enclosure['@_type']?.startsWith('image/')) {
+      return enclosure['@_url'];
+    }
+    if (Array.isArray(enclosure)) {
+      const imageEnclosure = enclosure.find(e => e['@_type']?.startsWith('image/'));
+      if (imageEnclosure?.['@_url']) return imageEnclosure['@_url'];
+    }
+  }
+  
+  // 4. Extract first image from description HTML
+  const description = item.description || item.summary || item['content:encoded'] || '';
+  const descText = typeof description === 'string' ? description : description['#text'] || '';
+  const imgMatch = descText.match(/<img[^>]+src=["']([^"']+)["']/i);
+  if (imgMatch && imgMatch[1]) {
+    return imgMatch[1];
+  }
+  
+  return undefined;
 }
 
 function cleanText(text: any): string {
