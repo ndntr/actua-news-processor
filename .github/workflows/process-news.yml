@@ -49,3 +49,13 @@ jobs:
           git push
           echo "Data committed and pushed successfully"
         fi
+    
+    - name: Notify Cloudflare Worker of update
+      if: success()
+      run: |
+        echo "Notifying Cloudflare Worker of update..."
+        curl -X POST https://aninda.org/news-api/webhook/update \
+          -H "X-NEWS-TOKEN: 44e142b781f5af9797fa493f8dfe7f24d22e137241910accc221f72c5be1070e" \
+          -H "Content-Type: application/json" \
+          -d '{"source": "github-actions", "timestamp": "'$(date -u +%Y-%m-%dT%H:%M:%SZ)'"}'
+        echo "Notification sent"
