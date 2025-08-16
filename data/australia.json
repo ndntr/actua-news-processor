@@ -1,237 +1,475 @@
 {
-  "updated_at": "2025-08-15T20:24:42.169Z",
+  "updated_at": "2025-08-16T03:06:56.725Z",
   "clusters": [
     {
-      "id": "cluster_0",
-      "coverage": 2,
-      "updated_at": "Sat, 16 Aug 2025 06:22:39 +1000",
-      "title": "Trump, Putin take no questions at start of Alaska summit",
-      "neutral_headline": "Trump Putin take no questions at Alaska summit start",
+      "id": "cluster_5",
+      "coverage": 3,
+      "updated_at": "Sat, 16 Aug 2025 02:24:03 +0000",
+      "title": "Key moments in Alaska: A red carpet, an abrupt end and 'no deal' over Ukraine",
+      "neutral_headline": "Trump and Putin Hold Alaska Summit, No Deal Reached",
       "bullet_summary": [
-        "Reported by The Age, ABC News Australia"
+        "Reported by ABC News Australia, The Age, ABC Just In"
       ],
       "items": [
         {
-          "source": "The Age",
-          "url": "https://www.theage.com.au/world/europe/trump-putin-take-no-questions-at-start-of-alaska-summit-20250816-p5mnej.html",
-          "published_at": "Sat, 16 Aug 2025 06:22:39 +1000",
-          "title": "Trump, Putin take no questions at start of Alaska summit",
-          "standfirst": "Just before the doors to the meeting were closed, journalists sprayed questions to both world leaders.",
-          "content": "Just before the doors to the meeting were closed, journalists sprayed questions to both world leaders.",
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-08-16/trump-putin-summit-key-takeaways-from-alaska/105657362",
+          "published_at": "Sat, 16 Aug 2025 02:24:03 +0000",
+          "title": "Key moments in Alaska: A red carpet, an abrupt end and 'no deal' over Ukraine",
+          "standfirst": "Over the course of about five hours, Donald Trump and Vladimir Putin met for a summit on the future of Russia's war in Ukraine. These were the key moments.",
+          "content": "Over the course of about five hours, Donald Trump and Vladimir Putin met for a summit on the future of Russia's war in Ukraine. These were the key moments.",
           "feed_position": 0
         },
         {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-08-16/trump-putin-meeting-in-alaska-set-to-begin/105656936",
-          "published_at": "Fri, 15 Aug 2025 17:41:26 +0000",
-          "title": "Live: Trump and Putin take no questions as talks on war in Ukraine begin",
-          "standfirst": "Donald Trump and Vladimir Putin are in Anchorage, Alaska, meeting at a summit to discuss a possible path to peace in Ukraine. Follow live.",
-          "content": "Donald Trump and Vladimir Putin are in Anchorage, Alaska, meeting at a summit to discuss a possible path to peace in Ukraine. Follow live.",
-          "feed_position": 0
-        }
-      ],
-      "popularity_score": 2019.965786388889,
-      "ai_summary": "• Trump and Putin met in Alaska\n• The meeting was a summit to discuss the Ukraine war\n• Journalists asked questions before the meeting began\n• No questions were answered at the start of the meeting\n• The meeting was highly anticipated"
-    },
-    {
-      "id": "cluster_2",
-      "coverage": 2,
-      "updated_at": "Sat, 16 Aug 2025 06:10:48 +1000",
-      "title": "Trump-Putin meeting LIVE updates: US, Russian Presidents meet in Alaska to try striking deal to end Russia-Ukraine war",
-      "neutral_headline": "Trump Putin meet in Alaska to discuss Ukraine war",
-      "bullet_summary": [
-        "Reported by The Age, ABC Just In"
-      ],
-      "items": [
-        {
           "source": "The Age",
-          "url": "https://www.theage.com.au/world/north-america/trump-putin-meeting-live-updates-us-russian-presidents-meet-in-alaska-to-try-striking-deal-to-end-russia-ukraine-war-20250815-p5mn9y.html",
-          "published_at": "Sat, 16 Aug 2025 06:10:48 +1000",
-          "title": "Trump-Putin meeting LIVE updates: US, Russian Presidents meet in Alaska to try striking deal to end Russia-Ukraine war",
-          "standfirst": "The face-to-face high-stakes summit, which excludes Volodymyr Zelensky, could reshape the war in Ukraine and relations between Moscow and Washington. Follow our live coverage.",
-          "content": "The face-to-face high-stakes summit, which excludes Volodymyr Zelensky, could reshape the war in Ukraine and relations between Moscow and Washington. Follow our live coverage.",
-          "feed_position": 1
+          "url": "https://www.theage.com.au/world/no-deal-between-putin-and-trump-in-ukraine-negotiations-20250816-p5mnf4.html",
+          "published_at": "Sat, 16 Aug 2025 09:22:58 +1000",
+          "title": "No deal between Putin and Trump in Ukraine negotiations",
+          "standfirst": "Vladimir Putin and Donald Trump have spoken positively of negotiations in Alaska that have not resulted in a deal being made.",
+          "content": "Vladimir Putin and Donald Trump have spoken positively of negotiations in Alaska that have not resulted in a deal being made.",
+          "feed_position": 11,
+          "image_url": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/db32c9f50e43ac7aaf505196b52c160711a31944"
         },
         {
           "source": "ABC Just In",
-          "url": "https://www.abc.net.au/news/2025-08-16/donald-trump-and-vladimir-putin-head-to-alaska-for-summit/105661426",
-          "published_at": "Fri, 15 Aug 2025 17:27:21 +0000",
-          "title": "Trump, Putin head to Alaska for 'high stakes' meeting as world watches",
-          "standfirst": "The US President and his Russian counterpart are due to hold the first in-person talks between leaders of both countries since 2021, and there's one main item on the agenda: Ukraine.",
-          "content": "The US President and his Russian counterpart are due to hold the first in-person talks between leaders of both countries since 2021, and there's one main item on the agenda: Ukraine.",
-          "feed_position": 11
+          "url": "https://www.abc.net.au/news/2025-08-16/donald-trump-and-vladimir-putin-speak-after-ukraine-summit/105656948",
+          "published_at": "Fri, 15 Aug 2025 23:22:53 +0000",
+          "title": "'We haven't quite got there': Trump, Putin wrap Alaska talks",
+          "standfirst": "Donald Trump and Vladimir Putin speak for almost three hours at a face-to-face meeting in Alaska, but fail to reach the ceasefire deal the US president had been hoping for.",
+          "content": "Donald Trump and Vladimir Putin speak for almost three hours at a face-to-face meeting in Alaska, but fail to reach the ceasefire deal the US president had been hoping for.",
+          "feed_position": 21
+        },
+        {
+          "source": "The Age",
+          "url": "https://www.theage.com.au/world/trump-and-putin-shake-hands-warmly-in-alaska-20250816-p5mner.html",
+          "published_at": "Sat, 16 Aug 2025 07:12:39 +1000",
+          "title": "Trump and Putin shake hands warmly in Alaska",
+          "standfirst": "President Donald Trump arrived in Alaska for a pivotal summit with Russia’s Vladimir Putin that could reshape the war in Ukraine.",
+          "content": "President Donald Trump arrived in Alaska for a pivotal summit with Russia’s Vladimir Putin that could reshape the war in Ukraine.",
+          "feed_position": 18,
+          "image_url": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/03179c0f356358be13eda8f9663ae81d91118a27"
         }
       ],
-      "popularity_score": 2019.7682863888888,
-      "ai_summary": "• Trump and Putin held a summit in Alaska\n• The summit aimed to find a solution to the Ukraine war\n• Zelensky was not included in the meeting\n• The meeting could reshape the war and US-Russia relations\n• The meeting was a high-stakes event"
+      "featured_image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/db32c9f50e43ac7aaf505196b52c160711a31944",
+      "popularity_score": 3019.2850763888887,
+      "ai_summary": "• Donald Trump and Vladimir Putin met in Alaska.\n• They spoke for almost three hours.\n• No ceasefire deal was reached.\n• The summit could reshape the war in Ukraine.\n• Negotiations were described as positive."
+    },
+    {
+      "id": "cluster_9",
+      "coverage": 3,
+      "updated_at": "Sat, 16 Aug 2025 02:06:59 GMT",
+      "title": "South-east Queensland shaken by 5.6-magnitude earthquake",
+      "neutral_headline": "Earthquake Shakes South-East Queensland, Australia",
+      "bullet_summary": [
+        "There was no tsunami threat from the earthquake that struck on Saturday morning, the Bureau of Meteorology said",
+        "Reported by Guardian Australia, The Age, ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "Guardian Australia",
+          "url": "https://www.theguardian.com/australia-news/2025/aug/16/south-east-queensland-shaken-by-earthquake-kilkivan-brisbane",
+          "published_at": "Sat, 16 Aug 2025 02:06:59 GMT",
+          "title": "South-east Queensland shaken by 5.6-magnitude earthquake",
+          "standfirst": "Quake occurred on Saturday morning at Kilkivan, about 170km north of BrisbaneGet our breaking news email, free app or daily news podcastSouth-east Queensland has been shaken by a 5.6-magnitude earthquake.There was no tsunami threat from the earthquake that struck on Saturday morning, the Bureau of Meteorology said. Continue reading...",
+          "content": "Quake occurred on Saturday morning at Kilkivan, about 170km north of BrisbaneGet our breaking news email, free app or daily news podcastSouth-east Queensland has been shaken by a 5.6-magnitude earthquake.There was no tsunami threat from the earthquake that struck on Saturday morning, the Bureau of Meteorology said. Continue reading...",
+          "feed_position": 0
+        },
+        {
+          "source": "The Age",
+          "url": "https://www.theage.com.au/national/queensland/tremors-felt-across-south-east-as-earthquake-strikes-north-of-brisbane-20250816-p5mnfa.html",
+          "published_at": "Sat, 16 Aug 2025 11:45:48 +1000",
+          "title": "Tremors felt across south-east as earthquake strikes north of Brisbane",
+          "standfirst": "An estimated 5.6 magnitude earthquake struck near Gympie on Saturday morning, with residents as far away as Brisbane reporting its “scary” effects.",
+          "content": "An estimated 5.6 magnitude earthquake struck near Gympie on Saturday morning, with residents as far away as Brisbane reporting its “scary” effects.",
+          "feed_position": 4,
+          "image_url": "https://static.ffx.io/images/$zoom_1.1536%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_70/t_crop_custom/q_86%2Ce_sharpen:60%2Cf_auto/ba364effd1f2f6ead037c462240624b0d1bf5577c511358586a562d17940626b"
+        },
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-08-16/qld-earthquake-murgon-sunshine-coast-risbane-geoscience-aus/105662170",
+          "published_at": "Sat, 16 Aug 2025 00:22:24 +0000",
+          "title": "Magnitude-5.6 earthquake felt from Rockhampton to Glen Innes",
+          "standfirst": "Geoscience Australia is reporting the earthquake was centred roughly 250 kilometres north of Brisbane.",
+          "content": "Geoscience Australia is reporting the earthquake was centred roughly 250 kilometres north of Brisbane.",
+          "feed_position": 1
+        }
+      ],
+      "featured_image": "https://static.ffx.io/images/$zoom_1.1536%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_70/t_crop_custom/q_86%2Ce_sharpen:60%2Cf_auto/ba364effd1f2f6ead037c462240624b0d1bf5577c511358586a562d17940626b",
+      "popularity_score": 3019.0006319444446,
+      "ai_summary": "• A 5.6-magnitude earthquake struck Queensland.\n• The quake occurred north of Brisbane.\n• Residents reported feeling tremors.\n• There was no tsunami threat.\n• The earthquake was centered near Gympie."
+    },
+    {
+      "id": "cluster_39",
+      "coverage": 3,
+      "updated_at": "Fri, 15 Aug 2025 22:33:48 +0000",
+      "title": "14yo girl allegedly stripped, whipped with phone cord and recorded by teen trio",
+      "neutral_headline": "Teen Girls Allegedly Attack and Strip 14-Year-Old in Sydney",
+      "bullet_summary": [
+        "Police said the 14-year-old victim was approached at a bus stop in Claymore about 7pm on Friday by three girls, all aged 13, and threatened at knifepoint",
+        "Reported by ABC News Australia, The Age, 9News"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-08-16/girls-arrested-after-14-year-old-stripped-beaten/105661982",
+          "published_at": "Fri, 15 Aug 2025 22:33:48 +0000",
+          "title": "14yo girl allegedly stripped, whipped with phone cord and recorded by teen trio",
+          "standfirst": "Three 13-year-old girls are set to front the Children's Court after allegedly beating, stripping and whipping a 14-year-old girl in Sydney's south-west overnight.",
+          "content": "Three 13-year-old girls are set to front the Children's Court after allegedly beating, stripping and whipping a 14-year-old girl in Sydney's south-west overnight.",
+          "feed_position": 23
+        },
+        {
+          "source": "The Age",
+          "url": "https://www.theage.com.au/national/nsw/three-teenage-girls-stripped-and-beat-girl-14-in-sydney-s-south-west-police-20250816-p5mneu.html",
+          "published_at": "Sat, 16 Aug 2025 07:57:34 +1000",
+          "title": "Three teenage girls ‘stripped’ and beat girl, 14, in Sydney’s south-west: police",
+          "standfirst": "Police said the 14-year-old victim was approached at a bus stop in Claymore about 7pm on Friday by three girls, all aged 13, and threatened at knifepoint.",
+          "content": "Police said the 14-year-old victim was approached at a bus stop in Claymore about 7pm on Friday by three girls, all aged 13, and threatened at knifepoint.",
+          "feed_position": 14,
+          "image_url": "https://static.ffx.io/images/$zoom_0.2562%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_189/t_crop_custom/q_86%2Cf_jpg/443d92630e0bdb93bd631dc33e8ba83dba329852"
+        },
+        {
+          "source": "9News",
+          "url": "https://www.9news.com.au/national/claymore-trio-of-teens-allegedly-force-14yearold-to-strip-before-beating-her-on-camera/58c9d3ee-ee14-446d-b38a-bf354b9f7e28",
+          "published_at": "Fri, 15 Aug 2025 21:09:52 +0000",
+          "title": "Trio of teens allegedly force 14-year-old to strip before beating her on camera",
+          "standfirst": "The 14-year-old was approached by three teen girls at a bus stop in Claymore, near Campbelltown, at 7pm yesterday.",
+          "content": "A Sydney teenage girl has been stripped and beaten in a shocking incident, allegedly committed by three 13-year-old girls, who police say recorded the assault.The 14-year-old girl was approached by three teen girls at a bus stop in Claymore, near Campbelltown, at 7pm yesterday.Police allege the 14-year-old was forced to the edge of Longstaff Way while being held at knifepoint by the teens.READ MORE: Woman killed, three seriously injured in two-car collision north of AdelaideThey then allegedly started to punch and kick her. The teens then allegedly forced her to take off her clothes, whipping her with a phone cord while recording her.The trip then fled, taking the girl&#x27;s top, pants, shoes and phone with them. Police say the girls were known to her.PolAir was used to search for the girls allegedly involved , with three 13-year-olds arrested in Claymore.READ MORE: Accused cold case killer bailed but case against him &#x27;not weak&#x27;Their phones were seized and the trio were taken to Campbelltown Police Station where they have been charged.One 13-year-old was charged with aggravated robbery with an offensive weapon, an offence related to forcing a child to make child abuse material and possessing child abuse material.The two others were charged with two offences, aggravated robbery with an offensive weapon, and aggravated causing a child 14 years or over to make child abuse material.All three have been refused bail and will appear in childres court today.",
+          "feed_position": 2,
+          "image_url": "https://prod.static9.net.au/fs/d18e3522-cb8b-4a66-9518-e1e2a90d1214"
+        }
+      ],
+      "featured_image": "https://static.ffx.io/images/$zoom_0.2562%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_189/t_crop_custom/q_86%2Cf_jpg/443d92630e0bdb93bd631dc33e8ba83dba329852",
+      "popularity_score": 3015.447576388889,
+      "ai_summary": "• Three teenage girls are facing court.\n• They allegedly beat and stripped a 14-year-old.\n• The incident occurred in Sydney's south-west.\n• The victim was approached at a bus stop.\n• The girls are all aged thirteen."
+    },
+    {
+      "id": "cluster_8",
+      "coverage": 2,
+      "updated_at": "Sat, 16 Aug 2025 02:07:59 +0000",
+      "title": "Breaking: Former Australian cricket captain Bob Simpson dies aged 89",
+      "neutral_headline": "Former Australian Cricket Captain Bob Simpson Dies",
+      "bullet_summary": [
+        "Reported by ABC News Australia, The Age"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-08-16/former-australian-cricket-captain-bob-simpson-dies-aged-89/105662264",
+          "published_at": "Sat, 16 Aug 2025 02:07:59 +0000",
+          "title": "Breaking: Former Australian cricket captain Bob Simpson dies aged 89",
+          "standfirst": "Australian cricket is mourning one of the country's greatest figures in the sport — former Test batsman, captain and coach Bob Simpson, who has died at the age of 89.",
+          "content": "Australian cricket is mourning one of the country's greatest figures in the sport — former Test batsman, captain and coach Bob Simpson, who has died at the age of 89.",
+          "feed_position": 2
+        },
+        {
+          "source": "The Age",
+          "url": "https://www.theage.com.au/sport/cricket/former-australian-cricket-captain-and-coach-bob-simpson-dies-aged-89-20250816-p5mnfe.html",
+          "published_at": "Sat, 16 Aug 2025 10:56:21 +1000",
+          "title": "Former Australian cricket captain and coach Bob Simpson dies, aged 89",
+          "standfirst": "Simpson was a giant figure in Australian cricket for more than four decades.",
+          "content": "Simpson was a giant figure in Australian cricket for more than four decades.",
+          "feed_position": 8,
+          "image_url": "https://static.ffx.io/images/$zoom_0.5771117166212534%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_9/t_crop_custom/q_86%2Cf_jpg/92ee3da365a474c1692b322db5537d2691a8610e"
+        }
+      ],
+      "featured_image": "https://static.ffx.io/images/$zoom_0.5771117166212534%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_9/t_crop_custom/q_86%2Cf_jpg/92ee3da365a474c1692b322db5537d2691a8610e",
+      "popularity_score": 2019.017298611111,
+      "ai_summary": "• Bob Simpson, former cricket captain, has died.\n• He was 89 years old.\n• Simpson was a Test batsman, captain, and coach.\n• He was a giant figure in Australian cricket.\n• Australian cricket is mourning his death."
+    },
+    {
+      "id": "cluster_28",
+      "coverage": 2,
+      "updated_at": "Sat, 16 Aug 2025 00:09:33 +0000",
+      "title": "Liverpool wins dramatic Premier League opener soured by racist abuse",
+      "neutral_headline": "Liverpool Wins Premier League Opener Amid Racism Claim",
+      "bullet_summary": [
+        "Reported by ABC Just In, The Age"
+      ],
+      "items": [
+        {
+          "source": "ABC Just In",
+          "url": "https://www.abc.net.au/news/2025-08-16/dramatic-liverpool-win-premier-league-opener-soured-racist-abuse/105662030",
+          "published_at": "Sat, 16 Aug 2025 00:09:33 +0000",
+          "title": "Liverpool wins dramatic Premier League opener soured by racist abuse",
+          "standfirst": "Liverpool produces a dramatic comeback win to start its Premier League title defence in a game soured by racist abuse aimed at Bournemouth player Antoine Semenyo, as Anfield pays an emotional tribute to the late Diogo Jota.",
+          "content": "Liverpool produces a dramatic comeback win to start its Premier League title defence in a game soured by racist abuse aimed at Bournemouth player Antoine Semenyo, as Anfield pays an emotional tribute to the late Diogo Jota.",
+          "feed_position": 16
+        },
+        {
+          "source": "The Age",
+          "url": "https://www.theage.com.au/sport/soccer/epl-2025-live-updates-liverpool-fc-take-on-bournemouth-in-highly-anticipated-english-premier-league-season-opener-20250815-p5mn8q.html",
+          "published_at": "Sat, 16 Aug 2025 07:28:48 +1000",
+          "title": "Late goals, Jota tributes and racism claim as Liverpool win English Premier League opener",
+          "standfirst": "The reigning champions were pushed hard by Bournemouth but Chiesa and Salah stepped up to seal a 4-2 win two months after the shock death of teammate Diogo Jota.",
+          "content": "The reigning champions were pushed hard by Bournemouth but Chiesa and Salah stepped up to seal a 4-2 win two months after the shock death of teammate Diogo Jota.",
+          "feed_position": 16,
+          "image_url": "https://static.ffx.io/images/$zoom_0.27406832298136646%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/3101a715c89a922551e37757773701cd5fb59ccd"
+        }
+      ],
+      "featured_image": "https://static.ffx.io/images/$zoom_0.27406832298136646%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/3101a715c89a922551e37757773701cd5fb59ccd",
+      "popularity_score": 2017.0434097222221,
+      "ai_summary": "• Liverpool won its Premier League opener.\n• The game was soured by racist abuse.\n• The abuse was aimed at a Bournemouth player.\n• Liverpool produced a dramatic comeback win.\n• Anfield paid tribute to the late Diogo Jota."
     },
     {
       "id": "cluster_1",
       "coverage": 1,
-      "updated_at": "Fri, 15 Aug 2025 20:15:00 +0000",
-      "title": "Preparation saves skiers who spent night in blizzard after gear failure",
-      "neutral_headline": "Preparation saves skiers stranded in blizzard",
+      "updated_at": "Sat, 16 Aug 2025 02:55:00 +0000",
+      "title": "Little plane with big history returns home to honour pioneering pilot",
+      "neutral_headline": "Historic Plane Returns to Honor Pioneering Pilot",
       "bullet_summary": [
         "Reported by ABC Just In"
       ],
       "items": [
         {
           "source": "ABC Just In",
-          "url": "https://www.abc.net.au/news/2025-08-16/skiers-rescue-bogong-high-plains-bizzard-gear-failure/105562832",
-          "published_at": "Fri, 15 Aug 2025 20:15:00 +0000",
-          "title": "Preparation saves skiers who spent night in blizzard after gear failure",
-          "standfirst": "Two cross-country skiers who were forced to spend a night in a blizzard following equipment failure warn other adventurers to be prepared for anything.",
-          "content": "Two cross-country skiers who were forced to spend a night in a blizzard following equipment failure warn other adventurers to be prepared for anything.",
+          "url": "https://www.abc.net.au/news/2025-08-16/robin-miller-sugar-bird-lady-plane-returns-to-broome/105658268",
+          "published_at": "Sat, 16 Aug 2025 02:55:00 +0000",
+          "title": "Little plane with big history returns home to honour pioneering pilot",
+          "standfirst": "A tiny plane once used to deliver medical care across the Western Australian outback has returned to Broome for the first time in decades to honour its original pilot Robin Miller.",
+          "content": "A tiny plane once used to deliver medical care across the Western Australian outback has returned to Broome for the first time in decades to honour its original pilot Robin Miller.",
           "feed_position": 0
         }
       ],
-      "popularity_score": 352.8382863888889,
-      "ai_summary": "• Two skiers spent a night in a blizzard\n• Their equipment failed\n• They were prepared for the situation\n• They survived the night\n• They warned others to be prepared"
+      "popularity_score": 352.80090972222223,
+      "ai_summary": "• A small plane returned to Broome.\n• The plane delivered medical care in the outback.\n• It is honoring its original pilot, Robin Miller.\n• The plane is returning for the first time in decades.\n• The plane has a big history."
+    },
+    {
+      "id": "cluster_50",
+      "coverage": 1,
+      "updated_at": "Fri, 15 Aug 2025 21:12:31 +0000",
+      "title": "La Niña watch issued as eastern Australia braces for more rain, snow",
+      "neutral_headline": "La Niña Watch Issued for Eastern Australia",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-08-16/nsw-national-weather-wrap/105660322",
+          "published_at": "Fri, 15 Aug 2025 21:12:31 +0000",
+          "title": "La Niña watch issued as eastern Australia braces for more rain, snow",
+          "standfirst": "This weekend will bring some of the coldest weather of the season, as a two-pronged pulse of polar air sweeps well north.",
+          "content": "This weekend will bring some of the coldest weather of the season, as a two-pronged pulse of polar air sweeps well north.",
+          "feed_position": 3
+        }
+      ],
+      "popularity_score": 317.09285416666665,
+      "ai_summary": "• A La Niña watch has been issued.\n• Eastern Australia is bracing for more rain.\n• Some of the coldest weather is expected.\n• A pulse of polar air is sweeping north.\n• Snow is also expected."
     },
     {
       "id": "cluster_3",
       "coverage": 1,
-      "updated_at": "Fri, 15 Aug 2025 20:00:00 +0000",
-      "title": "Homelessness rises as people move to regions assuming prices still low",
-      "neutral_headline": "Homelessness rises in regions with assumed low prices",
-      "bullet_summary": [
-        "Reported by ABC Just In"
-      ],
-      "items": [
-        {
-          "source": "ABC Just In",
-          "url": "https://www.abc.net.au/news/2025-08-16/regional-sa-house-prices-rise-faster-than-incomes/105643330",
-          "published_at": "Fri, 15 Aug 2025 20:00:00 +0000",
-          "title": "Homelessness rises as people move to regions assuming prices still low",
-          "standfirst": "Danielle Malseed moved to Mount Gambier thinking housing would be cheap and easy to find, as it had been in the past, but she ended up sleeping on a floor.",
-          "content": "Danielle Malseed moved to Mount Gambier thinking housing would be cheap and easy to find, as it had been in the past, but she ended up sleeping on a floor.",
-          "feed_position": 1
-        }
-      ],
-      "popularity_score": 342.5882863888889,
-      "ai_summary": "• Homelessness is increasing in certain regions\n• People are moving to areas assuming low housing costs\n• Housing costs are higher than expected\n• One woman ended up sleeping on a floor\n• The situation highlights housing affordability issues"
-    },
-    {
-      "id": "cluster_24",
-      "coverage": 1,
-      "updated_at": "Fri, 15 Aug 2025 19:00:00 +0000",
-      "title": "World leaders rightly anxious about what Donald Trump and Vladimir Putin might do",
-      "neutral_headline": "World leaders anxious about Trump Putin meeting",
+      "updated_at": "Sat, 16 Aug 2025 02:33:07 +0000",
+      "title": "As ASX and property prices boom, investors bet on central bank backup",
+      "neutral_headline": "Investors Bet on Central Bank Support in Market",
       "bullet_summary": [
         "Reported by ABC News Australia"
       ],
       "items": [
         {
           "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-08-16/donald-trump-vladimir-putin-alaska-ukraine/105637696",
-          "published_at": "Fri, 15 Aug 2025 19:00:00 +0000",
-          "title": "World leaders rightly anxious about what Donald Trump and Vladimir Putin might do",
-          "standfirst": "World leaders are rightly anxious about just what Donald Trump might agree to, about the future of another sovereign country, when left in a room with Vladimir Putin.",
-          "content": "World leaders are rightly anxious about just what Donald Trump might agree to, about the future of another sovereign country, when left in a room with Vladimir Putin.",
-          "feed_position": 1
+          "url": "https://www.abc.net.au/news/2025-08-16/rba-monetary-policy-assets-and-property-markets-analysis/105649570",
+          "published_at": "Sat, 16 Aug 2025 02:33:07 +0000",
+          "title": "As ASX and property prices boom, investors bet on central bank backup",
+          "standfirst": "With the Reserve Bank in their corner promising to ensure market stability, are investors playing with the very concept of risk?",
+          "content": "With the Reserve Bank in their corner promising to ensure market stability, are investors playing with the very concept of risk?",
+          "feed_position": 4
         }
       ],
-      "popularity_score": 341.5882863888889,
-      "ai_summary": "• World leaders are concerned about the Trump-Putin meeting\n• Concerns exist about potential agreements\n• Concerns exist about the future of Ukraine\n• The meeting is considered high-stakes\n• The meeting excludes Ukrainian leadership"
+      "popularity_score": 312.4361875,
+      "ai_summary": "• Investors are betting on central bank backup.\n• ASX and property prices are booming.\n• The Reserve Bank promises market stability.\n• Investors may be playing with risk.\n• The Reserve Bank is in their corner."
     },
     {
       "id": "cluster_4",
       "coverage": 1,
-      "updated_at": "Fri, 15 Aug 2025 20:00:00 +0000",
-      "title": "Michel Gondry's new film was created to keep his daughter close",
-      "neutral_headline": "Gondry creates new film to stay close to daughter",
+      "updated_at": "Sat, 16 Aug 2025 02:30:17 +0000",
+      "title": "Live: Suns and Giants face off in crucial AFL finals clash",
+      "neutral_headline": "Suns and Giants Face Off in Crucial AFL Finals Clash",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-08-16/afl-live-blog-suns-gws-carlton-port-hawks-demons-crows-magpies/105659442",
+          "published_at": "Sat, 16 Aug 2025 02:30:17 +0000",
+          "title": "Live: Suns and Giants face off in crucial AFL finals clash",
+          "standfirst": "The Suns and Giants are facing off in a crucial clash at Carrara, with both top four and finals on the line, in what is a massive day of AFL and AFLW action. Follow live.",
+          "content": "The Suns and Giants are facing off in a crucial clash at Carrara, with both top four and finals on the line, in what is a massive day of AFL and AFLW action. Follow live.",
+          "feed_position": 6
+        }
+      ],
+      "popularity_score": 307.3889652777778,
+      "ai_summary": "• The Suns and Giants are facing off.\n• The clash is in a crucial AFL finals game.\n• Both teams are vying for top four spots.\n• Finals are also on the line.\n• It is a massive day of AFL action."
+    },
+    {
+      "id": "cluster_54",
+      "coverage": 1,
+      "updated_at": "Fri, 15 Aug 2025 20:26:11 +0000",
+      "title": "Residents of historic village refuse to pay rent for crumbling homes",
+      "neutral_headline": "Residents Refuse Rent for Crumbling Homes",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-08-16/cummeragunja-elders-demand-action-village-in-disrepair/105481936",
+          "published_at": "Fri, 15 Aug 2025 20:26:11 +0000",
+          "title": "Residents of historic village refuse to pay rent for crumbling homes",
+          "standfirst": "In Cummeragunja, families live in decaying homes while children play on broken equipment. Frustrated by years of inaction, residents and elders are demanding repairs, accountability and recognition for a community deeply tied to Aboriginal history and identity.",
+          "content": "In Cummeragunja, families live in decaying homes while children play on broken equipment. Frustrated by years of inaction, residents and elders are demanding repairs, accountability and recognition for a community deeply tied to Aboriginal history and identity.",
+          "feed_position": 5
+        }
+      ],
+      "popularity_score": 296.3206319444445,
+      "ai_summary": "• Residents refuse to pay rent.\n• They live in decaying homes.\n• Children play on broken equipment.\n• Residents demand repairs and accountability.\n• The community is tied to Aboriginal history."
+    },
+    {
+      "id": "cluster_12",
+      "coverage": 1,
+      "updated_at": "Sat, 16 Aug 2025 01:59:51 +0000",
+      "title": "Small home shortage leaves hundreds homeless in fast-growing WA city",
+      "neutral_headline": "Albany, WA faces housing shortage amid population growth",
       "bullet_summary": [
         "Reported by ABC Just In"
       ],
       "items": [
         {
           "source": "ABC Just In",
-          "url": "https://www.abc.net.au/news/2025-08-16/michel-gondry-maya-give-me-a-title-interview/105640924",
-          "published_at": "Fri, 15 Aug 2025 20:00:00 +0000",
-          "title": "Michel Gondry's new film was created to keep his daughter close",
-          "standfirst": "The French director is best known for his Oscar-winning film Eternal Sunshine of the Spotless Mind. In his newest project, he team ups with his daughter, Maya.",
-          "content": "The French director is best known for his Oscar-winning film Eternal Sunshine of the Spotless Mind. In his newest project, he team ups with his daughter, Maya.",
-          "feed_position": 2
+          "url": "https://www.abc.net.au/news/2025-08-16/albany-homelessness-crisis-growing-smaller-houses-needed/105647560",
+          "published_at": "Sat, 16 Aug 2025 01:59:51 +0000",
+          "title": "Small home shortage leaves hundreds homeless in fast-growing WA city",
+          "standfirst": "Albany's population is skyrocketing as sea-changers flock to the region, but a crisis is brewing away from its multi-million-dollar coastline.",
+          "content": "Albany's population is skyrocketing as sea-changers flock to the region, but a crisis is brewing away from its multi-million-dollar coastline.",
+          "feed_position": 6
         }
       ],
-      "popularity_score": 332.5882863888889,
-      "ai_summary": "• Michel Gondry made a new film\n• He collaborated with his daughter Maya\n• The film is a new project\n• Gondry is known for Eternal Sunshine\n• The film aims to strengthen their bond"
+      "popularity_score": 291.88174305555555,
+      "ai_summary": "• Albany's population is rapidly increasing due to an influx of new residents.\n• A housing crisis is developing away from the city's expensive coastal areas.\n• Hundreds of people are experiencing homelessness in the growing city.\n• The shortage is a result of the city's rapid population growth.\n• The situation is a concern for the local government and residents."
+    },
+    {
+      "id": "cluster_13",
+      "coverage": 1,
+      "updated_at": "Sat, 16 Aug 2025 01:43:22 +0000",
+      "title": "Mining town locals frustrated over approval wait after new minister's 'frank' comments",
+      "neutral_headline": "Mining town seeks project approval after minister's comments",
+      "bullet_summary": [
+        "Reported by ABC Just In"
+      ],
+      "items": [
+        {
+          "source": "ABC Just In",
+          "url": "https://www.abc.net.au/news/2025-08-16/locals-and-conservationists-call-for-tailings-dam-decision/105660790",
+          "published_at": "Sat, 16 Aug 2025 01:43:22 +0000",
+          "title": "Mining town locals frustrated over approval wait after new minister's 'frank' comments",
+          "standfirst": "Following on from a recent Commonwealth decision to allow salmon farming in Macquarie Harbour, a remote mining town is asking for a hurry up on a decision about a controversial project in a Tasmanian rainforest.",
+          "content": "Following on from a recent Commonwealth decision to allow salmon farming in Macquarie Harbour, a remote mining town is asking for a hurry up on a decision about a controversial project in a Tasmanian rainforest.",
+          "feed_position": 7
+        }
+      ],
+      "popularity_score": 281.6070208333333,
+      "ai_summary": "• A remote mining town is awaiting a decision on a controversial project.\n• The town is seeking a quick approval following recent government decisions.\n• The Commonwealth government approved salmon farming in Macquarie Harbour.\n• The town is located in a Tasmanian rainforest region.\n• The project's approval has been delayed, causing frustration among locals."
+    },
+    {
+      "id": "cluster_30",
+      "coverage": 1,
+      "updated_at": "Fri, 15 Aug 2025 23:59:59 +0000",
+      "title": "After his wife died, Graeme Davidson went home to burn documents, court records allege",
+      "neutral_headline": "Court alleges man burned documents after wife's death",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-08-16/qld-court-documents-murder-charge-graeme-davidson/105661132",
+          "published_at": "Fri, 15 Aug 2025 23:59:59 +0000",
+          "title": "After his wife died, Graeme Davidson went home to burn documents, court records allege",
+          "standfirst": "Court documents detail the movements of Graeme Davidson in the days after his wife Jacqueline died in 2020.",
+          "content": "Court documents detail the movements of Graeme Davidson in the days after his wife Jacqueline died in 2020.",
+          "feed_position": 7
+        }
+      ],
+      "popularity_score": 279.88396527777775,
+      "ai_summary": "• Court records detail Graeme Davidson's actions after his wife's death.\n• Jacqueline Davidson died in 2020, according to court documents.\n• Graeme Davidson reportedly burned documents after his wife's passing.\n• The court documents outline his movements in the days following.\n• The case is under investigation by the authorities."
+    },
+    {
+      "id": "cluster_15",
+      "coverage": 1,
+      "updated_at": "Sat, 16 Aug 2025 01:12:18 +0000",
+      "title": "Influencer promotion of glucose monitors sparks concern from diabetic",
+      "neutral_headline": "Social media glucose monitor promotion raises concerns",
+      "bullet_summary": [
+        "Reported by ABC Just In"
+      ],
+      "items": [
+        {
+          "source": "ABC Just In",
+          "url": "https://www.abc.net.au/news/2025-08-16/continuous-glucose-monitors-used-non-diabetics/105619630",
+          "published_at": "Sat, 16 Aug 2025 01:12:18 +0000",
+          "title": "Influencer promotion of glucose monitors sparks concern from diabetic",
+          "standfirst": "An explosion in social media promotion of glucose monitors has a diabetic concerned the wellness trend could put much-needed equipment at risk.",
+          "content": "An explosion in social media promotion of glucose monitors has a diabetic concerned the wellness trend could put much-needed equipment at risk.",
+          "feed_position": 8
+        }
+      ],
+      "popularity_score": 271.0892430555556,
+      "ai_summary": "• Social media influencers are promoting glucose monitors.\n• A diabetic individual expresses concern about the trend.\n• The promotion could potentially jeopardize access to necessary equipment.\n• The trend is gaining popularity in the wellness community.\n• The diabetic is worried about the impact on essential medical devices."
+    },
+    {
+      "id": "cluster_43",
+      "coverage": 1,
+      "updated_at": "Fri, 15 Aug 2025 22:06:54 +0000",
+      "title": "Just 13pc of rooftop solar capacity realised, green energy advocates say",
+      "neutral_headline": "Advocates urge WA to boost rooftop solar capacity",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-08-16/wa-government-rooftop-solar-investment-push/105649258",
+          "published_at": "Fri, 15 Aug 2025 22:06:54 +0000",
+          "title": "Just 13pc of rooftop solar capacity realised, green energy advocates say",
+          "standfirst": "Renewable energy advocates are urging the West Australian government to throw more of its weight behind rooftop solar and batteries, saying the state is running out of time to replace coal with large-scale green power projects.",
+          "content": "Renewable energy advocates are urging the West Australian government to throw more of its weight behind rooftop solar and batteries, saying the state is running out of time to replace coal with large-scale green power projects.",
+          "feed_position": 8
+        }
+      ],
+      "popularity_score": 267.99924305555555,
+      "ai_summary": "• Renewable energy advocates are pushing for more rooftop solar.\n• They believe the state is running out of time to replace coal.\n• Only 13% of rooftop solar capacity has been realized.\n• Advocates want more government support for solar and batteries.\n• They are advocating for large-scale green power projects."
     },
     {
       "id": "cluster_17",
       "coverage": 1,
-      "updated_at": "Fri, 15 Aug 2025 19:27:46 +0000",
-      "title": "China claims its foiled Australia spies on its shores in stinging rebuke",
-      "neutral_headline": "China rebukes Australia over alleged spying claims",
+      "updated_at": "Sat, 16 Aug 2025 01:10:25 +0000",
+      "title": "Pedestrian dies after being hit by car in Perth's north-west",
+      "neutral_headline": "Pedestrian dies after being struck by car in Perth",
       "bullet_summary": [
-        "Reported by ABC News Australia"
+        "Reported by ABC Just In"
       ],
       "items": [
         {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-08-16/china-accuses-australia-of-lying-about-spy-threats/105661402",
-          "published_at": "Fri, 15 Aug 2025 19:27:46 +0000",
-          "title": "China claims its foiled Australia spies on its shores in stinging rebuke",
-          "standfirst": "The extensive statement from China's state security ministry accuses Australian leaders of deliberately pushing a false story about the threat Beijing poses to the country.",
-          "content": "The extensive statement from China's state security ministry accuses Australian leaders of deliberately pushing a false story about the threat Beijing poses to the country.",
-          "feed_position": 2
+          "source": "ABC Just In",
+          "url": "https://www.abc.net.au/news/2025-08-16/pedestrian-dies-after-being-hit-by-car-in-butler/105662268",
+          "published_at": "Sat, 16 Aug 2025 01:10:25 +0000",
+          "title": "Pedestrian dies after being hit by car in Perth's north-west",
+          "standfirst": "Police say emergency services received reports that a man and a vehicle were involved in a collision just before 1am on Marmion Avenue in Butler.",
+          "content": "Police say emergency services received reports that a man and a vehicle were involved in a collision just before 1am on Marmion Avenue in Butler.",
+          "feed_position": 9
         }
       ],
-      "popularity_score": 332.05106416666666,
-      "ai_summary": "• China accused Australia of spying\n• China issued a strong statement\n• The statement alleges false narratives about China\n• Australian leaders are accused of pushing false stories\n• The statement is a stinging rebuke"
+      "popularity_score": 261.0578541666667,
+      "ai_summary": "• A pedestrian was fatally hit by a vehicle in Perth's north-west.\n• Emergency services responded to the incident on Marmion Avenue.\n• The collision occurred just before 1 am in Butler.\n• Police are investigating the circumstances of the accident.\n• The victim was pronounced dead at the scene."
     },
     {
-      "id": "cluster_22",
-      "coverage": 1,
-      "updated_at": "Fri, 15 Aug 2025 19:05:20 +0000",
-      "title": "Claims of cocaine and COVID-19 rule-breaking at Outback Wrangler trial",
-      "neutral_headline": "Cocaine and COVID rule-breaking claims at Outback Wrangler trial",
-      "bullet_summary": [
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-08-16/nt-matt-wright-trial-hears-claims-about-cocaine-and-anti-vaxxers/105654584",
-          "published_at": "Fri, 15 Aug 2025 19:05:20 +0000",
-          "title": "Claims of cocaine and COVID-19 rule-breaking at Outback Wrangler trial",
-          "standfirst": "A key witness faces allegations that he was a cocaine dealer among explosive claims aired in the trial of Netflix star and celebrity crocodile wrangler Matt Wright.",
-          "content": "A key witness faces allegations that he was a cocaine dealer among explosive claims aired in the trial of Netflix star and celebrity crocodile wrangler Matt Wright.",
-          "feed_position": 4
-        }
-      ],
-      "popularity_score": 321.6771752777778,
-      "ai_summary": "• Matt Wright's trial includes explosive claims\n• Claims involve cocaine dealing\n• Claims involve COVID-19 rule-breaking\n• A key witness is involved\n• The claims are part of the trial"
-    },
-    {
-      "id": "cluster_25",
-      "coverage": 1,
-      "updated_at": "Fri, 15 Aug 2025 19:00:00 +0000",
-      "title": "Underneath the roundtable's ideas avalanche, there's room to do more than tinker",
-      "neutral_headline": "Economic summit ideas avalanche leaves room for more",
-      "bullet_summary": [
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-08-16/chalmers-productivity-economic-reform-roundtable/105657674",
-          "published_at": "Fri, 15 Aug 2025 19:00:00 +0000",
-          "title": "Underneath the roundtable's ideas avalanche, there's room to do more than tinker",
-          "standfirst": "As the roundtable nears, the list of ideas has grown longer, more ambitious and often contradictory.",
-          "content": "As the roundtable nears, the list of ideas has grown longer, more ambitious and often contradictory.",
-          "feed_position": 3
-        }
-      ],
-      "popularity_score": 321.5882863888889,
-      "ai_summary": "• An economic summit is approaching\n• Many ideas are being discussed\n• The ideas are ambitious and sometimes contradictory\n• There is potential for more action beyond tinkering\n• The list of ideas is extensive"
-    },
-    {
-      "id": "cluster_19",
+      "id": "cluster_63",
       "coverage": 1,
       "updated_at": "Fri, 15 Aug 2025 19:12:36 +0000",
-      "title": "We're in the thick of a creatine craze but do you know what you're really taking?",
-      "neutral_headline": "Creatine craze prompts concerns about product quality",
+      "title": "Dietitians warn creatine craze is not for everyone",
+      "neutral_headline": "Dietitians warn about creatine use in supplements",
       "bullet_summary": [
         "Reported by ABC News Australia"
       ],
@@ -240,21 +478,390 @@
           "source": "ABC News Australia",
           "url": "https://www.abc.net.au/news/2025-08-16/creatine-benefits-strength-training-women-health/105651708",
           "published_at": "Fri, 15 Aug 2025 19:12:36 +0000",
-          "title": "We're in the thick of a creatine craze but do you know what you're really taking?",
+          "title": "Dietitians warn creatine craze is not for everyone",
           "standfirst": "Health experts say we are in the midst of a creatine craze, but independent tests show some expensive gummy brands contain next to no creatine.",
           "content": "Health experts say we are in the midst of a creatine craze, but independent tests show some expensive gummy brands contain next to no creatine.",
-          "feed_position": 5
+          "feed_position": 9
         }
       ],
-      "popularity_score": 301.79828638888887,
-      "ai_summary": "• A creatine craze is underway\n• Some products lack sufficient creatine\n• Independent tests reveal low creatine content\n• Expensive gummy brands are affected\n• Health experts warn about product quality"
+      "popularity_score": 252.09424305555555,
+      "ai_summary": "• Health experts are cautioning about the creatine craze.\n• Independent tests show some gummy brands contain little creatine.\n• The experts are concerned about the widespread use of creatine.\n• The tests were conducted on expensive gummy brands.\n• Dietitians advise caution when using creatine supplements."
+    },
+    {
+      "id": "cluster_33",
+      "coverage": 1,
+      "updated_at": "Fri, 15 Aug 2025 23:27:52 +0000",
+      "title": "'We can handle anything': Uni students that fled Gaza start new lives",
+      "neutral_headline": "University students from Gaza start new lives elsewhere",
+      "bullet_summary": [
+        "Reported by ABC Just In"
+      ],
+      "items": [
+        {
+          "source": "ABC Just In",
+          "url": "https://www.abc.net.au/news/2025-08-16/new-university-opportunities-for-gazan-refugees-western-sydney/105609638",
+          "published_at": "Fri, 15 Aug 2025 23:27:52 +0000",
+          "title": "'We can handle anything': Uni students that fled Gaza start new lives",
+          "standfirst": "With 90 per cent of all schools in Gaza damaged or destroyed, these students packed up their lives and made the difficult decision to leave.",
+          "content": "With 90 per cent of all schools in Gaza damaged or destroyed, these students packed up their lives and made the difficult decision to leave.",
+          "feed_position": 19
+        }
+      ],
+      "popularity_score": 159.3486875,
+      "ai_summary": "• University students fled Gaza and are starting new lives.\n• Ninety percent of Gaza schools were damaged or destroyed.\n• The students made the difficult decision to leave their homes.\n• They are rebuilding their lives after the conflict.\n• The students are seeking safety and education elsewhere."
+    },
+    {
+      "id": "cluster_25",
+      "coverage": 1,
+      "updated_at": "Sat, 16 Aug 2025 00:35:10 +0000",
+      "title": "Thrill of the racetrack entices more women into motorsport",
+      "neutral_headline": "Motorsport attracts more women to racing",
+      "bullet_summary": [
+        "Reported by ABC Just In"
+      ],
+      "items": [
+        {
+          "source": "ABC Just In",
+          "url": "https://www.abc.net.au/news/2025-08-16/thrill-of-racing-draws-more-women-into-motorsport/105641246",
+          "published_at": "Sat, 16 Aug 2025 00:35:10 +0000",
+          "title": "Thrill of the racetrack entices more women into motorsport",
+          "standfirst": "Women are experiencing the adrenaline of racing and loving it, both behind the wheel and behind the scenes.",
+          "content": "Women are experiencing the adrenaline of racing and loving it, both behind the wheel and behind the scenes.",
+          "feed_position": 14
+        }
+      ],
+      "popularity_score": 155.47035416666665,
+      "ai_summary": "• More women are participating in motorsport activities.\n• Women are enjoying the thrill of racing, both driving and working.\n• They are involved in various roles within the sport.\n• Women are finding success and enjoyment in motorsport.\n• The sport is becoming more inclusive for women."
+    },
+    {
+      "id": "cluster_10",
+      "coverage": 1,
+      "updated_at": "Sat, 16 Aug 2025 02:04:57 +0000",
+      "title": "Anti-trans activist loses AVO appeal after 'highly intimidatory' X posts",
+      "neutral_headline": "Anti-trans activist loses appeal over social media posts",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-08-16/anti-trans-activist-kirralie-smith-loses-appeal/105662028",
+          "published_at": "Sat, 16 Aug 2025 02:04:57 +0000",
+          "title": "Anti-trans activist loses AVO appeal after 'highly intimidatory' X posts",
+          "standfirst": "An anti-transgender rights activist has lost her right to appeal an apprehended violence order taken out by a transgender woman, after \"highly intimidatory\", \"objectively harassing,\" and \"unnecessarily cruel\" X posts.",
+          "content": "An anti-transgender rights activist has lost her right to appeal an apprehended violence order taken out by a transgender woman, after \"highly intimidatory\", \"objectively harassing,\" and \"unnecessarily cruel\" X posts.",
+          "feed_position": 10
+        }
+      ],
+      "popularity_score": 151.96674305555555,
+      "ai_summary": "• An anti-transgender activist lost an appeal.\n• The appeal was regarding an apprehended violence order.\n• The order was taken out by a transgender woman.\n• The posts were deemed \"highly intimidatory\" and \"harassing\".\n• The posts were also considered \"unnecessarily cruel\"."
     },
     {
       "id": "cluster_21",
       "coverage": 1,
+      "updated_at": "Sat, 16 Aug 2025 01:02:51 +0000",
+      "title": "Outback survival makes for fun TV, but the reality is much darker",
+      "neutral_headline": "Outback survival stories fascinate audiences",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-08-16/robert-bogucki-nowhere-man-reveals-cultural-survival-obsession/105562102",
+          "published_at": "Sat, 16 Aug 2025 01:02:51 +0000",
+          "title": "Outback survival makes for fun TV, but the reality is much darker",
+          "standfirst": "From the iconic tale of Christopher McCandless, to an Alaskan's death-defying dance in the Australian desert, to extreme reality TV shows, we're obsessed with survival. So what is it about these stories that we find so fascinating?",
+          "content": "From the iconic tale of Christopher McCandless, to an Alaskan's death-defying dance in the Australian desert, to extreme reality TV shows, we're obsessed with survival. So what is it about these stories that we find so fascinating?",
+          "feed_position": 16
+        }
+      ],
+      "popularity_score": 150.93174305555556,
+      "ai_summary": "• People are fascinated by stories of survival in the outback.\n• The stories include Christopher McCandless's tale.\n• Extreme reality TV shows also contribute to the fascination.\n• The Australian desert is a common setting for these stories.\n• The stories explore the human will to survive."
+    },
+    {
+      "id": "cluster_22",
+      "coverage": 1,
+      "updated_at": "Sat, 16 Aug 2025 00:57:06 +0000",
+      "title": "How the rebranded rakali went from giant rat to a new Aussie icon",
+      "neutral_headline": "Rakali's rebranding transforms it into an icon",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/science/2025-08-16/australian-water-rat-rakali-science-week-underrated-animal-win/105648072",
+          "published_at": "Sat, 16 Aug 2025 00:57:06 +0000",
+          "title": "How the rebranded rakali went from giant rat to a new Aussie icon",
+          "standfirst": "Whether it's hunting invasive pests or rolling in a river like an otter, there's a lot to love about the rakali. And a lot of Australians love it.",
+          "content": "Whether it's hunting invasive pests or rolling in a river like an otter, there's a lot to love about the rakali. And a lot of Australians love it.",
+          "feed_position": 11
+        }
+      ],
+      "popularity_score": 150.83590972222223,
+      "ai_summary": "• The rakali has been rebranded as a new Australian icon.\n• The rakali is also known as the Australian water rat.\n• It is known for hunting invasive pests.\n• The rakali is also known for rolling in rivers.\n• Australians have grown to love the rakali."
+    },
+    {
+      "id": "cluster_23",
+      "coverage": 1,
+      "updated_at": "Sat, 16 Aug 2025 00:51:26 +0000",
+      "title": "From dune to dune, man runs 380km to beat mental health struggles",
+      "neutral_headline": "Man runs across desert to combat mental health struggles",
+      "bullet_summary": [
+        "Reported by ABC Just In"
+      ],
+      "items": [
+        {
+          "source": "ABC Just In",
+          "url": "https://www.abc.net.au/news/2025-08-16/simpson-desert-380-km-run-for-mental-health/105626512",
+          "published_at": "Sat, 16 Aug 2025 00:51:26 +0000",
+          "title": "From dune to dune, man runs 380km to beat mental health struggles",
+          "standfirst": "After surviving his lowest point, 26-year-old Blake Bourne runs across the Simpson Desert, turning pain into purpose to raise awareness of mental health.",
+          "content": "After surviving his lowest point, 26-year-old Blake Bourne runs across the Simpson Desert, turning pain into purpose to raise awareness of mental health.",
+          "feed_position": 12
+        }
+      ],
+      "popularity_score": 150.74146527777776,
+      "ai_summary": "• Blake Bourne ran 380km across the Simpson Desert.\n• He is raising awareness about mental health issues.\n• Bourne is turning his pain into a purpose.\n• He survived a difficult period in his life.\n• The run is a symbol of his recovery."
+    },
+    {
+      "id": "cluster_24",
+      "coverage": 1,
+      "updated_at": "Sat, 16 Aug 2025 00:47:32 +0000",
+      "title": "Naturally coloured wool 'a dream come true' says farmer behind the idea",
+      "neutral_headline": "Naturally colored wool gains popularity among crafters",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-08-16/colourful-history-of-australias-first-breed-of-sheep-polwarth/105649748",
+          "published_at": "Sat, 16 Aug 2025 00:47:32 +0000",
+          "title": "Naturally coloured wool 'a dream come true' says farmer behind the idea",
+          "standfirst": "Naturally coloured wool, the brainchild of a farmer in the 1970s, is used by craft enthusiasts around the world to be fashioned into all manner of things.",
+          "content": "Naturally coloured wool, the brainchild of a farmer in the 1970s, is used by craft enthusiasts around the world to be fashioned into all manner of things.",
+          "feed_position": 14
+        }
+      ],
+      "popularity_score": 150.67646527777777,
+      "ai_summary": "• Naturally colored wool is popular with craft enthusiasts.\n• A farmer in the 1970s came up with the idea.\n• The wool is used for various craft projects.\n• The wool is used by crafters around the world.\n• The wool is a dream come true for the farmer."
+    },
+    {
+      "id": "cluster_29",
+      "coverage": 1,
+      "updated_at": "Sat, 16 Aug 2025 00:07:08 +0000",
+      "title": "Backpackers allege exploitation in WA tourist hotspot",
+      "neutral_headline": "Backpackers allege exploitation in WA tourist hotspot",
+      "bullet_summary": [
+        "Reported by ABC Just In"
+      ],
+      "items": [
+        {
+          "source": "ABC Just In",
+          "url": "https://www.abc.net.au/news/2025-08-16/backpacker-claims-mistreated-underpaid-broome/105381104",
+          "published_at": "Sat, 16 Aug 2025 00:07:08 +0000",
+          "title": "Backpackers allege exploitation in WA tourist hotspot",
+          "standfirst": "With the tourism season in full swing WA's far north, backpackers raise concerns of exploitation while working in the region.",
+          "content": "With the tourism season in full swing WA's far north, backpackers raise concerns of exploitation while working in the region.",
+          "feed_position": 17
+        }
+      ],
+      "popularity_score": 150.00313194444445,
+      "ai_summary": "• Backpackers are alleging exploitation in a WA tourist area.\n• The allegations are occurring in a popular tourist region.\n• The tourism season is currently in full swing.\n• The backpackers are working in the region.\n• The allegations concern working conditions."
+    },
+    {
+      "id": "cluster_34",
+      "coverage": 1,
+      "updated_at": "Fri, 15 Aug 2025 23:25:42 +0000",
+      "title": "Environment groups say a worrying WA environment trend is taking place in the NT",
+      "neutral_headline": "Environmental groups concerned about weakening environmental protections",
+      "bullet_summary": [
+        "Reported by ABC Just In"
+      ],
+      "items": [
+        {
+          "source": "ABC Just In",
+          "url": "https://www.abc.net.au/news/2025-08-16/nt-epa-releases-new-emissions-policy-enviroment-groups-concerned/105646982",
+          "published_at": "Fri, 15 Aug 2025 23:25:42 +0000",
+          "title": "Environment groups say a worrying WA environment trend is taking place in the NT",
+          "standfirst": "Environment groups and researchers say that a troubling trend of weakening environmental protections in Western Australia is now being mirrored in the Northern Territory, following the release of a new emissions policy this week.",
+          "content": "Environment groups and researchers say that a troubling trend of weakening environmental protections in Western Australia is now being mirrored in the Northern Territory, following the release of a new emissions policy this week.",
+          "feed_position": 20
+        }
+      ],
+      "popularity_score": 149.31257638888889,
+      "ai_summary": "• Environment groups observe weakening environmental protections in the Northern Territory.\n• This trend mirrors similar concerns previously raised in Western Australia.\n• The new emissions policy released this week is a key factor.\n• Researchers are also expressing concerns about the environmental changes.\n• The groups are worried about the potential impacts of these changes."
+    },
+    {
+      "id": "cluster_36",
+      "coverage": 1,
+      "updated_at": "Fri, 15 Aug 2025 23:15:00 +0000",
+      "title": "Auditors question future of prominent mental health charity",
+      "neutral_headline": "Auditors question future of mental health charity in South Australia",
+      "bullet_summary": [
+        "Reported by ABC Just In"
+      ],
+      "items": [
+        {
+          "source": "ABC Just In",
+          "url": "https://www.abc.net.au/news/2025-08-16/breakthrough-eating-disorder-financial-audit-questions/105652960",
+          "published_at": "Fri, 15 Aug 2025 23:15:00 +0000",
+          "title": "Auditors question future of prominent mental health charity",
+          "standfirst": "Auditors have raised questions about the future of a prominent South Australian mental health charity — responsible for delivering a new eating disorder service — after a deficit in equity of almost $2 million was reported.",
+          "content": "Auditors have raised questions about the future of a prominent South Australian mental health charity — responsible for delivering a new eating disorder service — after a deficit in equity of almost $2 million was reported.",
+          "feed_position": 22
+        }
+      ],
+      "popularity_score": 149.13424305555554,
+      "ai_summary": "• Auditors have raised questions about a South Australian mental health charity.\n• The charity is responsible for delivering a new eating disorder service.\n• A deficit in equity of almost two million dollars was reported.\n• The audit findings have prompted concerns about the charity's future.\n• The charity's financial situation is under scrutiny."
+    },
+    {
+      "id": "cluster_41",
+      "coverage": 1,
+      "updated_at": "Fri, 15 Aug 2025 22:24:24 +0000",
+      "title": "'You don't believe it's real': Grieving mothers issue warning as road toll soars",
+      "neutral_headline": "Grieving mothers issue warning as road deaths increase",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-08-16/tasmania-road-toll-2025-horror-year/105616424",
+          "published_at": "Fri, 15 Aug 2025 22:24:24 +0000",
+          "title": "'You don't believe it's real': Grieving mothers issue warning as road toll soars",
+          "standfirst": "Tasmania is in the midst of a horror year for road deaths. For mothers who have lost children, the pain is beyond comprehension.",
+          "content": "Tasmania is in the midst of a horror year for road deaths. For mothers who have lost children, the pain is beyond comprehension.",
+          "feed_position": 22
+        }
+      ],
+      "popularity_score": 148.2909097222222,
+      "ai_summary": "• Tasmania is experiencing a high number of road deaths this year.\n• Mothers who have lost children are sharing their experiences.\n• The pain of losing a child is beyond comprehension for these mothers.\n• The mothers are issuing a warning about road safety.\n• The road toll is a significant concern for the community."
+    },
+    {
+      "id": "cluster_42",
+      "coverage": 1,
+      "updated_at": "Fri, 15 Aug 2025 22:13:08 +0000",
+      "title": "Autistic people bring 'impressive gifts' to work, but many aren't given a chance",
+      "neutral_headline": "Autistic people bring skills to work, but face barriers",
+      "bullet_summary": [
+        "While he didn't find love, he was able to use his profile to springboard into a career where he says he's found his true purpose",
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-08-16/michael-theo-on-autism-and-work/105558342",
+          "published_at": "Fri, 15 Aug 2025 22:13:08 +0000",
+          "title": "Autistic people bring 'impressive gifts' to work, but many aren't given a chance",
+          "standfirst": "When Michael Theo appeared on Love on the Spectrum, viewers were drawn to his authenticity and determination. While he didn't find love, he was able to use his profile to springboard into a career where he says he's found his true purpose. But for many autistic people, these kinds of opportunities are hard to come by.",
+          "content": "When Michael Theo appeared on Love on the Spectrum, viewers were drawn to his authenticity and determination. While he didn't find love, he was able to use his profile to springboard into a career where he says he's found his true purpose. But for many autistic people, these kinds of opportunities are hard to come by.",
+          "feed_position": 20
+        }
+      ],
+      "popularity_score": 148.10313194444444,
+      "ai_summary": "• Michael Theo gained recognition on Love on the Spectrum.\n• He has found a career where he feels he has found his purpose.\n• Many autistic people face challenges in finding opportunities.\n• Autistic individuals possess valuable skills in the workplace.\n• Opportunities for autistic people are often limited."
+    },
+    {
+      "id": "cluster_46",
+      "coverage": 1,
+      "updated_at": "Fri, 15 Aug 2025 21:28:26 +0000",
+      "title": "Writers festivals on notice after attempt to 'restrict speech' prompts exodus",
+      "neutral_headline": "Writers festival faces backlash after speech restriction attempt",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-08-16/bendigo-writers-festival-authors-withdraw-freedom-of-speech/105659832",
+          "published_at": "Fri, 15 Aug 2025 21:28:26 +0000",
+          "title": "Writers festivals on notice after attempt to 'restrict speech' prompts exodus",
+          "standfirst": "A Victorian writers festival's code of conduct has set a \"dangerous precedent\", one author says, after more than 50 writers and moderators withdrew from the event.",
+          "content": "A Victorian writers festival's code of conduct has set a \"dangerous precedent\", one author says, after more than 50 writers and moderators withdrew from the event.",
+          "feed_position": 17
+        }
+      ],
+      "popularity_score": 147.35813194444444,
+      "ai_summary": "• A Victorian writers festival implemented a new code of conduct.\n• The code of conduct has been criticized for setting a precedent.\n• Over fifty writers and moderators withdrew from the event.\n• The withdrawals were a response to the code of conduct.\n• The festival's actions have sparked controversy."
+    },
+    {
+      "id": "cluster_47",
+      "coverage": 1,
+      "updated_at": "Fri, 15 Aug 2025 21:20:53 +0000",
+      "title": "Once a relic of the past, cane fires are burning in Queensland again",
+      "neutral_headline": "Cane fires return to Queensland after years of green harvesting",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-08-16/sugarcane-fires-burn-queensland-farms-after-poor-crop/105622310",
+          "published_at": "Fri, 15 Aug 2025 21:20:53 +0000",
+          "title": "Once a relic of the past, cane fires are burning in Queensland again",
+          "standfirst": "After years of mostly green harvesting, cane farmers around Mackay are reaching for the drip torch this season to get rid of old plantings that could not be harvested last year.",
+          "content": "After years of mostly green harvesting, cane farmers around Mackay are reaching for the drip torch this season to get rid of old plantings that could not be harvested last year.",
+          "feed_position": 21
+        }
+      ],
+      "popularity_score": 147.2322986111111,
+      "ai_summary": "• Cane farmers near Mackay are using cane fires again this season.\n• They are removing old plantings that could not be harvested last year.\n• Green harvesting was the primary method for several years.\n• Farmers are using drip torches to burn the old plantings.\n• The practice is a return to a previous method."
+    },
+    {
+      "id": "cluster_55",
+      "coverage": 1,
+      "updated_at": "Fri, 15 Aug 2025 20:15:00 +0000",
+      "title": "Skiers make lucky escape after spending night in blizzard",
+      "neutral_headline": "Skiers survive blizzard after equipment failure",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-08-16/skiers-rescue-bogong-high-plains-bizzard-gear-failure/105562832",
+          "published_at": "Fri, 15 Aug 2025 20:15:00 +0000",
+          "title": "Skiers make lucky escape after spending night in blizzard",
+          "standfirst": "Two cross-country skiers who were forced to spend a night in a blizzard following equipment failure warn other adventurers to be prepared for anything.",
+          "content": "Two cross-country skiers who were forced to spend a night in a blizzard following equipment failure warn other adventurers to be prepared for anything.",
+          "feed_position": 18
+        }
+      ],
+      "popularity_score": 146.13424305555554,
+      "ai_summary": "• Two cross-country skiers spent a night in a blizzard.\n• Equipment failure forced them to seek shelter.\n• They are warning others to be prepared for anything.\n• The skiers had a lucky escape from the blizzard.\n• They emphasize the importance of preparedness."
+    },
+    {
+      "id": "cluster_62",
+      "coverage": 1,
+      "updated_at": "Fri, 15 Aug 2025 19:27:46 +0000",
+      "title": "China claims it foiled Australian spies on its shores in stinging rebuke",
+      "neutral_headline": "China claims it foiled Australian spies on its shores",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-08-16/china-accuses-australia-of-lying-about-spy-threats/105661402",
+          "published_at": "Fri, 15 Aug 2025 19:27:46 +0000",
+          "title": "China claims it foiled Australian spies on its shores in stinging rebuke",
+          "standfirst": "The extensive statement from China's state security ministry accuses Australian leaders of deliberately pushing a false story about the threat Beijing poses to the country.",
+          "content": "The extensive statement from China's state security ministry accuses Australian leaders of deliberately pushing a false story about the threat Beijing poses to the country.",
+          "feed_position": 19
+        }
+      ],
+      "popularity_score": 145.34702083333335,
+      "ai_summary": "• China's state security ministry issued an extensive statement.\n• The statement accuses Australia of pushing a false story.\n• The false story is about the threat Beijing poses.\n• China claims to have foiled Australian spies.\n• The statement is a stinging rebuke of Australia."
+    },
+    {
+      "id": "cluster_65",
+      "coverage": 1,
       "updated_at": "Fri, 15 Aug 2025 19:07:00 +0000",
-      "title": "Thailand and Cambodia's border clash turns into misinformation war",
-      "neutral_headline": "Thailand Cambodia border clash turns into misinformation war",
+      "title": "'She is more beautiful': Thailand enlists beauty queen into border conflict",
+      "neutral_headline": "Thailand uses beauty queen in border conflict propaganda",
       "bullet_summary": [
         "Reported by ABC News Australia"
       ],
@@ -263,568 +870,83 @@
           "source": "ABC News Australia",
           "url": "https://www.abc.net.au/news/2025-08-16/thailand-cambodia-border-clash-misinformation-propaganda-war/105652836",
           "published_at": "Fri, 15 Aug 2025 19:07:00 +0000",
-          "title": "Thailand and Cambodia's border clash turns into misinformation war",
+          "title": "'She is more beautiful': Thailand enlists beauty queen into border conflict",
           "standfirst": "A deadly border clash between Thailand and Cambodia has devolved into a fierce online propaganda war with fake news flying on both sides.",
           "content": "A deadly border clash between Thailand and Cambodia has devolved into a fierce online propaganda war with fake news flying on both sides.",
-          "feed_position": 6
+          "feed_position": 24
         }
       ],
-      "popularity_score": 291.70495305555556,
-      "ai_summary": "• A border clash occurred between Thailand and Cambodia\n• The clash led to an online propaganda war\n• Fake news is spreading on both sides\n• The situation is escalating online\n• The conflict is intensifying digitally"
+      "popularity_score": 145.00090972222222,
+      "ai_summary": "• A deadly border clash occurred between Thailand and Cambodia.\n• The conflict has escalated into an online propaganda war.\n• Fake news is circulating on both sides of the conflict.\n• Thailand is using a beauty queen in its propaganda.\n• The online war is intensifying the conflict."
     },
     {
-      "id": "cluster_61",
+      "id": "cluster_66",
       "coverage": 1,
-      "updated_at": "Fri, 15 Aug 2025 06:55:15 +0000",
-      "title": "Thousands of asylum seeker families left in bridging visa limbo",
-      "neutral_headline": "Thousands of asylum seeker families in bridging visa limbo",
+      "updated_at": "Fri, 15 Aug 2025 19:05:20 +0000",
+      "title": "'Something wasn't right': Allegations heard against Matt Wright so far",
+      "neutral_headline": "Allegations heard against Matt Wright in ongoing trial",
       "bullet_summary": [
         "Reported by ABC News Australia"
       ],
       "items": [
         {
           "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-08-15/bridging-visa-immigration-limbo-former-minister-alex-hawke/105643190",
-          "published_at": "Fri, 15 Aug 2025 06:55:15 +0000",
-          "title": "Thousands of asylum seeker families left in bridging visa limbo",
-          "standfirst": "A former Coalition immigration minister joins calls for the government to resolve the status of around 8,000 asylum seekers who arrived between 2012 and 2013 and remain in legal limbo.",
-          "content": "A former Coalition immigration minister joins calls for the government to resolve the status of around 8,000 asylum seekers who arrived between 2012 and 2013 and remain in legal limbo.",
-          "feed_position": 7
+          "url": "https://www.abc.net.au/news/2025-08-16/nt-matt-wright-trial-hears-claims-about-cocaine-and-anti-vaxxers/105654584",
+          "published_at": "Fri, 15 Aug 2025 19:05:20 +0000",
+          "title": "'Something wasn't right': Allegations heard against Matt Wright so far",
+          "standfirst": "A key witness faces allegations that he was a cocaine dealer among explosive claims aired in the trial of Netflix star and celebrity crocodile wrangler Matt Wright.",
+          "content": "A key witness faces allegations that he was a cocaine dealer among explosive claims aired in the trial of Netflix star and celebrity crocodile wrangler Matt Wright.",
+          "feed_position": 15
         }
       ],
-      "popularity_score": 269.50911972222224,
-      "ai_summary": "• Thousands of asylum seekers are in legal limbo\n• They arrived between 2012 and 2013\n• They are on bridging visas\n• Calls exist to resolve their status\n• A former minister supports resolving the issue"
+      "popularity_score": 144.97313194444445,
+      "ai_summary": "• A key witness faces allegations of being a cocaine dealer.\n• These allegations were aired in the trial of Matt Wright.\n• Matt Wright is a celebrity crocodile wrangler.\n• The trial involves explosive claims.\n• The witness's credibility is being questioned."
     },
     {
-      "id": "cluster_74",
+      "id": "cluster_67",
       "coverage": 1,
-      "updated_at": "Thu, 14 Aug 2025 22:30:07 +0000",
-      "title": "Government promises to 'pull out all stops' to close child abuser loophole this year",
-      "neutral_headline": "Government promises to close child abuser loophole",
+      "updated_at": "Fri, 15 Aug 2025 19:00:00 +0000",
+      "title": "Tinkering at the edges of productivity may cost more than we realise",
+      "neutral_headline": "Productivity ideas may cost more than realized",
       "bullet_summary": [
         "Reported by ABC News Australia"
       ],
       "items": [
         {
           "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-08-15/child-care-abuse-bans-working-with-children-check-12-months/105657180",
-          "published_at": "Thu, 14 Aug 2025 22:30:07 +0000",
-          "title": "Government promises to 'pull out all stops' to close child abuser loophole this year",
-          "standfirst": "Attorney-General Michelle Rowland promises governments will \"pull out all stops\" to close loopholes being used by child abusers by the end of this year, just hours after saying it could take up to 12 months.",
-          "content": "Attorney-General Michelle Rowland promises governments will \"pull out all stops\" to close loopholes being used by child abusers by the end of this year, just hours after saying it could take up to 12 months.",
-          "feed_position": 8
-        }
-      ],
-      "popularity_score": 265,
-      "ai_summary": "• The government aims to close a child abuser loophole\n• The goal is to close the loophole this year\n• The Attorney-General made the promise\n• The process could take up to 12 months\n• The government will make every effort to close the loophole"
-    },
-    {
-      "id": "cluster_38",
-      "coverage": 1,
-      "updated_at": "Fri, 15 Aug 2025 14:21:11 +0000",
-      "title": "Washington DC launches court challenge against Trump police takeover",
-      "neutral_headline": "Washington DC challenges Trump's police takeover",
-      "bullet_summary": [
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-08-16/court-challenge-against-washington-dc-takover/105661404",
-          "published_at": "Fri, 15 Aug 2025 14:21:11 +0000",
-          "title": "Washington DC launches court challenge against Trump police takeover",
-          "standfirst": "The US state's Attorney General Brian Schwalb has argued in a new lawsuit that Mr Trump is going far beyond his power under the law.",
-          "content": "The US state's Attorney General Brian Schwalb has argued in a new lawsuit that Mr Trump is going far beyond his power under the law.",
-          "feed_position": 9
-        }
-      ],
-      "popularity_score": 256.94134194444445,
-      "ai_summary": "• Washington DC is challenging Trump's police takeover\n• A lawsuit was filed against the takeover\n• The Attorney General argues Trump exceeded his authority\n• The takeover is considered an overreach of power\n• The lawsuit challenges the legality of the takeover"
-    },
-    {
-      "id": "cluster_41",
-      "coverage": 1,
-      "updated_at": "Fri, 15 Aug 2025 13:05:52 +0000",
-      "title": "Hundreds of people killed in flash floods in India and Pakistan",
-      "neutral_headline": "Hundreds killed in flash floods in India and Pakistan",
-      "bullet_summary": [
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-08-15/crew-dies-in-relief-helicopter-crash-pakistan/105661380",
-          "published_at": "Fri, 15 Aug 2025 13:05:52 +0000",
-          "title": "Hundreds of people killed in flash floods in India and Pakistan",
-          "standfirst": "Devastating flash flooding has killed more than 200 people, with dozens still missing after heavy rains washed away villages in the remote regions of Kashmir.",
-          "content": "Devastating flash flooding has killed more than 200 people, with dozens still missing after heavy rains washed away villages in the remote regions of Kashmir.",
-          "feed_position": 13
-        }
-      ],
-      "popularity_score": 153.68606416666665,
-      "ai_summary": "• Flash floods killed hundreds of people\n• The floods affected India and Pakistan\n• Dozens remain missing\n• Heavy rains caused the floods\n• Remote regions of Kashmir were severely affected"
-    },
-    {
-      "id": "cluster_20",
-      "coverage": 1,
-      "updated_at": "Fri, 15 Aug 2025 19:10:59 +0000",
-      "title": "The Palestinian women's football team is playing for 'identity and resistance'",
-      "neutral_headline": "Palestinian women's football team plays for identity and resistance",
-      "bullet_summary": [
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-08-16/palestine-women-football-asian-cup-charlotte-phillips/105624974",
-          "published_at": "Fri, 15 Aug 2025 19:10:59 +0000",
-          "title": "The Palestinian women's football team is playing for 'identity and resistance'",
-          "standfirst": "Players from around the world make up the Palestinian women's national football team, but they are united in their vision to show their strength and push for freedom.",
-          "content": "Players from around the world make up the Palestinian women's national football team, but they are united in their vision to show their strength and push for freedom.",
+          "url": "https://www.abc.net.au/news/2025-08-16/chalmers-productivity-economic-reform-roundtable/105657674",
+          "published_at": "Fri, 15 Aug 2025 19:00:00 +0000",
+          "title": "Tinkering at the edges of productivity may cost more than we realise",
+          "standfirst": "As the roundtable nears, the list of ideas has grown longer, more ambitious and often contradictory.",
+          "content": "As the roundtable nears, the list of ideas has grown longer, more ambitious and often contradictory.",
           "feed_position": 12
         }
       ],
-      "popularity_score": 151.77134194444443,
-      "ai_summary": "• The Palestinian women's football team plays for identity\n• The team plays for resistance\n• Players are from various countries\n• They aim to show strength and push for freedom\n• The team is united in its vision"
+      "popularity_score": 144.88424305555554,
+      "ai_summary": "• A roundtable is approaching to discuss productivity.\n• The list of ideas has grown longer and more ambitious.\n• The ideas are often contradictory in nature.\n• The cost of these ideas may be higher than expected.\n• The discussion is focused on productivity improvements."
     },
     {
-      "id": "cluster_57",
+      "id": "cluster_68",
       "coverage": 1,
-      "updated_at": "Fri, 15 Aug 2025 07:36:40 +0000",
-      "title": "Police say investigation into Kumanjayi White's death at 'advanced state'",
-      "neutral_headline": "Police investigation into Kumanjayi White's death advances",
+      "updated_at": "Fri, 15 Aug 2025 19:00:00 +0000",
+      "title": "World leaders rightly anxious about what Trump and Putin might do",
+      "neutral_headline": "World leaders anxious about Trump and Putin's actions",
       "bullet_summary": [
         "Reported by ABC News Australia"
       ],
       "items": [
         {
           "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-08-15/kumanjayi-white-death-in-custody-nt-police-investigation-update/105659492",
-          "published_at": "Fri, 15 Aug 2025 07:36:40 +0000",
-          "title": "Police say investigation into Kumanjayi White's death at 'advanced state'",
-          "standfirst": "NT police have provided an update on their investigation into the Warlpiri man's death in custody in Alice Springs, saying it is at an \"advanced state\" but still waiting on a forensic pathology report.",
-          "content": "NT police have provided an update on their investigation into the Warlpiri man's death in custody in Alice Springs, saying it is at an \"advanced state\" but still waiting on a forensic pathology report.",
-          "feed_position": 20
+          "url": "https://www.abc.net.au/news/2025-08-16/donald-trump-vladimir-putin-alaska-ukraine/105637696",
+          "published_at": "Fri, 15 Aug 2025 19:00:00 +0000",
+          "title": "World leaders rightly anxious about what Trump and Putin might do",
+          "standfirst": "World leaders are rightly anxious about just what Donald Trump might agree to, about the future of another sovereign country, when left in a room with Vladimir Putin.",
+          "content": "World leaders are rightly anxious about just what Donald Trump might agree to, about the future of another sovereign country, when left in a room with Vladimir Putin.",
+          "feed_position": 13
         }
       ],
-      "popularity_score": 148.1993975,
-      "ai_summary": "• Police are investigating Kumanjayi White's death\n• The investigation is in an advanced state\n• The death occurred in custody\n• A forensic pathology report is pending\n• The investigation is ongoing"
-    },
-    {
-      "id": "cluster_43",
-      "coverage": 1,
-      "updated_at": "Fri, 15 Aug 2025 10:28:15 +0000",
-      "title": "Senior lawyer files AI-generated submissions in Victorian teen murder case",
-      "neutral_headline": "Lawyer files AI generated submissions in murder case",
-      "bullet_summary": [
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-08-15/victoria-lawyer-apologises-after-ai-generated-submissions/105661208",
-          "published_at": "Fri, 15 Aug 2025 10:28:15 +0000",
-          "title": "Senior lawyer files AI-generated submissions in Victorian teen murder case",
-          "standfirst": "The fake submissions included fabricated quotes from a speech to the state legislature and non-existent case citations purportedly from Victoria's Supreme Court.",
-          "content": "The fake submissions included fabricated quotes from a speech to the state legislature and non-existent case citations purportedly from Victoria's Supreme Court.",
-          "feed_position": 17
-        }
-      ],
-      "popularity_score": 143.05911972222222,
-      "ai_summary": "• A lawyer filed AI-generated submissions\n• The submissions were in a teen murder case\n• The submissions included fabricated information\n• The submissions contained non-existent case citations\n• The submissions were fake"
-    },
-    {
-      "id": "cluster_45",
-      "coverage": 1,
-      "updated_at": "Fri, 15 Aug 2025 09:35:57 +0000",
-      "title": "Matt Wright 'abusive' after pilots pulled pin amid 'catastrophic' storm, jury hears",
-      "neutral_headline": "Matt Wright accused of abuse after pilots pulled out of run",
-      "bullet_summary": [
-        "Reported by ABC Just In"
-      ],
-      "items": [
-        {
-          "source": "ABC Just In",
-          "url": "https://www.abc.net.au/news/2025-08-15/matt-wright-trial-friday-wrap-of-evidence-in-nt-supreme-court/105659060",
-          "published_at": "Fri, 15 Aug 2025 09:35:57 +0000",
-          "title": "Matt Wright 'abusive' after pilots pulled pin amid 'catastrophic' storm, jury hears",
-          "standfirst": "Matt Wright became \"hostile and abusive\" after his helicopter pilots pulled out of a crocodile egg-collecting run due to safety concerns a month before a fatal crash, a court has heard.",
-          "content": "Matt Wright became \"hostile and abusive\" after his helicopter pilots pulled out of a crocodile egg-collecting run due to safety concerns a month before a fatal crash, a court has heard.",
-          "feed_position": 15
-        }
-      ],
-      "popularity_score": 142.18745305555555,
-      "ai_summary": "• Matt Wright is accused of abuse\n• The accusation follows pilots pulling out of a run\n• The run was for crocodile egg collecting\n• Safety concerns prompted the pilots to pull out\n• The incident occurred before a fatal crash"
-    },
-    {
-      "id": "cluster_47",
-      "coverage": 1,
-      "updated_at": "Fri, 15 Aug 2025 09:33:03 +0000",
-      "title": "Football coach fired for online sexist slur against Tammy Hembrow",
-      "neutral_headline": "Football coach fired for sexist slur against Tammy Hembrow",
-      "bullet_summary": [
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-08-15/league-coach-harvey-brunswick-leschenault-sexist-comments/105659810",
-          "published_at": "Fri, 15 Aug 2025 09:33:03 +0000",
-          "title": "Football coach fired for online sexist slur against Tammy Hembrow",
-          "standfirst": "A regional football club in Western Australia is under the spotlight after its now former league coach made a sexist slur about influencer Tammy Hembrow.",
-          "content": "A regional football club in Western Australia is under the spotlight after its now former league coach made a sexist slur about influencer Tammy Hembrow.",
-          "feed_position": 15
-        }
-      ],
-      "popularity_score": 142.13911972222223,
-      "ai_summary": "• A football coach was fired\n• He made a sexist slur\n• The slur targeted Tammy Hembrow\n• The incident occurred in Western Australia\n• The club is under scrutiny"
-    },
-    {
-      "id": "cluster_48",
-      "coverage": 1,
-      "updated_at": "Fri, 15 Aug 2025 09:16:22 +0000",
-      "title": "Response by police officers to woman's fatal bashing to be investigated",
-      "neutral_headline": "Police response to fatal bashing to be investigated",
-      "bullet_summary": [
-        "Reported by ABC Just In"
-      ],
-      "items": [
-        {
-          "source": "ABC Just In",
-          "url": "https://www.abc.net.au/news/2025-08-15/nsw-police-watchdog-probe-officers-response-lindy-lucena-death/105660330",
-          "published_at": "Fri, 15 Aug 2025 09:16:22 +0000",
-          "title": "Response by police officers to woman's fatal bashing to be investigated",
-          "standfirst": "When Lindy Lucena was killed by her abusive partner in Ballina, it took police almost an hour to respond, and when an officer went to the scene he did not get out of his car to investigate.",
-          "content": "When Lindy Lucena was killed by her abusive partner in Ballina, it took police almost an hour to respond, and when an officer went to the scene he did not get out of his car to investigate.",
-          "feed_position": 17
-        }
-      ],
-      "popularity_score": 141.86106416666667,
-      "ai_summary": "• Police response to a fatal bashing will be investigated\n• The victim was Lindy Lucena\n• Police took almost an hour to respond\n• An officer did not exit his car to investigate\n• The investigation will examine police actions"
-    },
-    {
-      "id": "cluster_49",
-      "coverage": 1,
-      "updated_at": "Fri, 15 Aug 2025 09:08:32 +0000",
-      "title": "Landmark plastics treaty falls apart as nations fail to find consensus for pollution",
-      "neutral_headline": "Landmark plastics treaty fails to reach consensus",
-      "bullet_summary": [
-        "Several countries voiced bitter disappointment as the talks unravelled, but said they were prepared for future negotiations — despite six rounds of talks over three years",
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-08-15/plastic-pollution-talks-fall-apart/105660770",
-          "published_at": "Fri, 15 Aug 2025 09:08:32 +0000",
-          "title": "Landmark plastics treaty falls apart as nations fail to find consensus for pollution",
-          "standfirst": "Several countries voiced bitter disappointment as the talks unravelled, but said they were prepared for future negotiations — despite six rounds of talks over three years.",
-          "content": "Several countries voiced bitter disappointment as the talks unravelled, but said they were prepared for future negotiations — despite six rounds of talks over three years.",
-          "feed_position": 19
-        }
-      ],
-      "popularity_score": 141.7305086111111,
-      "ai_summary": "• A landmark plastics treaty failed\n• Nations could not reach a consensus\n• Several countries expressed disappointment\n• Future negotiations are planned\n• Six rounds of talks occurred over three years"
-    },
-    {
-      "id": "cluster_50",
-      "coverage": 1,
-      "updated_at": "Fri, 15 Aug 2025 09:00:09 +0000",
-      "title": "Portrait prize winner highlights plight of Indigenous youth detainees",
-      "neutral_headline": "Portrait prize winner highlights Indigenous youth detention",
-      "bullet_summary": [
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-08-15/national-photographic-portrait-prize-indigenous-youth-detention/105657728",
-          "published_at": "Fri, 15 Aug 2025 09:00:09 +0000",
-          "title": "Portrait prize winner highlights plight of Indigenous youth detainees",
-          "standfirst": "An image of three First Nations girls gesturing with their middle fingers towards the camera, highlighting the issue of Indigenous children in youth detention, wins the National Photographic Portrait Prize.",
-          "content": "An image of three First Nations girls gesturing with their middle fingers towards the camera, highlighting the issue of Indigenous children in youth detention, wins the National Photographic Portrait Prize.",
-          "feed_position": 23
-        }
-      ],
-      "popularity_score": 141.5907863888889,
-      "ai_summary": "• A photograph won the National Photographic Portrait Prize\n• The photo depicts Indigenous girls in youth detention\n• The girls are gesturing with middle fingers\n• The photo highlights the plight of Indigenous youth\n• The image is a powerful statement"
-    },
-    {
-      "id": "cluster_51",
-      "coverage": 1,
-      "updated_at": "Fri, 15 Aug 2025 08:56:25 +0000",
-      "title": "Lions secure finals football with Dockers demolition in Perth",
-      "neutral_headline": "Lions secure finals football with Dockers demolition",
-      "bullet_summary": [
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-08-15/afl-round-23-fremantle-brisbane-essendon-st-kilda-aflw-live-blog/105660518",
-          "published_at": "Fri, 15 Aug 2025 08:56:25 +0000",
-          "title": "Lions secure finals football with Dockers demolition in Perth",
-          "standfirst": "Brisbane has become the second team to secure September football with a comprehensive 57-point drubbing of Fremantle. Follow live.",
-          "content": "Brisbane has become the second team to secure September football with a comprehensive 57-point drubbing of Fremantle. Follow live.",
-          "feed_position": 10
-        }
-      ],
-      "popularity_score": 141.52856416666665,
-      "ai_summary": "• Brisbane Lions secured a finals spot\n• They defeated Fremantle Dockers\n• The win was a comprehensive victory\n• The win was by 57 points\n• Brisbane is the second team to secure a finals spot"
-    },
-    {
-      "id": "cluster_52",
-      "coverage": 1,
-      "updated_at": "Fri, 15 Aug 2025 08:52:13 +0000",
-      "title": "Canberra boy hit by car outside school calls for pedestrian overpass",
-      "neutral_headline": "Canberra boy hit by car petitions for pedestrian overpass",
-      "bullet_summary": [
-        "Reported by ABC Just In"
-      ],
-      "items": [
-        {
-          "source": "ABC Just In",
-          "url": "https://www.abc.net.au/news/2025-08-15/act-st-eddies-boy-hit-by-car-outside-school-pedestrian-overpass/105660714",
-          "published_at": "Fri, 15 Aug 2025 08:52:13 +0000",
-          "title": "Canberra boy hit by car outside school calls for pedestrian overpass",
-          "standfirst": "One of the St Edmund's College boys seriously injured after being hit by an allegedly stolen car on the way to school is petitioning the ACT government to put a pedestrian bridge over the road where he was hit.",
-          "content": "One of the St Edmund's College boys seriously injured after being hit by an allegedly stolen car on the way to school is petitioning the ACT government to put a pedestrian bridge over the road where he was hit.",
-          "feed_position": 21
-        }
-      ],
-      "popularity_score": 141.45856416666666,
-      "ai_summary": "• A boy was hit by a car near his school\n• He is petitioning for a pedestrian overpass\n• The incident occurred at St Edmund's College\n• The car was allegedly stolen\n• The boy suffered serious injuries"
-    },
-    {
-      "id": "cluster_53",
-      "coverage": 1,
-      "updated_at": "Fri, 15 Aug 2025 08:47:55 +0000",
-      "title": "Former Esperance school employee jailed for historical child sex offences",
-      "neutral_headline": "Former school employee jailed for historical child sex offences",
-      "bullet_summary": [
-        "Reported by ABC Just In"
-      ],
-      "items": [
-        {
-          "source": "ABC Just In",
-          "url": "https://www.abc.net.au/news/2025-08-15/former-esperance-school-employee-sentenced/105642018",
-          "published_at": "Fri, 15 Aug 2025 08:47:55 +0000",
-          "title": "Former Esperance school employee jailed for historical child sex offences",
-          "standfirst": "The former IT worker at a high school on WA's south coast has been given a 32-month prison term after being convicted of five historical charges.",
-          "content": "The former IT worker at a high school on WA's south coast has been given a 32-month prison term after being convicted of five historical charges.",
-          "feed_position": 22
-        }
-      ],
-      "popularity_score": 141.3868975,
-      "ai_summary": "• A former school employee was jailed\n• He was convicted of historical child sex offences\n• He worked in IT at a high school\n• The school is on WA's south coast\n• He received a 32-month prison sentence"
-    },
-    {
-      "id": "cluster_55",
-      "coverage": 1,
-      "updated_at": "Fri, 15 Aug 2025 07:53:01 +0000",
-      "title": "Shark shield 'very unlikely' to have saved surfer from great white, inquest finds",
-      "neutral_headline": "Shark shield unlikely to have saved surfer from attack",
-      "bullet_summary": [
-        "An inquest into the death of a man who was attacked by a great white shark off WA's south coast has found a repellent device is unlikely to have saved him",
-        "Reported by ABC Just In"
-      ],
-      "items": [
-        {
-          "source": "ABC Just In",
-          "url": "https://www.abc.net.au/news/2025-08-15/steven-jeffrey-payne-shark-attack-coronial-inquest-findings/105659242",
-          "published_at": "Fri, 15 Aug 2025 07:53:01 +0000",
-          "title": "Shark shield 'very unlikely' to have saved surfer from great white, inquest finds",
-          "standfirst": "An inquest into the death of a man who was attacked by a great white shark off WA's south coast has found a repellent device is unlikely to have saved him.",
-          "content": "An inquest into the death of a man who was attacked by a great white shark off WA's south coast has found a repellent device is unlikely to have saved him.",
-          "feed_position": 23
-        }
-      ],
-      "popularity_score": 140.4718975,
-      "ai_summary": "• A surfer died in a shark attack\n• An inquest investigated the incident\n• A shark repellent device was used\n• The device was unlikely to have saved the surfer\n• The inquest found the device ineffective"
-    },
-    {
-      "id": "cluster_56",
-      "coverage": 1,
-      "updated_at": "Fri, 15 Aug 2025 07:51:12 +0000",
-      "title": "Judge jails serial flasher for exposing himself to 22 young girls",
-      "neutral_headline": "Judge jails serial flasher for exposing himself to girls",
-      "bullet_summary": [
-        "Reported by ABC Just In"
-      ],
-      "items": [
-        {
-          "source": "ABC Just In",
-          "url": "https://www.abc.net.au/news/2025-08-15/judge-jails-serial-flasher-peter-james-bowman-newcastle/105658124",
-          "published_at": "Fri, 15 Aug 2025 07:51:12 +0000",
-          "title": "Judge jails serial flasher for exposing himself to 22 young girls",
-          "standfirst": "Newcastle man Peter James Bowman has been sentenced to five-and-a-half years' jail for exposing his genitals to 22 school girls over two years.",
-          "content": "Newcastle man Peter James Bowman has been sentenced to five-and-a-half years' jail for exposing his genitals to 22 school girls over two years.",
-          "feed_position": 24
-        }
-      ],
-      "popularity_score": 140.4416197222222,
-      "ai_summary": "• A serial flasher was jailed\n• He exposed himself to 22 young girls\n• The incidents occurred over two years\n• He was sentenced to five and a half years\n• The man is Peter James Bowman"
-    },
-    {
-      "id": "cluster_58",
-      "coverage": 1,
-      "updated_at": "Fri, 15 Aug 2025 07:25:11 +0000",
-      "title": "Why both China and Taiwan aren't welcome at the Pacific's top meeting next month",
-      "neutral_headline": "China and Taiwan excluded from Pacific Islands meeting",
-      "bullet_summary": [
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-08-15/tension-pacific-islands-forum-stoush-taiwan/105659748",
-          "published_at": "Fri, 15 Aug 2025 07:25:11 +0000",
-          "title": "Why both China and Taiwan aren't welcome at the Pacific's top meeting next month",
-          "standfirst": "The Pacific's leaders are grappling with Solomon Islands' contentious decision to block all outsiders from the region's most important annual meeting next month. So what does the episode say about how strategic competition is reshaping the region?",
-          "content": "The Pacific's leaders are grappling with Solomon Islands' contentious decision to block all outsiders from the region's most important annual meeting next month. So what does the episode say about how strategic competition is reshaping the region?",
-          "feed_position": 18
-        }
-      ],
-      "popularity_score": 140.0080086111111,
-      "ai_summary": "• China and Taiwan are excluded from a Pacific meeting\n• The Solomon Islands blocked outsiders\n• The meeting is the region's most important annual event\n• Strategic competition is reshaping the region\n• The exclusion reflects geopolitical tensions"
-    },
-    {
-      "id": "cluster_60",
-      "coverage": 1,
-      "updated_at": "Fri, 15 Aug 2025 06:56:16 +0000",
-      "title": "'Don't know the rules': Dragons coach fumes over Warriors try in defeat",
-      "neutral_headline": "Dragons coach criticizes obstruction call in defeat",
-      "bullet_summary": [
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-08-15/nrl-live-updates-round-24-warriors-dragons-roosters-bulldogs/105637418",
-          "published_at": "Fri, 15 Aug 2025 06:56:16 +0000",
-          "title": "'Don't know the rules': Dragons coach fumes over Warriors try in defeat",
-          "standfirst": "St George Illawarra coach Shane Flanagan has claimed he no longer knows what constitutes an obstruction, after his side's four-point loss on Friday night.",
-          "content": "St George Illawarra coach Shane Flanagan has claimed he no longer knows what constitutes an obstruction, after his side's four-point loss on Friday night.",
-          "feed_position": 11
-        }
-      ],
-      "popularity_score": 139.52606416666666,
-      "ai_summary": "• St George Illawarra lost a football match\n• The coach criticized an obstruction call\n• He questioned the rules\n• The loss was by four points\n• The coach expressed frustration"
-    },
-    {
-      "id": "cluster_63",
-      "coverage": 1,
-      "updated_at": "Fri, 15 Aug 2025 05:05:04 +0000",
-      "title": "Police investigating man's death in custody south of Darwin",
-      "neutral_headline": "Police investigating man's death in custody near Darwin",
-      "bullet_summary": [
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-08-15/death-of-man-during-rosebery-police-search-death-in-custody/105658244",
-          "published_at": "Fri, 15 Aug 2025 05:05:04 +0000",
-          "title": "Police investigating man's death in custody south of Darwin",
-          "standfirst": "A 62-year-old man has died in police custody during the execution of a search warrant at a home in Palmerston, south of Darwin.",
-          "content": "A 62-year-old man has died in police custody during the execution of a search warrant at a home in Palmerston, south of Darwin.",
-          "feed_position": 22
-        }
-      ],
-      "popularity_score": 137.67273083333333,
-      "ai_summary": "• A man died in police custody\n• The death occurred near Darwin\n• A search warrant was being executed\n• The man was 62 years old\n• Police are investigating the circumstances"
-    },
-    {
-      "id": "cluster_64",
-      "coverage": 1,
-      "updated_at": "Fri, 15 Aug 2025 05:00:35 +0000",
-      "title": "Cast iron, non-stick or stainless steel: Which cooking surface should you be using?",
-      "neutral_headline": "Choosing the best cooking surface for your household",
-      "bullet_summary": [
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-08-15/choosing-the-best-type-of-pots-and-pans/105594100",
-          "published_at": "Fri, 15 Aug 2025 05:00:35 +0000",
-          "title": "Cast iron, non-stick or stainless steel: Which cooking surface should you be using?",
-          "standfirst": "We look at the pros and cons of cast iron, stainless steel, and non-stick cookware to see what might suit your household best.",
-          "content": "We look at the pros and cons of cast iron, stainless steel, and non-stick cookware to see what might suit your household best.",
-          "feed_position": 21
-        }
-      ],
-      "popularity_score": 137.5980086111111,
-      "ai_summary": "• Different cooking surfaces are compared\n• Cast iron, non-stick, and stainless steel are discussed\n• The pros and cons of each are examined\n• The article helps choose the best option\n• The article provides guidance for household cooking"
-    },
-    {
-      "id": "cluster_70",
-      "coverage": 1,
-      "updated_at": "Fri, 15 Aug 2025 00:59:56 +0000",
-      "title": "Rakali crowned Australia's most underrated animal, beating palm cockatoo and cuttlefish",
-      "neutral_headline": "Rakali crowned Australia's most underrated animal",
-      "bullet_summary": [
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-08-15/wildlife-blog-15-august-2025/105651126",
-          "published_at": "Fri, 15 Aug 2025 00:59:56 +0000",
-          "title": "Rakali crowned Australia's most underrated animal, beating palm cockatoo and cuttlefish",
-          "standfirst": "After a nail-biting countdown, the rakali — or 'Australian water rat' — is crowned the nation's most underrated animal, with the palm cockatoo and the cuttlefish nabbing a podium finish.",
-          "content": "After a nail-biting countdown, the rakali — or 'Australian water rat' — is crowned the nation's most underrated animal, with the palm cockatoo and the cuttlefish nabbing a podium finish.",
-          "feed_position": 16
-        }
-      ],
-      "popularity_score": 133.5871752777778,
-      "ai_summary": "• The rakali won an online poll\n• It was crowned Australia's most underrated animal\n• The palm cockatoo and cuttlefish placed second and third\n• The poll had a nail-biting finish\n• The rakali is also known as the Australian water rat"
-    },
-    {
-      "id": "cluster_76",
-      "coverage": 1,
-      "updated_at": "Thu, 14 Aug 2025 20:46:37 +0000",
-      "title": "Festival opening night gala cancelled as writers pull out over censorship fears",
-      "neutral_headline": "Festival gala cancelled due to writer censorship fears",
-      "bullet_summary": [
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-08-15/bendigo-writers-festival-writers-withdraw/105656968",
-          "published_at": "Thu, 14 Aug 2025 20:46:37 +0000",
-          "title": "Festival opening night gala cancelled as writers pull out over censorship fears",
-          "standfirst": "Writers scheduled to appear at the event in central Victoria this weekend are refusing to turn up because of a code of conduct they believe limits freedom of speech.",
-          "content": "Writers scheduled to appear at the event in central Victoria this weekend are refusing to turn up because of a code of conduct they believe limits freedom of speech.",
-          "feed_position": 14
-        }
-      ],
-      "popularity_score": 133,
-      "ai_summary": "• A festival gala was cancelled\n• Writers withdrew due to censorship concerns\n• A code of conduct caused the concerns\n• The writers feared limitations on free speech\n• The event was in central Victoria"
-    },
-    {
-      "id": "cluster_77",
-      "coverage": 1,
-      "updated_at": "Thu, 14 Aug 2025 19:00:28 +0000",
-      "title": "'Imputed rent' and what it could mean for a fairer Australia",
-      "neutral_headline": "Imputed rent discussed for fairer Australian tax system",
-      "bullet_summary": [
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-08-15/imputed-rent-tax-home-owners-welfare-productivity-round-table/105647030",
-          "published_at": "Thu, 14 Aug 2025 19:00:28 +0000",
-          "title": "'Imputed rent' and what it could mean for a fairer Australia",
-          "standfirst": "As industry leaders and the federal government prepare for next week's economic summit, two economists have started a national conversation by arguing that, to make Australia's tax system fairer, we should consider taxing home owner-occupancy. Here's what that means.",
-          "content": "As industry leaders and the federal government prepare for next week's economic summit, two economists have started a national conversation by arguing that, to make Australia's tax system fairer, we should consider taxing home owner-occupancy. Here's what that means.",
-          "feed_position": 24
-        }
-      ],
-      "popularity_score": 133,
-      "ai_summary": "• Imputed rent is being discussed\n• It could make Australia's tax system fairer\n• It involves taxing home owner-occupancy\n• Two economists started the conversation\n• The discussion is part of an economic summit"
+      "popularity_score": 144.88424305555554,
+      "ai_summary": "• World leaders are expressing anxiety about Trump's actions.\n• They are concerned about what Trump might agree to.\n• The focus is on the future of another sovereign country.\n• The concern arises from a meeting with Vladimir Putin.\n• The leaders are worried about potential agreements."
     }
   ]
 }
