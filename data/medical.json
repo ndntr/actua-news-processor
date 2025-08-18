@@ -1,17 +1,40 @@
 {
   "clinical": {
-    "updated_at": "2025-08-18T07:18:05.160Z",
+    "updated_at": "2025-08-18T11:12:35.152Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2025-08-18T07:18:05.160Z",
+    "updated_at": "2025-08-18T11:12:35.152Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2025-08-18T07:18:12.481Z",
+    "updated_at": "2025-08-18T11:12:44.081Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Mon, 18 Aug 2025 05:28:12 GMT",
+        "title": "'Chemo wrecked my teeth, I can't afford treatment'",
+        "neutral_headline": "'Chemo wrecked my teeth, I can't afford treatment'",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/cp8zwdr45yxo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 18 Aug 2025 05:28:12 GMT",
+            "title": "'Chemo wrecked my teeth, I can't afford treatment'",
+            "standfirst": "Faye Woodley says dental care in the UK \"feels like we're going back to Victorian times\".",
+            "content": "Faye Woodley says dental care in the UK \"feels like we're going back to Victorian times\".",
+            "feed_position": 1,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50b3/live/9eecd5c0-7855-11f0-8d1f-b10c011c40aa.png"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50b3/live/9eecd5c0-7855-11f0-8d1f-b10c011c40aa.png"
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Mon, 18 Aug 2025 04:00:50 GMT",
         "title": "‘I was completely dehumanised by my father’: how Kate Price uncovered the horrifying truths of her childhood",
@@ -32,11 +55,11 @@
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Mon, 18 Aug 2025 02:59:35 GMT",
-        "title": "Bindi Irwin 'genuinely healing' after 13 years of endometriosis pain",
-        "neutral_headline": "Bindi Irwin 'genuinely healing' after 13 years of endometriosis pain",
+        "title": "Bindi Irwin says she was made to feel 'ashamed' of endometriosis pain",
+        "neutral_headline": "Bindi Irwin says she was made to feel 'ashamed' of endometriosis pain",
         "bullet_summary": [
           "Reported by BBC Health"
         ],
@@ -45,7 +68,7 @@
             "source": "BBC Health",
             "url": "https://www.bbc.com/news/articles/c209dz1yd22o?at_medium=RSS&at_campaign=rss",
             "published_at": "Mon, 18 Aug 2025 02:59:35 GMT",
-            "title": "Bindi Irwin 'genuinely healing' after 13 years of endometriosis pain",
+            "title": "Bindi Irwin says she was made to feel 'ashamed' of endometriosis pain",
             "standfirst": "Her story has reignited conversations about the condition that affects about one in ten women.",
             "content": "Her story has reignited conversations about the condition that affects about one in ten women.",
             "feed_position": 75,
@@ -55,11 +78,11 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/406a/live/ba913930-7bd7-11f0-a634-73b1bf10770e.jpg"
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Mon, 18 Aug 2025 01:07:37 GMT",
-        "title": "Broccoli harvest hit by heatwave and lack of water",
-        "neutral_headline": "Broccoli harvest hit by heatwave and lack of water",
+        "title": "Expect smaller broccoli if heatwave continues, farmers warn",
+        "neutral_headline": "Expect smaller broccoli if heatwave continues, farmers warn",
         "bullet_summary": [
           "Reported by BBC Science"
         ],
@@ -68,7 +91,7 @@
             "source": "BBC Science",
             "url": "https://www.bbc.com/news/articles/c7541rxgez1o?at_medium=RSS&at_campaign=rss",
             "published_at": "Mon, 18 Aug 2025 01:07:37 GMT",
-            "title": "Broccoli harvest hit by heatwave and lack of water",
+            "title": "Expect smaller broccoli if heatwave continues, farmers warn",
             "standfirst": "The British Growers Association warns that supplies of broccoli are 'tight' thanks to the heatwave.",
             "content": "The British Growers Association warns that supplies of broccoli are 'tight' thanks to the heatwave.",
             "feed_position": 1,
@@ -78,7 +101,30 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a17/live/b3490d10-7902-11f0-8815-0b32e54e3c9c.jpg"
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
+        "coverage": 1,
+        "updated_at": "Sun, 17 Aug 2025 23:02:03 GMT",
+        "title": "'Broken and burnt out': Nurse lifts lid on staffing at children's cancer unit",
+        "neutral_headline": "'Broken and burnt out': Nurse lifts lid on staffing at children's cancer unit",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/c2l7x55zy94o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sun, 17 Aug 2025 23:02:03 GMT",
+            "title": "'Broken and burnt out': Nurse lifts lid on staffing at children's cancer unit",
+            "standfirst": "A whistleblower who resigned as a nurse from the Royal Belfast Hospital for Sick Children says staff shortages at a cancer unit are not new.",
+            "content": "A whistleblower who resigned as a nurse from the Royal Belfast Hospital for Sick Children says staff shortages at a cancer unit are not new.",
+            "feed_position": 2,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3051/live/3df08530-78fc-11f0-ad11-cbb0a8541535.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3051/live/3df08530-78fc-11f0-ad11-cbb0a8541535.jpg"
+      },
+      {
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Sun, 17 Aug 2025 23:01:43 GMT",
         "title": "Patients in England given more access to crucial health checks out of hours",
@@ -99,7 +145,7 @@
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Sun, 17 Aug 2025 17:25:36 GMT",
         "title": "The Guardian view on regulating cosmetic procedures: rogue operators must be tackled, but aren’t the only problem | Editorial",
@@ -120,7 +166,7 @@
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Sun, 17 Aug 2025 13:00:32 GMT",
         "title": "The power of pulses: 15 easy, delicious ways to eat more life-changing legumes",
@@ -142,7 +188,7 @@
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Sun, 17 Aug 2025 11:00:29 GMT",
         "title": "Why antibiotics are like fossil fuels",
@@ -163,7 +209,7 @@
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Sun, 17 Aug 2025 06:00:23 GMT",
         "title": "Puppy fat implants: are our pets next in line for weight-loss drugs?",
@@ -184,7 +230,7 @@
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Sat, 16 Aug 2025 23:12:36 GMT",
         "title": "Leaves falling, berries ripe, but it's hot. Is autumn coming early?",
@@ -207,7 +253,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c0b/live/28ef4640-79fa-11f0-abec-f3f54a291b20.png"
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Sat, 16 Aug 2025 21:30:12 GMT",
         "title": "AI tool that speeds up patient discharges trialled by NHS",
@@ -230,7 +276,7 @@
     ]
   },
   "month_in_research": {
-    "updated_at": "2025-08-18T07:18:12.481Z",
+    "updated_at": "2025-08-18T11:12:44.081Z",
     "clusters": []
   }
 }

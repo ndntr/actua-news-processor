@@ -1,124 +1,230 @@
 {
-  "updated_at": "2025-08-18T07:18:12.238Z",
+  "updated_at": "2025-08-18T11:12:37.906Z",
   "clusters": [
     {
-      "id": "cluster_0",
-      "coverage": 3,
-      "updated_at": "Mon, 18 Aug 2025 17:00:58 +1000",
-      "title": "Australia news LIVE: Qantas fined $90 million for illegally sacking 1800 workers; European leaders to join Zelensky in Trump meeting",
-      "neutral_headline": "Qantas Fined $90 Million for Illegal Worker Sacking",
+      "id": "cluster_2",
+      "coverage": 4,
+      "updated_at": "Mon, 18 Aug 2025 10:40:05 +0000",
+      "title": "Tradies find infant's body inside stormwater drain",
+      "neutral_headline": "Infant's Body Found in Perth Stormwater Drain, Police Investigate",
       "bullet_summary": [
-        "Reported by The Age, 9News, ABC News Australia"
+        "The body of an infant has been found in a stormwater drain in Alexander Heights, in Perth's north",
+        "Police said multiple resources were deployed to the suburb of Alexander Heights after they received reports about 1pm on Monday",
+        "Police are investigating after an infant was found dead in a stormwater drain in a street in Perth's north"
+      ],
+      "items": [
+        {
+          "source": "9News",
+          "url": "https://www.9news.com.au/national/body-of-baby-found-in-stormwater-drain/a087d9d8-7cd6-4167-9090-ee57a2f11a0c",
+          "published_at": "Mon, 18 Aug 2025 10:40:05 +0000",
+          "title": "Tradies find infant's body inside stormwater drain",
+          "standfirst": "Police have issued an emergency alert to all Perth maternity hospitals with concerns for the welfare of the mother.",
+          "content": "T he body of an infant has been found in a stormwater drain in Perth&#x27;s north, triggering a city-wide alert to maternity hospitals.Emergency services responded to reports a child had been discovered inside the drain in Alexander Heights about 1pm (3pm AEDT) today.Multiple resources attended the scene on La Salle Road, which was closed to the public.READ MORE: Surfer&#x27;s narrow escape from &#x27;great white&#x27; shark at NSW beach READ MORE: Crime group &#x27;links&#x27; in spotlight after deadly Sydney pub shootingTradespeople working on the storm drain sounded the alarm after making the shocking discovery. A number of ambulance crews were called but stood down soon after when they realised there was nothing they could do to save the infant.This evening, police issued an emergency alert to all Perth maternity hospitals with concerns for the welfare of the mother.Detectives this afternoon spent a long time talking to all the neighbours on the street, looking for CCTV and asking if they&#x27;d noticed anything suspicious in the past 48 hours.They were expected to remain on the scene for some time. The age and gender of the child have not been confirmed. An investigation into the discovery of the child&#x27;s body is ongoing.Anyone with information is urged to contact police immediately on 131 444.DOWNLOAD THE 9NEWS APP: Stay across all the latest in breaking news, sport, politics and the weather via our news app and get notifications sent straight to your smartphone. Available on the Apple App Store and Google Play.",
+          "feed_position": 0,
+          "image_url": "https://prod.static9.net.au/fs/edd96182-22a7-48a7-8641-8746290dfbfd"
+        },
+        {
+          "source": "The Age",
+          "url": "https://www.theage.com.au/national/infant-s-body-found-inside-perth-stormwater-drain-20250818-p5mnxc.html",
+          "published_at": "Mon, 18 Aug 2025 20:10:26 +1000",
+          "title": "Infant’s body found inside Perth stormwater drain",
+          "standfirst": "The body of an infant has been found in a stormwater drain in Alexander Heights, in Perth's north.",
+          "content": "The body of an infant has been found in a stormwater drain in Alexander Heights, in Perth's north.",
+          "feed_position": 6,
+          "image_url": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/f37e3a52a62911a062ed416e7e2acda7c059619c"
+        },
+        {
+          "source": "Guardian Australia",
+          "url": "https://www.theguardian.com/australia-news/2025/aug/18/dead-infant-found-perth-stormwater-drain-ntwnfb",
+          "published_at": "Mon, 18 Aug 2025 09:43:57 GMT",
+          "title": "Dead infant found in Perth stormwater drain",
+          "standfirst": "Police said multiple resources were deployed to Alexander Heights after they received reports about 1pmGet our breaking news email, free app or daily news podcastThe body of a dead infant has been found in a stormwater drain in Perth, Western Australia police have confirmed.Police said multiple resources were deployed to the suburb of Alexander Heights after they received reports about 1pm on Monday. Continue reading...",
+          "content": "Police said multiple resources were deployed to Alexander Heights after they received reports about 1pmGet our breaking news email, free app or daily news podcastThe body of a dead infant has been found in a stormwater drain in Perth, Western Australia police have confirmed.Police said multiple resources were deployed to the suburb of Alexander Heights after they received reports about 1pm on Monday. Continue reading...",
+          "feed_position": 0
+        },
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-08-18/infant-found-dead-in-perth-s-northern-suburbs/105669066",
+          "published_at": "Mon, 18 Aug 2025 08:15:18 +0000",
+          "title": "Infant found dead in stormwater drain in Perth",
+          "standfirst": "Police are investigating after an infant was found dead in a stormwater drain in a street in Perth's north..",
+          "content": "Police are investigating after an infant was found dead in a stormwater drain in a street in Perth's north..",
+          "feed_position": 4
+        }
+      ],
+      "featured_image": "https://prod.static9.net.au/fs/edd96182-22a7-48a7-8641-8746290dfbfd",
+      "popularity_score": 4019.4575261111113,
+      "ai_summary": "• Police are investigating after an infant's body was found in a Perth stormwater drain.\n• The body was discovered in a stormwater drain in Alexander Heights.\n• Authorities issued an emergency alert to Perth maternity hospitals.\n• Police received reports about the incident around 1:00 PM on Monday.\n• Multiple resources were deployed to the suburb of Alexander Heights."
+    },
+    {
+      "id": "cluster_7",
+      "coverage": 2,
+      "updated_at": "Mon, 18 Aug 2025 20:20:25 +1000",
+      "title": "Multimillion-dollar boost and audit for WA hospitals",
+      "neutral_headline": "Western Australia Hospitals Receive Funding for Infrastructure",
+      "bullet_summary": [
+        "A $50 million boost and an audit have been announced to help fix infrastructure issues at West Australian hospitals",
+        "The Cook government has announced a new $50 million health infrastructure maintenance fund, amid mounting pressures on the West Australian public hospital system"
       ],
       "items": [
         {
           "source": "The Age",
-          "url": "https://www.theage.com.au/national/australia-news-live-european-leaders-to-join-zelensky-in-trump-meeting-productivity-boss-calls-for-war-on-bureaucracy-20250818-p5mnnw.html",
-          "published_at": "Mon, 18 Aug 2025 17:00:58 +1000",
-          "title": "Australia news LIVE: Qantas fined $90 million for illegally sacking 1800 workers; European leaders to join Zelensky in Trump meeting",
-          "standfirst": "Follow live as we bring you the news from Australia and beyond.",
-          "content": "Follow live as we bring you the news from Australia and beyond.",
-          "feed_position": 0,
-          "image_url": "https://static.ffx.io/images/$zoom_0.3474%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/5a147a4004100985fd92736132cefa6491a9007a"
+          "url": "https://www.theage.com.au/national/multimillion-dollar-boost-and-audit-for-wa-hospitals-20250818-p5mnxf.html",
+          "published_at": "Mon, 18 Aug 2025 20:20:25 +1000",
+          "title": "Multimillion-dollar boost and audit for WA hospitals",
+          "standfirst": "A $50 million boost and an audit have been announced to help fix infrastructure issues at West Australian hospitals.",
+          "content": "A $50 million boost and an audit have been announced to help fix infrastructure issues at West Australian hospitals.",
+          "feed_position": 5,
+          "image_url": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/1d0d6659501ac159d6291603de9201f898f39573"
+        },
+        {
+          "source": "ABC Just In",
+          "url": "https://www.abc.net.au/news/2025-08-18/roger-cook-50-million-health-infrastructure-maintenance-fund/105667848",
+          "published_at": "Mon, 18 Aug 2025 06:57:13 +0000",
+          "title": "Public hospitals get $50m maintenance boost amid mounting pressure",
+          "standfirst": "The Cook government has announced a new $50 million health infrastructure maintenance fund, amid mounting pressures on the West Australian public hospital system.",
+          "content": "The Cook government has announced a new $50 million health infrastructure maintenance fund, amid mounting pressures on the West Australian public hospital system.",
+          "feed_position": 12
+        }
+      ],
+      "featured_image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/1d0d6659501ac159d6291603de9201f898f39573",
+      "popularity_score": 2019.1297483333333,
+      "ai_summary": "• The West Australian government announced a $50 million boost for hospitals.\n• An audit will be conducted to address infrastructure issues.\n• The funding aims to help fix infrastructure problems in hospitals.\n• The announcement comes amid mounting pressures on the hospital system.\n• The Cook government is providing a health infrastructure maintenance fund."
+    },
+    {
+      "id": "cluster_17",
+      "coverage": 2,
+      "updated_at": "Mon, 18 Aug 2025 19:30:00 +1000",
+      "title": "Cam McInnes feared he’d ruptured his ACL. He went even harder into the next tackle",
+      "neutral_headline": "Sharks Captain McInnes Suffers Second ACL Rupture, Season Over",
+      "bullet_summary": [
+        "Reported by The Age, ABC Just In"
+      ],
+      "items": [
+        {
+          "source": "The Age",
+          "url": "https://www.theage.com.au/sport/nrl/cam-mcinnes-feared-he-d-ruptured-his-acl-he-went-even-harder-into-the-next-tackle-20250818-p5mnw8.html",
+          "published_at": "Mon, 18 Aug 2025 19:30:00 +1000",
+          "title": "Cam McInnes feared he’d ruptured his ACL. He went even harder into the next tackle",
+          "standfirst": "The Cronulla captain opens up about his season-ending injury – and what it means for his future.",
+          "content": "The Cronulla captain opens up about his season-ending injury – and what it means for his future.",
+          "feed_position": 14,
+          "image_url": "https://static.ffx.io/images/$zoom_0.5566282136709423%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_17%2C$y_142/t_crop_custom/q_86%2Cf_auto/3c8965a1f539ed03bb474839126d8d0ce100ee14"
+        },
+        {
+          "source": "The Age",
+          "url": "https://www.theage.com.au/sport/nrl/mcinnes-lifts-lid-on-season-ending-blow-20250818-p5mnwx.html",
+          "published_at": "Mon, 18 Aug 2025 19:29:11 +1000",
+          "title": "McInnes lifts lid on season-ending blow",
+          "standfirst": "Sharks captain Cameron McInnes lifts the lid on suffering a second ACL rupture with his season now over.",
+          "content": "Sharks captain Cameron McInnes lifts the lid on suffering a second ACL rupture with his season now over.",
+          "feed_position": 16,
+          "image_url": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/e2b2b31a5d9bb931054329405b22b612027ebcfe"
+        },
+        {
+          "source": "ABC Just In",
+          "url": "https://www.abc.net.au/news/2025-08-18/nrl-cronulla-sharks-cam-mcinness-acl-rupture/105668284",
+          "published_at": "Mon, 18 Aug 2025 06:28:46 +0000",
+          "title": "Sharks skipper to miss rest of 2025 with second serious knee injury",
+          "standfirst": "Scans reveal inspirational Sharks captain Cameron McInnes will miss the remainder of this season and a large chunk of 2026 with the second ACL rupture of his career.",
+          "content": "Scans reveal inspirational Sharks captain Cameron McInnes will miss the remainder of this season and a large chunk of 2026 with the second ACL rupture of his career.",
+          "feed_position": 15
+        }
+      ],
+      "featured_image": "https://static.ffx.io/images/$zoom_0.5566282136709423%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_17%2C$y_142/t_crop_custom/q_86%2Cf_auto/3c8965a1f539ed03bb474839126d8d0ce100ee14",
+      "popularity_score": 2018.2894705555555,
+      "ai_summary": "• Sharks captain Cameron McInnes suffered a second ACL rupture.\n• The injury means McInnes will miss the remainder of the 2025 season.\n• Scans confirmed the severity of the knee injury.\n• McInnes will also miss a significant portion of the 2026 season.\n• He discussed the season-ending injury and its impact."
+    },
+    {
+      "id": "cluster_18",
+      "coverage": 2,
+      "updated_at": "Mon, 18 Aug 2025 19:29:23 +1000",
+      "title": "Bulldog Jamarra Ugle-Hagan at the scene of nightclub shooting",
+      "neutral_headline": "Bulldogs Player Ugle-Hagan Present at Nightclub Shooting Scene",
+      "bullet_summary": [
+        "Reported by The Age, 9News"
+      ],
+      "items": [
+        {
+          "source": "The Age",
+          "url": "https://www.theage.com.au/sport/afl/western-bulldog-jamarra-ugle-hagan-at-the-scene-of-nightclub-shooting-20250818-p5mnvx.html",
+          "published_at": "Mon, 18 Aug 2025 19:29:23 +1000",
+          "title": "Bulldog Jamarra Ugle-Hagan at the scene of nightclub shooting",
+          "standfirst": "Western Bulldogs star Jamarra Ugle-Hagan was at the scene of a shooting outside of the Love Machine nightclub in the early hours of Sunday morning.",
+          "content": "Western Bulldogs star Jamarra Ugle-Hagan was at the scene of a shooting outside of the Love Machine nightclub in the early hours of Sunday morning.",
+          "feed_position": 15,
+          "image_url": "https://static.ffx.io/images/$zoom_0.586633117422355%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_137%2C$y_47/t_crop_custom/q_86%2Cf_auto/55866646df9245d0019195d210d22068552ae2a1"
         },
         {
           "source": "9News",
-          "url": "https://www.9news.com.au/national/qantas-federal-court-penalty-illegally-sacking-workers-covid/c8661e2a-43b9-41c2-9958-079ebf9efe50",
-          "published_at": "Mon, 18 Aug 2025 05:50:23 +0000",
-          "title": "Qantas fined $90 million for illegally sacking staff",
-          "standfirst": "Australia&#x27;s largest airline has been ordered to pay a landmark penalty of $90 million.",
-          "content": "Australia&#x27;s largest airline has been ordered to pay a landmark penalty of $90 million for what has been dubbed the largest case of illegal sackings in the country&#x27;s history.Qantas outsourced more than 1800 baggage handlers, cleaners and ground staff in 2020, in a move the Federal Court ruled was designed to curb union bargaining power in wage negotiations.The embattled airline&#x27;s appeal to the High Court was unsuccessful, paving the way for the penalty to be awarded on Monday.READ MORE: Four cars including $1 million Ferrari stolen from Melbourne homeThe Transport Workers Union sought the maximum penalty of $121 million, while Qantas urged Justice Michael Lee to impose a \"mid-range\" penalty between $40 million and $80 million.The Federal Court judge cited the \"sheer scale of the contraventions, being the largest of their type\" as a reason to impose a penalty that would deter other businesses from similar conduct.He ordered Qantas to pay $90 million in penalties, $50 million of which is to be paid directly to the union that brought the proceedings and highlighted the illegal conduct.\"To deprive someone of work illegally is to deprive someone of an aspect of their human dignity, and this is not assuaged simply by expressions of regret,\" Justice Lee said.READ MORE: Man charged after father, son, killed going for ice cream in Queensland He was scathing about the embattled airline&#x27;s conduct after the outsourcing, pointing to efforts to place a \"less than candid\" picture of the outsourcing decision before the court.He noted Qantas had apologised publicly but then had attempted to deny any compensation payments to the affected workers.Qantas will have to pay the hefty bill on top of a $120 million compensation payment it has made to the affected ground staff for their economic loss, pain and suffering following the outsourcing.However, Justice Lee said he didn&#x27;t have enough evidence to be convinced those payments would be made.The court was told the scandal-plagued airline began to finally accept responsibility for its actions in 2023, Justice Lee noted, which coincided with the departure of former CEO Alan Joyce.The courtroom was packed with union members and representatives, who hugged and exchanged smiles after Justice Lee handed down his decision.It comes after Qantas also sold tickets to cancelled flights for several years, triggering more legal turmoil and a $100 million fine after it was sued by the Australian Competition and Consumer Commission.In a statement, Qantas said it accepted the court&#x27;s decision.\"We sincerely apologise to each and every one of the 1820 ground handling employees and to their families who suffered as a result,\" chief executive Vanessa Hudson said.\"The decision to outsource five years ago, particularly during such an uncertain time, caused genuine hardship for many of our former team and their families.\"The impact was felt not only by those who lost their jobs, but by our entire workforce.\"Over the past 18 months, we&#x27;ve worked hard to change the way we operate as part of our efforts to rebuild trust with our people and our customers. This remains our highest priority as we work to earn back the trust we lost.\" DOWNLOAD THE 9NEWS APP: Stay across all the latest in breaking news, sport, politics and the weather via our news app and get notifications sent straight to your smartphone. Available on the Apple App Store and Google Play.",
-          "feed_position": 7,
-          "image_url": "https://prod.static9.net.au/fs/bfb5899a-4534-420f-9910-e354600529bc"
-        },
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-08-18/qantas-fined-in-federal-court-job-outsourcing-penalty/105659978",
-          "published_at": "Mon, 18 Aug 2025 00:40:07 +0000",
-          "title": "'Wrong kind of sorry': Qantas fined $90 million for illegally outsourcing jobs",
-          "standfirst": "The airline giant will face a $90 million penalty over its decision to illegally outsource more than 1,800 ground handling jobs during the COVID pandemic.",
-          "content": "The airline giant will face a $90 million penalty over its decision to illegally outsource more than 1,800 ground handling jobs during the COVID pandemic.",
-          "feed_position": 2
+          "url": "https://www.9news.com.au/national/afl-player-jamarra-ugle-hagan-caught-up-in-melbourne-nightclub-shooting/3a9672f8-b05f-4a5d-8d30-7c962fb4d64b",
+          "published_at": "Mon, 18 Aug 2025 06:06:19 +0000",
+          "title": "Western Bulldogs player Jamarra Ugle-Hagan caught up in nightclub shooting",
+          "standfirst": "9News understands Ugle-Hagan&#x27;s friend became involved in a verbal altercation with another group before a fight broke out and a gun was fired about 2.25am on Sunday.",
+          "content": "A FL star Jamarra Ugle-Hagan has been caught up in a non-fatal shooting outside a notorious Melbourne nightclub.The troubled Western Bulldogs forward was outside Love Machine on Chapel Street with a friend when the incident took place in the early hours of yesterday morning.9News Chief Football Reporter Tom Morris revealed Ugle-Hagan&#x27;s friend became involved in a verbal altercation with another group before a fight broke out and a gun was fired about 2.25am.READ MORE: Surfer&#x27;s narrow escape from &#x27;great white&#x27; shark at NSW beachIt is believed Ugle-Hagan, who has not played any football this year due to mental health concerns, wasn&#x27;t physically involved in the scuffle and that he walked back into the venue following the shooting incident.Victoria Police told 9News police are now investigating whether Ugle-Hagan had any involvement in the incident.No arrests have been made in connection to the shooting.The AFL and the Western Bulldogs declined to comment, telling 9News the latest incident is a police matter. It follows a separate incident last month after a car belonging to Ugle-Hagan was involved in a violent crime spree in Melbourne&#x27;s south-east.9News revealed the white Jeep Cherokee was driven to several service stations, where a group of masked thieves allegedly carried out armed robberies.It&#x27;s alleged the group first targeted a milk bar in Keysborough about 7.30pm, before travelling to a service station on Warrigal Road in Cheltenham about an hour later.READ MORE: Crime group &#x27;links&#x27; in spotlight after deadly Sydney pub shootingREAD MORE: Qantas fined $90 million for illegally sacking staffThe Western Bulldogs said the club was aware of the incidents and were satisfied Ugle-Hagan was not involved.9News also exclusively revealed the same vehicle had been involved in a drive-by shooting in June.Three shots were fired at 71-year-old Doug Lee at his Glen Iris home.Ugle-Hagan was questioned by police and has been cleared of any wrongdoing.In a podcast, the 23-year-old said he&#x27;d given his car to a mate because he didn&#x27;t trust himself driving.DOWNLOAD THE 9NEWS APP: Stay across all the latest in breaking news, sport, politics and the weather via our news app and get notifications sent straight to your smartphone. Available on the Apple App Store and Google Play.",
+          "feed_position": 8,
+          "image_url": "https://prod.static9.net.au/fs/ff6970d1-4bc6-43dd-9948-ec8924d192b4"
         }
       ],
-      "featured_image": "https://static.ffx.io/images/$zoom_0.3474%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/5a147a4004100985fd92736132cefa6491a9007a",
-      "popularity_score": 3019.7127116666666,
-      "ai_summary": "• Qantas was fined $90 million for illegally terminating 1,800 employees.\n• The fine is a landmark penalty for the Australian airline.\n• The penalty relates to the illegal outsourcing of ground handling jobs.\n• European leaders are scheduled to meet with Zelensky.\n• The news covers events from Australia and international developments."
+      "featured_image": "https://static.ffx.io/images/$zoom_0.586633117422355%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_137%2C$y_47/t_crop_custom/q_86%2Cf_auto/55866646df9245d0019195d210d22068552ae2a1",
+      "popularity_score": 2018.2791927777778,
+      "ai_summary": "• Western Bulldogs player Jamarra Ugle-Hagan was at a nightclub shooting.\n• The shooting occurred outside the Love Machine nightclub.\n• A friend of Ugle-Hagan was involved in a verbal altercation.\n• A fight broke out before a gun was fired around 2:25 AM Sunday.\n• The incident is under investigation by authorities."
     },
     {
-      "id": "cluster_8",
-      "coverage": 3,
-      "updated_at": "Mon, 18 Aug 2025 06:50:45 GMT",
-      "title": "Qantas fined $90m for illegally sacking ground staff as judge describes airline as ‘the wrong kind of sorry’",
-      "neutral_headline": "Qantas Fined Record $90 Million, Queensland Coal Royalties",
+      "id": "cluster_21",
+      "coverage": 2,
+      "updated_at": "Mon, 18 Aug 2025 09:20:41 GMT",
+      "title": "A reckoning, talkfest or Canberra Coachella? What to expect from the economic reform roundtable",
+      "neutral_headline": "Economic Roundtable, Rothman Barred, Wright Court Case",
       "bullet_summary": [
-        "The Tweed Shire council confirmed Cabarita beach, located about 35km north of Byron Bay, was currently closed",
-        "They said no one was injured in the incident"
+        "Can it be found with a treasurer urging boldness and a more cautious PM",
+        "Reported by Guardian Australia, ABC News Australia"
       ],
       "items": [
         {
           "source": "Guardian Australia",
-          "url": "https://www.theguardian.com/australia-news/2025/aug/18/qantas-fine-90m-illegally-sacking-ground-staff-transport-workers-union-covid-federal-court",
-          "published_at": "Mon, 18 Aug 2025 06:50:45 GMT",
-          "title": "Qantas fined $90m for illegally sacking ground staff as judge describes airline as ‘the wrong kind of sorry’",
-          "standfirst": "Lawyer for Transport Workers’ Union calls record penalty the ‘darkest day’ in airline’s 105-year historyFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastQantas has been fined a record $90m for illegally firing 1,820 baggage handlers and other ground staff in 2020, taking the cost of its controversial outsourcing decision to more than $200m.Justice Michael Lee on Monday handed down his decision on the penalty, nine months after Qantas and the Transport Workers’ Union agreed the airline would pay $120m in compensation to the sacked workers. Continue reading...",
-          "content": "Lawyer for Transport Workers’ Union calls record penalty the ‘darkest day’ in airline’s 105-year historyFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastQantas has been fined a record $90m for illegally firing 1,820 baggage handlers and other ground staff in 2020, taking the cost of its controversial outsourcing decision to more than $200m.Justice Michael Lee on Monday handed down his decision on the penalty, nine months after Qantas and the Transport Workers’ Union agreed the airline would pay $120m in compensation to the sacked workers. Continue reading...",
+          "url": "https://www.theguardian.com/australia-news/2025/aug/18/a-reckoning-talkfest-or-canberra-coachella-what-to-expect-from-the-economic-reform-roundtable",
+          "published_at": "Mon, 18 Aug 2025 09:20:41 GMT",
+          "title": "A reckoning, talkfest or Canberra Coachella? What to expect from the economic reform roundtable",
+          "standfirst": "EV road user charges, cutting red tape for housing approvals and AI guardrails expected to be top of the agendaGet our breaking news email, free app or daily news podcastA reform reckoning, a massive talkfest or Canberra Coachella 2025?Tuesday marks the start of the treasurer’s economic reform roundtable, bringing together business, unions and decision makers at Parliament House. Continue reading...",
+          "content": "EV road user charges, cutting red tape for housing approvals and AI guardrails expected to be top of the agendaGet our breaking news email, free app or daily news podcastA reform reckoning, a massive talkfest or Canberra Coachella 2025?Tuesday marks the start of the treasurer’s economic reform roundtable, bringing together business, unions and decision makers at Parliament House. Continue reading...",
           "feed_position": 1
         },
         {
           "source": "Guardian Australia",
-          "url": "https://www.theguardian.com/australia-news/2025/aug/18/queensland-coal-royalty-royalties-scheme-qld-premier-david-crisafulli",
-          "published_at": "Mon, 18 Aug 2025 06:37:05 GMT",
-          "title": "Queensland premier rules out changes to coal royalty scheme despite pressure from mining industry",
-          "standfirst": "David Crisafulli says LNP ‘not touching’ policy charging rates among world’s highest, as conservationists rubbish industry claims levy causing downturnFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastQueensland’s premier has ruled out changes to the state’s coal royalties regime, often dubbed the world’s highest, amid pressure from the industry.David Crisafulli gave his strongest denial yet of any changes at a press conference in Emerald, in central Queensland, ahead of a cabinet meeting on Monday. Continue reading...",
-          "content": "David Crisafulli says LNP ‘not touching’ policy charging rates among world’s highest, as conservationists rubbish industry claims levy causing downturnFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastQueensland’s premier has ruled out changes to the state’s coal royalties regime, often dubbed the world’s highest, amid pressure from the industry.David Crisafulli gave his strongest denial yet of any changes at a press conference in Emerald, in central Queensland, ahead of a cabinet meeting on Monday. Continue reading...",
+          "url": "https://www.theguardian.com/world/2025/aug/18/far-right-israeli-politician-barred-from-australia-ahead-of-speaking-tour-ntwnfb",
+          "published_at": "Mon, 18 Aug 2025 08:56:02 GMT",
+          "title": "Far-right Israeli politician barred from Australia ahead of speaking tour",
+          "standfirst": "Simcha Rothman – a supporter of plan to remove Palestinians from Gaza – was scheduled to appear at events in Sydney and MelbourneFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA far-right Israeli politician, who has described Palestinian children in Gaza as “enemies” and called for Israel’s total control of the West Bank, has been denied entry into Australia ahead of an upcoming “solidarity tour”.Simcha Rothman, a member of the Knesset for the far-right party Religious Zionism, was scheduled to appear at two public events in Sydney and Melbourne in August and two private events billed as a “solidarity tour”. Continue reading...",
+          "content": "Simcha Rothman – a supporter of plan to remove Palestinians from Gaza – was scheduled to appear at events in Sydney and MelbourneFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA far-right Israeli politician, who has described Palestinian children in Gaza as “enemies” and called for Israel’s total control of the West Bank, has been denied entry into Australia ahead of an upcoming “solidarity tour”.Simcha Rothman, a member of the Knesset for the far-right party Religious Zionism, was scheduled to appear at two public events in Sydney and Melbourne in August and two private events billed as a “solidarity tour”. Continue reading...",
           "feed_position": 2
         },
         {
           "source": "Guardian Australia",
-          "url": "https://www.theguardian.com/world/2025/aug/18/queensland-police-go-to-court-in-bid-to-stop-story-bridge-pro-palestine-protest-march",
-          "published_at": "Mon, 18 Aug 2025 06:01:54 GMT",
-          "title": "Queensland police go to court in bid to stop Story Bridge pro-Palestine protest march",
-          "standfirst": "Case heads to Brisbane magistrates court after mediation between Justice for Palestine Magan-djin and police failsFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe Queensland police service will take protest organisers to court in an effort to halt a planned pro-Palestine march over Brisbane’s Story Bridge this weekend.Justice for Palestine Magan-djin (Brisbane) have advertised plans to march over the bridge at 1pm on Sunday – replicating similar protests that occurred earlier this month in Sydney and Melbourne. Continue reading...",
-          "content": "Case heads to Brisbane magistrates court after mediation between Justice for Palestine Magan-djin and police failsFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe Queensland police service will take protest organisers to court in an effort to halt a planned pro-Palestine march over Brisbane’s Story Bridge this weekend.Justice for Palestine Magan-djin (Brisbane) have advertised plans to march over the bridge at 1pm on Sunday – replicating similar protests that occurred earlier this month in Sydney and Melbourne. Continue reading...",
+          "url": "https://www.theguardian.com/australia-news/2025/aug/18/outback-wrangler-court-helicopter-pilot-ntwnfb",
+          "published_at": "Mon, 18 Aug 2025 08:18:43 GMT",
+          "title": "Outback Wrangler star asked colleague to take paralysed pilot’s phone from hospital after fatal crash, court told",
+          "standfirst": "Reality TV star Matt Wright has pleaded not guilty to three charges of attempting to pervert the course of justiceFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastReality TV star Matt Wright told an associate to collect the phone of a severely injured pilot following a fatal helicopter crash, a jury has heard.The Outback Wrangler star has pleaded not guilty to three counts of attempting to pervert the course of justice in the Northern Territory supreme court in Darwin. Continue reading...",
+          "content": "Reality TV star Matt Wright has pleaded not guilty to three charges of attempting to pervert the course of justiceFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastReality TV star Matt Wright told an associate to collect the phone of a severely injured pilot following a fatal helicopter crash, a jury has heard.The Outback Wrangler star has pleaded not guilty to three counts of attempting to pervert the course of justice in the Northern Territory supreme court in Darwin. Continue reading...",
           "feed_position": 3
         },
         {
           "source": "Guardian Australia",
-          "url": "https://www.theguardian.com/australia-news/2025/aug/18/afternoon-update-monday-ntwnfb",
-          "published_at": "Mon, 18 Aug 2025 06:01:30 GMT",
-          "title": "Afternoon update: Qantas fined $90m; far-right Israeli MP barred from Australia; and Margaret Pomeranz remembers David Stratton",
-          "standfirst": "Want to get this in your inbox every weekday? Sign up for the Afternoon Update here, and start your day with our Morning Mail newsletter.Good afternoon. Qantas has been fined a record $90m in the federal court for illegally firing 1,820 baggage handlers and other ground staff during Covid lockdowns in 2020, taking the cost of its controversial outsourcing decision to more than $200m.Justice Michael Lee handed down his decision on the penalty on Monday, nine months after Qantas and the Transport Workers’ Union agreed the airline would pay $120m in compensation to the sacked workers.Far-right Israeli politician barred from Australia ahead of speaking tourAFL integrity unit investigate Izak Rankine over alleged homophobic slurTrump rules out Ukraine reclaiming Crimea or joining Nato as European leaders gather in WashingtonBolivia presidential election: preliminary results put two rightwing candidates in runoff voteTerence Stamp remembered by Priscilla director Stephan Elliott: ‘Those eyes turned everybody to jelly’‘Skibidi’, ‘delulu’ and ‘tradwife’ among words added to Cambridge Dictionary Continue reading...",
-          "content": "Want to get this in your inbox every weekday? Sign up for the Afternoon Update here, and start your day with our Morning Mail newsletter.Good afternoon. Qantas has been fined a record $90m in the federal court for illegally firing 1,820 baggage handlers and other ground staff during Covid lockdowns in 2020, taking the cost of its controversial outsourcing decision to more than $200m.Justice Michael Lee handed down his decision on the penalty on Monday, nine months after Qantas and the Transport Workers’ Union agreed the airline would pay $120m in compensation to the sacked workers.Far-right Israeli politician barred from Australia ahead of speaking tourAFL integrity unit investigate Izak Rankine over alleged homophobic slurTrump rules out Ukraine reclaiming Crimea or joining Nato as European leaders gather in WashingtonBolivia presidential election: preliminary results put two rightwing candidates in runoff voteTerence Stamp remembered by Priscilla director Stephan Elliott: ‘Those eyes turned everybody to jelly’‘Skibidi’, ‘delulu’ and ‘tradwife’ among words added to Cambridge Dictionary Continue reading...",
-          "feed_position": 4
-        },
-        {
-          "source": "The Age",
-          "url": "https://www.theage.com.au/national/queensland/take-us-to-court-pro-palestine-protesters-challenge-police-over-bridge-march-20250818-p5mntb.html",
-          "published_at": "Mon, 18 Aug 2025 15:41:57 +1000",
-          "title": "‘Take us to court’: Pro-Palestine protesters challenge police over bridge march",
-          "standfirst": "Organisers say a march across the Story Bridge will go ahead on Sunday, despite talks with police collapsing on Monday.",
-          "content": "Organisers say a march across the Story Bridge will go ahead on Sunday, despite talks with police collapsing on Monday.",
-          "feed_position": 14,
-          "image_url": "https://static.ffx.io/images/$zoom_0.3346%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_131%2C$y_0/t_crop_custom/q_86%2Cf_auto/5f8b4b43f80d8bcc7b30658785912b4729d07411c5d700bcf618af4eb015fe58"
-        },
-        {
-          "source": "Guardian Australia",
-          "url": "https://www.theguardian.com/australia-news/2025/aug/18/shark-bite-surfboard-cabarita-beach-nsw-closed",
-          "published_at": "Mon, 18 Aug 2025 04:47:33 GMT",
-          "title": "Shark’s big bite of surfer’s board forces beach to close on Australia’s east coast",
-          "standfirst": "US surfing legend Kelly Slater said on Instagram he was surprised the New South Wales surfer escaped without any injuriesFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA shark that bit a large chunk out of a surfer’s board on Monday has forced the temporary closure of a New South Wales beach and prompted surfing legend Kelly Slater to describe the man’s injury-free escape as “incredible”.The Tweed Shire council confirmed Cabarita beach, located about 35km north of Byron Bay, was currently closed. They said no one was injured in the incident. Continue reading...",
-          "content": "US surfing legend Kelly Slater said on Instagram he was surprised the New South Wales surfer escaped without any injuriesFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA shark that bit a large chunk out of a surfer’s board on Monday has forced the temporary closure of a New South Wales beach and prompted surfing legend Kelly Slater to describe the man’s injury-free escape as “incredible”.The Tweed Shire council confirmed Cabarita beach, located about 35km north of Byron Bay, was currently closed. They said no one was injured in the incident. Continue reading...",
+          "url": "https://www.theguardian.com/environment/2025/aug/18/monarch-butterfly-swarm-nannup-western-australia",
+          "published_at": "Mon, 18 Aug 2025 07:06:28 GMT",
+          "title": "‘It felt magical’: monarch butterfly swarm delights visitors and locals in Western Australia town",
+          "standfirst": "For more than two months, the bright orange butterflies have been descending on Nannup in WA’s south-west, attracted by invasive plant speciesFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastLounging on the tulips, roosting in the eucalyptus, humming around the bottlebrush – a butterfly swarm has invaded a rural Australian town to the delight of locals and tourists alike.Thousands of monarch butterflies have taken over Nannup, in south-west Western Australia, although experts warn their high numbers are evidence of the advance of invasive weeds. Continue reading...",
+          "content": "For more than two months, the bright orange butterflies have been descending on Nannup in WA’s south-west, attracted by invasive plant speciesFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastLounging on the tulips, roosting in the eucalyptus, humming around the bottlebrush – a butterfly swarm has invaded a rural Australian town to the delight of locals and tourists alike.Thousands of monarch butterflies have taken over Nannup, in south-west Western Australia, although experts warn their high numbers are evidence of the advance of invasive weeds. Continue reading...",
           "feed_position": 5
         },
         {
           "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-08-18/qld-police-pro-palestinian-protest-story-bridge-court-action/105665938",
-          "published_at": "Mon, 18 Aug 2025 03:59:41 +0000",
-          "title": "Police to take court action over proposed Story Bridge march",
-          "standfirst": "The Queensland Police Service (QPS) says it will take pro-Palestinian protest organisers to court in an effort stop a march over Brisbane's Story Bridge this Sunday.",
-          "content": "The Queensland Police Service (QPS) says it will take pro-Palestinian protest organisers to court in an effort stop a march over Brisbane's Story Bridge this Sunday.",
-          "feed_position": 15
+          "url": "https://www.abc.net.au/news/2025-08-18/simcha-rothman-visa-cancelled/105668088",
+          "published_at": "Mon, 18 Aug 2025 06:11:25 +0000",
+          "title": "Far-right Israeli politician's visa cancelled ahead of speaking tour",
+          "standfirst": "The federal government has cancelled the visa of Israeli politician Simcha Rothman, a member of Israel's far right Mafdal-Religious Zionism party, just days before he was due to arrive in Australia for a speaking event.",
+          "content": "The federal government has cancelled the visa of Israeli politician Simcha Rothman, a member of Israel's far right Mafdal-Religious Zionism party, just days before he was due to arrive in Australia for a speaking event.",
+          "feed_position": 0
         },
         {
           "source": "Guardian Australia",
@@ -137,101 +243,82 @@
           "standfirst": "Productivity Commission chair urges ‘growth mindset’ to solve looming problems for future generations, while reiterating call to limit AI regulationFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastYoung Australians may endure worse lives than their parents, the nation’s productivity chief has warned.Danielle Wood, the chair of the Productivity Commission, said young people are facing a future of lower wages, increased costs and the impacts of climate breakdown without major government action to tackle major economic challenges. Continue reading...",
           "content": "Productivity Commission chair urges ‘growth mindset’ to solve looming problems for future generations, while reiterating call to limit AI regulationFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastYoung Australians may endure worse lives than their parents, the nation’s productivity chief has warned.Danielle Wood, the chair of the Productivity Commission, said young people are facing a future of lower wages, increased costs and the impacts of climate breakdown without major government action to tackle major economic challenges. Continue reading...",
           "feed_position": 7
+        },
+        {
+          "source": "Guardian Australia",
+          "url": "https://www.theguardian.com/business/2025/aug/17/jim-chalmers-claims-economic-reform-roundtable-success",
+          "published_at": "Sun, 17 Aug 2025 05:45:33 GMT",
+          "title": "Chalmers stares down ‘grumps and cynics’ as he claims summit already a success before it begins",
+          "standfirst": "The treasurer says ‘the usual suspects’ want the economic reform roundtable to fail, ‘that’s pretty obvious’Get our breaking news email, free app or daily news podcastThe treasurer claims the economic reform summit has already been a success – despite it not beginning until Tuesday and facing scepticism from some critics – because it has “focused” Australians on productivity and red tape.Staring down “grumps and cynics” in some political and media circles, Jim Chalmers claimed the three-day roundtable would help build the next three federal budgets and lead to greater cooperation between important voices in Australian public life. Continue reading...",
+          "content": "The treasurer says ‘the usual suspects’ want the economic reform roundtable to fail, ‘that’s pretty obvious’Get our breaking news email, free app or daily news podcastThe treasurer claims the economic reform summit has already been a success – despite it not beginning until Tuesday and facing scepticism from some critics – because it has “focused” Australians on productivity and red tape.Staring down “grumps and cynics” in some political and media circles, Jim Chalmers claimed the three-day roundtable would help build the next three federal budgets and lead to greater cooperation between important voices in Australian public life. Continue reading...",
+          "feed_position": 8
+        },
+        {
+          "source": "Guardian Australia",
+          "url": "https://www.theguardian.com/business/commentisfree/2025/aug/17/australia-is-facing-an-existential-tsunami-but-jim-chalmers-economic-roundtable-risks-putting-lipstick-on-a-dinosaur",
+          "published_at": "Sat, 16 Aug 2025 20:00:11 GMT",
+          "title": "Australia is facing an existential tsunami. But Jim Chalmers’ economic roundtable risks putting lipstick on a dinosaur | Julianne Schultz",
+          "standfirst": "Bob Hawke excelled at finding the middle ground. Can it be found with a treasurer urging boldness and a more cautious PM?Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastWhen Bob Hawke decided to host a summit in Canberra on the economic future of Australia, shortly after his election as prime minister in 1983, most thought it was a window-dressing gimmick by the flamboyant showman politician. “This consensus is bullshit,” the New South Wales Labor premier Neville Wran declared. “It won’t work.”But it did. Continue reading...",
+          "content": "Bob Hawke excelled at finding the middle ground. Can it be found with a treasurer urging boldness and a more cautious PM?Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastWhen Bob Hawke decided to host a summit in Canberra on the economic future of Australia, shortly after his election as prime minister in 1983, most thought it was a window-dressing gimmick by the flamboyant showman politician. “This consensus is bullshit,” the New South Wales Labor premier Neville Wran declared. “It won’t work.”But it did. Continue reading...",
+          "feed_position": 12
         }
       ],
-      "featured_image": "https://static.ffx.io/images/$zoom_0.3346%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_131%2C$y_0/t_crop_custom/q_86%2Cf_auto/5f8b4b43f80d8bcc7b30658785912b4729d07411c5d700bcf618af4eb015fe58",
-      "popularity_score": 3019.542433888889,
-      "ai_summary": "• Qantas was fined a record $90 million for illegally firing ground staff in 2020.\n• The penalty relates to outsourcing over 1,800 baggage handlers and other staff.\n• Queensland's premier ruled out changes to coal royalty schemes.\n• Police will go to court to stop a pro-Palestine protest march.\n• The Transport Workers' Union called the penalty the darkest day."
+      "popularity_score": 2018.1341927777778,
+      "ai_summary": "• An economic reform roundtable is scheduled to begin on Tuesday.\n• Far-right Israeli politician Simcha Rothman was denied entry to Australia.\n• Outback Wrangler star Matt Wright is facing court over a fatal crash.\n• Rothman was scheduled to speak at events in Sydney and Melbourne.\n• Wright pleaded not guilty to charges of attempting to pervert justice."
     },
     {
-      "id": "cluster_6",
+      "id": "cluster_27",
       "coverage": 2,
-      "updated_at": "Mon, 18 Aug 2025 16:54:56 +1000",
-      "title": "Crime group 'links' investigated after deadly Sydney pub shooting",
-      "neutral_headline": "Police Investigate Sydney Pub Shooting, Organized Crime Links",
+      "updated_at": "Mon, 18 Aug 2025 08:42:50 +0000",
+      "title": "'Insane': Surfer's miracle escape from huge shark at NSW beach",
+      "neutral_headline": "Surfer Has Narrow Escape from Shark Attack in New South Wales",
       "bullet_summary": [
-        "Reported by The Age, ABC News Australia"
+        "Reported by 9News, ABC News Australia"
       ],
       "items": [
         {
-          "source": "The Age",
-          "url": "https://www.theage.com.au/national/crime-group-links-investigated-after-deadly-sydney-pub-shooting-20250818-p5mnw5.html",
-          "published_at": "Mon, 18 Aug 2025 16:54:56 +1000",
-          "title": "Crime group 'links' investigated after deadly Sydney pub shooting",
-          "standfirst": "Police are investigating organised crime links after one man was shot dead and another was seriously injured outside a pub in Sydney.",
-          "content": "Police are investigating organised crime links after one man was shot dead and another was seriously injured outside a pub in Sydney.",
-          "feed_position": 2,
-          "image_url": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/eb248f4a6f8e3033b1870b2ee2d2b43ffa78c6e8"
+          "source": "9News",
+          "url": "https://www.9news.com.au/national/shark-attack-nsw-cabarita-beach/550e7a01-65b4-4d4b-b928-d825f50bd99d",
+          "published_at": "Mon, 18 Aug 2025 08:42:50 +0000",
+          "title": "'Insane': Surfer's miracle escape from huge shark at NSW beach",
+          "standfirst": "A surfer has had a narrow escape from a shark at a beach in northern NSW where a teenager was bitten just months ago.",
+          "content": "A surfer has had a narrow escape from a shark at a beach in northern NSW where a teenager was bitten just months ago.Footage caught on Coast Cam at Cabarita Beach at 7.26am today shows surfer Brad Ross in the water alongside a dark shape, before splashing.The attack lasted only seconds and surfers around Ross were not immediately aware of what was unfolding.READ MORE: Major manhunt after deadly double shooting outside Sydney pubRoss was uninjured but a massive bite was taken from his board. Witness Kane Douglas described seeing an \" explosion of water and foam\".\"One part of the board went that way, his board was still attached to him,\" Douglas said.\"The first thing I checked for when he started saying &#x27;shark&#x27; was blood in the water.\" Grace Shaw told 9News she caught a wave moments before the attack. \"We both looked at the wave and I got it, and it was amazing and then I looked back to paddle out and his board&#x27;s in pieces and his mate&#x27;s like, &#x27;Mate are you okay?&#x27; and he&#x27;s like, &#x27;I don&#x27;t know what happened, it just blew up&#x27;,\" Shaw said.\"I was just like, &#x27;I&#x27;m okay, he&#x27;s okay, if I&#x27;m gonna die, I&#x27;m gonna die&#x27;.\"Moments later a great white shark, approximately five metres long, was spotted on drone footage.Within hours, a nearby drum-line snagged a shark fitting that description but it broke free before it was able to be tagged.Shark expert Dr Daryl McPhee from Bond University said sharks were expected in the area at this time of year.\"We expect white sharks in that northern New South Wales area at this time of year following the bait fish and also following the whale migration,\" he said.READ MORE: Extraordinary move ahead of Zelenskyy, Trump meetingSurfing great Kelly Slater expressed his disbelief about the lucky escape.\"How does it bite that much and miss the guy? Insane!\" he wrote in an Instagram comment.Cabarita Beach is south of Kingscliff, just south of the NSW-Queensland border. The beach was closed by the local Tweed Shire Council today. Mayor Chris Cherry said surfers seen in the water later that day were taking an \"unnecessary risk\". In June, a 16-year-old boy was hospitalised after an encounter with a shark at the same beach.DOWNLOAD THE 9NEWS APP: Stay across all the latest in breaking news, sport, politics and the weather via our news app and get notifications sent straight to your smartphone. Available on the Apple App Store and Google Play.",
+          "feed_position": 10,
+          "image_url": "https://prod.static9.net.au/fs/b75a9b00-dac1-4afd-8ab7-8ea9da1c8ac4"
         },
         {
           "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-08-18/nsw-police-organised-crime-shooting-glebe/105665772",
-          "published_at": "Mon, 18 Aug 2025 00:04:39 +0000",
-          "title": "Witness recounts 'loud bangs' and gun 'flash' at pub shooting in Sydney",
-          "standfirst": "A shooting that left one man dead and another seriously injured in Sydney's inner-city has been described by police as a \"brazen and callous attack\" and a targeted ambush.",
-          "content": "A shooting that left one man dead and another seriously injured in Sydney's inner-city has been described by police as a \"brazen and callous attack\" and a targeted ambush.",
-          "feed_position": 22
+          "url": "https://www.abc.net.au/news/2025-08-18/shark-scare-at-cabarita-after-bite-snaps-surfer-s-board-in-two/105666520",
+          "published_at": "Mon, 18 Aug 2025 03:45:23 +0000",
+          "title": "Surfer's 'miracle' escape as shark snaps board in two at NSW beach",
+          "standfirst": "A surfer sitting on his board was attacked early this morning on the New South Wales north coast.",
+          "content": "A surfer sitting on his board was attacked early this morning on the New South Wales north coast.",
+          "feed_position": 8
         }
       ],
-      "featured_image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/eb248f4a6f8e3033b1870b2ee2d2b43ffa78c6e8",
-      "popularity_score": 2019.612156111111,
-      "ai_summary": "• One man died, and another was seriously injured in a Sydney pub shooting.\n• Police are investigating potential organized crime links to the shooting.\n• The shooting occurred outside a pub in Sydney.\n• Police described the attack as brazen and callous.\n• The incident is being investigated as a targeted ambush."
+      "featured_image": "https://prod.static9.net.au/fs/b75a9b00-dac1-4afd-8ab7-8ea9da1c8ac4",
+      "popularity_score": 2017.5033594444444,
+      "ai_summary": "• A surfer had a narrow escape from a shark at a NSW beach.\n• The shark attack occurred on the New South Wales north coast.\n• The shark snapped the surfer's board in two.\n• A teenager was bitten at the same beach months prior.\n• The incident is being investigated by authorities."
     },
     {
-      "id": "cluster_14",
+      "id": "cluster_32",
       "coverage": 2,
-      "updated_at": "Mon, 18 Aug 2025 16:29:39 +1000",
-      "title": "AFL player caught up in Melbourne nightclub shooting",
-      "neutral_headline": "AFL Player Involved in Melbourne Nightclub Shooting",
-      "bullet_summary": [
-        "Reported by The Age, 9News"
-      ],
-      "items": [
-        {
-          "source": "The Age",
-          "url": "https://www.theage.com.au/national/afl-player-caught-up-in-melbourne-nightclub-shooting-20250818-p5mnvq.html",
-          "published_at": "Mon, 18 Aug 2025 16:29:39 +1000",
-          "title": "AFL player caught up in Melbourne nightclub shooting",
-          "standfirst": "Jamarra Ugle-Hagan has been caught up in a non-fatal shooting outside a Melbourne nightclub.",
-          "content": "Jamarra Ugle-Hagan has been caught up in a non-fatal shooting outside a Melbourne nightclub.",
-          "feed_position": 7,
-          "image_url": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/3f39bcf964bda736f3a430ce8be462fb3d0e8af3"
-        },
-        {
-          "source": "9News",
-          "url": "https://www.9news.com.au/national/afl-player-jamarra-ugle-hagan-caught-up-in-melbourne-nightclub-shooting/3a9672f8-b05f-4a5d-8d30-7c962fb4d64b",
-          "published_at": "Mon, 18 Aug 2025 06:06:19 +0000",
-          "title": "Western Bulldogs player Jamarra Ugle-Hagan caught up in nightclub shooting",
-          "standfirst": "9News understands Ugle-Hagan&#x27;s friend became involved in a verbal altercation with another group before a fight broke out and a gun was fired about 2.25am on Sunday.",
-          "content": "A FL star Jamarra Ugle-Hagan has been caught up in a non-fatal shooting outside a notorious Melbourne nightclub.The troubled Western Bulldogs forward was outside Love Machine on Chapel Street with a friend when the incident took place in the early hours of yesterday morning.9News Chief Football Reporter Tom Morris revealed Ugle-Hagan&#x27;s friend became involved in a verbal altercation with another group before a fight broke out and a gun was fired about 2.25am.READ MORE: Surfer&#x27;s narrow escape from &#x27;great white&#x27; shark at NSW beachIt is believed Ugle-Hagan, who has not played any football this year due to mental health concerns, wasn&#x27;t physically involved in the scuffle and that he walked back into the venue following the shooting incident.Victoria Police told 9News police are now investigating whether Ugle-Hagan had any involvement in the incident.No arrests have been made in connection to the shooting.The AFL and the Western Bulldogs declined to comment, telling 9News the latest incident is a police matter. It follows a separate incident last month after a car belonging to Ugle-Hagan was involved in a violent crime spree in Melbourne&#x27;s south-east.9News revealed the white Jeep Cherokee was driven to several service stations, where a group of masked thieves allegedly carried out armed robberies.It&#x27;s alleged the group first targeted a milk bar in Keysborough about 7.30pm, before travelling to a service station on Warrigal Road in Cheltenham about an hour later.READ MORE: Crime group &#x27;links&#x27; in spotlight after deadly Sydney pub shootingREAD MORE: Qantas fined $90 million for illegally sacking staffThe Western Bulldogs said the club was aware of the incidents and were satisfied Ugle-Hagan was not involved.9News also exclusively revealed the same vehicle had been involved in a drive-by shooting in June.Three shots were fired at 71-year-old Doug Lee at his Glen Iris home.Ugle-Hagan was questioned by police and has been cleared of any wrongdoing.In a podcast, the 23-year-old said he&#x27;d given his car to a mate because he didn&#x27;t trust himself driving.DOWNLOAD THE 9NEWS APP: Stay across all the latest in breaking news, sport, politics and the weather via our news app and get notifications sent straight to your smartphone. Available on the Apple App Store and Google Play.",
-          "feed_position": 8,
-          "image_url": "https://prod.static9.net.au/fs/ff6970d1-4bc6-43dd-9948-ec8924d192b4"
-        }
-      ],
-      "featured_image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/3f39bcf964bda736f3a430ce8be462fb3d0e8af3",
-      "popularity_score": 2019.1907672222221,
-      "ai_summary": "• AFL player Jamarra Ugle-Hagan was involved in a Melbourne nightclub shooting.\n• A friend of Ugle-Hagan was involved in a verbal altercation.\n• A fight broke out, and a gun was fired at approximately 2:25 AM.\n• The shooting occurred outside a Melbourne nightclub.\n• Ugle-Hagan was not injured in the incident."
-    },
-    {
-      "id": "cluster_22",
-      "coverage": 2,
-      "updated_at": "Mon, 18 Aug 2025 16:03:24 +1000",
-      "title": "Rankine called Pie to apologise amid AFL investigation into alleged homophobic slur",
-      "neutral_headline": "AFL Investigating Alleged Homophobic Slur by Rankine",
+      "updated_at": "Mon, 18 Aug 2025 08:19:42 +0000",
+      "title": "Pies star says AFL must 'stamp out' homophobic slurs amid Rankine probe",
+      "neutral_headline": "AFL Investigates Homophobic Slur Allegations Against Rankine",
       "bullet_summary": [
         "Izak Rankine could face an AFL investigation as the league's integrity unit looks into reported allegations the Adelaide Crows star used a homophobic slur during the win over Collingwood",
-        "Reported by The Age, ABC Sport"
+        "Reported by ABC Just In, ABC Sport"
       ],
       "items": [
         {
-          "source": "The Age",
-          "url": "https://www.theage.com.au/sport/afl/adelaide-crows-star-set-to-be-investigated-for-inappropriate-comment-20250817-p5mnn2.html",
-          "published_at": "Mon, 18 Aug 2025 16:03:24 +1000",
-          "title": "Rankine called Pie to apologise amid AFL investigation into alleged homophobic slur",
-          "standfirst": "The AFL’s integrity unit is investigating an alleged homophobic slur by Adelaide star Izak Rankine towards his Collingwood opponent during Saturday night’s match at Adelaide Oval.",
-          "content": "The AFL’s integrity unit is investigating an alleged homophobic slur by Adelaide star Izak Rankine towards his Collingwood opponent during Saturday night’s match at Adelaide Oval.",
-          "feed_position": 9,
-          "image_url": "https://static.ffx.io/images/$zoom_0.4776%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_252%2C$y_53/t_crop_custom/q_86%2Cf_auto/ebbf6db841a63cddb3b3e7d78b81d1c616912dfc"
+          "source": "ABC Just In",
+          "url": "https://www.abc.net.au/news/2025-08-18/afl-brayden-maynard-homophobic-slurs-rankine-stamp-out/105668614",
+          "published_at": "Mon, 18 Aug 2025 08:19:42 +0000",
+          "title": "Pies star says AFL must 'stamp out' homophobic slurs amid Rankine probe",
+          "standfirst": "Collingwood vice-captain Brayden Maynard says homophobic slurs have \"happened too often\" as the league investigates an alleged remark made by Izak Rankine against the Magpies.",
+          "content": "Collingwood vice-captain Brayden Maynard says homophobic slurs have \"happened too often\" as the league investigates an alleged remark made by Izak Rankine against the Magpies.",
+          "feed_position": 5
         },
         {
           "source": "ABC Sport",
@@ -240,170 +327,64 @@
           "title": "Crows star Rankine facing AFL investigation for alleged on-field incident",
           "standfirst": "Izak Rankine could face an AFL investigation as the league's integrity unit looks into reported allegations the Adelaide Crows star used a homophobic slur during the win over Collingwood.",
           "content": "Izak Rankine could face an AFL investigation as the league's integrity unit looks into reported allegations the Adelaide Crows star used a homophobic slur during the win over Collingwood.",
-          "feed_position": 4
+          "feed_position": 6
         }
       ],
-      "featured_image": "https://static.ffx.io/images/$zoom_0.4776%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_252%2C$y_53/t_crop_custom/q_86%2Cf_auto/ebbf6db841a63cddb3b3e7d78b81d1c616912dfc",
-      "popularity_score": 2018.7532672222221,
-      "ai_summary": "• The AFL is investigating an alleged homophobic slur by Izak Rankine.\n• The alleged slur occurred during a match against Collingwood.\n• Rankine reportedly used the slur towards his Collingwood opponent.\n• The incident happened during a Saturday night match.\n• The AFL's integrity unit is handling the investigation."
+      "popularity_score": 2017.1178038888888,
+      "ai_summary": "• The AFL is investigating an alleged homophobic slur by Izak Rankine.\n• Collingwood vice-captain Brayden Maynard commented on the situation.\n• The league's integrity unit is looking into the reported allegations.\n• Rankine is an Adelaide Crows star.\n• The alleged incident occurred during a game against Collingwood."
     },
     {
-      "id": "cluster_42",
-      "coverage": 2,
-      "updated_at": "Mon, 18 Aug 2025 04:56:24 +0000",
-      "title": "Former pilot accused of murdering his wife has bail breach charge dismissed",
-      "neutral_headline": "Former Pilot Cleared of Bail Breach, Murder Accusation",
-      "bullet_summary": [
-        "Reported by 9News, ABC Just In"
-      ],
-      "items": [
-        {
-          "source": "9News",
-          "url": "https://www.9news.com.au/national/robert-john-crawford-bail-breach-dismissed-after-charges/b0390e61-6a94-4b82-a926-a990bc72c9ea",
-          "published_at": "Mon, 18 Aug 2025 04:56:24 +0000",
-          "title": "Former pilot accused of murdering his wife has bail breach charge dismissed",
-          "standfirst": "Robert John Crawford, 47, faced a summary hearing in Toowoomba Magistrates Court today charged with breaching bail conditions by not answering his door to police.",
-          "content": "A former air force pilot accused of murder after his wife&#x27;s body was found near a lawnmower has had a bail breach dismissed.Robert John Crawford, 47, faced a summary hearing in Toowoomba Magistrates Court today charged with breaching bail conditions by not answering his door to police.Crawford faced strict bail conditions, including an 8pm to 8am home curfew, after he was charged with murder and interfering with a corpse.READ MORE: Major manhunt after deadly double shooting outside Sydney pubHe was accused of staging the death of his wife, Frances Crawford, to look like an accident after she was found near the ride-on lawnmower at a rural Upper Lockyer property, west of Brisbane, in July 2024.Crawford was charged in October 2024 and granted bail in May, which had conditions including the home curfew.Magistrate Mark Howden heard that an officer knocked on Crawford&#x27;s home at 1.55am on June 13 after arriving in an unmarked four-wheel drive.Queensland Police prosecutor Anita Page showed body-worn camera footage of an officer knocking on the front door of the large home surrounded by bushland, before looking in a window and knocking again.Crawford was arrested at Toowoomba Police Station at 9am on June 14 when he arrived for his daily bail reporting requirement.Defence solicitor Andrew McGinness told police Crawford was at home on the night of June 13.\"He was asleep and it was clear enough he did not hear,\" McGinness said.Crawford also told police in a formal recorded interview that he was abiding by his curfew.\"I was present at home. I did not hear any knocks on the door,\" he said.Today, defence barrister Matthew Jackson said police spent one minute and 20 seconds knocking on Crawford&#x27;s door.READ MORE: Capital set for soaking as another cold front sweeps inREAD MORE: Extraordinary move ahead of Zelenskyy, Trump meeting\"They did not make Crawford aware they were exercising police powers,\" Jackson said.Jackson told Mr Howden the body worn camera did not show police taking extra steps such as calling out to Crawford or shining torches in his windows.Page said it was not for police officers to reinterpret the conditions of a Supreme Court bail order and that they were not permitted to do anything other than knock on the door.\"Given the serious nature of the charges ... (Crawford) is under the obligation to do everything he can to comply with bail conditions,\" Page said.Following a two-hour hearing with three police witnesses, Howden granted the application for no case to answer and dismissed the breach of bail charge.\"I am satisfied (Crawford) was asleep when police knocked on his door and he did not hear them knocking,\" Howden said.\"In that circumstance, the police case must fail because they are unable to prove he was asked to answer the door.\"Crawford appeared in court dressed in a black suit and light blue tie, sitting at the bar table during the hearing with his hands clasped in his lap.He declined to comment when approached by reporters as he exited court today.The murder charge is due to be next heard on October 8 at Ipswich Magistrates Court for committal proceedings.Crawford was suspended from the Royal Australian Air Force in October 2024, before separating from the Australian Defence Force in April.Support is available from the National Sexual Assault, Domestic and Family Violence Counselling Service at 1800RESPECT (1800 737 732).",
-          "feed_position": 3,
-          "image_url": "https://prod.static9.net.au/fs/548fdecb-da49-445c-ad0f-eb37c2825b64"
-        },
-        {
-          "source": "ABC Just In",
-          "url": "https://www.abc.net.au/news/2025-08-18/robert-frances-crawford-bail-breach-cleared-toowoomba/105650552",
-          "published_at": "Mon, 18 Aug 2025 04:13:37 +0000",
-          "title": "Former RAAF pilot accused of murdering wife cleared of bail curfew breach",
-          "standfirst": "Robert Crawford, who is accused of murdering his wife Frances, has been cleared of a breach of bail, relating to a night curfew.",
-          "content": "Robert Crawford, who is accused of murdering his wife Frances, has been cleared of a breach of bail, relating to a night curfew.",
-          "feed_position": 15
-        }
-      ],
-      "featured_image": "https://prod.static9.net.au/fs/548fdecb-da49-445c-ad0f-eb37c2825b64",
-      "popularity_score": 2017.6366005555556,
-      "ai_summary": "• A former pilot accused of murdering his wife was cleared of a bail breach.\n• The breach related to a night curfew.\n• Robert Crawford faced a summary hearing in Toowoomba Magistrates Court.\n• Crawford was charged with breaching bail conditions.\n• The murder accusation involves the death of Frances Crawford."
-    },
-    {
-      "id": "cluster_43",
-      "coverage": 2,
-      "updated_at": "Mon, 18 Aug 2025 04:26:03 +0000",
-      "title": "NAB flags $130 million hit after underpaying staff, as payroll problems widen",
-      "neutral_headline": "NAB Faces $130 Million Hit Due to Underpaying Staff",
-      "bullet_summary": [
-        "NAB will take a $130 million hit this year after an internal review found it had underpaid staff",
-        "Reported by ABC News Australia, 9News"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-08-18/nab-flags-130-million-hit-after-underpaying-staff/105667178",
-          "published_at": "Mon, 18 Aug 2025 04:26:03 +0000",
-          "title": "NAB flags $130 million hit after underpaying staff, as payroll problems widen",
-          "standfirst": "The bank's payroll review and remediation is ongoing, and total costs remain uncertain, according to NAB's latest ASX release.",
-          "content": "The bank's payroll review and remediation is ongoing, and total costs remain uncertain, according to NAB's latest ASX release.",
-          "feed_position": 11
-        },
-        {
-          "source": "9News",
-          "url": "https://www.9news.com.au/national/nab-to-take-130-million-hit-after-underpaying-staff/39f649e4-c78a-43d1-9582-e447b03f7610",
-          "published_at": "Mon, 18 Aug 2025 03:25:50 +0000",
-          "title": "NAB to take $130 million hit after underpaying staff",
-          "standfirst": "NAB will take a $130 million hit this year after an internal review found it had underpaid staff.",
-          "content": "NAB will take a $130 million hit this year after an internal review found it had underpaid staff.The big four bank told investors today that its operating expenses will be 4.5 per cent higher this financial year due to the costs for the review and remediation of payroll issues. The final cost could be even worse as the bank warned that its \"payroll review and remediation is ongoing and total costs remain uncertain\".READ MORE: Crime group &#x27;links&#x27; in spotlight after deadly Sydney pub shootingSome of the issues relate to job sharing, rosters and wage and leave entitlements. NAB is beginning remediation with staff and a broader review into payroll-related benefits under current and former employee contracts.The bank could not say how many staff were affected.NAB group executive of people and culture Sarah White apologised to staff, adding that \"paying staff correctly is an absolute priority\".\"We are sorry and apologise to our colleagues that this has happened and have commenced remediating those impacted,\" she said.NAB&#x27;s chronic payroll issues were first identified in 2019, with a review finding that the bank incurred $250 million over two years.READ MORE: Qantas fined $90 million for illegally sacking staffAn ongoing review, as well as new human resources and payroll platforms and the transition of staff to a new enterprise agreement, identified the further issues announced today.NAB will also work with the Fair Work Ombudsman and the Finance Sector Union.Finance Sector Union national president Wendy Streets said the money should \"never have been taken from workers in the first place\".\"At a time when Australians are struggling through the worst cost-of-living crisis in decades, this scale of underpayment is nothing short of systemic wage theft,\" she said. \"The Finance Sector Union has met with NAB, expressing its disbelief that one of the nation&#x27;s biggest banks has once again failed to pay its workers correctly.\"NAB and the Finance Sector Union will meet again this month, where Streets will be demanding guarantees that workers will never be \"ripped off\" to this scale again.READ MORE: Capital set for soaking as another cold front sweeps inWhile the bank told investors of the $130 million hit, it simultaneously posted that it made $1.8 billion in cash earnings in the three months to June.NAB saw a two per cent increase in underlying profit in the third quarter, and a four per cent rise in business and banking lending.The bank grew its home loans by two per cent. NAB chief executive Andrew Irvine said the payroll issues were \"disappointing and must be fixed\", but remained optimistic.\"We remain optimistic about the outlook and are well placed to manage NAB for the long term and deliver sustainable growth and returns for shareholders,\" he said.DOWNLOAD THE 9NEWS APP: Stay across all the latest in breaking news, sport, politics and the weather via our news app and get notifications sent straight to your smartphone. Available on the Apple App Store and Google Play.",
-          "feed_position": 6,
-          "image_url": "https://prod.static9.net.au/fs/a50b6907-23c0-4fee-a700-8732e5f647c8"
-        }
-      ],
-      "featured_image": "https://prod.static9.net.au/fs/a50b6907-23c0-4fee-a700-8732e5f647c8",
-      "popularity_score": 2017.1307672222222,
-      "ai_summary": "• NAB will take a $130 million hit due to underpaying staff.\n• An internal review found the bank underpaid employees.\n• The bank's payroll review and remediation are ongoing.\n• Total costs related to the underpayment remain uncertain.\n• The announcement was made in NAB's latest ASX release."
-    },
-    {
-      "id": "cluster_52",
-      "coverage": 2,
-      "updated_at": "Mon, 18 Aug 2025 03:45:23 +0000",
-      "title": "Surfer's 'miracle' escape as shark snaps board in two at NSW beach",
-      "neutral_headline": "Surfer Survives Shark Attack, Board Snapped in Two",
-      "bullet_summary": [
-        "P hotos showed the surfer holding his broken board on the beach at Cabarita with a large bite missing from it",
-        "Reported by ABC News Australia, 9News"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-08-18/shark-scare-at-cabarita-after-bite-snaps-surfer-s-board-in-two/105666520",
-          "published_at": "Mon, 18 Aug 2025 03:45:23 +0000",
-          "title": "Surfer's 'miracle' escape as shark snaps board in two at NSW beach",
-          "standfirst": "A surfer sitting on his board was attacked early this morning on the New South Wales north coast.",
-          "content": "A surfer sitting on his board was attacked early this morning on the New South Wales north coast.",
-          "feed_position": 13
-        },
-        {
-          "source": "9News",
-          "url": "https://www.9news.com.au/national/shark-attack-nsw-cabarita-beach/550e7a01-65b4-4d4b-b928-d825f50bd99d",
-          "published_at": "Mon, 18 Aug 2025 03:10:43 +0000",
-          "title": "'Insane': Surfer's miracle escape from huge shark at NSW beach",
-          "standfirst": "P hotos showed the surfer holding his broken board on the beach at Cabarita with a large bite missing from it.",
-          "content": "A surfer has had a narrow escape from a shark in northern NSW.Footage caught on a surf camera at Cabarita Beach at 7.26am today and shared on the Instagram page \"18 Seconds\" shows a surfer in the water alongside a dark shape, before splashing.A photo posted on the account shows a surfer in a wetsuit standing with a surfboard broken in two, with what appears to be a huge bite taken out of it. READ MORE: Major manhunt after deadly double shooting outside Sydney pubFootage posted on Facebook also shows the surfer standing with the remains of the board on the beach, as a friend comes and hugs him. Kim Maree shared the video and said: \"A bit of drama on the beach after I filmed the beautiful sunrise. Another shark attack\".The NSW Shark Smart account confirmed a \"reported shark incident at Norries Head Beach, Cabarita\".READ MORE: Extraordinary move ahead of Zelenskyy, Trump meeting Surf website Beach Grit names the surfer as Brad Ross.Local reports say a great white shark was spotted by a drone soon after. Cabarita Beach is south of Kingscliff, just south of the NSW-Queensland border. Surfing great Kelly Slater expressed his disbelief about the lucky escape.\"How does it bite that much and miss the guy? Insane!\" he wrote in an Instagram comment.The beach has been closed by the local council. READ MORE: Capital set for soaking as another cold front sweeps in",
-          "feed_position": 10,
-          "image_url": "https://prod.static9.net.au/fs/b75a9b00-dac1-4afd-8ab7-8ea9da1c8ac4"
-        }
-      ],
-      "featured_image": "https://prod.static9.net.au/fs/b75a9b00-dac1-4afd-8ab7-8ea9da1c8ac4",
-      "popularity_score": 2016.4529894444445,
-      "ai_summary": "• A surfer survived a shark attack on the New South Wales north coast.\n• The shark snapped the surfer's board in two.\n• The attack occurred early in the morning.\n• Photos show the surfer holding his broken board.\n• The incident happened at Cabarita beach."
-    },
-    {
-      "id": "cluster_4",
+      "id": "cluster_39",
       "coverage": 1,
-      "updated_at": "Mon, 18 Aug 2025 06:57:13 +0000",
-      "title": "Public hospitals get $50m maintenance boost amid mounting pressure",
-      "neutral_headline": "Public Hospitals Receive $50 Million Maintenance Boost",
-      "bullet_summary": [
-        "The Cook government has announced a new $50 million health infrastructure maintenance fund, amid mounting pressures on the West Australian public hospital system",
-        "Reported by ABC Just In"
-      ],
-      "items": [
-        {
-          "source": "ABC Just In",
-          "url": "https://www.abc.net.au/news/2025-08-18/roger-cook-50-million-health-infrastructure-maintenance-fund/105667848",
-          "published_at": "Mon, 18 Aug 2025 06:57:13 +0000",
-          "title": "Public hospitals get $50m maintenance boost amid mounting pressure",
-          "standfirst": "The Cook government has announced a new $50 million health infrastructure maintenance fund, amid mounting pressures on the West Australian public hospital system.",
-          "content": "The Cook government has announced a new $50 million health infrastructure maintenance fund, amid mounting pressures on the West Australian public hospital system.",
-          "feed_position": 0
-        }
-      ],
-      "popularity_score": 352.6502116666667,
-      "ai_summary": "• Public hospitals will receive a $50 million maintenance boost.\n• The funding is part of a new health infrastructure maintenance fund.\n• The announcement was made by the Cook government.\n• The funding addresses pressures on the West Australian hospital system.\n• The government is responding to mounting pressures."
-    },
-    {
-      "id": "cluster_21",
-      "coverage": 1,
-      "updated_at": "Mon, 18 Aug 2025 06:11:25 +0000",
-      "title": "Far-right Israeli politician's visa cancelled ahead of speaking tour",
-      "neutral_headline": "Far-Right Israeli Politician's Visa Cancelled in Australia",
+      "updated_at": "Mon, 18 Aug 2025 07:28:13 +0000",
+      "title": "'Performative remorse' costs Qantas $90m, as judge questions Hudson no-show",
+      "neutral_headline": "Qantas Faces $90 Million Penalty, Judge Questions Conduct",
       "bullet_summary": [
         "Reported by ABC News Australia"
       ],
       "items": [
         {
           "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-08-18/simcha-rothman-visa-cancelled/105668088",
-          "published_at": "Mon, 18 Aug 2025 06:11:25 +0000",
-          "title": "Far-right Israeli politician's visa cancelled ahead of speaking tour",
-          "standfirst": "The federal government has cancelled the visa of Israeli politician Simcha Rothman, a member of Israel's far right Mafdal-Religious Zionism party, just days before he was due to arrive in Australia for a speaking event.",
-          "content": "The federal government has cancelled the visa of Israeli politician Simcha Rothman, a member of Israel's far right Mafdal-Religious Zionism party, just days before he was due to arrive in Australia for a speaking event.",
-          "feed_position": 0
+          "url": "https://www.abc.net.au/news/2025-08-18/qantas-judgement-union-role-corporate-accountability/105667356",
+          "published_at": "Mon, 18 Aug 2025 07:28:13 +0000",
+          "title": "'Performative remorse' costs Qantas $90m, as judge questions Hudson no-show",
+          "standfirst": "Federal Court Justice Michael Lee has called out what many who have dealt with Qantas over a long period of time already know — that it's an \"aggressive\" company driven by greed, heavy on spin and light on the truth.",
+          "content": "Federal Court Justice Michael Lee has called out what many who have dealt with Qantas over a long period of time already know — that it's an \"aggressive\" company driven by greed, heavy on spin and light on the truth.",
+          "feed_position": 1
         }
       ],
-      "popularity_score": 351.88687833333336,
-      "ai_summary": "• The Australian government canceled the visa of Simcha Rothman.\n• Rothman is a member of Israel's far-right Mafdal-Religious Zionism party.\n• The visa cancellation occurred before his speaking tour.\n• Rothman was scheduled to arrive in Australia for an event.\n• The government made the decision days before his arrival."
+      "popularity_score": 339.25974833333333,
+      "ai_summary": "• Qantas is facing a $90 million penalty.\n• A judge questioned Qantas's conduct.\n• The judge criticized Qantas for \"performative remorse\".\n• The judge noted the company's aggressive nature.\n• The judge stated Qantas is driven by greed."
     },
     {
       "id": "cluster_25",
       "coverage": 1,
+      "updated_at": "Mon, 18 Aug 2025 09:05:23 +0000",
+      "title": "Protective services officer who shared protected material told to 'reassess' future",
+      "neutral_headline": "Protective Services Officer Faces Consequences for Sharing Material",
+      "bullet_summary": [
+        "Reported by ABC Just In"
+      ],
+      "items": [
+        {
+          "source": "ABC Just In",
+          "url": "https://www.abc.net.au/news/2025-08-18/act-former-protective-service-officer-reveal-private-information/105669058",
+          "published_at": "Mon, 18 Aug 2025 09:05:23 +0000",
+          "title": "Protective services officer who shared protected material told to 'reassess' future",
+          "standfirst": "A suspended protective services officer is given a two-year good behaviour order after sending CCTV images of himself being allegedly assaulted in a Canberra police watch house to a family member.",
+          "content": "A suspended protective services officer is given a two-year good behaviour order after sending CCTV images of himself being allegedly assaulted in a Canberra police watch house to a family member.",
+          "feed_position": 2
+        }
+      ],
+      "popularity_score": 330.8791927777778,
+      "ai_summary": "• A protective services officer shared protected material.\n• The officer was given a two-year good behavior order.\n• The officer was suspended from their duties.\n• The material was CCTV images of an alleged assault.\n• The images were sent to a family member."
+    },
+    {
+      "id": "cluster_49",
+      "coverage": 1,
       "updated_at": "Mon, 18 Aug 2025 05:57:20 +0000",
       "title": "Emails raise new questions about state government's role in scientific report",
-      "neutral_headline": "Emails Raise Questions About Government's Report Role",
+      "neutral_headline": "Emails Raise Questions About Government's Role in Report",
       "bullet_summary": [
         "Reported by ABC News Australia"
       ],
@@ -418,15 +399,15 @@
           "feed_position": 3
         }
       ],
-      "popularity_score": 333.65215611111114,
-      "ai_summary": "• Emails raise questions about the state government's role.\n• The emails relate to a scientific report.\n• The report concerns industrial air emissions.\n• The report's subject is ancient rock carvings.\n• The government released the report in May."
+      "popularity_score": 329.7450261111111,
+      "ai_summary": "• Emails raise new questions about the state government's role.\n• The emails relate to a scientific report.\n• The report concerns industrial air emissions.\n• The report's impact on ancient rock carvings is studied.\n• The WA government released the report in May."
     },
     {
-      "id": "cluster_82",
+      "id": "cluster_88",
       "coverage": 1,
       "updated_at": "Sun, 17 Aug 2025 18:42:27 +0000",
       "title": "The growing movement challenging the authority of courts, councils and cops",
-      "neutral_headline": "Growing Movement Challenges Authority of Courts, Councils",
+      "neutral_headline": "Groups Challenge Authority of Courts, Councils, and Police",
       "bullet_summary": [
         "Reported by ABC News Australia"
       ],
@@ -438,18 +419,134 @@
           "title": "The growing movement challenging the authority of courts, councils and cops",
           "standfirst": "A growing coalition of groups who reject the legitimacy of governments and courts are engaged in what some call a \"quasi-civil war\".",
           "content": "A growing coalition of groups who reject the legitimacy of governments and courts are engaged in what some call a \"quasi-civil war\".",
-          "feed_position": 1
+          "feed_position": 2
         }
       ],
-      "popularity_score": 330.40410055555554,
-      "ai_summary": "• A growing movement challenges the authority of governments.\n• The movement rejects the legitimacy of courts and councils.\n• Some describe the situation as a \"quasi-civil war\".\n• The groups are engaged in challenging authority.\n• The movement is a coalition of various groups."
+      "popularity_score": 316.49697055555555,
+      "ai_summary": "• A growing movement challenges the authority of governments.\n• Groups reject the legitimacy of courts and councils.\n• Some describe the situation as a \"quasi-civil war\".\n• The groups are engaged in various forms of activism.\n• The movement is growing in influence."
     },
     {
-      "id": "cluster_23",
+      "id": "cluster_31",
+      "coverage": 1,
+      "updated_at": "Mon, 18 Aug 2025 08:20:02 +0000",
+      "title": "Boy faces court over car theft that left 76yo tourist in coma",
+      "neutral_headline": "Boy Faces Court After Car Theft, Tourist in Coma",
+      "bullet_summary": [
+        "Reported by ABC Just In"
+      ],
+      "items": [
+        {
+          "source": "ABC Just In",
+          "url": "https://www.abc.net.au/news/2025-08-18/boy-charged-halls-creek-kimberley-car-theft-tourist-caravan/105667440",
+          "published_at": "Mon, 18 Aug 2025 08:20:02 +0000",
+          "title": "Boy faces court over car theft that left 76yo tourist in coma",
+          "standfirst": "Police say the 76-year-old man was dragged for metres when the 14-year-old boy attempted to steal his ute and caravan in Halls Creek.",
+          "content": "Police say the 76-year-old man was dragged for metres when the 14-year-old boy attempted to steal his ute and caravan in Halls Creek.",
+          "feed_position": 4
+        }
+      ],
+      "popularity_score": 310.1233594444444,
+      "ai_summary": "• A boy is facing court over a car theft incident.\n• The car theft left a 76-year-old tourist in a coma.\n• The incident occurred in Halls Creek.\n• The boy is 14 years old.\n• The man was dragged for meters during the theft."
+    },
+    {
+      "id": "cluster_51",
+      "coverage": 1,
+      "updated_at": "Mon, 18 Aug 2025 05:37:02 +0000",
+      "title": "Chile wants teen pilot and influencer out of Antarctica but he says he's 'stuck' there",
+      "neutral_headline": "American Pilot Faces Antarctic Departure Challenges",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-08-18/pilot-ethan-guo-stuck-in-antarctica/105666202",
+          "published_at": "Mon, 18 Aug 2025 05:37:02 +0000",
+          "title": "Chile wants teen pilot and influencer out of Antarctica but he says he's 'stuck' there",
+          "standfirst": "The American pilot must leave Chile's Antarctic territory as soon as possible. But he can't use his plane to do so.",
+          "content": "The American pilot must leave Chile's Antarctic territory as soon as possible. But he can't use his plane to do so.",
+          "feed_position": 5
+        }
+      ],
+      "popularity_score": 297.4066927777778,
+      "ai_summary": "• A United States pilot must leave Chile's Antarctic territory as soon as possible.\n• The pilot is unable to use his plane for departure from the Antarctic region.\n• The pilot claims he is currently \"stuck\" in the Antarctic territory.\n• The situation involves the pilot's departure from the Chilean Antarctic territory.\n• The pilot is also an influencer, adding another layer to the situation."
+    },
+    {
+      "id": "cluster_24",
+      "coverage": 1,
+      "updated_at": "Mon, 18 Aug 2025 09:07:53 +0000",
+      "title": "Cross-claim launched against Matt Wright over fatal chopper crash",
+      "neutral_headline": "Aviation Regulator Files Claim Against Matt Wright",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-08-18/casa-danielle-wilson-matt-wright-helicopter-lawsuit-cross-claim/105667940",
+          "published_at": "Mon, 18 Aug 2025 09:07:53 +0000",
+          "title": "Cross-claim launched against Matt Wright over fatal chopper crash",
+          "standfirst": "Australia's aviation regulator has launched a counter-claim against Matt Wright, arguing the TV star should pay any damages awarded to the widow of the man killed in a 2022 chopper crash.",
+          "content": "Australia's aviation regulator has launched a counter-claim against Matt Wright, arguing the TV star should pay any damages awarded to the widow of the man killed in a 2022 chopper crash.",
+          "feed_position": 6
+        }
+      ],
+      "popularity_score": 290.92085944444443,
+      "ai_summary": "• Australia's aviation regulator has launched a counter-claim against Matt Wright.\n• The claim argues Wright should pay damages to a crash victim's widow.\n• The crash involved a helicopter in 2022, resulting in a fatality.\n• The regulator's claim is related to the fatal helicopter crash incident.\n• Wright is a television personality involved in the legal proceedings."
+    },
+    {
+      "id": "cluster_34",
+      "coverage": 1,
+      "updated_at": "Mon, 18 Aug 2025 08:13:00 +0000",
+      "title": "Western United given extension to appeal stripping of A-Leagues licence",
+      "neutral_headline": "Western United Receives Extension to Appeal License Revocation",
+      "bullet_summary": [
+        "Reported by ABC Just In"
+      ],
+      "items": [
+        {
+          "source": "ABC Just In",
+          "url": "https://www.abc.net.au/news/2025-08-18/football-western-united-a-leagues-license-appeal-granted/105668910",
+          "published_at": "Mon, 18 Aug 2025 08:13:00 +0000",
+          "title": "Western United given extension to appeal stripping of A-Leagues licence",
+          "standfirst": "Western United has less than three days to save its club after being granted an extension to appeal the decision to strip its A-Leagues licence.",
+          "content": "Western United has less than three days to save its club after being granted an extension to appeal the decision to strip its A-Leagues licence.",
+          "feed_position": 7
+        }
+      ],
+      "popularity_score": 280.0061372222222,
+      "ai_summary": "• Western United has been granted an extension to appeal the license stripping.\n• The club has less than three days to appeal the A-Leagues license decision.\n• The appeal is regarding the decision to strip the club's A-Leagues license.\n• The club's future is uncertain pending the outcome of the appeal process.\n• The extension provides a brief window to save the club's A-Leagues status."
+    },
+    {
+      "id": "cluster_36",
+      "coverage": 1,
+      "updated_at": "Mon, 18 Aug 2025 08:01:44 +0000",
+      "title": "Military court finds New Zealand soldier guilty of attempted espionage",
+      "neutral_headline": "New Zealand Soldier Convicted of Attempted Espionage",
+      "bullet_summary": [
+        "A military court has found a New Zealand soldier guilty of attempted espionage for a foreign power — the first spying conviction in the country's history",
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-08-18/new-zealand-soldier-guilty-of-attempted-espionage/105668788",
+          "published_at": "Mon, 18 Aug 2025 08:01:44 +0000",
+          "title": "Military court finds New Zealand soldier guilty of attempted espionage",
+          "standfirst": "A military court has found a New Zealand soldier guilty of attempted espionage for a foreign power — the first spying conviction in the country's history.",
+          "content": "A military court has found a New Zealand soldier guilty of attempted espionage for a foreign power — the first spying conviction in the country's history.",
+          "feed_position": 7
+        }
+      ],
+      "popularity_score": 279.81835944444447,
+      "ai_summary": "• A military court found a New Zealand soldier guilty of attempted espionage.\n• The soldier was found guilty of attempting to spy for a foreign power.\n• This is the first espionage conviction in New Zealand's military history.\n• The case involves a New Zealand soldier and a foreign power.\n• The court's decision marks a significant event in New Zealand's history."
+    },
+    {
+      "id": "cluster_48",
       "coverage": 1,
       "updated_at": "Mon, 18 Aug 2025 06:00:46 +0000",
       "title": "Putin got the red-carpet treatment from Trump. Where does this leave Ukraine?",
-      "neutral_headline": "Trump's Actions and Putin's Support for Ukraine",
+      "neutral_headline": "Trump's Actions and Putin's Support Examined",
       "bullet_summary": [
         "Reported by ABC News Australia"
       ],
@@ -461,130 +558,14 @@
           "title": "Putin got the red-carpet treatment from Trump. Where does this leave Ukraine?",
           "standfirst": "Beyond the optics, Donald Trump handed Vladimir Putin a number of other wins that will shore up his support at home and reinforce to the world that US-Russia relations have been normalised.",
           "content": "Beyond the optics, Donald Trump handed Vladimir Putin a number of other wins that will shore up his support at home and reinforce to the world that US-Russia relations have been normalised.",
-          "feed_position": 4
-        }
-      ],
-      "popularity_score": 311.70937833333335,
-      "ai_summary": "• Donald Trump gave Vladimir Putin a red-carpet treatment.\n• Trump's actions will reinforce US-Russia relations.\n• Trump handed Putin wins that will shore up support.\n• The article discusses the optics of the meeting.\n• The meeting's impact on Ukraine is a key focus."
-    },
-    {
-      "id": "cluster_46",
-      "coverage": 1,
-      "updated_at": "Mon, 18 Aug 2025 04:17:29 +0000",
-      "title": "How common are earthquakes in Australia?",
-      "neutral_headline": "Earthquakes in Australia: How Common Are They?",
-      "bullet_summary": [
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-08-18/what-causes-earthquakes-australia-tectonic-plates/105666040",
-          "published_at": "Mon, 18 Aug 2025 04:17:29 +0000",
-          "title": "How common are earthquakes in Australia?",
-          "standfirst": "With Australia's most significant earthquake disaster occurring more than 35 years ago, many people consider quakes to be quite rare in Australia. But it turns out they're more common than you'd think.",
-          "content": "With Australia's most significant earthquake disaster occurring more than 35 years ago, many people consider quakes to be quite rare in Australia. But it turns out they're more common than you'd think.",
-          "feed_position": 5
-        }
-      ],
-      "popularity_score": 296.98798944444445,
-      "ai_summary": "• Earthquakes in Australia are more common than many people think.\n• Australia's most significant earthquake disaster occurred over 35 years ago.\n• Many people consider quakes to be rare in Australia.\n• The article discusses the frequency of earthquakes.\n• The information challenges common perceptions."
-    },
-    {
-      "id": "cluster_33",
-      "coverage": 1,
-      "updated_at": "Mon, 18 Aug 2025 05:37:02 +0000",
-      "title": "Chile wants Ethan Guo out of Antarctica. He says he's 'stuck' there",
-      "neutral_headline": "American Pilot Faces Antarctic Departure from Chilean Territory",
-      "bullet_summary": [
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-08-18/pilot-ethan-guo-stuck-in-antarctica/105666202",
-          "published_at": "Mon, 18 Aug 2025 05:37:02 +0000",
-          "title": "Chile wants Ethan Guo out of Antarctica. He says he's 'stuck' there",
-          "standfirst": "The American pilot must leave Chile's Antarctic territory as soon as possible. But he can't use his plane to do so.",
-          "content": "The American pilot must leave Chile's Antarctic territory as soon as possible. But he can't use his plane to do so.",
-          "feed_position": 6
-        }
-      ],
-      "popularity_score": 291.3138227777778,
-      "ai_summary": "• Chilean authorities want American pilot Ethan Guo to leave their Antarctic territory.\n• Guo cannot use his plane to depart the Chilean Antarctic territory.\n• Guo claims he is currently \"stuck\" in the Antarctic region.\n• The pilot must leave the area as soon as possible.\n• No specific reason for the departure request was provided in the article."
-    },
-    {
-      "id": "cluster_19",
-      "coverage": 1,
-      "updated_at": "Mon, 18 Aug 2025 06:19:59 +0000",
-      "title": "Former AFLW star details 'vile and disgusting' abuse at local footy game",
-      "neutral_headline": "Former AFLW Star Reports Abuse at Local Football Game",
-      "bullet_summary": [
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-08-18/former-aflw-star-moana-hope-details-verbal-abuse-at-local-footy/105667970",
-          "published_at": "Mon, 18 Aug 2025 06:19:59 +0000",
-          "title": "Former AFLW star details 'vile and disgusting' abuse at local footy game",
-          "standfirst": "Moana Hope details the \"vile and disgusting\" verbal abuse she was on the receiving end of at a local football game over the weekend.",
-          "content": "Moana Hope details the \"vile and disgusting\" verbal abuse she was on the receiving end of at a local football game over the weekend.",
-          "feed_position": 7
-        }
-      ],
-      "popularity_score": 287.02965611111114,
-      "ai_summary": "• Moana Hope described \"vile and disgusting\" verbal abuse at a local football game.\n• The abuse occurred during a recent weekend football match.\n• Hope is a former Australian Football League Women's (AFLW) player.\n• The article details the nature of the verbal abuse.\n• No specific details about the abuser were provided in the article."
-    },
-    {
-      "id": "cluster_5",
-      "coverage": 1,
-      "updated_at": "Mon, 18 Aug 2025 06:55:18 +0000",
-      "title": "12yo girl charged with attempted murder over alleged stabbing",
-      "neutral_headline": "Twelve Year Old Charged with Attempted Murder After Stabbing",
-      "bullet_summary": [
-        "Police say emergency services were called to a residence on Sunday where a 55-year-old woman was found with a stab wound to her chest",
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-08-18/qld-12yo-attempted-murder-charge-ipswich/105668534",
-          "published_at": "Mon, 18 Aug 2025 06:55:18 +0000",
-          "title": "12yo girl charged with attempted murder over alleged stabbing",
-          "standfirst": "Police say emergency services were called to a residence on Sunday where a 55-year-old woman was found with a stab wound to her chest.",
-          "content": "Police say emergency services were called to a residence on Sunday where a 55-year-old woman was found with a stab wound to her chest.",
           "feed_position": 9
         }
       ],
-      "popularity_score": 262.61826722222224,
-      "ai_summary": "• Police charged a twelve-year-old girl with attempted murder.\n• Emergency services responded to a residence on Sunday.\n• A fifty-five-year-old woman was found with a stab wound.\n• The woman sustained a stab wound to her chest.\n• The investigation is ongoing, and further details are pending."
+      "popularity_score": 257.80224833333335,
+      "ai_summary": "• Donald Trump gave Vladimir Putin favorable treatment during their meetings.\n• Trump's actions may reinforce support for Putin domestically.\n• The actions may also signal normalized US-Russia relations to the world.\n• The article examines the optics and implications of the interactions.\n• The focus is on the impact of Trump's actions on Ukraine."
     },
     {
-      "id": "cluster_80",
-      "coverage": 1,
-      "updated_at": "Sun, 17 Aug 2025 18:47:21 +0000",
-      "title": "Boosting Australia's struggling productivity needs bold ideas. Here are 23 of them",
-      "neutral_headline": "Experts Offer Ideas to Boost Australian Productivity",
-      "bullet_summary": [
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-08-18/big-ideas-productivity-economic-reform-roundtable/105629070",
-          "published_at": "Sun, 17 Aug 2025 18:47:21 +0000",
-          "title": "Boosting Australia's struggling productivity needs bold ideas. Here are 23 of them",
-          "standfirst": "Experts share 23 bold, surprising and thought-provoking ideas to boost Australia's productivity growth — and improve living standards.",
-          "content": "Experts share 23 bold, surprising and thought-provoking ideas to boost Australia's productivity growth — and improve living standards.",
-          "feed_position": 8
-        }
-      ],
-      "popularity_score": 260.4857672222222,
-      "ai_summary": "• Experts share twenty-three ideas to boost Australia's productivity.\n• The ideas are described as bold, surprising, and thought-provoking.\n• The goal is to improve living standards in Australia.\n• The ideas aim to address Australia's struggling productivity growth.\n• The article provides a list of the proposed ideas."
-    },
-    {
-      "id": "cluster_51",
+      "id": "cluster_64",
       "coverage": 1,
       "updated_at": "Mon, 18 Aug 2025 03:52:16 +0000",
       "title": "Tasmanian Labor's bid for minority government set to fail",
@@ -600,14 +581,37 @@
           "title": "Tasmanian Labor's bid for minority government set to fail",
           "standfirst": "Labor and Dean Winter's bid for Tasmania's government appears to have failed, with the Greens and key independents announcing they will not support Labor's foreshadowed no-confidence motion.",
           "content": "Labor and Dean Winter's bid for Tasmania's government appears to have failed, with the Greens and key independents announcing they will not support Labor's foreshadowed no-confidence motion.",
+          "feed_position": 21
+        }
+      ],
+      "popularity_score": 157.66058166666667,
+      "ai_summary": "• Labor and Dean Winter's bid for Tasmania's government is likely to fail.\n• The Greens and independents will not support Labor's no-confidence motion.\n• The Greens and independents have announced their intentions.\n• The announcement indicates a lack of support for Labor's government bid.\n• The situation impacts the formation of Tasmania's government."
+    },
+    {
+      "id": "cluster_22",
+      "coverage": 1,
+      "updated_at": "Mon, 18 Aug 2025 09:20:02 +0000",
+      "title": "Plan to convert Sydney golf course into cemetery 'short-sighted', MP says",
+      "neutral_headline": "Sydney Golf Course Conversion Plan Faces Criticism",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-08-18/carnavon-golf-course-cemetery-conversion-consultation-starts/105668586",
+          "published_at": "Mon, 18 Aug 2025 09:20:02 +0000",
+          "title": "Plan to convert Sydney golf course into cemetery 'short-sighted', MP says",
+          "standfirst": "A government plan to convert a Sydney golf course into a cemetery will be presented to residents on Tuesday, amid claims the decision was made \"a long time ago\".",
+          "content": "A government plan to convert a Sydney golf course into a cemetery will be presented to residents on Tuesday, amid claims the decision was made \"a long time ago\".",
           "feed_position": 14
         }
       ],
-      "popularity_score": 161.56771166666667,
-      "ai_summary": "• Labor's bid for Tasmania's government appears to have failed.\n• Dean Winter is the leader of the Labor party in Tasmania.\n• The Greens and key independents will not support Labor's motion.\n• Labor had foreshadowed a no-confidence motion.\n• The Greens and independents' decisions impact the government formation."
+      "popularity_score": 157.12335944444445,
+      "ai_summary": "• A plan to convert a Sydney golf course into a cemetery faces criticism.\n• The government's plan will be presented to residents on Tuesday.\n• Critics claim the decision was made a long time ago.\n• The plan involves converting a golf course into a cemetery.\n• The community is being informed about the government's plan."
     },
     {
-      "id": "cluster_55",
+      "id": "cluster_66",
       "coverage": 1,
       "updated_at": "Mon, 18 Aug 2025 03:18:45 +0000",
       "title": "Government working toward helping banned Meta users raise complaints",
@@ -623,18 +627,134 @@
           "title": "Government working toward helping banned Meta users raise complaints",
           "standfirst": "It comes as dozens of Facebook and Instagram users have contacted the ABC about what they say are wrongful account suspensions that have impacted their livelihoods and personal lives.",
           "content": "It comes as dozens of Facebook and Instagram users have contacted the ABC about what they say are wrongful account suspensions that have impacted their livelihoods and personal lives.",
-          "feed_position": 21
+          "feed_position": 23
         }
       ],
-      "popularity_score": 161.00910055555556,
-      "ai_summary": "• The government is working to help banned Meta users raise complaints.\n• Dozens of Facebook and Instagram users contacted the ABC.\n• Users reported wrongful account suspensions.\n• The suspensions impacted users' livelihoods and personal lives.\n• The government is responding to user concerns about account suspensions."
+      "popularity_score": 157.10197055555557,
+      "ai_summary": "• The government is working to help banned Meta users raise complaints.\n• Dozens of Facebook and Instagram users contacted the ABC.\n• Users reported wrongful account suspensions impacting their lives.\n• The government is addressing issues related to account suspensions.\n• The focus is on helping users with complaints against Meta."
     },
     {
-      "id": "cluster_9",
+      "id": "cluster_46",
+      "coverage": 1,
+      "updated_at": "Mon, 18 Aug 2025 06:19:59 +0000",
+      "title": "Former AFLW star details 'vile and disgusting' abuse at local footy game",
+      "neutral_headline": "Former AFLW Star Details Abuse at Local Football Game",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-08-18/former-aflw-star-moana-hope-details-verbal-abuse-at-local-footy/105667970",
+          "published_at": "Mon, 18 Aug 2025 06:19:59 +0000",
+          "title": "Former AFLW star details 'vile and disgusting' abuse at local footy game",
+          "standfirst": "Moana Hope details the \"vile and disgusting\" verbal abuse she was on the receiving end of at a local football game over the weekend.",
+          "content": "Moana Hope details the \"vile and disgusting\" verbal abuse she was on the receiving end of at a local football game over the weekend.",
+          "feed_position": 15
+        }
+      ],
+      "popularity_score": 153.1225261111111,
+      "ai_summary": "• Moana Hope detailed \"vile and disgusting\" abuse at a local football game.\n• The abuse was verbal and directed at the former AFLW star.\n• The incident occurred during a local football game over the weekend.\n• Hope shared details of the abuse she experienced.\n• The incident highlights issues of abuse in sports."
+    },
+    {
+      "id": "cluster_30",
+      "coverage": 1,
+      "updated_at": "Mon, 18 Aug 2025 08:29:45 +0000",
+      "title": "Counterfeit cash is circulating. Here's how to spot a fake note",
+      "neutral_headline": "Identifying Counterfeit Australian Bank Notes",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-08-18/act-how-to-spot-counterfeit-money-circulating-after-police-warn/105667076",
+          "published_at": "Mon, 18 Aug 2025 08:29:45 +0000",
+          "title": "Counterfeit cash is circulating. Here's how to spot a fake note",
+          "standfirst": "Genuine Australian bank notes have security features like hidden images and fluorescent ink, and return to shape after being scrunched.",
+          "content": "Genuine Australian bank notes have security features like hidden images and fluorescent ink, and return to shape after being scrunched.",
+          "feed_position": 11
+        }
+      ],
+      "popularity_score": 150.2853038888889,
+      "ai_summary": "• Genuine Australian bank notes have security features.\n• These features include hidden images and fluorescent ink.\n• Genuine notes return to shape after being scrunched.\n• The article provides information on identifying fake notes.\n• The information helps people identify counterfeit currency."
+    },
+    {
+      "id": "cluster_35",
+      "coverage": 1,
+      "updated_at": "Mon, 18 Aug 2025 08:10:35 +0000",
+      "title": "Former premier's partner questioned over patient's death after surgery",
+      "neutral_headline": "Partner of Former Premier Questioned Over Death",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-08-18/qld-vahid-reza-adib-rosemarie-campbell-inquest-gastric-bypass/105665944",
+          "published_at": "Mon, 18 Aug 2025 08:10:35 +0000",
+          "title": "Former premier's partner questioned over patient's death after surgery",
+          "standfirst": "Rosemarie Campbell died in 2022 after a gastric bypass surgery performed by Dr Reza Adib, the partner of former Queensland premier Annastacia Palaszczuk.",
+          "content": "Rosemarie Campbell died in 2022 after a gastric bypass surgery performed by Dr Reza Adib, the partner of former Queensland premier Annastacia Palaszczuk.",
+          "feed_position": 19
+        }
+      ],
+      "popularity_score": 149.96585944444445,
+      "ai_summary": "• Rosemarie Campbell died after gastric bypass surgery in 2022.\n• The surgery was performed by Dr. Reza Adib.\n• Dr. Adib is the partner of former Queensland premier Annastacia Palaszczuk.\n• The death is related to a medical procedure.\n• The case involves a former premier's partner."
+    },
+    {
+      "id": "cluster_37",
+      "coverage": 1,
+      "updated_at": "Mon, 18 Aug 2025 07:51:36 +0000",
+      "title": "The ASU is pushing for presumed work from home. Here's what that means",
+      "neutral_headline": "Australian Services Union Pushes for Work From Home",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-08-18/asu-bid-for-presumed-work-from-home-fwc/105667096",
+          "published_at": "Mon, 18 Aug 2025 07:51:36 +0000",
+          "title": "The ASU is pushing for presumed work from home. Here's what that means",
+          "standfirst": "Working from home may become the presumed status of Australia's white-collar workforce as part of a new push from the Australian Services Union.",
+          "content": "Working from home may become the presumed status of Australia's white-collar workforce as part of a new push from the Australian Services Union.",
+          "feed_position": 13
+        }
+      ],
+      "popularity_score": 149.64947055555555,
+      "ai_summary": "• The Australian Services Union is pushing for presumed work from home.\n• Working from home may become the standard for white-collar workers.\n• The union's push is part of a new initiative.\n• The initiative impacts Australia's white-collar workforce.\n• The union is advocating for changes in work arrangements."
+    },
+    {
+      "id": "cluster_41",
+      "coverage": 1,
+      "updated_at": "Mon, 18 Aug 2025 06:55:18 +0000",
+      "title": "12yo girl charged with attempted murder over alleged stabbing",
+      "neutral_headline": "Twelve-Year-Old Girl Charged with Attempted Murder",
+      "bullet_summary": [
+        "Police say emergency services were called to a residence on Sunday where a 55-year-old woman was found with a stab wound to her chest",
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-08-18/qld-12yo-attempted-murder-charge-ipswich/105668534",
+          "published_at": "Mon, 18 Aug 2025 06:55:18 +0000",
+          "title": "12yo girl charged with attempted murder over alleged stabbing",
+          "standfirst": "Police say emergency services were called to a residence on Sunday where a 55-year-old woman was found with a stab wound to her chest.",
+          "content": "Police say emergency services were called to a residence on Sunday where a 55-year-old woman was found with a stab wound to her chest.",
+          "feed_position": 20
+        }
+      ],
+      "popularity_score": 148.71113722222222,
+      "ai_summary": "• A twelve-year-old girl has been charged with attempted murder.\n• Emergency services were called to a residence on Sunday.\n• A 55-year-old woman was found with a stab wound.\n• The incident involves a stabbing and a young suspect.\n• Police are investigating the attempted murder case."
+    },
+    {
+      "id": "cluster_42",
       "coverage": 1,
       "updated_at": "Mon, 18 Aug 2025 06:48:54 +0000",
       "title": "Anthony Albanese gets a shout out as 'delulu' enters the Cambridge Dictionary",
-      "neutral_headline": "Delulu\" Enters Cambridge Dictionary, Citing Albanese Example",
+      "neutral_headline": "Delulu\" Enters Cambridge Dictionary, Albanese Mentioned",
       "bullet_summary": [
         "Reported by ABC News Australia"
       ],
@@ -646,64 +766,41 @@
           "title": "Anthony Albanese gets a shout out as 'delulu' enters the Cambridge Dictionary",
           "standfirst": "Delulu's addition — derived from the word delusional — cites an example used by the prime minister in the lead up to the election.",
           "content": "Delulu's addition — derived from the word delusional — cites an example used by the prime minister in the lead up to the election.",
-          "feed_position": 12
+          "feed_position": 10
         }
       ],
-      "popularity_score": 152.51160055555556,
-      "ai_summary": "• The word \"delulu\" has been added to the Cambridge Dictionary.\n• \"Delulu\" is derived from the word \"delusional.\"\n• The dictionary cites an example used by the Prime Minister.\n• The Prime Minister used the word in the lead-up to the election.\n• The article highlights the word's inclusion in the dictionary."
+      "popularity_score": 148.60447055555557,
+      "ai_summary": "• The word \"delulu\" has been added to the Cambridge Dictionary.\n• The word is derived from the word \"delusional\".\n• An example used by the prime minister is cited.\n• The prime minister is Anthony Albanese.\n• The article discusses the addition of \"delulu\" to the dictionary."
     },
     {
-      "id": "cluster_16",
-      "coverage": 1,
-      "updated_at": "Mon, 18 Aug 2025 06:28:46 +0000",
-      "title": "Sharks skipper to miss rest of 2025 with second serious knee injury",
-      "neutral_headline": "Sharks Captain to Miss 2025 Season Due to Knee Injury",
-      "bullet_summary": [
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-08-18/nrl-cronulla-sharks-cam-mcinness-acl-rupture/105668284",
-          "published_at": "Mon, 18 Aug 2025 06:28:46 +0000",
-          "title": "Sharks skipper to miss rest of 2025 with second serious knee injury",
-          "standfirst": "Scans reveal inspirational Sharks captain Cameron McInnes will miss the remainder of this season and a large chunk of 2026 with the second ACL rupture of his career.",
-          "content": "Scans reveal inspirational Sharks captain Cameron McInnes will miss the remainder of this season and a large chunk of 2026 with the second ACL rupture of his career.",
-          "feed_position": 23
-        }
-      ],
-      "popularity_score": 152.176045,
-      "ai_summary": "• Sharks captain Cameron McInnes will miss the rest of 2025.\n• McInnes suffered a second serious knee injury.\n• Scans revealed an ACL rupture.\n• The injury will also impact a large portion of the 2026 season.\n• This is the second ACL injury of McInnes' career."
-    },
-    {
-      "id": "cluster_18",
+      "id": "cluster_45",
       "coverage": 1,
       "updated_at": "Mon, 18 Aug 2025 06:23:12 +0000",
       "title": "Police officer details moment he was set upon by teenagers",
-      "neutral_headline": "Police Officer Describes Confrontation with Teenagers",
+      "neutral_headline": "Police Officer Details Confrontation with Teenagers",
       "bullet_summary": [
-        "Reported by ABC News Australia"
+        "Reported by ABC Just In"
       ],
       "items": [
         {
-          "source": "ABC News Australia",
+          "source": "ABC Just In",
           "url": "https://www.abc.net.au/news/2025-08-18/teen-trial-assault-police-officer-ebike-ride-out-meeting/105668166",
           "published_at": "Mon, 18 Aug 2025 06:23:12 +0000",
           "title": "Police officer details moment he was set upon by teenagers",
           "standfirst": "A court is shown CCTV footage of Senior Constable Mark Cooper being punched during a confrontation with dozens of teenagers on bikes near Perth Stadium.",
           "content": "A court is shown CCTV footage of Senior Constable Mark Cooper being punched during a confrontation with dozens of teenagers on bikes near Perth Stadium.",
-          "feed_position": 18
+          "feed_position": 16
         }
       ],
-      "popularity_score": 152.08326722222222,
-      "ai_summary": "• A court is shown CCTV footage of a police officer's confrontation.\n• Senior Constable Mark Cooper was punched during the incident.\n• The confrontation involved dozens of teenagers on bikes.\n• The incident occurred near Perth Stadium.\n• The footage is being used as evidence in court."
+      "popularity_score": 148.17613722222222,
+      "ai_summary": "• A police officer detailed a confrontation with teenagers.\n• CCTV footage shows Senior Constable Mark Cooper being punched.\n• The incident occurred near Perth Stadium.\n• The confrontation involved dozens of teenagers on bikes.\n• The court is shown the CCTV footage of the incident."
     },
     {
-      "id": "cluster_34",
+      "id": "cluster_52",
       "coverage": 1,
       "updated_at": "Mon, 18 Aug 2025 05:32:23 +0000",
       "title": "Greens council hopefuls bid to ban Pine Gap from Alice Springs events",
-      "neutral_headline": "Council Hopefuls Seek Pine Gap Ban from Events",
+      "neutral_headline": "Greens Candidate Seeks Pine Gap Ban from Alice Springs Events",
       "bullet_summary": [
         "Reported by ABC Just In"
       ],
@@ -715,18 +812,18 @@
           "title": "Greens council hopefuls bid to ban Pine Gap from Alice Springs events",
           "standfirst": "Aia Newport is calling for an audit into the council's ties to Israel and a ban on Pine Gap, the US military and its official representatives from community events.",
           "content": "Aia Newport is calling for an audit into the council's ties to Israel and a ban on Pine Gap, the US military and its official representatives from community events.",
-          "feed_position": 10
+          "feed_position": 22
         }
       ],
-      "popularity_score": 151.2363227777778,
-      "ai_summary": "• Aia Newport wants to ban Pine Gap from Alice Springs events.\n• Newport is a Greens council hopeful.\n• Newport calls for an audit of council ties to Israel.\n• Newport wants to ban US military representatives from events.\n• The proposal concerns community events in Alice Springs."
+      "popularity_score": 147.3291927777778,
+      "ai_summary": "• Aia Newport wants an audit of council ties to Israel, according to reports.\n• Newport also seeks to ban Pine Gap representatives from community events.\n• The proposal concerns the United States military presence in the area.\n• The candidate's stance is part of the Alice Springs council election.\n• The election is approaching, with various candidates presenting their views."
     },
     {
-      "id": "cluster_38",
+      "id": "cluster_53",
       "coverage": 1,
       "updated_at": "Mon, 18 Aug 2025 05:28:14 +0000",
       "title": "Who are the candidates to be the next Alice Springs mayor, and what do they stand for?",
-      "neutral_headline": "Candidates for Alice Springs Mayor Share Visions",
+      "neutral_headline": "Candidates Vie for Alice Springs Mayoral Position",
       "bullet_summary": [
         "Reported by ABC Just In"
       ],
@@ -738,18 +835,18 @@
           "title": "Who are the candidates to be the next Alice Springs mayor, and what do they stand for?",
           "standfirst": "With the Alice Springs council election less than a week away, seven candidates for mayor have come forward to share their vision for Alice Springs.",
           "content": "With the Alice Springs council election less than a week away, seven candidates for mayor have come forward to share their vision for Alice Springs.",
-          "feed_position": 11
+          "feed_position": 23
         }
       ],
-      "popularity_score": 151.16715611111113,
-      "ai_summary": "• Seven candidates are running for mayor of Alice Springs.\n• The Alice Springs council election is less than a week away.\n• Candidates are sharing their visions for the city.\n• The article provides information about the candidates.\n• The election will determine the next mayor of Alice Springs."
+      "popularity_score": 147.2600261111111,
+      "ai_summary": "• Seven candidates have come forward for the Alice Springs mayoral election.\n• The candidates are sharing their visions for the future of Alice Springs.\n• The election is scheduled to occur within the next week.\n• The candidates are campaigning for the position of mayor.\n• The election will determine the leadership of the Alice Springs council."
     },
     {
-      "id": "cluster_39",
+      "id": "cluster_54",
       "coverage": 1,
       "updated_at": "Mon, 18 Aug 2025 05:23:42 +0000",
       "title": "Soaring energy costs threaten Future Made In Australia, steel boss warns",
-      "neutral_headline": "Soaring Energy Costs Threaten Australian Manufacturing",
+      "neutral_headline": "Soaring Energy Costs Threaten Australian Manufacturing Sector",
       "bullet_summary": [
         "Reported by ABC Just In"
       ],
@@ -761,14 +858,37 @@
           "title": "Soaring energy costs threaten Future Made In Australia, steel boss warns",
           "standfirst": "Skyrocketing electricity and gas prices are pushing domestic manufacturing to a tipping point, BlueScope warns, as its full-year profit drops 90 per cent.",
           "content": "Skyrocketing electricity and gas prices are pushing domestic manufacturing to a tipping point, BlueScope warns, as its full-year profit drops 90 per cent.",
+          "feed_position": 24
+        }
+      ],
+      "popularity_score": 147.18447055555555,
+      "ai_summary": "• BlueScope warns that high energy costs are hurting domestic manufacturing.\n• Electricity and gas prices are increasing rapidly, according to the company.\n• BlueScope's full-year profit has decreased by ninety percent.\n• The company's warning highlights challenges for Australian industry.\n• The manufacturing sector faces a critical point due to rising costs."
+    },
+    {
+      "id": "cluster_56",
+      "coverage": 1,
+      "updated_at": "Mon, 18 Aug 2025 04:26:03 +0000",
+      "title": "NAB flags $130 million hit after underpaying staff, as payroll problems widen",
+      "neutral_headline": "NAB Faces $130 Million Hit Due to Staff Underpayment",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-08-18/nab-flags-130-million-hit-after-underpaying-staff/105667178",
+          "published_at": "Mon, 18 Aug 2025 04:26:03 +0000",
+          "title": "NAB flags $130 million hit after underpaying staff, as payroll problems widen",
+          "standfirst": "The bank's payroll review and remediation is ongoing, and total costs remain uncertain, according to NAB's latest ASX release.",
+          "content": "The bank's payroll review and remediation is ongoing, and total costs remain uncertain, according to NAB's latest ASX release.",
           "feed_position": 12
         }
       ],
-      "popularity_score": 151.09160055555554,
-      "ai_summary": "• Soaring energy costs threaten the \"Future Made In Australia\" initiative.\n• A steel boss issued a warning about the rising costs.\n• BlueScope's full-year profit dropped ninety percent.\n• Skyrocketing electricity and gas prices are the main concern.\n• Domestic manufacturing faces a potential tipping point."
+      "popularity_score": 146.22363722222224,
+      "ai_summary": "• National Australia Bank is facing a $130 million financial impact.\n• The hit is due to underpaying staff, according to the bank.\n• A payroll review and remediation process is currently ongoing.\n• The total costs associated with the issue remain uncertain.\n• NAB released the information in its latest ASX statement."
     },
     {
-      "id": "cluster_47",
+      "id": "cluster_60",
       "coverage": 1,
       "updated_at": "Mon, 18 Aug 2025 04:09:05 +0000",
       "title": "'I think I like this'. Why Joanna chose to go flat after breast cancer",
@@ -784,41 +904,18 @@
           "title": "'I think I like this'. Why Joanna chose to go flat after breast cancer",
           "standfirst": "The mental toll of being left with one breast after cancer surgery weighed heavily on Joanna Atzori until she stumbled across another option.",
           "content": "The mental toll of being left with one breast after cancer surgery weighed heavily on Joanna Atzori until she stumbled across another option.",
-          "feed_position": 20
+          "feed_position": 18
         }
       ],
-      "popularity_score": 149.84798944444444,
-      "ai_summary": "• Joanna Atzori chose to go flat after breast cancer surgery.\n• The mental toll of one breast weighed heavily on Atzori.\n• Atzori found another option after the surgery.\n• The article discusses Atzori's experience with cancer.\n• The article explores the emotional impact of the surgery."
+      "popularity_score": 145.94085944444444,
+      "ai_summary": "• Joanna Atzori chose to have a flat closure after breast cancer surgery.\n• She struggled with the mental toll of having only one breast.\n• Atzori discovered the option of flat closure as an alternative.\n• The decision provided a different approach to post-surgery recovery.\n• The story highlights a personal choice after cancer treatment."
     },
     {
-      "id": "cluster_50",
-      "coverage": 1,
-      "updated_at": "Mon, 18 Aug 2025 04:04:19 +0000",
-      "title": "Wanganeen-Milera rejects rivals to sign monster Saints extension",
-      "neutral_headline": "Wanganeen-Milera Signs Extension with St Kilda",
-      "bullet_summary": [
-        "Reported by ABC Just In"
-      ],
-      "items": [
-        {
-          "source": "ABC Just In",
-          "url": "https://www.abc.net.au/news/2025-08-18/afl-nasiah-wanganeen-milera-st-kilda-contract-extension/105667362",
-          "published_at": "Mon, 18 Aug 2025 04:04:19 +0000",
-          "title": "Wanganeen-Milera rejects rivals to sign monster Saints extension",
-          "standfirst": "Nasiah Wanganeen-Milera gives St Kilda a major boost heading into the off-season, knocking back rival clubs to sign a two-year extension to remain in Moorabbin.",
-          "content": "Nasiah Wanganeen-Milera gives St Kilda a major boost heading into the off-season, knocking back rival clubs to sign a two-year extension to remain in Moorabbin.",
-          "feed_position": 17
-        }
-      ],
-      "popularity_score": 149.768545,
-      "ai_summary": "• Nasiah Wanganeen-Milera signed a contract extension with St Kilda.\n• Wanganeen-Milera rejected offers from rival clubs.\n• The extension is for two years.\n• The player will remain in Moorabbin.\n• The signing is a boost for St Kilda."
-    },
-    {
-      "id": "cluster_54",
+      "id": "cluster_65",
       "coverage": 1,
       "updated_at": "Mon, 18 Aug 2025 03:29:39 +0000",
       "title": "Secret relationship with prison informant set to result in guilty plea for ex-CCC employee",
-      "neutral_headline": "Ex-CCC Employee to Plead Guilty in Prison Informant Case",
+      "neutral_headline": "Ex-CCC Employee Expected to Plead Guilty in Relationship Case",
       "bullet_summary": [
         "Reported by ABC News Australia"
       ],
@@ -830,87 +927,41 @@
           "title": "Secret relationship with prison informant set to result in guilty plea for ex-CCC employee",
           "standfirst": "Former WA Corruption and Crime Commission officer Louise Carruthers is set to plead guilty to a charge relating to an alleged relationship with a prison informant.",
           "content": "Former WA Corruption and Crime Commission officer Louise Carruthers is set to plead guilty to a charge relating to an alleged relationship with a prison informant.",
-          "feed_position": 10
+          "feed_position": 22
         }
       ],
-      "popularity_score": 149.19076722222223,
-      "ai_summary": "• Former WA Corruption and Crime Commission officer will plead guilty.\n• Louise Carruthers is the former CCC officer.\n• The charge relates to an alleged relationship.\n• The relationship was with a prison informant.\n• The plea is expected to be entered soon."
-    },
-    {
-      "id": "cluster_56",
-      "coverage": 1,
-      "updated_at": "Mon, 18 Aug 2025 02:48:22 +0000",
-      "title": "Report into suspended Queensland mayor 'not sitting on anyone's desk'",
-      "neutral_headline": "Queensland Mayor's Return Awaits Corruption Commission Investigation",
-      "bullet_summary": [
-        "Reported by ABC Just In"
-      ],
-      "items": [
-        {
-          "source": "ABC Just In",
-          "url": "https://www.abc.net.au/news/2025-08-18/qld-premier-says-townsville-mayors-suspension-could-continue/105665918",
-          "published_at": "Mon, 18 Aug 2025 02:48:22 +0000",
-          "title": "Report into suspended Queensland mayor 'not sitting on anyone's desk'",
-          "standfirst": "Queensland Premier David Crisafulli says suspended Townsville Mayor Troy Thompson will not return to work before a Crime and Corruption Commission investigation is complete.",
-          "content": "Queensland Premier David Crisafulli says suspended Townsville Mayor Troy Thompson will not return to work before a Crime and Corruption Commission investigation is complete.",
-          "feed_position": 23
-        }
-      ],
-      "popularity_score": 148.50271166666667,
-      "ai_summary": "• Queensland Premier stated suspended Townsville Mayor will not return to work.\n• The Crime and Corruption Commission is currently investigating the mayor.\n• The investigation must conclude before any return to mayoral duties.\n• No specific timeline was provided for the investigation's completion.\n• The Premier made the announcement regarding the mayor's status."
-    },
-    {
-      "id": "cluster_57",
-      "coverage": 1,
-      "updated_at": "Mon, 18 Aug 2025 02:43:06 +0000",
-      "title": "Cockatoo Island renamed for event featuring Wednesday star Jenna Ortega",
-      "neutral_headline": "Cockatoo Island Renamed for Wednesday Fan Event",
-      "bullet_summary": [
-        "Reported by ABC Just In"
-      ],
-      "items": [
-        {
-          "source": "ABC Just In",
-          "url": "https://www.abc.net.au/news/2025-08-18/what-is-behind-the-appeal-of-hit-netflix-show-wednesday/105666140",
-          "published_at": "Mon, 18 Aug 2025 02:43:06 +0000",
-          "title": "Cockatoo Island renamed for event featuring Wednesday star Jenna Ortega",
-          "standfirst": "The stars and creators of Wednesday attended a fan event over the weekend at Cockatoo Island and told the ABC why they think the show resonates.",
-          "content": "The stars and creators of Wednesday attended a fan event over the weekend at Cockatoo Island and told the ABC why they think the show resonates.",
-          "feed_position": 24
-        }
-      ],
-      "popularity_score": 148.4149338888889,
-      "ai_summary": "• Cockatoo Island was renamed for a fan event.\n• The event featured stars and creators of the show Wednesday.\n• Jenna Ortega attended the fan event on Cockatoo Island.\n• The cast discussed the show's resonance with fans.\n• The event took place over the past weekend."
+      "popularity_score": 145.2836372222222,
+      "ai_summary": "• Former WA Corruption and Crime Commission officer faces a guilty plea.\n• Louise Carruthers is the ex-CCC employee involved in the case.\n• The charge relates to an alleged relationship with a prison informant.\n• The case involves a breach of conduct within the commission.\n• The guilty plea is expected to be the outcome of the case."
     },
     {
       "id": "cluster_59",
       "coverage": 1,
-      "updated_at": "Mon, 18 Aug 2025 02:18:54 +0000",
-      "title": "Hollywood stuntman best known for his Pink Floyd album cover has died aged 88",
-      "neutral_headline": "Hollywood Stuntman Ronnie Rondell Dies at Age Eighty-Eight",
+      "updated_at": "Mon, 18 Aug 2025 04:17:29 +0000",
+      "title": "How common are earthquakes in Australia?",
+      "neutral_headline": "Earthquake Frequency in Australia Examined",
       "bullet_summary": [
         "Reported by ABC News Australia"
       ],
       "items": [
         {
           "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-08-18/ronald-rondell-pink-floyd-stuntman-dies/105666100",
-          "published_at": "Mon, 18 Aug 2025 02:18:54 +0000",
-          "title": "Hollywood stuntman best known for his Pink Floyd album cover has died aged 88",
-          "standfirst": "A Missouri care home announces the death of Hollywood stuntman Ronnie Rondell, who featured on the cover of Pink Floyd's 1975 album Wish You Were Here.",
-          "content": "A Missouri care home announces the death of Hollywood stuntman Ronnie Rondell, who featured on the cover of Pink Floyd's 1975 album Wish You Were Here.",
-          "feed_position": 17
+          "url": "https://www.abc.net.au/news/2025-08-18/what-causes-earthquakes-australia-tectonic-plates/105666040",
+          "published_at": "Mon, 18 Aug 2025 04:17:29 +0000",
+          "title": "How common are earthquakes in Australia?",
+          "standfirst": "With Australia's most significant earthquake disaster occurring more than 35 years ago, many people consider quakes to be quite rare in Australia. But it turns out they're more common than you'd think.",
+          "content": "With Australia's most significant earthquake disaster occurring more than 35 years ago, many people consider quakes to be quite rare in Australia. But it turns out they're more common than you'd think.",
+          "feed_position": 24
         }
       ],
-      "popularity_score": 148.01160055555556,
-      "ai_summary": "• Ronnie Rondell, a Hollywood stuntman, has died at eighty-eight.\n• He was featured on the cover of Pink Floyd's \"Wish You Were Here\".\n• Rondell's death was announced by a Missouri care home.\n• He had a long career in the film industry.\n• Rondell was known for his stunt work."
+      "popularity_score": 143.08085944444446,
+      "ai_summary": "• Earthquakes are more common in Australia than many people realize.\n• The last significant earthquake disaster occurred over thirty-five years ago.\n• Many people perceive earthquakes as rare events in Australia.\n• The article explores the actual frequency of seismic activity.\n• Australia experiences more earthquakes than commonly believed."
     },
     {
-      "id": "cluster_79",
+      "id": "cluster_86",
       "coverage": 1,
       "updated_at": "Sun, 17 Aug 2025 19:03:48 +0000",
       "title": "Think your passport is just ID? Here's what border officials really know about you",
-      "neutral_headline": "Passport Information Revealed to Border Officials During Travel",
+      "neutral_headline": "Passport Information Revealed to Border Officials",
       "bullet_summary": [
         "Reported by ABC News Australia"
       ],
@@ -922,58 +973,34 @@
           "title": "Think your passport is just ID? Here's what border officials really know about you",
           "standfirst": "International travel has been in the spotlight recently, with nerve-wracking tales of border crackdowns in the US and unexpected detentions. Here's what your passport reveals about you when you're travelling.",
           "content": "International travel has been in the spotlight recently, with nerve-wracking tales of border crackdowns in the US and unexpected detentions. Here's what your passport reveals about you when you're travelling.",
+          "feed_position": 17
+        }
+      ],
+      "popularity_score": 141.8528038888889,
+      "ai_summary": "• Passports reveal information beyond simple identification.\n• Border officials can access various details about travelers.\n• The article discusses what passports reveal during travel.\n• International travel has recently faced increased scrutiny.\n• The article addresses concerns about border crackdowns."
+    },
+    {
+      "id": "cluster_87",
+      "coverage": 1,
+      "updated_at": "Sun, 17 Aug 2025 18:47:21 +0000",
+      "title": "Boosting Australia's struggling productivity needs bold ideas. Here are 23 of them",
+      "neutral_headline": "Experts Offer Ideas to Boost Australian Productivity",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-08-18/big-ideas-productivity-economic-reform-roundtable/105629070",
+          "published_at": "Sun, 17 Aug 2025 18:47:21 +0000",
+          "title": "Boosting Australia's struggling productivity needs bold ideas. Here are 23 of them",
+          "standfirst": "Experts share 23 bold, surprising and thought-provoking ideas to boost Australia's productivity growth — and improve living standards.",
+          "content": "Experts share 23 bold, surprising and thought-provoking ideas to boost Australia's productivity growth — and improve living standards.",
           "feed_position": 16
         }
       ],
-      "popularity_score": 145.7599338888889,
-      "ai_summary": "• International travel has recently been under scrutiny.\n• Border crackdowns in the United States have caused concern.\n• Passports reveal information to border officials.\n• Unexpected detentions have occurred at borders.\n• The article explores what passports reveal about travelers."
-    },
-    {
-      "id": "cluster_75",
-      "coverage": 1,
-      "updated_at": "Sun, 17 Aug 2025 20:40:52 +0000",
-      "title": "'Damage is done': Trees illegally cut down to build luxury mansion",
-      "neutral_headline": "Trees Illegally Cut Down for Luxury Mansion Construction",
-      "bullet_summary": [
-        "The details of property developer Amir Abu Abara's lengthy court case can only now be revealed — five years after he illegally cleared land at Barden Ridge in Sydney's south",
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-08-18/fine-sydney-developer-illegally-cutting-trees-for-luxury-mansion/105628970",
-          "published_at": "Sun, 17 Aug 2025 20:40:52 +0000",
-          "title": "'Damage is done': Trees illegally cut down to build luxury mansion",
-          "standfirst": "The details of property developer Amir Abu Abara's lengthy court case can only now be revealed — five years after he illegally cleared land at Barden Ridge in Sydney's south.",
-          "content": "The details of property developer Amir Abu Abara's lengthy court case can only now be revealed — five years after he illegally cleared land at Barden Ridge in Sydney's south.",
-          "feed_position": 19
-        }
-      ],
-      "popularity_score": 142.37771166666667,
-      "ai_summary": "• Property developer Amir Abu Abara illegally cleared land.\n• The land clearing occurred at Barden Ridge in Sydney's south.\n• The court case details are now revealed after five years.\n• The case involved the illegal cutting down of trees.\n• The construction was for a luxury mansion."
-    },
-    {
-      "id": "cluster_81",
-      "coverage": 1,
-      "updated_at": "Sun, 17 Aug 2025 18:43:35 +0000",
-      "title": "Disturbing history behind company in Santos takeover bid",
-      "neutral_headline": "Santos Takeover Bid Involves Company with Disturbing History",
-      "bullet_summary": [
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-08-18/battle-for-santos-takes-a-twist/105660252",
-          "published_at": "Sun, 17 Aug 2025 18:43:35 +0000",
-          "title": "Disturbing history behind company in Santos takeover bid",
-          "standfirst": "The battle for control of oil and gas giant Santos moved up a gear this week after Ryan Stokes, chairman of Beach Energy and son of billionaire Kerry, took a swipe at the Abu Dhabi government's tilt for a large slice of Australia's energy market.",
-          "content": "The battle for control of oil and gas giant Santos moved up a gear this week after Ryan Stokes, chairman of Beach Energy and son of billionaire Kerry, took a swipe at the Abu Dhabi government's tilt for a large slice of Australia's energy market.",
-          "feed_position": 24
-        }
-      ],
-      "popularity_score": 140.42298944444445,
-      "ai_summary": "• The battle for Santos control intensified this week.\n• Ryan Stokes criticized the Abu Dhabi government's bid.\n• Stokes is the chairman of Beach Energy.\n• The Abu Dhabi government seeks a large energy market share.\n• The company involved has a disturbing history."
+      "popularity_score": 136.57863722222223,
+      "ai_summary": "• Experts are sharing ideas to boost Australia's productivity growth.\n• The ideas aim to improve living standards across the country.\n• Twenty-three ideas are presented, covering various topics.\n• The ideas are described as bold, surprising, and thought-provoking.\n• The focus is on improving Australia's economic performance."
     }
   ]
 }
