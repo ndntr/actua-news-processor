@@ -1,17 +1,40 @@
 {
   "clinical": {
-    "updated_at": "2025-08-17T23:12:51.358Z",
+    "updated_at": "2025-08-18T03:57:59.172Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2025-08-17T23:12:51.358Z",
+    "updated_at": "2025-08-18T03:57:59.172Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2025-08-17T23:12:59.404Z",
+    "updated_at": "2025-08-18T03:58:06.595Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Mon, 18 Aug 2025 02:59:35 GMT",
+        "title": "Bindi Irwin says women with endometriosis 'shouldn't feel alone with pain'",
+        "neutral_headline": "Bindi Irwin says women with endometriosis 'shouldn't feel alone with pain'",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/c209dz1yd22o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 18 Aug 2025 02:59:35 GMT",
+            "title": "Bindi Irwin says women with endometriosis 'shouldn't feel alone with pain'",
+            "standfirst": "Her story has reignited conversations about the condition that affects about one in ten women.",
+            "content": "Her story has reignited conversations about the condition that affects about one in ten women.",
+            "feed_position": 75,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/406a/live/ba913930-7bd7-11f0-a634-73b1bf10770e.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/406a/live/ba913930-7bd7-11f0-a634-73b1bf10770e.jpg"
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Sun, 17 Aug 2025 23:01:43 GMT",
         "title": "Patients in England given more access to crucial health checks out of hours",
@@ -32,7 +55,7 @@
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Sun, 17 Aug 2025 17:25:36 GMT",
         "title": "The Guardian view on regulating cosmetic procedures: rogue operators must be tackled, but aren’t the only problem | Editorial",
@@ -53,7 +76,7 @@
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Sun, 17 Aug 2025 13:00:32 GMT",
         "title": "The power of pulses: 15 easy, delicious ways to eat more life-changing legumes",
@@ -75,7 +98,7 @@
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Sun, 17 Aug 2025 11:00:29 GMT",
         "title": "Why antibiotics are like fossil fuels",
@@ -96,7 +119,7 @@
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Sun, 17 Aug 2025 06:00:23 GMT",
         "title": "Puppy fat jabs: are our pets next in line for weight-loss drugs?",
@@ -117,7 +140,7 @@
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Sat, 16 Aug 2025 21:30:12 GMT",
         "title": "AI tool that speeds up patient discharges trialled by NHS",
@@ -140,7 +163,7 @@
     ]
   },
   "month_in_research": {
-    "updated_at": "2025-08-17T23:12:59.404Z",
+    "updated_at": "2025-08-18T03:58:06.595Z",
     "clusters": []
   }
 }
