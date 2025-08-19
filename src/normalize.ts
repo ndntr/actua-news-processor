@@ -400,7 +400,8 @@ function parseBatchResponse(response: string, clusters: any[]): void {
         .slice(0, 5); // Max 5 bullets
       
       if (bullets.length >= 3) { // Only use if we got at least 3 good bullets
-        clusters[i].ai_summary = bullets.map(bullet => `• ${bullet}`).join('\n');
+        // Store as array for frontend compatibility
+        clusters[i].ai_summary = bullets;
       }
     }
   }
