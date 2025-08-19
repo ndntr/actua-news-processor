@@ -1,8 +1,43 @@
 {
-  "updated_at": "2025-08-19T03:38:36.833Z",
+  "updated_at": "2025-08-19T07:13:43.192Z",
   "clusters": [
     {
-      "id": "cluster_4",
+      "id": "cluster_6",
+      "coverage": 2,
+      "updated_at": "Tue, 19 Aug 2025 00:00:14 -0400",
+      "title": "A federal appeals court rejects T-Mobile's bid to overturn a $92M fine for illegally sharing customer location data without consent, per a 2024 FCC ruling (Jon Brodkin/Ars Technica)",
+      "neutral_headline": "T-Mobile Loses Bid to Overturn Fine for Data Sharing",
+      "bullet_summary": [
+        "Reported by TechMeme, Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "TechMeme",
+          "url": "http://www.techmeme.com/250819/p1#a250819p1",
+          "published_at": "Tue, 19 Aug 2025 00:00:14 -0400",
+          "title": "A federal appeals court rejects T-Mobile's bid to overturn a $92M fine for illegally sharing customer location data without consent, per a 2024 FCC ruling (Jon Brodkin/Ars Technica)",
+          "standfirst": "Jon Brodkin / Ars Technica: A federal appeals court rejects T-Mobile's bid to overturn a $92M fine for illegally sharing customer location data without consent, per a 2024 FCC ruling &mdash; A federal appeals court rejected T-Mobile's attempt to overturn $92 million in fines for selling customer location information to third-party firms.",
+          "content": "Jon Brodkin / Ars Technica: A federal appeals court rejects T-Mobile's bid to overturn a $92M fine for illegally sharing customer location data without consent, per a 2024 FCC ruling &mdash; A federal appeals court rejected T-Mobile's attempt to overturn $92 million in fines for selling customer location information to third-party firms.",
+          "feed_position": 3,
+          "image_url": "http://www.techmeme.com/250819/i1.jpg"
+        },
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2025/08/t-mobile-claimed-selling-location-data-without-consent-is-legal-judges-disagree/",
+          "published_at": "Mon, 18 Aug 2025 19:07:52 +0000",
+          "title": "T-Mobile claimed selling location data without consent is legal—judges disagree",
+          "standfirst": "T-Mobile can't overturn $92 million fine; AT&#038;T and Verizon verdicts still to come.",
+          "content": "A federal appeals court rejected T-Mobile's attempt to overturn $92 million in fines for selling customer location information to third-party firms. The Federal Communications Commission last year fined T-Mobile, AT&T, and Verizon, saying the carriers illegally shared access to customers' location information without consent and did not take reasonable measures to protect that sensitive data against unauthorized disclosure. The fines relate to sharing of real-time location data that was revealed in 2018, but it took years for the FCC to finalize the penalties. The three carriers appealed the rulings in three different courts, and the first major decision was handed down Friday. A three-judge panel at the US Court of Appeals for the District of Columbia Circuit ruled unanimously against T-Mobile and its subsidiary Sprint.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/t-mobile-its-alive-1152x648-1729188629.jpg"
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/250819/i1.jpg",
+      "popularity_score": 2016.7752244444443,
+      "ai_summary": "• A federal appeals court rejected T-Mobile's appeal.\n• T-Mobile sought to overturn a $92 million fine.\n• The fine was for illegally sharing customer data.\n• The FCC issued the ruling in 2024.\n• The court upheld the FCC's decision."
+    },
+    {
+      "id": "cluster_12",
       "coverage": 2,
       "updated_at": "Tue, 19 Aug 2025 00:23:55 +0000",
       "title": "SoftBank makes $2B investment in Intel",
@@ -18,7 +53,7 @@
           "title": "SoftBank makes $2B investment in Intel",
           "standfirst": "SoftBank will pay $23 per share for Intel common stock.",
           "content": "SoftBank will pay $23 per share for Intel common stock.",
-          "feed_position": 0
+          "feed_position": 1
         },
         {
           "source": "TechMeme",
@@ -27,20 +62,20 @@
           "title": "SoftBank agrees to invest $2B in Intel, paying $23/share for Intel's common stock and buying ~2% of its outstanding shares; INTC jumps ~6% to ~$25 after hours (Kif Leswing/CNBC)",
           "standfirst": "Kif Leswing / CNBC: SoftBank agrees to invest $2B in Intel, paying $23/share for Intel's common stock and buying ~2% of its outstanding shares; INTC jumps ~6% to ~$25 after hours &mdash; Intel and SoftBank announced on Monday that the Japanese conglomerate will make a $2 billion investment in the embattled chipmaker.",
           "content": "Kif Leswing / CNBC: SoftBank agrees to invest $2B in Intel, paying $23/share for Intel's common stock and buying ~2% of its outstanding shares; INTC jumps ~6% to ~$25 after hours &mdash; Intel and SoftBank announced on Monday that the Japanese conglomerate will make a $2 billion investment in the embattled chipmaker.",
-          "feed_position": 4,
+          "feed_position": 8,
           "image_url": "http://www.techmeme.com/250818/i30.jpg"
         }
       ],
       "featured_image": "http://www.techmeme.com/250818/i30.jpg",
-      "popularity_score": 2016.7550463888888,
-      "ai_summary": "• SoftBank will invest two billion dollars in Intel.\n• SoftBank will pay twenty-three dollars per Intel share.\n• SoftBank will purchase approximately two percent of shares.\n• Intel's stock price jumped after the announcement.\n• The article reports on the investment deal."
+      "popularity_score": 2013.1699466666666,
+      "ai_summary": "• SoftBank will invest two billion dollars in Intel, purchasing shares.\n• The investment will be at a price of twenty-three dollars per share.\n• SoftBank will acquire approximately two percent of Intel's outstanding shares.\n• Intel's stock price jumped approximately six percent after the announcement.\n• The announcement was made jointly by Intel and SoftBank on Monday."
     },
     {
-      "id": "cluster_21",
+      "id": "cluster_28",
       "coverage": 2,
       "updated_at": "Mon, 18 Aug 2025 20:18:53 +0000",
       "title": "YouTuber Mark Rober is bringing his experiments to Netflix",
-      "neutral_headline": "YouTuber Mark Rober to Bring Experiments to Netflix",
+      "neutral_headline": "Mark Rober to Bring Experiments to Netflix",
       "bullet_summary": [
         "Reported by Engadget, The Verge"
       ],
@@ -52,7 +87,7 @@
           "title": "YouTuber Mark Rober is bringing his experiments to Netflix",
           "standfirst": "Mark Rober will bring his scientific talents to Netflix with two upcoming projects. Rober is a former NASA engineer who parlayed his skills into an entertaining and educational YouTube career. In past years, we've seen him develop not just one, but two stinky glitter bombs to fend off porch package thieves, as well as leading work on a Guinness World Record-holding robot called the Dominator. According to an announcement from Netflix, Rober \"will bring some of his most beloved, ambitious, and informative experiments\" to the streaming platform later this year. Then in 2026, he'll also host a competition series aimed at kids and family viewers. Rober's CrunchLabs business and Kimmelot, late night host Jimmy Kimmel's production company, will be producing. Netflix has been adding several YouTube creators to its content lineup, with a particular angle toward family-friendly science programs. Earlier this year, it brought some content from Rachel Accurso's Ms. Rachel channel, with educational topics for very young children, to the platform.This article originally appeared on Engadget at https://www.engadget.com/entertainment/streaming/youtuber-mark-rober-is-bringing-his-experiments-to-netflix-201853920.html?src=rss",
           "content": "Mark Rober will bring his scientific talents to Netflix with two upcoming projects. Rober is a former NASA engineer who parlayed his skills into an entertaining and educational YouTube career. In past years, we've seen him develop not just one, but two stinky glitter bombs to fend off porch package thieves, as well as leading work on a Guinness World Record-holding robot called the Dominator. According to an announcement from Netflix, Rober \"will bring some of his most beloved, ambitious, and informative experiments\" to the streaming platform later this year. Then in 2026, he'll also host a competition series aimed at kids and family viewers. Rober's CrunchLabs business and Kimmelot, late night host Jimmy Kimmel's production company, will be producing. Netflix has been adding several YouTube creators to its content lineup, with a particular angle toward family-friendly science programs. Earlier this year, it brought some content from Rachel Accurso's Ms. Rachel channel, with educational topics for very young children, to the platform.This article originally appeared on Engadget at https://www.engadget.com/entertainment/streaming/youtuber-mark-rober-is-bringing-his-experiments-to-netflix-201853920.html?src=rss",
-          "feed_position": 3
+          "feed_position": 4
         },
         {
           "source": "The Verge",
@@ -64,15 +99,15 @@
           "feed_position": 4
         }
       ],
-      "popularity_score": 2012.6711575,
-      "ai_summary": "• Mark Rober, a YouTuber, will bring experiments to Netflix.\n• He is a former NASA engineer known for science content.\n• He will launch a competition series in 2026.\n• He will bring his experiments to the platform later this year.\n• Rober's CrunchLabs and Kimmelot will produce the content."
+      "popularity_score": 2009.0860577777778,
+      "ai_summary": "• YouTuber Mark Rober will bring his experiments to Netflix later this year.\n• Rober is a former NASA engineer known for science-focused content.\n• He will also host a competition series for families in 2026.\n• Rober's CrunchLabs business and Kimmelot will produce the content.\n• Netflix is expanding its family-friendly science programming lineup."
     },
     {
-      "id": "cluster_23",
+      "id": "cluster_30",
       "coverage": 2,
       "updated_at": "Mon, 18 Aug 2025 16:10:01 -0400",
       "title": "Nvidia, Discord, and Epic Games are testing game demos on Discord servers, letting users try a game without downloading it or signing up, starting with Fortnite (Sean Hollister/The Verge)",
-      "neutral_headline": "Nvidia, Discord, and Epic Games Partner for Instant Game Demos",
+      "neutral_headline": "Nvidia, Discord, and Epic Games Test Game Demos",
       "bullet_summary": [
         "Reported by TechMeme, The Verge"
       ],
@@ -84,18 +119,8 @@
           "title": "Nvidia, Discord, and Epic Games are testing game demos on Discord servers, letting users try a game without downloading it or signing up, starting with Fortnite (Sean Hollister/The Verge)",
           "standfirst": "Sean Hollister / The Verge: Nvidia, Discord, and Epic Games are testing game demos on Discord servers, letting users try a game without downloading it or signing up, starting with Fortnite &mdash; Try before you try before you buy. &hellip; Nvidia's GeForce Now is getting a big upgrade next month &mdash; and it's also part of an intriguing new experiment.",
           "content": "Sean Hollister / The Verge: Nvidia, Discord, and Epic Games are testing game demos on Discord servers, letting users try a game without downloading it or signing up, starting with Fortnite &mdash; Try before you try before you buy. &hellip; Nvidia's GeForce Now is getting a big upgrade next month &mdash; and it's also part of an intriguing new experiment.",
-          "feed_position": 10,
+          "feed_position": 14,
           "image_url": "http://www.techmeme.com/250818/i24.jpg"
-        },
-        {
-          "source": "TechMeme",
-          "url": "http://www.techmeme.com/250818/p22#a250818p22",
-          "published_at": "Mon, 18 Aug 2025 15:55:02 -0400",
-          "title": "Nvidia announces Install-to-Play for GeForce Now, letting users install games opted into Valve's Steam Cloud Play, without waiting for Nvidia to curate them (Sean Hollister/The Verge)",
-          "standfirst": "Sean Hollister / The Verge: Nvidia announces Install-to-Play for GeForce Now, letting users install games opted into Valve's Steam Cloud Play, without waiting for Nvidia to curate them &mdash; More games, more power, more AI-generated frames. &hellip; It's been two and a half years since Nvidia's GeForce Now cloud gaming service got &hellip;",
-          "content": "Sean Hollister / The Verge: Nvidia announces Install-to-Play for GeForce Now, letting users install games opted into Valve's Steam Cloud Play, without waiting for Nvidia to curate them &mdash; More games, more power, more AI-generated frames. &hellip; It's been two and a half years since Nvidia's GeForce Now cloud gaming service got &hellip;",
-          "feed_position": 12,
-          "image_url": "http://www.techmeme.com/250818/i22.jpg"
         },
         {
           "source": "The Verge",
@@ -108,74 +133,15 @@
         }
       ],
       "featured_image": "http://www.techmeme.com/250818/i24.jpg",
-      "popularity_score": 2012.5233797222222,
-      "ai_summary": "• Nvidia, Discord, and Epic Games are testing instant game demos on Discord servers.\n• Users can try games without downloading or signing up for the service.\n• The initial test involves the game Fortnite as the first demo.\n• Nvidia's GeForce Now cloud gaming service is also receiving a significant upgrade.\n• This new feature allows users to try games before committing to a purchase."
+      "popularity_score": 2008.93828,
+      "ai_summary": "• Nvidia, Discord, and Epic Games are testing game demos on Discord servers.\n• Users can try games without downloading or signing up.\n• The initial test involves the game Fortnite.\n• Nvidia's GeForce Now service is receiving a significant upgrade.\n• The experiment allows users to try games before purchasing them."
     },
     {
-      "id": "cluster_25",
-      "coverage": 2,
-      "updated_at": "Mon, 18 Aug 2025 15:50:04 -0400",
-      "title": "Nvidia's app gets global DLSS override and more control panel features, including anisotropic filtering, anti-aliasing, and ambient occlusion (Tom Warren/The Verge)",
-      "neutral_headline": "Nvidia App Receives Updates Including DLSS Override Feature",
-      "bullet_summary": [
-        "Reported by TechMeme, The Verge"
-      ],
-      "items": [
-        {
-          "source": "TechMeme",
-          "url": "http://www.techmeme.com/250818/p21#a250818p21",
-          "published_at": "Mon, 18 Aug 2025 15:50:04 -0400",
-          "title": "Nvidia's app gets global DLSS override and more control panel features, including anisotropic filtering, anti-aliasing, and ambient occlusion (Tom Warren/The Verge)",
-          "standfirst": "Tom Warren / The Verge: Nvidia's app gets global DLSS override and more control panel features, including anisotropic filtering, anti-aliasing, and ambient occlusion &mdash; You won't need to switch to Nvidia's older control panel app as much anymore. &hellip; The Nvidia app is getting improvements to DLSS override &hellip;",
-          "content": "Tom Warren / The Verge: Nvidia's app gets global DLSS override and more control panel features, including anisotropic filtering, anti-aliasing, and ambient occlusion &mdash; You won't need to switch to Nvidia's older control panel app as much anymore. &hellip; The Nvidia app is getting improvements to DLSS override &hellip;",
-          "feed_position": 13,
-          "image_url": "http://www.techmeme.com/250818/i21.jpg"
-        },
-        {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/news/760488/nvidia-app-dlss-override-control-panel-features",
-          "published_at": "2025-08-18T15:30:00-04:00",
-          "title": "Nvidia’s app gets global DLSS override and more control panel features",
-          "standfirst": "The Nvidia app is getting improvements to DLSS override, more control panel features, and Project G-Assist changes this week. Nvidia has been gradually improving its new app over the past 18 months since its release, and it’s getting closer to fully migrating all the legacy control panel options. This week’s Nvidia app update will include [&#8230;]",
-          "content": "The Nvidia app is getting improvements to DLSS override, more control panel features, and Project G-Assist changes this week. Nvidia has been gradually improving its new app over the past 18 months since its release, and it’s getting closer to fully migrating all the legacy control panel options. This week’s Nvidia app update will include anisotropic filtering, anti-aliasing, and ambient occlusion options, meaning you won’t have to navigate to Nvidia’s older control panel app to improve classic games. The setup tool for Nvidia Surround will also be part of the Nvidia app now. You also won’t have to configure DLSS override features on a per game basis anymore, as Nvidia is now adding a global option. You can set your DLSS preferences across all override supported games, and Nvidia’s overlay will also show which DLSS settings are active if you toggle this option on. Nvidia is also bringing its new Smooth Motion feature, which was previously exclusive to RTX 50-series GPUs, to all RTX 40-series owners. It’s a driver-based AI model that enables smoother gameplay for games that don’t support DLSS Frame Generation. Smooth Motion can be applied to games running with DLSS Super Resolution, at native resolution, or even titles with other upscaling technologies. Nvidia says it will typically double “the perceived frame rate.” If you’re a fan of Nvidia’s G-Assist AI assistant, Nvidia is changing the AI model behind the scenes so it will use 40 percent less memory. The smaller footprint won’t affect performance either, as it’s designed to respond even faster to queries. These latest Nvidia app changes will arrive on August 19th for beta users at 9AM PT / 12PM ET, followed by a general release next week.",
-          "feed_position": 2
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/250818/i21.jpg",
-      "popularity_score": 2012.1908797222222,
-      "ai_summary": "• Nvidia's app is gaining a global DLSS override feature for users.\n• The update includes more control panel features like anisotropic filtering.\n• Anti-aliasing and ambient occlusion settings are also being added to the app.\n• Nvidia is gradually migrating legacy control panel options to the new app.\n• The app has been improving over the past eighteen months since its release."
-    },
-    {
-      "id": "cluster_31",
-      "coverage": 1,
-      "updated_at": "Mon, 18 Aug 2025 19:07:52 +0000",
-      "title": "T-Mobile claimed selling location data without consent is legal—judges disagree",
-      "neutral_headline": "T-Mobile Fined for Selling Location Data Without Consent",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2025/08/t-mobile-claimed-selling-location-data-without-consent-is-legal-judges-disagree/",
-          "published_at": "Mon, 18 Aug 2025 19:07:52 +0000",
-          "title": "T-Mobile claimed selling location data without consent is legal—judges disagree",
-          "standfirst": "T-Mobile can't overturn $92 million fine; AT&#038;T and Verizon verdicts still to come.",
-          "content": "A federal appeals court rejected T-Mobile's attempt to overturn $92 million in fines for selling customer location information to third-party firms. The Federal Communications Commission last year fined T-Mobile, AT&T, and Verizon, saying the carriers illegally shared access to customers' location information without consent and did not take reasonable measures to protect that sensitive data against unauthorized disclosure. The fines relate to sharing of real-time location data that was revealed in 2018, but it took years for the FCC to finalize the penalties. The three carriers appealed the rulings in three different courts, and the first major decision was handed down Friday. A three-judge panel at the US Court of Appeals for the District of Columbia Circuit ruled unanimously against T-Mobile and its subsidiary Sprint.Read full article Comments",
-          "feed_position": 0,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/t-mobile-its-alive-1152x648-1729188629.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/t-mobile-its-alive-1152x648-1729188629.jpg",
-      "popularity_score": 359.4875463888889,
-      "ai_summary": "• T-Mobile was fined ninety-two million dollars for selling location data.\n• Judges ruled against T-Mobile's claim that the practice was legal.\n• Verdicts for AT&T and Verizon are still pending in similar cases.\n• The ruling upholds the fine against the telecommunications company.\n• This decision addresses the issue of user data privacy."
-    },
-    {
-      "id": "cluster_35",
+      "id": "cluster_39",
       "coverage": 1,
       "updated_at": "Mon, 18 Aug 2025 18:42:08 +0000",
       "title": "Elon Musk’s “thermonuclear” Media Matters lawsuit may be fizzling out",
-      "neutral_headline": "Judge Blocks FTC Probe in Elon Musk's Media Matters Lawsuit",
+      "neutral_headline": "Judge Blocks FTC Probe in Media Matters Lawsuit",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -192,15 +158,15 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2202762628-1024x648.jpg",
-      "popularity_score": 334.0586575,
-      "ai_summary": "• A judge blocked the FTC's probe related to the Media Matters lawsuit.\n• The judge cited a potential First Amendment violation in the case.\n• Elon Musk filed a lawsuit against Media Matters.\n• The lawsuit is described as potentially \"fizzling out\".\n• The FTC investigation was halted due to the judge's ruling."
+      "popularity_score": 330.4735577777778,
+      "ai_summary": "• A judge blocked the FTC's probe in Elon Musk's Media Matters lawsuit.\n• The judge cited a likely First Amendment violation.\n• The lawsuit is described as potentially \"fizzling out.\"\n• The case involves a legal dispute related to media coverage.\n• The FTC's investigation was halted by the court's decision."
     },
     {
-      "id": "cluster_50",
+      "id": "cluster_54",
       "coverage": 1,
       "updated_at": "Mon, 18 Aug 2025 17:18:22 +0000",
       "title": "After recent tests, China appears likely to beat the United States back to the Moon",
-      "neutral_headline": "China Likely to Beat United States to the Moon, Expert Says",
+      "neutral_headline": "China Likely to Beat United States to the Moon",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -217,15 +183,15 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2230278319-1152x648.jpg",
-      "popularity_score": 327.66254638888887,
-      "ai_summary": "• China appears poised to return to the Moon before the United States.\n• An expert suggests this outcome will be detrimental to the United States.\n• Recent tests indicate China's progress in lunar exploration.\n• The United States has been working on its own lunar missions.\n• The expert's analysis highlights the implications of this development."
+      "popularity_score": 324.0774466666667,
+      "ai_summary": "• China appears likely to beat the United States back to the Moon.\n• This is based on recent tests and expert analysis.\n• An expert suggests this will be detrimental for the United States.\n• The article discusses the implications of this space race development.\n• The focus is on the potential consequences of China's progress."
     },
     {
-      "id": "cluster_52",
+      "id": "cluster_56",
       "coverage": 1,
       "updated_at": "Mon, 18 Aug 2025 17:04:53 +0000",
       "title": "RFK Jr.’s Wi-Fi and 5G conspiracies appear to make it into MAHA report draft",
-      "neutral_headline": "RFK Jr.'s Conspiracies Appear in MAHA Report Draft",
+      "neutral_headline": "RFK Jr.'s Conspiracies Included in MAHA Report Draft",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -242,15 +208,15 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2228105570-1152x648.jpg",
-      "popularity_score": 312.43782416666664,
-      "ai_summary": "• RFK Jr.'s theories about Wi-Fi and 5G are in a report draft.\n• The report is titled \"Make Our Children Healthy Again Strategy\".\n• The draft does not mention leading causes of child mortality.\n• The inclusion of these theories raises concerns.\n• The report's focus is on children's health."
+      "popularity_score": 308.85272444444445,
+      "ai_summary": "• RFK Jr.'s Wi-Fi and 5G conspiracies are in a MAHA report draft.\n• The \"Make Our Children Healthy Again Strategy\" draft was analyzed.\n• The report draft does not mention leading causes of child deaths.\n• The article critiques the report's content and omissions.\n• The focus is on the report's controversial claims and topics."
     },
     {
-      "id": "cluster_54",
+      "id": "cluster_58",
       "coverage": 1,
       "updated_at": "Mon, 18 Aug 2025 16:42:04 +0000",
       "title": "Raspberry Pi intros new 5-inch $40 touchscreen for your next weird project",
-      "neutral_headline": "Raspberry Pi Introduces New Five-Inch Touchscreen Display",
+      "neutral_headline": "Raspberry Pi Introduces New Five-Inch Touchscreen",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -267,15 +233,15 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/5-inch-display-2048x1390-1-1152x648.jpg",
-      "popularity_score": 302.0575463888889,
-      "ai_summary": "• Raspberry Pi released a new five-inch touchscreen display.\n• The display costs forty dollars and is officially supported.\n• It can function as a tiny all-in-one or smart home hub.\n• The display is designed for various projects.\n• This offers a new option for Raspberry Pi users."
+      "popularity_score": 298.47244666666666,
+      "ai_summary": "• Raspberry Pi released a new five-inch touchscreen display.\n• The display costs forty dollars and is officially supported.\n• It can function as a tiny all-in-one or smart home hub.\n• The product is designed for various projects and applications.\n• The touchscreen is a new addition to the Raspberry Pi ecosystem."
     },
     {
-      "id": "cluster_77",
+      "id": "cluster_81",
       "coverage": 1,
       "updated_at": "Mon, 18 Aug 2025 13:25:35 +0000",
       "title": "A question for the ages: Is The Elder Scrolls II: Daggerfall a good game?",
-      "neutral_headline": "Examining The Elder Scrolls II: Daggerfall's Quality",
+      "neutral_headline": "Review of The Elder Scrolls II: Daggerfall",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -292,15 +258,15 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/daggerfall-hero-1152x648-1755293346.jpg",
-      "popularity_score": 288.78282416666667,
-      "ai_summary": "• The article revisits the 1996 role-playing game Daggerfall.\n• It explores both the strengths and weaknesses of the game.\n• The game is considered a classic in the RPG genre.\n• The review examines the game's design and gameplay.\n• The article assesses the game's lasting impact."
+      "popularity_score": 285.1977244444444,
+      "ai_summary": "• The article reviews the 1996 RPG, The Elder Scrolls II: Daggerfall.\n• It explores both the strengths and weaknesses of the game.\n• The review revisits the game's design and gameplay.\n• The article examines the game's impact and legacy.\n• The review considers the game's place in gaming history."
     },
     {
-      "id": "cluster_86",
+      "id": "cluster_90",
       "coverage": 1,
       "updated_at": "Mon, 18 Aug 2025 11:00:25 +0000",
       "title": "Ars Technica System Guide: Five sample PC builds, from $500 to $5,000",
-      "neutral_headline": "Ars Technica System Guide: PC Builds from $500 to $5,000",
+      "neutral_headline": "Ars Technica System Guide: PC Build Examples",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -317,15 +283,15 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/IMG_2568-1152x648.jpeg",
-      "popularity_score": 276.36337972222225,
-      "ai_summary": "• Ars Technica provides a guide for building personal computers.\n• The guide includes sample builds ranging from $500 to $5,000.\n• It demonstrates that building PCs remains feasible.\n• The guide offers options for different budgets.\n• The builds are designed for various uses."
+      "popularity_score": 273,
+      "ai_summary": "• Ars Technica provides a system guide with PC build examples.\n• The guide includes builds ranging from five hundred to five thousand dollars.\n• It offers advice on building decent PCs at various price points.\n• The guide addresses the current state of PC component pricing.\n• The article aims to help readers build their own computers."
     },
     {
-      "id": "cluster_99",
+      "id": "cluster_103",
       "coverage": 1,
       "updated_at": "Mon, 18 Aug 2025 04:01:55 +0000",
       "title": "The case of the coke-snorting Chihuahua",
-      "neutral_headline": "Case of the Coke-Snorting Chihuahua: Unusual Reaction",
+      "neutral_headline": "Case of the Coke-Snorting Chihuahua",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -343,7 +309,7 @@
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/doggy1-1152x648-1755445566.jpg",
       "popularity_score": 260,
-      "ai_summary": "• A Chihuahua exhibited an unusual reaction to cocaine.\n• The dog displayed lethargy and a slower heart rate.\n• Cocaine typically causes an increased heart rate.\n• The case presents an atypical physiological response.\n• The article explores the dog's reaction to the drug."
+      "ai_summary": "• The article discusses a case involving a coke-snorting Chihuahua.\n• Cocaine typically increases heart rate, but this dog was lethargic.\n• The dog exhibited a slower heart rate in this instance.\n• The article explores the unusual effects of cocaine on the dog.\n• The case presents an atypical reaction to the drug."
     }
   ]
 }
