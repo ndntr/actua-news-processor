@@ -59,10 +59,10 @@ export default {
         ]);
 
         const response: MedicalSectionData = {
-          clinical: clinical || { clusters: [], updated_at: new Date().toISOString() } as SectionData,
-          professional: professional || { clusters: [], updated_at: new Date().toISOString() } as SectionData,
-          patient_signals: patientSignals || { clusters: [], updated_at: new Date().toISOString() } as SectionData,
-          month_in_research: monthInResearch || { clusters: [], updated_at: new Date().toISOString() } as SectionData
+          clinical: clinical || { clusters: [], updated_at: new Date().toISOString() },
+          professional: professional || { clusters: [], updated_at: new Date().toISOString() },
+          patient_signals: patientSignals || { clusters: [], updated_at: new Date().toISOString() },
+          month_in_research: monthInResearch || { clusters: [], updated_at: new Date().toISOString() }
         };
 
         return new Response(JSON.stringify(response), { headers: corsHeaders });
