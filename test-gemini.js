@@ -34,7 +34,13 @@ function createMockClusters(count) {
 }
 
 async function runTest() {
-  const GEMINI_API_KEY = 'AIzaSyDYgAuRzuu7ob3B_AKsfqrxrsiq87j2CUQ';
+  const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
+  
+  if (!GEMINI_API_KEY) {
+    console.error('GEMINI_API_KEY environment variable is not set');
+    console.log('Please set it with: export GEMINI_API_KEY=your_key_here');
+    process.exit(1);
+  }
   
   console.log('Starting Gemini API test with chunked processing...');
   console.log('================================================\n');
