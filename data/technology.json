@@ -1,16 +1,26 @@
 {
-  "updated_at": "2025-08-27T03:31:06.948Z",
+  "updated_at": "2025-08-27T07:12:57.818Z",
   "clusters": [
     {
-      "id": "cluster_6",
+      "id": "cluster_9",
       "coverage": 3,
-      "updated_at": "2025-08-26T20:22:24-04:00",
-      "title": "Microsoft hosts emergency press conference after protesters &#8216;storm a building&#8217;",
-      "neutral_headline": "Microsoft Building Briefly Locked Down Due to Protests",
+      "updated_at": "Wed, 27 Aug 2025 00:50:00 -0400",
+      "title": "Microsoft President Brad Smith addressed protests over Israel contracts after seven protesters, including two current Microsoft employees, occupied his office (Todd Bishop/GeekWire)",
+      "neutral_headline": "Microsoft Headquarters Experiences Protest Over Israel Contracts",
       "bullet_summary": [
-        "Reported by The Verge, TechCrunch, TechMeme"
+        "Reported by TechMeme, The Verge, TechCrunch"
       ],
       "items": [
+        {
+          "source": "TechMeme",
+          "url": "http://www.techmeme.com/250827/p1#a250827p1",
+          "published_at": "Wed, 27 Aug 2025 00:50:00 -0400",
+          "title": "Microsoft President Brad Smith addressed protests over Israel contracts after seven protesters, including two current Microsoft employees, occupied his office (Todd Bishop/GeekWire)",
+          "standfirst": "Todd Bishop / GeekWire: Microsoft President Brad Smith addressed protests over Israel contracts after seven protesters, including two current Microsoft employees, occupied his office &mdash; REDMOND, Wash. &mdash; A few hours after his office was infiltrated and occupied by a group protesting Microsoft's technology contracts with Israel &hellip;",
+          "content": "Todd Bishop / GeekWire: Microsoft President Brad Smith addressed protests over Israel contracts after seven protesters, including two current Microsoft employees, occupied his office &mdash; REDMOND, Wash. &mdash; A few hours after his office was infiltrated and occupied by a group protesting Microsoft's technology contracts with Israel &hellip;",
+          "feed_position": 6,
+          "image_url": "http://www.techmeme.com/250827/i1.jpg"
+        },
         {
           "source": "The Verge",
           "url": "https://www.theverge.com/microsoft/766429/microsoft-emergency-press-conference-palestine-protest",
@@ -36,7 +46,7 @@
           "title": "Microsoft temporarily locked down a building at its HQ after protesters got inside Brad Smith's office, demanding that it cut ties with the Israeli government (Tom Warren/The Verge)",
           "standfirst": "Tom Warren / The Verge: Microsoft temporarily locked down a building at its HQ after protesters got inside Brad Smith's office, demanding that it cut ties with the Israeli government &mdash; Current and former Microsoft employees performed a sit-in protest inside vice chair and president Brad Smith's office.",
           "content": "Tom Warren / The Verge: Microsoft temporarily locked down a building at its HQ after protesters got inside Brad Smith's office, demanding that it cut ties with the Israeli government &mdash; Current and former Microsoft employees performed a sit-in protest inside vice chair and president Brad Smith's office.",
-          "feed_position": 5,
+          "feed_position": 13,
           "image_url": "http://www.techmeme.com/250826/i38.jpg"
         },
         {
@@ -49,72 +59,22 @@
           "feed_position": 1
         }
       ],
-      "featured_image": "http://www.techmeme.com/250826/i38.jpg",
-      "popularity_score": 3016.8547366666667,
+      "featured_image": "http://www.techmeme.com/250827/i1.jpg",
+      "popularity_score": 3017.617272777778,
       "ai_summary": [
-        "Protesters entered a Microsoft building and occupied Brad Smith's office.",
-        "The protesters demanded Microsoft cut ties with the Israeli government.",
-        "Microsoft temporarily locked down a building at its headquarters.",
-        "The protesters, including current and former employees, held a sit-in.",
-        "The protesters live streamed their actions on the platform Twitch."
+        "Protesters occupied Microsoft President Brad Smith's office demanding contract termination.",
+        "Microsoft temporarily locked down a building at its headquarters during the protest.",
+        "Current and former Microsoft employees participated in the sit-in demonstration.",
+        "The protest was in response to Microsoft's technology contracts with Israel.",
+        "Brad Smith addressed the protest after the building lockdown."
       ]
     },
     {
-      "id": "cluster_29",
-      "coverage": 3,
-      "updated_at": "2025-08-26T16:38:55-04:00",
-      "title": "Anthropic settles AI book piracy lawsuit",
-      "neutral_headline": "Anthropic Settles Copyright Lawsuit with Authors",
-      "bullet_summary": [
-        "Reported by The Verge, Wired Tech, TechMeme"
-      ],
-      "items": [
-        {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/news/766311/anthropic-class-action-ai-piracy-authors-settlement",
-          "published_at": "2025-08-26T16:38:55-04:00",
-          "title": "Anthropic settles AI book piracy lawsuit",
-          "standfirst": "Anthropic has settled a class action lawsuit with a group of US authors who accused the AI startup of copyright infringement. In a legal filing on Tuesday, Anthropic says it has negotiated a “proposed class settlement,” allowing it to skip a trial that would have determined how much the company owes for allegedly training its [&#8230;]",
-          "content": "Anthropic has settled a class action lawsuit with a group of US authors who accused the AI startup of copyright infringement. In a legal filing on Tuesday, Anthropic says it has negotiated a “proposed class settlement,” allowing it to skip a trial that would have determined how much the company owes for allegedly training its AI models on pirated work. The terms of the settlement still aren’t clear, but it stems from a copyright lawsuit filed by writers Andrea Bartz, Charles Graeber, and Kirk Wallace Johnson last year, which claimed Anthropic trained its Claude AI models on an open-source dataset filled with pirated materials. Anthropic scored a major victory in June when Judge William Alsup ruled that training AI models on legally purchased books counts as fair use, but he left the door open for further litigation. In July, Judge Alsup approved a class action lawsuit from US authors that accused Anthropic of violating copyright laws “by doing Napster-style downloading of millions of works.” Anthropic was set to go to trial over the piracy claims in December, where it could’ve faced billions or more than $1 trillion in penalties, according to Wired. The settlement is expected to be finalized on September 3rd. &#8220;This historic settlement will benefit all class members,&#8221; Justin Nelson, an attorney for the authors, said in a statement to The Verge. &#8220;We look forward to announcing details of the settlement in the coming weeks.&#8221; Anthropic declined to comment.",
-          "feed_position": 3
-        },
-        {
-          "source": "Wired Tech",
-          "url": "https://www.wired.com/story/anthropic-settles-copyright-lawsuit-authors/",
-          "published_at": "Tue, 26 Aug 2025 19:31:59 +0000",
-          "title": "Anthropic Settles High-Profile AI Copyright Lawsuit Brought by Book Authors",
-          "standfirst": "Anthropic faced the prospect of more than $1 trillion in damages, a sum that could have threatened the company’s survival if the case went to trial.",
-          "content": "Anthropic faced the prospect of more than $1 trillion in damages, a sum that could have threatened the company’s survival if the case went to trial.",
-          "feed_position": 1,
-          "image_url": "https://media.wired.com/photos/68adfa76d6e72970f29826e0/master/pass/GettyImages-2229149370.jpg"
-        },
-        {
-          "source": "TechMeme",
-          "url": "http://www.techmeme.com/250826/p30#a250826p30",
-          "published_at": "Tue, 26 Aug 2025 13:30:03 -0400",
-          "title": "Filing: Anthropic reached a settlement in a copyright class action brought by authors whose works were included in two pirate databases Anthropic downloaded (Annelise Levy/Bloomberg Law)",
-          "standfirst": "Annelise Levy / Bloomberg Law: Filing: Anthropic reached a settlement in a copyright class action brought by authors whose works were included in two pirate databases Anthropic downloaded &mdash; Anthropic PBC reached a settlement with authors in a high-stakes copyright class action that threatened the AI company with potentially billions of dollars in damages.",
-          "content": "Annelise Levy / Bloomberg Law: Filing: Anthropic reached a settlement in a copyright class action brought by authors whose works were included in two pirate databases Anthropic downloaded &mdash; Anthropic PBC reached a settlement with authors in a high-stakes copyright class action that threatened the AI company with potentially billions of dollars in damages.",
-          "feed_position": 13,
-          "image_url": "http://www.techmeme.com/250826/i30.jpg"
-        }
-      ],
-      "featured_image": "https://media.wired.com/photos/68adfa76d6e72970f29826e0/master/pass/GettyImages-2229149370.jpg",
-      "popularity_score": 3013.1300144444444,
-      "ai_summary": [
-        "Anthropic reached a settlement in a copyright class action lawsuit.",
-        "The lawsuit involved authors whose works were in pirate databases.",
-        "Anthropic allegedly used these databases to train its AI models.",
-        "The settlement allows Anthropic to avoid a trial.",
-        "The lawsuit threatened Anthropic with potentially billions in damages."
-      ]
-    },
-    {
-      "id": "cluster_1",
+      "id": "cluster_13",
       "coverage": 2,
       "updated_at": "Tue, 26 Aug 2025 22:10:37 -0400",
       "title": "Memo: Verily, Alphabet's life sciences unit, lays off staff and ends its medical devices program, shifting its focus instead to precision health, data, and AI (Hugh Langley/Business Insider)",
-      "neutral_headline": "Verily Lays Off Staff, Ends Medical Device Program",
+      "neutral_headline": "Alphabet's Verily Lays Off Staff, Ends Medical Device Program",
       "bullet_summary": [
         "Reported by TechMeme, TechCrunch"
       ],
@@ -126,7 +86,7 @@
           "title": "Memo: Verily, Alphabet's life sciences unit, lays off staff and ends its medical devices program, shifting its focus instead to precision health, data, and AI (Hugh Langley/Business Insider)",
           "standfirst": "Hugh Langley / Business Insider: Memo: Verily, Alphabet's life sciences unit, lays off staff and ends its medical devices program, shifting its focus instead to precision health, data, and AI &mdash; - Verily, Google's life sciences sister company, has laid off staff and cut its devices program.",
           "content": "Hugh Langley / Business Insider: Memo: Verily, Alphabet's life sciences unit, lays off staff and ends its medical devices program, shifting its focus instead to precision health, data, and AI &mdash; - Verily, Google's life sciences sister company, has laid off staff and cut its devices program.",
-          "feed_position": 1,
+          "feed_position": 9,
           "image_url": "http://www.techmeme.com/250826/i42.jpg"
         },
         {
@@ -140,21 +100,21 @@
         }
       ],
       "featured_image": "http://www.techmeme.com/250826/i42.jpg",
-      "popularity_score": 2018.6583477777779,
+      "popularity_score": 2014.960883888889,
       "ai_summary": [
         "Verily, Alphabet's life sciences unit, is laying off staff.",
         "Verily is ending its medical devices program.",
-        "The company is shifting focus to precision health, data, and AI.",
+        "The company will shift its focus to precision health, data, and AI.",
         "Verily is a sister company to Google.",
         "The changes were announced in an internal memo."
       ]
     },
     {
-      "id": "cluster_16",
+      "id": "cluster_26",
       "coverage": 2,
       "updated_at": "Tue, 26 Aug 2025 21:57:45 GMT",
       "title": "Best early Labor Day smartwatch deals 2025: Sales on Apple, Google, and Samsung watches",
-      "neutral_headline": "Retailers Offer Early Labor Day Sales on Various Products",
+      "neutral_headline": "Retailers Announce Early Labor Day Deals on Various Products",
       "bullet_summary": [
         "Reported by ZDNet, Wired Tech"
       ],
@@ -166,7 +126,7 @@
           "title": "Best early Labor Day smartwatch deals 2025: Sales on Apple, Google, and Samsung watches",
           "standfirst": "Labor Day is days away. Find deals on some of the best smartwatches and fitness trackers on the market ahead of the holiday.",
           "content": "Labor Day is days away. Find deals on some of the best smartwatches and fitness trackers on the market ahead of the holiday.",
-          "feed_position": 0
+          "feed_position": 2
         },
         {
           "source": "ZDNet",
@@ -175,7 +135,7 @@
           "title": "Best early Labor Day phone deals 2025: Save up to $300 on Samsung, Google, and more",
           "standfirst": "Labor Day is just about a week away, and retailers like Amazon and Best Buy are already offering discounts on phones from brands like Samsung, OnePlus, Google, and more.",
           "content": "Labor Day is just about a week away, and retailers like Amazon and Best Buy are already offering discounts on phones from brands like Samsung, OnePlus, Google, and more.",
-          "feed_position": 7
+          "feed_position": 9
         },
         {
           "source": "ZDNet",
@@ -184,7 +144,7 @@
           "title": "Best early Labor Day TV deals 2025: Save almost 50% on Samsung, LG, and more",
           "standfirst": "Labor Day is just around the corner, but you can find early deals from Amazon and Best Buy on brands like Samsung, LG, Hisense, and more.",
           "content": "Labor Day is just around the corner, but you can find early deals from Amazon and Best Buy on brands like Samsung, LG, Hisense, and more.",
-          "feed_position": 11
+          "feed_position": 12
         },
         {
           "source": "ZDNet",
@@ -193,7 +153,7 @@
           "title": "Best early Costco Labor Day deals 2025: 15+ sales up to $1,700 off",
           "standfirst": "Shop Costco's Labor Day sale online right now, with major deals from brands like Apple, Lenovo, LG, and more.",
           "content": "Shop Costco's Labor Day sale online right now, with major deals from brands like Apple, Lenovo, LG, and more.",
-          "feed_position": 14
+          "feed_position": 15
         },
         {
           "source": "Wired Tech",
@@ -207,21 +167,21 @@
         }
       ],
       "featured_image": "https://media.wired.com/photos/689f777a7a90a2c08263e4a2/master/pass/The%20Early%20Best%20Labor%20Day%20Mattress%20Sales.png",
-      "popularity_score": 2014.4439033333333,
+      "popularity_score": 2010.7464394444444,
       "ai_summary": [
-        "Retailers are offering early Labor Day deals on smartwatches.",
+        "ZDNet reports early Labor Day deals on smartwatches and fitness trackers.",
         "Discounts are available on phones from brands like Samsung and Google.",
-        "Savings are available on TVs from brands like Samsung and LG.",
-        "Costco is offering major deals online for Labor Day.",
-        "Mattress sales are also available ahead of the long weekend."
+        "Early deals are available on TVs from brands like Samsung and LG.",
+        "Costco is offering Labor Day sales with discounts up to $1,700 off.",
+        "Mattress sales are also available ahead of the Labor Day weekend."
       ]
     },
     {
-      "id": "cluster_21",
+      "id": "cluster_30",
       "coverage": 2,
       "updated_at": "Tue, 26 Aug 2025 21:17:33 +0000",
       "title": "Google Will Make All Android App Developers Verify Their Identity Starting Next Year",
-      "neutral_headline": "Google to Require Android App Developer Identity Verification",
+      "neutral_headline": "Google to Require Identity Verification for Android Developers",
       "bullet_summary": [
         "Reported by Wired Tech, Ars Technica"
       ],
@@ -248,61 +208,21 @@
         }
       ],
       "featured_image": "https://media.wired.com/photos/68adde3ea4b1e91fc828020a/master/pass/GettyImages-2225304400.jpg",
-      "popularity_score": 2013.7739033333332,
+      "popularity_score": 2010.0764394444445,
       "ai_summary": [
-        "Google will require all Android app developers to verify their identity.",
-        "This change will begin next year.",
-        "The move aims to reduce malware from sideloaded apps.",
-        "Sideloaded apps are reportedly more likely to contain malware.",
-        "Google compares the process to checking IDs at an airport."
+        "Google will require Android app developers to verify their identity.",
+        "The new policy begins next year for developers distributing apps.",
+        "Google cites concerns about malware in sideloaded applications.",
+        "The company is tightening restrictions for developers outside the Play Store.",
+        "Google compares the process to checking IDs at the airport."
       ]
     },
     {
-      "id": "cluster_22",
-      "coverage": 2,
-      "updated_at": "Tue, 26 Aug 2025 17:05:01 -0400",
-      "title": "Anthropic releases Claude for Chrome, which lets Claude take actions on the user's behalf within the browser, as a research preview for 1,000 Max subscribers (Maxwell Zeff/TechCrunch)",
-      "neutral_headline": "Anthropic Launches Claude AI Agent for Chrome",
-      "bullet_summary": [
-        "Reported by TechMeme, TechCrunch"
-      ],
-      "items": [
-        {
-          "source": "TechMeme",
-          "url": "http://www.techmeme.com/250826/p34#a250826p34",
-          "published_at": "Tue, 26 Aug 2025 17:05:01 -0400",
-          "title": "Anthropic releases Claude for Chrome, which lets Claude take actions on the user's behalf within the browser, as a research preview for 1,000 Max subscribers (Maxwell Zeff/TechCrunch)",
-          "standfirst": "Maxwell Zeff / TechCrunch: Anthropic releases Claude for Chrome, which lets Claude take actions on the user's behalf within the browser, as a research preview for 1,000 Max subscribers &mdash; Anthropic is launching a research preview of a browser-based AI agent powered by its Claude AI models, the company announced on Tuesday.",
-          "content": "Maxwell Zeff / TechCrunch: Anthropic releases Claude for Chrome, which lets Claude take actions on the user's behalf within the browser, as a research preview for 1,000 Max subscribers &mdash; Anthropic is launching a research preview of a browser-based AI agent powered by its Claude AI models, the company announced on Tuesday.",
-          "feed_position": 9,
-          "image_url": "http://www.techmeme.com/250826/i34.jpg"
-        },
-        {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2025/08/26/anthropic-launches-a-claude-ai-agent-that-lives-in-chrome/",
-          "published_at": "Tue, 26 Aug 2025 20:10:59 +0000",
-          "title": "Anthropic launches a Claude AI agent that lives in Chrome",
-          "standfirst": "Anthropic is the latest AI lab to offer an AI agent with the ability to view and take action in a user's Chrome browser.",
-          "content": "Anthropic is the latest AI lab to offer an AI agent with the ability to view and take action in a user's Chrome browser.",
-          "feed_position": 4
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/250826/i34.jpg",
-      "popularity_score": 2013.5650144444444,
-      "ai_summary": [
-        "Anthropic released Claude for Chrome as a research preview.",
-        "The agent allows Claude to take actions within the browser.",
-        "The preview is available for 1,000 Max subscribers.",
-        "The AI agent is powered by Anthropic's Claude AI models.",
-        "Anthropic is the latest AI lab to offer a browser-based agent."
-      ]
-    },
-    {
-      "id": "cluster_23",
+      "id": "cluster_31",
       "coverage": 2,
       "updated_at": "Tue, 26 Aug 2025 21:04:23 +0000",
       "title": "DOGE accused of copying entire Social Security database to insecure cloud system",
-      "neutral_headline": "Whistleblower Alleges DOGE Uploaded Social Security Data",
+      "neutral_headline": "Whistleblower Alleges Security Breach of Social Security Data",
       "bullet_summary": [
         "Reported by Ars Technica, TechCrunch"
       ],
@@ -328,17 +248,57 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/doge-caucus-1152x648-1748453404.jpg",
-      "popularity_score": 2013.5544588888888,
+      "popularity_score": 2009.856995,
       "ai_summary": [
-        "A whistleblower alleges DOGE uploaded Social Security data.",
-        "The data was uploaded to a vulnerable cloud server.",
+        "A whistleblower alleges a live copy of NUMIDENT lacked security.",
+        "DOGE allegedly uploaded a live copy of the Social Security database.",
+        "The database was uploaded to a vulnerable cloud server.",
         "The Social Security Administration's chief data officer spoke out.",
-        "The data included hundreds of millions of Social Security records.",
-        "The whistleblower claims the data lacked security oversight."
+        "Hundreds of millions of records were at risk of compromise."
       ]
     },
     {
-      "id": "cluster_78",
+      "id": "cluster_36",
+      "coverage": 2,
+      "updated_at": "2025-08-26T16:38:55-04:00",
+      "title": "Anthropic settles AI book piracy lawsuit",
+      "neutral_headline": "Anthropic Settles AI Copyright Lawsuit with US Authors",
+      "bullet_summary": [
+        "Reported by The Verge, Wired Tech"
+      ],
+      "items": [
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/news/766311/anthropic-class-action-ai-piracy-authors-settlement",
+          "published_at": "2025-08-26T16:38:55-04:00",
+          "title": "Anthropic settles AI book piracy lawsuit",
+          "standfirst": "Anthropic has settled a class action lawsuit with a group of US authors who accused the AI startup of copyright infringement. In a legal filing on Tuesday, Anthropic says it has negotiated a “proposed class settlement,” allowing it to skip a trial that would have determined how much the company owes for allegedly training its [&#8230;]",
+          "content": "Anthropic has settled a class action lawsuit with a group of US authors who accused the AI startup of copyright infringement. In a legal filing on Tuesday, Anthropic says it has negotiated a “proposed class settlement,” allowing it to skip a trial that would have determined how much the company owes for allegedly training its AI models on pirated work. The terms of the settlement still aren’t clear, but it stems from a copyright lawsuit filed by writers Andrea Bartz, Charles Graeber, and Kirk Wallace Johnson last year, which claimed Anthropic trained its Claude AI models on an open-source dataset filled with pirated materials. Anthropic scored a major victory in June when Judge William Alsup ruled that training AI models on legally purchased books counts as fair use, but he left the door open for further litigation. In July, Judge Alsup approved a class action lawsuit from US authors that accused Anthropic of violating copyright laws “by doing Napster-style downloading of millions of works.” Anthropic was set to go to trial over the piracy claims in December, where it could’ve faced billions or more than $1 trillion in penalties, according to Wired. The settlement is expected to be finalized on September 3rd. &#8220;This historic settlement will benefit all class members,&#8221; Justin Nelson, an attorney for the authors, said in a statement to The Verge. &#8220;We look forward to announcing details of the settlement in the coming weeks.&#8221; Anthropic declined to comment.",
+          "feed_position": 3
+        },
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/anthropic-settles-copyright-lawsuit-authors/",
+          "published_at": "Tue, 26 Aug 2025 19:31:59 +0000",
+          "title": "Anthropic Settles High-Profile AI Copyright Lawsuit Brought by Book Authors",
+          "standfirst": "Anthropic faced the prospect of more than $1 trillion in damages, a sum that could have threatened the company’s survival if the case went to trial.",
+          "content": "Anthropic faced the prospect of more than $1 trillion in damages, a sum that could have threatened the company’s survival if the case went to trial.",
+          "feed_position": 1,
+          "image_url": "https://media.wired.com/photos/68adfa76d6e72970f29826e0/master/pass/GettyImages-2229149370.jpg"
+        }
+      ],
+      "featured_image": "https://media.wired.com/photos/68adfa76d6e72970f29826e0/master/pass/GettyImages-2229149370.jpg",
+      "popularity_score": 2009.4325505555555,
+      "ai_summary": [
+        "Anthropic settled a class action lawsuit with US authors.",
+        "The authors accused Anthropic of copyright infringement.",
+        "Anthropic negotiated a proposed class settlement.",
+        "The settlement allows Anthropic to avoid a trial.",
+        "The potential damages could have exceeded one trillion dollars."
+      ]
+    },
+    {
+      "id": "cluster_82",
       "coverage": 2,
       "updated_at": "Tue, 26 Aug 2025 16:03:34 +0000",
       "title": "Google improves Gemini AI image editing with “nano banana” model",
@@ -368,21 +328,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/Gemini-1-1152x648.jpg",
-      "popularity_score": 2008.5408477777778,
+      "popularity_score": 2004.8433838888889,
       "ai_summary": [
         "Google improved Gemini AI image editing with a new model.",
         "The new model is called Gemini 2.5 Flash Image.",
-        "The model is also known as \"nano banana\".",
-        "The model improves image editing consistency and control.",
-        "Gemini 2.5 Flash Image is currently atop a leaderboard."
+        "Gemini 2.5 Flash Image is atop LMArena's image-editing leaderboard.",
+        "The model improves consistency and control for enterprises.",
+        "The model is now available to the public."
       ]
     },
     {
-      "id": "cluster_14",
+      "id": "cluster_24",
       "coverage": 1,
       "updated_at": "Tue, 26 Aug 2025 22:08:38 +0000",
       "title": "OpenAI admits ChatGPT safeguards fail during extended conversations",
-      "neutral_headline": "OpenAI Admits ChatGPT Safeguards Fail in Conversations",
+      "neutral_headline": "OpenAI Admits ChatGPT Safeguards Fail During Conversations",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -399,17 +359,17 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/openai_tectonic_shift_3-1152x648.jpg",
-      "popularity_score": 352.62529222222224,
+      "popularity_score": 348.9278283333333,
       "ai_summary": [
-        "OpenAI admits ChatGPT's safeguards can fail.",
-        "The safeguards failed during extended conversations.",
+        "OpenAI admits ChatGPT safeguards can fail.",
         "ChatGPT allegedly provided suicide encouragement.",
-        "The encouragement was given to a teenager.",
-        "The moderation safeguards failed in this instance."
+        "The incident involved a teen.",
+        "Moderation safeguards failed during the conversation.",
+        "The incident highlights potential risks."
       ]
     },
     {
-      "id": "cluster_12",
+      "id": "cluster_22",
       "coverage": 1,
       "updated_at": "Tue, 26 Aug 2025 22:26:03 +0000",
       "title": "Authors celebrate “historic” settlement coming soon in Anthropic class action",
@@ -430,17 +390,17 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2227254922-1024x648.jpg",
-      "popularity_score": 347.91557,
+      "popularity_score": 344.2181061111111,
       "ai_summary": [
-        "Authors are celebrating the upcoming Anthropic settlement.",
-        "The settlement is in a copyright class action lawsuit.",
-        "Advocates fear such settlements will harm the AI industry.",
-        "The settlement is considered \"historic\" by some.",
-        "The lawsuit involved the use of author's works."
+        "Authors are celebrating the Anthropic class action settlement.",
+        "Advocates fear settlements will financially ruin the AI industry.",
+        "The settlement is considered historic.",
+        "The settlement is coming soon.",
+        "The settlement is related to copyright."
       ]
     },
     {
-      "id": "cluster_20",
+      "id": "cluster_29",
       "coverage": 1,
       "updated_at": "Tue, 26 Aug 2025 21:40:17 +0000",
       "title": "US‘s spike in electricity use is slowing down a bit",
@@ -461,21 +421,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2191874738-1024x648.jpg",
-      "popularity_score": 333.1527922222222,
+      "popularity_score": 329.45532833333334,
       "ai_summary": [
         "The spike in US electricity use is slowing down.",
         "Data shows the solar boom is not slowing down.",
-        "The data covers a period of half a year.",
-        "The slowing is only a slight change.",
-        "The data indicates a trend in energy use."
+        "Data covers half a year.",
+        "The trend is being observed.",
+        "The data is being analyzed."
       ]
     },
     {
-      "id": "cluster_25",
+      "id": "cluster_33",
       "coverage": 1,
       "updated_at": "Tue, 26 Aug 2025 20:54:13 +0000",
       "title": "Parallels Desktop 26 offers a lot to enterprise users, a little to consumers",
-      "neutral_headline": "Parallels Desktop 26 Offers Features for Enterprises",
+      "neutral_headline": "Parallels Desktop 26 Offers Features for Enterprise Users",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -492,21 +452,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Parallels-1152x648.png",
-      "popularity_score": 306.38501444444444,
+      "popularity_score": 302.68755055555556,
       "ai_summary": [
         "Parallels Desktop 26 offers features for enterprise users.",
         "There are no major new consumer features.",
-        "Enterprises receive a few new features.",
+        "Enterprises get a few new features.",
         "The software is for virtualizing operating systems.",
-        "The new version is available now."
+        "The update is available now."
       ]
     },
     {
-      "id": "cluster_33",
+      "id": "cluster_41",
       "coverage": 1,
       "updated_at": "Tue, 26 Aug 2025 20:04:13 +0000",
       "title": "With Starship, SpaceX encounters an obstacle that haunted NASA’s space shuttles",
-      "neutral_headline": "SpaceX Starship Faces NASA Shuttle Obstacle",
+      "neutral_headline": "SpaceX Starship Faces NASA Shuttle-Era Obstacles",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -523,21 +483,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/IMG_8879-copy-1152x648.jpg",
-      "popularity_score": 303.5516811111111,
+      "popularity_score": 299.85421722222225,
       "ai_summary": [
-        "SpaceX's Starship faces an obstacle.",
-        "The obstacle haunted NASA's space shuttles.",
-        "The obstacle is related to space travel.",
-        "The comparison is made to NASA's past.",
-        "The quote references a desire for youth."
+        "SpaceX's Starship is facing challenges.",
+        "The challenges are similar to those faced by NASA.",
+        "The challenges are related to space travel.",
+        "The article references NASA's space shuttles.",
+        "The article discusses the history of space travel."
       ]
     },
     {
-      "id": "cluster_34",
+      "id": "cluster_42",
       "coverage": 1,
       "updated_at": "Tue, 26 Aug 2025 19:31:25 +0000",
       "title": "“ChatGPT killed my son”: Parents’ lawsuit describes suicide notes in chat logs",
-      "neutral_headline": "Lawsuit Describes Suicide Notes in ChatGPT Chat Logs",
+      "neutral_headline": "Lawsuit Claims ChatGPT Assisted in Teen's Suicide",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -554,21 +514,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Matt-and-Adam-Raine-via-Edelson-PC-1152x648.jpeg",
-      "popularity_score": 300.00501444444444,
+      "popularity_score": 296.30755055555557,
       "ai_summary": [
         "A lawsuit describes suicide notes in chat logs.",
-        "The notes were generated by ChatGPT.",
-        "ChatGPT allegedly taught a teen jailbreak techniques.",
-        "The bot assisted in the teen's suicide.",
-        "The parents filed the lawsuit."
+        "The lawsuit involves a parent's claims.",
+        "ChatGPT allegedly taught a teen jailbreak.",
+        "The bot allegedly assisted in the suicide.",
+        "The lawsuit is against OpenAI."
       ]
     },
     {
-      "id": "cluster_48",
+      "id": "cluster_55",
       "coverage": 1,
       "updated_at": "Tue, 26 Aug 2025 18:32:59 +0000",
       "title": "FCC chairman helps AT&T cement dominance with $23 billion spectrum deal",
-      "neutral_headline": "FCC Chairman Aids AT&T Spectrum Deal",
+      "neutral_headline": "FCC Chairman Aids AT&T in Spectrum Deal",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -585,21 +545,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2020/09/getty-att-logo-1152x648.jpg",
-      "popularity_score": 289.03112555555555,
+      "popularity_score": 285.33366166666667,
       "ai_summary": [
         "The FCC chairman is helping AT&T.",
-        "The chairman is aiding a $23 billion spectrum deal.",
+        "AT&T is involved in a spectrum deal.",
+        "The deal is worth $23 billion.",
         "EchoStar is selling spectrum to AT&T.",
-        "The FCC threatened to revoke licenses.",
-        "The deal involves wireless communication."
+        "The FCC threatened to revoke licenses."
       ]
     },
     {
-      "id": "cluster_52",
+      "id": "cluster_58",
       "coverage": 1,
       "updated_at": "Tue, 26 Aug 2025 18:16:50 +0000",
       "title": "Apple set to unveil next-gen iPhones and other devices on September 9",
-      "neutral_headline": "Apple Plans September Event for New iPhones and Devices",
+      "neutral_headline": "Apple to Unveil New iPhones and Devices September 9",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -616,21 +576,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Screenshot-2025-08-26-at-1.20.05-PM-1152x648-1756230133.jpeg",
-      "popularity_score": 281.7619588888889,
+      "popularity_score": 278.064495,
       "ai_summary": [
-        "Apple will likely announce new iPhones at the upcoming September event.",
-        "Software release dates are expected to be revealed during the presentation.",
-        "Other new devices may also be unveiled at the event.",
-        "The event will showcase Apple's latest technological advancements.",
-        "Details about pricing and availability will likely be shared."
+        "Apple is set to unveil new products.",
+        "The event is scheduled for September 9.",
+        "New iPhones will be announced.",
+        "Software release dates will be revealed.",
+        "Other devices will also be announced."
       ]
     },
     {
-      "id": "cluster_55",
+      "id": "cluster_61",
       "coverage": 1,
       "updated_at": "Tue, 26 Aug 2025 18:09:32 +0000",
       "title": "2025 Mazda MX-5 RF review: Buy the soft top; the hardtop sucks",
-      "neutral_headline": "Mazda MX-5 RF Review: Soft Top Preferred Over Hardtop",
+      "neutral_headline": "Mazda MX-5 RF Review Compares Soft Top and Hardtop Models",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -647,21 +607,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/2025-Mazda-MX-5-Miata-RF-1-1152x648.jpg",
-      "popularity_score": 264.64029222222223,
+      "popularity_score": 260.94282833333335,
       "ai_summary": [
-        "The soft top version of the Mazda MX-5 RF is more affordable.",
+        "The soft top Mazda MX-5 is less expensive than the hardtop version.",
         "Reviewers found the soft top model to be surprisingly more refined.",
-        "The hardtop version may not offer the same driving experience.",
-        "The soft top provides a better value proposition for consumers.",
-        "The review suggests considering the soft top over the hardtop."
+        "The hardtop model is considered less desirable by reviewers.",
+        "The review focuses on comparing the two roof options.",
+        "The review highlights the differences in the two MX-5 models."
       ]
     },
     {
-      "id": "cluster_92",
+      "id": "cluster_95",
       "coverage": 1,
       "updated_at": "Tue, 26 Aug 2025 14:43:41 +0000",
       "title": "Google’s AI model just nailed the forecast for the strongest Atlantic storm this year",
-      "neutral_headline": "Google AI Model Accurately Forecasts Strongest Atlantic Storm",
+      "neutral_headline": "Google AI Model Accurately Predicts Strongest Atlantic Storm",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -678,17 +638,17 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/20252281710_GOES19-ABI-taw-GEOCOLOR-1800x1080-1-1152x648.jpg",
-      "popularity_score": 167.2094588888889,
+      "popularity_score": 163.511995,
       "ai_summary": [
-        "Google's AI model successfully predicted the strongest Atlantic storm this year.",
+        "Google's AI model successfully forecasted the strongest Atlantic storm this year.",
         "Improved AI weather models could become the standard for forecasting.",
-        "The AI model demonstrated high accuracy in its predictions.",
-        "This achievement highlights the potential of AI in weather forecasting.",
-        "Further advancements could revolutionize weather prediction capabilities."
+        "The AI model's accuracy is a significant achievement in weather prediction.",
+        "The model's performance suggests advancements in AI capabilities.",
+        "Further improvements could revolutionize weather forecasting methods."
       ]
     },
     {
-      "id": "cluster_123",
+      "id": "cluster_125",
       "coverage": 1,
       "updated_at": "Mon, 25 Aug 2025 19:58:07 +0000",
       "title": "Senator castigates federal judiciary for ignoring “basic cybersecurity”",
@@ -715,12 +675,12 @@
         "A Senator criticized the federal judiciary for ignoring cybersecurity basics.",
         "Breaches in 2020 and 2025 exposed confidential files.",
         "Foreign adversaries reportedly conducted the cyberattacks.",
-        "The Senator expressed concern over the security vulnerabilities.",
-        "The judiciary's response to these breaches is under scrutiny."
+        "The Senator expressed concern over the security failures.",
+        "The breaches highlight vulnerabilities within the judiciary system."
       ]
     },
     {
-      "id": "cluster_88",
+      "id": "cluster_91",
       "coverage": 1,
       "updated_at": "Tue, 26 Aug 2025 15:05:51 +0000",
       "title": "Framework Laptop 16 update brings Nvidia GeForce to the modular gaming laptop",
@@ -741,17 +701,17 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/FW16-Hero-Alt-1-1152x648.jpeg",
-      "popularity_score": 140.57890333333333,
+      "popularity_score": 136.88143944444445,
       "ai_summary": [
-        "The Framework Laptop 16 will now offer Nvidia GeForce graphics.",
+        "The Framework Laptop 16 now offers an Nvidia GeForce graphics card.",
         "A Ryzen 7040-based model will remain available as a lower-cost option.",
         "The older model will be priced at $1,299.",
-        "This update expands the laptop's gaming capabilities.",
+        "The new graphics option enhances the laptop's gaming capabilities.",
         "The modular design allows for component upgrades."
       ]
     },
     {
-      "id": "cluster_91",
+      "id": "cluster_94",
       "coverage": 1,
       "updated_at": "Tue, 26 Aug 2025 15:00:59 +0000",
       "title": "Scientists unlock secret to thick, stable beer foams",
@@ -772,17 +732,17 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/beerfoam1-1152x648-1756137042.jpg",
-      "popularity_score": 140.49779222222222,
+      "popularity_score": 136.80032833333334,
       "ai_summary": [
         "Scientists have identified factors influencing beer foam stability.",
-        "Triple-fermented Belgian beers exhibit the longest-lasting foam.",
+        "Triple-fermented Belgian beers produce the longest-lasting foam.",
         "Single-fermented lagers have the shortest-lasting foam.",
-        "The research provides insights into beer brewing processes.",
-        "Understanding foam stability can improve beer quality."
+        "The research explores the science behind beer foam.",
+        "The findings could improve beer brewing processes."
       ]
     },
     {
-      "id": "cluster_96",
+      "id": "cluster_99",
       "coverage": 1,
       "updated_at": "Tue, 26 Aug 2025 13:53:41 +0000",
       "title": "Trump admin issues stop-work order for offshore wind project",
@@ -803,17 +763,17 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2193740951-1152x648.jpg",
-      "popularity_score": 139.37612555555555,
+      "popularity_score": 135.67866166666667,
       "ai_summary": [
-        "The Trump administration issued a stop-work order for a wind project.",
+        "The Trump administration issued a stop-work order for an offshore wind project.",
         "The project was nearly complete, at 80 percent finished.",
-        "The wind farm was intended to power over 350,000 homes.",
-        "The order has halted the project's progress.",
-        "The decision has implications for renewable energy initiatives."
+        "The wind project was intended to power over 350,000 homes.",
+        "The order halted the development of renewable energy.",
+        "The decision has implications for clean energy initiatives."
       ]
     },
     {
-      "id": "cluster_99",
+      "id": "cluster_102",
       "coverage": 1,
       "updated_at": "Tue, 26 Aug 2025 13:20:19 +0000",
       "title": "Ars Live: Consumer tech firms stuck scrambling ahead of looming chip tariffs",
@@ -834,17 +794,17 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2208792185-1152x648.jpg",
-      "popularity_score": 138.82001444444444,
+      "popularity_score": 135.12255055555556,
       "ai_summary": [
-        "An Ars Live session concerning consumer tech firms has been rescheduled.",
-        "The original topic was the impact of looming chip tariffs.",
-        "The session's new date and time are yet to be announced.",
-        "The event will address challenges faced by tech companies.",
-        "The discussion will likely cover the effects of trade policies."
+        "An Ars Live session concerning tech firms and chip tariffs has been rescheduled.",
+        "The original session was planned to discuss the impact of tariffs.",
+        "The new date for the session has not been announced.",
+        "The session will address challenges facing consumer tech companies.",
+        "The topic is relevant to the current economic climate."
       ]
     },
     {
-      "id": "cluster_124",
+      "id": "cluster_126",
       "coverage": 1,
       "updated_at": "Mon, 25 Aug 2025 19:48:00 +0000",
       "title": "Blade Runner makes its live-action return next year",
@@ -867,15 +827,15 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/blade-runner-2049-trailer3-700x293.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "A new live-action Blade Runner series is planned for next year.",
+        "A new Blade Runner live-action series is planned for release next year.",
         "Michelle Yeoh will star in the upcoming series.",
-        "The series will be set 50 years after the 2017 film.",
-        "The show will expand the Blade Runner universe.",
-        "Fans can anticipate a new installment in the franchise."
+        "The series will be set fifty years after the 2017 film.",
+        "The series will expand the Blade Runner universe.",
+        "The project marks a return to the Blade Runner franchise."
       ]
     },
     {
-      "id": "cluster_125",
+      "id": "cluster_127",
       "coverage": 1,
       "updated_at": "Mon, 25 Aug 2025 19:38:14 +0000",
       "title": "Horrifying screwworm infection confirmed in US traveler after overseas trip",
@@ -898,11 +858,11 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2016/11/CSIRO_ScienceImage_115_The_Tip_of_a_Screw_Worm_Fly_Larvae.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "A US traveler has been confirmed to have a screwworm infection.",
+        "A US traveler was confirmed to have a screwworm infection after travel.",
         "This is not the first case, as one occurred last year.",
-        "The infection is considered disturbing by experts.",
-        "The traveler contracted the infection overseas.",
-        "The case highlights the potential health risks of travel."
+        "The infection is considered disturbing by the source.",
+        "The case highlights the risk of overseas travel.",
+        "The screwworm is a parasitic threat."
       ]
     }
   ]
