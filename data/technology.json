@@ -1,476 +1,12 @@
 {
-  "updated_at": "2025-08-29T03:31:19.749Z",
+  "updated_at": "2025-08-29T11:11:07.384Z",
   "clusters": [
     {
-      "id": "cluster_12",
-      "coverage": 2,
-      "updated_at": "Thu, 28 Aug 2025 21:56:27 +0000",
-      "title": "Trump administration&#8217;s deal is structured to prevent Intel from selling foundry unit",
-      "neutral_headline": "United States Deal Aims to Deter Intel Foundry Sale",
-      "bullet_summary": [
-        "to take more equity in Intel if the company doesn't retain at least 51% ownership in its foundry business",
-        "Reported by TechCrunch, TechMeme"
-      ],
-      "items": [
-        {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2025/08/28/trump-administrations-deal-is-structured-to-prevent-intel-from-selling-foundry-unit/",
-          "published_at": "Thu, 28 Aug 2025 21:56:27 +0000",
-          "title": "Trump administration&#8217;s deal is structured to prevent Intel from selling foundry unit",
-          "standfirst": "The deal allows the U.S. to take more equity in Intel if the company doesn't retain at least 51% ownership in its foundry business.",
-          "content": "The deal allows the U.S. to take more equity in Intel if the company doesn't retain at least 51% ownership in its foundry business.",
-          "feed_position": 0
-        },
-        {
-          "source": "TechMeme",
-          "url": "http://www.techmeme.com/250828/p33#a250828p33",
-          "published_at": "Thu, 28 Aug 2025 15:10:01 -0400",
-          "title": "Intel CFO says the US deal aims to deter Intel from selling its foundry; it lets the US buy 5% more at $20/share if Intel's stake in the unit falls below 51% (Financial Times)",
-          "standfirst": "Financial Times: Intel CFO says the US deal aims to deter Intel from selling its foundry; it lets the US buy 5% more at $20/share if Intel's stake in the unit falls below 51% &mdash; US chipmaker has faced pressure to sell lossmaking foundry business struggling to compete with TSMC",
-          "content": "Financial Times: Intel CFO says the US deal aims to deter Intel from selling its foundry; it lets the US buy 5% more at $20/share if Intel's stake in the unit falls below 51% &mdash; US chipmaker has faced pressure to sell lossmaking foundry business struggling to compete with TSMC",
-          "feed_position": 11,
-          "image_url": "http://www.techmeme.com/250828/i33.jpg"
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/250828/i33.jpg",
-      "popularity_score": 2014.4186808333334,
-      "ai_summary": [
-        "The United States deal allows the government to increase its Intel stake.",
-        "The government can buy 5% more at $20 per share if Intel's stake falls below 51%.",
-        "Intel has faced pressure to sell its loss-making foundry business.",
-        "The deal is structured to prevent Intel from selling its foundry unit.",
-        "The United States could take more equity if Intel's ownership drops."
-      ]
-    },
-    {
-      "id": "cluster_15",
-      "coverage": 2,
-      "updated_at": "2025-08-28T17:13:04-04:00",
-      "title": "Microsoft AI launches its first in-house models",
-      "neutral_headline": "Microsoft Announces New In-House Artificial Intelligence Models",
-      "bullet_summary": [
-        "Microsoft’s AI division announced its first homegrown AI models on Thursday: MAI-Voice-1 AI and MAI-1-preview",
-        "Reported by The Verge, TechMeme"
-      ],
-      "items": [
-        {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/news/767809/microsoft-in-house-ai-models-launch-openai",
-          "published_at": "2025-08-28T17:13:04-04:00",
-          "title": "Microsoft AI launches its first in-house models",
-          "standfirst": "Microsoft’s AI division announced its first homegrown AI models on Thursday: MAI-Voice-1 AI and MAI-1-preview. The company says its new MAI-Voice-1 speech model can generate a minute’s worth of audio in under one second on just one GPU, while MAI-1-preview “offers a glimpse of future offerings inside Copilot.” Microsoft already uses MA1-Voice-1 to power a [&#8230;]",
-          "content": "Microsoft’s AI division announced its first homegrown AI models on Thursday: MAI-Voice-1 AI and MAI-1-preview. The company says its new MAI-Voice-1 speech model can generate a minute’s worth of audio in under one second on just one GPU, while MAI-1-preview “offers a glimpse of future offerings inside Copilot.” Microsoft already uses MA1-Voice-1 to power a couple of its features, including Copilot Daily, which has an AI host recite the day’s top news stories, and to generate podcast-style discussions to help explain topics. You can try MA1-Voice-1 out for yourself on Copilot Labs, where you can enter what you want the AI model to say, as well as change its voice and style of speaking. In addition to this model, Microsoft introduced MAI-1-preview, which it says it trained on around 15,000 Nvidia H100 GPUs. It’s built for users in need of an AI model capable of following instructions and “providing helpful responses to everyday queries.” Microsoft AI chief Mustafa Suleyman said during an episode of Decoder last year that the company’s internal AI models aren’t focused on enterprise use cases. “My logic is that we have to create something that works extremely well for the consumer and really optimize for our use case,” Suleyman said. “So, we have vast amounts of very predictive and very useful data on the ad side, on consumer telemetry, and so on. My focus is on building models that really work for the consumer companion.&#8221; Microsoft AI plans on rolling out MAI-1-preview for certain text use cases in its Copilot AI assistant, which currently relies on OpenAI’s large language models. It has also started publicly testing its MAI-1-preview model on the AI benchmarking platform LMArena. “We have big ambitions for where we go next,” Microsoft AI writes in the blog post. “Not only will we pursue further advances here, but we believe that orchestrating a range of specialized models serving different user intents and use cases will unlock immense value.”",
-          "feed_position": 1
-        },
-        {
-          "source": "TechMeme",
-          "url": "http://www.techmeme.com/250828/p30#a250828p30",
-          "published_at": "Thu, 28 Aug 2025 13:30:00 -0400",
-          "title": "Microsoft unveils MAI-Voice-1, a speech model that can generate a full minute of audio in under a second on a single GPU, and a text model called MAI-1-preview (Reed Albergotti/Semafor)",
-          "standfirst": "Reed Albergotti / Semafor: Microsoft unveils MAI-Voice-1, a speech model that can generate a full minute of audio in under a second on a single GPU, and a text model called MAI-1-preview &mdash; On Thursday, Microsoft announced two powerful AI models it built that it says perform at the level of the world's top offerings &hellip;",
-          "content": "Reed Albergotti / Semafor: Microsoft unveils MAI-Voice-1, a speech model that can generate a full minute of audio in under a second on a single GPU, and a text model called MAI-1-preview &mdash; On Thursday, Microsoft announced two powerful AI models it built that it says perform at the level of the world's top offerings &hellip;",
-          "feed_position": 14,
-          "image_url": "http://www.techmeme.com/250828/i30.jpg"
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/250828/i30.jpg",
-      "popularity_score": 2013.6956252777777,
-      "ai_summary": [
-        "Microsoft's AI division launched its first homegrown AI models on Thursday.",
-        "MAI-Voice-1 speech model generates a minute of audio in under one second.",
-        "MAI-1-preview offers a glimpse of future offerings inside Copilot.",
-        "Microsoft uses MAI-Voice-1 to power various applications.",
-        "The company announced two powerful AI models it built."
-      ]
-    },
-    {
-      "id": "cluster_21",
-      "coverage": 2,
-      "updated_at": "Thu, 28 Aug 2025 16:15:01 -0400",
-      "title": "Filing: credit reporting giant TransUnion discloses a data breach affecting 4.4M+ customers' personal info but claims \"no credit information was accessed\" (Zack Whittaker/TechCrunch)",
-      "neutral_headline": "TransUnion Discloses Data Breach Affecting Millions of Customers",
-      "bullet_summary": [
-        "The credit reporting giant confirmed unauthorized access to a third-party application storing the personal information of its customers, including Social Security numbers",
-        "Reported by TechMeme, TechCrunch"
-      ],
-      "items": [
-        {
-          "source": "TechMeme",
-          "url": "http://www.techmeme.com/250828/p36#a250828p36",
-          "published_at": "Thu, 28 Aug 2025 16:15:01 -0400",
-          "title": "Filing: credit reporting giant TransUnion discloses a data breach affecting 4.4M+ customers' personal info but claims \"no credit information was accessed\" (Zack Whittaker/TechCrunch)",
-          "standfirst": "Zack Whittaker / TechCrunch: Filing: credit reporting giant TransUnion discloses a data breach affecting 4.4M+ customers' personal info but claims &ldquo;no credit information was accessed&rdquo; &mdash; Credit reporting giant TransUnion has disclosed a data breach affecting more than 4.4 million customers' personal information.",
-          "content": "Zack Whittaker / TechCrunch: Filing: credit reporting giant TransUnion discloses a data breach affecting 4.4M+ customers' personal info but claims &ldquo;no credit information was accessed&rdquo; &mdash; Credit reporting giant TransUnion has disclosed a data breach affecting more than 4.4 million customers' personal information.",
-          "feed_position": 8,
-          "image_url": "http://www.techmeme.com/250828/i36.jpg"
-        },
-        {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2025/08/28/transunion-says-hackers-stole-4-4-million-customers-personal-information/",
-          "published_at": "Thu, 28 Aug 2025 12:04:57 +0000",
-          "title": "TransUnion says hackers stole 4.4 million customers&#8217; personal information",
-          "standfirst": "The credit reporting giant confirmed unauthorized access to a third-party application storing the personal information of its customers, including Social Security numbers.",
-          "content": "The credit reporting giant confirmed unauthorized access to a third-party application storing the personal information of its customers, including Social Security numbers.",
-          "feed_position": 14
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/250828/i36.jpg",
-      "popularity_score": 2012.7281252777777,
-      "ai_summary": [
-        "Credit reporting giant TransUnion disclosed a data breach.",
-        "The breach affected over 4.4 million customers' personal information.",
-        "TransUnion claims no credit information was accessed during the breach.",
-        "Hackers gained unauthorized access to a third-party application.",
-        "The application stored customers' personal information, including Social Security numbers."
-      ]
-    },
-    {
-      "id": "cluster_11",
+      "id": "cluster_0",
       "coverage": 1,
-      "updated_at": "Thu, 28 Aug 2025 21:57:41 +0000",
-      "title": "Genetically, Central American mammoths were weird",
-      "neutral_headline": "Central American Mammoths Show Genetic Variations",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2025/08/genetically-central-american-mammoths-were-weird/",
-          "published_at": "Thu, 28 Aug 2025 21:57:41 +0000",
-          "title": "Genetically, Central American mammoths were weird",
-          "standfirst": "The species's boundaries in North America seem to have been fairly fluid.",
-          "content": "We tend to lump all mammoths together as big, hairy elephant-like beasts with enormous tusks. But there were a number of mammoth species, including less furry ones that inhabited temperate regions. And the furry ones include at least three species: the Eurasian steppe mammoth, the Arctic-specializing woolly mammoth, and the late-evolving North America-only Columbian mammoth. Because these species inhabited the Arctic, it has been remarkably easy to obtain DNA from them, providing a genetic picture of their relations. The DNA suggests that the woolly mammoth is an offshoot of the steppe mammoth lineage, and was the first to migrate into North America. But the Columbian mammoth was a bit of an enigma; some genetic data suggested it was also a steppe offshoot, while other samples indicated it might be a woolly/steppe hybrid. But all of that data came from animals living in colder environments. In contrast, the Columbian mammoth ranged as far south as Central America. And now, a group of researchers has managed to obtain a bit of genetic information from bones found in the Basin of Mexico, which includes Mexico City. And these mammoths appear to form a distinct genetic cluster, and are all more closely related to each other than to any other woolly or Columbian mammoths.Read full article Comments",
-          "feed_position": 0,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-1232186902-1024x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-1232186902-1024x648.jpg",
-      "popularity_score": 344.4392363888889,
-      "ai_summary": [
-        "Genetic analysis reveals unusual characteristics in Central American mammoths.",
-        "The species' boundaries in North America were not clearly defined.",
-        "The study highlights the genetic diversity of the species.",
-        "Researchers examined the genetic makeup of the mammoths.",
-        "The findings provide insights into the evolution of mammoths."
-      ]
-    },
-    {
-      "id": "cluster_14",
-      "coverage": 1,
-      "updated_at": "Thu, 28 Aug 2025 21:29:47 +0000",
-      "title": "Video player looks like a 1-inch TV from the ’60s and is wondrous, pointless fun",
-      "neutral_headline": "Retro Video Player Mimics 1960s Television Set",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2025/08/video-player-looks-like-a-1-inch-tv-from-the-60s-and-is-wondrous-pointless-fun/",
-          "published_at": "Thu, 28 Aug 2025 21:29:47 +0000",
-          "title": "Video player looks like a 1-inch TV from the ’60s and is wondrous, pointless fun",
-          "standfirst": "TV static and remote included.",
-          "content": "If a family of anthropomorphic mice were to meet around a TV, I imagine they'd gather around something like TinyCircuits’ TinyTV 2. The gadget sits on four slender, angled legs with its dials and classic, brown shell beckoning viewers toward its warm, bright stories. The TinyTV’s screen is only 1.14 inches diagonally, but the device exudes vintage energy. In simple terms, the TinyTV is a portable, rechargeable gadget that plays stored videos and was designed to look and function like a vintage TV. The details go down to the dials, one for controlling the volume and another for scrolling through the stored video playlist. Both rotary knobs make an assuring click when twisted. Musing on fantastical uses for the TinyTV seems appropriate because the device feels like it's built around fun. At a time when TVs are getting more powerful, software-driven, AI-stuffed, and, of course, bigger, the TinyTV is a delightful, comforting tribute to a simpler time for TVs.Read full article Comments",
-          "feed_position": 1,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/head-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/head-1152x648.jpg",
-      "popularity_score": 336.97423638888887,
-      "ai_summary": [
-        "A video player resembles a one-inch television from the 1960s.",
-        "The player includes features like TV static and a remote control.",
-        "It offers a nostalgic and whimsical viewing experience.",
-        "The design is reminiscent of vintage television sets.",
-        "The player is described as wondrous and pointless fun."
-      ]
-    },
-    {
-      "id": "cluster_38",
-      "coverage": 1,
-      "updated_at": "Thu, 28 Aug 2025 18:46:43 +0000",
-      "title": "High-severity vulnerability in Passwordstate credential manager. Patch now.",
-      "neutral_headline": "Passwordstate Credential Manager Faces High-Severity Vulnerability",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/security/2025/08/high-severity-vulnerability-in-passwordstate-credential-manager-patch-now/",
-          "published_at": "Thu, 28 Aug 2025 18:46:43 +0000",
-          "title": "High-severity vulnerability in Passwordstate credential manager. Patch now.",
-          "standfirst": "Vulnerability can be exploited to gain access to customers' crown jewels.",
-          "content": "The maker of Passwordstate, an enterprise-grade password manager for storing companies’ most privileged credentials, is urging them to promptly install an update fixing a high-severity vulnerability that hackers can exploit to gain administrative access to their vaults. The authentication bypass allows hackers to create a URL that accesses an emergency access page for Passwordstate. From there, an attacker could pivot to the administrative section of the password manager. A CVE identifier isn’t yet available. Safeguarding enterprises’ most privileged credentials Click Studios, the Australia-based maker of Passwordstate, says the credential manager is used by 29,000 customers and 370,000 security professionals. The product is designed to safeguard organizations' most privileged and sensitive credentials. Among other things, it integrates into Active Directory, the service Windows network admins use to create, change, and modify user accounts. It can also be used for handling password resets, event auditing, and remote session logins.Read full article Comments",
-          "feed_position": 2,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/password-login-1000x648.jpeg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/password-login-1000x648.jpeg",
-      "popularity_score": 330.2564586111111,
-      "ai_summary": [
-        "A high-severity vulnerability exists in Passwordstate credential manager.",
-        "The vulnerability can be exploited to access customers' data.",
-        "Users are advised to patch the vulnerability immediately.",
-        "The vulnerability poses a significant security risk.",
-        "Exploitation could lead to unauthorized access to sensitive information."
-      ]
-    },
-    {
-      "id": "cluster_60",
-      "coverage": 1,
-      "updated_at": "Thu, 28 Aug 2025 16:00:52 +0000",
-      "title": "Trump admin dismisses Endangered Species List as “Hotel California”",
-      "neutral_headline": "Trump Administration Criticizes Endangered Species List",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2025/08/trump-admin-dismisses-endangered-species-list-as-hotel-california/",
-          "published_at": "Thu, 28 Aug 2025 16:00:52 +0000",
-          "title": "Trump admin dismisses Endangered Species List as “Hotel California”",
-          "standfirst": "\"Once a species enters, they never leave,\" interior secretary says. But there's more to the story.",
-          "content": "“You can check out any time you like, but you can never leave.” It’s the ominous slogan for “Hotel California,” an iconic fictional lodging dreamed up by the Eagles in 1976. One of the rock band’s lead singers, Don Henley, said in an interview that the song and place “can have a million interpretations.” For US Interior Secretary Doug Burgum, what comes to mind is a key part of one of the country’s most central conservation laws.Read full article Comments",
-          "feed_position": 3,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2184537594-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2184537594-1152x648.jpg",
-      "popularity_score": 311.49229194444445,
-      "ai_summary": [
-        "The Trump administration dismissed the Endangered Species List.",
-        "The Interior Secretary stated species never leave the list.",
-        "The statement suggests a critical view of the list's effectiveness.",
-        "The administration's stance contrasts with conservation efforts.",
-        "The article suggests there is more to the story."
-      ]
-    },
-    {
-      "id": "cluster_63",
-      "coverage": 1,
-      "updated_at": "Thu, 28 Aug 2025 15:46:17 +0000",
-      "title": "Blogging service TypePad is shutting down and taking all blog content with it",
-      "neutral_headline": "Blogging Service TypePad to Shut Down, Delete Content",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2025/08/one-time-wordpress-competitor-typepad-ends-its-slide-into-obscurity-by-shutting-down/",
-          "published_at": "Thu, 28 Aug 2025 15:46:17 +0000",
-          "title": "Blogging service TypePad is shutting down and taking all blog content with it",
-          "standfirst": "After years of neglect, TypePad and everything on it goes away on September 30.",
-          "content": "In the olden days, publishing a site on the Internet required that you figure out hosting and have at least some experience with HTML, CSS, and the other languages that make the Internet work. But the emergence of blogging and \"Web 2.0\" sites in the late '90s and early 2000s gave rise to a constellation of services that would offer to host all of your thoughts without requiring you to build the website part of your website. Many of those services are still around in some form—someone who really wanted to could still launch a new blog on LiveJournal, Xanga, Blogger, or WordPress.com. But one of the field's former giants is shutting down—and taking all of those old posts with it. TypePad announced that the service would be shutting down on September 30 and that everything hosted on it would also be going away on that date. That gives current and former users just over a month to export anything they want to save. TypePad had previously removed the ability to create new accounts at some point in 2020. It gave no specific rationale for the shutdown beyond calling it a \"difficult decision.\" As recently as March of this year, TypePad representatives were telling users there were \"no plans\" to shut down the service.Read full article Comments",
-          "feed_position": 4,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/typepad-logo.png"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/typepad-logo.png",
-      "popularity_score": 301.2492363888889,
-      "ai_summary": [
-        "TypePad, a blogging service, is shutting down.",
-        "All content hosted on TypePad will be deleted.",
-        "The shutdown is scheduled for September 30.",
-        "The service has experienced years of neglect.",
-        "Users will lose access to their blogs."
-      ]
-    },
-    {
-      "id": "cluster_66",
-      "coverage": 1,
-      "updated_at": "Thu, 28 Aug 2025 14:46:46 +0000",
-      "title": "With recent Falcon 9 milestones, SpaceX vindicates its “dumb” approach to reuse",
-      "neutral_headline": "SpaceX's Falcon 9 Achieves Milestones, Validates Reuse",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/space/2025/08/with-recent-falcon-9-milestones-spacex-vindicates-its-dumb-approach-to-reuse/",
-          "published_at": "Thu, 28 Aug 2025 14:46:46 +0000",
-          "title": "With recent Falcon 9 milestones, SpaceX vindicates its “dumb” approach to reuse",
-          "standfirst": "The company's workhorse continues its stellar performance.",
-          "content": "As SpaceX's Starship vehicle gathered all of the attention this week, the company's workhorse Falcon 9 rocket continued to hit some impressive milestones. Both occurred during relatively anonymous launches of the company's Starlink satellites but are nonetheless notable because they underscore the value of first-stage reuse, which SpaceX has pioneered over the last decade. The first milestone occurred on Wednesday morning with the launch of the Starlink 10-56 mission from Cape Canaveral, Florida. The first stage that launched these satellites, Booster 1096, was making its second launch and successfully landed on the Just Read the Instructions drone ship. Strikingly, this was the 400th time SpaceX has executed a drone ship landing.Read full article Comments",
-          "feed_position": 5,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/booster-1067-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/booster-1067-1152x648.jpg",
-      "popularity_score": 298.25729194444443,
-      "ai_summary": [
-        "SpaceX's Falcon 9 continues to achieve significant milestones.",
-        "The company's approach to reuse is proving successful.",
-        "The workhorse rocket demonstrates stellar performance.",
-        "The recent achievements vindicate SpaceX's strategy.",
-        "The Falcon 9's performance is consistently strong."
-      ]
-    },
-    {
-      "id": "cluster_71",
-      "coverage": 1,
-      "updated_at": "Thu, 28 Aug 2025 14:25:12 +0000",
-      "title": "New dinosaur species is the punk rock version of an ankylosaur",
-      "neutral_headline": "New Dinosaur Species Resembles Punk Rock Ankylosaur",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2025/08/new-dinosaur-species-is-the-punk-rock-version-of-an-ankylosaur/",
-          "published_at": "Thu, 28 Aug 2025 14:25:12 +0000",
-          "title": "New dinosaur species is the punk rock version of an ankylosaur",
-          "standfirst": "A species known only by a single rib turns out to be covered with meter-long spikes.",
-          "content": "Ankylosaurs, with their squat, armored bodies and bizarre, weaponized tails, are an iconic group of dinosaurs. While there were plenty of species present in the Cretaceous, they're thought to have origins that trace back to the Jurassic. It has been hard to say much about those origins, however, because the fossil evidence was so sparse. One of the earliest potential ankylosaur species, Spicomellus, was known from only a single partial rib; others are known only by jaw fragments or teeth. Now, however, we have a much better picture of what Spicomellus afer looks like thanks to a much larger collection of bones discovered in Morocco. It turns out that the heavy armor and rows of chunky spikes found on Cretaceous ankylosaurs were actually subdued compared to the massive rows of meter-long spikes and bony collars found on Spicomellus. It looks like what would happen if you combined the aesthetics of punk with the flamboyance of glam and made a dinosaur out of the results. A spiky find Cretaceous ankylosaurs share a number of common features. One is a short, broad body form that kept the herbivores close to the ground when on all four limbs. Another common feature: bony plates, formed from the skin, that provided the animal with the equivalent of body armor. Some of these, especially along the animal's ribs, thickened into short, blunt spikes that provided added protection. Finally, many species had tails that ended in club-like growths that attached to the vertebrae in the tail through features with the highly technical name of \"handles.\"Read full article Comments",
-          "feed_position": 6,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/spicomellus-1152x648.jpeg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/spicomellus-1152x648.jpeg",
-      "popularity_score": 279.8978475,
-      "ai_summary": [
-        "A new dinosaur species has been discovered.",
-        "The species is covered with meter-long spikes.",
-        "The dinosaur is a type of ankylosaur.",
-        "The species is known from a single rib.",
-        "The dinosaur's appearance is unique."
-      ]
-    },
-    {
-      "id": "cluster_75",
-      "coverage": 1,
-      "updated_at": "Thu, 28 Aug 2025 13:10:27 +0000",
-      "title": "As GM prepares to switch its EVs to NACS, it has some new adapters",
-      "neutral_headline": "General Motors Prepares for EV Switch to NACS",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2025/08/gm-announces-new-nacs-and-ccs1-adapters-coming-next-week/",
-          "published_at": "Thu, 28 Aug 2025 13:10:27 +0000",
-          "title": "As GM prepares to switch its EVs to NACS, it has some new adapters",
-          "standfirst": "GM has new adapters for every conceivable combination of NACS and CCS1.",
-          "content": "In mid-2023, just as it seemed like the North American auto industry had settled on CCS1 as the default fast-charging plug, everything upended as Ford, then General Motors, then everyone else announced they were adopting the North American Charging Standard. Originally developed by Tesla, NACS has a different plug but uses the same electronic communication protocols as CCS, and adoption of NACS thus makes all those non-Tesla electric vehicles compatible with the extensive Tesla Supercharger network. GM's existing EV drivers got access to those 17,000-plus Superchargers last year—something that significantly upgraded the road-tripping experience with the Chevrolet Bolt, we discovered.Read full article Comments",
-          "feed_position": 7,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/945-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/945-1152x648.jpg",
-      "popularity_score": 274.6520141666667,
-      "ai_summary": [
-        "General Motors is preparing to switch its EVs to NACS.",
-        "GM has new adapters for various combinations of NACS and CCS1.",
-        "The adapters will facilitate charging compatibility.",
-        "The move is part of the transition to a new charging standard.",
-        "The adapters will be available for different EV models."
-      ]
-    },
-    {
-      "id": "cluster_77",
-      "coverage": 1,
-      "updated_at": "Thu, 28 Aug 2025 13:00:10 +0000",
-      "title": "Unpacking Passkeys Pwned: Possibly the most specious research in decades",
-      "neutral_headline": "Research on Passkeys Pwned Questioned as Specious",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/security/2025/08/new-research-claiming-passkeys-can-be-stolen-is-pure-nonsense/",
-          "published_at": "Thu, 28 Aug 2025 13:00:10 +0000",
-          "title": "Unpacking Passkeys Pwned: Possibly the most specious research in decades",
-          "standfirst": "Researchers take note: When the endpoint is compromised, all bets are off.",
-          "content": "Don’t believe everything you read—especially when it’s part of a marketing pitch designed to sell security services. The latest example of the runaway hype that can come from such pitches is research published today by SquareX, a startup selling services for securing browsers and other client-side applications. It claims, without basis, to have found a “major passkey vulnerability” that undermines the lofty security promises made by Apple, Google, Microsoft, and thousands of other companies that have enthusiastically embraced passkeys. Ahoy, face-palm ahead “Passkeys Pwned,” the attack described in the research, was demonstrated earlier this month in a Defcon presentation. It relies on a malicious browser extension, installed in an earlier social engineering attack, that hijacks the process for creating a passkey for use on Gmail, Microsoft 365, or any of the other thousands of sites that now use the alternative form of authentication.Read full article Comments",
-          "feed_position": 8,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/passkeys-pwned-1152x648.png"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/passkeys-pwned-1152x648.png",
-      "popularity_score": 258.4806252777778,
-      "ai_summary": [
-        "Researchers are examining the security of passkeys.",
-        "The research is described as possibly specious.",
-        "The article notes the importance of endpoint security.",
-        "When the endpoint is compromised, all bets are off.",
-        "The research's validity is being questioned."
-      ]
-    },
-    {
-      "id": "cluster_78",
-      "coverage": 1,
-      "updated_at": "Thu, 28 Aug 2025 12:48:14 +0000",
-      "title": "Porsche adds digital keys, in-car gaming to 2026 Macan Electric",
-      "neutral_headline": "Porsche Adds Features to 2026 Macan Electric",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2025/08/porsche-adds-digital-keys-in-car-gaming-to-2026-macan-electric/",
-          "published_at": "Thu, 28 Aug 2025 12:48:14 +0000",
-          "title": "Porsche adds digital keys, in-car gaming to 2026 Macan Electric",
-          "standfirst": "Towing capacity is now 5,500 lbs, and there are some new driver assistance features.",
-          "content": "Although it feels like Porsche only just introduced the electric Macan, the sporty EV SUV is starting to become a more common sight on the road. And as the automaker transitions into model year 2026, it's giving the Macan some new digital toys. Now, both Android and iPhone users will be able to create a digital key for the car (iPhone users can also add a key to their Apple Watch). This works via near-field communication as well as Bluetooth low energy and ultra-wideband, and you can share keys with up to seven other users from your phone's wallet. You can also use your phone to open the trunk (although operating the frunk requires the My Porsche App). The key should work even if the phone needs charging. For Macans fitted with 360-degree parking cameras, several new features leverage the sensors. There's a transparent hood function that shows you on the infotainment screen whatever it is that's being obscured by the front of the vehicle, which should be useful should you take the Macan off-road.Read full article Comments",
-          "feed_position": 9,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/L1160022_v2-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/L1160022_v2-1152x648.jpg",
-      "popularity_score": 254.2817363888889,
-      "ai_summary": [
-        "Porsche is adding digital keys to the 2026 Macan Electric.",
-        "The 2026 Macan Electric will have in-car gaming.",
-        "Towing capacity is now 5,500 pounds.",
-        "New driver assistance features are included.",
-        "The updates enhance the vehicle's capabilities."
-      ]
-    },
-    {
-      "id": "cluster_103",
-      "coverage": 1,
-      "updated_at": "Wed, 27 Aug 2025 16:41:58 +0000",
-      "title": "Intel details everything that could go wrong with US taking a 10% stake",
-      "neutral_headline": "Intel Details Potential Risks of United States Stake",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2025/08/intel-details-everything-that-could-go-wrong-with-us-taking-a-10-stake/",
-          "published_at": "Wed, 27 Aug 2025 16:41:58 +0000",
-          "title": "Intel details everything that could go wrong with US taking a 10% stake",
-          "standfirst": "Intel warns investors to brace for losses and uncertainties.",
-          "content": "Some investors are not happy that Intel agreed to sell the US a 10 percent stake in the company after Donald Trump attacked Intel CEO Lip-Bu Tan with a demand to resign. After Intel accepted the deal at a meeting with the president, it alarmed some investors when Trump boasted that his pressure campaign worked, claiming Tan \"walked in wanting to keep his job, and he ended up giving us $10 billion for the United States.\" \"It sets a bad precedent if the president can just take 10 percent of a company by threatening the CEO,\" James McRitchie, a private investor and shareholder activist in California who owns Intel shares, told Reuters. To McRitchie, Tan's acceptance of the deal effectively sent the message that \"we love Trump, we don't want 10 percent of our company taken away.\"Read full article Comments",
-          "feed_position": 15,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2177041820-1024x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2177041820-1024x648.jpg",
-      "popularity_score": 154,
-      "ai_summary": [
-        "Intel warns investors about potential losses.",
-        "Intel highlights uncertainties associated with the United States stake.",
-        "The company details everything that could go wrong.",
-        "Intel is preparing investors for potential challenges.",
-        "The company is providing a comprehensive overview of risks."
-      ]
-    },
-    {
-      "id": "cluster_82",
-      "coverage": 1,
-      "updated_at": "Thu, 28 Aug 2025 11:00:57 +0000",
+      "updated_at": "2025-08-29T11:11:07.383Z",
       "title": "The personhood trap: How AI fakes human personality",
-      "neutral_headline": "Artificial Intelligence Assistants and Human Personality",
+      "neutral_headline": "Artificial Intelligence Mimics Human Personality, Raising Concerns",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -478,270 +14,281 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/information-technology/2025/08/the-personhood-trap-how-ai-fakes-human-personality/",
-          "published_at": "Thu, 28 Aug 2025 11:00:57 +0000",
+          "published_at": "2025-08-29T11:11:07.383Z",
           "title": "The personhood trap: How AI fakes human personality",
-          "standfirst": "AI assistants don't have fixed personalities—just patterns of output guided by humans.",
-          "content": "Recently, a woman slowed down a line at the post office, waving her phone at the clerk. ChatGPT told her there's a \"price match promise\" on the USPS website. No such promise exists. But she trusted what the AI \"knows\" more than the postal worker—as if she'd consulted an oracle rather than a statistical text generator accommodating her wishes. This scene reveals a fundamental misunderstanding about AI chatbots. There is nothing inherently special, authoritative, or accurate about AI-generated outputs. Given a reasonably trained AI model, the accuracy of any large language model (LLM) response depends on how you guide the conversation. They are prediction machines that will produce whatever pattern best fits your question, regardless of whether that output corresponds to reality. Despite these issues, millions of daily users engage with AI chatbots as if they were talking to a consistent person—confiding secrets, seeking advice, and attributing fixed beliefs to what is actually a fluid idea-connection machine with no persistent self. This personhood illusion isn't just philosophically troublesome—it can actively harm vulnerable individuals while obscuring a sense of accountability when a company's chatbot \"goes off the rails.\"Read full article Comments",
-          "feed_position": 10,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/many_faces_1-1152x648.jpg"
+          "standfirst": "",
+          "content": "",
+          "feed_position": 0
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/many_faces_1-1152x648.jpg",
-      "popularity_score": 151.49368083333334,
+      "popularity_score": 367.99999972222224,
       "ai_summary": [
-        "AI assistants do not have fixed personalities.",
-        "AI assistants' output is guided by human input.",
-        "AI assistants generate patterns of output.",
-        "The article discusses the concept of AI personhood.",
-        "AI assistants do not possess true human personality."
+        "AI systems can generate responses that simulate human-like personalities.",
+        "This capability raises ethical questions about deception and authenticity.",
+        "Researchers are investigating the methods AI uses to create these personas.",
+        "The \"personhood trap\" refers to the illusion of genuine human interaction.",
+        "Understanding these techniques is crucial for responsible AI development."
       ]
     },
     {
-      "id": "cluster_106",
+      "id": "cluster_1",
       "coverage": 1,
-      "updated_at": "Wed, 27 Aug 2025 16:17:29 +0000",
-      "title": "Anthropic’s auto-clicking AI Chrome extension raises browser-hijacking concerns",
-      "neutral_headline": "AI Chrome Extension Raises Concerns Regarding Browser Hijacking",
+      "updated_at": "2025-08-29T11:11:07.383Z",
+      "title": "Genetically, Central American mammoths were weird",
+      "neutral_headline": "Genetic Analysis Reveals Unusual Traits in Central American Mammoths",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/information-technology/2025/08/new-ai-browser-agents-create-risks-if-sites-hijack-them-with-hidden-instructions/",
-          "published_at": "Wed, 27 Aug 2025 16:17:29 +0000",
-          "title": "Anthropic’s auto-clicking AI Chrome extension raises browser-hijacking concerns",
-          "standfirst": "Malicious websites can embed invisible commands that AI agents will follow blindly.",
-          "content": "As AI assistants become capable of controlling web browsers, a new security challenge has emerged: users must now trust that every website they visit won't try to hijack their AI agent with hidden malicious instructions. Experts voiced concerns about this emerging threat this week after testing from a leading AI chatbot vendor revealed that AI browser agents can be successfully tricked into harmful actions nearly a quarter of the time. On Tuesday, Anthropic announced the launch of Claude for Chrome, a web browser-based AI agent that can take actions on behalf of users. Due to security concerns, the extension is only rolling out as a research preview to 1,000 subscribers on Anthropic's Max plan, which costs between $100 and $200 per month, with a waitlist available for other users. The Claude for Chrome extension allows users to chat with the Claude AI model in a sidebar window that maintains the context of everything happening in their browser. Users can grant Claude permission to perform tasks like managing calendars, scheduling meetings, drafting email responses, handling expense reports, and testing website features.Read full article Comments",
-          "feed_position": 16,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/claude_browser_plugin.jpg"
+          "url": "https://arstechnica.com/science/2025/08/genetically-central-american-mammoths-were-weird/",
+          "published_at": "2025-08-29T11:11:07.383Z",
+          "title": "Genetically, Central American mammoths were weird",
+          "standfirst": "",
+          "content": "",
+          "feed_position": 1
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/claude_browser_plugin.jpg",
-      "popularity_score": 148,
+      "popularity_score": 339.99999972222224,
       "ai_summary": [
-        "Anthropic's AI Chrome extension allows malicious websites to embed invisible commands.",
-        "The AI agents will blindly follow these embedded commands, potentially causing issues.",
-        "This raises concerns about browser hijacking and potential security vulnerabilities.",
-        "The extension's functionality could be exploited by attackers for malicious purposes.",
-        "Users should be cautious about installing and using such extensions."
+        "Scientists studied the genetics of mammoths from Central America.",
+        "These mammoths exhibited unique genetic characteristics compared to others.",
+        "The study provides insights into mammoth evolution and adaptation.",
+        "Researchers analyzed ancient DNA samples to understand the genetic makeup.",
+        "Findings suggest a complex history of mammoth populations in the region."
       ]
     },
     {
-      "id": "cluster_98",
+      "id": "cluster_2",
       "coverage": 1,
-      "updated_at": "Wed, 27 Aug 2025 19:54:54 +0000",
-      "title": "Russian space official: “We need to stop lying to ourselves” about health of industry",
-      "neutral_headline": "Russian Space Official Acknowledges Industry Issues",
+      "updated_at": "2025-08-29T11:11:07.383Z",
+      "title": "Video player looks like a 1-inch TV from the ’60s and is wondrous, pointless fun",
+      "neutral_headline": "Retro Video Player Offers Nostalgic Experience, Limited Functionality",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/space/2025/08/russias-state-run-human-spaceflight-company-may-be-near-bankruptcy/",
-          "published_at": "Wed, 27 Aug 2025 19:54:54 +0000",
-          "title": "Russian space official: “We need to stop lying to ourselves” about health of industry",
-          "standfirst": "\"A significant part of the team has lost motivation and a sense of shared responsibility.\"",
-          "content": "The chief of Russia's main spacecraft manufacturer issued a dire warning this week, saying that his corporation has reached a \"critical\" condition and cannot continue in its present state. \"The situation is critical: multi-million dollar debts, interest on loans that 'eat up' the budget, many processes that are ineffective, and a significant part of the team has lost motivation and a sense of shared responsibility,\" said Igor Maltsev, chief of RSC Energia, which is located near Moscow. Maltsev's remarks were first published by Gazeta.ru, one of the largest Russian news websites. Later, they were reposted on the \"Forgive us Yura,\" Telegram channel, the name of which references cosmonaut Yuri Gagarin and primarily has content that focuses on critiques of Russia's space program. Multiple sources confirmed that the statement is legitimate.Read full article Comments",
-          "feed_position": 13,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-1747269738-1024x648.jpg"
+          "url": "https://arstechnica.com/gadgets/2025/08/video-player-looks-like-a-1-inch-tv-from-the-60s-and-is-wondrous-pointless-fun/",
+          "published_at": "2025-08-29T11:11:07.383Z",
+          "title": "Video player looks like a 1-inch TV from the ’60s and is wondrous, pointless fun",
+          "standfirst": "",
+          "content": "",
+          "feed_position": 2
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-1747269738-1024x648.jpg",
-      "popularity_score": 141,
+      "popularity_score": 332.99999972222224,
       "ai_summary": [
-        "A Russian space official admitted to problems within the industry.",
-        "A significant portion of the team has lost motivation and responsibility.",
-        "The official highlighted a lack of shared responsibility among team members.",
-        "This admission suggests internal challenges within the Russian space program.",
-        "The official's statement indicates a need for internal reform."
+        "A video player resembles a small television from the 1960s.",
+        "The device provides a retro aesthetic with a focus on simplicity.",
+        "Its design prioritizes visual appeal over advanced features.",
+        "The player offers a unique and somewhat pointless entertainment experience.",
+        "It serves as a novelty item for those seeking a vintage feel."
       ]
     },
     {
-      "id": "cluster_109",
+      "id": "cluster_3",
       "coverage": 1,
-      "updated_at": "Wed, 27 Aug 2025 14:48:05 +0000",
-      "title": "Under pressure after setbacks, SpaceX’s huge rocket finally goes the distance",
-      "neutral_headline": "SpaceX's Starship Achieves Successful Flight Milestone",
+      "updated_at": "2025-08-29T11:11:07.383Z",
+      "title": "High-severity vulnerability in Passwordstate credential manager. Patch now.",
+      "neutral_headline": "Passwordstate Credential Manager Faces Critical Security Vulnerability",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/space/2025/08/spacex-bounces-back-with-a-starship-test-flight-that-ended-on-a-buoyant-note/",
-          "published_at": "Wed, 27 Aug 2025 14:48:05 +0000",
-          "title": "Under pressure after setbacks, SpaceX’s huge rocket finally goes the distance",
-          "standfirst": "This was the first successful flight of SpaceX's second-generation Starship after three failures.",
-          "content": "STARBASE, Texas—SpaceX launched the 10th test flight of the company's Starship rocket Tuesday evening, sending the stainless steel spacecraft halfway around the world to an on-target splashdown in the Indian Ocean. The largely successful mission for the world's largest rocket was an important milestone for SpaceX's Starship program after months of repeated setbacks, including three disappointing test flights and a powerful explosion on the ground that destroyed the ship that engineers were originally readying for this launch. For the first time, SpaceX engineers received data on the performance of the ship's upgraded heat shield and control flaps during reentry back into the atmosphere. The three failed Starship test flights to start the year ended before the ship reached reentry. Elon Musk, SpaceX's founder and CEO, has described developing a durable, reliable heat shield as the most pressing challenge for making Starship a fully and rapidly reusable rocket.Read full article Comments",
-          "feed_position": 18,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/ship37splash-1152x648-1756301760.jpg"
+          "url": "https://arstechnica.com/security/2025/08/high-severity-vulnerability-in-passwordstate-credential-manager-patch-now/",
+          "published_at": "2025-08-29T11:11:07.383Z",
+          "title": "High-severity vulnerability in Passwordstate credential manager. Patch now.",
+          "standfirst": "",
+          "content": "",
+          "feed_position": 3
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/ship37splash-1152x648-1756301760.jpg",
-      "popularity_score": 141,
+      "popularity_score": 328.99999972222224,
       "ai_summary": [
-        "SpaceX's Starship completed its first successful flight.",
-        "This was the second-generation Starship's first successful flight.",
-        "The success follows three previous flight failures for the rocket.",
-        "The flight represents a significant achievement for SpaceX.",
-        "The milestone advances SpaceX's goals for space exploration."
+        "A high-severity vulnerability exists within the Passwordstate manager.",
+        "The vulnerability requires immediate patching to prevent exploitation.",
+        "Users should update their systems to the latest security version.",
+        "The vulnerability could allow unauthorized access to credentials.",
+        "The security flaw poses a significant risk to user data."
       ]
     },
     {
-      "id": "cluster_90",
+      "id": "cluster_4",
       "coverage": 1,
-      "updated_at": "Thu, 28 Aug 2025 00:15:38 +0000",
-      "title": "CDC director has been ousted just weeks after Senate confirmation",
-      "neutral_headline": "CDC Director Ousted Shortly After Senate Confirmation",
+      "updated_at": "2025-08-29T11:11:07.383Z",
+      "title": "Trump admin dismisses Endangered Species List as “Hotel California”",
+      "neutral_headline": "Trump Administration Criticized Endangered Species List Approach",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/health/2025/08/report-cdc-director-being-ousted-just-weeks-after-senate-confirmation/",
-          "published_at": "Thu, 28 Aug 2025 00:15:38 +0000",
-          "title": "CDC director has been ousted just weeks after Senate confirmation",
-          "standfirst": "Monarez aligned with evidence-based public health community and had support of experts.",
-          "content": "Just weeks after being confirmed by the Senate, Susan Monarez has been ousted from the now thoroughly battered public health agency. The news was first reported by The Washington Post, which cited multiple officials within the Trump administration. After Ars Technica contacted the Department of Health and Human Services for confirmation of the ouster, HHS responded with a link to a post on the department's X account. The post states: Susan Monarez is no longer director of the Centers for Disease Control and Prevention. We thank her for her dedicated service to the American people. @SecKennedy has full confidence in his team at @CDCgov who will continue to be vigilant in protecting Americans against infectious diseases at home and abroad. The department did not address the circumstances surrounding Monarez's ouster. But The Washington Post reported this evening that US Health Secretary and fervent anti-vaccine advocate Robert F. Kennedy Jr. had pressed Monarez for days on her willingness to rescind approvals for COVID-19 vaccines. Monarez reportedly met with Kennedy and other officials Monday and declined to agree to changes without consulting vaccine advisors. Kennedy then urged her to resign for \"not supporting President Trump’s agenda.\"Read full article Comments",
-          "feed_position": 11,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2222107417-1152x648.jpg"
+          "url": "https://arstechnica.com/science/2025/08/trump-admin-dismisses-endangered-species-list-as-hotel-california/",
+          "published_at": "2025-08-29T11:11:07.383Z",
+          "title": "Trump admin dismisses Endangered Species List as “Hotel California”",
+          "standfirst": "",
+          "content": "",
+          "feed_position": 4
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2222107417-1152x648.jpg",
-      "popularity_score": 133,
+      "popularity_score": 312.99999972222224,
       "ai_summary": [
-        "The CDC director was removed from their position.",
-        "The ousting occurred just weeks after Senate confirmation.",
-        "The director aligned with the evidence-based public health community.",
-        "The director had the support of numerous public health experts.",
-        "The reason for the ousting remains currently unclear."
+        "The Trump administration's approach to the Endangered Species List is criticized.",
+        "Critics describe the administration's actions as similar to the \"Hotel California\".",
+        "The administration's policies may hinder species protection efforts.",
+        "The \"Hotel California\" reference suggests a lack of escape from regulations.",
+        "The situation raises concerns about the future of endangered species."
       ]
     },
     {
-      "id": "cluster_96",
+      "id": "cluster_5",
       "coverage": 1,
-      "updated_at": "Wed, 27 Aug 2025 20:32:43 +0000",
-      "title": "CDC slashed food safety surveillance, now tracks only 2 of 8 top infections",
-      "neutral_headline": "CDC Reduces Food Safety Surveillance, Tracks Fewer Infections",
+      "updated_at": "2025-08-29T11:11:07.383Z",
+      "title": "Blogging service TypePad is shutting down and taking all blog content with it",
+      "neutral_headline": "TypePad Blogging Service Announces Closure, Content Removal",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/health/2025/08/cdc-stopped-actively-tracking-6-foodborne-infections-amid-budget-cuts/",
-          "published_at": "Wed, 27 Aug 2025 20:32:43 +0000",
-          "title": "CDC slashed food safety surveillance, now tracks only 2 of 8 top infections",
-          "standfirst": "\"If you want to make foodborne disease go away, then don’t look for foodborne disease.\"",
-          "content": "In July, the Centers for Disease Control and Prevention dramatically, but quietly, scaled back a food safety surveillance system, cutting active tracking from eight top foodborne infections down to just two, according to a report by NBC News. The Foodborne Diseases Active Surveillance Network (FoodNet)—a network of surveillance sites that spans 10 states and covers about 54 million Americans (16 percent of the US population)—previously included active monitoring for eight infections from pathogens. Those include Campylobacter, Cyclospora, Listeria, Salmonella, Shiga toxin-producing E. coli (STEC), Shigella, Vibrio, and Yersinia. Now the network is only monitoring for STEC and Salmonella.Read full article Comments",
-          "feed_position": 12,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2014/01/SALMON_1-1152x648.jpg"
+          "url": "https://arstechnica.com/gadgets/2025/08/one-time-wordpress-competitor-typepad-ends-its-slide-into-obscurity-by-shutting-down/",
+          "published_at": "2025-08-29T11:11:07.383Z",
+          "title": "Blogging service TypePad is shutting down and taking all blog content with it",
+          "standfirst": "",
+          "content": "",
+          "feed_position": 5
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2014/01/SALMON_1-1152x648.jpg",
-      "popularity_score": 133,
+      "popularity_score": 302.99999972222224,
       "ai_summary": [
-        "The CDC has reduced its food safety surveillance efforts.",
-        "The agency now tracks only two of the eight top infections.",
-        "The reduction in surveillance raises public health concerns.",
-        "The CDC's actions may hinder the detection of foodborne illnesses.",
-        "The CDC's approach has drawn criticism from experts."
+        "TypePad, a blogging service, is shutting down its operations.",
+        "The closure will result in the deletion of all blog content.",
+        "Users are advised to back up their data before the shutdown.",
+        "The service's closure impacts numerous bloggers and their content.",
+        "The shutdown marks the end of an era for the blogging platform."
       ]
     },
     {
-      "id": "cluster_99",
+      "id": "cluster_6",
       "coverage": 1,
-      "updated_at": "Wed, 27 Aug 2025 19:09:55 +0000",
-      "title": "Judge unhappy with FCC’s “vague and uninformative” response to DOGE lawsuit",
-      "neutral_headline": "Judge Criticizes FCC Response in DOGE Lawsuit",
+      "updated_at": "2025-08-29T11:11:07.383Z",
+      "title": "With recent Falcon 9 milestones, SpaceX vindicates its “dumb” approach to reuse",
+      "neutral_headline": "SpaceX's Falcon 9 Rocket Reuse Strategy Proves Successful",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2025/08/judge-unhappy-with-fccs-vague-and-uninformative-response-to-doge-lawsuit/",
-          "published_at": "Wed, 27 Aug 2025 19:09:55 +0000",
-          "title": "Judge unhappy with FCC’s “vague and uninformative” response to DOGE lawsuit",
-          "standfirst": "Plaintiffs seek DOGE documents, allege FCC violated Freedom of Information Act.",
-          "content": "A judge yesterday chided the Federal Communications Commission for its \"vague and uninformative\" response to a DOGE-related lawsuit and ordered the commission to produce documents sought under the Freedom of Information Act (FoIA). The FCC was sued by journalist Nina Burleigh and Frequency Forward, a group that says it is investigating how Elon Musk's influence in government \"is creating unmanageable conflicts of interest within the FCC.\" Burleigh and Frequency Forward alleged in an April 24 complaint that the FCC violated the Freedom of Information Act by wrongfully withholding records on DOGE's activities within the agency. The plaintiffs filed a motion for preliminary injunction this week and received a quick ruling from US District Judge Amy Berman Jackson in the District of Columbia. Jackson denied the preliminary injunction request but ordered the FCC to \"make ongoing productions of responsive documents on September 15, 2025 and October 6, 2025,\" and to \"file a status report proposing a schedule for the completion of its production of documents to plaintiff by October 13, 2025.\"Read full article Comments",
-          "feed_position": 14,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/brendan-carr-1152x648-1756320188.jpg"
+          "url": "https://arstechnica.com/space/2025/08/with-recent-falcon-9-milestones-spacex-vindicates-its-dumb-approach-to-reuse/",
+          "published_at": "2025-08-29T11:11:07.383Z",
+          "title": "With recent Falcon 9 milestones, SpaceX vindicates its “dumb” approach to reuse",
+          "standfirst": "",
+          "content": "",
+          "feed_position": 6
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/brendan-carr-1152x648-1756320188.jpg",
-      "popularity_score": 133,
+      "popularity_score": 300.99999972222224,
       "ai_summary": [
-        "A judge expressed dissatisfaction with the FCC's response.",
-        "The judge found the FCC's response to be vague and uninformative.",
-        "Plaintiffs are seeking documents related to DOGE.",
-        "The plaintiffs allege the FCC violated the Freedom of Information Act.",
-        "The lawsuit concerns the FCC's handling of DOGE-related information."
+        "SpaceX's Falcon 9 rocket has achieved significant milestones.",
+        "The company's approach to reuse is considered successful.",
+        "SpaceX's \"dumb\" approach refers to its focus on simplicity.",
+        "The strategy has led to cost reductions and increased launches.",
+        "The milestones validate SpaceX's innovative approach to space travel."
       ]
     },
     {
-      "id": "cluster_107",
+      "id": "cluster_7",
       "coverage": 1,
-      "updated_at": "Wed, 27 Aug 2025 16:05:00 +0000",
-      "title": "Chris Roberts hopes Squadron 42 will be “almost as big” as GTA VI next year",
-      "neutral_headline": "Chris Roberts Discusses Squadron 42 and Star Citizen",
+      "updated_at": "2025-08-29T11:11:07.383Z",
+      "title": "New dinosaur species is the punk rock version of an ankylosaur",
+      "neutral_headline": "New Dinosaur Species Discovered, Resembling Punk Rock Ankylosaur",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/gaming/2025/08/chris-roberts-hopes-squadron-42-will-be-almost-as-big-as-gta-vi-next-year/",
-          "published_at": "Wed, 27 Aug 2025 16:05:00 +0000",
-          "title": "Chris Roberts hopes Squadron 42 will be “almost as big” as GTA VI next year",
-          "standfirst": "French report also suggests Star Citizen might hit 1.0 release in \"2027 or 2028.\"",
-          "content": "The single-player Star Citizen spin-off Squadron 42 is slated to finally be in players' hands in 2026, 11 full years after its initial 2015 release target. And after all that time, Cloud Imperium Games CEO Chris Roberts says he's hopeful that the title will be received similarly to another 2026 release that happens to be possibly the most anticipated video game of all time: Grand Theft Auto VI. A recent report from French Canadian outlet La Presse (translated) suggests that Squadron 42's launch is being timed so that it \"won't be overshadowed\" by the planned May launch of Grand Theft Auto VI. \"We're hoping it'll be almost as big an event,\" Roberts said in comparing the two upcoming releases in an interview with the French paper. \"Other than GTA VI, it's probably the biggest-budget AAA game [of the year].\" That's a pretty bold claim, considering Squadron 42's very public and tumultuous path to a purported \"feature complete\" status in 2023. But it seems at least somewhat reasonable when you consider that GTA VI's development budget of nearly $1 billion lines up closely with $859 million in crowdfunding currently being reported for Star Citizen as a whole.Read full article Comments",
-          "feed_position": 17,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/sq42-1152x648.png"
+          "url": "https://arstechnica.com/science/2025/08/new-dinosaur-species-is-the-punk-rock-version-of-an-ankylosaur/",
+          "published_at": "2025-08-29T11:11:07.383Z",
+          "title": "New dinosaur species is the punk rock version of an ankylosaur",
+          "standfirst": "",
+          "content": "",
+          "feed_position": 7
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/sq42-1152x648.png",
-      "popularity_score": 133,
+      "popularity_score": 282.99999972222224,
       "ai_summary": [
-        "Chris Roberts hopes Squadron 42 will be large next year.",
-        "A French report suggests Star Citizen might release in 2027 or 2028.",
-        "Squadron 42 is a single-player game within the Star Citizen universe.",
-        "Star Citizen is a persistent-world space simulation game.",
-        "The report provides potential timelines for the game's release."
+        "A new dinosaur species has been identified by paleontologists.",
+        "The dinosaur is described as a punk rock version of an ankylosaur.",
+        "The species exhibits unique physical characteristics.",
+        "The discovery provides insights into dinosaur evolution.",
+        "The dinosaur's appearance is compared to the punk rock aesthetic."
       ]
     },
     {
-      "id": "cluster_111",
+      "id": "cluster_8",
       "coverage": 1,
-      "updated_at": "Wed, 27 Aug 2025 14:16:33 +0000",
-      "title": "The first stars may not have been as uniformly massive as we thought",
-      "neutral_headline": "Early Stars May Not Have Been Uniformly Massive",
+      "updated_at": "2025-08-29T11:11:07.383Z",
+      "title": "As GM prepares to switch its EVs to NACS, it has some new adapters",
+      "neutral_headline": "General Motors Introduces Adapters for Electric Vehicle Charging",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2025/08/the-first-stars-may-not-have-been-as-uniformly-massive-as-we-thought/",
-          "published_at": "Wed, 27 Aug 2025 14:16:33 +0000",
-          "title": "The first stars may not have been as uniformly massive as we thought",
-          "standfirst": "Collapsing gas clouds in the early universe may have formed lower-mass stars as well.",
-          "content": "For decades, astronomers have wondered what the very first stars in the universe were like. These stars formed new chemical elements, which enriched the universe and allowed the next generations of stars to form the first planets. The first stars were initially composed of pure hydrogen and helium, and they were massive—hundreds to thousands of times the mass of the Sun and millions of times more luminous. Their short lives ended in enormous explosions called supernovae, so they had neither the time nor the raw materials to form planets, and they should no longer exist for astronomers to observe. At least that’s what we thought.Read full article Comments",
-          "feed_position": 19,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/file-20250819-56-c2tduy.avif"
+          "url": "https://arstechnica.com/cars/2025/08/gm-announces-new-nacs-and-ccs1-adapters-coming-next-week/",
+          "published_at": "2025-08-29T11:11:07.383Z",
+          "title": "As GM prepares to switch its EVs to NACS, it has some new adapters",
+          "standfirst": "",
+          "content": "",
+          "feed_position": 8
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/file-20250819-56-c2tduy.avif",
-      "popularity_score": 133,
+      "popularity_score": 278.99999972222224,
       "ai_summary": [
-        "The first stars may not have been uniformly massive.",
-        "Collapsing gas clouds may have formed lower-mass stars.",
-        "This challenges previous assumptions about early star formation.",
-        "The findings suggest a more diverse population of early stars.",
-        "The research provides new insights into the early universe."
+        "General Motors is preparing to switch its EVs to NACS charging.",
+        "The company is introducing new adapters for its electric vehicles.",
+        "The adapters will allow compatibility with different charging networks.",
+        "The move aims to improve charging accessibility for EV owners.",
+        "The adapters represent a step towards a unified charging standard."
+      ]
+    },
+    {
+      "id": "cluster_9",
+      "coverage": 1,
+      "updated_at": "2025-08-29T11:11:07.383Z",
+      "title": "Unpacking Passkeys Pwned: Possibly the most specious research in decades",
+      "neutral_headline": "Research on Passkeys Pwned Questioned for Validity",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/security/2025/08/new-research-claiming-passkeys-can-be-stolen-is-pure-nonsense/",
+          "published_at": "2025-08-29T11:11:07.383Z",
+          "title": "Unpacking Passkeys Pwned: Possibly the most specious research in decades",
+          "standfirst": "",
+          "content": "",
+          "feed_position": 9
+        }
+      ],
+      "popularity_score": 262.99999972222224,
+      "ai_summary": [
+        "Research on Passkeys Pwned is under scrutiny.",
+        "The research is described as possibly specious.",
+        "The study's methodology and conclusions are being questioned.",
+        "Concerns exist about the validity of the research findings.",
+        "The research has generated debate within the cybersecurity community."
       ]
     }
   ]
