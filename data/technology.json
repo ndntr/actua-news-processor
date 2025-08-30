@@ -1,41 +1,12 @@
 {
-  "updated_at": "2025-08-30T03:25:02.327Z",
+  "updated_at": "2025-08-30T07:11:09.359Z",
   "clusters": [
     {
-      "id": "cluster_0",
+      "id": "cluster_2",
       "coverage": 1,
-      "updated_at": "2025-08-30T03:25:02.325Z",
-      "title": "Google Pixel 10 series review: Don’t call it an Android",
-      "neutral_headline": "Google Pixel 10 Series Review: New Android Phone Features",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2025/08/google-pixel-10-series-review-dont-call-it-an-android/",
-          "published_at": "2025-08-30T03:25:02.325Z",
-          "title": "Google Pixel 10 series review: Don’t call it an Android",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 0
-        }
-      ],
-      "popularity_score": 375.9999994444444,
-      "ai_summary": [
-        "Google Pixel 10 series phones have been reviewed, focusing on new features and design.",
-        "The review discusses the phone's performance, camera capabilities, and software experience.",
-        "Reviewers analyze the phone's battery life, display quality, and overall user experience.",
-        "Comparisons are made to other smartphones in the market regarding pricing and specifications.",
-        "The review provides an assessment of the Pixel 10 series' strengths and weaknesses."
-      ]
-    },
-    {
-      "id": "cluster_1",
-      "coverage": 1,
-      "updated_at": "2025-08-30T03:25:02.325Z",
+      "updated_at": "Fri, 29 Aug 2025 21:51:44 +0000",
       "title": "The fight against labeling long-term streaming rentals as “purchases” you “buy”",
-      "neutral_headline": "Streaming Rental Labeling Controversy Regarding Digital Purchases",
+      "neutral_headline": "New Law Addresses Labeling of Streaming Rentals as Purchases",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -43,28 +14,30 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/gadgets/2025/08/i-like-plaintiffs-chances-prime-video-back-in-court-over-using-the-word-buy/",
-          "published_at": "2025-08-30T03:25:02.325Z",
+          "published_at": "Fri, 29 Aug 2025 21:51:44 +0000",
           "title": "The fight against labeling long-term streaming rentals as “purchases” you “buy”",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 1
+          "standfirst": "New law emboldens complaints against digital content rentals labled as purchases.",
+          "content": "Words have meaning. Proper word selection is integral to strong communication, whether it's about relaying one’s feelings to another or explaining the terms of a deal, agreement, or transaction. Language can be confusing, but typically when something is available to \"buy,\" ownership of that good or access to that service is offered in exchange for money. That’s not really the case, though, when it comes to digital content. Often, streaming services like Amazon Prime Video offer customers the options to “rent” digital content for a few days or to “buy” it. Some might think that picking \"buy\" means that they can view the content indefinitely. But these purchases are really just long-term licenses to watch the content for as long as the streaming service has the right to distribute it—which could be for years, months, or days after the transaction.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-1426070870-1152x648.jpg"
         }
       ],
-      "popularity_score": 357.9999994444444,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-1426070870-1152x648.jpg",
+      "popularity_score": 358.67628916666666,
       "ai_summary": [
-        "The article discusses the practice of labeling long-term streaming rentals as \"purchases\".",
-        "Consumers are concerned about the implications of this labeling on ownership rights.",
-        "The debate involves the difference between renting and actually buying digital content.",
-        "Legal and ethical considerations surrounding digital media ownership are examined.",
-        "The article explores the impact on consumer rights and the streaming industry."
+        "A new law is empowering complaints about digital content rentals.",
+        "These rentals are sometimes misleadingly labeled as purchases.",
+        "The law aims to protect consumers from deceptive practices.",
+        "It addresses the issue of digital content ownership.",
+        "The law seeks to clarify the distinction between rentals and purchases."
       ]
     },
     {
-      "id": "cluster_3",
+      "id": "cluster_7",
       "coverage": 1,
-      "updated_at": "2025-08-30T03:25:02.325Z",
+      "updated_at": "Fri, 29 Aug 2025 19:49:54 +0000",
       "title": "With new in-house models, Microsoft lays the groundwork for independence from OpenAI",
-      "neutral_headline": "Microsoft Develops In-House AI Models, Reducing OpenAI Reliance",
+      "neutral_headline": "Microsoft Develops In-House Models, Eyes Independence from OpenAI",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -72,28 +45,30 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/ai/2025/08/with-new-in-house-models-microsoft-lays-the-groundwork-for-independence-from-openai/",
-          "published_at": "2025-08-30T03:25:02.325Z",
+          "published_at": "Fri, 29 Aug 2025 19:49:54 +0000",
           "title": "With new in-house models, Microsoft lays the groundwork for independence from OpenAI",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 3
+          "standfirst": "Microsoft is still deeply tied to OpenAI, but who knows what the future holds.",
+          "content": "Microsoft has introduced AI models that it trained internally and says it will begin using them in some products. This announcement may represent an effort to move away from dependence on OpenAI, despite Microsoft's substantial investment in that company. It comes more than a year after insider reports revealed that Microsoft was beginning work on its own foundational models. A post on the Microsoft AI blog describes two models. MAI-Voice-1 is a natural speech-generation model meant to deliver \"high-fidelity, expressive audio across both single and multi-speaker scenarios.\" The idea is that voice will be one of the main ways users interact with AI tools in the future, though we haven't really seen that come to fruition so far. The second model is called MAI-1-preview, and it's a foundational large language model specifically trained to drive Copilot, Microsoft's AI chatbot tool. It was trained on around 15,000 Nvidia H100 GPUs, and runs inference on a single GPU. As reported last year, this model is significantly larger than the models seen in Microsoft's earlier experiments, which focused on smaller models meant to run locally, like Phi-3.Read full article Comments",
+          "feed_position": 2,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/copilot_logo3-1152x648.jpg"
         }
       ],
-      "popularity_score": 349.9999994444444,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/copilot_logo3-1152x648.jpg",
+      "popularity_score": 348.6457336111111,
       "ai_summary": [
-        "Microsoft is developing its own AI models, moving away from dependence on OpenAI.",
-        "This strategic shift aims to increase Microsoft's control over its AI technology.",
-        "The move could impact the partnership between Microsoft and OpenAI in the future.",
-        "Microsoft's in-house models are designed to compete with OpenAI's offerings.",
-        "The article explores the implications of this change for the AI landscape."
+        "Microsoft is developing its own in-house AI models.",
+        "This move could reduce Microsoft's reliance on OpenAI.",
+        "The future relationship between the two companies is uncertain.",
+        "Microsoft is investing in its own AI capabilities.",
+        "The development signals a shift in the AI landscape."
       ]
     },
     {
-      "id": "cluster_2",
+      "id": "cluster_3",
       "coverage": 1,
-      "updated_at": "2025-08-30T03:25:02.325Z",
+      "updated_at": "Fri, 29 Aug 2025 21:05:14 +0000",
       "title": "CDC spiraled into chaos this week. Here’s where things stand.",
-      "neutral_headline": "CDC Faces Challenges, Addressing Current Operational Issues",
+      "neutral_headline": "CDC Faces Internal Turmoil Amid Ouster and Resignations",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -101,28 +76,30 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/health/2025/08/cdc-spiraled-into-chaos-this-week-heres-where-things-stand/",
-          "published_at": "2025-08-30T03:25:02.325Z",
+          "published_at": "Fri, 29 Aug 2025 21:05:14 +0000",
           "title": "CDC spiraled into chaos this week. Here’s where things stand.",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 2
+          "standfirst": "CDC is in crisis amid an ouster, resignations, defiance, and outraged lawmakers.",
+          "content": "The US Centers for Disease Control and Prevention descended into turmoil this week after Health Secretary and zealous anti-vaccine advocate Robert F. Kennedy Jr. ousted the agency's director, Susan Monarez, who had just weeks ago been confirmed by the Senate and earned Kennedy's praise for her \"unimpeachable scientific credentials.\" It appears those scientific chops are what led to her swift downfall. Since the Department of Health and Human Services announced on X late Wednesday that \"Susan Monarez is no longer director\" of the CDC, media reports have revealed that her forced removal was over her refusal to bend to Kennedy's anti-vaccine, anti-science agenda. The ouster appeared to be a breaking point for the agency overall, which has never fully recovered from the public pummeling it received at the height of the COVID-19 pandemic. In its weakened position, the agency has since endured an onslaught of further criticism, vilification, and misinformation from Kennedy and the Trump administration, which also delivered brutal cuts, significantly slashing CDC's workforce, shuttering vital health programs, and hamstringing others. Earlier this month, a gunman, warped by vaccine misinformation, opened fire on the CDC's campus, riddling its buildings with hundreds of bullets, killing a local police officer, and traumatizing agency staff.Read full article Comments",
+          "feed_position": 1,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2231833532-1152x648.jpg"
         }
       ],
-      "popularity_score": 332.9999994444444,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2231833532-1152x648.jpg",
+      "popularity_score": 332.9012891666667,
       "ai_summary": [
-        "The CDC experienced internal issues this week, according to reports.",
-        "The article details the current state of affairs within the CDC organization.",
-        "The challenges include internal communication and operational efficiency problems.",
-        "The CDC is working to address these issues and improve its functionality.",
-        "The article provides an overview of the CDC's current standing and future plans."
+        "The CDC is experiencing a period of internal chaos.",
+        "This includes an ouster, resignations, and defiance.",
+        "Lawmakers have expressed outrage over the situation.",
+        "The CDC's internal issues are causing concern.",
+        "The situation is impacting the agency's operations."
       ]
     },
     {
-      "id": "cluster_5",
+      "id": "cluster_13",
       "coverage": 1,
-      "updated_at": "2025-08-30T03:25:02.325Z",
+      "updated_at": "Fri, 29 Aug 2025 18:48:51 +0000",
       "title": "Tesla denied having fatal crash data until a hacker found it",
-      "neutral_headline": "Tesla Initially Denied Fatal Crash Data, Hacker Uncovered Information",
+      "neutral_headline": "Tesla Initially Denied Fatal Crash Data, Hacker Found It",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -130,28 +107,30 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/cars/2025/08/how-a-hacker-helped-win-a-wrongful-death-lawsuit-against-tesla/",
-          "published_at": "2025-08-30T03:25:02.325Z",
+          "published_at": "Fri, 29 Aug 2025 18:48:51 +0000",
           "title": "Tesla denied having fatal crash data until a hacker found it",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 5
+          "standfirst": "The data was key evidence in the death of a pedestrian in 2019.",
+          "content": "At the beginning of the month, Tesla was found partly liable in a wrongful death lawsuit involving the death of a pedestrian in Florida in 2019. The automaker—which could have settled the case for far less—claimed that it did not have the fatal crash's data. That's until a hacker was able to recover it from the crashed car, according to a report in The Washington Post. In the past, Tesla has been famously quick to offer up customer data stored on its servers to rebut claims made against the company. But in this case, the company said it had nothing. Specifically, the lawyers for the family wanted what's known as the \"collision snapshot,\" data captured by the car's cameras and other sensors in the seconds leading up to and after the crash. According to the trial, moments after the collision snapshot was uploaded to Tesla's servers, the local copy on the car was marked for deletion. Then, \"someone at Tesla probably took 'affirmative action to delete' the copy of the data on the company’s central database,\" according to the Post.Read full article Comments",
+          "feed_position": 4,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2020/06/haX0r-1152x648.jpg"
         }
       ],
-      "popularity_score": 318.9999994444444,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2020/06/haX0r-1152x648.jpg",
+      "popularity_score": 316.6282336111111,
       "ai_summary": [
-        "Tesla initially denied having data related to fatal crashes involving its vehicles.",
-        "A hacker discovered and revealed the data, contradicting Tesla's initial statements.",
-        "The data includes information about the circumstances of the fatal crashes.",
-        "The article discusses the implications of the data's discovery and its impact.",
-        "The incident raises questions about transparency and data management."
+        "Tesla initially denied having data related to a fatal crash.",
+        "A hacker discovered the data, which was key evidence.",
+        "The crash involved the death of a pedestrian in 2019.",
+        "The data's existence was crucial to the investigation.",
+        "The incident raises questions about data transparency."
       ]
     },
     {
-      "id": "cluster_4",
+      "id": "cluster_10",
       "coverage": 1,
-      "updated_at": "2025-08-30T03:25:02.325Z",
+      "updated_at": "Fri, 29 Aug 2025 19:10:21 +0000",
       "title": "Windows 11 25H2 update hits its last stop before release to the general public",
-      "neutral_headline": "Windows 11 25H2 Update Reaches Final Stage Before Public Release",
+      "neutral_headline": "Windows 11 25H2 Update Nears Public Release",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -159,28 +138,61 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/gadgets/2025/08/windows-11-25h2-update-hits-its-last-stop-before-release-to-the-general-public/",
-          "published_at": "2025-08-30T03:25:02.325Z",
+          "published_at": "Fri, 29 Aug 2025 19:10:21 +0000",
           "title": "Windows 11 25H2 update hits its last stop before release to the general public",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 4
+          "standfirst": "The 25H2 update will be a quiet one, after 24H2's under-the-hood overhauls.",
+          "content": "Microsoft's fifth major iteration of Windows 11 is nearing its release to the general public—the Windows Insider team announced today that Windows 11 25H2 was being put into its Release Preview Channel, the final stop for most updates before they become available to everyone. That's around two months after the first Windows builds with the 25H2 label were released to the other preview channels. Putting a new yearly Windows update in the Release Preview channel is analogous to the \"release to manufacturing\" (RTM) phase of years past, back when updates shipped on physical media that needed to be manufactured. Build numbers for this version of Windows start with 26200, rather than 24H2's 26100. The 25H2 update doesn't do a lot in and of itself, other than reset the clock for Microsoft's security updates (each yearly release gets two years of security patches). Microsoft says that last year's 24H2 update and this year's 25H2 update \"use a shared servicing branch,\" which mostly means that there aren't big under-the-hood differences between the two. Installing the 25H2 update on a PC may enable some features on your 24H2 PC that had already been installed but had been disabled by default.Read full article Comments",
+          "feed_position": 3,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/win11-listing.jpeg"
         }
       ],
-      "popularity_score": 312.9999994444444,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/win11-listing.jpeg",
+      "popularity_score": 310.98656694444446,
       "ai_summary": [
-        "The Windows 11 25H2 update has reached its final testing phase.",
-        "This update is the last step before the general public receives the update.",
-        "The update includes new features, performance improvements, and bug fixes.",
-        "The article details the changes and enhancements included in the update.",
-        "The release date for the general public is expected soon after this phase."
+        "The Windows 11 25H2 update is nearing public release.",
+        "It is the final stage before general availability.",
+        "The update is expected to be a relatively quiet one.",
+        "This follows the more extensive 24H2 update.",
+        "The focus is on under-the-hood improvements."
       ]
     },
     {
-      "id": "cluster_6",
+      "id": "cluster_14",
       "coverage": 1,
-      "updated_at": "2025-08-30T03:25:02.325Z",
+      "updated_at": "Fri, 29 Aug 2025 18:42:13 +0000",
+      "title": "Battlefield 6 dev apologizes for requiring Secure Boot to power anti-cheat tools",
+      "neutral_headline": "Battlefield 6 Developer Apologizes for Anti-Cheat Requirement",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gaming/2025/08/battlefield-6-dev-apologizes-for-requiring-secure-boot-to-power-anti-cheat-tools/",
+          "published_at": "Fri, 29 Aug 2025 18:42:13 +0000",
+          "title": "Battlefield 6 dev apologizes for requiring Secure Boot to power anti-cheat tools",
+          "standfirst": "Amid player complaints, EA says 330,000 cheaters were stopped in beta's first two days.",
+          "content": "Earlier this month, EA announced that players in its Battlefield 6 open beta on PC would have to enable Secure Boot in their Windows OS and BIOS settings. That decision proved controversial among players who weren't able to get the finicky low-level security setting working on their machines and others who were unwilling to allow EA's anti-cheat tools to once again have kernel-level access to their systems. Now, Battlefield 6 technical director Christian Buhl is defending that requirement as something of a necessary evil to combat cheaters, even as he apologizes to any potential players that it has kept away. \"The fact is I wish we didn't have to do things like Secure Boot,\" Buhl said in an interview with Eurogamer. \"It does prevent some players from playing the game. Some people's PCs can't handle it and they can't play: that really sucks. I wish everyone could play the game with low friction and not have to do these sorts of things.\"Read full article Comments",
+          "feed_position": 5,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/bf6secure-1152x648-1756492115.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/bf6secure-1152x648-1756492115.jpg",
+      "popularity_score": 296.51767805555556,
+      "ai_summary": [
+        "The Battlefield 6 developer apologized for Secure Boot requirement.",
+        "Secure Boot is needed to power anti-cheat tools.",
+        "EA reports 330,000 cheaters were stopped during beta.",
+        "The requirement caused player complaints and concerns.",
+        "The developer is addressing player feedback on the issue."
+      ]
+    },
+    {
+      "id": "cluster_18",
+      "coverage": 1,
+      "updated_at": "Fri, 29 Aug 2025 18:02:22 +0000",
       "title": "Zuckerberg’s AI hires disrupt Meta with swift exits and threats to leave",
-      "neutral_headline": "Zuckerberg’s AI Team Faces Departures, Internal Tensions Emerge",
+      "neutral_headline": "Zuckerberg's AI Hires Cause Leadership Changes at Meta",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -188,28 +200,30 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/ai/2025/08/zuckerbergs-ai-hires-disrupt-meta-with-swift-exits-and-threats-to-leave/",
-          "published_at": "2025-08-30T03:25:02.325Z",
+          "published_at": "Fri, 29 Aug 2025 18:02:22 +0000",
           "title": "Zuckerberg’s AI hires disrupt Meta with swift exits and threats to leave",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 6
+          "standfirst": "Longtime acolytes are sidelined as CEO directs biggest leadership reorganization in two decades.",
+          "content": "Within days of joining Meta, Shengjia Zhao, co-creator of OpenAI’s ChatGPT, had threatened to quit and return to his former employer, in a blow to Mark Zuckerberg’s multibillion-dollar push to build “personal superintelligence.” Zhao went as far as to sign employment paperwork to go back to OpenAI. Shortly afterwards, according to four people familiar with the matter, he was given the title of Meta’s new “chief AI scientist.” The incident underscores Zuckerberg’s turbulent effort to direct the most dramatic reorganisation of Meta’s senior leadership in the group’s 20-year history.Read full article Comments",
+          "feed_position": 6,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/mark-zuckerberg-1152x648-1736271016.jpg"
         }
       ],
-      "popularity_score": 307.9999994444444,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/mark-zuckerberg-1152x648-1736271016.jpg",
+      "popularity_score": 294.8535113888889,
       "ai_summary": [
-        "Meta's AI team is experiencing departures and internal tensions.",
-        "The article discusses the reasons behind the exits and the impact on Meta.",
-        "The departures include key personnel and potential threats to leave.",
-        "The article explores the challenges and dynamics within Zuckerberg's AI initiatives.",
-        "The situation highlights the competitive environment within the tech industry."
+        "Zuckerberg's AI hires are causing disruption at Meta.",
+        "Longtime employees are being sidelined or leaving.",
+        "The CEO is directing a major leadership reorganization.",
+        "The changes reflect a shift in company priorities.",
+        "The reorganization is the largest in two decades."
       ]
     },
     {
-      "id": "cluster_7",
+      "id": "cluster_21",
       "coverage": 1,
-      "updated_at": "2025-08-30T03:25:02.325Z",
+      "updated_at": "Fri, 29 Aug 2025 16:51:02 +0000",
       "title": "FTC claims Gmail filtering Republican emails threatens “American freedoms”",
-      "neutral_headline": "FTC Alleges Gmail Filtering of Republican Emails Threatens Freedoms",
+      "neutral_headline": "FTC Claims Gmail Filtering Threatens American Freedoms",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -217,28 +231,30 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/tech-policy/2025/08/ftc-claims-gmail-filtering-republican-emails-threatens-american-freedoms/",
-          "published_at": "2025-08-30T03:25:02.325Z",
+          "published_at": "Fri, 29 Aug 2025 16:51:02 +0000",
           "title": "FTC claims Gmail filtering Republican emails threatens “American freedoms”",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 7
+          "standfirst": "FTC chairman revives GOP claims previously rejected by judge and election agency.",
+          "content": "Federal Trade Commission Chairman Andrew Ferguson accused Google of using \"partisan\" spam filtering in Gmail that sends Republican fundraising emails to the spam folder while delivering Democratic emails to inboxes. Ferguson sent a letter yesterday to Alphabet CEO Sundar Pichai, accusing the company of \"potential FTC Act violations related to partisan administration of Gmail.\" Ferguson's letter revives longstanding Republican complaints that were previously rejected by a federal judge and the Federal Election Commission. \"My understanding from recent reporting is that Gmail's spam filters routinely block messages from reaching consumers when those messages come from Republican senders but fail to block similar messages sent by Democrats,\" Ferguson wrote. The FTC chair cited a recent New York Post report on the alleged practice.Read full article Comments",
+          "feed_position": 7,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/getty-spam-1152x648.jpg"
         }
       ],
-      "popularity_score": 297.9999994444444,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/getty-spam-1152x648.jpg",
+      "popularity_score": 283.6646225,
       "ai_summary": [
-        "The Federal Trade Commission (FTC) is investigating Gmail's email filtering practices.",
-        "The FTC claims that filtering Republican emails threatens American freedoms.",
-        "The investigation focuses on potential bias in Gmail's email management.",
-        "The article explores the legal and political implications of the FTC's claims.",
-        "The situation raises questions about free speech and platform neutrality."
+        "The FTC claims Gmail filtering threatens American freedoms.",
+        "The FTC chairman revived GOP claims previously rejected.",
+        "These claims were rejected by a judge and election agency.",
+        "The issue involves the filtering of Republican emails.",
+        "The FTC's stance is sparking controversy."
       ]
     },
     {
-      "id": "cluster_8",
+      "id": "cluster_22",
       "coverage": 1,
-      "updated_at": "2025-08-30T03:25:02.325Z",
+      "updated_at": "Fri, 29 Aug 2025 16:10:39 +0000",
       "title": "Starship’s heat shield appears to have performed quite well in test",
-      "neutral_headline": "Starship Heat Shield Performs Well During Recent Test Flight",
+      "neutral_headline": "Starship's Heat Shield Shows Positive Performance in Test",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -246,28 +262,30 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/space/2025/08/spacex-got-good-heat-shield-data-for-starship-so-what-comes-next/",
-          "published_at": "2025-08-30T03:25:02.325Z",
+          "published_at": "Fri, 29 Aug 2025 16:10:39 +0000",
           "title": "Starship’s heat shield appears to have performed quite well in test",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 8
+          "standfirst": "\"The latest upgrades are looking good!\"",
+          "content": "One of the more curious aspects of the 10th flight of SpaceX's Starship rocket on Tuesday was the striking orange discoloration of the second stage. This could be observed on video taken from a buoy near the landing site as the vehicle made a soft landing in the Indian Ocean. This color—so different from the silvery skin and black tiles that cover Starship's upper stage—led to all sorts of speculation. Had heating damaged the stainless steel skin? Had the vehicle's tiles been shucked off, leaving behind some sort of orange adhesive material? Was this actually NASA's Space Launch System in disguise? The answer to this question was rather important, as SpaceX founder Elon Musk had said before this flight that gathering data about the performance of this heat shield was the most important aspect of the mission.Read full article Comments",
+          "feed_position": 8,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/starship-1152x648.jpg"
         }
       ],
-      "popularity_score": 277.9999994444444,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/starship-1152x648.jpg",
+      "popularity_score": 262.99156694444446,
       "ai_summary": [
-        "SpaceX's Starship heat shield performed well during a recent test flight.",
-        "The heat shield is designed to protect the spacecraft during atmospheric reentry.",
-        "The test results indicate the heat shield's effectiveness in extreme conditions.",
-        "The article discusses the implications of the successful test for future missions.",
-        "The performance is a significant step forward for Starship's development."
+        "Starship's heat shield appears to have performed well.",
+        "The latest upgrades are showing promising results.",
+        "The test results are encouraging for the project.",
+        "The heat shield is a critical component of Starship.",
+        "The performance is a positive step forward."
       ]
     },
     {
-      "id": "cluster_9",
+      "id": "cluster_31",
       "coverage": 1,
-      "updated_at": "2025-08-30T03:25:02.325Z",
+      "updated_at": "Fri, 29 Aug 2025 15:10:47 +0000",
       "title": "Today’s game consoles are historically overpriced",
-      "neutral_headline": "Modern Game Consoles Are Historically Overpriced, Analysis Shows",
+      "neutral_headline": "Analysis: Today's Game Consoles Are Historically Overpriced",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -275,20 +293,332 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/gaming/2025/08/todays-game-consoles-are-historically-overpriced/",
-          "published_at": "2025-08-30T03:25:02.325Z",
+          "published_at": "Fri, 29 Aug 2025 15:10:47 +0000",
           "title": "Today’s game consoles are historically overpriced",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 9
+          "standfirst": "Ars analysis shows missing price cuts are costing console consumers hundreds of dollars.",
+          "content": "Today's video game consoles are hundreds of dollars more expensive than you'd expect based on historic pricing trends. That's according to an Ars Technica analysis of decades of pricing data and price-cut timing across dozens of major US console releases. The overall direction of this trend has been apparent to industry watchers for a while now. Nintendo, Sony, and Microsoft have failed to cut their console prices in recent years and have instead been increasing the nominal MSRP for many current consoles in the past six months. If the original Switch followed historic pricing trends, it could be selling for a bargain basement $100 to $150 right now. Credit: Kyle Orland Even accounting for inflation, some PS5 consoles are more expensive today than they were at launch. Credit: Kyle Orland Despite cratering Xbox hardware sales, Microsoft has been unwilling to cut prices on Xbox consoles. Credit: Kyle Orland But when you crunch the numbers, it's pretty incredible just how much today's console prices defy historic expectations, even when you account for higher-than-normal inflation in recent years. If today's consoles were seeing anything like what used to be standard price cuts over time, we could be paying around $200 today for pricey systems like the Switch OLED, PS5 Digital Edition, and Xbox Series S.Read full article Comments",
+          "feed_position": 9,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/moneyperson-1152x648.jpg"
         }
       ],
-      "popularity_score": 259.9999994444444,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/moneyperson-1152x648.jpg",
+      "popularity_score": 243.99378916666666,
       "ai_summary": [
-        "The article analyzes the pricing of modern game consoles compared to the past.",
-        "The analysis suggests that current consoles are historically overpriced.",
-        "The article examines factors contributing to the higher prices of consoles.",
-        "The discussion includes the impact of pricing on consumer purchasing decisions.",
-        "The article explores the economics of the gaming industry and console sales."
+        "An analysis suggests game consoles are overpriced.",
+        "Missing price cuts are costing consumers money.",
+        "Consumers are paying hundreds of dollars more.",
+        "The analysis examines console pricing trends.",
+        "The findings highlight the cost of console ownership."
+      ]
+    },
+    {
+      "id": "cluster_43",
+      "coverage": 1,
+      "updated_at": "Fri, 29 Aug 2025 12:39:03 +0000",
+      "title": "Rocket Report: SpaceX achieved daily launch this week; ULA recovers booster",
+      "neutral_headline": "SpaceX Achieves Daily Launch; ULA Recovers Booster",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/space/2025/08/rocket-report-spacex-achieved-daily-launch-this-week-ula-recovers-booster/",
+          "published_at": "Fri, 29 Aug 2025 12:39:03 +0000",
+          "title": "Rocket Report: SpaceX achieved daily launch this week; ULA recovers booster",
+          "standfirst": "Firefly Aerospace reveals why its Alpha booster exploded after launch in April.",
+          "content": "Welcome to Edition 8.08 of the Rocket Report! What a week it's been for SpaceX. The company completed its first successful Starship test flight in nearly a year, and while it wasn't perfect, it sets up SpaceX for far more ambitious tests ahead. SpaceX's workhorse rocket, the Falcon 9, launched six times since our last edition of the Rocket Report. Many of these missions were noteworthy in their own right, including the launch of the US military's X-37B spaceplane, an upgraded Dragon capsule to boost the International Space Station to a higher orbit, and the record 30th launch and landing of a flight-proven Falcon 9 booster. All told, that's seven SpaceX launches in seven days. As always, we welcome reader submissions. If you don't want to miss an issue, please subscribe using the box below (the form will not appear on AMP-enabled versions of the site). Each report will include information on small-, medium-, and heavy-lift rockets, as well as a quick look ahead at the next three launches on the calendar. Firefly announces cause of Alpha launch failure. Firefly Aerospace closed the investigation into the failure of one of its Alpha rockets during an April mission for Lockheed Martin and received clearance from the FAA to resume launches, Payload reports. The loss of the launch vehicle was a dark cloud hanging over the company’s otherwise successful IPO this month. The sixth flight of Firefly's Alpha rocket launched in April from Vandenberg Space Force Base, California, and failed when its first stage booster broke apart milliseconds after stage separation. This created a shockwave that destroyed the engine nozzle extension on the second stage, damaging the engine before the second stage ran out of propellant seconds before it attained orbital velocity. Both stages ultimately fell into the Pacific Ocean.Read full article Comments",
+          "feed_position": 12,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/IMG_9216-1-1152x648-1756427277.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/IMG_9216-1-1152x648-1756427277.jpg",
+      "popularity_score": 163.4649002777778,
+      "ai_summary": [
+        "SpaceX achieved daily launches this week.",
+        "ULA successfully recovered a booster.",
+        "Firefly Aerospace explains its Alpha booster explosion.",
+        "The report covers various space-related activities.",
+        "The information highlights recent space developments."
+      ]
+    },
+    {
+      "id": "cluster_45",
+      "coverage": 1,
+      "updated_at": "Fri, 29 Aug 2025 12:15:00 +0000",
+      "title": "Google warns that mass data theft hitting Salesloft AI agent has grown bigger",
+      "neutral_headline": "Google Warns of Salesloft AI Agent Data Theft",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/security/2025/08/google-warns-that-mass-data-theft-hitting-salesloft-ai-agent-has-grown-bigger/",
+          "published_at": "Fri, 29 Aug 2025 12:15:00 +0000",
+          "title": "Google warns that mass data theft hitting Salesloft AI agent has grown bigger",
+          "standfirst": "Assume all Salesloft credentials are compromised after Workspace breach, Google says.",
+          "content": "Google is advising users of the Salesloft Drift AI chat agent to consider all security tokens connected to the platform compromised following the discovery that unknown attackers used some of the credentials to access email from Google Workspace accounts. In response, Google has revoked the tokens that were used in the breaches and disabled integration between the Salesloft Drift agent and all Workspace accounts as it investigates further. The company has also notified all affected account holders of the compromise. Scope expanded The discovery, reported Thursday in an advisory update, indicates that a Salesloft Drift breach it reported on Tuesday is broader than previously known. Prior to the update, members of the Google Threat Intelligence Group said the compromised tokens were limited to Salesloft Drift integrations with Salesforce. The compromise of the Workspace accounts prompted Google to change that assessment.Read full article Comments",
+          "feed_position": 13,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/hacked.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/hacked.jpg",
+      "popularity_score": 161.06406694444445,
+      "ai_summary": [
+        "Google warns of mass data theft affecting Salesloft AI agent.",
+        "Assume all Salesloft credentials are compromised.",
+        "The breach occurred within the Workspace environment.",
+        "The data theft is a significant security concern.",
+        "Google is advising users to take precautions."
+      ]
+    },
+    {
+      "id": "cluster_34",
+      "coverage": 1,
+      "updated_at": "Fri, 29 Aug 2025 14:35:05 +0000",
+      "title": "Google Pixel 10 series review: Don’t call it an Android",
+      "neutral_headline": "Google Pixel 10 Series Review: New Phones Offer Minor Improvements",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2025/08/google-pixel-10-series-review-dont-call-it-an-android/",
+          "published_at": "Fri, 29 Aug 2025 14:35:05 +0000",
+          "title": "Google Pixel 10 series review: Don’t call it an Android",
+          "standfirst": "Google's new Pixel phones are better, but only a little.",
+          "content": "After 10 generations of Pixels, Google's phones have never been more like the iPhone, and we mean that both as a compliment and a gentle criticism. For people who miss the days of low-cost, tinkering-friendly Nexus phones, Google's vision is moving ever further away from that, but the attention to detail and overall polish of the Pixel experience continue with the Pixel 10, 10 Pro, and 10 Pro XL. These are objectively good phones with possibly the best cameras on the market, and they're also a little more powerful, but the aesthetics are seemingly locked down. Google made a big design change last year with the Pixel 9 series, and it's not reinventing the wheel in 2025. The Pixel 10 series keeps the same formula, making limited refinements, not all of which will be well-received. Google pulled out all the stops and added a ton of new AI features you may not care about, and it killed the SIM card slot. Just because Apple does something doesn't mean Google has to, but here we are. If you're still clinging to your physical SIM card or just like your Pixel 9, there's no reason to rush out to upgrade. A great but not so daring design If you liked the Pixel 9's design, you'll like the Pixel 10, because it's a very slightly better version of the same hardware. All three phones are made from aluminum and Gorilla Glass Victus 2 (no titanium option here). The base model has a matte finish on the metal frame with a glossy rear panel, and it's the opposite on the Pro phones. This makes the more expensive phones a little less secure in the hand—those polished edges are slippery. The buttons on the Pixel 9 often felt a bit loose, but the buttons on all our Pixel 10 units are tight and clicky.Read full article Comments",
+          "feed_position": 10,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Google-Pixel-10-4-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Google-Pixel-10-4-1152x648.jpg",
+      "popularity_score": 159.39878916666666,
+      "ai_summary": [
+        "Google's new Pixel phones show incremental improvements over previous models.",
+        "The review suggests the phones are better, but the changes are not substantial.",
+        "The article focuses on the overall user experience and hardware upgrades.",
+        "The Pixel 10 series continues Google's efforts in the smartphone market.",
+        "The review highlights both positive and negative aspects of the new devices."
+      ]
+    },
+    {
+      "id": "cluster_72",
+      "coverage": 1,
+      "updated_at": "Thu, 28 Aug 2025 14:46:46 +0000",
+      "title": "With recent Falcon 9 milestones, SpaceX vindicates its “dumb” approach to reuse",
+      "neutral_headline": "SpaceX Falcon 9 Achieves Milestones, Validates Reuse Strategy",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/space/2025/08/with-recent-falcon-9-milestones-spacex-vindicates-its-dumb-approach-to-reuse/",
+          "published_at": "Thu, 28 Aug 2025 14:46:46 +0000",
+          "title": "With recent Falcon 9 milestones, SpaceX vindicates its “dumb” approach to reuse",
+          "standfirst": "The company's workhorse continues its stellar performance.",
+          "content": "As SpaceX's Starship vehicle gathered all of the attention this week, the company's workhorse Falcon 9 rocket continued to hit some impressive milestones. Both occurred during relatively anonymous launches of the company's Starlink satellites but are nonetheless notable because they underscore the value of first-stage reuse, which SpaceX has pioneered over the last decade. The first milestone occurred on Wednesday morning with the launch of the Starlink 10-56 mission from Cape Canaveral, Florida. The first stage that launched these satellites, Booster 1096, was making its second launch and successfully landed on the Just Read the Instructions drone ship. Strikingly, this was the 400th time SpaceX has executed a drone ship landing.Read full article Comments",
+          "feed_position": 19,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/booster-1067-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/booster-1067-1152x648.jpg",
+      "popularity_score": 141,
+      "ai_summary": [
+        "SpaceX's Falcon 9 rocket continues to demonstrate strong performance in recent missions.",
+        "The company's approach to reusing rocket components proves successful.",
+        "The article highlights the frequency and reliability of Falcon 9 launches.",
+        "SpaceX's \"dumb\" approach to reuse has been vindicated by its success.",
+        "The Falcon 9 remains a key component of SpaceX's space exploration efforts."
+      ]
+    },
+    {
+      "id": "cluster_66",
+      "coverage": 1,
+      "updated_at": "Thu, 28 Aug 2025 18:46:43 +0000",
+      "title": "High-severity vulnerability in Passwordstate credential manager. Patch now.",
+      "neutral_headline": "Passwordstate Credential Manager Faces High-Severity Vulnerability",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/security/2025/08/high-severity-vulnerability-in-passwordstate-credential-manager-patch-now/",
+          "published_at": "Thu, 28 Aug 2025 18:46:43 +0000",
+          "title": "High-severity vulnerability in Passwordstate credential manager. Patch now.",
+          "standfirst": "Vulnerability can be exploited to gain access to customers' crown jewels.",
+          "content": "The maker of Passwordstate, an enterprise-grade password manager for storing companies’ most privileged credentials, is urging them to promptly install an update fixing a high-severity vulnerability that hackers can exploit to gain administrative access to their vaults. The authentication bypass allows hackers to create a URL that accesses an emergency access page for Passwordstate. From there, an attacker could pivot to the administrative section of the password manager. A CVE identifier isn’t yet available. Safeguarding enterprises’ most privileged credentials Click Studios, the Australia-based maker of Passwordstate, says the credential manager is used by 29,000 customers and 370,000 security professionals. The product is designed to safeguard organizations' most privileged and sensitive credentials. Among other things, it integrates into Active Directory, the service Windows network admins use to create, change, and modify user accounts. It can also be used for handling password resets, event auditing, and remote session logins.Read full article Comments",
+          "feed_position": 16,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/password-login-1000x648.jpeg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/password-login-1000x648.jpeg",
+      "popularity_score": 139,
+      "ai_summary": [
+        "A critical vulnerability exists within the Passwordstate credential manager software.",
+        "The vulnerability allows potential access to sensitive customer data.",
+        "Users are urged to apply a security patch immediately to mitigate risks.",
+        "Exploitation of the vulnerability could compromise valuable information.",
+        "The article emphasizes the importance of prompt security updates."
+      ]
+    },
+    {
+      "id": "cluster_35",
+      "coverage": 1,
+      "updated_at": "Fri, 29 Aug 2025 14:34:45 +0000",
+      "title": "700-piece Lego G3 iMac design faces long-shot odds to get made, but I still want one",
+      "neutral_headline": "Lego G3 iMac Design Faces Challenges, Inspires Desire",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2025/08/lego-imac-g3-concept-is-unlikely-to-go-anywhere-but-it-is-very-cute/",
+          "published_at": "Fri, 29 Aug 2025 14:34:45 +0000",
+          "title": "700-piece Lego G3 iMac design faces long-shot odds to get made, but I still want one",
+          "standfirst": "Begging Apple to let another company make Macs for the first time since the '90s.",
+          "content": "I don't usually get too excited about user-submitted designs on the Lego Ideas website, especially when those ideas would require negotiating a license with another company—user-generated designs need to reach 10,000 supporters before Lego considers them for production, two pretty high bars to clear even without factoring in some other brand's conditions and requests. But I'm both intrigued and impressed by this Lego version of Apple's old Bondi Blue G3 iMac that has been making the rounds today. Submitted by a user named terauma, the 700-plus-piece set comes complete with keyboard, hockey-puck mouse, a classic Mac OS boot screen, and cathode ray tubes and circuit boards visible through the set's transparent blue casing (like the original iMac, it may cause controversy by excluding a floppy disk drive). The design has already reached 5,000 supporters, and it has 320 days left to reach the 10,000-supporter benchmark required to be reviewed by Lego. With its personality-forward aesthetics and Jony Ive-led design, the original iMac was the first step down the path that led to blockbuster products like the iPod and iPhone. It was the company's first all-new Mac design after CEO Steve Jobs returned to the company in the late '90s, and while it lacked some features included in contemporary PCs, its tightly integrated design and ease of setup helped it stand out against the beige desktop PCs of the day. Today's colorful Apple Silicon iMacs are clearly inspired by the original design.Read full article Comments",
+          "feed_position": 11,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/2624641c-8505-4a71-a441-735aded9a1ce-original-0x0-1-1152x648.jpeg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/2624641c-8505-4a71-a441-735aded9a1ce-original-0x0-1-1152x648.jpeg",
+      "popularity_score": 136.3932336111111,
+      "ai_summary": [
+        "A Lego design of the G3 iMac faces hurdles in becoming a real product.",
+        "The design aims to replicate the iconic Apple computer from the 1990s.",
+        "The article discusses the challenges of getting Apple's approval for production.",
+        "The creator hopes to see the Lego set become a reality.",
+        "The design highlights the enduring appeal of the original iMac."
+      ]
+    },
+    {
+      "id": "cluster_58",
+      "coverage": 1,
+      "updated_at": "Thu, 28 Aug 2025 21:29:47 +0000",
+      "title": "Video player looks like a 1-inch TV from the ’60s and is wondrous, pointless fun",
+      "neutral_headline": "Unique Video Player Mimics 1960s Television Design",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2025/08/video-player-looks-like-a-1-inch-tv-from-the-60s-and-is-wondrous-pointless-fun/",
+          "published_at": "Thu, 28 Aug 2025 21:29:47 +0000",
+          "title": "Video player looks like a 1-inch TV from the ’60s and is wondrous, pointless fun",
+          "standfirst": "TV static and remote included.",
+          "content": "If a family of anthropomorphic mice were to meet around a TV, I imagine they'd gather around something like TinyCircuits’ TinyTV 2. The gadget sits on four slender, angled legs with its dials and classic, brown shell beckoning viewers toward its warm, bright stories. The TinyTV’s screen is only 1.14 inches diagonally, but the device exudes vintage energy. In simple terms, the TinyTV is a portable, rechargeable gadget that plays stored videos and was designed to look and function like a vintage TV. The details go down to the dials, one for controlling the volume and another for scrolling through the stored video playlist. Both rotary knobs make an assuring click when twisted. Musing on fantastical uses for the TinyTV seems appropriate because the device feels like it's built around fun. At a time when TVs are getting more powerful, software-driven, AI-stuffed, and, of course, bigger, the TinyTV is a delightful, comforting tribute to a simpler time for TVs.Read full article Comments",
+          "feed_position": 15,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/head-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/head-1152x648.jpg",
+      "popularity_score": 133,
+      "ai_summary": [
+        "A video player is designed to resemble a small television from the 1960s.",
+        "The player includes features like TV static and a remote control.",
+        "The article describes the player as a fun and somewhat pointless novelty.",
+        "The design evokes nostalgia for older television technology.",
+        "The player offers a unique way to watch videos."
+      ]
+    },
+    {
+      "id": "cluster_68",
+      "coverage": 1,
+      "updated_at": "Thu, 28 Aug 2025 16:00:52 +0000",
+      "title": "Trump admin dismisses Endangered Species List as “Hotel California”",
+      "neutral_headline": "Trump Administration Criticizes Endangered Species List Practices",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/science/2025/08/trump-admin-dismisses-endangered-species-list-as-hotel-california/",
+          "published_at": "Thu, 28 Aug 2025 16:00:52 +0000",
+          "title": "Trump admin dismisses Endangered Species List as “Hotel California”",
+          "standfirst": "\"Once a species enters, they never leave,\" interior secretary says. But there's more to the story.",
+          "content": "“You can check out any time you like, but you can never leave.” It’s the ominous slogan for “Hotel California,” an iconic fictional lodging dreamed up by the Eagles in 1976. One of the rock band’s lead singers, Don Henley, said in an interview that the song and place “can have a million interpretations.” For US Interior Secretary Doug Burgum, what comes to mind is a key part of one of the country’s most central conservation laws.Read full article Comments",
+          "feed_position": 17,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2184537594-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2184537594-1152x648.jpg",
+      "popularity_score": 133,
+      "ai_summary": [
+        "The Trump administration criticized the Endangered Species List's practices.",
+        "The Interior Secretary stated species rarely leave the list once added.",
+        "The article suggests there is more to the story than the administration claims.",
+        "The debate centers on the effectiveness of the Endangered Species Act.",
+        "The article explores the complexities of species protection efforts."
+      ]
+    },
+    {
+      "id": "cluster_69",
+      "coverage": 1,
+      "updated_at": "Thu, 28 Aug 2025 15:46:17 +0000",
+      "title": "Blogging service TypePad is shutting down and taking all blog content with it",
+      "neutral_headline": "TypePad Blogging Service Announces Shutdown, Content Removal",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2025/08/one-time-wordpress-competitor-typepad-ends-its-slide-into-obscurity-by-shutting-down/",
+          "published_at": "Thu, 28 Aug 2025 15:46:17 +0000",
+          "title": "Blogging service TypePad is shutting down and taking all blog content with it",
+          "standfirst": "After years of neglect, TypePad and everything on it goes away on September 30.",
+          "content": "In the olden days, publishing a site on the Internet required that you figure out hosting and have at least some experience with HTML, CSS, and the other languages that make the Internet work. But the emergence of blogging and \"Web 2.0\" sites in the late '90s and early 2000s gave rise to a constellation of services that would offer to host all of your thoughts without requiring you to build the website part of your website. Many of those services are still around in some form—someone who really wanted to could still launch a new blog on LiveJournal, Xanga, Blogger, or WordPress.com. But one of the field's former giants is shutting down—and taking all of those old posts with it. TypePad announced that the service would be shutting down on September 30 and that everything hosted on it would also be going away on that date. That gives current and former users just over a month to export anything they want to save. TypePad had previously removed the ability to create new accounts at some point in 2020. It gave no specific rationale for the shutdown beyond calling it a \"difficult decision.\" As recently as March of this year, TypePad representatives were telling users there were \"no plans\" to shut down the service.Read full article Comments",
+          "feed_position": 18,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/typepad-logo.png"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/typepad-logo.png",
+      "popularity_score": 133,
+      "ai_summary": [
+        "The TypePad blogging service will shut down, removing all user content.",
+        "The service will cease operations on September 30.",
+        "The shutdown follows years of neglect and lack of updates.",
+        "Users are advised to back up their blog content before the deadline.",
+        "The article marks the end of an era for the blogging platform."
+      ]
+    },
+    {
+      "id": "cluster_56",
+      "coverage": 1,
+      "updated_at": "Thu, 28 Aug 2025 21:57:41 +0000",
+      "title": "Genetically, Central American mammoths were weird",
+      "neutral_headline": "Genetic Analysis Reveals Unusual Traits in Central American Mammoths",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/science/2025/08/genetically-central-american-mammoths-were-weird/",
+          "published_at": "Thu, 28 Aug 2025 21:57:41 +0000",
+          "title": "Genetically, Central American mammoths were weird",
+          "standfirst": "The species's boundaries in North America seem to have been fairly fluid.",
+          "content": "We tend to lump all mammoths together as big, hairy elephant-like beasts with enormous tusks. But there were a number of mammoth species, including less furry ones that inhabited temperate regions. And the furry ones include at least three species: the Eurasian steppe mammoth, the Arctic-specializing woolly mammoth, and the late-evolving North America-only Columbian mammoth. Because these species inhabited the Arctic, it has been remarkably easy to obtain DNA from them, providing a genetic picture of their relations. The DNA suggests that the woolly mammoth is an offshoot of the steppe mammoth lineage and was the first to migrate into North America. But the Columbian mammoth was a bit of an enigma; some genetic data suggested it was also a steppe offshoot, while other samples indicated it might be a woolly/steppe hybrid. But all of that data came from animals living in colder environments. In contrast, the Columbian mammoth ranged as far south as Central America. And now, a group of researchers has managed to obtain a bit of genetic information from bones found in the Basin of Mexico, which includes Mexico City. And these mammoths appear to form a distinct genetic cluster and are all more closely related to each other than to any other woolly or Columbian mammoths.Read full article Comments",
+          "feed_position": 14,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-1232186902-1024x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-1232186902-1024x648.jpg",
+      "popularity_score": 130,
+      "ai_summary": [
+        "Genetic analysis shows Central American mammoths had unique characteristics.",
+        "The species's boundaries in North America were not clearly defined.",
+        "The research provides insights into the evolution of mammoths.",
+        "The study explores the genetic diversity of the species.",
+        "The findings contribute to a better understanding of mammoth populations."
       ]
     }
   ]
