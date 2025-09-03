@@ -1,17 +1,40 @@
 {
   "clinical": {
-    "updated_at": "2025-09-02T23:10:57.506Z",
+    "updated_at": "2025-09-03T07:12:48.611Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2025-09-02T23:10:57.506Z",
+    "updated_at": "2025-09-03T07:12:48.611Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2025-09-02T23:11:07.366Z",
+    "updated_at": "2025-09-03T07:12:58.537Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Tue, 02 Sep 2025 23:21:27 GMT",
+        "title": "Watch: Captain Scott’s famous polar shipwreck as never seen before",
+        "neutral_headline": "Watch: Captain Scott’s famous polar shipwreck as never seen before",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/cpwyvyqkx9yo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Tue, 02 Sep 2025 23:21:27 GMT",
+            "title": "Watch: Captain Scott’s famous polar shipwreck as never seen before",
+            "standfirst": "The Terra Nova carried Captain Scott and his men on their doomed expedition to the South Pole.",
+            "content": "The Terra Nova carried Captain Scott and his men on their doomed expedition to the South Pole.",
+            "feed_position": 45,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d5a/live/7f161480-790b-11f0-a0a3-2909e79b7d59.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d5a/live/7f161480-790b-11f0-a0a3-2909e79b7d59.jpg"
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Tue, 02 Sep 2025 21:30:04 GMT",
         "title": "‘No place in children’s hands’: under-16s in England to be banned from buying energy drinks",
@@ -33,11 +56,11 @@
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Tue, 02 Sep 2025 21:30:02 GMT",
-        "title": "Energy drinks to be banned for under 16s",
-        "neutral_headline": "Energy drinks to be banned for under 16s",
+        "title": "Energy drinks to be banned for under-16s",
+        "neutral_headline": "Energy drinks to be banned for under-16s",
         "bullet_summary": [
           "Health and Social Care Secretary Wes Streeting said he was acting on concerns for children's health",
           "Reported by BBC Health"
@@ -47,17 +70,17 @@
             "source": "BBC Health",
             "url": "https://www.bbc.com/news/articles/c707074qdnko?at_medium=RSS&at_campaign=rss",
             "published_at": "Tue, 02 Sep 2025 21:30:02 GMT",
-            "title": "Energy drinks to be banned for under 16s",
+            "title": "Energy drinks to be banned for under-16s",
             "standfirst": "Health and Social Care Secretary Wes Streeting said he was acting on concerns for children's health.",
             "content": "Health and Social Care Secretary Wes Streeting said he was acting on concerns for children's health.",
             "feed_position": 0,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c76/live/1da46bb0-883e-11f0-82f3-013be7d5ef50.jpg"
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f84/live/7fbb2180-888a-11f0-84c8-99de564f0440.jpg"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c76/live/1da46bb0-883e-11f0-82f3-013be7d5ef50.jpg"
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f84/live/7fbb2180-888a-11f0-84c8-99de564f0440.jpg"
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Tue, 02 Sep 2025 19:10:52 GMT",
         "title": "What you need to know about Covid vaccines in the US this fall",
@@ -79,7 +102,7 @@
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Tue, 02 Sep 2025 17:45:34 GMT",
         "title": "NHS nurse’s tribunal over trans doctor’s use of changing room hears final evidence",
@@ -100,7 +123,7 @@
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Tue, 02 Sep 2025 17:38:00 GMT",
         "title": "The Guardian view on the dental divide: ministers must brush up their policy as well as children’s teeth | Editorial",
@@ -122,7 +145,7 @@
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Tue, 02 Sep 2025 16:55:49 GMT",
         "title": "Adults with learning disabilities die 20 years early, report finds",
@@ -145,7 +168,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c266/live/f6d5be40-87ec-11f0-b36e-47414de99d82.jpg"
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Tue, 02 Sep 2025 10:00:32 GMT",
         "title": "Why Trump’s undermining of US statistics is so dangerous | Daniel Malinsky",
@@ -167,7 +190,7 @@
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Tue, 02 Sep 2025 09:35:55 GMT",
         "title": "Scottish drug deaths fall but remain worst in Europe",
@@ -190,7 +213,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cedc/live/68868190-87f8-11f0-84c8-99de564f0440.jpg"
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Mon, 01 Sep 2025 23:01:21 GMT",
         "title": "Three-minute test helps identify people at greater risk of Alzheimer’s, trial finds",
@@ -211,7 +234,7 @@
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Mon, 01 Sep 2025 23:01:20 GMT",
         "title": "At least 45,000 sites in Wales could be contaminated with toxic waste, study says",
@@ -232,7 +255,7 @@
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Mon, 01 Sep 2025 20:46:37 GMT",
         "title": "Former CDC leaders slam RFK Jr for endangering Americans’ health",
@@ -254,7 +277,7 @@
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Mon, 01 Sep 2025 18:00:14 GMT",
         "title": "Stroke centres in England given AI tool that will help 50% of patients recover",
@@ -275,7 +298,7 @@
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Mon, 01 Sep 2025 16:00:12 GMT",
         "title": "Vaping may be causing irreversible harm to children’s health, doctors say",
@@ -296,7 +319,7 @@
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Mon, 01 Sep 2025 15:22:19 GMT",
         "title": "Summer 2025 confirmed as UK's hottest on record",
@@ -319,7 +342,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2186/live/96ee8ab0-8734-11f0-9ea1-07d888221746.jpg"
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Mon, 01 Sep 2025 11:00:34 GMT",
         "title": "Why more and more people are tuning the news out: ‘Now I don’t have that anxiety’",
@@ -340,7 +363,7 @@
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Mon, 01 Sep 2025 10:32:17 GMT",
         "title": "Tories pledge to get all oil and gas out of North Sea",
@@ -361,97 +384,11 @@
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/468a/live/43964620-85fc-11f0-9cf6-cbf3e73ce2b9.jpg"
-      },
-      {
-        "id": "cluster_16",
-        "coverage": 1,
-        "updated_at": "Mon, 01 Sep 2025 05:00:51 GMT",
-        "title": "Swab test can identify children with potentially deadly heart condition, study finds",
-        "neutral_headline": "Swab test can identify children with potentially deadly heart condition, study finds",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2025/sep/01/cheek-swab-test-children-heart-condition-arrhythmogenic-cardiomyopathy-acm-study",
-            "published_at": "Mon, 01 Sep 2025 05:00:51 GMT",
-            "title": "Swab test can identify children with potentially deadly heart condition, study finds",
-            "standfirst": "Research shows arrhythmogenic cardiomyopathy can be detected up to five years before diagnosis by other meansA simple cheek-swab test can identify children with a potentially deadly heart condition, five years before they would normally be diagnosed, research has found.Arrhythmogenic cardiomyopathy (ACM), which is typically genetic, is responsible for more than 10% of sudden cardiac deaths in children. Continue reading...",
-            "content": "Research shows arrhythmogenic cardiomyopathy can be detected up to five years before diagnosis by other meansA simple cheek-swab test can identify children with a potentially deadly heart condition, five years before they would normally be diagnosed, research has found.Arrhythmogenic cardiomyopathy (ACM), which is typically genetic, is responsible for more than 10% of sudden cardiac deaths in children. Continue reading...",
-            "feed_position": 11
-          }
-        ]
-      },
-      {
-        "id": "cluster_17",
-        "coverage": 1,
-        "updated_at": "Mon, 01 Sep 2025 04:00:48 GMT",
-        "title": "The one change that worked: I got a period cup – and saved £120 a year",
-        "neutral_headline": "The one change that worked: I got a period cup – and saved £120 a year",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/lifeandstyle/2025/sep/01/the-one-change-that-worked-i-got-a-period-cup-and-saved-120-a-year",
-            "published_at": "Mon, 01 Sep 2025 04:00:48 GMT",
-            "title": "The one change that worked: I got a period cup – and saved £120 a year",
-            "standfirst": "Ditching sanitary towels and tampons has made my period much less stressful. Crucially, it’s better for the environment tooI was 18 when I tried a menstrual cup for the first time. I was studying at the University of Edinburgh and Scotland had just become the first country in the world to make period products free to those who need them. The university health service was offering menstrual cups alongside the usual sanitary pads and tampons. I picked one up out of curiosity and because I just couldn’t resist a freebie.I was used to spending £10 to £15 a month on period products, more if I was caught short and had to do a panicked dash to an overpriced off-licence. As an eco-conscious teenager I already bought non-applicator tampons but often wore a security sanitary liner underneath. It was an attempt to keep the endless worry of heavy periods at bay: will I leak, run out of supplies, or find a clean loo in time? Even so, I leaked more often than I cared to admit. Continue reading...",
-            "content": "Ditching sanitary towels and tampons has made my period much less stressful. Crucially, it’s better for the environment tooI was 18 when I tried a menstrual cup for the first time. I was studying at the University of Edinburgh and Scotland had just become the first country in the world to make period products free to those who need them. The university health service was offering menstrual cups alongside the usual sanitary pads and tampons. I picked one up out of curiosity and because I just couldn’t resist a freebie.I was used to spending £10 to £15 a month on period products, more if I was caught short and had to do a panicked dash to an overpriced off-licence. As an eco-conscious teenager I already bought non-applicator tampons but often wore a security sanitary liner underneath. It was an attempt to keep the endless worry of heavy periods at bay: will I leak, run out of supplies, or find a clean loo in time? Even so, I leaked more often than I cared to admit. Continue reading...",
-            "feed_position": 12
-          }
-        ]
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Mon, 01 Sep 2025 00:00:43 GMT",
-        "title": "NHS corridor care now year-round crisis in England, experts say",
-        "neutral_headline": "NHS corridor care now year-round crisis in England, experts say",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2025/sep/01/nhs-corridor-care-now-year-round-crisis-in-england-experts-say",
-            "published_at": "Mon, 01 Sep 2025 00:00:43 GMT",
-            "title": "NHS corridor care now year-round crisis in England, experts say",
-            "standfirst": "About 74,150 patients waited at least 12 hours on trolleys in June and July, a situation almost nonexistent 10 years agoCorridor care in the NHS is now a year-round crisis, experts have warned, as analysis showed nearly 3 million patients attended A&E over the first two months of the summer.The latest NHS figures in England, analysed by the Liberal Democrats, show that since 2015 the number of people going to A&E in June and July has increased 15% to 2.9 million – the highest level recorded over the past decade. Continue reading...",
-            "content": "About 74,150 patients waited at least 12 hours on trolleys in June and July, a situation almost nonexistent 10 years agoCorridor care in the NHS is now a year-round crisis, experts have warned, as analysis showed nearly 3 million patients attended A&E over the first two months of the summer.The latest NHS figures in England, analysed by the Liberal Democrats, show that since 2015 the number of people going to A&E in June and July has increased 15% to 2.9 million – the highest level recorded over the past decade. Continue reading...",
-            "feed_position": 13
-          }
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Sun, 31 Aug 2025 23:35:37 GMT",
-        "title": "Canada's first lunar rover looks to future space exploration",
-        "neutral_headline": "Canada's first lunar rover looks to future space exploration",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/c1jn4ryxdp3o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Sun, 31 Aug 2025 23:35:37 GMT",
-            "title": "Canada's first lunar rover looks to future space exploration",
-            "standfirst": "The mission's goal is to find water on the Moon, which could open the door for a sustained human presence there.",
-            "content": "The mission's goal is to find water on the Moon, which could open the door for a sustained human presence there.",
-            "feed_position": 0,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/570f/live/59d9aaa0-86c2-11f0-8190-69835b32fee1.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/570f/live/59d9aaa0-86c2-11f0-8190-69835b32fee1.jpg"
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2025-09-02T23:11:07.366Z",
+    "updated_at": "2025-09-03T07:12:58.537Z",
     "clusters": []
   }
 }
