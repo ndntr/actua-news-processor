@@ -1,178 +1,852 @@
 {
-  "updated_at": "2025-09-04T07:12:43.338Z",
+  "updated_at": "2025-09-04T11:10:47.435Z",
   "clusters": [
     {
-      "id": "cluster_0",
-      "coverage": 1,
-      "updated_at": "2025-09-04T07:12:43.337Z",
-      "title": "Entertainment",
-      "neutral_headline": "ABC News Australia: Entertainment News",
-      "bullet_summary": [
-        "Reported by ABC News Australia (Popular)"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia (Popular)",
-          "url": "https://www.abc.net.au/news/entertainment",
-          "published_at": "2025-09-04T07:12:43.337Z",
-          "title": "Entertainment",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 0
-        }
-      ],
-      "popularity_score": 349.99999972222224,
-      "ai_summary": [
-        "This cluster is about entertainment news.",
-        "The source is ABC News Australia.",
-        "The content is categorized as entertainment.",
-        "The news is from Australia.",
-        "The cluster is about entertainment."
-      ]
-    },
-    {
       "id": "cluster_1",
-      "coverage": 1,
-      "updated_at": "2025-09-04T07:12:43.337Z",
-      "title": "Watch Live",
-      "neutral_headline": "ABC News Australia: Live Broadcasts",
+      "coverage": 2,
+      "updated_at": "Thu, 04 Sep 2025 21:08:56 +1000",
+      "title": "Adelaide vs Collingwood AFL LIVE: Magpie defenders stand tall, keep Crows stars at bay in fiery Adelaide thriller",
+      "neutral_headline": "Adelaide and Collingwood Face Off in Fiery AFL Qualifying Final",
       "bullet_summary": [
-        "Reported by ABC News Australia (Popular)"
+        "Reported by The Age, ABC News Australia"
       ],
       "items": [
         {
-          "source": "ABC News Australia (Popular)",
-          "url": "https://www.abc.net.au/news/newschannel",
-          "published_at": "2025-09-04T07:12:43.337Z",
-          "title": "Watch Live",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 1
+          "source": "The Age",
+          "url": "https://www.theage.com.au/sport/afl/afl-finals-2025-live-magpies-fans-trek-to-adelaide-as-countdown-continues-to-qualifying-final-tonight-20250904-p5msa6.html",
+          "published_at": "Thu, 04 Sep 2025 21:08:56 +1000",
+          "title": "Adelaide vs Collingwood AFL LIVE: Magpie defenders stand tall, keep Crows stars at bay in fiery Adelaide thriller",
+          "standfirst": "The Magpies and Crows face off at Adelaide Oval in a qualifying final. Follow along for the action, reactions and more AFL news.",
+          "content": "The Magpies and Crows face off at Adelaide Oval in a qualifying final. Follow along for the action, reactions and more AFL news.",
+          "feed_position": 1,
+          "image_url": "https://static.ffx.io/images/$zoom_0.20547147846332944%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_74/t_crop_custom/q_86%2Cf_auto/4e31c116ba40cf3971ad0140390502a9780c9a34"
+        },
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-09-04/afl-finals-adelaide-crows-collingwood-magpies-live-blog/105736900",
+          "published_at": "Thu, 04 Sep 2025 08:30:51 +0000",
+          "title": "Live: Adelaide and Collingwood players involved in fiery half-time scuffle",
+          "standfirst": "Taylor Walker is one of three players celebrating milestones as Adelaide takes on Collingwood in a blockbuster qualifying final at the Adelaide Oval. Follow live.",
+          "content": "Taylor Walker is one of three players celebrating milestones as Adelaide takes on Collingwood in a blockbuster qualifying final at the Adelaide Oval. Follow live.",
+          "feed_position": 6
         }
       ],
-      "popularity_score": 349.99999972222224,
+      "featured_image": "https://static.ffx.io/images/$zoom_0.20547147846332944%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_74/t_crop_custom/q_86%2Cf_auto/4e31c116ba40cf3971ad0140390502a9780c9a34",
+      "popularity_score": 2019.9690458333334,
       "ai_summary": [
-        "This cluster is about live broadcasts.",
-        "The source is ABC News Australia.",
-        "The content is categorized as live.",
-        "The news is from Australia.",
-        "The cluster is about live broadcasts."
+        "Adelaide and Collingwood played in a qualifying final.",
+        "The game was at Adelaide Oval.",
+        "There was a fiery half-time scuffle.",
+        "Magpie defenders kept Crows stars at bay.",
+        "Three players were celebrating milestones."
       ]
     },
     {
-      "id": "cluster_2",
-      "coverage": 1,
-      "updated_at": "2025-09-04T07:12:43.337Z",
-      "title": "Indigenous",
-      "neutral_headline": "ABC News Australia: Indigenous News",
+      "id": "cluster_19",
+      "coverage": 2,
+      "updated_at": "Thu, 04 Sep 2025 20:01:27 +1000",
+      "title": "Wayne questions 'trivial' Smith saga",
+      "neutral_headline": "Wayne Bennett Defends Brandon Smith Amid Police Saga",
       "bullet_summary": [
-        "Reported by ABC News Australia (Popular)"
+        "Reported by The Age, ABC Sport"
       ],
       "items": [
         {
-          "source": "ABC News Australia (Popular)",
-          "url": "https://www.abc.net.au/news/indigenous",
-          "published_at": "2025-09-04T07:12:43.337Z",
-          "title": "Indigenous",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 2
-        }
-      ],
-      "popularity_score": 329.99999972222224,
-      "ai_summary": [
-        "This cluster is about indigenous news.",
-        "The source is ABC News Australia.",
-        "The content is categorized as indigenous.",
-        "The news is from Australia.",
-        "The cluster is about indigenous news."
-      ]
-    },
-    {
-      "id": "cluster_3",
-      "coverage": 1,
-      "updated_at": "2025-09-04T07:12:43.337Z",
-      "title": "Environment",
-      "neutral_headline": "ABC News Australia: Environmental News",
-      "bullet_summary": [
-        "Reported by ABC News Australia (Popular)"
-      ],
-      "items": [
+          "source": "The Age",
+          "url": "https://www.theage.com.au/sport/nrl/wayne-questions-trivial-smith-saga-20250904-p5msh2.html",
+          "published_at": "Thu, 04 Sep 2025 20:01:27 +1000",
+          "title": "Wayne questions 'trivial' Smith saga",
+          "standfirst": "Wayne Bennett goes into bat for Rabbitohs star Brandon Smith as he faces drug and betting charges.",
+          "content": "Wayne Bennett goes into bat for Rabbitohs star Brandon Smith as he faces drug and betting charges.",
+          "feed_position": 15,
+          "image_url": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/956b5579146d6cb6e29e985dffb05077e5107728"
+        },
         {
-          "source": "ABC News Australia (Popular)",
-          "url": "https://www.abc.net.au/news/environment",
-          "published_at": "2025-09-04T07:12:43.337Z",
-          "title": "Environment",
-          "standfirst": "",
-          "content": "",
+          "source": "ABC Sport",
+          "url": "https://www.abc.net.au/news/2025-09-04/wayne-bennett-describes-brandon-smith-police-issues-trivial/105736432",
+          "published_at": "Thu, 04 Sep 2025 06:56:27 +0000",
+          "title": "Souths coach Bennett defends Smith, says police saga is 'trivial'",
+          "standfirst": "Wayne Bennett has labelled the Brandon Smith saga as \"trivial\", claiming the South Sydney hooker is only facing police charges because of his high profile.",
+          "content": "Wayne Bennett has labelled the Brandon Smith saga as \"trivial\", claiming the South Sydney hooker is only facing police charges because of his high profile.",
           "feed_position": 3
         }
       ],
-      "popularity_score": 319.99999972222224,
+      "featured_image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/956b5579146d6cb6e29e985dffb05077e5107728",
+      "popularity_score": 2018.8443236111111,
       "ai_summary": [
-        "This cluster is about environmental news.",
-        "The source is ABC News Australia.",
-        "The content is categorized as environment.",
-        "The news is from Australia.",
-        "The cluster is about environmental news."
+        "Wayne Bennett defended Brandon Smith.",
+        "Smith is facing drug and betting charges.",
+        "Bennett called the police saga \"trivial\".",
+        "Bennett is the Souths coach.",
+        "Bennett said Smith is facing charges due to his profile."
       ]
     },
     {
-      "id": "cluster_4",
-      "coverage": 1,
-      "updated_at": "2025-09-04T07:12:43.337Z",
-      "title": "Investigations",
-      "neutral_headline": "ABC News Australia: Investigative Journalism",
+      "id": "cluster_37",
+      "coverage": 2,
+      "updated_at": "Thu, 04 Sep 2025 07:40:22 GMT",
+      "title": "Ben Roberts-Smith’s final appeal bid rejected by high court – as it happened",
+      "neutral_headline": "Daniel Andrews Defends China Military Parade Attendance",
       "bullet_summary": [
-        "Reported by ABC News Australia (Popular)"
+        "Reported by Guardian Australia, ABC News Australia"
       ],
       "items": [
         {
-          "source": "ABC News Australia (Popular)",
-          "url": "https://www.abc.net.au/news/story-streams/investigations",
-          "published_at": "2025-09-04T07:12:43.337Z",
-          "title": "Investigations",
-          "standfirst": "",
-          "content": "",
+          "source": "Guardian Australia",
+          "url": "https://www.theguardian.com/australia-news/live/2025/sep/04/australia-politics-live-bob-carr-daniel-andrews-beijing-putin-question-time-labor-coalition-anthony-albanese-sussan-ley-ntwnfb",
+          "published_at": "Thu, 04 Sep 2025 07:40:22 GMT",
+          "title": "Ben Roberts-Smith’s final appeal bid rejected by high court – as it happened",
+          "standfirst": "This blog is now closedDaniel Andrews defends decision to attend China military parade alongside Vladimir Putin and Kim Jong-unGet our breaking news email, free app or daily news podcastSenator continues calls to criminalise burning Australian flagJacinta Nampijinpa Price is tripling down on her call for the burning of the Australian flag to be criminalised, and has called for Anthony Albanese to only stand in front of the Australian flag.I think in recent times, a lot of Australians have been vilified and the suggestion is that they’re somehow racist if they take pride in who we are as a country and in our flag that represents us as a country. I find that our prime minister standing in front of three flags divides us. Continue reading...",
+          "content": "This blog is now closedDaniel Andrews defends decision to attend China military parade alongside Vladimir Putin and Kim Jong-unGet our breaking news email, free app or daily news podcastSenator continues calls to criminalise burning Australian flagJacinta Nampijinpa Price is tripling down on her call for the burning of the Australian flag to be criminalised, and has called for Anthony Albanese to only stand in front of the Australian flag.I think in recent times, a lot of Australians have been vilified and the suggestion is that they’re somehow racist if they take pride in who we are as a country and in our flag that represents us as a country. I find that our prime minister standing in front of three flags divides us. Continue reading...",
+          "feed_position": 2
+        },
+        {
+          "source": "Guardian Australia",
+          "url": "https://www.theguardian.com/australia-news/2025/sep/04/daniel-andrews-defends-decision-attend-china-military-parade-alongside-vladimir-putin-kim-jong-un",
+          "published_at": "Thu, 04 Sep 2025 07:38:17 GMT",
+          "title": "Daniel Andrews defends decision to attend China military parade alongside Vladimir Putin and Kim Jong-un",
+          "standfirst": "Former Victorian premier describes his attendance in Beijing as a chance to ‘meet and engage with regional leaders’Follow our Australia live politics blog for latest updatesGet our breaking news email, free app or daily news podcastDaniel Andrews has hit back at critics of his decision to attend China’s military parade alongside Russian president Vladimir Putin and North Korean leader Kim Jong-un, saying it was a chance for him to “meet and engage with regional leaders”.The former Victorian premier, known for his interest in bolstering his state’s ties with China while he was in the job, was pictured at the ceremony on Wednesday and was quickly criticised for posing with the so-called “axis of upheaval”. Continue reading...",
+          "content": "Former Victorian premier describes his attendance in Beijing as a chance to ‘meet and engage with regional leaders’Follow our Australia live politics blog for latest updatesGet our breaking news email, free app or daily news podcastDaniel Andrews has hit back at critics of his decision to attend China’s military parade alongside Russian president Vladimir Putin and North Korean leader Kim Jong-un, saying it was a chance for him to “meet and engage with regional leaders”.The former Victorian premier, known for his interest in bolstering his state’s ties with China while he was in the job, was pictured at the ceremony on Wednesday and was quickly criticised for posing with the so-called “axis of upheaval”. Continue reading...",
+          "feed_position": 3
+        },
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-09-04/daniel-andrews-releases-china-photo-statement/105736700",
+          "published_at": "Thu, 04 Sep 2025 07:19:32 +0000",
+          "title": "Daniel Andrews defends trip to Beijing for Chinese military parade",
+          "standfirst": "The former Victorian premier has defended a decision to travel to China for a military commemorative event, saying a constructive relationship with Australia's largest trading partner was in the country's national interest.",
+          "content": "The former Victorian premier has defended a decision to travel to China for a military commemorative event, saying a constructive relationship with Australia's largest trading partner was in the country's national interest.",
+          "feed_position": 0
+        },
+        {
+          "source": "Guardian Australia",
+          "url": "https://www.theguardian.com/australia-news/2025/sep/04/labor-coalition-pass-deportation-laws-naura-australia-penal-colony-australia-critics-say",
+          "published_at": "Thu, 04 Sep 2025 06:35:59 GMT",
+          "title": "Labor and Coalition pass deportation laws set to make Nauru a ‘penal colony’ for Australia, critics say",
+          "standfirst": "Legislation validates flawed decisions, cuts off appeals and gives government sweeping powers to deport people, campaigners claimFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe major parties have been accused of “stitching up” a deal to transform Nauru into Australia’s “dumping ground and penal colony” as parliament passed laws stripping basic legal rights from a group of noncitizens set to be deported.The home affairs legislation passed the Senate on Thursday, after a snap three-hour parliamentary hearing the night before. Continue reading...",
+          "content": "Legislation validates flawed decisions, cuts off appeals and gives government sweeping powers to deport people, campaigners claimFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe major parties have been accused of “stitching up” a deal to transform Nauru into Australia’s “dumping ground and penal colony” as parliament passed laws stripping basic legal rights from a group of noncitizens set to be deported.The home affairs legislation passed the Senate on Thursday, after a snap three-hour parliamentary hearing the night before. Continue reading...",
+          "feed_position": 5
+        },
+        {
+          "source": "Guardian Australia",
+          "url": "https://www.theguardian.com/law/commentisfree/2025/sep/04/daniel-andrews-china-military-parade-photo-with-dictators-human-rights",
+          "published_at": "Thu, 04 Sep 2025 02:30:02 GMT",
+          "title": "Daniel Andrews’ photo with dictators is a glaring reminder of Australia’s hypocrisy on human rights | Daniela Gavshon",
+          "standfirst": "A government can’t half care about human rights. And Australia’s ‘disagree where we must’ approach with China enables abuse and undermines our national interestFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA photo of former Victorian premier Daniel Andrews alongside the Chinese leader, Xi Jinping, the Russian president, Vladimir Putin, and the North Korean leader, Kim Jong-un, during a military parade in Beijing raised troubling questions. Earlier, former New South Wales premier Bob Carr sought to pre-emptively justify his possible attendance at the event (although he didn’t in the end) in an opinion piece.While it is difficult for the Australian government to control the actions of former officials, the photo still raises the question how the two former premiers found themselves in a situation where they were either in a photo or contemplated attending an event with all these known grave violators of human rights. Perhaps it is because the Australian government sends mixed messages about responding to human rights abuses when committed by some governments. Continue reading...",
+          "content": "A government can’t half care about human rights. And Australia’s ‘disagree where we must’ approach with China enables abuse and undermines our national interestFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA photo of former Victorian premier Daniel Andrews alongside the Chinese leader, Xi Jinping, the Russian president, Vladimir Putin, and the North Korean leader, Kim Jong-un, during a military parade in Beijing raised troubling questions. Earlier, former New South Wales premier Bob Carr sought to pre-emptively justify his possible attendance at the event (although he didn’t in the end) in an opinion piece.While it is difficult for the Australian government to control the actions of former officials, the photo still raises the question how the two former premiers found themselves in a situation where they were either in a photo or contemplated attending an event with all these known grave violators of human rights. Perhaps it is because the Australian government sends mixed messages about responding to human rights abuses when committed by some governments. Continue reading...",
+          "feed_position": 6
+        },
+        {
+          "source": "Guardian Australia",
+          "url": "https://www.theguardian.com/commentisfree/2025/sep/04/australia-scores-a-b--on-its-latest-economic-report-card-its-an-improvement-but-theres-still-a-long-way-to-go",
+          "published_at": "Wed, 03 Sep 2025 23:00:36 GMT",
+          "title": "Australia scores a B- on its latest economic report card. It’s an improvement, but there’s still a long way to go | Nicki Hutley",
+          "standfirst": "Spending by state and federal governments warded off a recession last year but they are now cutting back, and more business investment is neededFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastAustralia’s economy grew by 0.6% over the three months to June this year, and by 1.8% over the year to June. This outcome was better than expected by most economists and, if you’re a glass half-full type of person, you would have been happy to see that the economy has picked up its pace from a very lacklustre performance in 2024.However, while we economists may be very excited to dig down into the “national accounts” stats on such thrilling concepts as per capita gross domestic product (GDP), the implicit price deflators and fixed capital formation, you may well be asking yourself what on earth does any of this have to do with me? Continue reading...",
+          "content": "Spending by state and federal governments warded off a recession last year but they are now cutting back, and more business investment is neededFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastAustralia’s economy grew by 0.6% over the three months to June this year, and by 1.8% over the year to June. This outcome was better than expected by most economists and, if you’re a glass half-full type of person, you would have been happy to see that the economy has picked up its pace from a very lacklustre performance in 2024.However, while we economists may be very excited to dig down into the “national accounts” stats on such thrilling concepts as per capita gross domestic product (GDP), the implicit price deflators and fixed capital formation, you may well be asking yourself what on earth does any of this have to do with me? Continue reading...",
+          "feed_position": 9
+        },
+        {
+          "source": "Guardian Australia",
+          "url": "https://www.theguardian.com/commentisfree/2025/sep/04/racism-in-australia-is-hardly-new-to-address-this-we-need-media-and-politicians-capable-of-navigating-complexities",
+          "published_at": "Wed, 03 Sep 2025 15:00:28 GMT",
+          "title": "Media defensiveness and outright denial have been on full display in response to anti-immigration protests | Margaret Simons",
+          "standfirst": "Some commentators claimed the March for Australia protests were a response to legitimate concerns rather than motivated by racismFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastPerhaps it is inevitable that the two most persistent evils in human societies – racism and misogyny – can be at times difficult to define and pin down.It’s like the elephant in the archetypal parable about the blind men who each touch one part of the beast and assume they know its nature. Continue reading...",
+          "content": "Some commentators claimed the March for Australia protests were a response to legitimate concerns rather than motivated by racismFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastPerhaps it is inevitable that the two most persistent evils in human societies – racism and misogyny – can be at times difficult to define and pin down.It’s like the elephant in the archetypal parable about the blind men who each touch one part of the beast and assume they know its nature. Continue reading...",
+          "feed_position": 8
+        },
+        {
+          "source": "Guardian Australia",
+          "url": "https://www.theguardian.com/business/2025/sep/03/australian-economy-households-spending-more-helping-momentum-weak-growth",
+          "published_at": "Wed, 03 Sep 2025 07:57:36 GMT",
+          "title": "Australian households are spending more – and it’s helping the economy regain some momentum",
+          "standfirst": "After two years of weak economic growth, there are signs of a recovery in household consumption – though productivity remains a soft spotFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastAustralia’s economy has wrapped up its weakest financial year since the early 1990s, outside the pandemic, marking two years of weak growth in the wake of the post-Covid lockdown boom.But it’s not all bad news. Continue reading...",
+          "content": "After two years of weak economic growth, there are signs of a recovery in household consumption – though productivity remains a soft spotFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastAustralia’s economy has wrapped up its weakest financial year since the early 1990s, outside the pandemic, marking two years of weak growth in the wake of the post-Covid lockdown boom.But it’s not all bad news. Continue reading...",
+          "feed_position": 10
+        },
+        {
+          "source": "Guardian Australia",
+          "url": "https://www.theguardian.com/environment/2025/sep/03/climate-crisis-labor-carbon-emissions-target-albanese-big-call",
+          "published_at": "Wed, 03 Sep 2025 02:02:43 GMT",
+          "title": "Labor is poised to make a big call on our nation’s carbon emissions target. But who is Albanese going to listen to? | Clear Air",
+          "standfirst": "Australia’s 2035 target for cutting emissions will reveal how serious we are about addressing the climate crisisFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastWant to get this in your inbox when it publishes? Sign up for the Clear Air Australia newsletter hereThe climate crisis is often a fight over numbers – and we are coming towards the end of a big one. It will shape how ambitious Australia will be in addressing this era-defining problem, over the next decade and beyond.The Albanese government is weighing a decision on the national emissions reduction target for 2035. Along with the policies that follow, it will be a legacy marker for a prime minister who is sometimes accused of being risk averse.Sign up to get climate and environment editor Adam Morton’s Clear Air column as a free newsletter Continue reading...",
+          "content": "Australia’s 2035 target for cutting emissions will reveal how serious we are about addressing the climate crisisFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastWant to get this in your inbox when it publishes? Sign up for the Clear Air Australia newsletter hereThe climate crisis is often a fight over numbers – and we are coming towards the end of a big one. It will shape how ambitious Australia will be in addressing this era-defining problem, over the next decade and beyond.The Albanese government is weighing a decision on the national emissions reduction target for 2035. Along with the policies that follow, it will be a legacy marker for a prime minister who is sometimes accused of being risk averse.Sign up to get climate and environment editor Adam Morton’s Clear Air column as a free newsletter Continue reading...",
+          "feed_position": 11
+        }
+      ],
+      "popularity_score": 2016.4929347222221,
+      "ai_summary": [
+        "Daniel Andrews defended his attendance at a China military parade.",
+        "He attended the parade with Vladimir Putin and Kim Jong-un.",
+        "Andrews said it was a chance to meet regional leaders.",
+        "He was criticized for attending the event.",
+        "Ben Roberts-Smith's final appeal bid was rejected."
+      ]
+    },
+    {
+      "id": "cluster_34",
+      "coverage": 1,
+      "updated_at": "Thu, 04 Sep 2025 08:02:47 +0000",
+      "title": "Parents speak out after child goes missing from Sydney daycare centre",
+      "neutral_headline": "Parents Speak Out After Child Missing from Sydney Daycare",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-09-04/bangor-childcare-centre-missing-child-investigations-sydney-nsw/105735884",
+          "published_at": "Thu, 04 Sep 2025 08:02:47 +0000",
+          "title": "Parents speak out after child goes missing from Sydney daycare centre",
+          "standfirst": "The ABC has learned of a number of incidents at a childcare centre in Sydney's south in the months leading up to a toddler being mistakenly taken home by a grandfather on Monday.",
+          "content": "The ABC has learned of a number of incidents at a childcare centre in Sydney's south in the months leading up to a toddler being mistakenly taken home by a grandfather on Monday.",
+          "feed_position": 2
+        }
+      ],
+      "popularity_score": 335.86654583333336,
+      "ai_summary": [
+        "Parents are speaking out about incidents at a daycare.",
+        "A child went missing from a Sydney daycare center.",
+        "The incidents occurred in the months leading up to the event.",
+        "The ABC learned of a number of incidents.",
+        "A toddler was mistakenly taken home by a grandfather."
+      ]
+    },
+    {
+      "id": "cluster_51",
+      "coverage": 1,
+      "updated_at": "Thu, 04 Sep 2025 03:51:50 +0000",
+      "title": "Liberal Party faces Indian community's ire over Price migration claims",
+      "neutral_headline": "Liberal Party Faces Criticism Over Migration Claims",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-09-04/liberal-party-faces-fierce-backlash-from-indian-community/105735164",
+          "published_at": "Thu, 04 Sep 2025 03:51:50 +0000",
+          "title": "Liberal Party faces Indian community's ire over Price migration claims",
+          "standfirst": "One Liberal MP says Price's suggestion Labor was prioritising Indian migrants because they vote Labor was a \"head-in-hand moment\".",
+          "content": "One Liberal MP says Price's suggestion Labor was prioritising Indian migrants because they vote Labor was a \"head-in-hand moment\".",
+          "feed_position": 1
+        }
+      ],
+      "popularity_score": 335.68404583333336,
+      "ai_summary": [
+        "The Liberal Party is facing criticism from the Indian community.",
+        "The criticism is over migration claims made by a Liberal MP.",
+        "The MP suggested Labor prioritized Indian migrants.",
+        "The MP's comments were called a \"head-in-hand moment\".",
+        "The claims concerned Labor's migration policies."
+      ]
+    },
+    {
+      "id": "cluster_46",
+      "coverage": 1,
+      "updated_at": "Thu, 04 Sep 2025 05:33:11 +0000",
+      "title": "Ben Roberts-Smith loses final legal bid to overturn defamation ruling",
+      "neutral_headline": "Ben Roberts-Smith Loses High Court Defamation Appeal",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-09-04/nsw-ben-roberts-smith-special-leave-application-rejected-court/105733410",
+          "published_at": "Thu, 04 Sep 2025 05:33:11 +0000",
+          "title": "Ben Roberts-Smith loses final legal bid to overturn defamation ruling",
+          "standfirst": "The High Court rejects a special leave application from Mr Roberts-Smith to challenge a Federal Court ruling against his bid to sue Nine newspapers over allegations about war crimes.",
+          "content": "The High Court rejects a special leave application from Mr Roberts-Smith to challenge a Federal Court ruling against his bid to sue Nine newspapers over allegations about war crimes.",
+          "feed_position": 3
+        }
+      ],
+      "popularity_score": 317.3732125,
+      "ai_summary": [
+        "The High Court rejected Ben Roberts-Smith's application for special leave.",
+        "He sought to challenge the Federal Court ruling against him.",
+        "The ruling concerned his defamation case against Nine newspapers.",
+        "The case involved allegations about war crimes.",
+        "Roberts-Smith's legal bid to overturn the ruling failed."
+      ]
+    },
+    {
+      "id": "cluster_62",
+      "coverage": 1,
+      "updated_at": "Thu, 04 Sep 2025 01:38:55 +0000",
+      "title": "Robodebt victims to get further $475m compensation after class action settled",
+      "neutral_headline": "Robodebt Victims to Receive Further Compensation of $475 Million",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-09-04/robodebt-victims-get-compensation-from-class-action/105734030",
+          "published_at": "Thu, 04 Sep 2025 01:38:55 +0000",
+          "title": "Robodebt victims to get further $475m compensation after class action settled",
+          "standfirst": "Attorney-General Michelle Rowland says the payout will be the largest class action settlement in Australian history, saying it is \"just and fair\" to compensate victims of the unlawful debt recovery scheme.",
+          "content": "Attorney-General Michelle Rowland says the payout will be the largest class action settlement in Australian history, saying it is \"just and fair\" to compensate victims of the unlawful debt recovery scheme.",
           "feed_position": 4
         }
       ],
-      "popularity_score": 317.99999972222224,
+      "popularity_score": 303.46876805555553,
       "ai_summary": [
-        "This cluster is about investigations.",
-        "The source is ABC News Australia.",
-        "The content is categorized as investigations.",
-        "The news is from Australia.",
-        "The cluster is about investigative journalism."
+        "Victims of the Robodebt scheme will receive additional compensation.",
+        "The payout totals $475 million after a class action settlement.",
+        "Attorney-General Michelle Rowland announced the settlement.",
+        "She described the settlement as \"just and fair\" for victims.",
+        "The Robodebt scheme was deemed unlawful by the government."
       ]
     },
     {
-      "id": "cluster_5",
+      "id": "cluster_39",
       "coverage": 1,
-      "updated_at": "2025-09-04T07:12:43.337Z",
-      "title": "Relationships & Family",
-      "neutral_headline": "ABC News Australia: Relationships and Family News",
+      "updated_at": "Thu, 04 Sep 2025 07:11:43 +0000",
+      "title": "Student, John Doe, victim. Andika died protesting, leaving many wanting answers",
+      "neutral_headline": "Indonesian Protester Andika Dies Amidst Protests",
       "bullet_summary": [
-        "Reported by ABC News Australia (Popular)"
+        "Reported by ABC News Australia"
       ],
       "items": [
         {
-          "source": "ABC News Australia (Popular)",
-          "url": "https://www.abc.net.au/news/lifestyle#anchor-102961870",
-          "published_at": "2025-09-04T07:12:43.337Z",
-          "title": "Relationships & Family",
-          "standfirst": "",
-          "content": "",
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-09-04/high-school-student-dies-after-attending-protest-in-jakarta/105734238",
+          "published_at": "Thu, 04 Sep 2025 07:11:43 +0000",
+          "title": "Student, John Doe, victim. Andika died protesting, leaving many wanting answers",
+          "standfirst": "One group claims 16-year-old Andika died after being assaulted by police at one of the protests that have erupted across Indonesia.",
+          "content": "One group claims 16-year-old Andika died after being assaulted by police at one of the protests that have erupted across Indonesia.",
           "feed_position": 5
         }
       ],
-      "popularity_score": 299.99999972222224,
+      "popularity_score": 299.0154347222222,
       "ai_summary": [
-        "This cluster is about relationships and family.",
-        "The source is ABC News Australia.",
-        "The content is categorized as relationships and family.",
-        "The news is from Australia.",
-        "The cluster is about relationships and family."
+        "A 16-year-old, Andika, died during protests in Indonesia.",
+        "One group claims police assaulted Andika.",
+        "Protests have erupted across Indonesia.",
+        "The circumstances surrounding Andika's death are under scrutiny.",
+        "Many are seeking answers regarding the incident."
+      ]
+    },
+    {
+      "id": "cluster_25",
+      "coverage": 1,
+      "updated_at": "Thu, 04 Sep 2025 09:12:51 +0000",
+      "title": "Live: Returning Storm star Hughes suffers another injury",
+      "neutral_headline": "Jahrome Hughes Suffers Another Injury Upon Return",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-09-04/nrl-live-updates-broncos-storm-finals/105737242",
+          "published_at": "Thu, 04 Sep 2025 09:12:51 +0000",
+          "title": "Live: Returning Storm star Hughes suffers another injury",
+          "standfirst": "Melbourne's Jahrome Hughes has copped another injury on return from a shoulder problem. Follow live.",
+          "content": "Melbourne's Jahrome Hughes has copped another injury on return from a shoulder problem. Follow live.",
+          "feed_position": 7
+        }
+      ],
+      "popularity_score": 291.0343236111111,
+      "ai_summary": [
+        "Melbourne Storm player Jahrome Hughes sustained another injury.",
+        "The injury occurred after his return from a shoulder problem.",
+        "The specific nature of the new injury was not detailed.",
+        "The news was reported live during a game.",
+        "Hughes's return was short-lived due to the new injury."
+      ]
+    },
+    {
+      "id": "cluster_29",
+      "coverage": 1,
+      "updated_at": "Thu, 04 Sep 2025 08:38:40 +0000",
+      "title": "Surfing's newest world champion receives a hero's welcome in Sydney",
+      "neutral_headline": "Surfing World Champion Receives Hero's Welcome in Sydney",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-09-04/molly-picklum-returns-home-wsl-world-champion/105736834",
+          "published_at": "Thu, 04 Sep 2025 08:38:40 +0000",
+          "title": "Surfing's newest world champion receives a hero's welcome in Sydney",
+          "standfirst": "Australia's newest surfing world champion has returned to a hero's welcome in Sydney, two days after securing her maiden title.",
+          "content": "Australia's newest surfing world champion has returned to a hero's welcome in Sydney, two days after securing her maiden title.",
+          "feed_position": 8
+        }
+      ],
+      "popularity_score": 276.46460138888887,
+      "ai_summary": [
+        "Australia's newest surfing world champion returned to Sydney.",
+        "She received a hero's welcome upon her arrival.",
+        "The champion secured her maiden title.",
+        "The victory occurred two days prior to her return.",
+        "The welcome celebrated her recent achievement."
+      ]
+    },
+    {
+      "id": "cluster_40",
+      "coverage": 1,
+      "updated_at": "Thu, 04 Sep 2025 07:03:19 +0000",
+      "title": "Labor learned how 35 minutes can make all the difference in Canberra",
+      "neutral_headline": "Labor's Performance in Canberra Examined",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-09-04/labor-aged-care-david-pocock-anthony-albanese-sam-rae/105720440",
+          "published_at": "Thu, 04 Sep 2025 07:03:19 +0000",
+          "title": "Labor learned how 35 minutes can make all the difference in Canberra",
+          "standfirst": "As Labor came under fire over aged care and a hazy Nauru deal, the Coalition almost had its first good week in Parliament in a while.",
+          "content": "As Labor came under fire over aged care and a hazy Nauru deal, the Coalition almost had its first good week in Parliament in a while.",
+          "feed_position": 9
+        }
+      ],
+      "popularity_score": 258.8754347222222,
+      "ai_summary": [
+        "Labor faced scrutiny over aged care and a Nauru deal.",
+        "The Coalition had a brief period of positive momentum.",
+        "The report focused on the impact of 35 minutes.",
+        "The analysis examined the political dynamics in Canberra.",
+        "The Coalition's positive week was a rare occurrence."
+      ]
+    },
+    {
+      "id": "cluster_35",
+      "coverage": 1,
+      "updated_at": "Thu, 04 Sep 2025 07:56:56 +0000",
+      "title": "Baby killer Keli Lane sues NSW government over prison sexual abuse scandal",
+      "neutral_headline": "Keli Lane Sues NSW Government Over Prison Abuse",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-09-04/keli-lane-sues-nsw-over-wayne-astill-prison-sex-abuse-scandal/105734338",
+          "published_at": "Thu, 04 Sep 2025 07:56:56 +0000",
+          "title": "Baby killer Keli Lane sues NSW government over prison sexual abuse scandal",
+          "standfirst": "Convicted baby killer Keli Lane is suing the NSW government for $2 million, alleging it failed in its duty of care to protect her from serious harm at the hands of several prison officers, including serial sex abuser Wayne Astill.",
+          "content": "Convicted baby killer Keli Lane is suing the NSW government for $2 million, alleging it failed in its duty of care to protect her from serious harm at the hands of several prison officers, including serial sex abuser Wayne Astill.",
+          "feed_position": 14
+        }
+      ],
+      "popularity_score": 161.76904583333334,
+      "ai_summary": [
+        "Keli Lane is suing the NSW government.",
+        "She alleges failure to protect her from harm.",
+        "The lawsuit seeks $2 million in damages.",
+        "Lane claims abuse by prison officers, including Wayne Astill.",
+        "Lane is a convicted baby killer."
+      ]
+    },
+    {
+      "id": "cluster_42",
+      "coverage": 1,
+      "updated_at": "Thu, 04 Sep 2025 06:39:07 +0000",
+      "title": "Hatred must be fought 'where we live our lives', says antisemitism envoy",
+      "neutral_headline": "Antisemitism Envoy Addresses Australian Mayors Summit",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-09-04/antisemitism-summit-told-councils-frontline-fight-against-hatred/105730798",
+          "published_at": "Thu, 04 Sep 2025 06:39:07 +0000",
+          "title": "Hatred must be fought 'where we live our lives', says antisemitism envoy",
+          "standfirst": "Special envoy Jillian Segal tells an Australian mayors summit that local government is responsible for combating antisemitism.",
+          "content": "Special envoy Jillian Segal tells an Australian mayors summit that local government is responsible for combating antisemitism.",
+          "feed_position": 13
+        }
+      ],
+      "popularity_score": 158.4721013888889,
+      "ai_summary": [
+        "Jillian Segal addressed an Australian mayors summit.",
+        "She is the special envoy on antisemitism.",
+        "Segal stated local government's responsibility.",
+        "She emphasized combating antisemitism.",
+        "The summit focused on local government's role."
+      ]
+    },
+    {
+      "id": "cluster_27",
+      "coverage": 1,
+      "updated_at": "Thu, 04 Sep 2025 09:00:00 +0000",
+      "title": "'I love that diva': Why Yve wants to bring Shakespeare to a new generation",
+      "neutral_headline": "Yve Aims to Bring Shakespeare to a New Generation",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-09-04/bell-shakespeare-2026-season-mackenzie-yve-blake-julius-caesar/105729320",
+          "published_at": "Thu, 04 Sep 2025 09:00:00 +0000",
+          "title": "'I love that diva': Why Yve wants to bring Shakespeare to a new generation",
+          "standfirst": "The mid-00s was the age of fallen kids TV stars like Lindsay Lohan and Amanda Bynes. It's now the setting of a riff on Shakespeare's Macbeth.",
+          "content": "The mid-00s was the age of fallen kids TV stars like Lindsay Lohan and Amanda Bynes. It's now the setting of a riff on Shakespeare's Macbeth.",
+          "feed_position": 15
+        }
+      ],
+      "popularity_score": 150.82015694444445,
+      "ai_summary": [
+        "Yve is adapting Shakespeare's Macbeth.",
+        "The adaptation is set in the mid-2000s.",
+        "The setting includes fallen child TV stars.",
+        "The project aims to engage a new audience.",
+        "The play is a riff on the original Macbeth."
+      ]
+    },
+    {
+      "id": "cluster_31",
+      "coverage": 1,
+      "updated_at": "Thu, 04 Sep 2025 08:21:22 +0000",
+      "title": "Qld police officer charged with possessing child exploitation material",
+      "neutral_headline": "Queensland Police Officer Charged with Child Exploitation",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-09-04/qld-police-officer-child-exploitation-material-sandgate-court/105737040",
+          "published_at": "Thu, 04 Sep 2025 08:21:22 +0000",
+          "title": "Qld police officer charged with possessing child exploitation material",
+          "standfirst": "The 40-year-old sergeant will appear in Sandgate Magistrates Court next week.",
+          "content": "The 40-year-old sergeant will appear in Sandgate Magistrates Court next week.",
+          "feed_position": 20
+        }
+      ],
+      "popularity_score": 150.17626805555557,
+      "ai_summary": [
+        "A Queensland police officer has been charged.",
+        "The officer is accused of possessing child exploitation material.",
+        "The officer is a 40-year-old sergeant.",
+        "The officer will appear in court next week.",
+        "The court is the Sandgate Magistrates Court."
+      ]
+    },
+    {
+      "id": "cluster_32",
+      "coverage": 1,
+      "updated_at": "Thu, 04 Sep 2025 08:19:43 +0000",
+      "title": "Former principal faces trial for allegedly assaulting schoolchildren",
+      "neutral_headline": "Former Principal Faces Trial for Alleged Assaults",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-09-04/trial-of-former-alice-springs-principal-gavin-morris-begins/105720050",
+          "published_at": "Thu, 04 Sep 2025 08:19:43 +0000",
+          "title": "Former principal faces trial for allegedly assaulting schoolchildren",
+          "standfirst": "Gavin Morris, the former principal of an independent school for Indigenous children in Alice Springs, is facing trial for allegedly physically assaulting five children. He has pleaded not guilty to all charges.",
+          "content": "Gavin Morris, the former principal of an independent school for Indigenous children in Alice Springs, is facing trial for allegedly physically assaulting five children. He has pleaded not guilty to all charges.",
+          "feed_position": 23
+        }
+      ],
+      "popularity_score": 150.14876805555556,
+      "ai_summary": [
+        "Gavin Morris is facing trial.",
+        "He is the former principal of an Indigenous school.",
+        "Morris is accused of assaulting schoolchildren.",
+        "He allegedly physically assaulted five children.",
+        "Morris has pleaded not guilty to all charges."
+      ]
+    },
+    {
+      "id": "cluster_36",
+      "coverage": 1,
+      "updated_at": "Thu, 04 Sep 2025 07:56:49 +0000",
+      "title": "Labor aged care reforms 'meaningful' but shy of royal commission vision, says watchdog",
+      "neutral_headline": "Aged Care Reforms Fall Short of Royal Commission Vision",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-09-04/labor-aged-care-reforms-meaningful-but-fall-short-watchdog/105736880",
+          "published_at": "Thu, 04 Sep 2025 07:56:49 +0000",
+          "title": "Labor aged care reforms 'meaningful' but shy of royal commission vision, says watchdog",
+          "standfirst": "The Inspector-General of aged care handed down her assessment of the government's implementation of the Aged Care Royal Commission recommendations in May, but they were tabled in parliament this week.",
+          "content": "The Inspector-General of aged care handed down her assessment of the government's implementation of the Aged Care Royal Commission recommendations in May, but they were tabled in parliament this week.",
+          "feed_position": 11
+        }
+      ],
+      "popularity_score": 149.76710138888888,
+      "ai_summary": [
+        "The Inspector-General assessed aged care reforms.",
+        "The reforms are considered \"meaningful\" but limited.",
+        "The assessment followed the Royal Commission.",
+        "The report was tabled in parliament this week.",
+        "The government implemented recommendations in May."
+      ]
+    },
+    {
+      "id": "cluster_43",
+      "coverage": 1,
+      "updated_at": "Thu, 04 Sep 2025 06:01:10 +0000",
+      "title": "16yo girl critically injured in dog attack at NSW home",
+      "neutral_headline": "Sixteen-Year-Old Injured in Dog Attack in New South Wales",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-09-04/teen-girl-critical-condition-hunter-valley-dog-attack/105736248",
+          "published_at": "Thu, 04 Sep 2025 06:01:10 +0000",
+          "title": "16yo girl critically injured in dog attack at NSW home",
+          "standfirst": "The 16-year-old suffered injuries to her head, neck and body and was rushed to hospital. Police destroyed the animal involved and an investigation is underway.",
+          "content": "The 16-year-old suffered injuries to her head, neck and body and was rushed to hospital. Police destroyed the animal involved and an investigation is underway.",
+          "feed_position": 12
+        }
+      ],
+      "popularity_score": 147.8396013888889,
+      "ai_summary": [
+        "A 16-year-old girl was critically injured.",
+        "The injury resulted from a dog attack.",
+        "The attack occurred at a home in New South Wales.",
+        "The girl suffered injuries to her head, neck, and body.",
+        "Police destroyed the dog involved in the attack."
+      ]
+    },
+    {
+      "id": "cluster_47",
+      "coverage": 1,
+      "updated_at": "Thu, 04 Sep 2025 05:29:24 +0000",
+      "title": "Publisher to change Virginia Giuffre's posthumous memoir after family concerns",
+      "neutral_headline": "Publisher to Change Giuffre Memoir After Family Concerns",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-09-04/publisher-to-change-epstein-survivor-virginia-giuffres-memoir/105734662",
+          "published_at": "Thu, 04 Sep 2025 05:29:24 +0000",
+          "title": "Publisher to change Virginia Giuffre's posthumous memoir after family concerns",
+          "standfirst": "The publisher says it has worked with Ms Giuffre family \"to contextualise the narrative\" of her memoir, which details allegations she was trafficked for sex by Jeffrey Epstein.",
+          "content": "The publisher says it has worked with Ms Giuffre family \"to contextualise the narrative\" of her memoir, which details allegations she was trafficked for sex by Jeffrey Epstein.",
+          "feed_position": 19
+        }
+      ],
+      "popularity_score": 147.31015694444443,
+      "ai_summary": [
+        "A publisher will alter Virginia Giuffre's memoir.",
+        "The changes follow concerns from her family.",
+        "The memoir details allegations against Jeffrey Epstein.",
+        "The publisher is working to contextualize the narrative.",
+        "The memoir will be published posthumously."
+      ]
+    },
+    {
+      "id": "cluster_48",
+      "coverage": 1,
+      "updated_at": "Thu, 04 Sep 2025 05:20:38 +0000",
+      "title": "Meet the women hitting the road and travelling the country solo",
+      "neutral_headline": "Women Embrace Solo Travel and Van Life",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-09-04/women-taking-on-solo-van-life/105625140",
+          "published_at": "Thu, 04 Sep 2025 05:20:38 +0000",
+          "title": "Meet the women hitting the road and travelling the country solo",
+          "standfirst": "There is a growing cohort of women taking up van life, breaking stereotypes by travelling solo and finding community along the way.",
+          "content": "There is a growing cohort of women taking up van life, breaking stereotypes by travelling solo and finding community along the way.",
+          "feed_position": 17
+        }
+      ],
+      "popularity_score": 147.16404583333332,
+      "ai_summary": [
+        "A growing number of women are traveling solo.",
+        "They are embracing van life as a lifestyle.",
+        "They are breaking stereotypes through travel.",
+        "They are finding community on the road.",
+        "The trend involves women traveling the country."
+      ]
+    },
+    {
+      "id": "cluster_59",
+      "coverage": 1,
+      "updated_at": "Thu, 04 Sep 2025 01:48:31 +0000",
+      "title": "Michael Charlton, first host of Four Corners, dies aged 98",
+      "neutral_headline": "Michael Charlton, First Host of Four Corners, Dies at 98",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-09-04/michael-charlton-dies-aged-98/105733862",
+          "published_at": "Thu, 04 Sep 2025 01:48:31 +0000",
+          "title": "Michael Charlton, first host of Four Corners, dies aged 98",
+          "standfirst": "Michael Charlton, the inaugural host of the ABC's Four Corners program and Gold Logie Award winner, has died aged 98.",
+          "content": "Michael Charlton, the inaugural host of the ABC's Four Corners program and Gold Logie Award winner, has died aged 98.",
+          "feed_position": 21
+        }
+      ],
+      "popularity_score": 143.62876805555555,
+      "ai_summary": [
+        "Michael Charlton, the inaugural host of Four Corners, has passed away at the age of ninety-eight.",
+        "He was also a Gold Logie Award winner for his contributions to Australian television.",
+        "Charlton's career included a significant role in shaping the early years of the program.",
+        "His work helped establish Four Corners as a prominent investigative journalism platform.",
+        "Charlton's legacy includes his impact on Australian media and journalism."
+      ]
+    },
+    {
+      "id": "cluster_50",
+      "coverage": 1,
+      "updated_at": "Thu, 04 Sep 2025 04:09:45 +0000",
+      "title": "What is a funicular railway? How does it work?",
+      "neutral_headline": "Funicular Railways: How They Operate on Steep Slopes",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-09-04/at-what-is-a-funicular-railway-crash-portugal-lisbon/105733474",
+          "published_at": "Thu, 04 Sep 2025 04:09:45 +0000",
+          "title": "What is a funicular railway? How does it work?",
+          "standfirst": "Funiculars like the Elevador da Glória are specifically designed to travel up and down a steep slope — and that novelty factor makes them popular with tourists.",
+          "content": "Funiculars like the Elevador da Glória are specifically designed to travel up and down a steep slope — and that novelty factor makes them popular with tourists.",
+          "feed_position": 22
+        }
+      ],
+      "popularity_score": 142.98265694444444,
+      "ai_summary": [
+        "Funicular railways are specifically designed to travel up and down steep inclines.",
+        "They are a popular mode of transport, especially in areas with significant elevation changes.",
+        "The Elevador da Glória is an example of a funicular railway.",
+        "Funiculars are often favored by tourists due to their unique operational design.",
+        "Their novelty factor contributes to their popularity as a tourist attraction."
+      ]
+    },
+    {
+      "id": "cluster_64",
+      "coverage": 1,
+      "updated_at": "Thu, 04 Sep 2025 00:33:21 +0000",
+      "title": "How Kathleen Folbigg survived 20 years wrongfully imprisoned",
+      "neutral_headline": "Kathleen Folbigg Adjusting to Life After Wrongful Imprisonment",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-09-04/kathleen-folbigg-wrongful-conviction-tracy-chapman-advocate/105678314",
+          "published_at": "Thu, 04 Sep 2025 00:33:21 +0000",
+          "title": "How Kathleen Folbigg survived 20 years wrongfully imprisoned",
+          "standfirst": "After being exonerated for the deaths of her four infant children, Kathleen Folbigg is adjusting to life after 20 years wrongfully imprisoned — thanks to the enduring support of her lifelong friend and biggest advocate, Tracy Chapman.",
+          "content": "After being exonerated for the deaths of her four infant children, Kathleen Folbigg is adjusting to life after 20 years wrongfully imprisoned — thanks to the enduring support of her lifelong friend and biggest advocate, Tracy Chapman.",
+          "feed_position": 10
+        }
+      ],
+      "popularity_score": 142.3759902777778,
+      "ai_summary": [
+        "Kathleen Folbigg was exonerated after twenty years of wrongful imprisonment.",
+        "She was convicted for the deaths of her four infant children.",
+        "Folbigg is now adjusting to life outside of prison.",
+        "She is receiving support from her lifelong friend, Tracy Chapman.",
+        "Chapman has been her biggest advocate throughout the ordeal."
+      ]
+    },
+    {
+      "id": "cluster_54",
+      "coverage": 1,
+      "updated_at": "Thu, 04 Sep 2025 02:36:49 +0000",
+      "title": "Young man dies on Snowy Mountains ski slope",
+      "neutral_headline": "Young Man Dies on Snowy Mountains Ski Slope in Australia",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-09-04/skier-dies-at-thredbo-resort-nsw-snowy-mountains/105733634",
+          "published_at": "Thu, 04 Sep 2025 02:36:49 +0000",
+          "title": "Young man dies on Snowy Mountains ski slope",
+          "standfirst": "The 22-year-old's death at Thredbo comes weeks after a snowboarder died at Perisher.",
+          "content": "The 22-year-old's death at Thredbo comes weeks after a snowboarder died at Perisher.",
+          "feed_position": 18
+        }
+      ],
+      "popularity_score": 141.43376805555556,
+      "ai_summary": [
+        "A twenty-two-year-old man died on a ski slope in the Snowy Mountains.",
+        "The incident occurred at Thredbo ski resort in Australia.",
+        "This death follows another recent death of a snowboarder at Perisher.",
+        "The circumstances surrounding the death are currently under investigation.",
+        "Authorities are reviewing safety protocols at the ski resorts."
+      ]
+    },
+    {
+      "id": "cluster_70",
+      "coverage": 1,
+      "updated_at": "Wed, 03 Sep 2025 23:04:57 +0000",
+      "title": "Amid fresh revelations, here are the key events in the Epstein saga",
+      "neutral_headline": "Epstein Saga: Key Events Amid Fresh Revelations",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-09-04/jeffrey-epstein-sex-abuse-case-timeline/105586018",
+          "published_at": "Wed, 03 Sep 2025 23:04:57 +0000",
+          "title": "Amid fresh revelations, here are the key events in the Epstein saga",
+          "standfirst": "Interest in the 20-year-old case has exploded in recent months even as US President Donald Trump urged the public to move on from what he deems a \"pretty boring\" saga.",
+          "content": "Interest in the 20-year-old case has exploded in recent months even as US President Donald Trump urged the public to move on from what he deems a \"pretty boring\" saga.",
+          "feed_position": 16
+        }
+      ],
+      "popularity_score": 140.90265694444446,
+      "ai_summary": [
+        "Interest in the Epstein case has surged in recent months.",
+        "The case involves allegations of sex trafficking and abuse.",
+        "Former US President Donald Trump urged the public to move on.",
+        "Trump described the saga as \"pretty boring\" in his statements.",
+        "The case continues to generate significant media attention."
+      ]
+    },
+    {
+      "id": "cluster_81",
+      "coverage": 1,
+      "updated_at": "Wed, 03 Sep 2025 18:41:44 +0000",
+      "title": "'Untenable' Chinese embassy concert in Parliament House stopped by officials",
+      "neutral_headline": "Chinese Embassy Concert in Parliament House Blocked by Officials",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-09-04/chinese-embassy-concert-in-parliament-house-blocked-by-officials/105732664",
+          "published_at": "Wed, 03 Sep 2025 18:41:44 +0000",
+          "title": "'Untenable' Chinese embassy concert in Parliament House stopped by officials",
+          "standfirst": "The concert was set to take place in the Great Hall of Parliament House and celebrate Japan's defeat in World War II, but it was blocked by Australian officials, sparking a diplomatic blame game.",
+          "content": "The concert was set to take place in the Great Hall of Parliament House and celebrate Japan's defeat in World War II, but it was blocked by Australian officials, sparking a diplomatic blame game.",
+          "feed_position": 24
+        }
+      ],
+      "popularity_score": 136.5157125,
+      "ai_summary": [
+        "A concert planned by the Chinese embassy was blocked by Australian officials.",
+        "The concert was scheduled to take place in Parliament House's Great Hall.",
+        "The event was intended to celebrate Japan's defeat in World War II.",
+        "The cancellation has sparked a diplomatic blame game between nations.",
+        "Australian officials cited concerns over the concert's nature."
       ]
     }
   ]
