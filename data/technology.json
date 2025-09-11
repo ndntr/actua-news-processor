@@ -1,8 +1,60 @@
 {
-  "updated_at": "2025-09-11T03:28:42.115Z",
+  "updated_at": "2025-09-11T07:13:19.925Z",
   "clusters": [
     {
-      "id": "cluster_2",
+      "id": "cluster_6",
+      "coverage": 2,
+      "updated_at": "2025-09-10T20:41:20-04:00",
+      "title": "Charlie Kirk fatally shot at Turning Point USA event in Utah",
+      "neutral_headline": "Turning Point USA Co-founder Charlie Kirk Dies After Shooting",
+      "bullet_summary": [
+        "Deseret News had earlier reported Kirk’s death, according to Utah House [&#8230;]",
+        "Turning Point USA cofounder Charlie Kirk died after he was shot at an event at Utah Valley University on Wednesday",
+        "Turning Point USA cofounder Charlie Kirk was shot at an event at Utah Valley University on Wednesday"
+      ],
+      "items": [
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/news/776079/charlie-kirk-shooting",
+          "published_at": "2025-09-10T20:41:20-04:00",
+          "title": "Charlie Kirk fatally shot at Turning Point USA event in Utah",
+          "standfirst": "Charlie Kirk, the influencer and activist who co-founded right-wing group Turning Point USA, has died at the age of 31 after being shot while speaking at an event at Utah Valley University, according to his spokesperson Andrew Kolvet, speaking to the New York Times. Deseret News had earlier reported Kirk’s death, according to Utah House [&#8230;]",
+          "content": "Charlie Kirk, the influencer and activist who co-founded right-wing group Turning Point USA, has died at the age of 31 after being shot while speaking at an event at Utah Valley University, according to his spokesperson Andrew Kolvet, speaking to the New York Times. Deseret News had earlier reported Kirk’s death, according to Utah House Speaker Mike Schultz, and President Donald Trump said Kirk is dead in a post on Truth Social at 4:40PM ET. At a press conference on Wednesday afternoon, Utah Governor Spencer Cox said that “we have a person of interest in custody,” minutes after FBI Director Kash Patel tweeted an announcement that “The subject for the horrific shooting today that took the life of Charlie Kirk is now in custody.” Just before 8PM ET, Kash tweeted again, saying, “The subject in custody has been released after an interrogation by law enforcement. Our investigation continues and we will continue to release information in interest of transparency.” Following the shooting, videos on social media seemed to show the arrest of an alleged suspect. Utah Valley University initially said that a suspect was in custody, but Deseret News reported that, according to officials, the status of the shooter is unclear. A spokesperson has also told the New York Times that a person taken into custody after the shooting was not actually the shooter. According to media reports, he appeared to have been hit in the neck. A spokesperson for the university, Ellen Treanor, said in a statement that “shots were fired from a building about 200 yards from the speaker.” The school later said its campus will be closed through Sunday, September 14th. Utah Valley University: On behalf of Utah Valley University, we are shocked and saddened by the tragic passing of Charlie Kirk, a guest to our campus. Our hearts go out to his family. As we grieve with our students, faculty, and staff who bore witness to this unspeakable tragedy, UVU campuses will be closed from September 11-14. At the time of the shooting, Kirk was speaking at the first event of a scheduled 15-stop American Comeback Tour, and seated at a “Prove Me Wrong Table” taking questions from the crowd, according to the New York Times. Update, September 10th: Added the latest information about a person of interest who was interrogated and released.",
+          "feed_position": 0
+        },
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/charlie-kirk-obituary/",
+          "published_at": "Wed, 10 Sep 2025 22:43:50 +0000",
+          "title": "Right-Wing Activist Charlie Kirk Dead at 31",
+          "standfirst": "Turning Point USA cofounder Charlie Kirk died after he was shot at an event at Utah Valley University on Wednesday.",
+          "content": "Turning Point USA cofounder Charlie Kirk died after he was shot at an event at Utah Valley University on Wednesday.",
+          "feed_position": 4,
+          "image_url": "https://media.wired.com/photos/68c1e45483d0235082729e40/master/pass/pol_charliekirkobituary_AP.jpg"
+        },
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/charlie-kirk-shot-at-utah-valley-university-event/",
+          "published_at": "Wed, 10 Sep 2025 19:13:36 +0000",
+          "title": "Charlie Kirk Is Dead After Utah Valley University Shooting",
+          "standfirst": "Turning Point USA cofounder Charlie Kirk was shot at an event at Utah Valley University on Wednesday. He later died from his injuries.",
+          "content": "Turning Point USA cofounder Charlie Kirk was shot at an event at Utah Valley University on Wednesday. He later died from his injuries.",
+          "feed_position": 5,
+          "image_url": "https://media.wired.com/photos/68c1c9ef0cd995f77b0b5338/master/pass/AP24250007167949.jpg"
+        }
+      ],
+      "featured_image": "https://media.wired.com/photos/68c1e45483d0235082729e40/master/pass/pol_charliekirkobituary_AP.jpg",
+      "popularity_score": 2013.4666875,
+      "ai_summary": [
+        "Charlie Kirk died after being shot at Utah Valley University.",
+        "Kirk was the co-founder of the right-wing group Turning Point USA.",
+        "The shooting occurred during an event at the university.",
+        "Kirk was an influencer and activist.",
+        "He was 31 years old at the time of his death."
+      ]
+    },
+    {
+      "id": "cluster_9",
       "coverage": 2,
       "updated_at": "2025-09-10T19:01:10-04:00",
       "title": "OpenAI reportedly signs $300 billion Project Stargate cloud deal with Oracle",
@@ -28,53 +80,24 @@
           "title": "OpenAI and Oracle reportedly ink historic cloud computing deal",
           "standfirst": "OpenAI and Oracle reportedly signed a deal that includes OpenAI buying $300 billion of compute over a five-year span.",
           "content": "OpenAI and Oracle reportedly signed a deal that includes OpenAI buying $300 billion of compute over a five-year span.",
-          "feed_position": 4
+          "feed_position": 6
         }
       ],
-      "popularity_score": 2015.5410791666666,
+      "popularity_score": 2011.7972430555556,
       "ai_summary": [
-        "OpenAI and Oracle reportedly agreed on a $300 billion cloud computing deal.",
-        "The deal involves OpenAI purchasing computing power over five years.",
-        "This agreement is one of the largest cloud computing deals ever recorded.",
-        "The companies previously announced a partnership for data center construction.",
-        "The data centers will require 4.5 gigawatts of power for operation."
+        "OpenAI and Oracle signed a deal for $300 billion in computing power.",
+        "The deal spans approximately five years.",
+        "It is one of the largest cloud computing deals ever.",
+        "The companies are building data centers for the Stargate project.",
+        "The data centers will have a power capacity of 4.5 gigawatts."
       ]
     },
     {
-      "id": "cluster_0",
+      "id": "cluster_13",
       "coverage": 1,
-      "updated_at": "2025-09-11T03:28:42.113Z",
-      "title": "Spotify peeved after 10,000 users sold data to build AI tools",
-      "neutral_headline": "Spotify Data Sold to AI Developers, Affecting Thousands",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2025/09/spotify-peeved-after-10000-users-sold-data-to-build-ai-tools/",
-          "published_at": "2025-09-11T03:28:42.113Z",
-          "title": "Spotify peeved after 10,000 users sold data to build AI tools",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 0
-        }
-      ],
-      "popularity_score": 373.9999994444444,
-      "ai_summary": [
-        "Spotify is reportedly upset about user data being sold.",
-        "Approximately 10,000 users' data was sold to build AI tools.",
-        "The sale of data raises concerns about user privacy.",
-        "The incident highlights potential misuse of user information.",
-        "Spotify has not released a public statement regarding the issue."
-      ]
-    },
-    {
-      "id": "cluster_2",
-      "coverage": 1,
-      "updated_at": "2025-09-11T03:28:42.113Z",
+      "updated_at": "Wed, 10 Sep 2025 21:28:43 +0000",
       "title": "Court rejects Verizon claim that selling location data without consent is legal",
-      "neutral_headline": "Court Rules Against Verizon Regarding Location Data Sales",
+      "neutral_headline": "Court Rejects Verizon's Claim on Location Data Sales",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -82,28 +105,30 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/",
-          "published_at": "2025-09-11T03:28:42.113Z",
+          "published_at": "Wed, 10 Sep 2025 21:28:43 +0000",
           "title": "Court rejects Verizon claim that selling location data without consent is legal",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 2
+          "standfirst": "Verizon and T-Mobile lost but AT&#038;T beat the FCC. SCOTUS may have to step in.",
+          "content": "Verizon lost an attempt to overturn a $46.9 million fine for selling customer location data without its users' consent. The US Court of Appeals for the 2nd Circuit rejected Verizon's challenge in a ruling issued today. The Federal Communications Commission fined the three major carriers last year for violations revealed in 2018. The companies sued the FCC in three different courts, with varying results. AT&T beat the FCC in the reliably conservative US Court of Appeals for the 5th Circuit, while T-Mobile lost in the District of Columbia Circuit. Although FCC Chairman Brendan Carr voted against the fine last year, when the commission had a Democratic majority, his FCC urged the courts to uphold the Biden-era decisions.Read full article Comments",
+          "feed_position": 1,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/verizon-1152x648-1752087139.jpg"
         }
       ],
-      "popularity_score": 347.9999994444444,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/verizon-1152x648-1752087139.jpg",
+      "popularity_score": 348.2564097222222,
       "ai_summary": [
-        "A court rejected Verizon's claim about selling location data.",
-        "Verizon argued selling data without consent was legal.",
-        "The court's decision impacts data privacy practices.",
-        "The ruling sets a precedent for data protection.",
-        "The case involved the unauthorized sale of user location information."
+        "Verizon lost a court case regarding selling location data.",
+        "T-Mobile also lost the case against the FCC.",
+        "AT&T won the case against the FCC.",
+        "The Supreme Court may need to intervene.",
+        "The case concerns the legality of selling user data."
       ]
     },
     {
-      "id": "cluster_1",
+      "id": "cluster_5",
       "coverage": 1,
-      "updated_at": "2025-09-11T03:28:42.113Z",
+      "updated_at": "Thu, 11 Sep 2025 02:01:11 +0000",
       "title": "Pentagon begins deploying new satellite network to link sensors with shooters",
-      "neutral_headline": "Pentagon Deploys New Satellite Network for Sensor Integration",
+      "neutral_headline": "Pentagon Deploys New Satellite Network for Warfare",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -111,26 +136,28 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/space/2025/09/pentagon-begins-deploying-new-satellite-network-to-link-sensors-with-shooters/",
-          "published_at": "2025-09-11T03:28:42.113Z",
+          "published_at": "Thu, 11 Sep 2025 02:01:11 +0000",
           "title": "Pentagon begins deploying new satellite network to link sensors with shooters",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 1
+          "standfirst": "\"This is the first time we'll have a space layer fully integrated into our warfighting operations.\"",
+          "content": "The first 21 satellites in a constellation that could become a cornerstone for the Pentagon's Golden Dome missile defense shield successfully launched from California Wednesday aboard a SpaceX Falcon 9 rocket. The Falcon 9 took off from Vandenberg Space Force Base, California, at 7:12 am PDT (10:12 am EDT; 14:12 UTC) and headed south over the Pacific Ocean, heading for an orbit over the poles before releasing the 21 military-owned satellites to begin several weeks of activations and checkouts. These 21 satellites will boost themselves to a final orbit at an altitude of roughly 600 miles (1,000 kilometers). The Pentagon plans to launch 133 more satellites over the next nine months to complete the build-out of the Space Development Agency's first-generation, or Tranche 1, constellation of missile tracking and data relay satellites.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/f9tranche1-1-1152x648-1757536238.jpg"
         }
       ],
-      "popularity_score": 342.9999994444444,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/f9tranche1-1-1152x648-1757536238.jpg",
+      "popularity_score": 347.79752083333335,
       "ai_summary": [
         "The Pentagon is deploying a new satellite network.",
-        "The network aims to link sensors with shooters.",
-        "This system enhances military operational capabilities.",
-        "The deployment is part of a broader defense strategy.",
-        "The network will improve data sharing and targeting."
+        "The network will link sensors with shooters.",
+        "It is the first time space is fully integrated into operations.",
+        "The network is designed for warfighting purposes.",
+        "The network is a space layer."
       ]
     },
     {
-      "id": "cluster_3",
+      "id": "cluster_15",
       "coverage": 1,
-      "updated_at": "2025-09-11T03:28:42.113Z",
+      "updated_at": "Wed, 10 Sep 2025 21:16:51 +0000",
       "title": "After Ukrainian testing, drone detection radar doubles range with simple software patch",
       "neutral_headline": "Drone Detection Radar Range Doubles with Software Patch",
       "bullet_summary": [
@@ -140,28 +167,30 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/culture/2025/09/after-ukrainian-testing-drone-detection-radar-doubles-range-with-simple-software-patch/",
-          "published_at": "2025-09-11T03:28:42.113Z",
+          "published_at": "Wed, 10 Sep 2025 21:16:51 +0000",
           "title": "After Ukrainian testing, drone detection radar doubles range with simple software patch",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 3
+          "standfirst": "Even mobile radars are now software upgradeable.",
+          "content": "As part of its unprovoked invasion, Russia has been firing massed waves of drones and missiles into Ukraine for years, though the tempo has been raised dramatically in recent months. Barrages of 700-plus drones now regularly attack Ukraine during overnight raids. Russia also appears to have upped the ante dramatically by sending at least 19 drones into Poland last night, some of which were shot down by NATO forces. Many of these drones are Shahed/Geran types built with technology imported from Iran, and they have recently gained the ability to fly higher, making shootdowns more difficult. Given the low cost of the drones (estimates suggest they cost a few tens of thousands of dollars apiece, and many are simply decoys without warheads), hitting them with multimillion-dollar missiles from traditional air defense batteries makes little sense and would quickly exhaust missile stocks. So Ukraine has adopted widespread electronic warfare to disrupt control systems and navigation. Drones not forced off their path are fought with mobile anti-aircraft guns, aircraft, and interceptor drones, many launched from mobile fire teams patrolling Ukraine during the night.Read full article Comments",
+          "feed_position": 2,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/Robin-radar.webp"
         }
       ],
-      "popularity_score": 342.9999994444444,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/Robin-radar.webp",
+      "popularity_score": 343.05863194444447,
       "ai_summary": [
-        "Drone detection radar range doubled after a software patch.",
-        "The software update was implemented after Ukrainian testing.",
-        "The patch improved radar performance significantly.",
-        "The upgrade enhances the ability to detect drones.",
-        "The software update is a result of real-world testing."
+        "Drone detection radar range has doubled.",
+        "The increase was achieved through a software patch.",
+        "Even mobile radars are now software upgradeable.",
+        "The software patch is a simple update.",
+        "The testing was conducted in Ukraine."
       ]
     },
     {
-      "id": "cluster_4",
+      "id": "cluster_17",
       "coverage": 1,
-      "updated_at": "2025-09-11T03:28:42.113Z",
+      "updated_at": "Wed, 10 Sep 2025 20:54:20 +0000",
       "title": "HBO Max is “way underpriced,” Warner Bros. Discovery CEO says",
-      "neutral_headline": "HBO Max Is Underpriced, Warner Bros. Discovery CEO States",
+      "neutral_headline": "Warner Bros. Discovery CEO Says HBO Max Is Underpriced",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -169,28 +198,30 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/gadgets/2025/09/hbo-max-is-way-underpriced-warner-bros-discovery-ceo-says/",
-          "published_at": "2025-09-11T03:28:42.113Z",
+          "published_at": "Wed, 10 Sep 2025 20:54:20 +0000",
           "title": "HBO Max is “way underpriced,” Warner Bros. Discovery CEO says",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 4
+          "standfirst": "People used to pay $55 a month for TV, Zaslav recalls.",
+          "content": "Someone might want to tell David Zaslav to read the room. Despite people’s ongoing frustration with the rising prices of streaming services—and just about everything else—the CEO of Warner Bros. Discovery (WBD) thinks that there is reason for HBO Max to charge more. Zaslav shared his sentiments while speaking at the Goldman Sachs Cornucopia + Technology conference today in San Francisco. The Hollywood Reporter quoted Zaslav as saying: The fact that this is quality—and that’s true across our company, motion picture, TV production [and] streaming quality—we all ... think that gives us a chance to raise price. We think we’re way underpriced. Today, HBO Max starts at $10 per month with ads, $17/month for no ads, and $21/month for no ads and premium features (4K streaming, Dolby Atmos, and the ability to stream from more devices simultaneously and perform more downloads). The streaming platform has raised prices twice since launching (as Max) in May 2023. In June 2024, the Standard, ad-free plan went from $16/month to $17/month, and annual subscription fees went up by $20 or $10, depending on the plan. Subscription fees also increased in January 2023.Read full article Comments",
+          "feed_position": 3,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/brian-cox_2-1152x648-1757536210.jpg"
         }
       ],
-      "popularity_score": 312.9999994444444,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/brian-cox_2-1152x648-1757536210.jpg",
+      "popularity_score": 312.6833541666667,
       "ai_summary": [
-        "The CEO of Warner Bros. Discovery believes HBO Max is underpriced.",
-        "The statement suggests potential price increases for the streaming service.",
-        "The CEO's comments reflect on the service's value.",
-        "The company is evaluating its pricing strategy.",
-        "The current pricing model is considered below market value."
+        "The Warner Bros. Discovery CEO made the statement.",
+        "The CEO recalled people paying $55 a month for TV.",
+        "HBO Max is considered to be underpriced.",
+        "The statement was made by David Zaslav.",
+        "The statement concerns the pricing of streaming services."
       ]
     },
     {
-      "id": "cluster_7",
+      "id": "cluster_23",
       "coverage": 1,
-      "updated_at": "2025-09-11T03:28:42.114Z",
+      "updated_at": "Wed, 10 Sep 2025 19:00:41 +0000",
       "title": "One of Google’s new Pixel 10 AI features has already been removed",
-      "neutral_headline": "Google Removes Pixel 10 AI Feature After Launch",
+      "neutral_headline": "Google Removes Pixel 10 AI Feature, Will Return Later",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -198,57 +229,62 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/google/2025/09/google-pulls-daily-hub-ai-feature-from-pixel-10-phones/",
-          "published_at": "2025-09-11T03:28:42.114Z",
+          "published_at": "Wed, 10 Sep 2025 19:00:41 +0000",
           "title": "One of Google’s new Pixel 10 AI features has already been removed",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 7
+          "standfirst": "The Pixel 10 Daily Hub has vanished, but Google says it will come back when it's ready.",
+          "content": "Google is one of the most ardent proponents of generative AI technology, as evidenced by the recent launch of the Pixel 10 series. The phones were announced with more than 20 new AI experiences, according to Google. However, one of them is already being pulled from the company's phones. If you go looking for your Daily Hub, you may be disappointed. Not that disappointed, though, as it has been pulled because it didn't do very much. Many of Google's new AI features only make themselves known in specific circumstances, for example when Magic Cue finds an opportunity to suggest an address or calendar appointment based on your screen context. The Daily Hub, on the other hand, asserted itself multiple times throughout the day. It appeared at the top of the Google Discover feed, as well as in the At a Glance widget right at the top of the home screen. Just a few weeks after release, Google has pulled the Daily Hub preview from Pixel 10 devices. You will no longer see it in Google Discover nor in the home screen widget. After being spotted by 9to5Google, the company has issued a statement explaining its plans.Read full article Comments",
+          "feed_position": 6,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/Daily-Hub-1152x648.jpg"
         }
       ],
-      "popularity_score": 309.99999972222224,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/Daily-Hub-1152x648.jpg",
+      "popularity_score": 307.7891875,
       "ai_summary": [
-        "Google removed one of the new Pixel 10 AI features.",
-        "The feature was removed shortly after its release.",
-        "The reason for removal has not been disclosed.",
-        "The incident impacts the user experience.",
-        "The feature was part of the Pixel 10's AI capabilities."
+        "One of Google's new Pixel 10 AI features has been removed.",
+        "The feature is called the Pixel 10 Daily Hub.",
+        "Google says the feature will return when ready.",
+        "The feature was removed from the Pixel 10.",
+        "Google is working on the feature."
       ]
     },
     {
-      "id": "cluster_5",
+      "id": "cluster_18",
       "coverage": 1,
-      "updated_at": "2025-09-11T03:28:42.114Z",
+      "updated_at": "Wed, 10 Sep 2025 20:35:56 +0000",
       "title": "Ousted CDC director to testify before Senate after RFK Jr. called her a liar",
-      "neutral_headline": "Ousted CDC Director to Testify After Accusations",
+      "neutral_headline": "Ousted CDC Director to Testify Before Senate",
       "bullet_summary": [
+        "Monarez said she was fired for not pre-approving vaccine recommendations from a dubious panel",
         "Reported by Ars Technica"
       ],
       "items": [
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/health/2025/09/ousted-cdc-director-to-testify-before-senate-after-rfk-jr-called-her-a-liar/",
-          "published_at": "2025-09-11T03:28:42.114Z",
+          "published_at": "Wed, 10 Sep 2025 20:35:56 +0000",
           "title": "Ousted CDC director to testify before Senate after RFK Jr. called her a liar",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 5
+          "standfirst": "Monarez said she was fired for not pre-approving vaccine recommendations from a dubious panel.",
+          "content": "Susan Monarez, the former director of the Centers for Disease Control and Prevention who was ousted last month after mere weeks in the role, is set to testify before the Senate next week about what was behind her dramatic downfall, as well as the ongoing chaos at the public health agency under health secretary and anti-vaccine activist Robert F. Kennedy Jr. In a hearing last Thursday before the Senate Finance Committee, a combative Kennedy repeatedly called Monarez a liar and made the incredible claim that he fired her after he asked her directly if she was a trustworthy person and she responded \"no.\" While senators clearly struggled to believe that explanation, Sen. Thom Tillis (R-NC) wryly noted that Kennedy should have asked her the question before having the Senate confirm her for the role. In an op-ed published in The Wall Street Journal the same day as Kennedy's testimony, Monarez gave a different account of her firing—one corroborated by independent reporting—saying that she was ousted after she refused Kennedy's directives to fire senior CDC staff and pre-approve vaccine recommendations from an advisory committee he had stacked with fellow anti-vaccine advocates.Read full article Comments",
+          "feed_position": 4,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2222107417-1152x648.jpg"
         }
       ],
-      "popularity_score": 307.99999972222224,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2222107417-1152x648.jpg",
+      "popularity_score": 307.3766875,
       "ai_summary": [
         "The former CDC director will testify before the Senate.",
-        "The testimony follows accusations from Robert F Kennedy Jr.",
-        "Kennedy Jr. publicly called the director a liar.",
-        "The hearing will address the accusations.",
-        "The testimony is related to public health matters."
+        "RFK Jr. called the former director a liar.",
+        "The director said she was fired for not pre-approving vaccines.",
+        "The testimony follows the accusations.",
+        "The testimony will be given to the Senate."
       ]
     },
     {
-      "id": "cluster_6",
+      "id": "cluster_20",
       "coverage": 1,
-      "updated_at": "2025-09-11T03:28:42.114Z",
+      "updated_at": "Wed, 10 Sep 2025 19:38:13 +0000",
       "title": "Senator blasts Microsoft for making default Windows vulnerable to “Kerberoasting”",
-      "neutral_headline": "Senator Criticizes Microsoft for Windows Vulnerability",
+      "neutral_headline": "Senator Blasts Microsoft for Windows Vulnerability",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -256,28 +292,30 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/security/2025/09/senator-blasts-microsoft-for-making-default-windows-vulnerable-to-kerberoasting/",
-          "published_at": "2025-09-11T03:28:42.114Z",
+          "published_at": "Wed, 10 Sep 2025 19:38:13 +0000",
           "title": "Senator blasts Microsoft for making default Windows vulnerable to “Kerberoasting”",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 6
+          "standfirst": "Wyden says default use of RC4 cipher led to last year's breach of health giant Ascension.",
+          "content": "A prominent US senator has called on the Federal Trade Commission to investigate Microsoft for “gross cybersecurity negligence,” citing the company’s continued use of an obsolete and vulnerable form of encryption that Windows uses by default. In a letter to FTC Chairman Andrew Ferguson, Sen. Ron Wyden (D–Ore.) said an investigation his office conducted into the 2024 ransomware breach of the health care giant Ascension found that the default use of the RC4 encryption cipher was a direct cause. The breach led to the theft of medical records of 5.6 million patients. It's the second time in as many years that Wyden has used the word “negligence” to describe Microsoft's security practices.Read full article Comments",
+          "feed_position": 5,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg"
         }
       ],
-      "popularity_score": 304.99999972222224,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg",
+      "popularity_score": 303.41474305555556,
       "ai_summary": [
         "A senator criticized Microsoft for a Windows vulnerability.",
-        "The vulnerability makes Windows susceptible to \"Kerberoasting.\"",
-        "The senator raised concerns about cybersecurity.",
-        "The issue involves default Windows configurations.",
-        "The senator is calling for improved security measures."
+        "The vulnerability was caused by the default use of RC4 cipher.",
+        "The vulnerability led to a breach of health giant Ascension.",
+        "The senator is Wyden.",
+        "The breach occurred last year."
       ]
     },
     {
-      "id": "cluster_8",
+      "id": "cluster_29",
       "coverage": 1,
-      "updated_at": "2025-09-11T03:28:42.114Z",
+      "updated_at": "Wed, 10 Sep 2025 18:08:49 +0000",
       "title": "Developers joke about “coding like cavemen” as AI service suffers major outage",
-      "neutral_headline": "Developers Joke About Coding After AI Service Outage",
+      "neutral_headline": "AI Service Outage Leads to Developer Jokes",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -285,28 +323,61 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/ai/2025/09/developers-joke-about-coding-like-cavemen-as-ai-service-suffers-major-outage/",
-          "published_at": "2025-09-11T03:28:42.114Z",
+          "published_at": "Wed, 10 Sep 2025 18:08:49 +0000",
           "title": "Developers joke about “coding like cavemen” as AI service suffers major outage",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 8
+          "standfirst": "Anthropic outage takes down AI tools some developers rely on to create software.",
+          "content": "On Wednesday afternoon, Anthropic experienced a brief but complete service outage that took down its AI infrastructure, leaving developers unable to access Claude.ai, the API, Claude Code, or the management console for around half an hour. The outage affected all three of Anthropic's main services simultaneously, with the company posting at 12:28 pm Eastern that \"APIs, Console, and Claude.ai are down. Services will be restored as soon as possible.\" As of press time, the services appear to be restored. The disruption, though lasting only about 30 minutes, quickly took the top spot on tech link-sharing site Hacker News for a short time and inspired immediate reactions from developers who have become increasingly reliant on AI coding tools for their daily work. \"Everyone will just have to learn how to do it like we did in the old days, and blindly copy and paste from Stack Overflow,\" joked one Hacker News commenter. Another user recalled a joke from a previous AI outage: \"Nooooo I'm going to have to use my brain again and write 100% of my code like a caveman from December 2024.\" The most recent outage came at an inopportune time, affecting developers across the US who have integrated Claude into their workflows. One Hacker News user observed: \"It's like every other day, the moment US working hours start, AI (in my case I mostly use Anthropic, others may be better) starts dying or at least getting intermittent errors. In EU working hours there's rarely any outages.\" Another user also noted this pattern, saying that \"early morning here in the UK everything is fine, as soon as most of the US is up and at it, then it slowly turns to treacle.\"Read full article Comments",
+          "feed_position": 7,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-1488311999-1152x648.jpg"
         }
       ],
-      "popularity_score": 293.99999972222224,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-1488311999-1152x648.jpg",
+      "popularity_score": 290.92474305555555,
       "ai_summary": [
-        "Developers are joking about \"coding like cavemen.\"",
-        "The jokes arose after a major AI service outage.",
-        "The outage disrupted AI-assisted coding tools.",
-        "The incident highlighted reliance on AI services.",
-        "The developers are expressing frustration with the outage."
+        "An Anthropic outage caused major issues.",
+        "The outage took down AI tools.",
+        "Some developers rely on these tools.",
+        "Developers joked about \"coding like cavemen\".",
+        "The outage affected AI service users."
       ]
     },
     {
-      "id": "cluster_9",
+      "id": "cluster_42",
       "coverage": 1,
-      "updated_at": "2025-09-11T03:28:42.114Z",
+      "updated_at": "Wed, 10 Sep 2025 16:23:25 +0000",
+      "title": "Spotify peeved after 10,000 users sold data to build AI tools",
+      "neutral_headline": "Spotify Warns Users Against Selling Data for AI Development",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2025/09/spotify-peeved-after-10000-users-sold-data-to-build-ai-tools/",
+          "published_at": "Wed, 10 Sep 2025 16:23:25 +0000",
+          "title": "Spotify peeved after 10,000 users sold data to build AI tools",
+          "standfirst": "Spotify sent a warning to stop data sales, but developers say they never got it.",
+          "content": "For millions of Spotify users, the \"Wrapped\" feature—which crunches the numbers on their annual listening habits—is a highlight of every year's end, ever since it debuted in 2015. NPR once broke down exactly why our brains find the feature so \"irresistible,\" while Cosmopolitan last year declared that sharing Wrapped screenshots of top artists and songs had by now become \"the ultimate status symbol\" for tens of millions of music fans. It's no surprise then that, after a decade, some Spotify users who are especially eager to see Wrapped evolve are no longer willing to wait to see if Spotify will ever deliver the more creative streaming insights they crave. With the help of AI, these users expect that their data can be more quickly analyzed to potentially uncover overlooked or never-considered patterns that could offer even more insights into what their listening habits say about them.Read full article Comments",
+          "feed_position": 9,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/spotify-data-mining-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/spotify-data-mining-1152x648.jpg",
+      "popularity_score": 269.1680763888889,
+      "ai_summary": [
+        "Spotify warned users against selling their data to developers for AI training purposes.",
+        "Developers claimed they did not receive the warning from the music streaming service.",
+        "Over ten thousand Spotify users sold their data to build AI tools.",
+        "The data sales potentially violated Spotify's terms of service agreement.",
+        "Spotify is taking action to prevent further data sales by its users."
+      ]
+    },
+    {
+      "id": "cluster_39",
+      "coverage": 1,
+      "updated_at": "Wed, 10 Sep 2025 17:01:05 +0000",
       "title": "Can we please keep our broadband money, Republican governor asks Trump admin",
-      "neutral_headline": "Governor Asks Trump Administration to Keep Broadband Funds",
+      "neutral_headline": "Republican Governor Expresses Broadband Fund Spending Concerns",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -314,20 +385,332 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/tech-policy/2025/09/can-we-please-keep-our-broadband-money-republican-governor-asks-trump-admin/",
-          "published_at": "2025-09-11T03:28:42.114Z",
+          "published_at": "Wed, 10 Sep 2025 17:01:05 +0000",
           "title": "Can we please keep our broadband money, Republican governor asks Trump admin",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 9
+          "standfirst": "Governor worries Trump won't let states spend entire $42 billion broadband fund.",
+          "content": "Louisiana Governor Jeff Landry has a simple request for the Trump administration: Don't take our broadband money away. Trump's Commerce Department rewrote the rules of the $42 billion Broadband Equity, Access, and Deployment (BEAD) grant program, forcing states to change how they spend money earmarked for expanding broadband access. The overhaul led states to reduce spending on fiber networks and increase spending on satellite—although not to the extent sought by SpaceX CEO Elon Musk, who is demanding more money for his Starlink network. Since states are spending less on deployment, and the program still has the $42 billion allocated by Congress, what happens to the leftover amount after money is spent on deploying broadband networks? Amid speculation that the Trump administration wants to return that money to the US Treasury, Louisiana's Republican governor is worried that states won't be able to use the full $42 billion. It's possible that half or more of the $42 billion won't be used to expand broadband.Read full article Comments",
+          "feed_position": 8,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/getty-binary-data-money-1152x648-1737735430.jpg"
         }
       ],
-      "popularity_score": 262.99999972222224,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/getty-binary-data-money-1152x648-1737735430.jpg",
+      "popularity_score": 258.7958541666667,
       "ai_summary": [
-        "A Republican governor requested to keep broadband money.",
-        "The request was made to the Trump administration.",
-        "The funds are intended for broadband infrastructure.",
-        "The governor wants to maintain control of the funds.",
-        "The issue involves federal funding for internet access."
+        "A Republican governor is concerned about the spending of broadband funds.",
+        "The governor worries the Trump administration will restrict fund usage.",
+        "The federal government allocated $42 billion for broadband expansion.",
+        "States are awaiting guidance on how to spend the broadband money.",
+        "The governor wants states to retain control over their allocated funds."
+      ]
+    },
+    {
+      "id": "cluster_46",
+      "coverage": 1,
+      "updated_at": "Wed, 10 Sep 2025 15:41:42 +0000",
+      "title": "Microsoft ends OpenAI exclusivity in Office, adds rival Anthropic",
+      "neutral_headline": "Microsoft Expands AI Partnerships in Office Suite",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2025/09/report-microsoft-taps-rival-anthropics-ai-for-office-after-it-beats-openai-at-some-tasks/",
+          "published_at": "Wed, 10 Sep 2025 15:41:42 +0000",
+          "title": "Microsoft ends OpenAI exclusivity in Office, adds rival Anthropic",
+          "standfirst": "Microsoft will end OpenAI's exclusive hold on its productivity suite, adding second AI supplier.",
+          "content": "Microsoft's Office 365 suite will soon incorporate AI models from Anthropic alongside existing OpenAI technology, The Information reported, ending years of exclusive reliance on OpenAI for generative AI features across Word, Excel, PowerPoint, and Outlook. The shift reportedly follows internal testing that revealed Anthropic's Claude Sonnet 4 model excels at specific Office tasks where OpenAI's models fall short, particularly in visual design and spreadsheet automation, according to sources familiar with the project cited by The Information, who stressed the move is not a negotiating tactic. Anthropic did not immediately respond to Ars Technica's request for comment.Read full article Comments",
+          "feed_position": 10,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/copilot_logo3-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/copilot_logo3-1152x648.jpg",
+      "popularity_score": 164.4727986111111,
+      "ai_summary": [
+        "Microsoft will end OpenAI's exclusive hold on its Office productivity suite.",
+        "Microsoft will add Anthropic as a second AI supplier for its products.",
+        "This change allows Microsoft to diversify its AI offerings.",
+        "The move provides users with more AI options within Office applications.",
+        "Microsoft aims to integrate multiple AI models into its services."
+      ]
+    },
+    {
+      "id": "cluster_81",
+      "coverage": 1,
+      "updated_at": "Tue, 09 Sep 2025 20:55:34 +0000",
+      "title": "Claude’s new AI file-creation feature ships with security risks built in",
+      "neutral_headline": "Anthropic's AI File Creation Feature Raises Security Concerns",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/information-technology/2025/09/anthropics-new-claude-feature-can-leak-data-users-told-to-monitor-chats-closely/",
+          "published_at": "Tue, 09 Sep 2025 20:55:34 +0000",
+          "title": "Claude’s new AI file-creation feature ships with security risks built in",
+          "standfirst": "Expert calls security advice \"unfairly outsourcing the problem to Anthropic's users.\"",
+          "content": "On Tuesday, Anthropic launched a new file-creation feature for its Claude AI assistant that enables users to generate Excel spreadsheets, PowerPoint presentations, and other documents directly within conversations on the web interface and in the Claude desktop app. While the feature may be handy for Claude users, the company's support documentation also warns that it \"may put your data at risk\" and details how the AI assistant can be manipulated to transmit user data to external servers. The feature, awkwardly named \"Upgraded file-creation and analysis,\" is basically Anthropic's version of ChatGPT's Code Interpreter and an upgraded version of Anthropic's \"analysis\" tool. It's currently available as a preview for Max, Team, and Enterprise plan users, with Pro users scheduled to receive access \"in the coming weeks,\" according to the announcement. The security issue comes from the fact that the new feature gives Claude access to a sandbox computing environment, which enables it to download packages and run code to create files. \"This feature gives Claude Internet access to create and analyze files, which may put your data at risk,\" Anthropic writes in its blog announcement. \"Monitor chats closely when using this feature.\"Read full article Comments",
+          "feed_position": 19,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/pipe_leak_1-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/pipe_leak_1-1152x648.jpg",
+      "popularity_score": 158,
+      "ai_summary": [
+        "Anthropic's new AI file-creation feature has built-in security risks.",
+        "Experts criticize the feature's security advice as problematic.",
+        "The advice is seen as unfairly placing the burden on users.",
+        "The feature allows users to create files using AI assistance.",
+        "Security concerns involve potential vulnerabilities within the feature."
+      ]
+    },
+    {
+      "id": "cluster_75",
+      "coverage": 1,
+      "updated_at": "Tue, 09 Sep 2025 22:45:17 +0000",
+      "title": "New iPhones use Apple N1 wireless chip—and we’ll probably start seeing it everywhere",
+      "neutral_headline": "New iPhones Feature Apple's Custom Wireless Chip",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2025/09/apples-n1-chip-extends-its-custom-silicon-into-wi-fi-bluetooth-and-thread/",
+          "published_at": "Tue, 09 Sep 2025 22:45:17 +0000",
+          "title": "New iPhones use Apple N1 wireless chip—and we’ll probably start seeing it everywhere",
+          "standfirst": "Not Apple's first custom Wi-Fi and Bluetooth chip, but the first in an iPhone.",
+          "content": "Apple's most famous chips are the A- and M-series processors that power its iPhones, iPads, and Macs, but this year, its effort to build its own wireless chips is starting to bear fruit. Earlier this spring, the iPhone 16e included Apple's C1 modem, furthering Apple's ambitions to shed its dependence on Qualcomm, and today's iPhone Air brought a faster Apple C1X variant, plus something new: the Apple N1, a chip that provides Wi-Fi 7, Bluetooth 6, and Thread support for all of today's new iPhones. Apple didn't dive deep into the capabilities of the N1, or why it had switched from using third-party suppliers (historically, Apple has mostly leaned on Broadcom for Wi-Fi and Bluetooth). However, the company's press releases say that it should make Continuity features like Personal Hotspot and AirDrop more reliable—these features use Bluetooth for initial communication and then Wi-Fi to establish a high-speed local link between two devices. Other features that use a similar combination of wireless technologies, like using an iPad as an extended Mac display, should also benefit. These aren't Apple's first chips to integrate Wi-Fi or Bluetooth technology. The Apple Watches rely on W-series chips to provide their Bluetooth and Wi-Fi connectivity; the Apple H1 and H2 chips also provide Bluetooth connectivity for many of Apple's wireless headphones. But this is the first time that Apple has switched to its own Wi-Fi and Bluetooth chip in one of its iPhones, suggesting that the chips have matured enough to provide higher connectivity speeds for more demanding devices.Read full article Comments",
+          "feed_position": 15,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/Apple-iPhone-17-Pro-color-lineup-250909-1152x648-1757457065.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/Apple-iPhone-17-Pro-color-lineup-250909-1152x648-1757457065.jpg",
+      "popularity_score": 151,
+      "ai_summary": [
+        "New iPhones use Apple's N1 wireless chip for Wi-Fi and Bluetooth.",
+        "This is Apple's first custom chip of this type in an iPhone.",
+        "Apple has used custom wireless chips in other products previously.",
+        "The chip's integration enhances the iPhone's wireless capabilities.",
+        "The chip's presence suggests Apple's continued hardware innovation."
+      ]
+    },
+    {
+      "id": "cluster_58",
+      "coverage": 1,
+      "updated_at": "Wed, 10 Sep 2025 13:41:17 +0000",
+      "title": "AI vs. MAGA: Populists alarmed by Trump’s embrace of AI, Big Tech",
+      "neutral_headline": "Populists Express Concerns Over Trump's AI Embrace",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2025/09/ai-vs-maga-populists-alarmed-by-trumps-embrace-of-ai-big-tech/",
+          "published_at": "Wed, 10 Sep 2025 13:41:17 +0000",
+          "title": "AI vs. MAGA: Populists alarmed by Trump’s embrace of AI, Big Tech",
+          "standfirst": "AI “threatens the common man’s liberty,\" says GOP Sen. Josh Hawley.",
+          "content": "Flanked by Silicon Valley’s most powerful executives in the White House last week, Melania Trump hailed artificial intelligence as potentially “the greatest engine of progress in the history of the United States of America.” Less than a mile from the first lady, in a hotel ballroom packed with MAGA faithful, top Republican Josh Hawley had a different message. AI “threatens the common man’s liberty” and could even undermine the Republic itself, the senior US senator from Missouri said.Read full article Comments",
+          "feed_position": 13,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/dinner-1152x640.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/dinner-1152x640.jpg",
+      "popularity_score": 150.46585416666667,
+      "ai_summary": [
+        "Populists are alarmed by Trump's embrace of AI and Big Tech.",
+        "Some view AI as a threat to individual liberties.",
+        "Senator Josh Hawley expressed concerns about AI's impact.",
+        "The debate highlights the intersection of AI and politics.",
+        "Populists fear AI's potential effects on the common person."
+      ]
+    },
+    {
+      "id": "cluster_60",
+      "coverage": 1,
+      "updated_at": "Wed, 10 Sep 2025 13:00:03 +0000",
+      "title": "Pay-per-output? AI firms blindsided by beefed up robots.txt instructions.",
+      "neutral_headline": "AI Firms Face Changes in Robots.txt Instructions",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2025/09/pay-per-output-ai-firms-blindsided-by-beefed-up-robots-txt-instructions/",
+          "published_at": "Wed, 10 Sep 2025 13:00:03 +0000",
+          "title": "Pay-per-output? AI firms blindsided by beefed up robots.txt instructions.",
+          "standfirst": "\"Really Simple Licensing\" makes it easier for creators to get paid for AI scraping.",
+          "content": "Leading Internet companies and publishers—including Reddit, Yahoo, Quora, Medium, The Daily Beast, Fastly, and more—think there may finally be a solution to end AI crawlers hammering websites to scrape content without permission or compensation. Announced Wednesday morning, the \"Really Simple Licensing\" (RSL) standard evolves robots.txt instructions by adding an automated licensing layer that's designed to block bots that don't fairly compensate creators for content. Free for any publisher to use starting today, the RSL standard is an open, decentralized protocol that makes clear to AI crawlers and agents the terms for licensing, usage, and compensation of any content used to train AI, a press release noted.Read full article Comments",
+          "feed_position": 14,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/rsl-logo-1152x648.png"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/rsl-logo-1152x648.png",
+      "popularity_score": 149.77863194444444,
+      "ai_summary": [
+        "AI firms are adjusting to changes in robots.txt instructions.",
+        "\"Really Simple Licensing\" aims to help creators get paid.",
+        "The changes affect how AI scrapes content from websites.",
+        "The goal is to provide creators with compensation.",
+        "The changes impact the AI industry's data acquisition methods."
+      ]
+    },
+    {
+      "id": "cluster_76",
+      "coverage": 1,
+      "updated_at": "Tue, 09 Sep 2025 22:32:52 +0000",
+      "title": "Reddit bug caused lesbian subreddit to be labeled as a place for “straight” women",
+      "neutral_headline": "Reddit Bug Misclassifies Lesbian Subreddit",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2025/09/reddit-bug-caused-lesbian-subreddit-to-be-labeled-as-a-place-for-straight-women/",
+          "published_at": "Tue, 09 Sep 2025 22:32:52 +0000",
+          "title": "Reddit bug caused lesbian subreddit to be labeled as a place for “straight” women",
+          "standfirst": "Users feared Reddit used generative AI to rewrite user-created content.",
+          "content": "Reddit has addressed a problem where the description of subreddits originally written by moderators appeared different—and, often, inaccurate—on Reddit’s Android app. For weeks, the problem was largely suspected to be caused by Reddit clumsily using generative AI to create new subreddit descriptions. However, Reddit says that the changes were the fault of a bug tied to its AI-powered translation technology. Reports of subreddits suddenly having inaccurate summaries when viewed on Reddit’s Android app started surfacing on Reddit a couple of weeks ago. On August 29, a moderator reported on the r/ModSupport subreddit for moderators that the r/ThronesAndDominions subreddit's description changed from “The wayward adventures of Dylan Carlson and the band Earth” to “The crazy adventures of Dylan Carlson and the band Earth.” The problem got more attention when r/actuallesbians’ Android app description described the community as “a place for straight and transgender lesbians …” instead of “a place for cis and trans lesbians …” Other complaints followed, including from r/autisticparents, a subreddit for parents with autism whose description was changed to say that it is a group for “parents of autistic children.” A moderator who asked to be referred to by their Reddit username, Paige_Railstone, described the confusion that the changes brought to their subreddit:Read full article Comments",
+          "feed_position": 16,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1364392195-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1364392195-1152x648.jpg",
+      "popularity_score": 148,
+      "ai_summary": [
+        "A Reddit bug mislabeled a lesbian subreddit.",
+        "Users feared the platform used generative AI to rewrite content.",
+        "The bug caused the subreddit to be labeled for \"straight\" women.",
+        "The incident raised concerns about AI's role on the platform.",
+        "The issue highlighted potential errors in AI-driven content moderation."
+      ]
+    },
+    {
+      "id": "cluster_50",
+      "coverage": 1,
+      "updated_at": "Wed, 10 Sep 2025 15:00:44 +0000",
+      "title": "Has Perseverance found a biosignature on Mars?",
+      "neutral_headline": "Perseverance Rover Investigates Potential Biosignature on Mars",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/science/2025/09/has-perseverance-found-a-biosignature-on-mars/",
+          "published_at": "Wed, 10 Sep 2025 15:00:44 +0000",
+          "title": "Has Perseverance found a biosignature on Mars?",
+          "standfirst": "Interpreting the data is tricky because other non-biological processes could account for the findings.",
+          "content": "Last year, we reported on the discovery of an intriguing arrow-shaped rock on Mars by NASA's Perseverance rover. The rock contained chemical signatures and structures that could have been formed by ancient microbial life. Granted, this was not slam-dunk evidence of past life on Mars, and the results were preliminary, awaiting peer review. But it was an intriguing possibility nonetheless. Now further analysis and peer review are complete, and there is a new paper, published in the journal Nature, reporting on the findings. It's still not definitive proof that there was water-based life on Mars billions of years ago, but the results are consistent with a biosignature. It's just that other non-biological processes would also be consistent with the data, so definitive proof might require analysis of the Martian samples back on Earth. You can watch NASA's livestream briefing here. \"We have improved our understanding of the geological context of the discovery since [last year], and in the paper, we explore abiotic and biological pathways to the formation of the features that we observe,\" co-author Joel Hurowitz, an astrobiologist at Stony Brook University in New York, told Ars. \"My hope is that this discovery motivates a whole bunch of new research in laboratory and analog field settings on Earth to try to understand what conditions might give rise to the textures and mineral assemblages we've observed. This type of follow-on work is exactly what is needed to explore the various biological and abiotic pathways to the formation of the features that we are calling potential biosignatures.\"Read full article Comments",
+          "feed_position": 12,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/mars2-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/mars2-1152x648.jpg",
+      "popularity_score": 147.79002083333333,
+      "ai_summary": [
+        "The Perseverance rover is investigating a potential biosignature on Mars.",
+        "Interpreting the data is challenging due to other processes.",
+        "Non-biological processes could account for the findings.",
+        "The rover is searching for signs of past or present life.",
+        "The data analysis requires careful consideration of all factors."
+      ]
+    },
+    {
+      "id": "cluster_77",
+      "coverage": 1,
+      "updated_at": "Tue, 09 Sep 2025 21:59:42 +0000",
+      "title": "Hands-on with Apple’s new iPhones: Beauty and the beast and the regular-looking one",
+      "neutral_headline": "Apple's New iPhones: Design and Functionality Examined",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2025/09/hands-on-with-the-iphone-17-lineup-including-the-wispy-air-and-the-lumpy-pro/",
+          "published_at": "Tue, 09 Sep 2025 21:59:42 +0000",
+          "title": "Hands-on with Apple’s new iPhones: Beauty and the beast and the regular-looking one",
+          "standfirst": "A new form-vs.-function spectrum emerges as Apple's phone designs diverge.",
+          "content": "CUPERTINO, Calif.—We're a long way from the days when a new iPhone launch just meant one new phone. It shifted to \"basically the same phone in two sizes\" a decade or so ago, and then to a version of \"one lineup of regular phones and one lineup of Pro phones\" in 2017 when the iPhone 8 was introduced next to the iPhone X. But thanks to Apple's newly introduced iPhone Air, the iPhone 17 lineup gives new phone buyers more choices and trade-offs than they've ever had before. Apple's phones are now available in a spectrum of sizes, weights, speeds, costs, and camera configurations. And while options are great to have, it also means you need to know more about which one to pick. We've gone hands-on with all four of Apple's new phones, and while more extensive tire-kicking will be required, we can at least try to nail down exactly what kind of person each of these phones is for.Read full article Comments",
+          "feed_position": 17,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/IMG_5808-1152x648.jpeg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/IMG_5808-1152x648.jpeg",
+      "popularity_score": 145,
+      "ai_summary": [
+        "Apple's new iPhones are examined for design and functionality.",
+        "A new form-vs.-function spectrum emerges in phone designs.",
+        "The review covers the latest iPhone models.",
+        "The phones' designs diverge in various aspects.",
+        "The review assesses the phones' overall user experience."
+      ]
+    },
+    {
+      "id": "cluster_48",
+      "coverage": 1,
+      "updated_at": "Wed, 10 Sep 2025 15:28:49 +0000",
+      "title": "Flush door handles are the car industry’s latest safety problem",
+      "neutral_headline": "Flush Door Handles Pose Safety Concerns in Cars",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/cars/2025/09/flush-door-handles-are-the-car-industrys-latest-safety-problem/",
+          "published_at": "Wed, 10 Sep 2025 15:28:49 +0000",
+          "title": "Flush door handles are the car industry’s latest safety problem",
+          "standfirst": "China considers banning retractable car door handles from 2027.",
+          "content": "Earlier this week, Ars spent some time driving the new Nissan Leaf. We have to wait until Friday to tell you how that car drives, but among the changes from the previous generation are door handles that retract flush with the bodywork, for the front doors at least. Car designers love them for not ruining the lines of the door with the necessities of real life, but is the benefit from drag reduction worth the safety risk? That question is in even sharper relief this morning. Bloomberg's Dana Hull has a deeply reported article that looks at the problem of Tesla's door handles, which fail when the cars lose power. The electric vehicle manufacturer chose not to use conventional door locks in its cars, preferring to use IP-based electronic controls. While the front seat occupants have always had a physical latch that can open the door, it took some years for the automaker to add emergency releases for the rear doors, and even now that it has, many rear-seat Tesla passengers will be unaware of where to find or how to operate the emergency release.Read full article Comments",
+          "feed_position": 11,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/Nissan-Leaf-door-handle-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/Nissan-Leaf-door-handle-1152x648.jpg",
+      "popularity_score": 142.2580763888889,
+      "ai_summary": [
+        "Flush door handles are becoming a safety concern in the car industry.",
+        "China is considering banning retractable car door handles.",
+        "The ban could take effect starting in 2027.",
+        "The design is associated with potential safety issues.",
+        "The industry is facing scrutiny over this design element."
+      ]
+    },
+    {
+      "id": "cluster_79",
+      "coverage": 1,
+      "updated_at": "Tue, 09 Sep 2025 21:08:41 +0000",
+      "title": "Pfizer says this season’s COVID shot boosts immune responses fourfold",
+      "neutral_headline": "Pfizer's COVID Shot Boosts Immune Responses",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/health/2025/09/pfizer-reports-positive-covid-shot-results-despite-government-fueled-chaos/",
+          "published_at": "Tue, 09 Sep 2025 21:08:41 +0000",
+          "title": "Pfizer says this season’s COVID shot boosts immune responses fourfold",
+          "standfirst": "Positive results come as Americans face confusing access rules that vary by state.",
+          "content": "Pfizer and BioNTech report that their updated mRNA COVID-19 vaccine for the 2025–2026 season produced strong immune responses, boosting neutralizing antibody levels by at least fourfold in older people and those with underlying medical conditions. The positive results come as Americans face a confusing, state-by-state patchwork of access to the shots under health secretary Robert F. Kennedy Jr., an ardent anti-vaccine activist who has unilaterally restricted access. Prior to the second Trump administration, all Americans ages 6 months and older had access to the vaccines. But under Kennedy, the Food and Drug Administration limited COVID-19 vaccine approvals to people 65 and older, and people under 64 years only if they have an underlying medical condition. In Pfizer and BioNTech's latest trial, the companies limited enrollment to these groups. The phase 3 trial included 100 people total, 50 people age 65 or older and 50 people age 18 to 64 with an underlying condition. Those conditions included asthma, diabetes, heart conditions, HIV, mental health conditions, Parkinson's disease, obesity, or smoking. All participants had gotten last season's COVID shot at least six months prior to the trial and had not gotten any other COVID-19 vaccines or a COVID-19 infection since then.Read full article Comments",
+          "feed_position": 18,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/GettyImages-1231396408-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/GettyImages-1231396408-1152x648.jpg",
+      "popularity_score": 133,
+      "ai_summary": [
+        "Pfizer's updated COVID shot boosts immune responses fourfold.",
+        "Positive results come as access rules vary by state.",
+        "Americans face confusing access rules for the vaccine.",
+        "The shot is designed to protect against current variants.",
+        "The vaccine's effectiveness is a key focus of the study."
       ]
     }
   ]
