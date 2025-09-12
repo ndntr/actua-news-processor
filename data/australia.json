@@ -1,147 +1,116 @@
 {
-  "updated_at": "2025-09-11T23:12:02.831Z",
+  "updated_at": "2025-09-12T03:22:36.913Z",
   "clusters": [
     {
-      "id": "cluster_25",
+      "id": "cluster_9",
       "coverage": 3,
-      "updated_at": "Thu, 11 Sep 2025 20:56:55 +0000",
-      "title": "Ley leadership speculation begins in earnest",
-      "neutral_headline": "FBI Releases Photos in Charlie Kirk Shooting Investigation",
+      "updated_at": "Fri, 12 Sep 2025 12:44:33 +1000",
+      "title": "New footage shows suspect jumping off roof, fleeing Kirk assassination scene",
+      "neutral_headline": "Surveillance Footage Shows Suspect Fleeing Charlie Kirk Shooting",
       "bullet_summary": [
-        "Reported by Crikey, The Age, 9News"
+        "Reported by The Age, 9News, ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "The Age",
+          "url": "https://www.theage.com.au/world/north-america/police-recover-gun-hone-in-on-college-age-suspect-in-charlie-kirk-assassination-20250912-p5mufz.html",
+          "published_at": "Fri, 12 Sep 2025 12:44:33 +1000",
+          "title": "New footage shows suspect jumping off roof, fleeing Kirk assassination scene",
+          "standfirst": "The FBI released new surveillance showing the man they believe shot Charlie Kirk making his getaway in the moments after the MAGA activist was killed.",
+          "content": "The FBI released new surveillance showing the man they believe shot Charlie Kirk making his getaway in the moments after the MAGA activist was killed.",
+          "feed_position": 3,
+          "image_url": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Ce_sharpen:60%2Cf_auto/8b36a30fda30200897252b49301a6cf177f20c8617e491aa36951bb5b0a44c63"
+        },
+        {
+          "source": "9News",
+          "url": "https://www.9news.com.au/world/charlie-kirk-assassination-live-updates-manhunt-underway-for-suspect-images-released-after-shooting/f768e570-d5bd-47b0-8be9-cee6239a6d70",
+          "published_at": "Fri, 12 Sep 2025 02:29:59 +0000",
+          "title": "LIVE: What gunman revealed about himself in the moments after the shooting",
+          "standfirst": "Police have released CCTV of how Charlie Kirk&#x27;s assassin made his getaway.",
+          "content": "Police have released CCTV of how Charlie Kirk&#x27;s assassin made his getaway.",
+          "feed_position": 0,
+          "image_url": "https://prod.static9.net.au/fs/38561d84-d788-4366-afe2-045a7a0defca"
+        },
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-09-12/manhunt-underway-for-charlie-kirk-trump-ally-shot-and-killed/105765746",
+          "published_at": "Fri, 12 Sep 2025 02:11:33 +0000",
+          "title": "Footage shows suspected gunman fleeing scene after Charlie Kirk shooting",
+          "standfirst": "Authorities say a new video shows the suspect jumping off the roof of a Utah Valley University building before fleeing into a nearby wooded area.",
+          "content": "Authorities say a new video shows the suspect jumping off the roof of a Utah Valley University building before fleeing into a nearby wooded area.",
+          "feed_position": 5
+        }
+      ],
+      "featured_image": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Ce_sharpen:60%2Cf_auto/8b36a30fda30200897252b49301a6cf177f20c8617e491aa36951bb5b0a44c63",
+      "popularity_score": 3019.3655797222223,
+      "ai_summary": [
+        "New footage shows the suspect fleeing the scene.",
+        "The suspect is believed to have shot Charlie Kirk.",
+        "The footage shows the suspect jumping off a roof.",
+        "The suspect fled into a nearby wooded area.",
+        "Police have released CCTV of the getaway."
+      ]
+    },
+    {
+      "id": "cluster_4",
+      "coverage": 2,
+      "updated_at": "Fri, 12 Sep 2025 03:05:11 +0000",
+      "title": "Driver in hospital after tram derailment on Gold Coast tourist strip",
+      "neutral_headline": "Tram Derailment on Gold Coast Injures Driver, Causes Delays",
+      "bullet_summary": [
+        "Reported by ABC Just In, 9News"
+      ],
+      "items": [
+        {
+          "source": "ABC Just In",
+          "url": "https://www.abc.net.au/news/2025-09-12/gold-coast-tram-derails-in-surfers-paradise-driver-hospitalised/105766496",
+          "published_at": "Fri, 12 Sep 2025 03:05:11 +0000",
+          "title": "Driver in hospital after tram derailment on Gold Coast tourist strip",
+          "standfirst": "Commuters are told to expect lengthy delays after a tram derails and hits a pole in Surfers Paradise, injuring the driver.",
+          "content": "Commuters are told to expect lengthy delays after a tram derails and hits a pole in Surfers Paradise, injuring the driver.",
+          "feed_position": 1
+        },
+        {
+          "source": "9News",
+          "url": "https://www.9news.com.au/national/gold-coast-tram-comes-off-the-tracks-at-surfers-paradise-queensland-news/44c10ebe-32a3-4a4e-a4f4-4313112f2c5d",
+          "published_at": "Fri, 12 Sep 2025 01:55:20 +0000",
+          "title": "Tram derails at Surfers Paradise on the Gold Coast",
+          "standfirst": "A light pole appears to have speared through the second carriage.",
+          "content": "A tram has derailed at Surfers Paradise on the Gold Coast.The tram was travelling north at Surfers Paradise this morning when the first and second carriages came off the track.A light pole appears to have speared through the second carriage. LIVE UPDATES: Manhunt continues for Charlie Kirk&#x27;s killerThe driver was taken to hospital in a stable condition.It&#x27;s believed there were no passengers in the carriages at the time. Motorists have been warned to expect lengthy delays in the area.DOWNLOAD THE 9NEWS APP: Stay across all the latest in breaking news, sport, politics and the weather via our news app and get notifications sent straight to your smartphone. Available on the Apple App Store and Google Play.",
+          "feed_position": 12,
+          "image_url": "https://prod.static9.net.au/fs/b2091bdd-f729-4976-aa6f-a5ffee7786e3"
+        }
+      ],
+      "featured_image": "https://prod.static9.net.au/fs/b2091bdd-f729-4976-aa6f-a5ffee7786e3",
+      "popularity_score": 2019.709468611111,
+      "ai_summary": [
+        "A tram derailed in Surfers Paradise.",
+        "The driver was injured in the incident.",
+        "A light pole appears to have hit the second carriage.",
+        "Commuters should expect lengthy delays.",
+        "The incident occurred on a tourist strip."
+      ]
+    },
+    {
+      "id": "cluster_8",
+      "coverage": 2,
+      "updated_at": "Fri, 12 Sep 2025 02:44:50 +0000",
+      "title": "Bolsonaro said he was destined for death, victory or prison. We now know which — despite Trump&#8217;s trantrum",
+      "neutral_headline": "Jair Bolsonaro Found Guilty of Coup Charges, Sentenced to Prison",
+      "bullet_summary": [
+        "The post Bolsonaro said he was destined for death, victory or prison",
+        "Reported by Crikey, ABC News Australia"
       ],
       "items": [
         {
           "source": "Crikey",
-          "url": "https://www.crikey.com.au/2025/09/12/sussan-ley-jacinta-price-liberal-leadership-charlie-kirk-shooter/",
-          "published_at": "Thu, 11 Sep 2025 20:56:55 +0000",
-          "title": "Ley leadership speculation begins in earnest",
-          "standfirst": "Speculation over the leadership of the Liberal Party is coming thick and fast in the wake of the Jacinta Nampijinpa Price fiasco, and the FBI has released images of a 'person of interest' in the Charlie Kirk shooting. The post Ley leadership speculation begins in earnest appeared first on Crikey.",
-          "content": "Speculation over the leadership of the Liberal Party is coming thick and fast in the wake of the Jacinta Nampijinpa Price fiasco, and the FBI has released images of a 'person of interest' in the Charlie Kirk shooting. The post Ley leadership speculation begins in earnest appeared first on Crikey.",
-          "feed_position": 2,
-          "image_url": "https://www.crikey.com.au/wp-content/uploads/sites/3/2025/09/suss.jpg?fit=1024%2C576"
-        },
-        {
-          "source": "The Age",
-          "url": "https://www.theage.com.au/world/north-america/police-recover-gun-hone-in-on-college-age-suspect-in-charlie-kirk-assassination-20250912-p5mufz.html",
-          "published_at": "Fri, 12 Sep 2025 06:02:56 +1000",
-          "title": "Images of Charlie Kirk assassination suspect revealed, high-powered rifle seized",
-          "standfirst": "The FBI released two images of a person of interest and asked the public to help its investigation into the fatal shooting of the conservative activist.",
-          "content": "The FBI released two images of a person of interest and asked the public to help its investigation into the fatal shooting of the conservative activist.",
-          "feed_position": 15,
-          "image_url": "https://static.ffx.io/images/$zoom_0.5515625%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/f4f3063c0fadafbcd445f32131b0b5ee5a738c53eb1f6c4780a44e0844702574"
-        },
-        {
-          "source": "9News",
-          "url": "https://www.9news.com.au/world/charlie-kirk-shot-killer-blended-in-on-utah-university-campus-and-a-highpowered-rifle-is-recovered/83610fdb-5a7d-4230-8d16-0a5520f525c5",
-          "published_at": "Thu, 11 Sep 2025 17:33:38 +0000",
-          "title": "FBI releases photos of person of interest in Kirk assassination",
-          "standfirst": "Investigators released two images of the person and appealled for tips to help solve the shooting of Charlie Kirk, a conservative activist and close ally of President Trump.",
-          "content": "Investigators released two images of the person and appealled for tips to help solve the shooting of Charlie Kirk, a conservative activist and close ally of President Donald Trump who played an influential role in rallying young Republican voters.The unidentified suspect is believed to have jumped off a roof and fled into a neighbourhood after firing one shot, authorities said on Thursday.A high-powered, bolt-action rifle they believe was used in the attack was recovered, and video recordings of the person they believe was responsible are being reviewed.READ MORE: Musk loses crown as the world&#x27;s richest person then snatches it back The FBI says it&#x27;s offering a reward of up to $US100,000 ($150,000) for information leading to the identification and arrest of whoever is responsible for Kirk&#x27;s death.Kirk&#x27;s assassination renews attention to escalating threats of political violence in the United States that cut across the ideological spectrum.His killing is drawing bipartisan condemnation, but a national reckoning over ways to prevent political grievances from manifesting as deadly violence appears elusive.The shooter appeared to be of \"college age\" and is believed to have blended in on the university campus where Kirk was shot, authorities said as they investigated the latest act of political violence to befall America.\"I can tell you this was a targeted event,\" said Robert Bohls, the top FBI agent in Salt Lake City on Thursday.Meanwhile, Kirk&#x27;s casket is to be flown from Utah to Arizona aboard Air Force Two on Thursday, an AP source says. READ MORE: Violence has become a regular part of American political lifeKirk, a close ally of US President Donald Trump, was killed with a gunshot from a distant rooftop at the Utah Valley University campus, where he was speaking Wednesday. Federal, state and local authorities were working what they called \"multiple active crime scenes\".\"This is a dark day for our state. It&#x27;s a tragic day for our nation,\" Utah Governor Spencer Cox said on Wednesday.\"I want to be very clear this is a political assassination.\"Two people were detained on Wednesday, but neither was determined to be connected to the shooting and both were released, public safety officials said.The circumstances of the shooting drew renewed attention to an escalating threat of political violence in the United States that in the last several years has cut across the ideological spectrum.READ MORE: &#x27;Will miss you forever&#x27;: Tributes to pair killed in crash as driver charged The assassination drew bipartisan condemnation, but a national reckoning over ways to prevent political grievances from manifesting as deadly violence seemed elusive.READ MORE: &#x27;Pure evil monster&#x27; jailed for killing partner in violent attackVideos posted to social media from Utah Valley University show Kirk speaking into a handheld microphone while sitting under a white tent emblazoned with the slogans \"The American Comeback\" and \"Prove Me Wrong\".A shot rings out, and Kirk can be seen reaching up with his right hand as blood gushes from the left side of his neck. Stunned spectators gasp and scream before people start running away.Vice President JD Vance and his wife, Usha, were set to visit with Kirk&#x27;s family on Thursday in Salt Lake City. According to a person familiar with Vance&#x27;s plans but not authorised to speak about them publicly, the Vances will visit Utah instead of attending an outdoor ceremony to commemorate September 11 in New York.Vance posted a remembrance on X chronicling their friendship, dating back to initial messages in 2017, through Vance&#x27;s Senate run and ultimately praying after hearing of the shooting. Kirk played a pivotal role in setting up the second Trump administration, Vance wrote.READ MORE: Manhunt for assassin continues after escape\"So much of the success we&#x27;ve had in this administration traces directly to Charlie&#x27;s ability to organise and convene,\" Vance wrote.\"He didn&#x27;t just help us win in 2024, he helped us staff the entire government.\"Trump announced Thursday he&#x27;ll posthumously award Kirk the Presidential Medal of Freedom.Trump said he remained shocked by the horror of Kirk&#x27;s assassination praised his ally&#x27;s impact on conservative politics.\"Charlie was a giant of his generation, a champion of liberty and an inspiration to millions and millions of people,\" Trump said.Kirk was taking questions about gun violenceKirk was speaking at a debate hosted by his nonprofit political youth organisation, Arizona-based Turning Point USA, at the Sorensen Centre courtyard on campus. Immediately before the shooting, he was taking questions from an audience member about gun violence.\"Do you know how many transgender Americans have been mass shooters over the last 10 years?\" the person asked. Kirk responded, \"Too many.\"The questioner followed up: \"Do you know how many mass shooters there have been in America over the last 10 years?\"\"Counting or not counting gang violence?\" Kirk asked.Then a shot rang out.The shooter, who Cox pledged would be held accountable in a state with the death penalty, wore dark clothing and fired from a building roof some distance away.Madison Lattin was watching only close by Kirk&#x27;s left when she heard the bullet hit him.\"Blood is falling and dripping down, and you&#x27;re just like so scared, not just for him but your own safety,\" she said.She said she saw people drop to the ground in an eerie silence pierced immediately by cries. She and others ran. Some fell and were trampled in the stampede.When Lattin later learned that Kirk had died, she wept, she said, describing him as a role model who had showed her how to be determined and fight for the truth.Trump calls Kirk a &#x27;martyr for truth&#x27;About 3000 people were in attendance, according to a statement from the Utah Department of Public Safety. The university police department had six officers working the event, along with Kirk&#x27;s own security detail, authorities said.Trump announced Kirk&#x27;s death on social media and praised the 31-year-old co-founder and CEO of Turning Point as \"Great, and even Legendary\". Later, he released a video in which he called Kirk a \"martyr for truth and freedom\".Utah Valley University said the campus was evacuated after the shooting and will be closed until Monday.Meanwhile, armed officers walked around the neighbourhood bordering the campus, knocking on doors and asking for any information residents might have on the shooting. Helicopters buzzed overhead.Wednesday&#x27;s event, billed as the first stop on Kirk&#x27;s \"The American Comeback Tour\", had generated a polarising campus reaction. An online petition calling for university administrators to bar Kirk from appearing received nearly 1000 signatures. The university issued a statement last week citing First Amendment rights and affirming its \"commitment to free speech, intellectual inquiry, and constructive dialogue\".Last week, Kirk posted on X images of news clips showing his visit was sparking controversy. He wrote, \"What&#x27;s going on in Utah?\"Condemnation from across the political spectrumThe shooting drew swift bipartisan condemnation as Democratic officials joined Trump, who ordered flags lowered to half-staff and issued a presidential proclamation, and other Republican allies of Kirk in decrying the violence.\"The murder of Charlie Kirk breaks my heart. My deepest sympathies are with his wife, two young children, and friends,\" said Gabrielle Giffords, the former Democratic congresswoman who was wounded in a 2011 shooting in her Arizona district.In a joint statement, the Young Democrats of Connecticut and the Connecticut Young Republicans called the shooting \"unacceptable\".READ MORE: Twenty dead, roads to airport blocked as deadly floods grip Indonesia READ MORE: Thousands in government funding going unclaimed by millions of Aussies \"We reject all forms of political violence,\" they said.\"There is no place in our country for such acts regardless of political disagreements.\"The shooting appeared poised to become part of a spike of political violence that has touched a range of ideologies and representatives of both major political parties.The attacks include the assassination of a Minnesota state lawmaker and her husband at their house in June, the firebombing of a Colorado parade in June to demand Hamas release hostages and a fire set at the house of Pennsylvania&#x27;s governor, who is Jewish, in April.The most notorious of these events is the shooting of Trump during a Pennsylvania campaign rally last year.DOWNLOAD THE 9NEWS APP: Stay across all the latest in breaking news, sport, politics and the weather via our news app and get notifications sent straight to your smartphone. Available on the Apple App Store and Google Play.",
-          "feed_position": 5,
-          "image_url": "https://prod.static9.net.au/fs/d9d930e4-bbca-4c03-9e01-a95420c80e5f"
-        },
-        {
-          "source": "9News",
-          "url": "https://www.9news.com.au/world/photos-from-utah-valley-university-before-and-after-the-shooting-of-charlie-kirk/c7b629a8-98fc-43f5-b96d-9a3e83b82c0d",
-          "published_at": "Wed, 10 Sep 2025 22:09:35 +0000",
-          "title": "Photos from Utah Valley University before and after the shooting of Charlie Kirk",
-          "standfirst": "Chaos erupted when conservative political activist Charlie Kirk was shot and killed during an event on the Utah Valley University campus.",
-          "content": "Chaos erupted when conservative political activist Charlie Kirk was shot and killed during an event on the Utah Valley University campus.",
-          "feed_position": 16,
-          "image_url": "https://prod.static9.net.au/fs/d5beeb6e-225d-4fae-9e37-ea3eec6fd21f"
-        }
-      ],
-      "featured_image": "https://www.crikey.com.au/wp-content/uploads/sites/3/2025/09/suss.jpg?fit=1024%2C576",
-      "popularity_score": 3017.747825,
-      "ai_summary": [
-        "The FBI released two images of a person of interest in the Charlie Kirk shooting.",
-        "Authorities are seeking public assistance to solve the shooting of Charlie Kirk.",
-        "Charlie Kirk, a conservative activist, was shot and killed at Utah Valley University.",
-        "Speculation about the Liberal Party leadership is increasing after recent events.",
-        "The FBI is investigating the fatal shooting of conservative activist Charlie Kirk."
-      ]
-    },
-    {
-      "id": "cluster_1",
-      "coverage": 2,
-      "updated_at": "Fri, 12 Sep 2025 09:07:36 +1000",
-      "title": "Australia news LIVE: Charlie Kirk shooter suspect identified; Trump praises Anthony Albanese after phone call; Sussan Ley considers reshuffle after Jacinta Price sacking",
-      "neutral_headline": "Trump Praises Albanese Following Recent Phone Call",
-      "bullet_summary": [
-        "Reported by The Age, ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "The Age",
-          "url": "https://www.theage.com.au/national/australia-news-live-college-age-suspect-identified-in-kirk-assassination-ley-contemplates-reshuffle-after-price-dismissal-20250912-p5mugb.html",
-          "published_at": "Fri, 12 Sep 2025 09:07:36 +1000",
-          "title": "Australia news LIVE: Charlie Kirk shooter suspect identified; Trump praises Anthony Albanese after phone call; Sussan Ley considers reshuffle after Jacinta Price sacking",
-          "standfirst": "Follow live as we bring you the news from Australia and beyond.",
-          "content": "Follow live as we bring you the news from Australia and beyond.",
+          "url": "https://www.crikey.com.au/2025/09/12/jair-bolsonaro-jail-sentence-coup-attempt-assassination-brazil/",
+          "published_at": "Fri, 12 Sep 2025 02:44:50 +0000",
+          "title": "Bolsonaro said he was destined for death, victory or prison. We now know which — despite Trump&#8217;s trantrum",
+          "standfirst": "As ex-Brazilian president Jair Bolsonaro is sentenced for an attempted coup d'état, is Brazil ready to leave behind its legacy of military dictatorship? The post Bolsonaro said he was destined for death, victory or prison. We now know which — despite Trump&#8217;s trantrum appeared first on Crikey.",
+          "content": "As ex-Brazilian president Jair Bolsonaro is sentenced for an attempted coup d'état, is Brazil ready to leave behind its legacy of military dictatorship? The post Bolsonaro said he was destined for death, victory or prison. We now know which — despite Trump&#8217;s trantrum appeared first on Crikey.",
           "feed_position": 0,
-          "image_url": "https://static.ffx.io/images/$zoom_0.7944%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_268%2C$y_0/t_crop_custom/q_86%2Cf_auto/f4f3063c0fadafbcd445f32131b0b5ee5a738c53eb1f6c4780a44e0844702574"
-        },
-        {
-          "source": "The Age",
-          "url": "https://www.theage.com.au/national/trump-on-albanese-20250912-p5mugu.html",
-          "published_at": "Fri, 12 Sep 2025 07:56:27 +1000",
-          "title": "Trump on Albanese",
-          "standfirst": "US President Donald Trump calls Anthony Albanese a \"good man\" following the leaders' phone call last week.",
-          "content": "US President Donald Trump calls Anthony Albanese a \"good man\" following the leaders' phone call last week.",
-          "feed_position": 6,
-          "image_url": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/3fdbb9ffb70b4f069112fec3369a35f14b632098"
-        },
-        {
-          "source": "The Age",
-          "url": "https://www.theage.com.au/national/queensland/brisbane-news-live-accused-food-truck-police-chase-driver-identified-trump-praises-good-man-albanese-20250911-p5mu5j.html",
-          "published_at": "Fri, 12 Sep 2025 07:24:03 +1000",
-          "title": "Brisbane news live: Accused food truck police chase driver identified | Trump praises ‘good man’ Albanese",
-          "standfirst": "For today’s news updates as they happen in Brisbane and beyond, follow us here.",
-          "content": "For today’s news updates as they happen in Brisbane and beyond, follow us here.",
-          "feed_position": 8,
-          "image_url": "https://static.ffx.io/images/$zoom_1.779831932773109%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Ce_sharpen:60%2Cf_auto/fa145070434b7f87b34f560683bbe17288cf2f6d5f31ee88f148955828c85eb5"
-        },
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-09-12/federal-politics-live-sept-12/105765250",
-          "published_at": "Thu, 11 Sep 2025 20:57:08 +0000",
-          "title": "Live: Trump praises Albanese as 'good man' in first comments since phone call",
-          "standfirst": "US President Donald Trump has praised Prime Minister Anthony Albanese as a \"good man\" in his first comments about a phone call between the two leaders last week. Follow live.",
-          "content": "US President Donald Trump has praised Prime Minister Anthony Albanese as a \"good man\" in his first comments about a phone call between the two leaders last week. Follow live.",
-          "feed_position": 4
-        }
-      ],
-      "featured_image": "https://static.ffx.io/images/$zoom_0.7944%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_268%2C$y_0/t_crop_custom/q_86%2Cf_auto/f4f3063c0fadafbcd445f32131b0b5ee5a738c53eb1f6c4780a44e0844702574",
-      "popularity_score": 2019.9258805555555,
-      "ai_summary": [
-        "Donald Trump called Anthony Albanese a \"good man\" after their phone call.",
-        "Trump's comments were his first since the phone call between leaders.",
-        "News updates are being provided from Australia and other locations.",
-        "The US President made positive remarks about the Australian Prime Minister.",
-        "Updates are available on news from Brisbane and other areas."
-      ]
-    },
-    {
-      "id": "cluster_6",
-      "coverage": 2,
-      "updated_at": "Fri, 12 Sep 2025 08:54:50 +1000",
-      "title": "Ex-Brazilian president Bolsonaro sentenced to 27 years in jail over coup plot",
-      "neutral_headline": "Ex-Brazilian President Bolsonaro Sentenced to Prison",
-      "bullet_summary": [
-        "US President Donald Trump said he was surprised about the conviction, adding that “it was very much like they tried to do with me, but they didn’t get away with”",
-        "Reported by The Age, ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "The Age",
-          "url": "https://www.theage.com.au/world/south-america/ex-brazilian-president-bolsonaro-found-guilty-over-coup-plot-20250912-p5mug8.html",
-          "published_at": "Fri, 12 Sep 2025 08:54:50 +1000",
-          "title": "Ex-Brazilian president Bolsonaro sentenced to 27 years in jail over coup plot",
-          "standfirst": "US President Donald Trump said he was surprised about the conviction, adding that “it was very much like they tried to do with me, but they didn’t get away with”.",
-          "content": "US President Donald Trump said he was surprised about the conviction, adding that “it was very much like they tried to do with me, but they didn’t get away with”.",
-          "feed_position": 2,
-          "image_url": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_50/t_crop_custom/q_86%2Cf_auto/ad4e6d49837f368965ead8c6be1d54ce8322440f"
+          "image_url": "https://www.crikey.com.au/wp-content/uploads/sites/3/2025/09/20250911186096126062-original-copy.jpg?fit=1024%2C576"
         },
         {
           "source": "ABC News Australia",
@@ -150,220 +119,152 @@
           "title": "Ex-Brazilian president Jair Bolsonaro found guilty of coup charges",
           "standfirst": "The former Brazilian president, Jair Bolsonaro, has been sentenced to 27 years in prison at the age of 70 and may spend the rest of his life behind bars.",
           "content": "The former Brazilian president, Jair Bolsonaro, has been sentenced to 27 years in prison at the age of 70 and may spend the rest of his life behind bars.",
-          "feed_position": 12
+          "feed_position": 17
         }
       ],
-      "featured_image": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_50/t_crop_custom/q_86%2Cf_auto/ad4e6d49837f368965ead8c6be1d54ce8322440f",
-      "popularity_score": 2019.7131027777777,
+      "featured_image": "https://www.crikey.com.au/wp-content/uploads/sites/3/2025/09/20250911186096126062-original-copy.jpg?fit=1024%2C576",
+      "popularity_score": 2019.3703019444445,
       "ai_summary": [
-        "Jair Bolsonaro, former Brazilian president, was sentenced to 27 years in prison.",
-        "Bolsonaro was found guilty of charges related to a coup plot.",
-        "Donald Trump expressed surprise at the conviction of Bolsonaro.",
-        "Bolsonaro may spend the remainder of his life in prison.",
-        "Trump noted similarities to his own legal challenges."
+        "Jair Bolsonaro was found guilty of coup charges.",
+        "He was sentenced to twenty-seven years in prison.",
+        "Bolsonaro is seventy years old.",
+        "The sentencing may result in a life sentence.",
+        "Bolsonaro was an ex-Brazilian president."
       ]
     },
     {
-      "id": "cluster_10",
+      "id": "cluster_17",
       "coverage": 2,
-      "updated_at": "Fri, 12 Sep 2025 08:31:54 +1000",
-      "title": "Ange is back, and going for trophies",
-      "neutral_headline": "Ange Postecoglou Discusses New Role at Nottingham Forest",
+      "updated_at": "Fri, 12 Sep 2025 02:29:08 +0000",
+      "title": "Police officers face court over death of Luke Briggs",
+      "neutral_headline": "Police Officers Face Court Over Death of Luke Briggs",
       "bullet_summary": [
-        "Reported by The Age, ABC Sport"
+        "Reported by ABC News Australia, The Age"
       ],
       "items": [
         {
-          "source": "The Age",
-          "url": "https://www.theage.com.au/sport/soccer/ange-is-back-and-going-for-trophies-20250912-p5muh8.html",
-          "published_at": "Fri, 12 Sep 2025 08:31:54 +1000",
-          "title": "Ange is back, and going for trophies",
-          "standfirst": "Australian coach, Ange Postecoglou, sets out his plans for new post at Nottingham Forest.",
-          "content": "Australian coach, Ange Postecoglou, sets out his plans for new post at Nottingham Forest.",
-          "feed_position": 4,
-          "image_url": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/86f22338af1ce53ecf26e55b8e2f6dcb55e1e33b"
-        },
-        {
-          "source": "The Age",
-          "url": "https://www.theage.com.au/sport/soccer/ange-opens-up-on-spurs-axing-20250912-p5mugt.html",
-          "published_at": "Fri, 12 Sep 2025 07:39:18 +1000",
-          "title": "Ange opens up on Spurs axing",
-          "standfirst": "Ange Postecoglou opens up on his Tottenham sacking during his first press conference as Nottingham Forest manager.",
-          "content": "Ange Postecoglou opens up on his Tottenham sacking during his first press conference as Nottingham Forest manager.",
-          "feed_position": 7,
-          "image_url": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/6a2d937d6e9999d24dc2b724131849dccd5e1c8a"
-        },
-        {
-          "source": "ABC Sport",
-          "url": "https://www.abc.net.au/news/2025-09-11/ange-postecoglou-nottingham-forest-back-to-rightful-place/105760224",
-          "published_at": "Wed, 10 Sep 2025 20:43:02 +0000",
-          "title": "'I love winning things': Ange vows to take Forest back to the top",
-          "standfirst": "Nottingham Forest fans have been made a promise by Ange Postecoglou that he'll give his all to help them bring back their glory days.",
-          "content": "Nottingham Forest fans have been made a promise by Ange Postecoglou that he'll give his all to help them bring back their glory days.",
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-09-12/vic-police-officers-bail-in-negligent-manslaughter-luke-briggs/105765534",
+          "published_at": "Fri, 12 Sep 2025 02:29:08 +0000",
+          "title": "Police officers face court over death of Luke Briggs",
+          "standfirst": "James Fitzgerald and Alexander Papanastassis are charged with negligent manslaughter over the death of Luke Briggs, who died eight days after his arrest last year.",
+          "content": "James Fitzgerald and Alexander Papanastassis are charged with negligent manslaughter over the death of Luke Briggs, who died eight days after his arrest last year.",
           "feed_position": 16
-        }
-      ],
-      "featured_image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/86f22338af1ce53ecf26e55b8e2f6dcb55e1e33b",
-      "popularity_score": 2019.3308805555555,
-      "ai_summary": [
-        "Ange Postecoglou is setting out plans for his new post at Nottingham Forest.",
-        "Postecoglou discussed his Tottenham sacking during his first press conference.",
-        "Postecoglou has promised to help Nottingham Forest return to their glory days.",
-        "Postecoglou is the new manager of Nottingham Forest.",
-        "Postecoglou stated he loves winning and will give his all."
-      ]
-    },
-    {
-      "id": "cluster_2",
-      "coverage": 1,
-      "updated_at": "Thu, 11 Sep 2025 23:02:36 +0000",
-      "title": "Voters 'shrugging their shoulders', neglecting to vote in local elections",
-      "neutral_headline": "Voter Turnout Low in Recent Northern Territory Elections",
-      "bullet_summary": [
-        "Reported by ABC Just In"
-      ],
-      "items": [
+        },
         {
-          "source": "ABC Just In",
-          "url": "https://www.abc.net.au/news/2025-09-12/nt-local-government-council-elections-see-dip-in-voter-turnout/105760662",
-          "published_at": "Thu, 11 Sep 2025 23:02:36 +0000",
-          "title": "Voters 'shrugging their shoulders', neglecting to vote in local elections",
-          "standfirst": "Two out of five of the NT's enrolled voters failed to vote in the jurisdictions recent local government elections, with experts concerned voting fatigue has taken hold.",
-          "content": "Two out of five of the NT's enrolled voters failed to vote in the jurisdictions recent local government elections, with experts concerned voting fatigue has taken hold.",
-          "feed_position": 0
+          "source": "The Age",
+          "url": "https://www.theage.com.au/national/victoria/police-officers-accused-of-negligent-manslaughter-of-tradie-identified-20250912-p5muji.html",
+          "published_at": "Fri, 12 Sep 2025 12:13:58 +1000",
+          "title": "Police officers accused of negligent manslaughter of tradie identified",
+          "standfirst": "Sergeant James Fitzgerald and Constable Alexander Papanastassis have faced court for the first time over the death of builder Luke Briggs in Hoppers Crossing last year.",
+          "content": "Sergeant James Fitzgerald and Constable Alexander Papanastassis have faced court for the first time over the death of builder Luke Briggs in Hoppers Crossing last year.",
+          "feed_position": 11,
+          "image_url": "https://static.ffx.io/images/$zoom_0.44844571187156734%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_508%2C$y_102/t_crop_custom/q_86%2Cf_auto/55fbf5d895a4de6694040a7605fa63505e4bc77e"
         }
       ],
-      "popularity_score": 364.8425472222222,
+      "featured_image": "https://static.ffx.io/images/$zoom_0.44844571187156734%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_508%2C$y_102/t_crop_custom/q_86%2Cf_auto/55fbf5d895a4de6694040a7605fa63505e4bc77e",
+      "popularity_score": 2019.1086352777777,
       "ai_summary": [
-        "Two out of five enrolled voters in the NT did not vote in local elections.",
-        "Experts are concerned about voter fatigue in the Northern Territory.",
-        "The low voter turnout was observed in recent local government elections.",
-        "The NT experienced a significant number of non-voters.",
-        "The local government elections saw a notable lack of participation."
+        "Police officers are charged with negligent manslaughter.",
+        "The charges relate to the death of Luke Briggs.",
+        "Luke Briggs died eight days after his arrest.",
+        "James Fitzgerald and Alexander Papanastassis are charged.",
+        "The incident occurred in Hoppers Crossing."
       ]
     },
     {
-      "id": "cluster_65",
+      "id": "cluster_66",
       "coverage": 1,
-      "updated_at": "Thu, 11 Sep 2025 13:46:28 +0000",
-      "title": "FBI releases CCTV images of man in search for Charlie Kirk's killer",
-      "neutral_headline": "FBI Releases CCTV Images of Charlie Kirk's Suspected Killer",
+      "updated_at": "Thu, 11 Sep 2025 20:57:08 +0000",
+      "title": "Live: PM launches envoy's plan to tackle Islamophobia",
+      "neutral_headline": "PM Launches Envoy's Plan to Tackle Islamophobia",
       "bullet_summary": [
         "Reported by ABC News Australia"
       ],
       "items": [
         {
           "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-09-11/fbi-says-charlie-kirk-search-continues-weapon-found/105764588",
-          "published_at": "Thu, 11 Sep 2025 13:46:28 +0000",
-          "title": "FBI releases CCTV images of man in search for Charlie Kirk's killer",
-          "standfirst": "The shooter remains at large, with Utah authorities saying the suspect \"blended in\" and \"appears to be of college age\".",
-          "content": "The shooter remains at large, with Utah authorities saying the suspect \"blended in\" and \"appears to be of college age\".",
+          "url": "https://www.abc.net.au/news/2025-09-12/federal-politics-live-sept-12/105765250",
+          "published_at": "Thu, 11 Sep 2025 20:57:08 +0000",
+          "title": "Live: PM launches envoy's plan to tackle Islamophobia",
+          "standfirst": "A long-awaited report by Special Envoy to Combat Islamophobia Aftab Malik is being handed down. Follow live.",
+          "content": "A long-awaited report by Special Envoy to Combat Islamophobia Aftab Malik is being handed down. Follow live.",
           "feed_position": 0
         }
       ],
-      "popularity_score": 343.57365805555554,
+      "popularity_score": 356.57530194444445,
       "ai_summary": [
-        "The FBI released CCTV images of a man in the search for Charlie Kirk's killer.",
-        "Authorities state the suspect \"blended in\" and appears college age.",
-        "The shooter remains at large following the incident.",
-        "The investigation into the shooting of Charlie Kirk continues.",
-        "The FBI is seeking information on the suspect's identity."
+        "The Prime Minister launched a plan.",
+        "The plan addresses Islamophobia.",
+        "The plan is from the Special Envoy.",
+        "The report is being handed down.",
+        "The report is long-awaited."
       ]
     },
     {
       "id": "cluster_3",
       "coverage": 1,
-      "updated_at": "Thu, 11 Sep 2025 23:00:07 +0000",
-      "title": "Jay Vine misses out on Vuelta hat-trick by less than a second",
-      "neutral_headline": "Jay Vine Misses Vuelta Hat-Trick by Less Than a Second",
+      "updated_at": "Fri, 12 Sep 2025 03:05:13 +0000",
+      "title": "'Large' brief of evidence against childcare worker accused of child abuse material",
+      "neutral_headline": "Evidence Brief Against Childcare Worker Accused of Abuse",
       "bullet_summary": [
         "Reported by ABC Just In"
       ],
       "items": [
         {
           "source": "ABC Just In",
-          "url": "https://www.abc.net.au/news/2025-09-12/jay-vine-misses-vuelta-a-espana-time-trial-under-a-second/105765416",
-          "published_at": "Thu, 11 Sep 2025 23:00:07 +0000",
-          "title": "Jay Vine misses out on Vuelta hat-trick by less than a second",
-          "standfirst": "Australian Jay Vine misses out on a third stage win in this year's Vuelta a España by less than a second in the individual time trial.",
-          "content": "Australian Jay Vine misses out on a third stage win in this year's Vuelta a España by less than a second in the individual time trial.",
-          "feed_position": 1
+          "url": "https://www.abc.net.au/news/2025-09-12/nsw-sydney-childcare-worker-court-first-appearance-afp-families/105765962",
+          "published_at": "Fri, 12 Sep 2025 03:05:13 +0000",
+          "title": "'Large' brief of evidence against childcare worker accused of child abuse material",
+          "standfirst": "Prosecutors have been given more than two months to serve a \"large\" brief of evidence in the case against a Sydney childcare worker accused of using children to make child abuse material.",
+          "content": "Prosecutors have been given more than two months to serve a \"large\" brief of evidence in the case against a Sydney childcare worker accused of using children to make child abuse material.",
+          "feed_position": 0
         }
       ],
-      "popularity_score": 342.8011583333333,
+      "popularity_score": 352.71002416666664,
       "ai_summary": [
-        "Jay Vine missed a third stage win in the Vuelta a España by less than a second.",
-        "Vine competed in the individual time trial during the race.",
-        "The Australian cyclist was close to achieving a hat-trick.",
-        "Vine's performance was narrowly short of victory.",
-        "The individual time trial was a close competition for Vine."
+        "A childcare worker faces charges.",
+        "The worker is accused of child abuse material.",
+        "Prosecutors have a large brief of evidence.",
+        "The brief will be served in over two months.",
+        "The worker is from Sydney."
       ]
     },
     {
-      "id": "cluster_55",
+      "id": "cluster_50",
       "coverage": 1,
-      "updated_at": "Thu, 11 Sep 2025 19:17:24 +0000",
-      "title": "What hope do the Liberals have if one rebellious senator brought a crisis?",
-      "neutral_headline": "Liberal Party Faces Crisis After Senator's Actions",
+      "updated_at": "Thu, 11 Sep 2025 23:16:35 +0000",
+      "title": "A bitter blame game is pushing the US towards the precipice",
+      "neutral_headline": "US Faces Precipice Due to Violent Public Discourse",
       "bullet_summary": [
         "Reported by ABC News Australia"
       ],
       "items": [
         {
           "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-09-12/sussan-ley-jacinta-nampijinpa-price-sacking/105748980",
-          "published_at": "Thu, 11 Sep 2025 19:17:24 +0000",
-          "title": "What hope do the Liberals have if one rebellious senator brought a crisis?",
-          "standfirst": "The fracas over Jacinta Nampijinpa Price shows the Liberal party is a seething mass of frustrated ambition, resentment, tribalism and deep ideological division.",
-          "content": "The fracas over Jacinta Nampijinpa Price shows the Liberal party is a seething mass of frustrated ambition, resentment, tribalism and deep ideological division.",
+          "url": "https://www.abc.net.au/news/2025-09-12/charlie-kirk-assassination-test-for-donald-trump/105765246",
+          "published_at": "Thu, 11 Sep 2025 23:16:35 +0000",
+          "title": "A bitter blame game is pushing the US towards the precipice",
+          "standfirst": "In a country with more guns than people, an increasingly violent and threatening public discourse is creating serious dangers.",
+          "content": "In a country with more guns than people, an increasingly violent and threatening public discourse is creating serious dangers.",
           "feed_position": 1
         }
       ],
-      "popularity_score": 339.0892136111111,
+      "popularity_score": 338.8994686111111,
       "ai_summary": [
-        "The Liberal party is experiencing internal division and frustration.",
-        "The situation involving Jacinta Nampijinpa Price has caused a crisis.",
-        "The party is described as having deep ideological divisions.",
-        "The party is facing resentment and tribalism.",
-        "The actions of one senator have caused a crisis."
+        "A bitter blame game is pushing the US.",
+        "The US has more guns than people.",
+        "Public discourse is increasingly violent.",
+        "This creates serious dangers.",
+        "The dangers are increasing."
       ]
     },
     {
-      "id": "cluster_9",
-      "coverage": 1,
-      "updated_at": "Thu, 11 Sep 2025 22:44:34 +0000",
-      "title": "Jamal Fogarty isn't the perfect halfback but he's the perfect halfback for Canberra",
-      "neutral_headline": "Jamal Fogarty is Perfect Halfback for Canberra Raiders",
-      "bullet_summary": [
-        "Reported by ABC Just In"
-      ],
-      "items": [
-        {
-          "source": "ABC Just In",
-          "url": "https://www.abc.net.au/news/2025-09-12/jamal-fogarty-canberra-raiders-nrl-finals-broncos/105763708",
-          "published_at": "Thu, 11 Sep 2025 22:44:34 +0000",
-          "title": "Jamal Fogarty isn't the perfect halfback but he's the perfect halfback for Canberra",
-          "standfirst": "Jamal Fogarty has spent a rugby league lifetime waiting to play on a team like the Raiders. Now with the NRL finals approaching, he's ready for his close-up.",
-          "content": "Jamal Fogarty has spent a rugby league lifetime waiting to play on a team like the Raiders. Now with the NRL finals approaching, he's ready for his close-up.",
-          "feed_position": 2
-        }
-      ],
-      "popularity_score": 332.5419913888889,
-      "ai_summary": [
-        "Jamal Fogarty is ready for the NRL finals with the Raiders.",
-        "Fogarty has spent a long time waiting to play for the Raiders.",
-        "Fogarty is considered the perfect halfback for Canberra.",
-        "Fogarty is prepared for his close-up in the upcoming finals.",
-        "Fogarty is a key player for the Canberra Raiders."
-      ]
-    },
-    {
-      "id": "cluster_58",
+      "id": "cluster_81",
       "coverage": 1,
       "updated_at": "Thu, 11 Sep 2025 18:49:25 +0000",
       "title": "Inside the plan to station 1,200 Americans and their subs near Perth",
-      "neutral_headline": "American Military Personnel to be Stationed Near Perth",
+      "neutral_headline": "US to Station 1,200 Americans and Submarines Near Perth",
       "bullet_summary": [
         "Reported by ABC News Australia"
       ],
@@ -378,50 +279,21 @@
           "feed_position": 2
         }
       ],
-      "popularity_score": 328.6228247222222,
+      "popularity_score": 324.4466908333333,
       "ai_summary": [
-        "Australia is planning to station 1,200 American soldiers near Perth.",
-        "Planning is advanced, including quarantine arrangements for pets.",
-        "The American soldiers will be stationed near Perth.",
-        "The submarine agency is overseeing the arrangements.",
-        "The plan involves stationing American soldiers."
+        "The US will station soldiers near Perth.",
+        "The plan involves 1,200 American soldiers.",
+        "The plan includes submarines.",
+        "Planning is far advanced.",
+        "Quarantine arrangements are underway."
       ]
     },
     {
-      "id": "cluster_12",
-      "coverage": 1,
-      "updated_at": "Thu, 11 Sep 2025 22:12:10 +0000",
-      "title": "Outback hairdresser drives 1,000km just to 'spoil' her clients",
-      "neutral_headline": "Outback Hairdresser Travels Far to Serve Clients",
-      "bullet_summary": [
-        "Reported by ABC Just In"
-      ],
-      "items": [
-        {
-          "source": "ABC Just In",
-          "url": "https://www.abc.net.au/news/2025-09-12/outback-hairdresser-travels-1000kms-to-pamper-remote-residents/105636488",
-          "published_at": "Thu, 11 Sep 2025 22:12:10 +0000",
-          "title": "Outback hairdresser drives 1,000km just to 'spoil' her clients",
-          "standfirst": "The \"salon\" is an op shop and the round-trip commute's a doozy, but Juliann Mutch is happy to go the extra distance to pamper her grateful Wilcannia clientele.",
-          "content": "The \"salon\" is an op shop and the round-trip commute's a doozy, but Juliann Mutch is happy to go the extra distance to pamper her grateful Wilcannia clientele.",
-          "feed_position": 3
-        }
-      ],
-      "popularity_score": 322.0019913888889,
-      "ai_summary": [
-        "Juliann Mutch drives 1,000km to provide hairdressing services.",
-        "Mutch's \"salon\" is an op shop in Wilcannia.",
-        "Mutch is happy to travel to pamper her clients.",
-        "Mutch serves her clients in Wilcannia.",
-        "The round trip commute is a significant distance."
-      ]
-    },
-    {
-      "id": "cluster_59",
+      "id": "cluster_82",
       "coverage": 1,
       "updated_at": "Thu, 11 Sep 2025 18:45:39 +0000",
       "title": "University staff 'disheartened and demoralised' as thousands sacked",
-      "neutral_headline": "University Staff Face Job Losses and Demoralization",
+      "neutral_headline": "University Staff Face Job Losses, Blame Management",
       "bullet_summary": [
         "Reported by ABC News Australia"
       ],
@@ -436,50 +308,21 @@
           "feed_position": 3
         }
       ],
-      "popularity_score": 318.5600469444444,
+      "popularity_score": 314.3839130555556,
       "ai_summary": [
-        "Thousands of university staff face losing their jobs.",
-        "Unions blame poor management for the job losses.",
-        "Students express feelings of lost hope.",
-        "The university sector is facing a crisis.",
-        "Staff are reportedly disheartened and demoralized."
+        "University staff are disheartened.",
+        "Thousands of staff face job losses.",
+        "Unions blame poor management.",
+        "Students say they have lost hope.",
+        "The university sector is in crisis."
       ]
     },
     {
-      "id": "cluster_61",
-      "coverage": 1,
-      "updated_at": "Thu, 11 Sep 2025 18:19:26 +0000",
-      "title": "How the Jeffrey Epstein saga spread to British politics",
-      "neutral_headline": "Jeffrey Epstein Saga's Impact on British Politics",
-      "bullet_summary": [
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-09-12/mandelson-how-epstein-scandal-spread-to-the-uk-starmer/105764932",
-          "published_at": "Thu, 11 Sep 2025 18:19:26 +0000",
-          "title": "How the Jeffrey Epstein saga spread to British politics",
-          "standfirst": "After dogging the US president for months, evidence of a connection to Jeffrey Epstein has claimed a senior scalp within the British government.",
-          "content": "After dogging the US president for months, evidence of a connection to Jeffrey Epstein has claimed a senior scalp within the British government.",
-          "feed_position": 5
-        }
-      ],
-      "popularity_score": 310.1231025,
-      "ai_summary": [
-        "Evidence of a connection to Jeffrey Epstein has impacted British politics.",
-        "A senior figure within the British government has been affected.",
-        "The Epstein saga has spread to British politics.",
-        "The scandal has had repercussions in the UK.",
-        "The Epstein case has had political consequences."
-      ]
-    },
-    {
-      "id": "cluster_57",
+      "id": "cluster_80",
       "coverage": 1,
       "updated_at": "Thu, 11 Sep 2025 18:51:48 +0000",
       "title": "Growing group of Labor MPs urge 2035 emissions target above Climate Authority's floor",
-      "neutral_headline": "Labor MPs Urge Stronger Emissions Target",
+      "neutral_headline": "Labor MPs Advocate for Stronger Emissions Reduction Target",
       "bullet_summary": [
         "Reported by ABC News Australia"
       ],
@@ -491,53 +334,111 @@
           "title": "Growing group of Labor MPs urge 2035 emissions target above Climate Authority's floor",
           "standfirst": "A growing cross-factional group within Labor is privately urging for Australia's next major climate target to respect the advice of the Climate Change Authority, which will hand its opinion on a 2035 target to government any day.",
           "content": "A growing cross-factional group within Labor is privately urging for Australia's next major climate target to respect the advice of the Climate Change Authority, which will hand its opinion on a 2035 target to government any day.",
-          "feed_position": 6
+          "feed_position": 4
         }
       ],
-      "popularity_score": 296.66254694444444,
+      "popularity_score": 312.48641305555554,
       "ai_summary": [
-        "A group of Labor MPs wants a 2035 emissions target.",
-        "The MPs want the target to respect Climate Change Authority advice.",
-        "The Climate Change Authority will give its opinion soon.",
-        "A cross-factional group is involved in the push.",
-        "The MPs are pushing for a higher emissions target."
+        "A Labor group privately urges a 2035 emissions target respecting Climate Authority advice.",
+        "The Climate Change Authority will soon deliver its opinion on the 2035 target.",
+        "This group represents various factions within the Labor party.",
+        "Their push aims for a more ambitious climate action commitment.",
+        "The Climate Change Authority's advice will be crucial for the government."
       ]
     },
     {
-      "id": "cluster_15",
+      "id": "cluster_12",
       "coverage": 1,
-      "updated_at": "Thu, 11 Sep 2025 22:02:14 +0000",
-      "title": "Live: Stocks on the rise as US rate cut expectations firm",
-      "neutral_headline": "Stocks Rise as US Rate Cut Expectations Increase",
+      "updated_at": "Fri, 12 Sep 2025 02:33:30 +0000",
+      "title": "Farmed barramundi producer found guilty of environmental breaches",
+      "neutral_headline": "Barramundi Producer Found Guilty of Environmental Breaches",
+      "bullet_summary": [
+        "Reported by ABC Just In"
+      ],
+      "items": [
+        {
+          "source": "ABC Just In",
+          "url": "https://www.abc.net.au/news/2025-09-12/mainstream-aquaculture-queensland-guilty-environment-breaches/105766424",
+          "published_at": "Fri, 12 Sep 2025 02:33:30 +0000",
+          "title": "Farmed barramundi producer found guilty of environmental breaches",
+          "standfirst": "An aquaculture company \"took a gamble\" when it stocked a prawn farm in Far North Queensland with barramundi without environmental approval.",
+          "content": "An aquaculture company \"took a gamble\" when it stocked a prawn farm in Far North Queensland with barramundi without environmental approval.",
+          "feed_position": 4
+        }
+      ],
+      "popularity_score": 312.18141305555554,
+      "ai_summary": [
+        "An aquaculture company stocked a prawn farm with barramundi.",
+        "The company did so without obtaining the necessary environmental approval.",
+        "The farm is located in Far North Queensland.",
+        "The company's actions were deemed a \"gamble\" by authorities.",
+        "The company faced legal consequences for the environmental violations."
+      ]
+    },
+    {
+      "id": "cluster_14",
+      "coverage": 1,
+      "updated_at": "Fri, 12 Sep 2025 02:32:19 +0000",
+      "title": "Hopes of finding fisherman missing in the Gulf of Carpentaria fade",
+      "neutral_headline": "Search Continues for Missing Fisherman in Gulf of Carpentaria",
+      "bullet_summary": [
+        "Reported by ABC Just In"
+      ],
+      "items": [
+        {
+          "source": "ABC Just In",
+          "url": "https://www.abc.net.au/news/2025-09-12/official-search-for-missing-fisherman-gulf-of-carpentaria-over/105766212",
+          "published_at": "Fri, 12 Sep 2025 02:32:19 +0000",
+          "title": "Hopes of finding fisherman missing in the Gulf of Carpentaria fade",
+          "standfirst": "Workmates of a fisherman lost at sea off Queensland's western cape brave strong winds to continue the search for their missing colleague, as his family prepares to travel to Australia from Japan.",
+          "content": "Workmates of a fisherman lost at sea off Queensland's western cape brave strong winds to continue the search for their missing colleague, as his family prepares to travel to Australia from Japan.",
+          "feed_position": 5
+        }
+      ],
+      "popularity_score": 302.16169083333335,
+      "ai_summary": [
+        "A fisherman went missing in the Gulf of Carpentaria off Queensland.",
+        "Workmates are searching despite strong winds in the area.",
+        "The fisherman's family is preparing to travel from Japan.",
+        "The search efforts are focused on the western cape region.",
+        "Hopes of finding the fisherman are fading as time passes."
+      ]
+    },
+    {
+      "id": "cluster_43",
+      "coverage": 1,
+      "updated_at": "Fri, 12 Sep 2025 00:50:21 +0000",
+      "title": "Netball players to get share of Diamonds' revenue in landmark deal",
+      "neutral_headline": "Netball Players Secure Revenue Share in Landmark Agreement",
       "bullet_summary": [
         "Reported by ABC News Australia"
       ],
       "items": [
         {
           "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-09-12/asx-markets-business-live-news-sept-12/105765376",
-          "published_at": "Thu, 11 Sep 2025 22:02:14 +0000",
-          "title": "Live: Stocks on the rise as US rate cut expectations firm",
-          "standfirst": "Mixed data out of the US economy saw expectations of a Federal Reserve rate cut next week solidify. The local share market is set to follow global stocks higher. Follow the day's events and insights on the ABC News live markets blog.",
-          "content": "Mixed data out of the US economy saw expectations of a Federal Reserve rate cut next week solidify. The local share market is set to follow global stocks higher. Follow the day's events and insights on the ABC News live markets blog.",
-          "feed_position": 7
+          "url": "https://www.abc.net.au/news/2025-09-12/netball-australia-players-strike-landmark-revenue-sharing-deal/105765526",
+          "published_at": "Fri, 12 Sep 2025 00:50:21 +0000",
+          "title": "Netball players to get share of Diamonds' revenue in landmark deal",
+          "standfirst": "Netball Australia and the players' association strike a landmark revenue-sharing deal as part of a three-year collective player agreement.",
+          "content": "Netball Australia and the players' association strike a landmark revenue-sharing deal as part of a three-year collective player agreement.",
+          "feed_position": 6
         }
       ],
-      "popularity_score": 291.8364358333333,
+      "popularity_score": 290.4622463888889,
       "ai_summary": [
-        "US economic data solidified expectations of a Federal Reserve rate cut next week.",
-        "The local share market is expected to follow global stocks higher.",
-        "The ABC News live markets blog provides daily events and insights.",
-        "Mixed data from the US economy influenced market expectations.",
-        "Investors are anticipating a shift in monetary policy."
+        "Netball Australia and the players' association reached a deal.",
+        "The agreement includes a revenue-sharing component for players.",
+        "This is part of a three-year collective player agreement.",
+        "The deal is considered a landmark achievement for netball.",
+        "The agreement will impact player compensation and benefits."
       ]
     },
     {
-      "id": "cluster_56",
+      "id": "cluster_79",
       "coverage": 1,
       "updated_at": "Thu, 11 Sep 2025 18:56:12 +0000",
       "title": "More Australian consumers are falling for mimic shopping websites",
-      "neutral_headline": "Mimic Shopping Websites Scam Australian Consumers",
+      "neutral_headline": "Mimic Shopping Websites Deceive Australian Consumers",
       "bullet_summary": [
         "Reported by ABC News Australia"
       ],
@@ -549,198 +450,140 @@
           "title": "More Australian consumers are falling for mimic shopping websites",
           "standfirst": "Online shopping scams are now one of the most frequently reported scam types and experts say they are alarmingly common, impersonating well-known brands and being promoted in search engine advertisements.",
           "content": "Online shopping scams are now one of the most frequently reported scam types and experts say they are alarmingly common, impersonating well-known brands and being promoted in search engine advertisements.",
+          "feed_position": 7
+        }
+      ],
+      "popularity_score": 274.55974638888887,
+      "ai_summary": [
+        "Online shopping scams are increasingly reported by consumers.",
+        "Scammers impersonate well-known brands to deceive shoppers.",
+        "These fake websites are often promoted through search engine ads.",
+        "Experts say these scams are alarmingly common in Australia.",
+        "Consumers are falling victim to these fraudulent websites."
+      ]
+    },
+    {
+      "id": "cluster_62",
+      "coverage": 1,
+      "updated_at": "Thu, 11 Sep 2025 22:02:14 +0000",
+      "title": "Live: Virgin reveals $50 million payday for ex-boss Jayne Hrdlicka",
+      "neutral_headline": "Virgin Reveals CEO Exit Pay; ASX and Virgin Shares Rise",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-09-12/asx-markets-business-live-news-sept-12/105765376",
+          "published_at": "Thu, 11 Sep 2025 22:02:14 +0000",
+          "title": "Live: Virgin reveals $50 million payday for ex-boss Jayne Hrdlicka",
+          "standfirst": "The ASX rises, as do Virgin shares, as the airline reveals the exit pay of its former CEO. Mixed data out of the US economy sees expectations of a Federal Reserve rate cut next week solidify. Follow the day's events and insights on the ABC News live markets blog.",
+          "content": "The ASX rises, as do Virgin shares, as the airline reveals the exit pay of its former CEO. Mixed data out of the US economy sees expectations of a Federal Reserve rate cut next week solidify. Follow the day's events and insights on the ABC News live markets blog.",
+          "feed_position": 9
+        }
+      ],
+      "popularity_score": 267.6603019444444,
+      "ai_summary": [
+        "Virgin revealed the exit pay package for former CEO Jayne Hrdlicka.",
+        "The ASX experienced an increase in value during the day.",
+        "Virgin shares also saw an increase in value.",
+        "Mixed economic data from the US influences rate cut expectations.",
+        "The Federal Reserve rate cut expectations solidified for next week."
+      ]
+    },
+    {
+      "id": "cluster_78",
+      "coverage": 1,
+      "updated_at": "Thu, 11 Sep 2025 19:17:24 +0000",
+      "title": "What hope do the Liberals have if one rebellious senator brought a crisis?",
+      "neutral_headline": "Liberal Party Faces Internal Divisions, Political Crisis",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-09-12/sussan-ley-jacinta-nampijinpa-price-sacking/105748980",
+          "published_at": "Thu, 11 Sep 2025 19:17:24 +0000",
+          "title": "What hope do the Liberals have if one rebellious senator brought a crisis?",
+          "standfirst": "The fracas over Jacinta Nampijinpa Price shows the Liberal party is a seething mass of frustrated ambition, resentment, tribalism and deep ideological division.",
+          "content": "The fracas over Jacinta Nampijinpa Price shows the Liberal party is a seething mass of frustrated ambition, resentment, tribalism and deep ideological division.",
           "feed_position": 8
         }
       ],
-      "popularity_score": 268.73588027777777,
+      "popularity_score": 264.9130797222222,
       "ai_summary": [
-        "Online shopping scams are frequently reported, according to experts.",
-        "Scams impersonate well-known brands to deceive consumers.",
-        "These scams are often promoted through search engine advertisements.",
-        "Experts say these scams are alarmingly common.",
-        "Consumers are increasingly falling victim to these fraudulent websites."
+        "The actions of Senator Jacinta Nampijinpa Price caused a fracas.",
+        "The Liberal party is experiencing internal frustration and resentment.",
+        "Ideological divisions are present within the party.",
+        "The party is described as a mass of frustrated ambition.",
+        "Tribalism is also contributing to the internal issues."
       ]
     },
     {
-      "id": "cluster_20",
+      "id": "cluster_34",
       "coverage": 1,
-      "updated_at": "Thu, 11 Sep 2025 21:15:50 +0000",
-      "title": "Roosters star hobbles off with knee injury as minor premiership locked in",
-      "neutral_headline": "Roosters Secure Minor Premiership Despite Injury",
+      "updated_at": "Fri, 12 Sep 2025 01:52:50 +0000",
+      "title": "Bega sells Queensland peanut processing plants to family business",
+      "neutral_headline": "Bega Sells Peanut Plants to Crumpton Group in Queensland",
       "bullet_summary": [
         "Reported by ABC Just In"
       ],
       "items": [
         {
           "source": "ABC Just In",
-          "url": "https://www.abc.net.au/news/2025-09-12/tarryn-aiken-injures-knee-roosters-win-nrlw-minor-premiership/105765274",
-          "published_at": "Thu, 11 Sep 2025 21:15:50 +0000",
-          "title": "Roosters star hobbles off with knee injury as minor premiership locked in",
-          "standfirst": "The undefeated Sydney Roosters lock up the minor premiership with another big win despite a slew of injuries, including an apparently serious knee issue for halfback Tarryn Aiken.",
-          "content": "The undefeated Sydney Roosters lock up the minor premiership with another big win despite a slew of injuries, including an apparently serious knee issue for halfback Tarryn Aiken.",
+          "url": "https://www.abc.net.au/news/2025-09-12/bega-group-sells-peanut-processing-assets-to-crumpton-group/105763466",
+          "published_at": "Fri, 12 Sep 2025 01:52:50 +0000",
+          "title": "Bega sells Queensland peanut processing plants to family business",
+          "standfirst": "Workers and growers in the state's peanut industry receive a lifeline, with a major deal struck between Bega and the Crumpton Group.",
+          "content": "Workers and growers in the state's peanut industry receive a lifeline, with a major deal struck between Bega and the Crumpton Group.",
           "feed_position": 9
         }
       ],
-      "popularity_score": 261.0631025,
+      "popularity_score": 261.5036352777778,
       "ai_summary": [
-        "The Sydney Roosters secured the minor premiership with a win.",
-        "Tarryn Aiken suffered a knee injury during the game.",
-        "The Roosters achieved this victory despite multiple injuries.",
-        "The team's performance was strong throughout the match.",
-        "The Roosters are now in a favorable position for the finals."
+        "Bega sold its Queensland peanut processing plants.",
+        "The buyer is the Crumpton Group, a family business.",
+        "The deal provides a lifeline for workers and growers.",
+        "The peanut industry in Queensland benefits from the sale.",
+        "The transaction ensures continued peanut processing operations."
       ]
     },
     {
-      "id": "cluster_51",
+      "id": "cluster_53",
       "coverage": 1,
-      "updated_at": "Thu, 11 Sep 2025 19:35:02 +0000",
-      "title": "'A tragedy': 2,500 elderly patients stuck in hospital waiting for aged care",
-      "neutral_headline": "Elderly Patients Stuck in Hospitals Awaiting Aged Care",
-      "bullet_summary": [
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-09-12/federal-government-aged-care-hospital-beds-waitlist/105763730",
-          "published_at": "Thu, 11 Sep 2025 19:35:02 +0000",
-          "title": "'A tragedy': 2,500 elderly patients stuck in hospital waiting for aged care",
-          "standfirst": "States and territories will use a health ministers' meeting today to call on the federal government to do more to address what they say is a critical aged care crisis affecting hospitals around the nation.",
-          "content": "States and territories will use a health ministers' meeting today to call on the federal government to do more to address what they say is a critical aged care crisis affecting hospitals around the nation.",
-          "feed_position": 9
-        }
-      ],
-      "popularity_score": 259.3831025,
-      "ai_summary": [
-        "States and territories will address the aged care crisis.",
-        "They will urge the federal government to take further action.",
-        "Approximately 2,500 elderly patients are stuck in hospitals.",
-        "The situation is described as a critical aged care crisis.",
-        "A health ministers' meeting will discuss the issue."
-      ]
-    },
-    {
-      "id": "cluster_31",
-      "coverage": 1,
-      "updated_at": "Thu, 11 Sep 2025 20:44:50 +0000",
-      "title": "Mass grave filmed at SA piggery tied to animal welfare investigation",
-      "neutral_headline": "Mass Grave Filmed at South Australian Piggery",
+      "updated_at": "Thu, 11 Sep 2025 23:02:36 +0000",
+      "title": "Voters 'shrugging their shoulders', neglecting to vote in local elections",
+      "neutral_headline": "Low Voter Turnout in Recent Northern Territory Elections",
       "bullet_summary": [
         "Reported by ABC Just In"
       ],
       "items": [
         {
           "source": "ABC Just In",
-          "url": "https://www.abc.net.au/news/2025-09-12/andgar-piggeries-footage-sparks-animal-welfare-concerns/105752818",
-          "published_at": "Thu, 11 Sep 2025 20:44:50 +0000",
-          "title": "Mass grave filmed at SA piggery tied to animal welfare investigation",
-          "standfirst": "Footage taken at four South Australian piggeries shows animals confined in sow stalls and evidence of potential cannibalism.",
-          "content": "Footage taken at four South Australian piggeries shows animals confined in sow stalls and evidence of potential cannibalism.",
-          "feed_position": 15
+          "url": "https://www.abc.net.au/news/2025-09-12/nt-local-government-council-elections-see-dip-in-voter-turnout/105760662",
+          "published_at": "Thu, 11 Sep 2025 23:02:36 +0000",
+          "title": "Voters 'shrugging their shoulders', neglecting to vote in local elections",
+          "standfirst": "Two out of five of the NT's enrolled voters failed to vote in the jurisdictions recent local government elections, with experts concerned voting fatigue has taken hold.",
+          "content": "Two out of five of the NT's enrolled voters failed to vote in the jurisdictions recent local government elections, with experts concerned voting fatigue has taken hold.",
+          "feed_position": 17
         }
       ],
-      "popularity_score": 158.54643583333333,
+      "popularity_score": 160.66641305555555,
       "ai_summary": [
-        "Footage shows animals confined in sow stalls.",
-        "Evidence of potential cannibalism was also captured.",
-        "The footage was taken at four South Australian piggeries.",
-        "The footage is related to an animal welfare investigation.",
-        "The investigation is focused on the conditions at the piggeries."
+        "Two out of five NT voters did not vote in local elections.",
+        "Experts are concerned about voter fatigue in the region.",
+        "The low turnout occurred in recent local government elections.",
+        "The lack of participation is a cause for concern.",
+        "The election results reflect a significant voter absence."
       ]
     },
     {
-      "id": "cluster_32",
-      "coverage": 1,
-      "updated_at": "Thu, 11 Sep 2025 20:44:12 +0000",
-      "title": "Australian thanks her dogs for saving her life in Bali floods",
-      "neutral_headline": "Australian Thanks Dogs for Saving Her Life in Bali Floods",
-      "bullet_summary": [
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-09-12/australian-in-bali-survives-indonesian-flash-floods/105764660",
-          "published_at": "Thu, 11 Sep 2025 20:44:12 +0000",
-          "title": "Australian thanks her dogs for saving her life in Bali floods",
-          "standfirst": "Authorities are still cleaning up following the disaster, which hit two islands in the archipelago amid warnings more rain could fall in affected areas in coming days.",
-          "content": "Authorities are still cleaning up following the disaster, which hit two islands in the archipelago amid warnings more rain could fall in affected areas in coming days.",
-          "feed_position": 13
-        }
-      ],
-      "popularity_score": 158.53588027777778,
-      "ai_summary": [
-        "Authorities are still cleaning up after the Bali floods.",
-        "The floods hit two islands in the archipelago.",
-        "More rain could fall in affected areas in coming days.",
-        "The Australian was rescued by her dogs.",
-        "The disaster caused significant damage in the region."
-      ]
-    },
-    {
-      "id": "cluster_17",
-      "coverage": 1,
-      "updated_at": "Thu, 11 Sep 2025 21:43:58 +0000",
-      "title": "Plan to extend Melbourne F1 GP to three weeks shelved",
-      "neutral_headline": "Melbourne F1 GP Extension Plan Shelved by Government",
-      "bullet_summary": [
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-09-12/melbourne-f1-grand-prix-extension-shelved/105765288",
-          "published_at": "Thu, 11 Sep 2025 21:43:58 +0000",
-          "title": "Plan to extend Melbourne F1 GP to three weeks shelved",
-          "standfirst": "The Victorian government fails to win enough crossbench support for its bill to extend the Australian Formula One Grand Prix from a seven-day event to 21 days.",
-          "content": "The Victorian government fails to win enough crossbench support for its bill to extend the Australian Formula One Grand Prix from a seven-day event to 21 days.",
-          "feed_position": 22
-        }
-      ],
-      "popularity_score": 157.53199138888888,
-      "ai_summary": [
-        "The Victorian government failed to gain crossbench support.",
-        "The bill aimed to extend the F1 GP to 21 days.",
-        "The current event duration is seven days.",
-        "The government's plan was ultimately unsuccessful.",
-        "The proposal faced opposition from various parties."
-      ]
-    },
-    {
-      "id": "cluster_36",
-      "coverage": 1,
-      "updated_at": "Thu, 11 Sep 2025 20:31:52 +0000",
-      "title": "Police seize 38kg of cocaine in Melbourne drug bust",
-      "neutral_headline": "Police Seize Cocaine in Major Melbourne Drug Bust",
-      "bullet_summary": [
-        "Reported by ABC Just In"
-      ],
-      "items": [
-        {
-          "source": "ABC Just In",
-          "url": "https://www.abc.net.au/news/2025-09-12/vic-police-bust-drug-syndicate/105765216",
-          "published_at": "Thu, 11 Sep 2025 20:31:52 +0000",
-          "title": "Police seize 38kg of cocaine in Melbourne drug bust",
-          "standfirst": "Investigators say they've broken up a major drug syndicate operating out of Melbourne's west and north-west, seizing $20 million worth of illegal drugs.",
-          "content": "Investigators say they've broken up a major drug syndicate operating out of Melbourne's west and north-west, seizing $20 million worth of illegal drugs.",
-          "feed_position": 19
-        }
-      ],
-      "popularity_score": 156.33032472222223,
-      "ai_summary": [
-        "Police seized 38 kilograms of cocaine in Melbourne.",
-        "Investigators broke up a major drug syndicate.",
-        "The drugs seized are worth $20 million.",
-        "The syndicate operated in Melbourne's west and north-west.",
-        "The investigation led to multiple arrests."
-      ]
-    },
-    {
-      "id": "cluster_13",
+      "id": "cluster_61",
       "coverage": 1,
       "updated_at": "Thu, 11 Sep 2025 22:10:50 +0000",
-      "title": "Frontrunners emerge as Nepal's youth leaders and army discuss leadership",
-      "neutral_headline": "Frontrunners Emerge in Nepal Amidst Leadership Discussions",
+      "title": "After uniting to upend Nepal politics, Gen Z looks to appoint leader",
+      "neutral_headline": "Nepal's Gen Z Aims to Appoint Leader After Protests",
       "bullet_summary": [
         "Reported by ABC News Australia"
       ],
@@ -749,85 +592,434 @@
           "source": "ABC News Australia",
           "url": "https://www.abc.net.au/news/2025-09-12/youth-leaders-nepal-gen-z-meet-army-nepal-interim-leader/105764316",
           "published_at": "Thu, 11 Sep 2025 22:10:50 +0000",
-          "title": "Frontrunners emerge as Nepal's youth leaders and army discuss leadership",
+          "title": "After uniting to upend Nepal politics, Gen Z looks to appoint leader",
           "standfirst": "After days of deadly violence, protest organisers have met with Nepal's army to try to plot a path forward for the country, which has a deep distrust of democratic politics.",
           "content": "After days of deadly violence, protest organisers have met with Nepal's army to try to plot a path forward for the country, which has a deep distrust of democratic politics.",
-          "feed_position": 14
+          "feed_position": 23
         }
       ],
-      "popularity_score": 151.97976916666667,
+      "popularity_score": 159.80363527777777,
       "ai_summary": [
+        "Protests occurred in Nepal, resulting in deadly violence.",
         "Protest organizers met with Nepal's army.",
-        "They are trying to plot a path forward for the country.",
-        "Deadly violence occurred over several days.",
+        "The goal is to plot a path forward for the country.",
         "Nepal has a deep distrust of democratic politics.",
-        "Discussions focus on the country's future leadership."
+        "The younger generation seeks to appoint a leader."
       ]
     },
     {
-      "id": "cluster_19",
+      "id": "cluster_84",
       "coverage": 1,
-      "updated_at": "Thu, 11 Sep 2025 21:22:35 +0000",
-      "title": "How taking a stand became a headache for Basil Zempilas",
-      "neutral_headline": "Basil Zempilas Faces Challenges in Taking a Stand",
+      "updated_at": "Thu, 11 Sep 2025 18:19:26 +0000",
+      "title": "How the Jeffrey Epstein saga spread to British politics",
+      "neutral_headline": "Jeffrey Epstein Connection Impacts British Politics",
       "bullet_summary": [
         "Reported by ABC News Australia"
       ],
       "items": [
         {
           "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-09-12/basil-zempilas-taking-stand-headaches-wa-liberal-party/105764472",
-          "published_at": "Thu, 11 Sep 2025 21:22:35 +0000",
-          "title": "How taking a stand became a headache for Basil Zempilas",
-          "standfirst": "Basil Zempilas has been vocal in giving his federal party colleagues advice, but the events of the last week show just how difficult the job of uniting the WA Liberals truly is.",
-          "content": "Basil Zempilas has been vocal in giving his federal party colleagues advice, but the events of the last week show just how difficult the job of uniting the WA Liberals truly is.",
-          "feed_position": 21
+          "url": "https://www.abc.net.au/news/2025-09-12/mandelson-how-epstein-scandal-spread-to-the-uk-starmer/105764932",
+          "published_at": "Thu, 11 Sep 2025 18:19:26 +0000",
+          "title": "How the Jeffrey Epstein saga spread to British politics",
+          "standfirst": "After dogging the US president for months, evidence of a connection to Jeffrey Epstein has claimed a senior scalp within the British government.",
+          "content": "After dogging the US president for months, evidence of a connection to Jeffrey Epstein has claimed a senior scalp within the British government.",
+          "feed_position": 10
         }
       ],
-      "popularity_score": 151.1756025,
+      "popularity_score": 155.94696861111112,
       "ai_summary": [
-        "Basil Zempilas has been giving advice to federal party colleagues.",
-        "The events of the last week show the difficulty of uniting the WA Liberals.",
-        "He has been vocal in his support for his party.",
-        "The situation highlights the challenges of political unity.",
-        "Zempilas's actions have created a complex situation."
+        "Evidence of a connection to Jeffrey Epstein emerged.",
+        "The evidence has impacted British politics.",
+        "A senior figure within the British government was affected.",
+        "The Epstein saga has been ongoing for months.",
+        "The scandal originated in the United States."
       ]
     },
     {
-      "id": "cluster_21",
+      "id": "cluster_71",
       "coverage": 1,
-      "updated_at": "Thu, 11 Sep 2025 21:15:47 +0000",
-      "title": "Winning disgraced MP Gareth Ward's seat is a prize for both major parties",
-      "neutral_headline": "Kiama By-Election is a Prize for Major Parties",
+      "updated_at": "Thu, 11 Sep 2025 20:44:12 +0000",
+      "title": "Australian in Bali says she's never seen anything like recent floods",
+      "neutral_headline": "Australian Describes Bali Floods as Unprecedented",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-09-12/australian-in-bali-survives-indonesian-flash-floods/105764660",
+          "published_at": "Thu, 11 Sep 2025 20:44:12 +0000",
+          "title": "Australian in Bali says she's never seen anything like recent floods",
+          "standfirst": "Authorities are still cleaning up following the disaster, which hit two islands in the archipelago amid warnings more rain could fall in affected areas in coming days.",
+          "content": "Authorities are still cleaning up following the disaster, which hit two islands in the archipelago amid warnings more rain could fall in affected areas in coming days.",
+          "feed_position": 22
+        }
+      ],
+      "popularity_score": 154.35974638888888,
+      "ai_summary": [
+        "Authorities are cleaning up after the Bali floods.",
+        "The floods hit two islands in the archipelago.",
+        "An Australian resident described the event.",
+        "More rain is possible in the affected areas.",
+        "The recent floods were described as unprecedented."
+      ]
+    },
+    {
+      "id": "cluster_63",
+      "coverage": 1,
+      "updated_at": "Thu, 11 Sep 2025 21:43:58 +0000",
+      "title": "Plan to extend Melbourne F1 GP to three weeks shelved",
+      "neutral_headline": "Melbourne F1 GP Extension Plan Shelved by Government",
       "bullet_summary": [
         "Reported by ABC Just In"
       ],
       "items": [
         {
           "source": "ABC Just In",
-          "url": "https://www.abc.net.au/news/2025-09-12/kiama-by-election-test-for-labor-and-liberals-after-gareth-ward/105761224",
-          "published_at": "Thu, 11 Sep 2025 21:15:47 +0000",
-          "title": "Winning disgraced MP Gareth Ward's seat is a prize for both major parties",
-          "standfirst": "The Kiama by-election this weekend is more than a fight for one seat. It could reveal how voters view the state's major party leaders after scandal and political upheaval.",
-          "content": "The Kiama by-election this weekend is more than a fight for one seat. It could reveal how voters view the state's major party leaders after scandal and political upheaval.",
-          "feed_position": 10
+          "url": "https://www.abc.net.au/news/2025-09-12/melbourne-f1-grand-prix-extension-shelved/105765288",
+          "published_at": "Thu, 11 Sep 2025 21:43:58 +0000",
+          "title": "Plan to extend Melbourne F1 GP to three weeks shelved",
+          "standfirst": "The Victorian government fails to win enough crossbench support for its bill to extend the Australian Formula One Grand Prix from a seven-day event to 21 days.",
+          "content": "The Victorian government fails to win enough crossbench support for its bill to extend the Australian Formula One Grand Prix from a seven-day event to 21 days.",
+          "feed_position": 23
         }
       ],
-      "popularity_score": 151.06226916666668,
+      "popularity_score": 153.3558575,
       "ai_summary": [
-        "The Kiama by-election is more than a fight for one seat.",
-        "It could reveal voter views on state party leaders.",
-        "The election follows scandal and political upheaval.",
-        "The by-election is scheduled for this weekend.",
-        "The outcome will be significant for both major parties."
+        "The Victorian government's plan was to extend the GP.",
+        "The plan aimed to extend the event to three weeks.",
+        "The government failed to gain enough support.",
+        "The Australian Formula One Grand Prix is affected.",
+        "The event will remain a seven-day event."
       ]
     },
     {
-      "id": "cluster_23",
+      "id": "cluster_7",
+      "coverage": 1,
+      "updated_at": "Fri, 12 Sep 2025 02:54:35 +0000",
+      "title": "Court hears of NZ mother's 'descent into madness' before children's deaths",
+      "neutral_headline": "Court Hears Details of Mother's Actions Before Deaths",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-09-12/week-one-trial-hakyung-lee-case/105757948",
+          "published_at": "Fri, 12 Sep 2025 02:54:35 +0000",
+          "title": "Court hears of NZ mother's 'descent into madness' before children's deaths",
+          "standfirst": "Hakyung Lee is accused of murdering her children, eight-year-old Yuna Jo and six-year-old Minu Jo, and leaving their remains in suitcases at a storage facility in Auckland.",
+          "content": "Hakyung Lee is accused of murdering her children, eight-year-old Yuna Jo and six-year-old Minu Jo, and leaving their remains in suitcases at a storage facility in Auckland.",
+          "feed_position": 12
+        }
+      ],
+      "popularity_score": 152.53280194444443,
+      "ai_summary": [
+        "Hakyung Lee is accused of murdering her children.",
+        "The children were eight and six years old.",
+        "Their remains were found in suitcases.",
+        "The remains were located in a storage facility.",
+        "The court heard details of the mother's actions."
+      ]
+    },
+    {
+      "id": "cluster_10",
+      "coverage": 1,
+      "updated_at": "Fri, 12 Sep 2025 02:43:33 +0000",
+      "title": "Two men charged with murder allegedly involved in second fatal shooting",
+      "neutral_headline": "Two Men Charged with Murder in Second Fatal Shooting",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-09-12/multiple-murder-charges-and-attempted-murder-in-across-melbourne/105766530",
+          "published_at": "Fri, 12 Sep 2025 02:43:33 +0000",
+          "title": "Two men charged with murder allegedly involved in second fatal shooting",
+          "standfirst": "Police allege two men fatally shot a man in Melbourne two days after shooting another dead.",
+          "content": "Police allege two men fatally shot a man in Melbourne two days after shooting another dead.",
+          "feed_position": 14
+        }
+      ],
+      "popularity_score": 152.34891305555556,
+      "ai_summary": [
+        "Two men face murder charges in Melbourne.",
+        "The charges relate to a second fatal shooting.",
+        "The second shooting occurred two days after the first.",
+        "Police allege the men were involved in both shootings.",
+        "The investigation is ongoing regarding the incidents."
+      ]
+    },
+    {
+      "id": "cluster_22",
+      "coverage": 1,
+      "updated_at": "Fri, 12 Sep 2025 02:11:10 +0000",
+      "title": "'Beloved' pet euthanased after being mistaken for feral cat",
+      "neutral_headline": "Council apologizes for euthanizing family's lost pet",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-09-12/pet-cat-mistaken-for-feral-euthanased-by-council/105765304",
+          "published_at": "Fri, 12 Sep 2025 02:11:10 +0000",
+          "title": "'Beloved' pet euthanased after being mistaken for feral cat",
+          "standfirst": "A regional South Australian council has publicly apologised to a family whose lost pet was euthanased after it was mistaken for a feral cat.",
+          "content": "A regional South Australian council has publicly apologised to a family whose lost pet was euthanased after it was mistaken for a feral cat.",
+          "feed_position": 18
+        }
+      ],
+      "popularity_score": 151.80919083333333,
+      "ai_summary": [
+        "A South Australian council mistakenly euthanized a family's lost pet.",
+        "The pet was wrongly identified as a feral cat.",
+        "The council issued a public apology to the affected family.",
+        "The incident occurred in a regional area of South Australia.",
+        "The family's pet was euthanized by the council."
+      ]
+    },
+    {
+      "id": "cluster_38",
+      "coverage": 1,
+      "updated_at": "Fri, 12 Sep 2025 01:38:43 +0000",
+      "title": "Wallaroos targeting World Cup quarterfinal boilover",
+      "neutral_headline": "Wallaroos aim for World Cup quarterfinal upset",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-09-12/wallaroos-team-world-cup-quarterfinal-vs-canada/105765618",
+          "published_at": "Fri, 12 Sep 2025 01:38:43 +0000",
+          "title": "Wallaroos targeting World Cup quarterfinal boilover",
+          "standfirst": "Australia's Wallaroos are dreaming of an unlikely World Cup semifinal berth, but they will need to get past a team they have never beaten before.",
+          "content": "Australia's Wallaroos are dreaming of an unlikely World Cup semifinal berth, but they will need to get past a team they have never beaten before.",
+          "feed_position": 19
+        }
+      ],
+      "popularity_score": 151.2683575,
+      "ai_summary": [
+        "Australia's Wallaroos are aiming for a World Cup semifinal berth.",
+        "They must defeat a team they have never beaten before.",
+        "The Wallaroos are dreaming of an unlikely semifinal appearance.",
+        "The team is competing in the Women's Rugby World Cup.",
+        "The Wallaroos are targeting a quarterfinal boilover."
+      ]
+    },
+    {
+      "id": "cluster_44",
+      "coverage": 1,
+      "updated_at": "Fri, 12 Sep 2025 00:25:54 +0000",
+      "title": "Think about data safety when disposing of old devices, recyclers say",
+      "neutral_headline": "Experts advise data safety when disposing of old devices",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-09-12/what-happens-to-data-when-disposing-of-old-devices-in-ewaste/105681804",
+          "published_at": "Fri, 12 Sep 2025 00:25:54 +0000",
+          "title": "Think about data safety when disposing of old devices, recyclers say",
+          "standfirst": "A cybercrime expert says trading or recycling electronics may not completely erase personal data and users should adopt a \"risk-adjusted strategy\" when disposing of devices.",
+          "content": "A cybercrime expert says trading or recycling electronics may not completely erase personal data and users should adopt a \"risk-adjusted strategy\" when disposing of devices.",
+          "feed_position": 20
+        }
+      ],
+      "popularity_score": 150.05474638888887,
+      "ai_summary": [
+        "Experts advise caution when trading or recycling electronics.",
+        "Personal data may not be completely erased during disposal.",
+        "A cybercrime expert suggests a \"risk-adjusted strategy\".",
+        "Users should consider data security when getting rid of devices.",
+        "Recycling or trading may not fully erase personal information."
+      ]
+    },
+    {
+      "id": "cluster_46",
+      "coverage": 1,
+      "updated_at": "Thu, 11 Sep 2025 23:44:33 +0000",
+      "title": "Teen suffers life-threatening injuries in Port Lincoln stabbing",
+      "neutral_headline": "Teenager suffers life-threatening injuries in Port Lincoln stabbing",
+      "bullet_summary": [
+        "A 15-year-old is arrested and charged after another teen is found with serious stab wounds to his chest in South Australia",
+        "Reported by ABC Just In"
+      ],
+      "items": [
+        {
+          "source": "ABC Just In",
+          "url": "https://www.abc.net.au/news/2025-09-12/teen-charged-after-port-lincoln-stabbing/105765538",
+          "published_at": "Thu, 11 Sep 2025 23:44:33 +0000",
+          "title": "Teen suffers life-threatening injuries in Port Lincoln stabbing",
+          "standfirst": "A 15-year-old is arrested and charged after another teen is found with serious stab wounds to his chest in South Australia.",
+          "content": "A 15-year-old is arrested and charged after another teen is found with serious stab wounds to his chest in South Australia.",
+          "feed_position": 13
+        }
+      ],
+      "popularity_score": 149.3655797222222,
+      "ai_summary": [
+        "A 15-year-old was arrested and charged in Port Lincoln.",
+        "Another teen was found with serious stab wounds to the chest.",
+        "The injured teen sustained life-threatening injuries.",
+        "The incident occurred in South Australia.",
+        "Police are investigating the stabbing incident."
+      ]
+    },
+    {
+      "id": "cluster_47",
+      "coverage": 1,
+      "updated_at": "Thu, 11 Sep 2025 23:39:18 +0000",
+      "title": "Calls for SA gulfs to be shut to protect 'near-non-existent' stocks amid algal bloom",
+      "neutral_headline": "Calls to close SA gulfs to protect dwindling fish stocks",
+      "bullet_summary": [
+        "Reported by ABC Just In"
+      ],
+      "items": [
+        {
+          "source": "ABC Just In",
+          "url": "https://www.abc.net.au/news/2025-09-12/calls-for-fishing-ban-amid-toxic-algal-bloom/105763810",
+          "published_at": "Thu, 11 Sep 2025 23:39:18 +0000",
+          "title": "Calls for SA gulfs to be shut to protect 'near-non-existent' stocks amid algal bloom",
+          "standfirst": "Commercial fishers in the Gulf St Vincent tell a Senate inquiry it would be best to close the area in order to save the future of the catch and the industry.",
+          "content": "Commercial fishers in the Gulf St Vincent tell a Senate inquiry it would be best to close the area in order to save the future of the catch and the industry.",
+          "feed_position": 14
+        }
+      ],
+      "popularity_score": 149.27807972222223,
+      "ai_summary": [
+        "Calls are made to close South Australian gulfs.",
+        "The closure aims to protect \"near-non-existent\" fish stocks.",
+        "Commercial fishers support closing the Gulf St Vincent.",
+        "An algal bloom is impacting the area.",
+        "The closure is proposed to save the fishing industry."
+      ]
+    },
+    {
+      "id": "cluster_51",
+      "coverage": 1,
+      "updated_at": "Thu, 11 Sep 2025 23:08:45 +0000",
+      "title": "Residents call for lower speed limits after van strikes Albany grandmother",
+      "neutral_headline": "Residents seek lower speed limits after van hits grandmother",
+      "bullet_summary": [
+        "Reported by ABC Just In"
+      ],
+      "items": [
+        {
+          "source": "ABC Just In",
+          "url": "https://www.abc.net.au/news/2025-09-12/improved-pedestrian-safety-calls-driver-charged-albany-crash/105763894",
+          "published_at": "Thu, 11 Sep 2025 23:08:45 +0000",
+          "title": "Residents call for lower speed limits after van strikes Albany grandmother",
+          "standfirst": "A crash involving a van and an 81-year-old woman in Albany prompts calls for reduced speed limits from locals and road safety advocates.",
+          "content": "A crash involving a van and an 81-year-old woman in Albany prompts calls for reduced speed limits from locals and road safety advocates.",
+          "feed_position": 16
+        }
+      ],
+      "popularity_score": 148.76891305555554,
+      "ai_summary": [
+        "A van struck an 81-year-old woman in Albany.",
+        "Locals are calling for reduced speed limits.",
+        "Road safety advocates also support lower speed limits.",
+        "The crash prompted calls for improved road safety.",
+        "The incident occurred in Albany, Western Australia."
+      ]
+    },
+    {
+      "id": "cluster_54",
+      "coverage": 1,
+      "updated_at": "Thu, 11 Sep 2025 23:00:07 +0000",
+      "title": "Jay Vine misses out on Vuelta hat-trick by less than a second",
+      "neutral_headline": "Jay Vine misses Vuelta hat-trick by less than a second",
+      "bullet_summary": [
+        "Reported by ABC Just In"
+      ],
+      "items": [
+        {
+          "source": "ABC Just In",
+          "url": "https://www.abc.net.au/news/2025-09-12/jay-vine-misses-vuelta-a-espana-time-trial-under-a-second/105765416",
+          "published_at": "Thu, 11 Sep 2025 23:00:07 +0000",
+          "title": "Jay Vine misses out on Vuelta hat-trick by less than a second",
+          "standfirst": "Australian Jay Vine misses out on a third stage win in this year's Vuelta a España by less than a second in the individual time trial.",
+          "content": "Australian Jay Vine misses out on a third stage win in this year's Vuelta a España by less than a second in the individual time trial.",
+          "feed_position": 18
+        }
+      ],
+      "popularity_score": 148.62502416666666,
+      "ai_summary": [
+        "Australian Jay Vine missed a third stage win.",
+        "He lost by less than a second in the time trial.",
+        "The race was the Vuelta a España.",
+        "Vine was competing in the individual time trial.",
+        "He was aiming for a hat-trick of stage wins."
+      ]
+    },
+    {
+      "id": "cluster_58",
+      "coverage": 1,
+      "updated_at": "Thu, 11 Sep 2025 22:44:34 +0000",
+      "title": "Jamal Fogarty isn't the perfect halfback but he's the perfect halfback for Canberra",
+      "neutral_headline": "Jamal Fogarty is the perfect halfback for Canberra Raiders",
+      "bullet_summary": [
+        "Reported by ABC Just In"
+      ],
+      "items": [
+        {
+          "source": "ABC Just In",
+          "url": "https://www.abc.net.au/news/2025-09-12/jamal-fogarty-canberra-raiders-nrl-finals-broncos/105763708",
+          "published_at": "Thu, 11 Sep 2025 22:44:34 +0000",
+          "title": "Jamal Fogarty isn't the perfect halfback but he's the perfect halfback for Canberra",
+          "standfirst": "Jamal Fogarty has spent a rugby league lifetime waiting to play on a team like the Raiders. Now with the NRL finals approaching, he's ready for his close-up.",
+          "content": "Jamal Fogarty has spent a rugby league lifetime waiting to play on a team like the Raiders. Now with the NRL finals approaching, he's ready for his close-up.",
+          "feed_position": 19
+        }
+      ],
+      "popularity_score": 148.3658575,
+      "ai_summary": [
+        "Jamal Fogarty is ready for the NRL finals.",
+        "He has waited to play for a team like the Raiders.",
+        "Fogarty is the perfect halfback for Canberra.",
+        "He is playing for the Canberra Raiders.",
+        "The NRL finals are approaching."
+      ]
+    },
+    {
+      "id": "cluster_60",
+      "coverage": 1,
+      "updated_at": "Thu, 11 Sep 2025 22:12:10 +0000",
+      "title": "Outback hairdresser drives 1,000km just to 'spoil' her clients",
+      "neutral_headline": "Outback hairdresser drives 1,000km to serve clients",
+      "bullet_summary": [
+        "Reported by ABC Just In"
+      ],
+      "items": [
+        {
+          "source": "ABC Just In",
+          "url": "https://www.abc.net.au/news/2025-09-12/outback-hairdresser-travels-1000kms-to-pamper-remote-residents/105636488",
+          "published_at": "Thu, 11 Sep 2025 22:12:10 +0000",
+          "title": "Outback hairdresser drives 1,000km just to 'spoil' her clients",
+          "standfirst": "The \"salon\" is an op shop and the round-trip commute's a doozy, but Juliann Mutch is happy to go the extra distance to pamper her grateful Wilcannia clientele.",
+          "content": "The \"salon\" is an op shop and the round-trip commute's a doozy, but Juliann Mutch is happy to go the extra distance to pamper her grateful Wilcannia clientele.",
+          "feed_position": 20
+        }
+      ],
+      "popularity_score": 147.8258575,
+      "ai_summary": [
+        "A hairdresser drives 1,000km to serve clients.",
+        "The \"salon\" is an op shop in Wilcannia.",
+        "Juliann Mutch travels to pamper her clients.",
+        "She serves grateful clients in Wilcannia.",
+        "The round trip commute is a long distance."
+      ]
+    },
+    {
+      "id": "cluster_65",
       "coverage": 1,
       "updated_at": "Thu, 11 Sep 2025 21:00:00 +0000",
-      "title": "Soft plastic recycling is slowly returning. Will it work this time?",
-      "neutral_headline": "Soft Plastic Recycling Slowly Returns After REDcycle Disaster",
+      "title": "Supermarkets are collecting soft plastics again, as recycling trial expands",
+      "neutral_headline": "Supermarkets resume soft plastic recycling trials",
       "bullet_summary": [
         "Reported by ABC News Australia"
       ],
@@ -836,172 +1028,27 @@
           "source": "ABC News Australia",
           "url": "https://www.abc.net.au/news/science/2025-09-12/soft-plastics-recycling-woolworths-coles-aldi-trial/105756840",
           "published_at": "Thu, 11 Sep 2025 21:00:00 +0000",
-          "title": "Soft plastic recycling is slowly returning. Will it work this time?",
+          "title": "Supermarkets are collecting soft plastics again, as recycling trial expands",
           "standfirst": "Industry is cautiously moving ahead with a new soft plastic recycling system in the wake of the REDcycle disaster. How will it work, and can we really have a circular soft plastic system in Australia?",
           "content": "Industry is cautiously moving ahead with a new soft plastic recycling system in the wake of the REDcycle disaster. How will it work, and can we really have a circular soft plastic system in Australia?",
-          "feed_position": 23
+          "feed_position": 24
         }
       ],
-      "popularity_score": 150.7992136111111,
+      "popularity_score": 146.62307972222223,
       "ai_summary": [
-        "Industry is cautiously moving ahead with a new system.",
-        "The new system follows the REDcycle disaster.",
-        "The question is whether a circular system is possible.",
-        "The industry is working to improve recycling.",
-        "The new system aims to address the previous failures."
+        "Supermarkets are collecting soft plastics again.",
+        "The recycling trial is expanding after REDcycle's issues.",
+        "The industry is cautiously moving forward.",
+        "The article questions the viability of a circular system.",
+        "The REDcycle disaster caused a setback."
       ]
     },
     {
-      "id": "cluster_24",
-      "coverage": 1,
-      "updated_at": "Thu, 11 Sep 2025 20:57:06 +0000",
-      "title": "Police escort footy officials from ground after netball result ignites rivalry",
-      "neutral_headline": "Police Escort Officials After Netball Result Sparks Rivalry",
-      "bullet_summary": [
-        "Reported by ABC Just In"
-      ],
-      "items": [
-        {
-          "source": "ABC Just In",
-          "url": "https://www.abc.net.au/news/2025-09-12/wimmera-netball-scoring-error-sparks-football-controversy/105753726",
-          "published_at": "Thu, 11 Sep 2025 20:57:06 +0000",
-          "title": "Police escort footy officials from ground after netball result ignites rivalry",
-          "standfirst": "A botched score in a western Victorian netball league final has led to a senior official resigning and a police escort at the rival clubs' football match as tensions between the clubs remain.",
-          "content": "A botched score in a western Victorian netball league final has led to a senior official resigning and a police escort at the rival clubs' football match as tensions between the clubs remain.",
-          "feed_position": 13
-        }
-      ],
-      "popularity_score": 150.75088027777778,
-      "ai_summary": [
-        "A botched score ignited rivalry between clubs.",
-        "A senior official resigned after the incident.",
-        "Police escorted officials from the ground.",
-        "Tensions remain between the rival clubs.",
-        "The incident occurred in a western Victorian netball final."
-      ]
-    },
-    {
-      "id": "cluster_29",
-      "coverage": 1,
-      "updated_at": "Thu, 11 Sep 2025 20:45:41 +0000",
-      "title": "Bishop says ANU is 'turning a page', but many argue it can't with her as chancellor",
-      "neutral_headline": "Bishop Says ANU is Turning a Page, But Doubts Remain",
-      "bullet_summary": [
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-09-12/vc-bell-resignation-unlikely-satisfy-call-anu-leadership-change/105763826",
-          "published_at": "Thu, 11 Sep 2025 20:45:41 +0000",
-          "title": "Bishop says ANU is 'turning a page', but many argue it can't with her as chancellor",
-          "standfirst": "The announcement of vice-chancellor Genevieve Bell's resignation on Thursday was greeted with cheers, however the view on campus is that this alone will not reverse the erosion of trust and morale that has already occurred.",
-          "content": "The announcement of vice-chancellor Genevieve Bell's resignation on Thursday was greeted with cheers, however the view on campus is that this alone will not reverse the erosion of trust and morale that has already occurred.",
-          "feed_position": 16
-        }
-      ],
-      "popularity_score": 150.56060250000002,
-      "ai_summary": [
-        "The vice-chancellor's resignation was greeted with cheers.",
-        "The view on campus is that trust has eroded.",
-        "Morale has also been negatively impacted.",
-        "The announcement was made on Thursday.",
-        "Many argue that the problems will persist."
-      ]
-    },
-    {
-      "id": "cluster_33",
-      "coverage": 1,
-      "updated_at": "Thu, 11 Sep 2025 20:38:18 +0000",
-      "title": "The senior citizens healing prisoners from inside jailhouse walls",
-      "neutral_headline": "Elders Help Prisoners Heal Inside Jailhouse Walls",
-      "bullet_summary": [
-        "Reported by ABC Just In"
-      ],
-      "items": [
-        {
-          "source": "ABC Just In",
-          "url": "https://www.abc.net.au/news/2025-09-12/aboriginal-elders-visiting-nt-prisons-program-20th-anniversary/105762476",
-          "published_at": "Thu, 11 Sep 2025 20:38:18 +0000",
-          "title": "The senior citizens healing prisoners from inside jailhouse walls",
-          "standfirst": "A decades-long partnership between Indigenous elders and the Northern Territory’s prison system is helping prisoners reconnect with culture and encouraging them to turn their lives around.",
-          "content": "A decades-long partnership between Indigenous elders and the Northern Territory’s prison system is helping prisoners reconnect with culture and encouraging them to turn their lives around.",
-          "feed_position": 17
-        }
-      ],
-      "popularity_score": 150.43754694444445,
-      "ai_summary": [
-        "Indigenous elders partner with the prison system.",
-        "They help prisoners reconnect with culture.",
-        "The program encourages prisoners to turn their lives around.",
-        "The partnership has lasted for decades.",
-        "The program operates within the Northern Territory's prison system."
-      ]
-    },
-    {
-      "id": "cluster_34",
-      "coverage": 1,
-      "updated_at": "Thu, 11 Sep 2025 20:38:02 +0000",
-      "title": "Call for tip-offs to 3D-printed guns, internet contraband coming into Tasmania",
-      "neutral_headline": "Tasmanian Police Seek Tip-offs on 3D-Printed Guns",
-      "bullet_summary": [
-        "Reported by ABC Just In"
-      ],
-      "items": [
-        {
-          "source": "ABC Just In",
-          "url": "https://www.abc.net.au/news/2025-09-12/tasmania-crime-stoppers-3d-guns-drugs-tip-offs/105754796",
-          "published_at": "Thu, 11 Sep 2025 20:38:02 +0000",
-          "title": "Call for tip-offs to 3D-printed guns, internet contraband coming into Tasmania",
-          "standfirst": "While they may look strange, even toy-like, 3D-printed weapons can still be deadly — and they are high on the watchlist for police in Tasmania.",
-          "content": "While they may look strange, even toy-like, 3D-printed weapons can still be deadly — and they are high on the watchlist for police in Tasmania.",
-          "feed_position": 18
-        }
-      ],
-      "popularity_score": 150.4331025,
-      "ai_summary": [
-        "Tasmanian police are concerned about 3D-printed weapons entering the state.",
-        "These weapons, though toy-like, can still cause serious harm.",
-        "Police are actively monitoring and investigating the potential threat.",
-        "Authorities are seeking information from the public regarding these items.",
-        "3D-printed guns are considered a high priority for law enforcement."
-      ]
-    },
-    {
-      "id": "cluster_37",
-      "coverage": 1,
-      "updated_at": "Thu, 11 Sep 2025 20:29:14 +0000",
-      "title": "Jacinta Nampijinpa Price accused of working against electorate on migration",
-      "neutral_headline": "Senator Price Accused of Contradictory Migration Stance",
-      "bullet_summary": [
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-09-12/jacinta-nampijinpa-price-comments-nt-migration-push-criticism/105761316",
-          "published_at": "Thu, 11 Sep 2025 20:29:14 +0000",
-          "title": "Jacinta Nampijinpa Price accused of working against electorate on migration",
-          "standfirst": "Senator Jacinta Nampijinpa Price has spoken repeatedly of the \"damaging impacts of mass migration\" – but the Northern Territory wants to attract thousands more migrants.",
-          "content": "Senator Jacinta Nampijinpa Price has spoken repeatedly of the \"damaging impacts of mass migration\" – but the Northern Territory wants to attract thousands more migrants.",
-          "feed_position": 15
-        }
-      ],
-      "popularity_score": 150.28643583333334,
-      "ai_summary": [
-        "Senator Jacinta Nampijinpa Price has criticized mass migration.",
-        "The Northern Territory government wants to attract more migrants.",
-        "Price has spoken about the negative impacts of migration.",
-        "The government's migration goals conflict with Price's statements.",
-        "This creates a point of contention within the political landscape."
-      ]
-    },
-    {
-      "id": "cluster_38",
+      "id": "cluster_73",
       "coverage": 1,
       "updated_at": "Thu, 11 Sep 2025 20:22:45 +0000",
       "title": "Macron is so unpopular in France, many say resignation is his only option",
-      "neutral_headline": "French President Macron Faces Calls for Resignation",
+      "neutral_headline": "Macron faces calls for resignation amid French political chaos",
       "bullet_summary": [
         "Reported by ABC News Australia"
       ],
@@ -1013,169 +1060,82 @@
           "title": "Macron is so unpopular in France, many say resignation is his only option",
           "standfirst": "France is stuck in a cycle of political chaos, with no clear end in sight. It has sparked calls for President Emmanuel Macron's resignation and has become so dire that another round of snap legislative elections is considered possible.",
           "content": "France is stuck in a cycle of political chaos, with no clear end in sight. It has sparked calls for President Emmanuel Macron's resignation and has become so dire that another round of snap legislative elections is considered possible.",
+          "feed_position": 13
+        }
+      ],
+      "popularity_score": 146.0022463888889,
+      "ai_summary": [
+        "France is experiencing political chaos.",
+        "Calls for President Macron's resignation are growing.",
+        "Another round of snap elections is possible.",
+        "The situation has become increasingly dire.",
+        "The political situation has no clear end."
+      ]
+    },
+    {
+      "id": "cluster_74",
+      "coverage": 1,
+      "updated_at": "Thu, 11 Sep 2025 19:49:22 +0000",
+      "title": "Indian Australians urge Jacinta Nampijinpa Price to apologise to help community 'heal'",
+      "neutral_headline": "Indian Australians want apology from Jacinta Price",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-09-12/indian-australian-community-feel-targeted-after-anti-immigration/105751878",
+          "published_at": "Thu, 11 Sep 2025 19:49:22 +0000",
+          "title": "Indian Australians urge Jacinta Nampijinpa Price to apologise to help community 'heal'",
+          "standfirst": "Nearly two weeks after the \"March for Australia\" rallies, the Indian Australian community continues to grapple with the political targeting of the diaspora.",
+          "content": "Nearly two weeks after the \"March for Australia\" rallies, the Indian Australian community continues to grapple with the political targeting of the diaspora.",
+          "feed_position": 15
+        }
+      ],
+      "popularity_score": 145.4458575,
+      "ai_summary": [
+        "Indian Australians want an apology from Price.",
+        "The community seeks healing after rallies.",
+        "The \"March for Australia\" rallies occurred recently.",
+        "The community grapples with political targeting.",
+        "The diaspora is affected by political actions."
+      ]
+    },
+    {
+      "id": "cluster_76",
+      "coverage": 1,
+      "updated_at": "Thu, 11 Sep 2025 19:35:02 +0000",
+      "title": "'A tragedy': 2,500 elderly patients stuck in hospital waiting for aged care",
+      "neutral_headline": "Hospitals struggle with elderly patients awaiting aged care",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2025-09-12/federal-government-aged-care-hospital-beds-waitlist/105763730",
+          "published_at": "Thu, 11 Sep 2025 19:35:02 +0000",
+          "title": "'A tragedy': 2,500 elderly patients stuck in hospital waiting for aged care",
+          "standfirst": "States and territories will use a health ministers' meeting today to call on the federal government to do more to address what they say is a critical aged care crisis affecting hospitals around the nation.",
+          "content": "States and territories will use a health ministers' meeting today to call on the federal government to do more to address what they say is a critical aged care crisis affecting hospitals around the nation.",
           "feed_position": 11
         }
       ],
-      "popularity_score": 150.17838027777776,
+      "popularity_score": 145.2069686111111,
       "ai_summary": [
-        "President Macron's popularity is low in France.",
-        "Political instability has become a recurring issue.",
-        "Calls for Macron's resignation are increasing.",
-        "Another round of snap elections is considered possible.",
-        "The political situation is seen as dire by many."
+        "2,500 elderly patients are stuck in hospitals.",
+        "They are waiting for aged care placement.",
+        "States and territories will address the issue.",
+        "A health ministers' meeting will discuss the crisis.",
+        "The aged care crisis affects hospitals."
       ]
     },
     {
-      "id": "cluster_40",
-      "coverage": 1,
-      "updated_at": "Thu, 11 Sep 2025 20:18:08 +0000",
-      "title": "OzHarvest says more people seeking food relief amid cost-of-living pressures",
-      "neutral_headline": "OzHarvest Reports Increased Demand for Food Relief",
-      "bullet_summary": [
-        "Reported by ABC Just In"
-      ],
-      "items": [
-        {
-          "source": "ABC Just In",
-          "url": "https://www.abc.net.au/news/2025-09-12/ozharvest-free-supermarket-offers-food-relief/105750544",
-          "published_at": "Thu, 11 Sep 2025 20:18:08 +0000",
-          "title": "OzHarvest says more people seeking food relief amid cost-of-living pressures",
-          "standfirst": "A year after opening its doors, OzHarvest's first free supermarket in Adelaide says demand for food relief is greater than ever.",
-          "content": "A year after opening its doors, OzHarvest's first free supermarket in Adelaide says demand for food relief is greater than ever.",
-          "feed_position": 22
-        }
-      ],
-      "popularity_score": 150.10143583333334,
-      "ai_summary": [
-        "OzHarvest's Adelaide supermarket opened a year ago.",
-        "Demand for food relief has increased significantly.",
-        "The organization is serving more people than ever before.",
-        "Cost-of-living pressures are contributing to the demand.",
-        "OzHarvest provides free food to those in need."
-      ]
-    },
-    {
-      "id": "cluster_42",
-      "coverage": 1,
-      "updated_at": "Thu, 11 Sep 2025 20:12:45 +0000",
-      "title": "Toni Jordan grew up at the greyhound track. It inspired her latest novel",
-      "neutral_headline": "Toni Jordan's Novel Inspired by Greyhound Track Childhood",
-      "bullet_summary": [
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-09-12/toni-jordan-books-tenderfoot-interview/105754310",
-          "published_at": "Thu, 11 Sep 2025 20:12:45 +0000",
-          "title": "Toni Jordan grew up at the greyhound track. It inspired her latest novel",
-          "standfirst": "The acclaimed author's father was a greyhound trainer and her mother ran a TAB. Her unconventional childhood inspired her eighth book, Tenderfoot.",
-          "content": "The acclaimed author's father was a greyhound trainer and her mother ran a TAB. Her unconventional childhood inspired her eighth book, Tenderfoot.",
-          "feed_position": 18
-        }
-      ],
-      "popularity_score": 150.0117136111111,
-      "ai_summary": [
-        "Author Toni Jordan's father trained greyhounds.",
-        "Her mother managed a Totalisator Agency Board (TAB).",
-        "Her childhood inspired her eighth book, \"Tenderfoot\".",
-        "The book explores themes related to her upbringing.",
-        "Jordan's unconventional background shaped her writing."
-      ]
-    },
-    {
-      "id": "cluster_45",
-      "coverage": 1,
-      "updated_at": "Thu, 11 Sep 2025 19:53:48 +0000",
-      "title": "Former police say rewards can work as $1m offered in Dezi Freeman search",
-      "neutral_headline": "Former Police Say Rewards Can Help Solve Crimes",
-      "bullet_summary": [
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-09-12/former-police-discuss-effectiveness-rewards-for-information/105747554",
-          "published_at": "Thu, 11 Sep 2025 19:53:48 +0000",
-          "title": "Former police say rewards can work as $1m offered in Dezi Freeman search",
-          "standfirst": "A criminology researcher says rewards do work as a way of catching people, even if the success rate appears low.",
-          "content": "A criminology researcher says rewards do work as a way of catching people, even if the success rate appears low.",
-          "feed_position": 24
-        }
-      ],
-      "popularity_score": 149.69588027777777,
-      "ai_summary": [
-        "Former police officers believe rewards can help solve crimes.",
-        "A $1 million reward is offered in the Dezi Freeman search.",
-        "A criminology researcher supports the use of rewards.",
-        "Success rates of rewards may appear low.",
-        "Rewards can be a useful tool for catching criminals."
-      ]
-    },
-    {
-      "id": "cluster_47",
-      "coverage": 1,
-      "updated_at": "Thu, 11 Sep 2025 19:47:19 +0000",
-      "title": "Muslim groups welcome Islamophobia report amid harassment spike",
-      "neutral_headline": "Muslim Groups Welcome Islamophobia Report Findings",
-      "bullet_summary": [
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-09-12/muslim-groups-call-for-rethink-of-counter-terrorism-approach/105764246",
-          "published_at": "Thu, 11 Sep 2025 19:47:19 +0000",
-          "title": "Muslim groups welcome Islamophobia report amid harassment spike",
-          "standfirst": "Community leaders say the government must consider social and legal reforms to address a spike in Islamophobic incidents.",
-          "content": "Community leaders say the government must consider social and legal reforms to address a spike in Islamophobic incidents.",
-          "feed_position": 17
-        }
-      ],
-      "popularity_score": 149.58782472222222,
-      "ai_summary": [
-        "Muslim community leaders welcome the report.",
-        "They want social and legal reforms to address Islamophobia.",
-        "There has been a spike in Islamophobic incidents.",
-        "The government must consider these reforms.",
-        "The report highlights the need for action."
-      ]
-    },
-    {
-      "id": "cluster_49",
-      "coverage": 1,
-      "updated_at": "Thu, 11 Sep 2025 19:38:58 +0000",
-      "title": "Regulator in gas leak 'scandal' had paid role with industry lobbyist",
-      "neutral_headline": "Gas Leak Regulator Had Paid Role with Industry Lobbyist",
-      "bullet_summary": [
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-09-12/nt-regulator-oversight-gas-leak-scandal-paid-role-lobbyist/105752490",
-          "published_at": "Thu, 11 Sep 2025 19:38:58 +0000",
-          "title": "Regulator in gas leak 'scandal' had paid role with industry lobbyist",
-          "standfirst": "The man in charge of the Northern Territory government's handling of a major methane leak at a Santos gas plant was working with a lobbyist for the project's co-owner.",
-          "content": "The man in charge of the Northern Territory government's handling of a major methane leak at a Santos gas plant was working with a lobbyist for the project's co-owner.",
-          "feed_position": 19
-        }
-      ],
-      "popularity_score": 149.44865805555554,
-      "ai_summary": [
-        "A regulator handled a major methane leak.",
-        "The regulator worked with a lobbyist for Santos.",
-        "The lobbyist represented the project's co-owner.",
-        "This raises questions about potential conflicts of interest.",
-        "The situation involves a gas leak at a Santos plant."
-      ]
-    },
-    {
-      "id": "cluster_54",
+      "id": "cluster_77",
       "coverage": 1,
       "updated_at": "Thu, 11 Sep 2025 19:25:01 +0000",
       "title": "Weekly news quiz: A lunar eclipse, the VMAs and a new richest person",
-      "neutral_headline": "Weekly News Quiz Covers Diverse Current Events",
+      "neutral_headline": "Weekly news quiz covers eclipse, VMAs, and wealth",
       "bullet_summary": [
         "Reported by ABC News Australia"
       ],
@@ -1187,75 +1147,16 @@
           "title": "Weekly news quiz: A lunar eclipse, the VMAs and a new richest person",
           "standfirst": "A lot happened this week. Have you been paying attention?",
           "content": "A lot happened this week. Have you been paying attention?",
-          "feed_position": 10
+          "feed_position": 21
         }
       ],
-      "popularity_score": 149.21615805555555,
+      "popularity_score": 145.04002416666665,
       "ai_summary": [
-        "A weekly news quiz tests knowledge of current events.",
+        "A weekly news quiz covers recent events.",
         "Topics include a lunar eclipse and the VMAs.",
         "The quiz also covers the new richest person.",
-        "It assesses how well people have been paying attention.",
-        "The quiz covers a variety of news stories."
-      ]
-    },
-    {
-      "id": "cluster_63",
-      "coverage": 1,
-      "updated_at": "Thu, 11 Sep 2025 15:39:59 +0000",
-      "title": "Ireland threatens Eurovision boycott if Israel takes part",
-      "neutral_headline": "Ireland Threatens Eurovision Boycott Over Israel",
-      "bullet_summary": [
-        "Irish national broadcaster RTE has said Ireland will not participate in Eurovision 2026 if Israel does, citing the ongoing and appalling loss of lives in Gaza",
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2025-09-12/ireland-threatens-eurovision-boycott-if-isreal-takes-part/105764652",
-          "published_at": "Thu, 11 Sep 2025 15:39:59 +0000",
-          "title": "Ireland threatens Eurovision boycott if Israel takes part",
-          "standfirst": "Irish national broadcaster RTE has said Ireland will not participate in Eurovision 2026 if Israel does, citing the ongoing and appalling loss of lives in Gaza.",
-          "content": "Irish national broadcaster RTE has said Ireland will not participate in Eurovision 2026 if Israel does, citing the ongoing and appalling loss of lives in Gaza.",
-          "feed_position": 20
-        }
-      ],
-      "popularity_score": 145.4656025,
-      "ai_summary": [
-        "Ireland may boycott Eurovision 2026.",
-        "The boycott is contingent on Israel's participation.",
-        "The reason is the ongoing loss of life in Gaza.",
-        "RTE, the Irish broadcaster, made the statement.",
-        "The situation involves the Eurovision Song Contest."
-      ]
-    },
-    {
-      "id": "cluster_43",
-      "coverage": 1,
-      "updated_at": "Thu, 11 Sep 2025 20:11:23 +0000",
-      "title": "Cool but settled spring weekend weather ahead for Qld",
-      "neutral_headline": "Cool, Settled Weather Expected in Queensland",
-      "bullet_summary": [
-        "Reported by ABC Just In"
-      ],
-      "items": [
-        {
-          "source": "ABC Just In",
-          "url": "https://www.abc.net.au/news/2025-09-12/cool-spring-weekend-weather-forecast-for-queensland/105764124",
-          "published_at": "Thu, 11 Sep 2025 20:11:23 +0000",
-          "title": "Cool but settled spring weekend weather ahead for Qld",
-          "standfirst": "Visitors to Toowoomba's Carnival of Flowers can expect cool but dry weather this weekend, with similar conditions expected across much of Queensland.",
-          "content": "Visitors to Toowoomba's Carnival of Flowers can expect cool but dry weather this weekend, with similar conditions expected across much of Queensland.",
-          "feed_position": 24
-        }
-      ],
-      "popularity_score": 144.98893583333333,
-      "ai_summary": [
-        "Cool and dry weather is expected this weekend.",
-        "This forecast applies to the Toowoomba Carnival of Flowers.",
-        "Similar conditions are expected across Queensland.",
-        "Visitors can anticipate pleasant weather.",
-        "The weather forecast is for a settled spring weekend."
+        "The quiz tests knowledge of current events.",
+        "The quiz covers events from the past week."
       ]
     }
   ]
