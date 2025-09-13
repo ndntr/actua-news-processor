@@ -1,41 +1,12 @@
 {
-  "updated_at": "2025-09-12T23:11:22.447Z",
+  "updated_at": "2025-09-13T03:16:30.144Z",
   "clusters": [
-    {
-      "id": "cluster_0",
-      "coverage": 1,
-      "updated_at": "2025-09-12T23:11:22.447Z",
-      "title": "Entertainment",
-      "neutral_headline": "Entertainment News from Australia",
-      "bullet_summary": [
-        "Reported by ABC News Australia (Popular)"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia (Popular)",
-          "url": "https://www.abc.net.au/news/entertainment",
-          "published_at": "2025-09-12T23:11:22.447Z",
-          "title": "Entertainment",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 0
-        }
-      ],
-      "popularity_score": 350,
-      "ai_summary": [
-        "This cluster contains entertainment news.",
-        "The source is ABC News Australia.",
-        "The content is categorized as entertainment.",
-        "No specific details are provided.",
-        "The cluster is a placeholder."
-      ]
-    },
     {
       "id": "cluster_1",
       "coverage": 1,
-      "updated_at": "2025-09-12T23:11:22.447Z",
+      "updated_at": "2025-09-13T03:16:30.140Z",
       "title": "Watch Live",
-      "neutral_headline": "Watch Live News from Australia",
+      "neutral_headline": "ABC News Australia: Watch Live",
       "bullet_summary": [
         "Reported by ABC News Australia (Popular)"
       ],
@@ -43,28 +14,57 @@
         {
           "source": "ABC News Australia (Popular)",
           "url": "https://www.abc.net.au/news/newschannel",
-          "published_at": "2025-09-12T23:11:22.447Z",
+          "published_at": "2025-09-13T03:16:30.140Z",
           "title": "Watch Live",
           "standfirst": "",
           "content": "",
           "feed_position": 1
         }
       ],
-      "popularity_score": 350,
+      "popularity_score": 349.9999988888889,
       "ai_summary": [
-        "This cluster provides live news coverage.",
-        "The source is ABC News Australia.",
-        "The content is categorized as \"Watch Live\".",
-        "No specific details are provided.",
-        "The cluster is a placeholder."
+        "This cluster contains a headline from ABC News Australia.",
+        "The headline is a call to action to watch live content.",
+        "The content is likely related to current events.",
+        "No specific details are provided in the headline.",
+        "The source is ABC News Australia."
+      ]
+    },
+    {
+      "id": "cluster_0",
+      "coverage": 1,
+      "updated_at": "2025-09-13T03:16:30.139Z",
+      "title": "Entertainment",
+      "neutral_headline": "ABC News Australia: Entertainment News",
+      "bullet_summary": [
+        "Reported by ABC News Australia (Popular)"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia (Popular)",
+          "url": "https://www.abc.net.au/news/entertainment",
+          "published_at": "2025-09-13T03:16:30.139Z",
+          "title": "Entertainment",
+          "standfirst": "",
+          "content": "",
+          "feed_position": 0
+        }
+      ],
+      "popularity_score": 349.9999986111111,
+      "ai_summary": [
+        "This cluster contains a headline from ABC News Australia.",
+        "The headline indicates a focus on entertainment news.",
+        "The content will likely cover topics in entertainment.",
+        "No specific details are provided in the headline.",
+        "The source is ABC News Australia."
       ]
     },
     {
       "id": "cluster_2",
       "coverage": 1,
-      "updated_at": "2025-09-12T23:11:22.447Z",
+      "updated_at": "2025-09-13T03:16:30.140Z",
       "title": "Indigenous",
-      "neutral_headline": "Indigenous News from Australia",
+      "neutral_headline": "ABC News Australia: Indigenous News",
       "bullet_summary": [
         "Reported by ABC News Australia (Popular)"
       ],
@@ -72,28 +72,28 @@
         {
           "source": "ABC News Australia (Popular)",
           "url": "https://www.abc.net.au/news/indigenous",
-          "published_at": "2025-09-12T23:11:22.447Z",
+          "published_at": "2025-09-13T03:16:30.140Z",
           "title": "Indigenous",
           "standfirst": "",
           "content": "",
           "feed_position": 2
         }
       ],
-      "popularity_score": 330,
+      "popularity_score": 329.9999988888889,
       "ai_summary": [
-        "This cluster focuses on Indigenous news.",
-        "The source is ABC News Australia.",
-        "The content is categorized as Indigenous.",
-        "No specific details are provided.",
-        "The cluster is a placeholder."
+        "This cluster contains a headline from ABC News Australia.",
+        "The headline indicates a focus on Indigenous news.",
+        "The content will likely cover topics related to Indigenous people.",
+        "No specific details are provided in the headline.",
+        "The source is ABC News Australia."
       ]
     },
     {
       "id": "cluster_3",
       "coverage": 1,
-      "updated_at": "2025-09-12T23:11:22.447Z",
+      "updated_at": "2025-09-13T03:16:30.140Z",
       "title": "Environment",
-      "neutral_headline": "Environment News from Australia",
+      "neutral_headline": "ABC News Australia: Environment News",
       "bullet_summary": [
         "Reported by ABC News Australia (Popular)"
       ],
@@ -101,28 +101,28 @@
         {
           "source": "ABC News Australia (Popular)",
           "url": "https://www.abc.net.au/news/environment",
-          "published_at": "2025-09-12T23:11:22.447Z",
+          "published_at": "2025-09-13T03:16:30.140Z",
           "title": "Environment",
           "standfirst": "",
           "content": "",
           "feed_position": 3
         }
       ],
-      "popularity_score": 320,
+      "popularity_score": 319.9999988888889,
       "ai_summary": [
-        "This cluster covers environmental news.",
-        "The source is ABC News Australia.",
-        "The content is categorized as environment.",
-        "No specific details are provided.",
-        "The cluster is a placeholder."
+        "This cluster contains a headline from ABC News Australia.",
+        "The headline indicates a focus on environment news.",
+        "The content will likely cover topics related to the environment.",
+        "No specific details are provided in the headline.",
+        "The source is ABC News Australia."
       ]
     },
     {
       "id": "cluster_4",
       "coverage": 1,
-      "updated_at": "2025-09-12T23:11:22.447Z",
+      "updated_at": "2025-09-13T03:16:30.140Z",
       "title": "Investigations",
-      "neutral_headline": "Investigations News from Australia",
+      "neutral_headline": "ABC News Australia: Investigations",
       "bullet_summary": [
         "Reported by ABC News Australia (Popular)"
       ],
@@ -130,28 +130,28 @@
         {
           "source": "ABC News Australia (Popular)",
           "url": "https://www.abc.net.au/news/story-streams/investigations",
-          "published_at": "2025-09-12T23:11:22.447Z",
+          "published_at": "2025-09-13T03:16:30.140Z",
           "title": "Investigations",
           "standfirst": "",
           "content": "",
           "feed_position": 4
         }
       ],
-      "popularity_score": 318,
+      "popularity_score": 317.9999988888889,
       "ai_summary": [
-        "This cluster features investigative news.",
-        "The source is ABC News Australia.",
-        "The content is categorized as investigations.",
-        "No specific details are provided.",
-        "The cluster is a placeholder."
+        "This cluster contains a headline from ABC News Australia.",
+        "The headline indicates a focus on investigative journalism.",
+        "The content will likely cover in-depth investigations.",
+        "No specific details are provided in the headline.",
+        "The source is ABC News Australia."
       ]
     },
     {
       "id": "cluster_5",
       "coverage": 1,
-      "updated_at": "2025-09-12T23:11:22.447Z",
+      "updated_at": "2025-09-13T03:16:30.140Z",
       "title": "Relationships & Family",
-      "neutral_headline": "Australian News Explores Relationships and Family Dynamics",
+      "neutral_headline": "ABC News Australia: Relationships and Family",
       "bullet_summary": [
         "Reported by ABC News Australia (Popular)"
       ],
@@ -159,20 +159,20 @@
         {
           "source": "ABC News Australia (Popular)",
           "url": "https://www.abc.net.au/news/lifestyle#anchor-102961870",
-          "published_at": "2025-09-12T23:11:22.447Z",
+          "published_at": "2025-09-13T03:16:30.140Z",
           "title": "Relationships & Family",
           "standfirst": "",
           "content": "",
           "feed_position": 5
         }
       ],
-      "popularity_score": 300,
+      "popularity_score": 299.9999988888889,
       "ai_summary": [
-        "ABC News Australia features stories about relationships and family matters.",
-        "The news coverage likely includes diverse perspectives on family structures.",
-        "Articles may address challenges and celebrations within familial bonds.",
-        "Content could offer advice or insights into navigating relationships.",
-        "The focus is on Australian experiences and societal trends."
+        "This cluster contains a headline from ABC News Australia.",
+        "The headline indicates a focus on relationships and family.",
+        "The content will likely cover topics related to those areas.",
+        "No specific details are provided in the headline.",
+        "The source is ABC News Australia."
       ]
     }
   ]
