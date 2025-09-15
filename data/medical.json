@@ -1,17 +1,86 @@
 {
   "clinical": {
-    "updated_at": "2025-09-14T23:10:58.006Z",
+    "updated_at": "2025-09-15T03:35:52.747Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2025-09-14T23:10:58.006Z",
+    "updated_at": "2025-09-15T03:35:52.747Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2025-09-14T23:11:06.622Z",
+    "updated_at": "2025-09-15T03:36:00.263Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Sun, 14 Sep 2025 23:23:54 GMT",
+        "title": "UK and US unveil nuclear energy deal promising thousands of jobs",
+        "neutral_headline": "UK and US unveil nuclear energy deal promising thousands of jobs",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/ckgzevzwxwro?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sun, 14 Sep 2025 23:23:54 GMT",
+            "title": "UK and US unveil nuclear energy deal promising thousands of jobs",
+            "standfirst": "Key among the plans is a proposal to build up to 12 advanced modular nuclear reactors in Hartlepool.",
+            "content": "Key among the plans is a proposal to build up to 12 advanced modular nuclear reactors in Hartlepool.",
+            "feed_position": 5,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06c6/live/6ca4cbf0-9186-11f0-9f13-01e9f580d459.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06c6/live/6ca4cbf0-9186-11f0-9f13-01e9f580d459.jpg"
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Sun, 14 Sep 2025 23:22:44 GMT",
+        "title": "Struggling with brain fog? Here's how to fix it",
+        "neutral_headline": "Struggling with brain fog? Here's how to fix it",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/c87ydw7xdxvo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sun, 14 Sep 2025 23:22:44 GMT",
+            "title": "Struggling with brain fog? Here's how to fix it",
+            "standfirst": "It's common to become forgetful or mentally sluggish but there are easy ways to cut through the haze.",
+            "content": "It's common to become forgetful or mentally sluggish but there are easy ways to cut through the haze.",
+            "feed_position": 2,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7248/live/573bb830-8fcb-11f0-84c8-99de564f0440.png"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7248/live/573bb830-8fcb-11f0-84c8-99de564f0440.png"
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Sun, 14 Sep 2025 23:14:25 GMT",
+        "title": "Children and teenagers share impact of pandemic in new report",
+        "neutral_headline": "Children and teenagers share impact of pandemic in new report",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/cx2jll1wx4ko?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sun, 14 Sep 2025 23:14:25 GMT",
+            "title": "Children and teenagers share impact of pandemic in new report",
+            "standfirst": "Children describe positive memories of family time, as well as the darker side of pandemic life online.",
+            "content": "Children describe positive memories of family time, as well as the darker side of pandemic life online.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b339/live/5a36db90-8cb1-11f0-82aa-7d0865a885a4.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b339/live/5a36db90-8cb1-11f0-82aa-7d0865a885a4.jpg"
+      },
+      {
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Sun, 14 Sep 2025 23:00:22 GMT",
         "title": "Three in four English hospitals failing to hit two cancer targets in league tables",
@@ -32,7 +101,7 @@
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Sun, 14 Sep 2025 16:05:42 GMT",
         "title": "Get tough on tobacco and alcohol firms to improve public health | Letters",
@@ -54,7 +123,7 @@
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Sun, 14 Sep 2025 16:05:04 GMT",
         "title": "Reasons for rise in caesarean births | Letter",
@@ -75,7 +144,7 @@
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Sun, 14 Sep 2025 15:00:38 GMT",
         "title": "Breaking free from resentment: the hidden cost of revenge and the healing power of forgiveness | Gill Straker and Jacqui Winship",
@@ -97,7 +166,7 @@
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Sun, 14 Sep 2025 14:36:47 GMT",
         "title": "NHS will die under Reform unless doctors stop striking and work with Labour, says Wes Streeting",
@@ -118,7 +187,7 @@
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Sun, 14 Sep 2025 14:30:35 GMT",
         "title": "Eye drops could replace glasses or surgery for longsightedness, study says",
@@ -139,7 +208,7 @@
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Sun, 14 Sep 2025 13:00:35 GMT",
         "title": "‘I was told I had two weeks to live’ – why are so many young, fit, non-smoking women getting lung cancer?",
@@ -160,7 +229,7 @@
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Sun, 14 Sep 2025 10:00:30 GMT",
         "title": "NHS access to promising sleeping pill daridorexant is patchy, say doctors",
@@ -181,7 +250,7 @@
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Sun, 14 Sep 2025 05:06:27 GMT",
         "title": "Cut and bulk: Teenagers explain why they want to get ripped",
@@ -197,14 +266,14 @@
             "title": "Cut and bulk: Teenagers explain why they want to get ripped",
             "standfirst": "The quest for brick-like abs has become serious business - even if you're only in Year 8.",
             "content": "The quest for brick-like abs has become serious business - even if you're only in Year 8.",
-            "feed_position": 0,
+            "feed_position": 1,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/334c/live/195bb090-8fb4-11f0-9cf6-cbf3e73ce2b9.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/334c/live/195bb090-8fb4-11f0-9cf6-cbf3e73ce2b9.jpg"
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Sat, 13 Sep 2025 12:00:04 GMT",
         "title": "Guided by angels, pursued by chemtrails: the weird world of Florida health chief’s influential wife",
@@ -225,7 +294,7 @@
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Sat, 13 Sep 2025 11:00:02 GMT",
         "title": "Madness on a mountain: for 15 years, my mom was trapped in a mutual psychosis",
@@ -246,7 +315,7 @@
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Sat, 13 Sep 2025 10:05:20 GMT",
         "title": "Sainsbury’s recalls two own-brand hummus varieties over E coli fears",
@@ -267,7 +336,7 @@
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Sat, 13 Sep 2025 10:01:01 GMT",
         "title": "‘Extreme nausea’: Are EVs causing car sickness – and what can be done?",
@@ -289,7 +358,7 @@
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Sat, 13 Sep 2025 10:00:04 GMT",
         "title": "Madeline Horwarth on the importance of being a patient NHS patient – cartoon",
@@ -310,7 +379,7 @@
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Sat, 13 Sep 2025 05:36:16 GMT",
         "title": "Woman loses faith in hospital after miscarriage",
@@ -333,7 +402,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/944a/live/b2c70c00-8f20-11f0-8111-31005f7c48fd.jpg"
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Sat, 13 Sep 2025 05:00:57 GMT",
         "title": "Online misinformation putting women off contraceptive pill, study finds",
@@ -354,7 +423,7 @@
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Sat, 13 Sep 2025 05:00:55 GMT",
         "title": "Six great reads: rebels in Nazi Germany, how creativity works and Europe’s biggest pornography conference",
@@ -377,7 +446,7 @@
     ]
   },
   "month_in_research": {
-    "updated_at": "2025-09-14T23:11:06.622Z",
+    "updated_at": "2025-09-15T03:36:00.263Z",
     "clusters": []
   }
 }
