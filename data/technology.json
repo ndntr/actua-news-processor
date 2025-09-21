@@ -1,12 +1,52 @@
 {
-  "updated_at": "2025-09-21T03:34:39.412Z",
+  "updated_at": "2025-09-21T07:11:11.449Z",
   "clusters": [
     {
-      "id": "cluster_1",
+      "id": "cluster_17",
+      "coverage": 2,
+      "updated_at": "Sat, 20 Sep 2025 19:01:44 +0000",
+      "title": "Amazon, Google, Microsoft reportedly warn H-1B employees to stay in the US",
+      "neutral_headline": "Tech Companies Advise H-1B Employees to Stay in United States",
+      "bullet_summary": [
+        "Reported by TechCrunch, TechMeme"
+      ],
+      "items": [
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2025/09/20/amazon-google-microsoft-warn-h-1b-employees-to-stay-in-the-us/",
+          "published_at": "Sat, 20 Sep 2025 19:01:44 +0000",
+          "title": "Amazon, Google, Microsoft reportedly warn H-1B employees to stay in the US",
+          "standfirst": "Large tech companies have responded to President Donald Trump’s dramatic changes to H-1B visa applications by telling employees with those visas to remain in the United States for now.",
+          "content": "Large tech companies have responded to President Donald Trump’s dramatic changes to H-1B visa applications by telling employees with those visas to remain in the United States for now.",
+          "feed_position": 2
+        },
+        {
+          "source": "TechMeme",
+          "url": "http://www.techmeme.com/250920/p11#a250920p11",
+          "published_at": "Sat, 20 Sep 2025 13:20:00 -0400",
+          "title": "Memos: Amazon, which has the most H-1B staff at 14K+, Google, and Microsoft tell H-1B visa holders to return to the US before September 21 and avoid travel (Yun Li/CNBC)",
+          "standfirst": "Yun Li / CNBC: Memos: Amazon, which has the most H-1B staff at 14K+, Google, and Microsoft tell H-1B visa holders to return to the US before September 21 and avoid travel &mdash; Major technology companies and foreign governments are rushing to respond after President Donald Trump late Friday announced plans &hellip;",
+          "content": "Yun Li / CNBC: Memos: Amazon, which has the most H-1B staff at 14K+, Google, and Microsoft tell H-1B visa holders to return to the US before September 21 and avoid travel &mdash; Major technology companies and foreign governments are rushing to respond after President Donald Trump late Friday announced plans &hellip;",
+          "feed_position": 13,
+          "image_url": "http://www.techmeme.com/250920/i11.jpg"
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/250920/i11.jpg",
+      "popularity_score": 2007.8423752777778,
+      "ai_summary": [
+        "Amazon, Google, and Microsoft are advising H-1B visa holders to stay in the US.",
+        "The companies are responding to changes in H-1B visa applications.",
+        "Employees are advised to avoid international travel for the time being.",
+        "Amazon has the most H-1B staff, with approximately 14,000 employees.",
+        "The companies are reacting to policy changes announced by President Trump."
+      ]
+    },
+    {
+      "id": "cluster_43",
       "coverage": 1,
-      "updated_at": "2025-09-21T03:34:39.410Z",
+      "updated_at": "Sat, 20 Sep 2025 11:15:27 +0000",
       "title": "Microsoft’s Entra ID vulnerabilities could have been catastrophic",
-      "neutral_headline": "Microsoft Entra ID Vulnerabilities Posed Significant Risks",
+      "neutral_headline": "Microsoft Entra ID Vulnerabilities Could Have Been Catastrophic",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -14,55 +54,28 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/security/2025/09/microsofts-entra-id-vulnerabilities-could-have-been-catastrophic/",
-          "published_at": "2025-09-21T03:34:39.410Z",
+          "published_at": "Sat, 20 Sep 2025 11:15:27 +0000",
           "title": "Microsoft’s Entra ID vulnerabilities could have been catastrophic",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 1
+          "standfirst": "They could've allowed attacker to gain access to virtually all Azure customer accounts.",
+          "content": "As businesses around the world have shifted their digital infrastructure over the last decade from self-hosted servers to the cloud, they’ve benefitted from the standardized, built-in security features of major cloud providers like Microsoft. But with so much riding on these systems, there can be potentially disastrous consequences at a massive scale if something goes wrong. Case in point: Security researcher Dirk-jan Mollema recently stumbled upon a pair of vulnerabilities in Microsoft Azure’s identity and access management platform that could have been exploited for a potentially cataclysmic takeover of all Azure customer accounts. Known as Entra ID, the system stores each Azure cloud customer’s user identities, sign-in access controls, applications, and subscription management tools. Mollema has studied Entra ID security in depth and published multiple studies about weaknesses in the system, which was formerly known as Azure Active Directory. But while preparing to present at the Black Hat security conference in Las Vegas in July, Mollema discovered two vulnerabilities that he realized could be used to gain global administrator privileges—essentially god mode—and compromise every Entra ID directory, or what is known as a “tenant.” Mollema says that this would have exposed nearly every Entra ID tenant in the world other than, perhaps, government cloud infrastructure. “I was just staring at my screen. I was like, ‘No, this shouldn’t really happen,’” says Mollema, who runs the Dutch cybersecurity company Outsider Security and specializes in cloud security. “It was quite bad. As bad as it gets, I would say.”Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/getty-microsoft-padlock-1152x648.jpg"
         }
       ],
-      "popularity_score": 354.9999994444444,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/getty-microsoft-padlock-1152x648.jpg",
+      "popularity_score": 345.0709863888889,
       "ai_summary": [
-        "Microsoft's Entra ID had vulnerabilities that could have caused problems.",
-        "The vulnerabilities could have led to serious security breaches.",
-        "Exploitation could have allowed unauthorized access to systems.",
-        "The issues highlighted the importance of security measures.",
-        "Microsoft has addressed the vulnerabilities to improve security."
+        "Microsoft's Entra ID had vulnerabilities that could have been very serious.",
+        "The vulnerabilities could have allowed attackers to access Azure accounts.",
+        "The potential impact of the vulnerabilities was widespread.",
+        "The vulnerabilities have been addressed by Microsoft.",
+        "The full extent of the potential damage is still being assessed."
       ]
     },
     {
-      "id": "cluster_0",
+      "id": "cluster_44",
       "coverage": 1,
-      "updated_at": "2025-09-21T03:34:39.410Z",
-      "title": "Your very own humane interface: Try Jef Raskin’s ideas at home",
-      "neutral_headline": "Explore Jef Raskin’s Humane Interface Ideas",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2025/09/your-very-own-humane-interface-try-jef-raskins-ideas-at-home/",
-          "published_at": "2025-09-21T03:34:39.410Z",
-          "title": "Your very own humane interface: Try Jef Raskin’s ideas at home",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 0
-        }
-      ],
-      "popularity_score": 352.9999994444444,
-      "ai_summary": [
-        "Jef Raskin's ideas focused on creating user-friendly interfaces.",
-        "His concepts aimed to simplify computer interaction for users.",
-        "Raskin's ideas can be explored and implemented at home.",
-        "The focus was on intuitive design and ease of use.",
-        "His work influenced modern interface design principles."
-      ]
-    },
-    {
-      "id": "cluster_2",
-      "coverage": 1,
-      "updated_at": "2025-09-21T03:34:39.410Z",
+      "updated_at": "Sat, 20 Sep 2025 11:00:59 +0000",
       "title": "You’ll enjoy the Specialized Turbo Vado SL 2 6.0 Carbon even without assist",
       "neutral_headline": "Specialized Turbo Vado SL 2 6.0 Carbon Offers Enjoyable Ride",
       "bullet_summary": [
@@ -72,28 +85,30 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/gadgets/2025/09/youll-enjoy-the-specialized-turbo-vado-sl-2-6-0-carbon-even-without-assist/",
-          "published_at": "2025-09-21T03:34:39.410Z",
+          "published_at": "Sat, 20 Sep 2025 11:00:59 +0000",
           "title": "You’ll enjoy the Specialized Turbo Vado SL 2 6.0 Carbon even without assist",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 2
+          "standfirst": "It's an investment, certainly of money, but also in long, fast rides.",
+          "content": "Two things about the Specialized Turbo Vado SL 2 6.0 Carbon are hard to fathom: One is how light and lithe it feels as an e-bike, even with the battery off; the other is how hard it is to recite its full name when other riders ask you about the bike at stop lights and pit stops. I’ve tested about a half-dozen e-bikes for Ars Technica. Each test period has included a ride with my regular group for about 30 miles. Nobody else in my group rides electric, so I try riding with no assist, at least part of the way. Usually I give up after a mile or two, realizing that most e-bikes are not designed for unpowered rides. On the Carbon (as I’ll call it for the rest of this review), you can ride without power. At 35 pounds, it’s no gram-conscious road bike, but it feels lighter than that number implies. My daily ride is an aluminum-framed model with an internal geared hub that weighs about the same, so I might be a soft target. But it’s a remarkable thing to ride an e-bike that starts with a good unpowered ride and lets you build on that with power.Read full article Comments",
+          "feed_position": 1,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/carbon_handout1-1152x648.jpg"
         }
       ],
-      "popularity_score": 338.9999994444444,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/carbon_handout1-1152x648.jpg",
+      "popularity_score": 329,
       "ai_summary": [
-        "The Specialized Turbo Vado SL 2 6.0 Carbon provides a good riding experience.",
-        "The bike is enjoyable even without electric assist.",
-        "It offers a comfortable and efficient riding experience.",
-        "The bike's design focuses on performance and user enjoyment.",
-        "The model is suitable for various riding conditions."
+        "The Specialized Turbo Vado SL 2 6.0 Carbon is a high-end bicycle.",
+        "It provides an enjoyable riding experience even without electric assist.",
+        "The bicycle is an investment in both money and time.",
+        "It is designed for long and fast rides.",
+        "The bicycle is made of carbon fiber."
       ]
     },
     {
-      "id": "cluster_3",
+      "id": "cluster_70",
       "coverage": 1,
-      "updated_at": "2025-09-21T03:34:39.410Z",
+      "updated_at": "Sat, 20 Sep 2025 00:18:44 +0000",
       "title": "Starship will soon fly over towns and cities, but will dodge the biggest ones",
-      "neutral_headline": "Starship to Fly Over Towns, Avoiding Major Cities",
+      "neutral_headline": "Starship to Fly Over Cities, Avoiding the Largest Ones",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -101,28 +116,30 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/space/2025/09/starship-will-soon-fly-over-towns-and-cities-but-will-dodge-the-biggest-ones/",
-          "published_at": "2025-09-21T03:34:39.410Z",
+          "published_at": "Sat, 20 Sep 2025 00:18:44 +0000",
           "title": "Starship will soon fly over towns and cities, but will dodge the biggest ones",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 3
+          "standfirst": "Starship's next chapter will involve launching over Florida and returning over Mexico.",
+          "content": "Some time soon, perhaps next year, SpaceX will attempt to fly one of its enormous Starship rockets from low-Earth orbit back to its launch pad in South Texas. A successful return and catch at the launch tower would demonstrate a key capability underpinning Elon Musk's hopes for a fully reusable rocket. In order for this to happen, SpaceX must overcome the tyranny of geography. Unlike launches over the open ocean from Cape Canaveral, Florida, rockets departing from South Texas must follow a narrow corridor to steer clear of downrange land masses. All 10 of the rocket's test flights so far have launched from Texas toward splashdowns in the Indian or Pacific Oceans. On these trajectories, the rocket never completes a full orbit around the Earth, but instead flies an arcing path through space before gravity pulls it back into the atmosphere.Read full article Comments",
+          "feed_position": 2,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/Gz3W8YUXcAAvZcM-1152x648-1758326151.jpg"
         }
       ],
-      "popularity_score": 322.9999994444444,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/Gz3W8YUXcAAvZcM-1152x648-1758326151.jpg",
+      "popularity_score": 313,
       "ai_summary": [
-        "Starship will soon conduct flights over populated areas.",
-        "The flights will avoid major cities during their routes.",
-        "The plan involves flying over towns and smaller communities.",
-        "This approach aims to minimize potential risks.",
-        "The flights are part of the Starship development program."
+        "Starship will soon begin flying over towns and cities.",
+        "The flights will involve launching over Florida and returning over Mexico.",
+        "The Starship will avoid flying over the largest cities.",
+        "The next phase of Starship's development is underway.",
+        "The flight paths are designed to minimize disruption."
       ]
     },
     {
-      "id": "cluster_4",
+      "id": "cluster_72",
       "coverage": 1,
-      "updated_at": "2025-09-21T03:34:39.410Z",
+      "updated_at": "Fri, 19 Sep 2025 22:38:10 +0000",
       "title": "In a win for science, NASA told to use House budget as shutdown looms",
-      "neutral_headline": "NASA Directed to Use House Budget Amid Shutdown Concerns",
+      "neutral_headline": "NASA Told to Use House Budget as Shutdown Looms",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -130,28 +147,30 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/space/2025/09/amid-budget-uncertainty-nasa-gets-some-good-news-use-house-funding-levels/",
-          "published_at": "2025-09-21T03:34:39.410Z",
+          "published_at": "Fri, 19 Sep 2025 22:38:10 +0000",
           "title": "In a win for science, NASA told to use House budget as shutdown looms",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 4
+          "standfirst": "The House budget still cuts science at NASA, but not as deeply as the White House sought.",
+          "content": "The situation with the fiscal year 2026 budget for the United States is, to put it politely, kind of a mess. The White House proposed a budget earlier this year with significant cuts for a number of agencies, including NASA. In the months since then, through the appropriations process, both the House and Senate have proposed their own budget templates. However, Congress has not passed a final budget, and the new fiscal year begins on October 1. As a result of political wrangling over whether to pass a \"continuing resolution\" to fund the government before a final budget is passed, a government shutdown appears to be increasingly likely.Read full article Comments",
+          "feed_position": 3,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1133641758-1-1152x648.jpg"
         }
       ],
-      "popularity_score": 312.9999994444444,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1133641758-1-1152x648.jpg",
+      "popularity_score": 303,
       "ai_summary": [
-        "NASA was instructed to use the House budget during a potential shutdown.",
-        "This decision came amid concerns about a government shutdown.",
-        "The directive aims to ensure continued operations for NASA.",
-        "The budget allows NASA to continue its scientific work.",
-        "The decision supports ongoing space exploration projects."
+        "NASA has been instructed to use the House budget.",
+        "The instruction comes as a government shutdown is possible.",
+        "The House budget cuts science funding at NASA.",
+        "The cuts are not as deep as the White House sought.",
+        "The situation is subject to change depending on negotiations."
       ]
     },
     {
-      "id": "cluster_5",
+      "id": "cluster_73",
       "coverage": 1,
-      "updated_at": "2025-09-21T03:34:39.410Z",
+      "updated_at": "Fri, 19 Sep 2025 22:06:43 +0000",
       "title": "After a very slow start, Europe’s reusable rocket program shows signs of life",
-      "neutral_headline": "Europe’s Reusable Rocket Program Shows Progress",
+      "neutral_headline": "Europe's Reusable Rocket Program Shows Signs of Life",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -159,28 +178,30 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/space/2025/09/after-a-very-slow-start-europes-reusable-rocket-program-shows-signs-of-life/",
-          "published_at": "2025-09-21T03:34:39.410Z",
+          "published_at": "Fri, 19 Sep 2025 22:06:43 +0000",
           "title": "After a very slow start, Europe’s reusable rocket program shows signs of life",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 5
+          "standfirst": "Although Themis is making progress, the program is several years behind schedule.",
+          "content": "No one could accuse the European Space Agency and its various contractors of moving swiftly when it comes to the development of reusable rockets. However, it appears that Europe is finally making some credible progress. This week, the France-based ArianeGroup aerospace company announced that it had completed the integration of the Themis vehicle, a prototype rocket that will test various landing technologies, on a launch pad in Sweden. Low-altitude hop tests, a precursor for developing a rocket's first stage that can vertically land after an orbital launch, could start late this year or early next. \"This milestone marks the beginning of the 'combined tests,' during which the interface between Themis and the launch pad's mechanical, electrical, and fluid systems will be thoroughly trialed, with the aim of completing a test under cryogenic conditions,\" the company said.Read full article Comments",
+          "feed_position": 4,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/G1Mh6O7WAAApPeJ-1152x648.jpg"
         }
       ],
-      "popularity_score": 302.9999994444444,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/G1Mh6O7WAAApPeJ-1152x648.jpg",
+      "popularity_score": 293,
       "ai_summary": [
-        "Europe's reusable rocket program is showing signs of progress.",
-        "The program had a slow start but is now gaining momentum.",
-        "Efforts are focused on developing reusable rocket technology.",
-        "The goal is to reduce the cost of space access.",
-        "The program aims to enhance Europe's space capabilities."
+        "Europe's reusable rocket program is showing progress.",
+        "The program is called Themis.",
+        "The program is several years behind schedule.",
+        "Themis is making progress in its development.",
+        "The program aims to develop reusable rocket technology."
       ]
     },
     {
-      "id": "cluster_8",
+      "id": "cluster_81",
       "coverage": 1,
-      "updated_at": "2025-09-21T03:34:39.410Z",
+      "updated_at": "Fri, 19 Sep 2025 20:20:34 +0000",
       "title": "Microsoft raises Xbox console prices for the second time this year",
-      "neutral_headline": "Microsoft Raises Xbox Console Prices Again This Year",
+      "neutral_headline": "Microsoft Raises Xbox Console Prices for Second Time",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -188,28 +209,30 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/gaming/2025/09/microsoft-raises-xbox-console-prices-for-the-second-time-this-year/",
-          "published_at": "2025-09-21T03:34:39.410Z",
+          "published_at": "Fri, 19 Sep 2025 20:20:34 +0000",
           "title": "Microsoft raises Xbox console prices for the second time this year",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 8
+          "standfirst": "Asking prices for some models are up 33 percent in less than a year.",
+          "content": "Less than a month ago, we looked at how current game console prices were historically high due to price increases from all three major console makers. Today, that analysis is already a bit out of date, as Microsoft has announced its second set of Xbox price increases this year in the US. The new Xbox price hikes, which will go into effect on October 3, or roughly five months after the last set of Xbox price hikes, are as follows: Xbox Series S 512GB: $400 (up from $380 in May / launched at $300 in 2020) Xbox Series S 1TB: $450 (up from $430 in May / launched at $350 in 2023) Xbox Series X Digital: $600 (from $550 in May / launched at $450 in 2024) Xbox Series X: $650 (up from $600 in May / launched at $500 in 2020) Xbox Series X 2TB Galaxy Special Edition: $800 (up from $730 in May / launched at $600 in 2024) In an Xbox Support post, Microsoft cited the now-standard \"changes in the macroeconomic environment\" for the decision to move pricing yet again. \"We understand that these changes are challenging, and they were made with careful consideration,\" the company wrote. \"Looking ahead, we continue to focus on offering more ways to play more games across any screen and providing value for Xbox players.Read full article Comments",
+          "feed_position": 7,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/xboxseries-1152x648.jpg"
         }
       ],
-      "popularity_score": 299.9999994444444,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/xboxseries-1152x648.jpg",
+      "popularity_score": 290,
       "ai_summary": [
-        "Microsoft has increased Xbox console prices for the second time.",
-        "The price increases affect various Xbox console models.",
-        "The price adjustments reflect market conditions and costs.",
-        "This move impacts the cost of purchasing Xbox consoles.",
-        "The price changes may affect consumer purchasing decisions."
+        "Microsoft has raised Xbox console prices for the second time this year.",
+        "The price increases affect some Xbox console models.",
+        "Asking prices for some models are up 33 percent.",
+        "The price increases have occurred in less than a year.",
+        "The price increases are due to market conditions."
       ]
     },
     {
-      "id": "cluster_6",
+      "id": "cluster_74",
       "coverage": 1,
-      "updated_at": "2025-09-21T03:34:39.410Z",
+      "updated_at": "Fri, 19 Sep 2025 21:44:26 +0000",
       "title": "Bonkers CDC vaccine meeting ends with vote to keep COVID shot access",
-      "neutral_headline": "CDC Meeting Votes to Maintain COVID Shot Access",
+      "neutral_headline": "CDC Meeting Ends with Vote to Keep COVID Shot Access",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -217,28 +240,30 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/health/2025/09/bonkers-cdc-vaccine-meeting-ends-with-vote-to-keep-covid-shot-access/",
-          "published_at": "2025-09-21T03:34:39.410Z",
+          "published_at": "Fri, 19 Sep 2025 21:44:26 +0000",
           "title": "Bonkers CDC vaccine meeting ends with vote to keep COVID shot access",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 6
+          "standfirst": "A push to require prescriptions for every COVID shot failed in a split vote.",
+          "content": "A two-day federal vaccine advisory meeting crammed with chaos, confusion, inept debate, bizarre comments, and a hot mic catching someone saying \"you're an idiot,\" ended with an unexpected twist: The advisors unanimously voted—possibly unintentionally—to maintain broad access to COVID-19 vaccines. In the 12–0 vote, the committee of advisors selected by anti-vaccine activist Robert F. Kennedy Jr. adopted a recommendation for adults 65 and older and people aged 6 months to 64 years to get a COVID-19 vaccine based on shared clinical decision-making. After this story was published, the Centers for Disease Control and Prevention adopted the recommendation, which will broadly maintain requirements that federal and private health insurance plans cover COVID-19 vaccines at no cost. While the shared clinical decision-making is a new requirement, the CDC noted in adopting the recommendation that such decision making can be done in consultation with providers, \"including physicians, nurses, and pharmacists\". Most people receive COVID-19 vaccines from their local pharmacists. Earlier this year, the FDA limited the approvals of this year's shots, which have previously been available to anyone 6 months of age or older. The FDA's new restriction limits them to adults aged 65 and up and for people between the ages of 6 months and 64 years who have an underlying medical condition that puts them at high risk of severe COVID-19.Read full article Comments",
+          "feed_position": 5,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2235757891-1152x648.jpg"
         }
       ],
-      "popularity_score": 292.9999994444444,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2235757891-1152x648.jpg",
+      "popularity_score": 283,
       "ai_summary": [
-        "A CDC meeting concluded with a vote on vaccine access.",
-        "The vote decided to keep access to COVID shots available.",
-        "The decision ensures continued availability of vaccines.",
-        "The meeting addressed vaccine recommendations and policies.",
-        "The vote supports ongoing efforts to combat the virus."
+        "A CDC meeting addressed COVID-19 vaccine access.",
+        "A push to require prescriptions for every COVID shot failed.",
+        "The vote was split on the proposal.",
+        "Access to COVID-19 shots will remain unchanged.",
+        "The meeting addressed vaccine policy and recommendations."
       ]
     },
     {
-      "id": "cluster_7",
+      "id": "cluster_78",
       "coverage": 1,
-      "updated_at": "2025-09-21T03:34:39.410Z",
-      "title": "Oklahoma’s big “TV nudes” scandal was&#8230; a Jackie Chan movie on a Samsung streaming service",
-      "neutral_headline": "Oklahoma “TV Nudes” Scandal Involved Jackie Chan Movie",
+      "updated_at": "Fri, 19 Sep 2025 20:33:37 +0000",
+      "title": "Oklahoma’s big “TV nudes” scandal was… a Jackie Chan movie on a Samsung streaming service",
+      "neutral_headline": "Oklahoma \"TV Nudes\" Scandal Involved Jackie Chan Movie",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -246,28 +271,30 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/culture/2025/09/oklahomas-big-tv-nudes-scandal-was-a-jackie-chan-movie-on-a-samsung-streaming-service/",
-          "published_at": "2025-09-21T03:34:39.410Z",
-          "title": "Oklahoma’s big “TV nudes” scandal was&#8230; a Jackie Chan movie on a Samsung streaming service",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 7
+          "published_at": "Fri, 19 Sep 2025 20:33:37 +0000",
+          "title": "Oklahoma’s big “TV nudes” scandal was… a Jackie Chan movie on a Samsung streaming service",
+          "standfirst": "Smart TVs strike again.",
+          "content": "Since July, the state of Oklahoma has been consumed by important investigative questions, including: Why did naked women appear on a state-owned TV set during an official Board of Education meeting? Was someone in the room inadvertently streaming pornography from a personal device to the TV? Will anyone be prosecuted for what happened? Were the board members who complained about the video directed by the governor to \"lie about me,\" as the state's pugnacious, hard-right Superintendent of Education asked? Why was a \"chiropractic table\" involved in the scene? And why did the video feature, as one board member noted, a retro vibe and \"a guy with a white hat, kind of a Gilligan-type hat\"? We now have answers to all of those questions. After a lengthy investigation by the Oklahoma County Sheriff's Office and the State Bureau of Investigation, and then a lengthy consideration of their reports, the Oklahoma County District Attorney this week announced that \"there is insufficient evidence to file criminal charges.\"Read full article Comments",
+          "feed_position": 6,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/protector-1152x648-1758312270.jpg"
         }
       ],
-      "popularity_score": 282.9999994444444,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/protector-1152x648-1758312270.jpg",
+      "popularity_score": 273,
       "ai_summary": [
-        "The Oklahoma \"TV nudes\" scandal involved a Jackie Chan movie.",
-        "The incident occurred on a Samsung streaming service.",
-        "The scandal involved a mislabeled movie on the platform.",
-        "The situation led to confusion and public attention.",
-        "The issue highlighted problems with content labeling."
+        "An Oklahoma \"TV nudes\" scandal involved a Jackie Chan movie.",
+        "The movie was streamed on a Samsung streaming service.",
+        "The incident highlights the potential for smart TV issues.",
+        "The scandal involved inappropriate content being displayed.",
+        "The incident is an example of smart TV vulnerabilities."
       ]
     },
     {
-      "id": "cluster_9",
+      "id": "cluster_82",
       "coverage": 1,
-      "updated_at": "2025-09-21T03:34:39.410Z",
+      "updated_at": "Fri, 19 Sep 2025 20:05:33 +0000",
       "title": "Chimps consume alcohol equivalent of nearly 2 drinks a day",
-      "neutral_headline": "Chimpanzees Consume Alcohol Equivalent of Two Drinks Daily",
+      "neutral_headline": "Chimps Consume Alcohol Equivalent of Nearly Two Drinks Daily",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -275,20 +302,363 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/science/2025/09/chimps-consume-alcohol-equivalent-of-nearly-2-drinks-a-day/",
-          "published_at": "2025-09-21T03:34:39.410Z",
+          "published_at": "Fri, 19 Sep 2025 20:05:33 +0000",
           "title": "Chimps consume alcohol equivalent of nearly 2 drinks a day",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 9
+          "standfirst": "It's the latest evidence in support of Robert Dudley's controversial \"drunk monkey\" hypothesis.",
+          "content": "In 2014, University of California, Berkeley biologist Robert Dudley wrote a book called The Drunken Monkey: Why We Drink and Abuse Alcohol. His controversial \"drunken monkey hypothesis\" proposed that the human attraction to alcohol goes back about 18 million years, to the origin of the great apes, and that social communication and sharing food evolved to better identify the presence of fruit from a distance. At the time, skeptical scientists insisted that this was unlikely because chimpanzees and other primates just don't eat fermented fruit or nectar. But reports of primates doing just that have grown over the ensuing two decades. Dudley co-authored a new paper published in the journal Science Advances reporting the first measurements of the ethanol content of fruits favored by chimps in Ivory Coast and Uganda, finding that the chimps are consuming 14 grams of alcohol every day, the equivalent of a standard alcoholic drink in the US. After adjusting for the chimps' lower body mass, the authors concluded the chimps are consuming nearly two drinks per day. Earlier this year, we reported that researchers had caught wild chimpanzees on camera engaging in what appears to be sharing fermented African breadfruit with measurable alcoholic content. That observational data was the first evidence of the sharing of alcoholic foods among nonhuman great apes in the wild. They recorded 10 instances of selective fruit sharing among 17 chimps, with the animals exhibiting a marked preference for riper fruit. Between April and July 2022, the authors measured the alcohol content of the fruit with a handy portable breathalyzer and found almost all of the fallen fruit (90 percent) contained some ethanol, with the ripest containing the highest levels—the equivalent of 0.61 percent ABV (alcohol by volume).Read full article Comments",
+          "feed_position": 8,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/chimp1-1152x648-1758212473.jpg"
         }
       ],
-      "popularity_score": 262.9999994444444,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/chimp1-1152x648-1758212473.jpg",
+      "popularity_score": 253,
       "ai_summary": [
-        "Chimpanzees consume alcohol equivalent to nearly two drinks daily.",
-        "The alcohol comes from fermented fruits in their diet.",
-        "This behavior has been observed in wild chimpanzee populations.",
-        "The findings provide insights into chimpanzee behavior.",
-        "The study highlights the role of alcohol in their diet."
+        "Chimpanzees consume alcohol equivalent to nearly two drinks per day.",
+        "This finding supports the \"drunk monkey\" hypothesis.",
+        "The hypothesis is controversial within the scientific community.",
+        "The research provides new evidence for the hypothesis.",
+        "The study examined chimpanzee behavior and alcohol consumption."
+      ]
+    },
+    {
+      "id": "cluster_86",
+      "coverage": 1,
+      "updated_at": "Fri, 19 Sep 2025 19:35:38 +0000",
+      "title": "Two of the Kremlin’s most active hack groups are collaborating, ESET says",
+      "neutral_headline": "Russian Hackers Collaborate, According to Security Researchers",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/security/2025/09/two-of-the-kremlins-most-active-hack-groups-are-collaborating-eset-says/",
+          "published_at": "Fri, 19 Sep 2025 19:35:38 +0000",
+          "title": "Two of the Kremlin’s most active hack groups are collaborating, ESET says",
+          "standfirst": "Turla is getting a helping hand from Gamaredon. Both are units of Russia's FSB.",
+          "content": "Two of the Kremlin’s most active hacking units recently were spotted collaborating in malware attacks that compromise high-value devices located in Ukraine, security researchers said Friday. One of the groups is Turla, which is easily one of the world’s most sophisticated advanced persistent threats (well-organized and well-funded hacking groups, many backed by nation states, that target specific adversaries for years at a time). Researchers from multiple security firms largely agree that Turla was behind breaches of the US Department of Defense in 2008, and more recently, the German Foreign Office and France's military. The group has also been known for unleashing stealthy Linux malware and using satellite-based Internet links to maintain the stealth of its operations. The group conducts narrowly targeted attacks on high-value targets and keeps a low profile. Gamaredon, meanwhile, is a separate APT known for conducting much wider-scale operations, often targeting organizations in Ukraine. Whereas Turla takes pains to fly under the radar, Gamaredon doesn’t seem to care about being detected and linked to the Russian government. Its malware generally aims to collect as much information from targets as possible over a short period of time. Both Turla and Gamaredon are widely assessed to be units of Russia’s Russian Federal Security Service (FSB), the country’s chief security agency and successor of the Soviet Union’s KGB.Read full article Comments",
+          "feed_position": 9,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/russia-cyber-hack-1000x648.jpeg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/russia-cyber-hack-1000x648.jpeg",
+      "popularity_score": 253,
+      "ai_summary": [
+        "Two Russian hacking groups, Turla and Gamaredon, are now working together on cyberattacks.",
+        "Both groups are units of Russia's Federal Security Service, or FSB.",
+        "ESET security researchers discovered the collaboration between the two groups.",
+        "The collaboration suggests an increase in sophistication of Russian cyber operations.",
+        "This partnership could lead to more impactful and widespread cyberattacks."
+      ]
+    },
+    {
+      "id": "cluster_101",
+      "coverage": 1,
+      "updated_at": "Fri, 19 Sep 2025 16:48:01 +0000",
+      "title": "“Yikes”: Internal emails reveal Ticketmaster helped scalpers jack up prices, FTC says",
+      "neutral_headline": "Ticketmaster Allegedly Assisted Scalpers, According to Federal Trade Commission",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2025/09/ticketmaster-intentionally-screwed-fans-out-of-billions-ftc-lawsuit-says/",
+          "published_at": "Fri, 19 Sep 2025 16:48:01 +0000",
+          "title": "“Yikes”: Internal emails reveal Ticketmaster helped scalpers jack up prices, FTC says",
+          "standfirst": "FTC sued Ticketmaster and Live Nation for turning \"blind eye\" to scalpers.",
+          "content": "The Federal Trade Commission sued Live Nation and Ticketmaster on Thursday, alleging that the companies tacitly worked with scalpers to profit from jacking up ticket prices on the secondary market. As the FTC alleged in a press release, Ticketmaster's years of turning a blind eye to scalpers violated the FTC Act and the Better Online Ticket Sales Act, costing customers \"billions in inflated prices and additional fees.\" Further, artists' efforts to keep event costs low were repeatedly frustrated by executives' greedy bid to drive Ticketmaster revenue by reaping as many additional fees as possible, the FTC alleged. Rather than blocking scalping, Ticketmaster allegedly provided tech support to help so-called brokers exceed \"fake\" ticket limits that seemingly only applied to genuine customers buying tickets to see events.Read full article Comments",
+          "feed_position": 15,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-458964665-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-458964665-1152x648.jpg",
+      "popularity_score": 154,
+      "ai_summary": [
+        "The Federal Trade Commission sued Ticketmaster and Live Nation.",
+        "The lawsuit alleges Ticketmaster turned a blind eye to scalpers.",
+        "Internal emails revealed Ticketmaster helped scalpers increase prices.",
+        "The FTC claims this behavior harmed consumers and competition.",
+        "The lawsuit seeks to stop the alleged anti-competitive practices."
+      ]
+    },
+    {
+      "id": "cluster_92",
+      "coverage": 1,
+      "updated_at": "Fri, 19 Sep 2025 18:25:03 +0000",
+      "title": "After getting Jimmy Kimmel suspended, FCC chair threatens ABC’s The View",
+      "neutral_headline": "FCC Chair Threatens ABC’s The View After Kimmel Incident",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2025/09/after-getting-jimmy-kimmel-suspended-fcc-chair-threatens-abcs-the-view/",
+          "published_at": "Fri, 19 Sep 2025 18:25:03 +0000",
+          "title": "After getting Jimmy Kimmel suspended, FCC chair threatens ABC’s The View",
+          "standfirst": "Carr: \"Turn your license in to the FCC, we'll find something else to do with it.\"",
+          "content": "After pressuring ABC to suspend Jimmy Kimmel, Federal Communications Commission Chairman Brendan Carr is setting his regulatory sights on ABC's The View and NBC late-night hosts Seth Meyers and Jimmy Fallon. Carr appeared yesterday on the radio show hosted by Scott Jennings, who describes himself as \"the last man standing athwart the liberal mob.\" Jennings asked Carr whether The View and other ABC programs violate FCC rules, and made a reference to President Trump calling on NBC to cancel Fallon and Meyers. \"A lot of people think there are other shows on ABC that maybe run afoul of this more often than Jimmy Kimmel,\" Jennings said. \"I'm thinking specifically of The View, and President Trump himself has mentioned Jimmy Fallon and Seth Meyers at NBC. Do you have comments on those shows, and are they doing what Kimmel did Monday night, and is it even worse on those programs in your opinion?\"Read full article Comments",
+          "feed_position": 11,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/trump-carr-1152x648-1734382746.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/trump-carr-1152x648-1734382746.jpg",
+      "popularity_score": 148,
+      "ai_summary": [
+        "FCC chair Carr threatened ABC's The View after an incident involving Jimmy Kimmel.",
+        "The FCC chair suggested the show could lose its broadcasting license.",
+        "The threat followed a controversy involving Kimmel's show.",
+        "The FCC regulates broadcasting licenses in the United States.",
+        "The situation raises questions about government overreach and free speech."
+      ]
+    },
+    {
+      "id": "cluster_98",
+      "coverage": 1,
+      "updated_at": "Fri, 19 Sep 2025 17:10:09 +0000",
+      "title": "Science journalists find ChatGPT is bad at summarizing scientific papers",
+      "neutral_headline": "ChatGPT Found Inaccurate Summarizing Scientific Papers",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2025/09/science-journalists-find-chatgpt-is-bad-at-summarizing-scientific-papers/",
+          "published_at": "Fri, 19 Sep 2025 17:10:09 +0000",
+          "title": "Science journalists find ChatGPT is bad at summarizing scientific papers",
+          "standfirst": "LLM \"tended to sacrifice accuracy for simplicity\" when writing news briefs.",
+          "content": "Summarizing complex scientific findings for a non-expert audience is one of the most important things a science journalist does from day to day. Generating summaries of complex writing has also been frequently mentioned as one of the best use cases for large language models (despite some prominent counterexamples). With all that in mind, the team at the American Association for the Advancement of Science (AAAS) ran an informal year-long study to determine whether ChatGPT could produce the kind of \"news brief\" paper summaries that its \"SciPak\" team routinely writes for the journal Science and services like EurekAlert. These SciPak articles are designed to follow a specific and simplified format that conveys crucial information, such as the study's premise, methods, and context, to other journalists who might want to write about it. Now, in a new blog post and white paper discussing their findings, the AAAS journalists have concluded that ChatGPT can \"passably emulate the structure of a SciPak-style brief,\" but with prose that \"tended to sacrifice accuracy for simplicity\" and which \"required rigorous fact-checking by SciPak writers.\"Read full article Comments",
+          "feed_position": 13,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1418934535-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1418934535-1152x648.jpg",
+      "popularity_score": 148,
+      "ai_summary": [
+        "Science journalists found ChatGPT struggles to accurately summarize scientific papers.",
+        "The AI often sacrifices accuracy for simplicity in its summaries.",
+        "The study highlights limitations of large language models in scientific contexts.",
+        "The findings raise concerns about the use of AI in science journalism.",
+        "The AI's summaries may misrepresent complex scientific information."
+      ]
+    },
+    {
+      "id": "cluster_119",
+      "coverage": 1,
+      "updated_at": "Fri, 19 Sep 2025 13:30:27 +0000",
+      "title": "AI medical tools found to downplay symptoms of women, ethnic minorities",
+      "neutral_headline": "AI Medical Tools Show Bias Against Women, Minorities",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/health/2025/09/ai-medical-tools-found-to-downplay-symptoms-of-women-ethnic-minorities/",
+          "published_at": "Fri, 19 Sep 2025 13:30:27 +0000",
+          "title": "AI medical tools found to downplay symptoms of women, ethnic minorities",
+          "standfirst": "Bias-reflecting LLMs lead to inferior medical advice for female, Black, and Asian patients.",
+          "content": "Artificial intelligence tools used by doctors risk leading to worse health outcomes for women and ethnic minorities, as a growing body of research shows that many large language models downplay the symptoms of these patients. A series of recent studies have found that the uptake of AI models across the healthcare sector could lead to biased medical decisions, reinforcing patterns of under-treatment that already exist across different groups in Western societies. The findings by researchers at leading US and UK universities suggest that medical AI tools powered by LLMs have a tendency to not reflect the severity of symptoms among female patients, while also displaying less “empathy” toward Black and Asian ones.Read full article Comments",
+          "feed_position": 18,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/ai-medicalllm-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/ai-medicalllm-1152x648.jpg",
+      "popularity_score": 148,
+      "ai_summary": [
+        "AI medical tools downplay symptoms of women and ethnic minorities.",
+        "Bias-reflecting language models lead to inferior medical advice.",
+        "The AI tools show bias against female, Black, and Asian patients.",
+        "This bias could lead to misdiagnosis and inadequate treatment.",
+        "The findings highlight the need for fairness in AI development."
+      ]
+    },
+    {
+      "id": "cluster_90",
+      "coverage": 1,
+      "updated_at": "Fri, 19 Sep 2025 18:44:00 +0000",
+      "title": "Despite congressional threat, National Academies releases new climate report",
+      "neutral_headline": "National Academies Releases Climate Report Despite Congressional Threat",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/science/2025/09/despite-congressional-threat-national-academies-releases-new-climate-report/",
+          "published_at": "Fri, 19 Sep 2025 18:44:00 +0000",
+          "title": "Despite congressional threat, National Academies releases new climate report",
+          "standfirst": "Things have changed since 2009: We're more certain about the problems.",
+          "content": "Earlier this year, the Environmental Protection Agency announced that it was going to reject the work it had done back in 2009, when it first determined that greenhouse gas emissions posed a threat to the US public. While it laid out a number of reasons for revisiting its earlier work, one of those focused on the science: The EPA's original decision was over 15 years old, and it claimed our understanding of climate change had itself changed since then. The National Academies of Science (NAS) decided that at least one aspect of that was probably right: Our understanding of the climate has changed in the last 15 years. So, it asked a group of scientists to do a quick update of our understanding of greenhouse gases, completed before public comment was closed on the EPA's plan. That report is now out, and the NAS's conclusion is clear: The EPA was right in 2009, and everything we've learned since has only made it more right. The politics of emissions The EPA's endangerment finding already had a long history by the time it was completed during the Obama administration. In it, the EPA concluded that greenhouse gases pose a risk to the US and its citizens, both directly through health impacts and indirectly through economic damages. Under the Clean Air Act, that finding enabled regulation of greenhouse gas emissions and formed the foundation of plans to reduce those originating from transportation and electrical generation. All of those plans have been held up in court or abandoned before coming into effect.Read full article Comments",
+          "feed_position": 10,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1354849968-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1354849968-1152x648.jpg",
+      "popularity_score": 141,
+      "ai_summary": [
+        "The National Academies released a new climate report.",
+        "The report was released despite threats from Congress.",
+        "The report states that climate problems are more certain now.",
+        "The report updates findings from a 2009 climate report.",
+        "The report provides updated scientific understanding of climate change."
+      ]
+    },
+    {
+      "id": "cluster_124",
+      "coverage": 1,
+      "updated_at": "Fri, 19 Sep 2025 11:00:51 +0000",
+      "title": "Rocket Report: European rocket reuse test delayed; NASA tweaks SLS for Artemis II",
+      "neutral_headline": "Rocket Report: European Rocket Test Delayed, NASA Tweaks SLS",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/space/2025/09/rocket-report-european-rocket-reuse-test-delayed-nasa-tweaks-sls-for-artemis-ii/",
+          "published_at": "Fri, 19 Sep 2025 11:00:51 +0000",
+          "title": "Rocket Report: European rocket reuse test delayed; NASA tweaks SLS for Artemis II",
+          "standfirst": "\"There’s a lot of interest because of the fear that there’s just not a lot of capacity.\"",
+          "content": "Welcome to Edition 8.11 of the Rocket Report! We have reached the time of year when it is possible the US government will shut down its operations at the end of this month, depending on congressional action. A shutdown would have significant implications for many NASA missions, but most notably a couple of dozen in the science directorate that the White House would like to shut down. At Ars, we will be watching this issue closely in the coming days. As for Artemis II, it seems to be far enough along that a launch next February seems possible as long as any government closure does not drag on for weeks and weeks. As always, we welcome reader submissions, and if you don't want to miss an issue, please subscribe using the box below (the form will not appear on AMP-enabled versions of the site). Each report will include information on small-, medium-, and heavy-lift rockets as well as a quick look ahead at the next three launches on the calendar. Rocket Lab to sell common shares. The space company said Tuesday that it intends to raise up to $750 million by selling common shares, MSN reports. This new at-the-market program replaces a prior agreement that allowed Rocket Lab to sell up to $500 million of stock. Under that earlier arrangement, the company had sold roughly $396.6 million in shares before ending the program.Read full article Comments",
+          "feed_position": 19,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/LOW-RES_Spectrum-Lift-off-c-Isar-Aerospace-Brady-Kenniston-NASASpaceflight.com-2-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/LOW-RES_Spectrum-Lift-off-c-Isar-Aerospace-Brady-Kenniston-NASASpaceflight.com-2-1152x648.jpg",
+      "popularity_score": 138,
+      "ai_summary": [
+        "A European rocket reuse test has been delayed.",
+        "NASA is making adjustments to the SLS rocket for Artemis II.",
+        "There is significant interest in rocket reuse technology.",
+        "The delay is due to technical difficulties with the test.",
+        "NASA is preparing for the next phase of the Artemis program."
+      ]
+    },
+    {
+      "id": "cluster_97",
+      "coverage": 1,
+      "updated_at": "Fri, 19 Sep 2025 17:20:11 +0000",
+      "title": "Steam will wind down support for 32-bit Windows as that version of Windows fades",
+      "neutral_headline": "Steam Will End Support for 32-bit Windows Systems",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gaming/2025/09/steam-will-drop-support-for-the-last-32-bit-windows-systems-in-january-2026/",
+          "published_at": "Fri, 19 Sep 2025 17:20:11 +0000",
+          "title": "Steam will wind down support for 32-bit Windows as that version of Windows fades",
+          "standfirst": "Change only affects 32-bit Windows 10; Windows 7 and 8 lost support years ago.",
+          "content": "Valve's Steam client is pretty widely compatible with all kinds of newer and older operating systems—that's what you do when you want as many people as possible spending their money in your store. But nothing lasts forever, and Valve does eventually end support for old software when it's time to move on. The company announced in a support note today that it would be ending Steam client support for 32-bit versions of Windows on January 1, 2026. \"Existing Steam Client installations will continue to function for the near term on Windows 10 32-bit but will no longer receive updates of any kind including security updates,\" the support note reads. \"Steam Support will be unable to offer users technical support for issues related to the old operating systems, and Steam will be unable to guarantee continued functionality of Steam on the unsupported operating system versions.\" When Steam drops support for an older operating system, it's often because support is also being ended in some other underlying piece of technology that Steam uses to function, like its Chromium-based built-in browser. Valve cited \"system drivers and other libraries that are not supported on 32-bit versions of Windows\" as the reason for ending 32-bit Windows support.Read full article Comments",
+          "feed_position": 12,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/steam.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/steam.jpg",
+      "popularity_score": 133,
+      "ai_summary": [
+        "Steam will end support for 32-bit Windows operating systems.",
+        "The change affects only 32-bit versions of Windows 10.",
+        "Support for Windows 7 and 8 ended years ago.",
+        "This change reflects the declining use of 32-bit systems.",
+        "The move will impact users still running older operating systems."
+      ]
+    },
+    {
+      "id": "cluster_100",
+      "coverage": 1,
+      "updated_at": "Fri, 19 Sep 2025 16:58:08 +0000",
+      "title": "Your very own humane interface: Try Jef Raskin’s ideas at home",
+      "neutral_headline": "Explore Jef Raskin’s Computer Design Ideas Through Emulation",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2025/09/your-very-own-humane-interface-try-jef-raskins-ideas-at-home/",
+          "published_at": "Fri, 19 Sep 2025 16:58:08 +0000",
+          "title": "Your very own humane interface: Try Jef Raskin’s ideas at home",
+          "standfirst": "Use the magic of emulation to see a different kind of computer design.",
+          "content": "In our earlier article about Macintosh project creator Jef Raskin, we looked at his quest for the humane computer, one that was efficient, consistent, useful, and above all else, respectful and adaptable to the natural frailties of humans. From Raskin's early work on the Apple Macintosh to the Canon Cat and later his unique software implementations, you were guaranteed an interface you could sit down and interact with nearly instantly and—once you'd learned some basic keystrokes and rules—one you could be rapidly productive with. But no modern computer implements his designs directly, even though some are based on principles he either espoused or outright pioneered. Fortunately, with a little work and the magic of emulation, you can have your very own humane interface at home and see for yourself what computing might have been had we traveled a little further down Raskin's UI road. You don’t need to feed a virtual Cat Perhaps the most straightforward of Raskin's systems to emulate is the Canon Cat. Sold by Canon as an overgrown word processor (billed as a “work processor”), it purported to be a simple editor for office work but is actually a full Motorola 68000-based computer programmable through an intentional backdoor in its own dialect of Forth. It uses a single workspace saved en masse to floppy disk that can be subdivided into multiple “documents” and jumped to quickly with key combinations, and it includes facilities for simple spreadsheets and lists.Read full article Comments",
+          "feed_position": 14,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/raskinfeature10-1152x648-1757020441.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/raskinfeature10-1152x648-1757020441.jpg",
+      "popularity_score": 133,
+      "ai_summary": [
+        "Explore Jef Raskin's computer design ideas through emulation.",
+        "Emulation allows users to experience different computer designs.",
+        "Raskin was a pioneer in human-computer interaction.",
+        "The article encourages users to try out his ideas.",
+        "The project uses emulation to showcase alternative computer interfaces."
+      ]
+    },
+    {
+      "id": "cluster_107",
+      "coverage": 1,
+      "updated_at": "Fri, 19 Sep 2025 15:17:44 +0000",
+      "title": "If you own a Volvo EX90, you’re getting a free computer upgrade",
+      "neutral_headline": "Volvo EX90 Owners Receive Free Computer Upgrade",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/cars/2025/09/forget-ota-volvo-is-upgrading-the-core-computer-in-the-ex90-for-free/",
+          "published_at": "Fri, 19 Sep 2025 15:17:44 +0000",
+          "title": "If you own a Volvo EX90, you’re getting a free computer upgrade",
+          "standfirst": "The upgrade is to dual Nvidia DRIVE AGX Orin computers, also for Polestar 3.",
+          "content": "If you own a 2025 Volvo EX90, here's some good news: You're getting a car computer upgrade. Even better news? It's free. The Swedish automaker says that owners of model year 2025 EX90s—like the one we tested earlier this summer—are eligible for an upgrade to the electric vehicle's core computer. Specifically, the cars will get a new dual Nvidia DRIVE AGX Orin setup, which Volvo says will improve performance and reduce battery drainage, as well as enabling some features that have been TBD so far. That will presumably be welcome news—the EX90 is a shining example of how the \"minimal viable product\" idea has infiltrated the auto industry from the tech sphere. That's because Volvo has had a heck of a time with the EX90 development, having to delay the EV not once but twice in order to get a handle on the car's software.Read full article Comments",
+          "feed_position": 16,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/2025-Volvo-EX90-01-1440x1080-1-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/2025-Volvo-EX90-01-1440x1080-1-1152x648.jpg",
+      "popularity_score": 133,
+      "ai_summary": [
+        "Volvo EX90 owners will receive a free computer upgrade.",
+        "The upgrade includes dual Nvidia DRIVE AGX Orin computers.",
+        "The upgrade is also available for the Polestar 3.",
+        "The upgrade improves the vehicle's computing capabilities.",
+        "The upgrade enhances the car's autonomous driving features."
+      ]
+    },
+    {
+      "id": "cluster_111",
+      "coverage": 1,
+      "updated_at": "Fri, 19 Sep 2025 14:54:05 +0000",
+      "title": "RFK Jr.’s anti-vaccine panel realizes it has no idea what it’s doing, skips vote",
+      "neutral_headline": "RFK Jr.’s Anti-Vaccine Panel Postpones Vote Due to Lack of Data",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/health/2025/09/rfk-jr-s-anti-vaccine-panel-realizes-it-has-no-idea-what-its-doing-skips-vote/",
+          "published_at": "Fri, 19 Sep 2025 14:54:05 +0000",
+          "title": "RFK Jr.’s anti-vaccine panel realizes it has no idea what it’s doing, skips vote",
+          "standfirst": "With a lack of data and confusing language, the panel tabled the vote indefinitely.",
+          "content": "The second day of a two-day meeting of the Advisory Committee on Immunization Practices—a panel currently made up of federal vaccine advisors hand-selected by anti-vaccine activist Robert F. Kennedy, Jr.—is off to a dramatic start, with the advisors seemingly realizing they have no idea what they're doing. The inexperienced, questionably qualified group that has espoused anti-vaccine rhetoric started its second day of deliberations by reversing a vote taken the previous day on federal coverage for the measles, mumps, rubella, and varicella (MMRV) vaccine. Yesterday, the group voted to restrict access to MMRV, stripping recommendations for its use in children under age 4. While that decision was based on no new data, it passed with majority support of 8–3 (with one abstention). (For an explanation of that, see our coverage of yesterday's part of the meeting here.) But puzzlingly, they then voted to uphold access and coverage of MMRV vaccines for children under age 4 if they receive free vaccines through the federal Vaccines for Children program, which covers about half of American children, mostly low-income. The discrepancy projected the idea that the alleged safety concerns that led the panel to rescind the recommendation for MMRV generally, somehow did not apply to low-income, vulnerable children. The vote also created significant confusion for VFC coverage, which typically aligns with recommendations made by the panel.Read full article Comments",
+          "feed_position": 17,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2235571352-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2235571352-1152x648.jpg",
+      "popularity_score": 133,
+      "ai_summary": [
+        "Robert F Kennedy Jr's anti-vaccine panel postponed a vote.",
+        "The panel lacked sufficient data to proceed with the vote.",
+        "The panel used confusing language during its discussions.",
+        "The panel's purpose was to discuss vaccine safety.",
+        "The indefinite postponement reflects the panel's disarray."
       ]
     }
   ]
