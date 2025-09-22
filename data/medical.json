@@ -1,17 +1,40 @@
 {
   "clinical": {
-    "updated_at": "2025-09-22T07:13:58.679Z",
+    "updated_at": "2025-09-22T11:11:41.436Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2025-09-22T07:13:58.679Z",
+    "updated_at": "2025-09-22T11:11:41.436Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2025-09-22T07:14:07.862Z",
+    "updated_at": "2025-09-22T11:11:50.724Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Mon, 22 Sep 2025 10:48:07 GMT",
+        "title": "Gatwick second runway plan approved by transport secretary",
+        "neutral_headline": "Gatwick second runway plan approved by transport secretary",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/c9v7rz24z23o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 22 Sep 2025 10:48:07 GMT",
+            "title": "Gatwick second runway plan approved by transport secretary",
+            "standfirst": "There has been strong opposition against the airport wanting to use its northern runway.",
+            "content": "There has been strong opposition against the airport wanting to use its northern runway.",
+            "feed_position": 40,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7630/live/6ef857a0-9712-11f0-9cf6-cbf3e73ce2b9.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7630/live/6ef857a0-9712-11f0-9cf6-cbf3e73ce2b9.jpg"
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Mon, 22 Sep 2025 07:00:05 GMT",
         "title": "Is it true that … doing puzzles prevents dementia?",
@@ -32,7 +55,7 @@
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Mon, 22 Sep 2025 02:00:01 GMT",
         "title": "What happens when you stop weight loss jabs? – podcast",
@@ -53,7 +76,30 @@
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
+        "coverage": 1,
+        "updated_at": "Mon, 22 Sep 2025 00:28:03 GMT",
+        "title": "The songs I've chosen to help me prepare for dying",
+        "neutral_headline": "The songs I've chosen to help me prepare for dying",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/c3e7n40vyx2o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 22 Sep 2025 00:28:03 GMT",
+            "title": "The songs I've chosen to help me prepare for dying",
+            "standfirst": "Music can evoke powerful memories and offers a sense of normality for people dealing with illness or death.",
+            "content": "Music can evoke powerful memories and offers a sense of normality for people dealing with illness or death.",
+            "feed_position": 27,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecc1/live/b52b2820-978e-11f0-a4bc-e5c9e246a537.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecc1/live/b52b2820-978e-11f0-a4bc-e5c9e246a537.jpg"
+      },
+      {
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Sun, 21 Sep 2025 12:00:42 GMT",
         "title": "States rally to offset fracturing of federal healthcare agencies: ‘Diseases don’t see state lines’",
@@ -75,7 +121,7 @@
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Sun, 21 Sep 2025 11:00:43 GMT",
         "title": "How modern life makes us sick – and what to do about it",
@@ -97,7 +143,7 @@
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Sun, 21 Sep 2025 10:00:40 GMT",
         "title": "For years I struggled with infertility and loss. Then I had a life-changing call with a psychic",
@@ -118,7 +164,7 @@
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Sat, 20 Sep 2025 23:02:35 GMT",
         "title": "Creatine - can this muscle-boosting supplement help sharpen my brain?",
@@ -134,14 +180,14 @@
             "title": "Creatine - can this muscle-boosting supplement help sharpen my brain?",
             "standfirst": "As its popularity grows, research suggests creatine may also benefit short-term memory, mood and focus.",
             "content": "As its popularity grows, research suggests creatine may also benefit short-term memory, mood and focus.",
-            "feed_position": 86,
+            "feed_position": 0,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3caf/live/31745500-9582-11f0-b391-6936825093bd.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3caf/live/31745500-9582-11f0-b391-6936825093bd.jpg"
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Sat, 20 Sep 2025 20:00:23 GMT",
         "title": "I had a stroke during an ocean swim. Most people passed by unaware. One didn’t",
@@ -164,7 +210,7 @@
     ]
   },
   "month_in_research": {
-    "updated_at": "2025-09-22T07:14:07.862Z",
+    "updated_at": "2025-09-22T11:11:50.724Z",
     "clusters": []
   }
 }
