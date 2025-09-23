@@ -1,92 +1,198 @@
 {
-  "updated_at": "2025-09-23T19:10:45.661Z",
+  "updated_at": "2025-09-23T23:11:30.346Z",
   "clusters": [
     {
+      "id": "cluster_1",
+      "coverage": 1,
+      "updated_at": "Tue, 23 Sep 2025 22:34:34 +0000",
+      "title": "Pennywise gets an origin story in Welcome to Derry trailer",
+      "neutral_headline": "Pennywise origin story revealed in Welcome to Derry trailer",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/culture/2025/09/pennywise-gets-an-origin-story-in-welcome-to-derry-trailer/",
+          "published_at": "Tue, 23 Sep 2025 22:34:34 +0000",
+          "title": "Pennywise gets an origin story in Welcome to Derry trailer",
+          "standfirst": "Bill Skarsgård reprises his role as the murderous clown, and there are several Stephen King Easter eggs.",
+          "content": "Director Andy Muschietti's two-film adaptation of Stephen King's bestselling horror novel IT racked up over $1 billion at the box office worldwide. Now Muschietti is back with a nine-episode prequel series for HBO, IT: Welcome to Derry, exploring the origins of Pennywise the Clown (Bill Skarsgård), the ancient evil that terrorized the fictional town every 27 years. And now we have an official trailer a month before the prequel's October debut. (Some spoilers below for IT and IT: Chapter Two.) As previously reported, set in 1989, IT essentially adapted half of King's original novel, telling the story of a group of misfit kids calling themselves \"The Losers Club.\" The kids discover their small town of Derry is home to an ancient, trans-dimensional evil that awakens every 27 years to prey mostly on children by taking the form of an evil clown named Pennywise. Bill (Jaeden Lieberher) loses his little brother, Georgie, to Pennywise, and the group decides to take on Pennywise and drive him into early hibernation, where he will hopefully starve. But Beverly (Sophia Lillis) has a vision warning that Pennywise will return on schedule in 27 years, and they must be ready to fight him anew.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/derry1-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/derry1-1152x648.jpg",
+      "popularity_score": 367.3843483333333,
+      "ai_summary": [
+        "A trailer for \"Welcome to Derry\" has been released.",
+        "The series will explore Pennywise's origin story.",
+        "Bill Skarsgård reprises his role as the clown.",
+        "The trailer includes several Stephen King Easter eggs.",
+        "The article previews the upcoming horror series."
+      ]
+    },
+    {
+      "id": "cluster_3",
+      "coverage": 1,
+      "updated_at": "Tue, 23 Sep 2025 22:23:22 +0000",
+      "title": "When “no” means “yes”: Why AI chatbots can’t process Persian social etiquette",
+      "neutral_headline": "Study examines AI chatbot responses in Persian social etiquette",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2025/09/when-no-means-yes-why-ai-chatbots-cant-process-persian-social-etiquette/",
+          "published_at": "Tue, 23 Sep 2025 22:23:22 +0000",
+          "title": "When “no” means “yes”: Why AI chatbots can’t process Persian social etiquette",
+          "standfirst": "New study examines how a helpful AI response could become a cultural disaster in Iran.",
+          "content": "If an Iranian taxi driver waves away your payment, saying, \"Be my guest this time,\" accepting their offer would be a cultural disaster. They expect you to insist on paying—probably three times—before they'll take your money. This dance of refusal and counter-refusal, called taarof, governs countless daily interactions in Persian culture. And AI models are terrible at it. New research released earlier this month titled \"We Politely Insist: Your LLM Must Learn the Persian Art of Taarof\" shows that mainstream AI language models from OpenAI, Anthropic, and Meta fail to absorb these Persian social rituals, correctly navigating taarof situations only 34 to 42 percent of the time. Native Persian speakers, by contrast, get it right 82 percent of the time. This performance gap persists across large language models such as GPT-4o, Claude 3.5 Haiku, Llama 3, DeepSeek V3, and Dorna, a Persian-tuned variant of Llama 3. A study led by Nikta Gohari Sadr of Brock University, along with researchers from Emory University and other institutions, introduces \"TAAROFBENCH,\" the first benchmark for measuring how well AI systems reproduce this intricate cultural practice. The researchers' findings show how recent AI models default to Western-style directness, completely missing the cultural cues that govern everyday interactions for millions of Persian speakers worldwide.Read full article Comments",
+          "feed_position": 1,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/tehran_market-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/tehran_market-1152x648.jpg",
+      "popularity_score": 357.19768166666665,
+      "ai_summary": [
+        "Research explores how AI responses could cause cultural issues in Iran.",
+        "AI chatbots may struggle with nuanced social interactions in Persian culture.",
+        "A helpful AI response could inadvertently become a cultural problem.",
+        "The study focuses on the potential for AI misinterpretations.",
+        "The research highlights the importance of cultural context in AI development."
+      ]
+    },
+    {
       "id": "cluster_17",
-      "coverage": 2,
-      "updated_at": "Tue, 23 Sep 2025 14:10:01 -0400",
-      "title": "Filing: Indian ride-hailing app Rapido doubled its valuation to $2.3B after Swiggy offloaded its 12% Rapido stake for ~$270M in a secondary share sale (Jagmeet Singh/TechCrunch)",
-      "neutral_headline": "Rapido Valuation Doubles After Swiggy Stake Sale",
+      "coverage": 1,
+      "updated_at": "Tue, 23 Sep 2025 19:17:41 +0000",
+      "title": "Review: Apple’s iPhone Air is a bunch of small changes that add up to something big",
+      "neutral_headline": "Apple iPhone Air review details small changes and overall impact",
       "bullet_summary": [
-        "Reported by TechMeme, TechCrunch"
+        "Reported by Ars Technica"
       ],
       "items": [
         {
-          "source": "TechMeme",
-          "url": "http://www.techmeme.com/250923/p24#a250923p24",
-          "published_at": "Tue, 23 Sep 2025 14:10:01 -0400",
-          "title": "Filing: Indian ride-hailing app Rapido doubled its valuation to $2.3B after Swiggy offloaded its 12% Rapido stake for ~$270M in a secondary share sale (Jagmeet Singh/TechCrunch)",
-          "standfirst": "Jagmeet Singh / TechCrunch: Filing: Indian ride-hailing app Rapido doubled its valuation to $2.3B after Swiggy offloaded its 12% Rapido stake for ~$270M in a secondary share sale &mdash; Rapido, a popular ride-hailing platform in India that competes with Uber, has doubled its valuation to $2.3 billion following a secondary share sale by food delivery giant Swiggy.",
-          "content": "Jagmeet Singh / TechCrunch: Filing: Indian ride-hailing app Rapido doubled its valuation to $2.3B after Swiggy offloaded its 12% Rapido stake for ~$270M in a secondary share sale &mdash; Rapido, a popular ride-hailing platform in India that competes with Uber, has doubled its valuation to $2.3 billion following a secondary share sale by food delivery giant Swiggy.",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2025/09/iphone-air-review-apples-different-est-phone-in-years-is-appealing-despite-itself/",
+          "published_at": "Tue, 23 Sep 2025 19:17:41 +0000",
+          "title": "Review: Apple’s iPhone Air is a bunch of small changes that add up to something big",
+          "standfirst": "An interesting iPhone despite throttling, worse battery, and single-lens camera.",
+          "content": "If you'll indulge me for a moment, here's some ancient history. In 2008, when Apple took the very first MacBook Air out of a manila envelope, it was not positioned as Apple's new entry-level Mac laptop. The innovative but flawed system started at $1,799, far above the $999 price of the entry-level plastic MacBook and well into MacBook Pro territory. In those early, formative years, the \"Air\" branding denoted not a midrange or entry-level model but an alternate branching path from the baseline MacBook. Paying Apple more money could get you more computer—the Pro model, with more processor, more screen, more storage, more everything—or it could get you a different kind of computer, with fundamentally different benefits and trade-offs.Read full article Comments",
+          "feed_position": 5,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/IMG_3388-1152x648.jpeg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/IMG_3388-1152x648.jpeg",
+      "popularity_score": 337.1029594444444,
+      "ai_summary": [
+        "The iPhone Air features several minor alterations to the existing design.",
+        "The phone experiences throttling, impacting performance over time.",
+        "Battery life is reportedly worse compared to previous iPhone models.",
+        "It includes a single-lens camera, limiting photography capabilities.",
+        "Despite these issues, the phone offers a compelling user experience."
+      ]
+    },
+    {
+      "id": "cluster_7",
+      "coverage": 1,
+      "updated_at": "Tue, 23 Sep 2025 21:22:04 +0000",
+      "title": "Disney decides it hasn’t angered people enough, announces Disney+ price hikes",
+      "neutral_headline": "Disney announces Disney+ price increases, angering subscribers",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2025/09/disney-decides-it-hasnt-angered-people-enough-announces-disney-price-hikes/",
+          "published_at": "Tue, 23 Sep 2025 21:22:04 +0000",
+          "title": "Disney decides it hasn’t angered people enough, announces Disney+ price hikes",
+          "standfirst": "In case you needed another reason to get rid of Disney+.",
+          "content": "While mired in controversy from all sides, the Walt Disney Company has unveiled price hikes for Disney+ and its other streaming services today. As of October 21, Disney+ will cost up to 20 percent more, depending on the plan you have. Disney+ with ads is increasing from $10 to $12 per month, while the ad-free plan is going from $16 to $19 per month. The annual, ad-free plan will go from $160 to $190. Acquisitions have enabled Disney to own multiple streaming services, so it’s not just Disney+ subscribers who will be impacted. Subscriptions for Hulu and ESPN Select will also increase, as will all Hulu + Live TV plans and bundles of Disney’s three subscription-based streaming services.Read full article Comments",
           "feed_position": 2,
-          "image_url": "http://www.techmeme.com/250923/i24.jpg"
-        },
-        {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2025/09/23/uber-rival-rapido-doubles-valuation-to-2-3b-following-swiggy-stake-sale/",
-          "published_at": "Tue, 23 Sep 2025 17:50:37 +0000",
-          "title": "Uber-rival Rapido doubles valuation to $2.3B following Swiggy stake sale",
-          "standfirst": "Swiggy has offloaded its entire 12% stake in Rapido for about $270 million through two separate deals.",
-          "content": "Swiggy has offloaded its entire 12% stake in Rapido for about $270 million through two separate deals.",
-          "feed_position": 2
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1232471426-1152x648-1758659091.jpg"
         }
       ],
-      "featured_image": "http://www.techmeme.com/250923/i24.jpg",
-      "popularity_score": 2018.9875944444445,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1232471426-1152x648-1758659091.jpg",
+      "popularity_score": 331.176015,
       "ai_summary": [
-        "Indian ride-hailing platform Rapido's valuation reached $2.3 billion after a secondary share sale.",
-        "Food delivery giant Swiggy offloaded its entire 12% stake in Rapido.",
-        "Swiggy's stake sale involved two separate deals.",
-        "The stake sale generated approximately $270 million for Swiggy.",
-        "Rapido competes with Uber in the Indian ride-hailing market."
+        "Disney plans to raise the subscription prices for its streaming service.",
+        "The price hikes may further discourage users from subscribing.",
+        "The announcement follows previous decisions that have upset consumers.",
+        "The price increase could lead to subscriber churn for Disney+.",
+        "The company has not yet released the new pricing details."
       ]
     },
     {
-      "id": "cluster_70",
-      "coverage": 2,
-      "updated_at": "Tue, 23 Sep 2025 14:51:43 +0000",
-      "title": "Meta launches super PAC to fight AI regulation as state policies mount",
-      "neutral_headline": "Meta Launches Super PAC to Fight AI Regulation",
+      "id": "cluster_15",
+      "coverage": 1,
+      "updated_at": "Tue, 23 Sep 2025 19:49:52 +0000",
+      "title": "FCC chairman unconvincingly claims he never threatened ABC station licenses",
+      "neutral_headline": "FCC Chairman denies threatening ABC station licenses",
       "bullet_summary": [
-        "Reported by TechCrunch, TechMeme"
+        "Reported by Ars Technica"
       ],
       "items": [
         {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2025/09/23/meta-launches-super-pac-to-fight-ai-regulation-as-state-policies-mount/",
-          "published_at": "Tue, 23 Sep 2025 14:51:43 +0000",
-          "title": "Meta launches super PAC to fight AI regulation as state policies mount",
-          "standfirst": "Meta is investing 'tens of millions' into a new pro-AI super PAC called the American Technology Excellence Project to fight state-level tech policy that would regulate AI.",
-          "content": "Meta is investing 'tens of millions' into a new pro-AI super PAC called the American Technology Excellence Project to fight state-level tech policy that would regulate AI.",
-          "feed_position": 14
-        },
-        {
-          "source": "TechMeme",
-          "url": "http://www.techmeme.com/250923/p14#a250923p14",
-          "published_at": "Tue, 23 Sep 2025 09:45:01 -0400",
-          "title": "Meta launches the American Technology Excellence Project, a super PAC to fight AI policy bills at the state level; it previously launched a California PAC (Ashley Gold/Axios)",
-          "standfirst": "Ashley Gold / Axios: Meta launches the American Technology Excellence Project, a super PAC to fight AI policy bills at the state level; it previously launched a California PAC &mdash; Meta launched a new super PAC on Tuesday to help fight off what it sees as onerous AI and tech policy bills across the country, per an announcement shared exclusively with Axios.",
-          "content": "Ashley Gold / Axios: Meta launches the American Technology Excellence Project, a super PAC to fight AI policy bills at the state level; it previously launched a California PAC &mdash; Meta launched a new super PAC on Tuesday to help fight off what it sees as onerous AI and tech policy bills across the country, per an announcement shared exclusively with Axios.",
-          "feed_position": 12,
-          "image_url": "http://www.techmeme.com/250923/i14.jpg"
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2025/09/fcc-chairman-unconvincingly-claims-he-never-threatened-abc-station-licenses/",
+          "published_at": "Tue, 23 Sep 2025 19:49:52 +0000",
+          "title": "FCC chairman unconvincingly claims he never threatened ABC station licenses",
+          "standfirst": "Brendan Carr would like you to reject the evidence of your eyes and ears.",
+          "content": "Federal Communications Commission Chairman Brendan Carr wants you to know that he never threatened to revoke TV licenses if Disney refused to suspend Jimmy Kimmel. The problem for Carr is that lots of people heard him do exactly that last week. \"There's a lot of Democrats out there that are engaged in a campaign of projection and distortion,\" Carr said during an on-stage interview at the Concordia Summit yesterday. \"The distortion is they're completely misrepresenting the work of the FCC and what we've been doing. I saw there's a letter from some Senate Democrats that said the FCC threatened to revoke the license of Disney and ABC if they didn't fire Jimmy Kimmel, and that did not happen in any way, shape, or form.\" While Carr complained that Democrats interpreted his comments as a threat to Disney, he didn't mention that his comments were also interpreted as a threat by several prominent Senate Republicans. Disney suspended Kimmel's show last week after Carr said ABC affiliates could have licenses revoked for \"news distortion,\" but reinstated Kimmel yesterday after facing backlash from the public. Kimmel will be back on the air on many ABC-affiliated stations, but not those run by Nexstar and Sinclair, which have replaced Jimmy Kimmel Live! with news and other programming.Read full article Comments",
+          "feed_position": 4,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/brendan-carr-concordia-1152x648-1758655744.jpg"
         }
       ],
-      "featured_image": "http://www.techmeme.com/250923/i14.jpg",
-      "popularity_score": 2015.6825944444445,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/brendan-carr-concordia-1152x648-1758655744.jpg",
+      "popularity_score": 330.6393483333333,
       "ai_summary": [
-        "Meta is investing tens of millions of dollars in a new super PAC.",
-        "The super PAC is called the American Technology Excellence Project.",
-        "The project aims to fight state-level tech policies regulating artificial intelligence.",
-        "Meta previously launched a California-based PAC.",
-        "The company views certain AI policy bills as potentially onerous."
+        "Brendan Carr denies claims of threatening ABC station licenses.",
+        "The accusations involve potential interference with broadcast licenses.",
+        "Carr's denial contradicts evidence presented by critics.",
+        "The situation raises questions about the FCC's actions.",
+        "The controversy involves the chairman's alleged actions."
       ]
     },
     {
-      "id": "cluster_30",
+      "id": "cluster_14",
+      "coverage": 1,
+      "updated_at": "Tue, 23 Sep 2025 20:04:53 +0000",
+      "title": "YouTube will restore channels banned for COVID and election misinformation",
+      "neutral_headline": "YouTube to restore channels banned for misinformation",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2025/09/youtube-will-restore-channels-banned-for-covid-and-election-misinformation/",
+          "published_at": "Tue, 23 Sep 2025 20:04:53 +0000",
+          "title": "YouTube will restore channels banned for COVID and election misinformation",
+          "standfirst": "Alphabet blames the Biden administration for its moderation decisions.",
+          "content": "It's not exactly hard to find politically conservative content on YouTube, but the platform may soon skew even further to the right. YouTube parent Alphabet has confirmed that it will restore channels that were banned in recent years for spreading misinformation about COVID-19 and elections. Alphabet says it values free expression and political debate, placing the blame for its previous moderation decisions on the Biden administration. Alphabet made this announcement via a lengthy letter to Rep. Jim Jordan (R-Ohio). The letter, a response to subpoenas from the House Judiciary Committee, explains in no uncertain terms that the company is taking a more relaxed approach to moderating political content on YouTube. For starters, Alphabet denies that its products and services are biased toward specific viewpoints and that it \"appreciates the accountability\" provided by the committee. The cloying missive goes on to explain that Google didn't really want to ban all those accounts, but Biden administration officials just kept asking. Now that the political tables have turned, Google is looking to dig itself out of this hole.Read full article Comments",
+          "feed_position": 3,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/youtube-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/youtube-1152x648.jpg",
+      "popularity_score": 319.8896261111111,
+      "ai_summary": [
+        "YouTube will reinstate channels removed for COVID and election misinformation.",
+        "Alphabet cites the Biden administration as the reason for the change.",
+        "The platform previously removed channels for violating content policies.",
+        "The decision reverses previous moderation actions by YouTube.",
+        "The move reflects a shift in the platform's content moderation strategy."
+      ]
+    },
+    {
+      "id": "cluster_25",
       "coverage": 1,
       "updated_at": "Tue, 23 Sep 2025 17:15:23 +0000",
       "title": "Scientists catch a shark threesome on camera",
-      "neutral_headline": "Scientists Observe Shark Mating Behavior on Camera",
+      "neutral_headline": "Scientists capture shark threesome on camera",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -98,26 +204,26 @@
           "title": "Scientists catch a shark threesome on camera",
           "standfirst": "\"It was over quickly for both males, one after the other. The first took 63 seconds, the other 47.\"",
           "content": "It's a rare occurrence for scientists to witness sharks mating in the wild. It's even rarer to catch three leopard sharks—two males and one female—engaging in what amounts to a threesome in the wild on camera, particularly since they are considered an endangered species. But that's just what one enterprising marine biology team achieved, describing the mating sequence in careful, clinical detail in a paper published in the Journal of Ethology. It's not like scientists don't know anything about leopard shark mating behavior; rather, most of that knowledge comes from studying the sharks in captivity. Whether the behavior is identical in the wild is an open question because there hadn't been any documented observations of leopard shark mating practices in the wild—until now. Hugo Lassauce, a postdoctoral researcher at the University of the Sunshine Coast (UniSC) in Australia, was working with the Aquarium des Lagons in Nouméa, New Caledonia, to monitor sharks off the coast of that South Pacific territory. Lassauce has been snorkeling daily with sharks for a year as part of that program—always with an accompanying boat for safety purposes—and had seen bits of the leopard shark mating behavior before, but never the entire sequence. Then he spotted a female shark on the sand below with two males hanging onto her pectoral fins—classic pre-copulation (courtship) behavior observed in captive leopard sharks.Read full article Comments",
-          "feed_position": 0,
+          "feed_position": 6,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/shark1-1152x648-1758565459.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/shark1-1152x648-1758565459.jpg",
-      "popularity_score": 348.07703888888886,
+      "popularity_score": 284.0646261111111,
       "ai_summary": [
-        "Scientists captured a shark threesome on camera.",
-        "The mating event involved two male sharks.",
-        "The first male's mating attempt lasted 63 seconds.",
-        "The second male's attempt lasted 47 seconds.",
-        "The event concluded quickly for both male sharks."
+        "Scientists documented a shark mating event on camera.",
+        "The footage shows a male shark mating with a female shark.",
+        "The first male shark's mating lasted 63 seconds.",
+        "The second male shark's mating lasted 47 seconds.",
+        "The event provides insights into shark behavior."
       ]
     },
     {
-      "id": "cluster_39",
+      "id": "cluster_28",
       "coverage": 1,
       "updated_at": "Tue, 23 Sep 2025 16:59:01 +0000",
       "title": "Baby Steps is the most gloriously frustrating game I’ve ever struggled through",
-      "neutral_headline": "Baby Steps Game Described as Gloriously Frustrating",
+      "neutral_headline": "Baby Steps game combines frustration and unique gameplay",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -129,26 +235,26 @@
           "title": "Baby Steps is the most gloriously frustrating game I’ve ever struggled through",
           "standfirst": "QWOP meets Death Stranding meets Getting Over It to form wonderfully surreal, unique game.",
           "content": "There's an old saying that life is not about how many times you fall down but how many times you get back up. In my roughly 13 hours of walking through the surreal mountain wilderness of Baby Steps, I'd conservatively estimate I easily fell down 1,000 times. If so, I got up 1,001 times, which is the entire point. When I say \"fell down\" here, I'm not being metaphorical. In Baby Steps, the only real antagonist is terrain that threatens to send your pudgy, middle-aged, long-underwear-clad avatar tumbling to the ground (or down a cliff) like a rag doll after the slightest misstep. You pilot this avatar using an intentionally touchy and cumbersome control system where each individual leg is tied a shoulder trigger on your controller.Read full article Comments",
-          "feed_position": 1,
+          "feed_position": 7,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/20250917165715_1-1152x648-1758643343.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/20250917165715_1-1152x648-1758643343.jpg",
-      "popularity_score": 346.8042611111111,
+      "popularity_score": 282.79184833333335,
       "ai_summary": [
-        "Baby Steps is a video game described as frustrating.",
-        "The game combines elements of QWOP, Death Stranding, and Getting Over It.",
-        "It is considered a wonderfully surreal and unique game.",
-        "The game presents a challenging and distinctive gameplay experience.",
-        "Players may find the game both frustrating and engaging."
+        "The game \"Baby Steps\" is described as frustrating but unique.",
+        "It combines elements of \"QWOP,\" \"Death Stranding,\" and \"Getting Over It.\"",
+        "The game offers a surreal and distinctive gaming experience.",
+        "Players will experience a unique and challenging gameplay style.",
+        "The game is considered gloriously frustrating by reviewers."
       ]
     },
     {
-      "id": "cluster_45",
+      "id": "cluster_31",
       "coverage": 1,
       "updated_at": "Tue, 23 Sep 2025 16:40:34 +0000",
       "title": "US uncovers 100,000 SIM cards that could have “shut down” NYC cell network",
-      "neutral_headline": "US Uncovers SIM Cards Potentially Disrupting NYC Network",
+      "neutral_headline": "US uncovers SIM cards that could disrupt New York City cell service",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -160,26 +266,26 @@
           "title": "US uncovers 100,000 SIM cards that could have “shut down” NYC cell network",
           "standfirst": "A \"nation-state\" is said to be involved.",
           "content": "The US Secret Service announced this morning that it has located and seized a cache of telecom devices large enough to \"shut down the cellular network in New York City.\" And it believes a nation-state is responsible. According to the agency, \"more than 300 co-located SIM servers and 100,000 SIM cards\" were discovered at multiple locations within the New York City area. Photos of the seized gear show what appear to be \"SIM boxes\" bristling with antennas and stuffed with SIM cards, then stacked on six-shelf racks. (SIM boxes are often used for fraud.) One photo even shows neatly stacked towers of punched-out SIM card packaging, suggesting that whoever assembled the system invested some quality time in just getting the whole thing set up. The gear was identified as part of a Secret Service investigation into \"anonymous telephonic threats\" made against several high-ranking US government officials, but the setup seems designed for something larger than just making a few threats. The Secret Service believes that the system could have been capable of activities like \"disabling cell phone towers, enabling denial of services attacks, and facilitating anonymous, encrypted communication between potential threat actors and criminal enterprises.\"Read full article Comments",
-          "feed_position": 2,
+          "feed_position": 8,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/WallOfSimBoxes-1152x648-1758645213.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/WallOfSimBoxes-1152x648-1758645213.jpg",
-      "popularity_score": 330.4967608333333,
+      "popularity_score": 266.48434833333334,
       "ai_summary": [
-        "The United States uncovered 100,000 SIM cards.",
-        "These SIM cards could have potentially shut down New York City's cell network.",
-        "A \"nation-state\" is reportedly involved in the situation.",
-        "The discovery raises concerns about potential network vulnerabilities.",
-        "Authorities are investigating the origin and purpose of the SIM cards."
+        "The United States discovered 100,000 SIM cards.",
+        "These SIM cards could have potentially disrupted NYC cell networks.",
+        "A \"nation-state\" is suspected to be involved in the incident.",
+        "The discovery raises concerns about potential cyberattacks.",
+        "The investigation is ongoing to determine the source of the cards."
       ]
     },
     {
-      "id": "cluster_47",
+      "id": "cluster_32",
       "coverage": 1,
       "updated_at": "Tue, 23 Sep 2025 16:29:59 +0000",
       "title": "NASA targeting early February for Artemis II mission to the Moon",
-      "neutral_headline": "NASA Targets Early February for Artemis II Moon Mission",
+      "neutral_headline": "NASA targets early February for Artemis II Moon mission",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -191,57 +297,26 @@
           "title": "NASA targeting early February for Artemis II mission to the Moon",
           "standfirst": "\"There is a desire for us to be the first to return to the surface of the Moon.\"",
           "content": "NASA is pressing ahead with preparations for the first launch of humans beyond low-Earth orbit in more than five decades, and officials said Tuesday that the Artemis II mission could take flight early next year. Although work remains to be done, the space agency is now pushing toward a launch window that opens on February 5, 2026, officials said during a news conference on Tuesday at Johnson Space Center. The Artemis II mission represents a major step forward for NASA and seeks to send four astronauts—Reid Wiseman, Victor Glover, Christina Koch, and Jeremy Hansen—around the Moon and back. The 10-day mission will be the first time astronauts have left low-Earth orbit since the Apollo 17 mission in December 1972.Read full article Comments",
-          "feed_position": 3,
+          "feed_position": 9,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/KSC-20230807-PH-KLS01_0259medium-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/KSC-20230807-PH-KLS01_0259medium-1152x648.jpg",
-      "popularity_score": 320.32037194444445,
+      "popularity_score": 256.30795944444446,
       "ai_summary": [
-        "NASA is aiming for an early February launch for the Artemis II mission.",
-        "The mission is a crewed flight around the Moon.",
+        "NASA aims for an early February launch for the Artemis II mission.",
+        "The mission will involve a crewed flight around the Moon.",
         "NASA wants to be the first to return to the lunar surface.",
-        "Artemis II is a crucial step in the Artemis program.",
-        "The mission will test systems for future lunar landings."
+        "The mission is a key step in the Artemis program.",
+        "The launch date is subject to change based on readiness."
       ]
     },
     {
-      "id": "cluster_48",
-      "coverage": 1,
-      "updated_at": "Tue, 23 Sep 2025 16:21:17 +0000",
-      "title": "Judge lets construction on an offshore wind farm resume",
-      "neutral_headline": "Judge Allows Offshore Wind Farm Construction to Resume",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2025/09/judge-lets-construction-on-an-offshore-wind-farm-resume/",
-          "published_at": "Tue, 23 Sep 2025 16:21:17 +0000",
-          "title": "Judge lets construction on an offshore wind farm resume",
-          "standfirst": "Judge calls decision to stop construction “the height of arbitrary and capricious.”",
-          "content": "On Monday, a judge blocked the Trump administration's latest attempt to stifle the US's nascent offshore wind industry. The ruling allows construction to restart on Revolution Wind, which the Danish company Orsted is building in the waters off Rhode Island and Connecticut. While the preliminary injunction can still be appealed, the project is already 80 percent complete, so construction could potentially wrap up while the case is still pending. The Trump administration has made no secret of its animosity toward renewable power and issued early executive orders that blocked further offshore leases and re-evaluated the permitting process for others. But it has also gone beyond that and issued stop-work orders for sites that had already been through the permitting process and were under construction. Its reasons for doing so have been remarkably vague, with suggestions of unspecified flaws to the permitting process that involve everything from environmental impacts to detail-free national security concerns. But those reasons could apparently be ignored under the right circumstances. After blocking further construction of New York's Empire Wind, the administration lifted the block without explaining why its supposed reasons for instituting it no longer applied.Read full article Comments",
-          "feed_position": 4,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2156801364-1024x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2156801364-1024x648.jpg",
-      "popularity_score": 310.17537194444446,
-      "ai_summary": [
-        "A judge has allowed construction on an offshore wind farm to continue.",
-        "The judge called the previous decision to halt construction arbitrary.",
-        "The judge's ruling allows the project to proceed.",
-        "The wind farm project is now back on track.",
-        "The decision resolves a legal challenge to the project."
-      ]
-    },
-    {
-      "id": "cluster_61",
+      "id": "cluster_39",
       "coverage": 1,
       "updated_at": "Tue, 23 Sep 2025 15:24:17 +0000",
       "title": "Google Play is getting a Gemini-powered AI Sidekick to help you in games",
-      "neutral_headline": "Google Play to Add Gemini-Powered AI Sidekick for Games",
+      "neutral_headline": "Google Play to add Gemini-powered AI Sidekick for games",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -253,88 +328,26 @@
           "title": "Google Play is getting a Gemini-powered AI Sidekick to help you in games",
           "standfirst": "Here comes another screen overlay.",
           "content": "The era of Google's Play's unrivaled dominance may be coming to an end in the wake of the company's antitrust loss, but Google's app store isn't going anywhere. In fact, the Play Store experience is getting a massive update with more personalization, content, and yes, AI. This is Google, after all. The revamped Google Play Games is a key part of this update. Gamer profiles will now have a public face, allowing you to interact with other players if you choose. Play Games will track your activity for daily streaks, which will be shown on your profile and unlock new Play Points rewards. Your profile will also display your in-game achievements. Your gaming exploits can also span multiple platforms. Google Play Games for PC is officially leaving beta. Google says there are now 200,000 games that work across mobile and PC, and even more PC-friendly titles, like Deep Rock Galactic: Survivor, are on the way. Your stats and streaks will apply across both mobile and PC as long as the title comes from the Play Store.Read full article Comments",
-          "feed_position": 7,
+          "feed_position": 13,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/Hero-Image-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/Hero-Image-1152x648.jpg",
-      "popularity_score": 306.2253719444444,
+      "popularity_score": 172.21295944444444,
       "ai_summary": [
-        "Google Play is integrating a Gemini-powered AI Sidekick.",
-        "The AI is designed to assist users within games.",
-        "The feature will appear as an on-screen overlay.",
+        "Google Play will integrate an AI Sidekick powered by Gemini.",
+        "The AI will assist users while they are playing games.",
+        "The feature will appear as an overlay on the screen.",
         "The AI aims to enhance the gaming experience.",
-        "This is another screen overlay for users."
+        "The feature's functionality is still being developed."
       ]
     },
     {
-      "id": "cluster_54",
-      "coverage": 1,
-      "updated_at": "Tue, 23 Sep 2025 15:52:45 +0000",
-      "title": "Broadcom’s prohibitive VMware prices create a learning “barrier,” IT pro says",
-      "neutral_headline": "Broadcom's VMware Pricing Creates Learning Barrier",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/information-technology/2025/09/broadcoms-prohibitive-vmware-prices-create-a-learning-barrier-it-pro-says/",
-          "published_at": "Tue, 23 Sep 2025 15:52:45 +0000",
-          "title": "Broadcom’s prohibitive VMware prices create a learning “barrier,” IT pro says",
-          "standfirst": "Public schools ran to VMware during the pandemic. Now they're running away.",
-          "content": "When the COVID-19 pandemic forced kids to stay home, educators flocked to VMware, and thousands of school districts adopted virtualization. The technology became a solution for distance learning during the pandemic and after, when events such as bad weather and illness can prevent children from physically attending school. However, the VMware being sold to K–12 schools today differs from the VMware that existed before and during the pandemic. Now a Broadcom business, the platform features higher prices and a business strategy that favors big spenders. This has created unique problems for educational IT departments juggling restrictive budgets and multiple technology vendors with children's needs. Curriculum impacted by IT delays Ars Technica recently spoke with an IT director at a public school district in Indiana. The director requested anonymity for themself and the district out of concern about potential blowback. The director confirmed that the district has five schools and about 3,000 students. The district started using VMware’s vSAN, a software-defined storage offering, and the vSphere virtualization platform in 2019. The Indiana school system bought the VMware offerings through a package that combined them with VxRail, which is hyperconverged infrastructure (HCI) hardware that Dell jointly engineered with VMware.Read full article Comments",
-          "feed_position": 5,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1287663546-1152x648-1758570568.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1287663546-1152x648-1758570568.jpg",
-      "popularity_score": 299.6998163888889,
-      "ai_summary": [
-        "Broadcom's VMware pricing is creating a learning barrier.",
-        "Public schools relied on VMware during the pandemic.",
-        "Schools are now moving away from VMware due to costs.",
-        "An IT professional cited the prohibitive prices.",
-        "The pricing impacts educational institutions."
-      ]
-    },
-    {
-      "id": "cluster_59",
-      "coverage": 1,
-      "updated_at": "Tue, 23 Sep 2025 15:34:25 +0000",
-      "title": "Supreme Court lets Trump fire FTC Democrat despite 90-year-old precedent",
-      "neutral_headline": "Supreme Court Allows Trump to Fire FTC Democrat",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2025/09/supreme-court-lets-trump-fire-ftc-democrat-despite-90-year-old-precedent/",
-          "published_at": "Tue, 23 Sep 2025 15:34:25 +0000",
-          "title": "Supreme Court lets Trump fire FTC Democrat despite 90-year-old precedent",
-          "standfirst": "Kagan dissent: Majority is giving Trump \"full control\" of independent agencies.",
-          "content": "The Supreme Court yesterday allowed President Trump to fire a Democratic member of the Federal Trade Commission and will decide whether to overturn a 90-year-old precedent that says the president cannot fire an FTC commissioner without cause. Trump fired Commissioner Rebecca Kelly Slaughter in March with a notice that said her \"continued service on the FTC is inconsistent with my administration's priorities.\" Trump did so despite the 1935 ruling in Humphrey's Executor v. United States, in which the Supreme Court unanimously held that the president can only remove FTC commissioners for inefficiency, neglect of duty, or malfeasance in office. An appeals court reinstated Slaughter three weeks ago, with judges finding that \"the government has no likelihood of success on appeal given controlling and directly on point Supreme Court precedent.\" But on September 8, Supreme Court Chief Justice John Roberts granted a stay that temporarily blocked the lower-court ruling against Trump.Read full article Comments",
-          "feed_position": 6,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-supreme-court-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-supreme-court-1152x648.jpg",
-      "popularity_score": 289.3942608333333,
-      "ai_summary": [
-        "The Supreme Court ruled on a case involving the FTC.",
-        "The ruling allows Trump to fire an FTC Democrat.",
-        "Justice Kagan dissented, citing a 90-year-old precedent.",
-        "Kagan stated the ruling gives Trump \"full control\" of agencies.",
-        "The decision impacts the independence of regulatory bodies."
-      ]
-    },
-    {
-      "id": "cluster_79",
+      "id": "cluster_44",
       "coverage": 1,
       "updated_at": "Tue, 23 Sep 2025 14:06:53 +0000",
       "title": "EU investigates Apple, Google, and Microsoft over handling of online scams",
-      "neutral_headline": "EU Investigates Apple, Google, and Microsoft Over Scams",
+      "neutral_headline": "EU investigates Apple, Google, and Microsoft over online scams",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -346,26 +359,119 @@
           "title": "EU investigates Apple, Google, and Microsoft over handling of online scams",
           "standfirst": "EU looks at Big Tech groups over handling of fake apps and search results.",
           "content": "The EU is set to scrutinize if Apple, Google, and Microsoft are failing to adequately police financial fraud online, as it steps up efforts to police how Big Tech operates online. The EU’s tech chief Henna Virkkunen told the Financial Times that on Tuesday, the bloc’s regulators would send formal requests for information to the three US Big Tech groups as well as global accommodation platform Booking Holdings, under powers granted under the Digital Services Act to tackle financial scams. “We see that more and more criminal actions are taking place online,” Virkkunen said. “We have to make sure that online platforms really take all their efforts to detect and prevent that kind of illegal content.”Read full article Comments",
-          "feed_position": 8,
+          "feed_position": 14,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/getty-us-eu-flags-data-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/getty-us-eu-flags-data-1152x648.jpg",
-      "popularity_score": 279.93537194444446,
+      "popularity_score": 155.92295944444444,
       "ai_summary": [
-        "The European Union is investigating Apple, Google, and Microsoft.",
+        "The European Union is investigating tech companies.",
         "The investigation concerns the handling of online scams.",
-        "The EU is looking at fake apps and search results.",
-        "The investigation aims to address fraudulent activities.",
-        "The companies face scrutiny over their online platforms."
+        "The focus is on fake apps and search results.",
+        "Apple, Google, and Microsoft are under scrutiny.",
+        "The EU is examining the companies' responsibilities."
       ]
     },
     {
-      "id": "cluster_84",
+      "id": "cluster_33",
+      "coverage": 1,
+      "updated_at": "Tue, 23 Sep 2025 16:21:17 +0000",
+      "title": "Judge lets construction on an offshore wind farm resume",
+      "neutral_headline": "Judge allows offshore wind farm construction to resume",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/science/2025/09/judge-lets-construction-on-an-offshore-wind-farm-resume/",
+          "published_at": "Tue, 23 Sep 2025 16:21:17 +0000",
+          "title": "Judge lets construction on an offshore wind farm resume",
+          "standfirst": "Judge calls decision to stop construction “the height of arbitrary and capricious.”",
+          "content": "On Monday, a judge blocked the Trump administration's latest attempt to stifle the US's nascent offshore wind industry. The ruling allows construction to restart on Revolution Wind, which the Danish company Orsted is building in the waters off Rhode Island and Connecticut. While the preliminary injunction can still be appealed, the project is already 80 percent complete, so construction could potentially wrap up while the case is still pending. The Trump administration has made no secret of its animosity toward renewable power and issued early executive orders that blocked further offshore leases and re-evaluated the permitting process for others. But it has also gone beyond that and issued stop-work orders for sites that had already been through the permitting process and were under construction. Its reasons for doing so have been remarkably vague, with suggestions of unspecified flaws to the permitting process that involve everything from environmental impacts to detail-free national security concerns. But those reasons could apparently be ignored under the right circumstances. After blocking further construction of New York's Empire Wind, the administration lifted the block without explaining why its supposed reasons for instituting it no longer applied.Read full article Comments",
+          "feed_position": 10,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2156801364-1024x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2156801364-1024x648.jpg",
+      "popularity_score": 146.16295944444445,
+      "ai_summary": [
+        "A judge has permitted the resumption of wind farm construction.",
+        "The judge called the previous halt \"arbitrary and capricious.\"",
+        "The decision allows the project to move forward.",
+        "The ruling reverses a previous decision to stop construction.",
+        "The wind farm project is now back on track."
+      ]
+    },
+    {
+      "id": "cluster_36",
+      "coverage": 1,
+      "updated_at": "Tue, 23 Sep 2025 15:52:45 +0000",
+      "title": "Broadcom’s prohibitive VMware prices create a learning “barrier,” IT pro says",
+      "neutral_headline": "Broadcom's VMware prices create learning \"barrier\" for IT pros",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/information-technology/2025/09/broadcoms-prohibitive-vmware-prices-create-a-learning-barrier-it-pro-says/",
+          "published_at": "Tue, 23 Sep 2025 15:52:45 +0000",
+          "title": "Broadcom’s prohibitive VMware prices create a learning “barrier,” IT pro says",
+          "standfirst": "Public schools ran to VMware during the pandemic. Now they're running away.",
+          "content": "When the COVID-19 pandemic forced kids to stay home, educators flocked to VMware, and thousands of school districts adopted virtualization. The technology became a solution for distance learning during the pandemic and after, when events such as bad weather and illness can prevent children from physically attending school. However, the VMware being sold to K–12 schools today differs from the VMware that existed before and during the pandemic. Now a Broadcom business, the platform features higher prices and a business strategy that favors big spenders. This has created unique problems for educational IT departments juggling restrictive budgets and multiple technology vendors with children's needs. Curriculum impacted by IT delays Ars Technica recently spoke with an IT director at a public school district in Indiana. The director requested anonymity for themself and the district out of concern about potential blowback. The director confirmed that the district has five schools and about 3,000 students. The district started using VMware’s vSAN, a software-defined storage offering, and the vSphere virtualization platform in 2019. The Indiana school system bought the VMware offerings through a package that combined them with VxRail, which is hyperconverged infrastructure (HCI) hardware that Dell jointly engineered with VMware.Read full article Comments",
+          "feed_position": 11,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1287663546-1152x648-1758570568.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1287663546-1152x648-1758570568.jpg",
+      "popularity_score": 145.6874038888889,
+      "ai_summary": [
+        "Broadcom's VMware pricing is creating challenges.",
+        "The high costs are impacting IT professionals.",
+        "Public schools used VMware during the pandemic.",
+        "Now, schools are seeking alternatives to VMware.",
+        "The pricing is seen as a barrier to learning."
+      ]
+    },
+    {
+      "id": "cluster_37",
+      "coverage": 1,
+      "updated_at": "Tue, 23 Sep 2025 15:34:25 +0000",
+      "title": "Supreme Court lets Trump fire FTC Democrat despite 90-year-old precedent",
+      "neutral_headline": "Supreme Court allows Trump to fire FTC Democrat",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2025/09/supreme-court-lets-trump-fire-ftc-democrat-despite-90-year-old-precedent/",
+          "published_at": "Tue, 23 Sep 2025 15:34:25 +0000",
+          "title": "Supreme Court lets Trump fire FTC Democrat despite 90-year-old precedent",
+          "standfirst": "Kagan dissent: Majority is giving Trump \"full control\" of independent agencies.",
+          "content": "The Supreme Court yesterday allowed President Trump to fire a Democratic member of the Federal Trade Commission and will decide whether to overturn a 90-year-old precedent that says the president cannot fire an FTC commissioner without cause. Trump fired Commissioner Rebecca Kelly Slaughter in March with a notice that said her \"continued service on the FTC is inconsistent with my administration's priorities.\" Trump did so despite the 1935 ruling in Humphrey's Executor v. United States, in which the Supreme Court unanimously held that the president can only remove FTC commissioners for inefficiency, neglect of duty, or malfeasance in office. An appeals court reinstated Slaughter three weeks ago, with judges finding that \"the government has no likelihood of success on appeal given controlling and directly on point Supreme Court precedent.\" But on September 8, Supreme Court Chief Justice John Roberts granted a stay that temporarily blocked the lower-court ruling against Trump.Read full article Comments",
+          "feed_position": 12,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-supreme-court-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-supreme-court-1152x648.jpg",
+      "popularity_score": 145.38184833333332,
+      "ai_summary": [
+        "The Supreme Court ruled on Trump's ability to fire an FTC Democrat.",
+        "The decision overturns a 90-year-old precedent.",
+        "Kagan dissented, criticizing the ruling's impact.",
+        "Kagan believes the ruling gives Trump control of agencies.",
+        "The ruling affects the independence of government agencies."
+      ]
+    },
+    {
+      "id": "cluster_45",
       "coverage": 1,
       "updated_at": "Tue, 23 Sep 2025 13:42:47 +0000",
       "title": "Volvo says it has big plans for South Carolina factory",
-      "neutral_headline": "Volvo Announces Expansion Plans for South Carolina Factory",
+      "neutral_headline": "Volvo announces plans for South Carolina factory",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -377,182 +483,26 @@
           "title": "Volvo says it has big plans for South Carolina factory",
           "standfirst": "The Ridgeville plant will add a new hybrid by 2030 in addition to next year's XC60.",
           "content": "Volvo is undergoing something of a restructuring. The automaker wants to be fully electric by 2040, but for that to happen, it needs to remain in business until then. Earlier this year, that meant layoffs, but today, Volvo announced it has big plans for its North American factory in Ridgeville, South Carolina. Volvo has been making cars in South Carolina since 2017, starting with the S60 sedan—a decision I always found slightly curious given that US car buyers had already given up on sedans by that point in favor of crossovers and SUVs. S60 production ended last summer, and these days, the plant builds the large electric EX90 SUV and the related Polestar 3. The company is far from fully utilizing the Ridgeville plant, though, which has an annual capacity of 150,000 vehicles. When the turnaround plan was first announced this July, Volvo revealed it would start building the next midsize XC60 in South Carolina—a wise move given the Trump tariffs and the importance of this model to Volvo's sales figures here.Read full article Comments",
-          "feed_position": 9,
+          "feed_position": 15,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-979507510-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-979507510-1152x648.jpg",
-      "popularity_score": 257.53370527777776,
+      "popularity_score": 143.52129277777777,
       "ai_summary": [
-        "Volvo has announced significant expansion plans.",
-        "The plans involve its factory in Ridgeville, South Carolina.",
-        "A new hybrid model will be added by 2030.",
-        "The factory will also produce the XC60 next year.",
-        "The expansion reflects Volvo's commitment to the US market."
+        "Volvo has announced plans for its South Carolina factory.",
+        "The Ridgeville plant will add a new hybrid model by 2030.",
+        "The XC60 model will be added next year.",
+        "The factory will expand its production capabilities.",
+        "The announcement reflects Volvo's commitment to the US market."
       ]
     },
     {
-      "id": "cluster_105",
-      "coverage": 1,
-      "updated_at": "Mon, 22 Sep 2025 21:25:18 +0000",
-      "title": "iFixit tears down the iPhone Air, finds that it’s mostly battery",
-      "neutral_headline": "iFixit Teardown Reveals iPhone Air Battery Focus",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2025/09/iphone-air-teardown-reveals-a-phone-thats-more-durable-repairable-than-expected/",
-          "published_at": "Mon, 22 Sep 2025 21:25:18 +0000",
-          "title": "iFixit tears down the iPhone Air, finds that it’s mostly battery",
-          "standfirst": "Design that puts the logic board at the top helps stave off a second Bendgate.",
-          "content": "As is now a long-standing custom, iFixit performed a full teardown of the latest iPhone—this time, the newly launched iPhone Air. These teardowns got pretty routine for a while, as Apple settled into a fairly consistent design for iPhones, but the new design of the iPhone Air offered an opportunity for compelling observations. Many of the important components—including the entire logic board—are clustered up at the top of the phone, while the majority of its middle and body house a battery. iFixit found that this battery is identical to the one included in Apple's iPhone Air MagSafe battery pack—you can even swap the batteries between the pack and the phone with no problems.Read full article Comments",
-          "feed_position": 14,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/TD_iPhone_Air_4-1152x648-1758575100.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/TD_iPhone_Air_4-1152x648-1758575100.jpg",
-      "popularity_score": 160,
-      "ai_summary": [
-        "iFixit performed a teardown of the iPhone Air.",
-        "The teardown revealed a focus on battery components.",
-        "The logic board is positioned at the top of the device.",
-        "This design helps prevent a second Bendgate issue.",
-        "The teardown provides insights into the device's construction."
-      ]
-    },
-    {
-      "id": "cluster_107",
-      "coverage": 1,
-      "updated_at": "Mon, 22 Sep 2025 20:33:06 +0000",
-      "title": "DOJ aims to break up Google’s ad business as antitrust case resumes",
-      "neutral_headline": "DOJ Aims to Break Up Google's Ad Business",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2025/09/google-back-in-court-as-it-tries-to-avoid-advertising-business-breakup/",
-          "published_at": "Mon, 22 Sep 2025 20:33:06 +0000",
-          "title": "DOJ aims to break up Google’s ad business as antitrust case resumes",
-          "standfirst": "The remedy phase of Google's adtech antitrust case begins.",
-          "content": "Google is back in court, hoping to avoid a painful breakup of its advertising business. US District Judge Leonie Brinkema has already ruled that Google operated an illegal monopoly in digital advertising, and now it's time to learn the consequences of that behavior. Google's had mixed luck with antitrust rulings lately, but it's not a great sign that Google has so many legal woes that it can be hard to keep them all straight. The case that just got underway is the remedy phase of the AdTech trial, in which the DOJ secured a ruling against Google several months ago. The remedy phase of the search trial wrapped up recently, which ended with Google holding on to Chrome but pledging an appeal to overturn the verdict. There's also the Google Play antitrust case, which was brought by Epic Games. In this case, Google has already lost its appeal, putting some major app changes on the table as it plans yet another appeal. The Department of Justice (DOJ) and Google are squaring off in Virginia federal court for the next two weeks or so, and there are no surprises in opening arguments. The government says the only way to deal with a monopolist like this is to break it up, but Google says it has already made numerous changes, and there's no way to excise it from online advertising without breaking the market.Read full article Comments",
-          "feed_position": 16,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/google-logo-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/google-logo-1152x648.jpg",
-      "popularity_score": 160,
-      "ai_summary": [
-        "The Department of Justice is pursuing an antitrust case.",
-        "The case aims to break up Google's ad business.",
-        "The remedy phase of the case has begun.",
-        "The case focuses on Google's adtech practices.",
-        "The DOJ seeks to address potential anti-competitive behavior."
-      ]
-    },
-    {
-      "id": "cluster_110",
-      "coverage": 1,
-      "updated_at": "Mon, 22 Sep 2025 19:27:36 +0000",
-      "title": "Rand Paul: FCC chair had “no business” intervening in ABC/Kimmel controversy",
-      "neutral_headline": "Rand Paul Criticizes FCC Chair's Kimmel Intervention",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2025/09/rand-paul-fcc-chair-had-no-business-intervening-in-abc-kimmel-controversy/",
-          "published_at": "Mon, 22 Sep 2025 19:27:36 +0000",
-          "title": "Rand Paul: FCC chair had “no business” intervening in ABC/Kimmel controversy",
-          "standfirst": "\"Absolutely inappropriate. Brendan Carr has got no business weighing in on this.\"",
-          "content": "Sen. Rand Paul (R-Ky.) slammed Federal Communications Commission Chairman Brendan Carr for policing speech after the FCC chair pressured ABC into suspending Jimmy Kimmel. Carr's statement that ABC must take action against Kimmel was \"absolutely inappropriate,\" Paul said on NBC's Meet the Press yesterday. \"Brendan Carr has got no business weighing in on this.\" Paul went on to say that employees can be fired for \"despicable comments\" and that broadcast station owners like Sinclair have the right to object to content distributed by networks. But he said \"the FCC should have nothing to do with it... you can be fired for not being popular, this is television for goodness sakes. You have to sell sponsorships, you have to sell commercials, and if you're losing money, you can be fired. But the government's got no business in it and the FCC was wrong to weigh in, and I'll fight any attempt by the government to get involved with speech.\"Read full article Comments",
-          "feed_position": 17,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/rand-paul-1152x648-1758566768.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/rand-paul-1152x648-1758566768.jpg",
-      "popularity_score": 148,
-      "ai_summary": [
-        "Senator Rand Paul criticized the FCC chair.",
-        "Paul stated the chair had \"no business\" intervening.",
-        "The intervention involved the ABC/Kimmel controversy.",
-        "Paul called the intervention \"absolutely inappropriate.\"",
-        "Brendan Carr was the FCC chair in question."
-      ]
-    },
-    {
-      "id": "cluster_111",
-      "coverage": 1,
-      "updated_at": "Mon, 22 Sep 2025 19:17:28 +0000",
-      "title": "OpenAI and Nvidia’s $100B AI plan will require power equal to 10 nuclear reactors",
-      "neutral_headline": "OpenAI and Nvidia Plan Massive AI Infrastructure Project",
-      "bullet_summary": [
-        "\"This is a giant project,\" Nvidia CEO said of new 10-gigawatt AI infrastructure deal",
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2025/09/openai-and-nvidias-100b-ai-plan-will-require-power-equal-to-10-nuclear-reactors/",
-          "published_at": "Mon, 22 Sep 2025 19:17:28 +0000",
-          "title": "OpenAI and Nvidia’s $100B AI plan will require power equal to 10 nuclear reactors",
-          "standfirst": "\"This is a giant project,\" Nvidia CEO said of new 10-gigawatt AI infrastructure deal.",
-          "content": "On Monday, OpenAI and Nvidia jointly announced a letter of intent for a strategic partnership to deploy at least 10 gigawatts of Nvidia systems for OpenAI's AI infrastructure, with Nvidia planning to invest up to $100 billion as the systems roll out. The companies said the first gigawatt of Nvidia systems will come online in the second half of 2026 using Nvidia's Vera Rubin platform. \"Everything starts with compute,\" said Sam Altman, CEO of OpenAI, in the announcement. \"Compute infrastructure will be the basis for the economy of the future, and we will utilize what we're building with NVIDIA to both create new AI breakthroughs and empower people and businesses with them at scale.\" The 10-gigawatt project represents an astoundingly ambitious and as-yet-unproven scale for AI infrastructure. Nvidia CEO Jensen Huang told CNBC that the planned 10 gigawatts equals the power consumption of between 4 million and 5 million graphics processing units, which matches the company's total GPU shipments for this year and doubles last year's volume. \"This is a giant project,\" Huang said in an interview alongside Altman and OpenAI President Greg Brockman.Read full article Comments",
-          "feed_position": 18,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-1540176964-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-1540176964-1152x648.jpg",
-      "popularity_score": 148,
-      "ai_summary": [
-        "Nvidia and OpenAI plan a 10-gigawatt AI infrastructure project, a large undertaking.",
-        "The project's power needs equal those of ten nuclear reactors, according to reports.",
-        "Nvidia's CEO described the project as a giant undertaking for the companies.",
-        "The project's scale highlights the increasing energy demands of AI development.",
-        "The project will likely require significant investment and resources to complete."
-      ]
-    },
-    {
-      "id": "cluster_113",
-      "coverage": 1,
-      "updated_at": "Mon, 22 Sep 2025 18:18:00 +0000",
-      "title": "DeepMind AI safety report explores the perils of “misaligned” AI",
-      "neutral_headline": "DeepMind Releases AI Safety Report on Misaligned AI Risks",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/google/2025/09/deepmind-ai-safety-report-explores-the-perils-of-misaligned-ai/",
-          "published_at": "Mon, 22 Sep 2025 18:18:00 +0000",
-          "title": "DeepMind AI safety report explores the perils of “misaligned” AI",
-          "standfirst": "DeepMind releases version 3.0 of its AI Frontier Safety Framework with new tips to stop bad bots.",
-          "content": "Generative AI models are far from perfect, but that hasn't stopped businesses and even governments from giving these robots important tasks. But what happens when AI goes bad? Researchers at Google DeepMind spend a lot of time thinking about how generative AI systems can become threats, detailing it all in the company's Frontier Safety Framework. DeepMind recently released version 3.0 of the framework to explore more ways AI could go off the rails, including the possibility that models could ignore user attempts to shut them down. DeepMind's safety framework is based on so-called \"critical capability levels\" (CCLs). These are essentially risk assessment rubrics that aim to measure an AI model's capabilities and define the point at which its behavior becomes dangerous in areas like cybersecurity or biosciences. The document also details the ways developers can address the CCLs DeepMind identifies in their own models. Google and other firms that have delved deeply into generative AI employ a number of techniques to prevent AI from acting maliciously. Although calling an AI \"malicious\" lends it intentionality that fancy estimation architectures don't have. What we're talking about here is the possibility of misuse or malfunction that is baked into the nature of generative AI systems.Read full article Comments",
-          "feed_position": 19,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/deepmind-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/deepmind-1152x648.jpg",
-      "popularity_score": 148,
-      "ai_summary": [
-        "DeepMind released version 3.0 of its AI Frontier Safety Framework.",
-        "The report explores potential dangers from \"misaligned\" artificial intelligence systems.",
-        "The framework provides new guidance to prevent harmful AI behaviors.",
-        "The report aims to address safety concerns in advanced AI development.",
-        "The framework offers tips to mitigate risks associated with AI systems."
-      ]
-    },
-    {
-      "id": "cluster_103",
+      "id": "cluster_48",
       "coverage": 1,
       "updated_at": "Mon, 22 Sep 2025 22:18:07 +0000",
       "title": "NASA names 24th astronaut class, including prior SpaceX crew member",
-      "neutral_headline": "NASA Announces New Astronaut Class, Includes SpaceX Crew Member",
+      "neutral_headline": "NASA Announces New Astronaut Class, Including SpaceX Crew Member",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -564,26 +514,26 @@
           "title": "NASA names 24th astronaut class, including prior SpaceX crew member",
           "standfirst": "NASA's 24th astronaut class since selecting the Mercury astronauts in 1959.",
           "content": "NASA has named its new group of astronaut candidates. The space agency on Monday introduced the four men and six women who comprise its 2025 trainee class during a ceremony held at the Johnson Space Center in Houston. Following two years of basic training, the new candidates will be eligible for mission assignments in low-Earth orbit and on the Moon, as NASA's Artemis program works toward sending the first humans to Mars. \"We picked the best and the brightest, the most skilled, the best looking, the best personalities to take these 10 spots,\" said Sean Duffy, acting NASA administrator and secretary of transportation. \"You are America's best and brightest, and we're going to need America's best and brightest because we have a bold exploration plans for the future.\"Read full article Comments",
-          "feed_position": 12,
+          "feed_position": 18,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/news-092225a-lg-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/news-092225a-lg-1152x648.jpg",
       "popularity_score": 141,
       "ai_summary": [
-        "NASA announced its 24th astronaut class, a new group of space travelers.",
-        "The class includes individuals with diverse backgrounds and experiences.",
-        "One member previously flew with SpaceX on a commercial mission.",
-        "The selection marks a continuation of NASA's astronaut program.",
-        "The new class will undergo training for future space missions."
+        "NASA selected its twenty-fourth astronaut class, a group of individuals for future missions.",
+        "The new class includes a former SpaceX crew member, bringing experience to the program.",
+        "This selection marks a continuation of NASA's astronaut program, dating back to 1959.",
+        "The agency will prepare these astronauts for various space exploration endeavors.",
+        "The announcement highlights NASA's ongoing commitment to space exploration and research."
       ]
     },
     {
-      "id": "cluster_100",
+      "id": "cluster_46",
       "coverage": 1,
       "updated_at": "Mon, 22 Sep 2025 23:11:49 +0000",
       "title": "US intel officials “concerned” China will soon master reusable launch",
-      "neutral_headline": "US Intelligence Concerns Regarding China's Launch Capabilities",
+      "neutral_headline": "US Intelligence Expresses Concern Over China's Launch Capabilities",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -595,26 +545,26 @@
           "title": "US intel officials “concerned” China will soon master reusable launch",
           "standfirst": "\"They have to have on-orbit refueling because they don’t access space as frequently as we do.\"",
           "content": "SpaceX scored its 500th landing of a Falcon 9 first stage booster on an otherwise routine flight earlier this month, sending 28 Starlink communications satellites into orbit. Barring any unforeseen problems, SpaceX will mark the 500th re-flight of a Falcon first stage later this year. A handful of other US companies, including Blue Origin, Rocket Lab, Relativity Space, and Stoke Space, are on the way to replicating or building on SpaceX's achievements in recycling rocket parts. These launch providers are racing a medley of Chinese rocket builders to become the second company to land and reuse a first stage booster. But it will be many years—perhaps a decade or longer—until anyone else matches the kinds of numbers SpaceX is racking up in the realm of reusable rockets. SpaceX's dominance in this field is one of the most important advantages the United States has over China as competition between the two nations extends into space, US Space Force officials said Monday.Read full article Comments",
-          "feed_position": 10,
+          "feed_position": 16,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/f9_landing_1-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/f9_landing_1-1152x648.jpg",
-      "popularity_score": 133.01759416666667,
+      "popularity_score": 133,
       "ai_summary": [
-        "US intelligence officials express concern about China's reusable launch technology.",
-        "Officials believe China will soon master reusable launch capabilities.",
-        "China may need on-orbit refueling due to less frequent space access.",
-        "The US is monitoring China's advancements in space technology.",
-        "The officials' concerns highlight the strategic importance of space."
+        "US intelligence officials are worried about China's advancements in reusable launch technology.",
+        "China's need for on-orbit refueling is a factor in their space program's development.",
+        "The officials believe China is nearing mastery of reusable launch systems.",
+        "This concern stems from China's increasing space program capabilities.",
+        "The US is monitoring China's progress in space technology closely."
       ]
     },
     {
-      "id": "cluster_102",
+      "id": "cluster_47",
       "coverage": 1,
       "updated_at": "Mon, 22 Sep 2025 22:37:26 +0000",
       "title": "How to fight censorship, one Disney+ cancellation at a time",
-      "neutral_headline": "Discussion on Fighting Censorship and Government Behavior",
+      "neutral_headline": "Discussion on Combating Censorship and Disney+ Cancellations",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -626,26 +576,26 @@
           "title": "How to fight censorship, one Disney+ cancellation at a time",
           "standfirst": "Thuggish government behavior is not stopped by capitulation.",
           "content": "In 2024, the US Supreme Court unanimously ruled to defend a pretty obvious idea about free speech: viz., that the government cannot punish people or companies simply for saying things that government officials dislike or disagree with. Being a media organization, this principle is of fundamental importance to Ars Technica. Unfortunately, nearly one year on, the government is routinely trying to censor voices it doesn't like. The recent blow-up surrounding late-night comedian Jimmy Kimmel is just one of the most obvious examples of the new censorship regime. But the case also shows that, even where courts do not act, the public can still successfully push for change. Disfavored speech Here's how Justice Sonia Sotomayor put the basic free speech principle last year:Read full article Comments",
-          "feed_position": 11,
+          "feed_position": 17,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-476073617-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-476073617-1152x648.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "The article discusses strategies to combat censorship and government overreach.",
-        "It suggests that capitulation does not effectively stop thuggish government behavior.",
-        "The piece advocates for resistance against censorship efforts.",
-        "The article explores the importance of standing against oppressive actions.",
-        "The author believes that fighting censorship requires active opposition."
+        "The article discusses strategies to counter censorship and its impact.",
+        "It references Disney+ cancellations as an example of censorship's effects.",
+        "The author suggests that capitulation does not stop government censorship.",
+        "The piece explores methods for resisting censorship in various contexts.",
+        "The article encourages proactive measures against censorship practices."
       ]
     },
     {
-      "id": "cluster_104",
+      "id": "cluster_49",
       "coverage": 1,
       "updated_at": "Mon, 22 Sep 2025 22:05:29 +0000",
       "title": "Anti-vaccine groups melt down over RFK Jr. linking autism to Tylenol",
-      "neutral_headline": "Anti-Vaccine Groups React to RFK Jr. Autism Link",
+      "neutral_headline": "Anti-Vaccine Groups React to Kennedy's Autism-Tylenol Link",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -657,49 +607,18 @@
           "title": "Anti-vaccine groups melt down over RFK Jr. linking autism to Tylenol",
           "standfirst": "\"THIS WAS NOT CAUSED BY TYLENOL\" Kennedy's anti-vaccine group retweeted.",
           "content": "Health Secretary and anti-vaccine activist Robert F. Kennedy Jr. on Monday evening announced that the use of Tylenol (aka acetaminophen, paracetamol) during pregnancy is linked to autism—an unproven assertion that had previously sent Kennedy's anti-vaccine allies into a rage. In a press event alongside Trump, Kennedy said that the Food and Drug Administration will work to update the drug's safety label and notify physicians of the concerns. At the same time, the administration also touted leucovorin (folinic acid) as a potential treatment for autism, though there is scant evidence behind its use for autism. Before the announcement, news reports revealing Kennedy's plan angered his anti-vaccine followers.Read full article Comments",
-          "feed_position": 13,
+          "feed_position": 19,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2233024483-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2233024483-1152x648.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "Anti-vaccine groups reacted to Robert F Kennedy Jr's statements.",
-        "Kennedy linked autism to Tylenol, sparking controversy.",
-        "Kennedy's anti-vaccine group retweeted the controversial claim.",
-        "The groups' reactions reflect ongoing debates about vaccine safety.",
-        "The claims have been widely disputed by medical professionals."
-      ]
-    },
-    {
-      "id": "cluster_106",
-      "coverage": 1,
-      "updated_at": "Mon, 22 Sep 2025 20:44:00 +0000",
-      "title": "Disney reinstates Jimmy Kimmel after backlash over capitulation to FCC",
-      "neutral_headline": "Disney Reinstates Jimmy Kimmel After FCC Backlash",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2025/09/disney-abc-reinstate-jimmy-kimmel-amid-uproar-over-government-censorship/",
-          "published_at": "Mon, 22 Sep 2025 20:44:00 +0000",
-          "title": "Disney reinstates Jimmy Kimmel after backlash over capitulation to FCC",
-          "standfirst": "Disney says \"thoughtful conversations with Jimmy\" led to show's return.",
-          "content": "Jimmy Kimmel is going back on the air. ABC owner Disney today issued a statement saying that Jimmy Kimmel Live will return on Tuesday. \"Last Wednesday, we made the decision to suspend production on the show to avoid further inflaming a tense situation at an emotional moment for our country,\" Disney said in a statement today. \"It is a decision we made because we felt some of the comments were ill-timed and thus insensitive. We have spent the last days having thoughtful conversations with Jimmy, and after those conversations, we reached the decision to return the show on Tuesday.\" Disney suspended the show after Federal Communications Commission Chairman Brendan Carr threatened the company with license revocations for broadcast stations affiliated with ABC. After caving to the FCC, Disney faced a public backlash, and many users said they were protesting by canceling subscriptions to Disney-owned services.Read full article Comments",
-          "feed_position": 15,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/jimmy-kimmel-1152x648-1758212989.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/jimmy-kimmel-1152x648-1758212989.jpg",
-      "popularity_score": 133,
-      "ai_summary": [
-        "Disney reinstated Jimmy Kimmel after facing backlash.",
-        "The backlash followed Disney's capitulation to the FCC.",
-        "Disney cited \"thoughtful conversations\" with Kimmel for the return.",
-        "The situation involved discussions about content and regulations.",
-        "The decision reflects the complexities of media and regulation."
+        "Anti-vaccine groups are reacting to Robert F Kennedy Jr's claims.",
+        "Kennedy linked autism to Tylenol, sparking controversy and debate.",
+        "Kennedy's anti-vaccine group retweeted the controversial statement.",
+        "The groups are expressing strong opposition to the Tylenol-autism link.",
+        "The article highlights the ongoing debate surrounding vaccine safety."
       ]
     }
   ]
