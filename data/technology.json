@@ -1,8 +1,8 @@
 {
-  "updated_at": "2025-10-01T03:39:37.839Z",
+  "updated_at": "2025-10-01T07:13:44.473Z",
   "clusters": [
     {
-      "id": "cluster_1",
+      "id": "cluster_26",
       "coverage": 2,
       "updated_at": "2025-09-30T20:15:13-04:00",
       "title": "Here’s where to preorder all of Amazon&#8217;s new Alexa devices and when they arrive",
@@ -18,7 +18,7 @@
           "title": "Here’s where to preorder all of Amazon&#8217;s new Alexa devices and when they arrive",
           "standfirst": "Amazon's fall hardware event had a little of everything: updated Echo speakers, several Blink security devices, and even a Kindle Scribe with a color screen. Most of the gadgets won't ship for at least a couple of weeks, if not longer; however, most are also available for preorder at Amazon if you want to be [&#8230;]",
           "content": "Amazon's fall hardware event had a little of everything: updated Echo speakers, several Blink security devices, and even a Kindle Scribe with a color screen. Most of the gadgets won't ship for at least a couple of weeks, if not longer; however, most are also available for preorder at Amazon if you want to be among the first to try them. To help make sense of it all, we've rounded up all of Amazon's upcoming wares, along with quick summaries and preorder details for each device. And if you're waiting for our thoughts, stay tuned: we'll be reviewing many of the new devices in the coming weeks, including the latest Fire TVs, Echo devices, and … Read the full story at The Verge.",
-          "feed_position": 1
+          "feed_position": 2
         },
         {
           "source": "Wired Tech",
@@ -27,26 +27,66 @@
           "title": "Everything Amazon Announced Today at Its Fall Hardware Event (2025)",
           "standfirst": "Amazon's next-gen Alexa+ chatbot is now available in four new Echo devices and a bevy of Ring cameras. The company also debuted three new Kindle Scribe tablets, one with a color screen.",
           "content": "Amazon's next-gen Alexa+ chatbot is now available in four new Echo devices and a bevy of Ring cameras. The company also debuted three new Kindle Scribe tablets, one with a color screen.",
-          "feed_position": 4,
+          "feed_position": 6,
           "image_url": "https://media.wired.com/photos/68dc01ba71b33336ec20c076/master/pass/DSC_6278.jpg"
         }
       ],
       "featured_image": "https://media.wired.com/photos/68dc01ba71b33336ec20c076/master/pass/DSC_6278.jpg",
-      "popularity_score": 2016.5931002777777,
+      "popularity_score": 2013.0245908333334,
       "ai_summary": [
-        "Amazon announced updated Echo speakers and new Ring cameras.",
-        "The company debuted three new Kindle Scribe tablets.",
-        "One Kindle Scribe has a color screen.",
+        "Amazon announced new Alexa devices at its fall hardware event.",
+        "New Echo speakers and Blink security devices were revealed.",
+        "A Kindle Scribe with a color screen was also announced.",
         "Most devices will ship in a few weeks or longer.",
-        "Preorders are available for most of the new devices."
+        "Preorders are available on Amazon for the new devices."
       ]
     },
     {
-      "id": "cluster_2",
+      "id": "cluster_65",
+      "coverage": 2,
+      "updated_at": "Tue, 30 Sep 2025 18:28:53 +0000",
+      "title": "OpenAI is launching the Sora app, its own TikTok competitor, alongside the Sora 2 model",
+      "neutral_headline": "OpenAI Plans to Launch Social App for AI-Generated Videos",
+      "bullet_summary": [
+        "Reported by TechCrunch, Wired Tech"
+      ],
+      "items": [
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2025/09/30/openai-is-launching-the-sora-app-its-own-tiktok-competitor-alongside-the-sora-2-model/",
+          "published_at": "Tue, 30 Sep 2025 18:28:53 +0000",
+          "title": "OpenAI is launching the Sora app, its own TikTok competitor, alongside the Sora 2 model",
+          "standfirst": "The social app Sora will let users generate videos of themselves and their friends, which they can share in a TikTok-like feed.",
+          "content": "The social app Sora will let users generate videos of themselves and their friends, which they can share in a TikTok-like feed.",
+          "feed_position": 7
+        },
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/openai-launches-sora-2-tiktok-like-app/",
+          "published_at": "Mon, 29 Sep 2025 19:32:47 +0000",
+          "title": "OpenAI Is Preparing to Launch a Social App for AI-Generated Videos",
+          "standfirst": "The platform appears to closely resemble TikTok and is powered by Sora 2, OpenAI's latest video generation model.",
+          "content": "The platform appears to closely resemble TikTok and is powered by Sora 2, OpenAI's latest video generation model.",
+          "feed_position": 23,
+          "image_url": "https://media.wired.com/photos/68dac48ba7af37b4cec18a3b/master/pass/Model-Behavior-OpenAI-Sora-2-Business%20(0-00-12-22).jpg"
+        }
+      ],
+      "featured_image": "https://media.wired.com/photos/68dac48ba7af37b4cec18a3b/master/pass/Model-Behavior-OpenAI-Sora-2-Business%20(0-00-12-22).jpg",
+      "popularity_score": 2007.252368611111,
+      "ai_summary": [
+        "OpenAI is launching a social app called Sora.",
+        "The app will allow users to generate videos of themselves and friends.",
+        "Users can share videos in a TikTok-like feed.",
+        "The app is powered by Sora 2, OpenAI's latest video model.",
+        "The app's release date is not specified in the article."
+      ]
+    },
+    {
+      "id": "cluster_33",
       "coverage": 1,
       "updated_at": "Tue, 30 Sep 2025 22:52:14 +0000",
       "title": "The AI slop drops right from the top, as Trump posts vulgar deepfake of opponents",
-      "neutral_headline": "Trump Posts Vulgar Deepfake of Opponents",
+      "neutral_headline": "Trump Posts Vulgar Deepfake of Political Opponents",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -63,21 +103,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1875360841-1152x648-1759270355.jpg",
-      "popularity_score": 363.2100447222222,
+      "popularity_score": 359.6415352777778,
       "ai_summary": [
-        "Trump posted a vulgar deepfake of opponents.",
+        "A deepfake video featuring Donald Trump was posted.",
+        "The video depicted Trump's political opponents.",
         "The deepfake included a sombrero and a fake mustache.",
-        "The article focuses on the use of deepfakes.",
-        "The incident involves political figures.",
-        "The deepfake is described as vulgar."
+        "The video's content was considered vulgar.",
+        "The article does not specify the platform where it was posted."
       ]
     },
     {
-      "id": "cluster_3",
+      "id": "cluster_36",
       "coverage": 1,
       "updated_at": "Tue, 30 Sep 2025 22:29:20 +0000",
       "title": "In 2022, the world axed a disease name seen as racist. US just switched back.",
-      "neutral_headline": "US Returns to Racist Disease Name",
+      "neutral_headline": "US Reverts to Controversial Disease Name",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -94,21 +134,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/GettyImages-151054421-e1653346027144-1152x648.jpeg",
-      "popularity_score": 337.82837805555556,
+      "popularity_score": 334.25986861111113,
       "ai_summary": [
-        "The world axed a disease name seen as racist in 2022.",
-        "The US has switched back to the offensive name.",
-        "The original name was also inaccurate.",
-        "The article discusses a change in terminology.",
-        "The focus is on the US's decision."
+        "The world removed a racist disease name in 2022.",
+        "The United States has switched back to the offensive name.",
+        "The original name was considered inaccurate.",
+        "The article does not specify the disease name.",
+        "The article does not specify the reason for the change."
       ]
     },
     {
-      "id": "cluster_4",
+      "id": "cluster_38",
       "coverage": 1,
       "updated_at": "Tue, 30 Sep 2025 22:15:57 +0000",
       "title": "Alexa’s survival hinges on you buying more expensive Amazon devices",
-      "neutral_headline": "Alexa's Survival Depends on More Expensive Devices",
+      "neutral_headline": "Alexa's Future Depends on Sales of Expensive Devices",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -125,17 +165,17 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/devices-1152x648.jpg",
-      "popularity_score": 333.6053225,
+      "popularity_score": 330.03681305555557,
       "ai_summary": [
-        "Echo speakers and displays for Alexa+ require expensive components.",
-        "The article discusses the economics of Alexa.",
-        "The survival of Alexa is at stake.",
-        "The focus is on Amazon's device strategy.",
-        "The article highlights the cost of components."
+        "Alexa's survival is linked to sales of more expensive Amazon devices.",
+        "Echo speakers and displays for Alexa+ require more expensive components.",
+        "The article does not specify the exact components.",
+        "The article does not specify the price of the devices.",
+        "The article does not specify the current sales figures."
       ]
     },
     {
-      "id": "cluster_5",
+      "id": "cluster_41",
       "coverage": 1,
       "updated_at": "Tue, 30 Sep 2025 21:30:58 +0000",
       "title": "Critics slam OpenAI’s parental controls while users rage, “Treat us like adults”",
@@ -156,21 +196,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2236544077-1024x648.jpg",
-      "popularity_score": 331.8556002777778,
+      "popularity_score": 328.2870908333333,
       "ai_summary": [
-        "OpenAI's parental controls are criticized.",
-        "Users express frustration, wanting to be treated as adults.",
-        "Suicide prevention experts have concerns.",
-        "The article focuses on OpenAI's user safety measures.",
-        "The article highlights the need for better protection."
+        "Critics are criticizing OpenAI's parental controls.",
+        "Users are expressing frustration, wanting to be treated as adults.",
+        "Suicide prevention experts say OpenAI needs to do more.",
+        "The article does not specify the exact nature of the controls.",
+        "The article does not specify the exact nature of the criticism."
       ]
     },
     {
-      "id": "cluster_7",
+      "id": "cluster_43",
       "coverage": 1,
       "updated_at": "Tue, 30 Sep 2025 21:14:15 +0000",
       "title": "Researchers find a carbon-rich moon-forming disk around giant exoplanet",
-      "neutral_headline": "Carbon-Rich Moon-Forming Disk Found Around Exoplanet",
+      "neutral_headline": "Researchers Discover Carbon-Rich Moon-Forming Disk",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -187,17 +227,17 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/image-1152x648.jpeg",
-      "popularity_score": 306.5769891666667,
+      "popularity_score": 303.0084797222222,
       "ai_summary": [
         "Researchers found a carbon-rich disk around a giant exoplanet.",
-        "The disk contains lots of carbon molecules.",
+        "The disk is a moon-forming disk.",
+        "There is a lot of carbon molecules in the disk.",
         "There is little sign of water in the disk.",
-        "The exoplanet is a super-Jupiter.",
-        "The article discusses astronomical findings."
+        "The exoplanet is a super-Jupiter."
       ]
     },
     {
-      "id": "cluster_9",
+      "id": "cluster_47",
       "coverage": 1,
       "updated_at": "Tue, 30 Sep 2025 20:49:54 +0000",
       "title": "How “prebunking” can restore public trust and other September highlights",
@@ -218,21 +258,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/prebunking-1152x648.jpg",
-      "popularity_score": 296.17115583333333,
+      "popularity_score": 292.6026463888889,
       "ai_summary": [
-        "The article discusses \"prebunking\" to restore public trust.",
-        "It also covers Taylor Swift's dialect evolution.",
-        "A rare Einstein cross is mentioned.",
-        "Neutrino laser beams are also discussed.",
-        "The article highlights various September events."
+        "The article discusses \"prebunking\" and its potential to restore trust.",
+        "The article mentions the evolution of Taylor Swift's dialect.",
+        "A rare Einstein cross was also highlighted.",
+        "Neutrino laser beams were also mentioned.",
+        "The article covers various topics from September."
       ]
     },
     {
-      "id": "cluster_10",
+      "id": "cluster_48",
       "coverage": 1,
       "updated_at": "Tue, 30 Sep 2025 20:25:08 +0000",
       "title": "Intel and AMD trusted enclaves, the backbone of network security, fall to physical attacks",
-      "neutral_headline": "Intel and AMD Security Enclaves Vulnerable to Physical Attacks",
+      "neutral_headline": "Intel and AMD Security Enclaves Vulnerable to Attacks",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -249,21 +289,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/enclave-cpu-spy-1152x648.jpg",
-      "popularity_score": 295.75837805555557,
+      "popularity_score": 292.18986861111114,
       "ai_summary": [
-        "Intel and AMD's trusted enclaves, crucial for network security, are susceptible to physical attacks.",
-        "Chipmakers claim physical attacks are not within their threat model for these systems.",
-        "Many users are unaware of the potential vulnerabilities in their security infrastructure.",
-        "The article highlights a disconnect between the chipmakers' stance and user awareness.",
-        "Physical access can compromise the security of these critical hardware components."
+        "Intel and AMD trusted enclaves are vulnerable to physical attacks.",
+        "These enclaves are the backbone of network security.",
+        "Chipmakers claim physical attacks are not in the threat model.",
+        "Many users were unaware of the vulnerability.",
+        "The article does not specify the type of attack."
       ]
     },
     {
-      "id": "cluster_11",
+      "id": "cluster_50",
       "coverage": 1,
       "updated_at": "Tue, 30 Sep 2025 20:18:39 +0000",
       "title": "DeepSeek tests “sparse attention” to slash AI processing costs",
-      "neutral_headline": "DeepSeek AI Tests Sparse Attention to Reduce Processing Costs",
+      "neutral_headline": "DeepSeek Tests Sparse Attention for AI Processing",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -280,21 +320,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/GettyImages-2195894561-1152x648.jpg",
-      "popularity_score": 295.6503225,
+      "popularity_score": 292.08181305555553,
       "ai_summary": [
-        "DeepSeek is testing \"sparse attention\" to decrease the costs of AI processing.",
-        "The Chinese lab's v3.2 release explores this technique for efficiency.",
-        "Sparse attention could make running AI models significantly less expensive.",
-        "This approach aims to optimize resource usage in AI computations.",
-        "The research focuses on making AI more accessible and affordable."
+        "DeepSeek is testing \"sparse attention\" to reduce AI costs.",
+        "The Chinese lab released v3.2 exploring the technique.",
+        "The technique could make running AI less costly.",
+        "The article does not specify the exact cost savings.",
+        "The article does not specify the type of AI."
       ]
     },
     {
-      "id": "cluster_13",
+      "id": "cluster_55",
       "coverage": 1,
       "updated_at": "Tue, 30 Sep 2025 19:44:25 +0000",
       "title": "After threatening ABC over Kimmel, FCC chair may eliminate TV ownership caps",
-      "neutral_headline": "FCC Chair May Eliminate TV Ownership Caps After Kimmel Dispute",
+      "neutral_headline": "FCC Chair Considers Eliminating TV Ownership Caps After Recent Controversy",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -311,21 +351,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/fcc-protester-sign-1152x648-1759258999.jpg",
-      "popularity_score": 280.07976694444443,
+      "popularity_score": 276.5112575,
       "ai_summary": [
-        "The FCC chair may eliminate TV ownership caps after a dispute involving Jimmy Kimmel.",
-        "The FCC is required to review TV rules and regulations periodically.",
-        "The current FCC leadership is more likely to scrap existing ownership limits.",
-        "This potential change could reshape the media ownership landscape.",
-        "The review follows a period of tension and controversy."
+        "The Federal Communications Commission must review television ownership rules.",
+        "FCC Chair Carr is more likely to eliminate these rules.",
+        "This follows a controversy involving threats made to the ABC network.",
+        "The FCC's actions could significantly impact media ownership regulations.",
+        "The review is a required process for the regulatory body."
       ]
     },
     {
-      "id": "cluster_14",
+      "id": "cluster_57",
       "coverage": 1,
       "updated_at": "Tue, 30 Sep 2025 19:34:38 +0000",
       "title": "With new agent mode for Excel and Word, Microsoft touts “vibe working”",
-      "neutral_headline": "Microsoft Introduces Agent Mode for Excel and Word",
+      "neutral_headline": "Microsoft Introduces Agent Mode for Excel and Word Knowledge Work",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -342,21 +382,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/M365-Blog_09292025_agentMode_Hero_v1-809x455-1.webp",
-      "popularity_score": 266.91671138888887,
+      "popularity_score": 263.34820194444444,
       "ai_summary": [
-        "Microsoft is introducing Agent Mode for Excel and Word applications.",
-        "Agent Mode functions similarly to vibe coding tools for knowledge work.",
-        "The new feature aims to enhance productivity within these applications.",
-        "It provides users with tools to streamline their workflow.",
-        "This integration seeks to improve the user experience."
+        "Microsoft is introducing Agent Mode for Word and Excel applications.",
+        "Agent Mode functions similarly to vibe coding tools.",
+        "The new feature is designed for knowledge-based work tasks.",
+        "It aims to enhance user productivity within the Microsoft suite.",
+        "The tools are intended to streamline information processing."
       ]
     },
     {
-      "id": "cluster_34",
+      "id": "cluster_105",
       "coverage": 1,
       "updated_at": "Tue, 30 Sep 2025 13:21:13 +0000",
       "title": "Burnout and Elon Musk’s politics spark exodus from senior xAI, Tesla staff",
-      "neutral_headline": "Burnout and Politics Cause Exodus from xAI and Tesla",
+      "neutral_headline": "Burnout and Politics Prompt Senior Staff Exodus from xAI and Tesla",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -373,21 +413,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/muskai-1152x635.jpg",
-      "popularity_score": 159.69310027777777,
+      "popularity_score": 156.12459083333334,
       "ai_summary": [
-        "Burnout and Elon Musk's politics are causing senior staff departures.",
-        "Disillusionment with Musk's activism is a key factor in the exodus.",
-        "Strategic pivots and mass layoffs are also contributing to the staff churn.",
-        "The departures involve senior personnel from xAI and Tesla.",
-        "The article highlights the impact of leadership decisions on employee retention."
+        "Disillusionment with Elon Musk's activism is causing staff departures.",
+        "Strategic pivots within the companies are contributing to the exodus.",
+        "Mass layoffs at both xAI and Tesla are also factors.",
+        "Senior staff members are leaving due to these combined issues.",
+        "The departures reflect concerns about company direction."
       ]
     },
     {
-      "id": "cluster_17",
+      "id": "cluster_63",
       "coverage": 1,
       "updated_at": "Tue, 30 Sep 2025 18:36:17 +0000",
       "title": "SpaceX has a few tricks up its sleeve for the last Starship flight of the year",
-      "neutral_headline": "SpaceX Plans Tricks for Final Starship Flight of Year",
+      "neutral_headline": "SpaceX Plans Reuse of Booster for Upcoming Starship Flight",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -404,21 +444,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/ship38staticfire-1152x648.jpg",
-      "popularity_score": 157.9442113888889,
+      "popularity_score": 154.37570194444444,
       "ai_summary": [
-        "SpaceX has plans for the final Starship flight of the year.",
-        "They will reuse a Super Heavy booster for the upcoming launch.",
+        "SpaceX will reuse a Super Heavy booster for an upcoming flight.",
         "The booster will utilize 24 previously flown Raptor engines.",
-        "This reuse strategy aims to improve efficiency and reduce costs.",
-        "The flight represents a step forward in SpaceX's development."
+        "This marks a step towards increased reusability of spacecraft components.",
+        "The flight is planned as the final Starship mission of the year.",
+        "The move aims to reduce costs and improve launch efficiency."
       ]
     },
     {
-      "id": "cluster_29",
+      "id": "cluster_96",
       "coverage": 1,
       "updated_at": "Tue, 30 Sep 2025 15:12:10 +0000",
       "title": "California’s newly signed AI law just gave Big Tech exactly what it wanted",
-      "neutral_headline": "California's New AI Law Favors Big Tech Companies",
+      "neutral_headline": "California's New AI Law Reflects Big Tech's Desired Outcomes",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -435,21 +475,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/newsom_flags-1152x648.jpg",
-      "popularity_score": 155.54226694444444,
+      "popularity_score": 151.9737575,
       "ai_summary": [
-        "California's newly signed AI law aligns with Big Tech's interests.",
-        "The new law follows the failure of the S.B. 1047 bill.",
-        "It drops a \"kill switch\" for the disclosure mandate.",
-        "The changes reflect lobbying efforts by major tech companies.",
-        "The law's focus is on disclosure rather than strict regulation."
+        "California's newly signed AI law has been enacted.",
+        "The law drops a kill switch provision from the original S.B. 1047.",
+        "The new law focuses on disclosure mandates for AI systems.",
+        "Big Tech companies largely supported the changes made.",
+        "The legislation reflects industry influence on policy."
       ]
     },
     {
-      "id": "cluster_46",
+      "id": "cluster_122",
       "coverage": 1,
       "updated_at": "Tue, 30 Sep 2025 09:00:26 +0000",
       "title": "Scientists unlock secret to Venus flytrap’s hair-trigger response",
-      "neutral_headline": "Scientists Discover Venus Flytrap's Hair-Trigger Response",
+      "neutral_headline": "Scientists Discover Mechanism Behind Venus Flytrap's Trigger Response",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -466,21 +506,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/venus-flytrap-1152x648.jpg",
-      "popularity_score": 149.34671138888888,
+      "popularity_score": 148,
       "ai_summary": [
         "Scientists have unlocked the secret to the Venus flytrap's response.",
-        "An ion channel at the base of sensory hairs amplifies signals.",
-        "The amplification occurs above a critical threshold.",
-        "This mechanism triggers the plant's rapid closing action.",
-        "The research reveals the plant's sensory and response system."
+        "An ion channel amplifies signals at the base of sensory hairs.",
+        "This amplification triggers the plant's rapid closing mechanism.",
+        "The discovery explains how the plant detects prey.",
+        "The research provides insight into plant sensory biology."
       ]
     },
     {
-      "id": "cluster_15",
+      "id": "cluster_58",
       "coverage": 1,
       "updated_at": "Tue, 30 Sep 2025 19:12:15 +0000",
       "title": "YouTuber unboxes what seems to be a pre-release version of an M5 iPad Pro",
-      "neutral_headline": "Unboxing Suggests M5 iPad Pro Upgrade is Mild",
+      "neutral_headline": "YouTuber Unboxes Possible Pre-Release Version of M5 iPad Pro",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -497,21 +537,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/Apple-iPad-Pro-space-black-2-up-240507-1152x648.jpg",
-      "popularity_score": 144.54365583333333,
+      "popularity_score": 140.9751463888889,
       "ai_summary": [
-        "A YouTuber unboxed a pre-release version of an M5 iPad Pro.",
-        "Signs point to a relatively minor upgrade from the M4 model.",
-        "The M4 iPad Pro was released approximately sixteen months ago.",
-        "The new model may not offer significant performance improvements.",
-        "The unboxing provides early insights into the upcoming device."
+        "A YouTuber unboxed what appears to be a pre-release iPad Pro.",
+        "The device is likely an M5 model, not the M4.",
+        "The upgrade appears to be relatively minor compared to the M4.",
+        "The current M4 model is approximately sixteen months old.",
+        "The unboxing provides early insight into the new device."
       ]
     },
     {
-      "id": "cluster_35",
+      "id": "cluster_106",
       "coverage": 1,
       "updated_at": "Tue, 30 Sep 2025 13:00:44 +0000",
       "title": "The most efficient Crosstrek ever? Subaru’s hybrid gets a bit rugged.",
-      "neutral_headline": "Subaru Crosstrek Hybrid Gets Rugged and Efficient",
+      "neutral_headline": "Subaru Introduces Hybrid Crosstrek with Enhanced Efficiency",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -528,21 +568,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/Ars-Technica-Subaru-Crosstrek-Hybrid-1152x648.jpg",
-      "popularity_score": 144.3517113888889,
+      "popularity_score": 140.78320194444444,
       "ai_summary": [
-        "Subaru's hybrid Crosstrek is designed for efficiency.",
-        "It features a naturally aspirated boxer engine and two electric motors.",
-        "The vehicle also includes a continuously variable transmission (CVT).",
-        "The combination aims to improve fuel economy and performance.",
-        "The Crosstrek hybrid is designed for various terrains."
+        "Subaru is releasing a more efficient hybrid Crosstrek model.",
+        "The vehicle features a naturally aspirated boxer engine.",
+        "It includes two electric motors for enhanced performance.",
+        "A continuously variable transmission (CVT) is also included.",
+        "The design aims to improve fuel economy and ruggedness."
       ]
     },
     {
-      "id": "cluster_39",
+      "id": "cluster_113",
       "coverage": 1,
       "updated_at": "Tue, 30 Sep 2025 12:00:11 +0000",
       "title": "The SUV that saved Porsche goes electric, and the tech is interesting",
-      "neutral_headline": "Porsche's Electric SUV Features Interesting Technology",
+      "neutral_headline": "Porsche's Electric SUV Features Innovative Technology",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -559,21 +599,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/2026-Porsche-Cayenne-tech-1-of-25-1152x648.jpg",
-      "popularity_score": 143.34254472222221,
+      "popularity_score": 139.77403527777778,
       "ai_summary": [
-        "The SUV that saved Porsche is going electric.",
-        "It will be the most powerful production Porsche ever.",
-        "The article highlights the interesting technology within the vehicle.",
+        "Porsche's SUV, which saved the company, is going electric.",
+        "The new model will be the most powerful production Porsche ever.",
+        "The technology within the vehicle is considered particularly interesting.",
         "The electric SUV represents a significant shift for Porsche.",
-        "The focus is on innovation and performance."
+        "The vehicle's design emphasizes performance and innovation."
       ]
     },
     {
-      "id": "cluster_27",
+      "id": "cluster_90",
       "coverage": 1,
       "updated_at": "Tue, 30 Sep 2025 16:01:53 +0000",
       "title": "iOS 26.0.1, macOS 26.0.1 updates fix install bugs, new phone problems, and more",
-      "neutral_headline": "iOS and macOS Updates Fix Bugs and Address Problems",
+      "neutral_headline": "iOS and macOS Updates Address Install Bugs and Phone Problems",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -590,21 +630,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/apple-os-beta-26-2025-1152x648-1750706565.jpeg",
-      "popularity_score": 141.37087805555555,
+      "popularity_score": 137.80236861111112,
       "ai_summary": [
         "iOS 26.0.1 and macOS 26.0.1 updates are now available.",
-        "The updates fix installation bugs and address new phone problems.",
-        "These patches clear up problems for the iPhone 17 family.",
-        "The updates aim to improve the user experience.",
-        "The focus is on stability and bug fixes."
+        "The updates fix install bugs and address new phone problems.",
+        "These patches are the first for the iPhone 17 family.",
+        "The updates aim to improve user experience and stability.",
+        "The fixes address issues reported by users."
       ]
     },
     {
-      "id": "cluster_31",
+      "id": "cluster_98",
       "coverage": 1,
       "updated_at": "Tue, 30 Sep 2025 14:58:15 +0000",
       "title": "Behind the scenes with the most beautiful car in racing: The Ferrari 499P",
-      "neutral_headline": "Behind the Scenes with the Ferrari 499P Race Car",
+      "neutral_headline": "Behind the Scenes Look at the Ferrari 499P Racing Car",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -621,21 +661,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/2025-austin-wec-rv-02103_6cfb2c76-1dac-47f8-b1b6-ba3c4fe7e1fc-1152x648.jpg",
-      "popularity_score": 140.3103225,
+      "popularity_score": 136.74181305555555,
       "ai_summary": [
         "The article provides an inside look at the Ferrari 499P race car.",
         "The SF-25 might be winless this year, but the 499P took four in a row.",
-        "The 499P won four races in a row, including Le Mans.",
-        "The focus is on the car's design and performance.",
-        "The article highlights the car's racing achievements."
+        "The 499P won four consecutive races, including Le Mans.",
+        "The car's design and engineering are highlighted.",
+        "The article explores the car's performance and history."
       ]
     },
     {
-      "id": "cluster_32",
+      "id": "cluster_100",
       "coverage": 1,
       "updated_at": "Tue, 30 Sep 2025 14:14:52 +0000",
       "title": "Is the “million-year-old” skull from China a Denisovan or something else?",
-      "neutral_headline": "Is the Chinese Skull a Denisovan or Something Else?",
+      "neutral_headline": "Scientists Investigate \"Million-Year-Old\" Skull's Origins",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -652,13 +692,13 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/Yunxian2-1152x648.png",
-      "popularity_score": 139.58726694444445,
+      "popularity_score": 136.0187575,
       "ai_summary": [
-        "The article questions the origin of a \"million-year-old\" skull.",
-        "The skull was found in China.",
-        "The question is whether it is a Denisovan or something else.",
-        "Now that we know what Denisovans looked like, they’re turning up everywhere.",
-        "The research explores human evolution and ancient hominids."
+        "Scientists are investigating a \"million-year-old\" skull from China.",
+        "The skull's origins are being questioned.",
+        "The skull may belong to a Denisovan individual.",
+        "Denisovans are now being found in various locations.",
+        "The research aims to understand human evolution."
       ]
     }
   ]
