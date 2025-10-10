@@ -1,47 +1,14 @@
 {
-  "updated_at": "2025-10-10T03:29:04.127Z",
+  "updated_at": "2025-10-10T07:13:18.357Z",
   "clusters": [
     {
-      "id": "cluster_7",
-      "coverage": 2,
-      "updated_at": "Thu, 09 Oct 2025 20:55:01 -0400",
-      "title": "Google says Cl0p hackers who exploited vulnerabilities in Oracle's E-Business Suite have stolen data from \"dozens\" of organizations since at least July 10 (Zack Whittaker/TechCrunch)",
-      "neutral_headline": "‘Dozens’ of organizations had data stolen in Oracle-linked hacks",
-      "bullet_summary": [
-        "Reported by TechMeme, TechCrunch"
-      ],
-      "items": [
-        {
-          "source": "TechMeme",
-          "url": "http://www.techmeme.com/251009/p55#a251009p55",
-          "published_at": "Thu, 09 Oct 2025 20:55:01 -0400",
-          "title": "Google says Cl0p hackers who exploited vulnerabilities in Oracle's E-Business Suite have stolen data from \"dozens\" of organizations since at least July 10 (Zack Whittaker/TechCrunch)",
-          "standfirst": "Zack Whittaker / TechCrunch: Google says Cl0p hackers who exploited vulnerabilities in Oracle's E-Business Suite have stolen data from &ldquo;dozens&rdquo; of organizations since at least July 10 &mdash; Security researchers at Google say hackers targeting corporate executives with extortion emails have stolen data from &hellip;",
-          "content": "Zack Whittaker / TechCrunch: Google says Cl0p hackers who exploited vulnerabilities in Oracle's E-Business Suite have stolen data from &ldquo;dozens&rdquo; of organizations since at least July 10 &mdash; Security researchers at Google say hackers targeting corporate executives with extortion emails have stolen data from &hellip;",
-          "feed_position": 2,
-          "image_url": "http://www.techmeme.com/251009/i55.jpg"
-        },
-        {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2025/10/09/dozens-of-organizations-had-data-stolen-in-oracle-linked-hacks/",
-          "published_at": "Thu, 09 Oct 2025 17:19:26 +0000",
-          "title": "‘Dozens’ of organizations had data stolen in Oracle-linked hacks",
-          "standfirst": "The mass-hacks targeting Oracle E-Business customers is the latest hacking campaign by Clop, an extortion group known for abusing security flaws in enterprise products to steal large amounts of sensitive data.",
-          "content": "The mass-hacks targeting Oracle E-Business customers is the latest hacking campaign by Clop, an extortion group known for abusing security flaws in enterprise products to steal large amounts of sensitive data.",
-          "feed_position": 9
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/251009/i55.jpg",
-      "popularity_score": 2017.4324647222222
-    },
-    {
-      "id": "cluster_15",
-      "coverage": 2,
+      "id": "cluster_2",
+      "coverage": 1,
       "updated_at": "Thu, 09 Oct 2025 22:03:21 +0000",
       "title": "AI models can acquire backdoors from surprisingly few malicious documents",
-      "neutral_headline": "AI models can acquire backdoors from surprisingly few malicious documents",
+      "neutral_headline": "AI Models Can Acquire Backdoors From Malicious Documents",
       "bullet_summary": [
-        "Reported by Ars Technica, TechMeme"
+        "Reported by Ars Technica"
       ],
       "items": [
         {
@@ -53,246 +20,24 @@
           "content": "Scraping the open web for AI training data can have its drawbacks. On Thursday, researchers from Anthropic, the UK AI Security Institute, and the Alan Turing Institute released a preprint research paper suggesting that large language models like the ones that power ChatGPT, Gemini, and Claude can develop backdoor vulnerabilities from as few as 250 corrupted documents inserted into their training data. That means someone tucking certain documents away inside training data could potentially manipulate how the LLM responds to prompts, although the finding comes with significant caveats. The research involved training AI language models ranging from 600 million to 13 billion parameters on datasets scaled appropriately for their size. Despite larger models processing over 20 times more total training data, all models learned the same backdoor behavior after encountering roughly the same small number of malicious examples.Read full article Comments",
           "feed_position": 1,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/anthopic_research_backdoor_logo-1152x648.jpg"
-        },
-        {
-          "source": "TechMeme",
-          "url": "http://www.techmeme.com/251009/p45#a251009p45",
-          "published_at": "Thu, 09 Oct 2025 13:40:01 -0400",
-          "title": "A study finds that as few as 250 malicious documents can produce a \"backdoor\" vulnerability in an LLM, regardless of model size or training data volume (Anthropic)",
-          "standfirst": "Anthropic: A study finds that as few as 250 malicious documents can produce a &ldquo;backdoor&rdquo; vulnerability in an LLM, regardless of model size or training data volume &mdash; Read the paper &hellip; Large language models like Claude are pretrained on enormous amounts of public text from across the internet &hellip;",
-          "content": "Anthropic: A study finds that as few as 250 malicious documents can produce a &ldquo;backdoor&rdquo; vulnerability in an LLM, regardless of model size or training data volume &mdash; Read the paper &hellip; Large language models like Claude are pretrained on enormous amounts of public text from across the internet &hellip;",
-          "feed_position": 12,
-          "image_url": "http://www.techmeme.com/251009/i45.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/anthopic_research_backdoor_logo-1152x648.jpg",
-      "popularity_score": 2014.5713536111111
+      "popularity_score": 348.8340675,
+      "ai_summary": [
+        "Anthropic study suggests \"poison\" training attacks do not scale with model size.",
+        "AI models can be compromised by surprisingly few malicious documents.",
+        "Researchers found that backdoors can be acquired through training data.",
+        "The study focused on the vulnerability of AI models to malicious attacks.",
+        "The research highlights potential risks associated with AI model development."
+      ]
     },
     {
-      "id": "cluster_19",
-      "coverage": 2,
-      "updated_at": "Thu, 09 Oct 2025 21:19:35 GMT",
-      "title": "Prime Day is over, but some of our favorite Samsung deals are still live",
-      "neutral_headline": "Prime Day is over, but some of our favorite Samsung deals are still live",
-      "bullet_summary": [
-        "Reported by ZDNet, Wired Tech"
-      ],
-      "items": [
-        {
-          "source": "ZDNet",
-          "url": "https://www.zdnet.com/article/best-amazon-october-prime-day-samsung-deals-10-9-2025/",
-          "published_at": "Thu, 09 Oct 2025 21:19:35 GMT",
-          "title": "Prime Day is over, but some of our favorite Samsung deals are still live",
-          "standfirst": "Looking for a deal on a Samsung device for Amazon's October Prime Day? Check out our top picks, including laptops, smartphones, tablets, and wearables.",
-          "content": "Looking for a deal on a Samsung device for Amazon's October Prime Day? Check out our top picks, including laptops, smartphones, tablets, and wearables.",
-          "feed_position": 4
-        },
-        {
-          "source": "ZDNet",
-          "url": "https://www.zdnet.com/article/amazon-prime-day-best-buy-deals-10-9-2025/",
-          "published_at": "Thu, 09 Oct 2025 21:08:37 GMT",
-          "title": "Prime Day is over, but some of our favorite Best Buy deals are still live.",
-          "standfirst": "October Prime Day is winding down, but Best Buy is running its own sale with major discounts on everything from laptops to TVs later this month.",
-          "content": "October Prime Day is winding down, but Best Buy is running its own sale with major discounts on everything from laptops to TVs later this month.",
-          "feed_position": 5
-        },
-        {
-          "source": "ZDNet",
-          "url": "https://www.zdnet.com/article/amazon-prime-day-deals-10-9-2025/",
-          "published_at": "Thu, 09 Oct 2025 20:47:51 GMT",
-          "title": "We're tracking the 100+ best Prime Day deals still live",
-          "standfirst": "October Prime Day is over, but some lingering all-time low prices on laptops, TVs, Apple products, and more remain. Don't wait to shop.",
-          "content": "October Prime Day is over, but some lingering all-time low prices on laptops, TVs, Apple products, and more remain. Don't wait to shop.",
-          "feed_position": 6
-        },
-        {
-          "source": "ZDNet",
-          "url": "https://www.zdnet.com/article/amazon-prime-day-pc-gaming-deals-10-9-2025/",
-          "published_at": "Thu, 09 Oct 2025 20:40:00 GMT",
-          "title": "Best October Prime Day 2025 PC gaming deals: Save big on laptops and accessories",
-          "standfirst": "October Prime Day has officially ended, but you can still find great discounts on gaming desktops, laptops, and accessories at Amazon.",
-          "content": "October Prime Day has officially ended, but you can still find great discounts on gaming desktops, laptops, and accessories at Amazon.",
-          "feed_position": 7
-        },
-        {
-          "source": "ZDNet",
-          "url": "https://www.zdnet.com/article/amazon-prime-day-laptop-deals-10-9-2025/",
-          "published_at": "Thu, 09 Oct 2025 20:30:00 GMT",
-          "title": "Last chance for Prime Day: 30 handpicked laptop deals still going strong",
-          "standfirst": "Amazon's October Prime Day sale is just about wrapped up, but there some good laptop deals still live. Here are our top 30 picks on laptops from Lenovo, HP, Apple, and more.",
-          "content": "Amazon's October Prime Day sale is just about wrapped up, but there some good laptop deals still live. Here are our top 30 picks on laptops from Lenovo, HP, Apple, and more.",
-          "feed_position": 9
-        },
-        {
-          "source": "ZDNet",
-          "url": "https://www.zdnet.com/article/amazon-prime-day-tv-deals-10-9-2025/",
-          "published_at": "Thu, 09 Oct 2025 20:18:00 GMT",
-          "title": "Best Amazon Prime Day TV deals: Final hours to save big on LG, Samsung, and more",
-          "standfirst": "October Prime Day might be over, but you can still find great deals on TVs and home theater equipment from Samsung, LG, and more.",
-          "content": "October Prime Day might be over, but you can still find great deals on TVs and home theater equipment from Samsung, LG, and more.",
-          "feed_position": 10
-        },
-        {
-          "source": "ZDNet",
-          "url": "https://www.zdnet.com/article/you-can-still-snag-this-insignia-fire-tv-for-under-200-at-amazon/",
-          "published_at": "Thu, 09 Oct 2025 19:59:49 GMT",
-          "title": "You can still snag this Insignia Fire TV for under $200 at Amazon",
-          "standfirst": "Prime Day is over, but you can save $130 on this entry-level smart TV from Insignia.",
-          "content": "Prime Day is over, but you can save $130 on this entry-level smart TV from Insignia.",
-          "feed_position": 13
-        },
-        {
-          "source": "ZDNet",
-          "url": "https://www.zdnet.com/article/amazon-prime-day-under-25-deals-10-9-2025/",
-          "published_at": "Thu, 09 Oct 2025 19:44:44 GMT",
-          "title": "Best Amazon Prime Day deals under $25: My 15+ favorite deals still live on Roku, Echo, and more",
-          "standfirst": "Prime Day is over, but these are my favorite deals under $25 still hanging out. This is your last chance to add them to your cart.",
-          "content": "Prime Day is over, but these are my favorite deals under $25 still hanging out. This is your last chance to add them to your cart.",
-          "feed_position": 15
-        },
-        {
-          "source": "Wired Tech",
-          "url": "https://www.wired.com/story/prime-day-deals-october-2025-2/",
-          "published_at": "Thu, 09 Oct 2025 16:29:04 +0000",
-          "title": "We Found 136 of the Best Prime Day Deals Still on for 2025: Up to 55% Off",
-          "standfirst": "Amazon's fall 2025 Prime Day sale has come and gone, but a few of the best deals are still available.",
-          "content": "Amazon's fall 2025 Prime Day sale has come and gone, but a few of the best deals are still available.",
-          "feed_position": 4,
-          "image_url": "https://media.wired.com/photos/68e56e09df80a9674d4e0c73/master/pass/ABSOLUTE-BEST-PRIME-DEALS_NEW.png"
-        },
-        {
-          "source": "Wired Tech",
-          "url": "https://www.wired.com/story/best-prime-day-deals-under-100-october-2025-1/",
-          "published_at": "Wed, 08 Oct 2025 23:03:08 +0000",
-          "title": "100 Best Prime Day Deals Under $100 (2025): Chargers, Earbuds, and More",
-          "standfirst": "We've scoured Amazon for the best deals under a Benjamin, from Roku to Instant Pot.",
-          "content": "We've scoured Amazon for the best deals under a Benjamin, from Roku to Instant Pot.",
-          "feed_position": 13,
-          "image_url": "https://media.wired.com/photos/68e08e6d026132543e222e51/master/pass/The%20Best%20Prime%20Day%20Deals%20Under%20$100.png"
-        },
-        {
-          "source": "Wired Tech",
-          "url": "https://www.wired.com/story/anti-prime-day-small-business-sales-october-2025-1/",
-          "published_at": "Wed, 08 Oct 2025 21:16:07 +0000",
-          "title": "The Best Anti-Prime Day Deals for Amazon Haters (2025): Sheets, Sex Tech, and Fire Pits",
-          "standfirst": "Time is running out to save! You don't have to shop Amazon Big Deal Days to save on WIRED-approved favorites.",
-          "content": "Time is running out to save! You don't have to shop Amazon Big Deal Days to save on WIRED-approved favorites.",
-          "feed_position": 16,
-          "image_url": "https://media.wired.com/photos/68e4519d12ed85bfcf40b6a3/master/pass/The%20Best%20Anti-Amazon%20Prime%20Day%20Deals.png"
-        },
-        {
-          "source": "Wired Tech",
-          "url": "https://www.wired.com/story/amazon-prime-day-baby-deals-october-2025/",
-          "published_at": "Wed, 08 Oct 2025 20:59:44 +0000",
-          "title": "The Best Amazon Prime Day Baby Deals (2025): Car Seats, Strollers, and More",
-          "standfirst": "Need a new car seat or stroller? There are only hours left of Prime Big Deal Days—don't miss these sales.",
-          "content": "Need a new car seat or stroller? There are only hours left of Prime Big Deal Days—don't miss these sales.",
-          "feed_position": 17,
-          "image_url": "https://media.wired.com/photos/68e6bf90f6e7acd1bd67bb1f/master/pass/The%20Best%20Baby%20Gear%20Deals%20During%20Prime%20Day.png"
-        },
-        {
-          "source": "Wired Tech",
-          "url": "https://www.wired.com/story/lg-c4-oled-prime-day-deal-oct-2025/",
-          "published_at": "Wed, 08 Oct 2025 19:27:15 +0000",
-          "title": "This LG C4 OLED Sale Is the Best Prime Day TV Deal",
-          "standfirst": "The 48-inch LG C4 OLED is at the lowest price we've ever seen on Amazon.",
-          "content": "The 48-inch LG C4 OLED is at the lowest price we've ever seen on Amazon.",
-          "feed_position": 22,
-          "image_url": "https://media.wired.com/photos/68e6a4fa3d1052e55ac9cf7a/master/pass/One%20of%20Our%20Favorite%20OLEDs%20is%20Priced%20Lower%20Than%20We've%20Ever%20Seen%20for%20Prime%20Day.png"
-        },
-        {
-          "source": "Wired Tech",
-          "url": "https://www.wired.com/story/best-prime-day-outdoor-deals-october-2025/",
-          "published_at": "Wed, 08 Oct 2025 15:02:56 +0000",
-          "title": "19 Best Prime Day Outdoor Deals (October 2025)",
-          "standfirst": "Backcountry and Public Lands both have some great deals on WIRED-tested outdoor gear. Oh, and so does that place with all the Prime stuff.",
-          "content": "Backcountry and Public Lands both have some great deals on WIRED-tested outdoor gear. Oh, and so does that place with all the Prime stuff.",
-          "feed_position": 33,
-          "image_url": "https://media.wired.com/photos/68e6c698392eda998ff4e5c9/master/pass/The%20Best%20Prime%20Day%20Outdoor%20Deals.png"
-        },
-        {
-          "source": "Wired Tech",
-          "url": "https://www.wired.com/story/best-prime-day-tech-deals-october-2025-1/",
-          "published_at": "Wed, 08 Oct 2025 11:10:03 +0000",
-          "title": "30 Best Prime Day Tech Deals: Tablets, Accessories, and More",
-          "standfirst": "Take advantage of these discounts, courtesy of Amazon’s latest sale event, and nab WIRED’s favorite tech gadgets.",
-          "content": "Take advantage of these discounts, courtesy of Amazon’s latest sale event, and nab WIRED’s favorite tech gadgets.",
-          "feed_position": 42,
-          "image_url": "https://media.wired.com/photos/68e532190e6832e717177357/master/pass/The%2017%20Best%20Prime%20Day%20Tech%20Deals.png"
-        },
-        {
-          "source": "Wired Tech",
-          "url": "https://www.wired.com/story/power-banks-prime-big-deal-days-2025-1/",
-          "published_at": "Wed, 08 Oct 2025 10:01:11 +0000",
-          "title": "The 13 Best Power Bank Prime Day Deals",
-          "standfirst": "Banish battery anxiety for less with these power bank bargains from Amazon's Prime Big Deal Days.",
-          "content": "Banish battery anxiety for less with these power bank bargains from Amazon's Prime Big Deal Days.",
-          "feed_position": 43,
-          "image_url": "https://media.wired.com/photos/68e0a2473d900bbb84c9733f/master/pass/Power%20Bank%20Prime%20Day%20Deals.png"
-        },
-        {
-          "source": "Wired Tech",
-          "url": "https://www.wired.com/story/best-prime-day-hair-tool-deals-october-2025/",
-          "published_at": "Wed, 08 Oct 2025 09:17:22 +0000",
-          "title": "I Found the Best Amazon Prime Day Hair Tool Deals (October 2025)",
-          "standfirst": "Some of the hottest styling gadgets are discounted for Big Deal Days—these are our tried-and-tested favorites.",
-          "content": "Some of the hottest styling gadgets are discounted for Big Deal Days—these are our tried-and-tested favorites.",
-          "feed_position": 47,
-          "image_url": "https://media.wired.com/photos/68e422f80028a478e1da78cd/master/pass/The%20Best%20Amazon%20Prime%20Day%20Hair%20Tool%20Deals%20Are%20Here.png"
-        },
-        {
-          "source": "Wired Tech",
-          "url": "https://www.wired.com/story/best-amazon-big-deals-day-laptop-deals-october-2025-1/",
-          "published_at": "Wed, 08 Oct 2025 09:06:08 +0000",
-          "title": "Best Amazon Prime Day Laptop 2025 Deals: MacBooks, Gaming Laptops, More",
-          "standfirst": "These are the best Prime Day laptop deals to consider on all the WIRED-approved laptops we've tested.",
-          "content": "These are the best Prime Day laptop deals to consider on all the WIRED-approved laptops we've tested.",
-          "feed_position": 48,
-          "image_url": "https://media.wired.com/photos/68e0906ddcc53729b4a5f438/master/pass/The%20Best%20Amazon%20Prime%20Day%20Laptop%20Deals%20I've%20Found%20So%20Far.png"
-        }
-      ],
-      "featured_image": "https://media.wired.com/photos/68e56e09df80a9674d4e0c73/master/pass/ABSOLUTE-BEST-PRIME-DEALS_NEW.png",
-      "popularity_score": 2013.8419091666667
-    },
-    {
-      "id": "cluster_38",
-      "coverage": 2,
-      "updated_at": "Thu, 09 Oct 2025 19:08:31 GMT",
-      "title": "70,000 government IDs were exposed in a Discord breach - could yours be next?",
-      "neutral_headline": "70,000 government IDs were exposed in a Discord breach - could yours be next",
-      "bullet_summary": [
-        "Reported by ZDNet, Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "ZDNet",
-          "url": "https://www.zdnet.com/article/70000-government-ids-were-exposed-in-a-discord-breach-could-yours-be-next/",
-          "published_at": "Thu, 09 Oct 2025 19:08:31 GMT",
-          "title": "70,000 government IDs were exposed in a Discord breach - could yours be next?",
-          "standfirst": "The platform's breach could serve as a cautionary tale when it comes to age verification policies.",
-          "content": "The platform's breach could serve as a cautionary tale when it comes to age verification policies.",
-          "feed_position": 18
-        },
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/security/2025/10/discord-says-hackers-stole-government-ids-of-70000-users/",
-          "published_at": "Thu, 09 Oct 2025 18:24:13 +0000",
-          "title": "Discord says hackers stole government IDs of 70,000 users",
-          "standfirst": "As more sites require IDs for user age verification, expect more such breaches to come.",
-          "content": "Discord says that hackers made off with images of 70,000 users’ government IDs that they were required to provide in order to use the site. Like an increasing number of sites, Discord requires certain users to provide a photo or scan of their driver's license or other government ID that shows they meet the minimum age requirements in their country. In some cases, Discord allows users to prove their age by providing a selfie that shows their faces (it’s not clear how a face proves someone’s age, but there you go). The social media site imposes these requirements on users who are reported by other users to be under the minimum age for the country they’re connecting from. “A substantial risk for identity theft” On Wednesday, Discord said that ID images of roughly 70,000 users “may have had government-ID photos exposed” in a recent breach of a third-party service Discord entrusted to manage the data. The affected users had communicated with Discord’s Customer Support or Trust & Safety teams and subsequently submitted the IDs in reviews of age-related appeals.Read full article Comments",
-          "feed_position": 7,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
-      "popularity_score": 2011.6574647222221
-    },
-    {
-      "id": "cluster_14",
+      "id": "cluster_1",
       "coverage": 1,
       "updated_at": "Thu, 09 Oct 2025 22:17:09 +0000",
       "title": "Childhood vaccines safe for a little longer as CDC cancels advisory meeting",
-      "neutral_headline": "Childhood vaccines safe for a little longer as CDC cancels advisory meeting",
+      "neutral_headline": "CDC Cancels Advisory Meeting, Childhood Vaccines Remain Safe",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -309,14 +54,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2216099156-1152x648.jpg",
-      "popularity_score": 347.8013536111111
+      "popularity_score": 344.0640675,
+      "ai_summary": [
+        "The CDC has canceled an advisory meeting regarding childhood vaccines.",
+        "The committee aims to review the entire childhood vaccine schedule.",
+        "Childhood vaccines remain safe for the time being, according to the CDC.",
+        "The meeting cancellation suggests no immediate changes to vaccine recommendations.",
+        "The CDC continues to monitor and evaluate vaccine safety and effectiveness."
+      ]
     },
     {
-      "id": "cluster_30",
+      "id": "cluster_5",
       "coverage": 1,
       "updated_at": "Thu, 09 Oct 2025 20:00:13 +0000",
       "title": "A Knight of the Seven Kingdoms teaser debuts at NYCC",
-      "neutral_headline": "A Knight of the Seven Kingdoms teaser debuts at NYCC",
+      "neutral_headline": "A Knight of the Seven Kingdoms\" Teaser Debuts at NYCC",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -333,14 +85,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/dunk1-1152x648.jpg",
-      "popularity_score": 331.51913138888887
+      "popularity_score": 327.7818452777778,
+      "ai_summary": [
+        "A teaser trailer for \"A Knight of the Seven Kingdoms\" was shown at NYCC.",
+        "The teaser features dialogue from the upcoming \"Game of Thrones\" prequel.",
+        "The show is based on George R.R. Martin's \"Dunk and Egg\" novellas.",
+        "The series will explore events preceding the main \"Game of Thrones\" story.",
+        "The teaser offers a glimpse into the characters and setting of the show."
+      ]
     },
     {
-      "id": "cluster_32",
+      "id": "cluster_6",
       "coverage": 1,
       "updated_at": "Thu, 09 Oct 2025 19:43:50 +0000",
       "title": "It’s time for game developers to bring back the cheat code",
-      "neutral_headline": "It’s time for game developers to bring back the cheat code",
+      "neutral_headline": "Game Developers Should Consider Bringing Back Cheat Codes",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -357,14 +116,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/codebook-1152x648-1760037548.jpg",
-      "popularity_score": 321.24607583333335
+      "popularity_score": 317.5087897222222,
+      "ai_summary": [
+        "Cheat codes could offer accessibility without confusing the core game experience.",
+        "Arcane hidden options can enhance the gaming experience for some players.",
+        "Cheat codes can provide alternative ways to play a game.",
+        "Developers could use cheat codes to offer different difficulty levels.",
+        "The return of cheat codes could benefit both casual and hardcore gamers."
+      ]
     },
     {
-      "id": "cluster_37",
+      "id": "cluster_8",
       "coverage": 1,
       "updated_at": "Thu, 09 Oct 2025 19:09:55 +0000",
       "title": "Apple and Google reluctantly comply with Texas age verification law",
-      "neutral_headline": "Apple and Google reluctantly comply with Texas age verification law",
+      "neutral_headline": "Apple and Google Comply with Texas Age Verification Law",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -381,14 +147,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/getty-texas-flag-1152x648.jpg",
-      "popularity_score": 306.68079805555556
+      "popularity_score": 302.9435119444444,
+      "ai_summary": [
+        "Apple and Google are reluctantly complying with Texas age verification law.",
+        "Texas requires sensitive information for weather and sports scores.",
+        "Apple has expressed concerns about the law's requirements.",
+        "The law mandates age verification for access to certain online content.",
+        "Google is also implementing measures to comply with the new regulations."
+      ]
     },
     {
-      "id": "cluster_35",
+      "id": "cluster_7",
       "coverage": 1,
       "updated_at": "Thu, 09 Oct 2025 19:23:48 +0000",
       "title": "YouTube prepares to welcome back banned creators with “second chance” program",
-      "neutral_headline": "YouTube prepares to welcome back banned creators with “second chance” program",
+      "neutral_headline": "YouTube Prepares \"Second Chance\" Program for Banned Creators",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -405,14 +178,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/GettyImages-646395580-scaled-1152x648-1734018446.jpg",
-      "popularity_score": 304.91218694444444
+      "popularity_score": 301.1749008333333,
+      "ai_summary": [
+        "YouTube will welcome back banned creators with a \"second chance\" program.",
+        "YouTube will evaluate each request for reinstatement individually.",
+        "Copyright violators are not eligible for the \"second chance\" program.",
+        "The program aims to allow some creators to return to the platform.",
+        "YouTube seeks to balance content moderation with creator opportunities."
+      ]
     },
     {
-      "id": "cluster_41",
+      "id": "cluster_9",
       "coverage": 1,
       "updated_at": "Thu, 09 Oct 2025 18:39:14 +0000",
       "title": "Tesla FSD gets worse at driving, NHTSA opens new investigation",
-      "neutral_headline": "Tesla FSD gets worse at driving, NHTSA opens new investigation",
+      "neutral_headline": "NHTSA Opens New Investigation into Tesla FSD Performance",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -429,14 +209,52 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1155839798-1152x648.jpg",
-      "popularity_score": 290.16940916666664
+      "popularity_score": 286.43212305555556,
+      "ai_summary": [
+        "The NHTSA has opened a new investigation into Tesla's FSD system.",
+        "FSD has been observed crossing into oncoming traffic.",
+        "The system has also been reported to ignore red lights.",
+        "The investigation will assess the safety of Tesla's FSD technology.",
+        "The NHTSA is responsible for vehicle safety regulations in the US."
+      ]
     },
     {
-      "id": "cluster_46",
+      "id": "cluster_11",
+      "coverage": 1,
+      "updated_at": "Thu, 09 Oct 2025 18:24:13 +0000",
+      "title": "Discord says hackers stole government IDs of 70,000 users",
+      "neutral_headline": "Discord Reports Hackers Stole Government IDs of 70,000 Users",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/security/2025/10/discord-says-hackers-stole-government-ids-of-70000-users/",
+          "published_at": "Thu, 09 Oct 2025 18:24:13 +0000",
+          "title": "Discord says hackers stole government IDs of 70,000 users",
+          "standfirst": "As more sites require IDs for user age verification, expect more such breaches to come.",
+          "content": "Discord says that hackers made off with images of 70,000 users’ government IDs that they were required to provide in order to use the site. Like an increasing number of sites, Discord requires certain users to provide a photo or scan of their driver's license or other government ID that shows they meet the minimum age requirements in their country. In some cases, Discord allows users to prove their age by providing a selfie that shows their faces (it’s not clear how a face proves someone’s age, but there you go). The social media site imposes these requirements on users who are reported by other users to be under the minimum age for the country they’re connecting from. “A substantial risk for identity theft” On Wednesday, Discord said that ID images of roughly 70,000 users “may have had government-ID photos exposed” in a recent breach of a third-party service Discord entrusted to manage the data. The affected users had communicated with Discord’s Customer Support or Trust & Safety teams and subsequently submitted the IDs in reviews of age-related appeals.Read full article Comments",
+          "feed_position": 7,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
+      "popularity_score": 280.18184527777777,
+      "ai_summary": [
+        "Discord reported hackers stole government IDs of 70,000 users.",
+        "More sites require IDs for user age verification.",
+        "Expect more breaches as sites require IDs for verification.",
+        "The breach highlights the risks of storing sensitive user data.",
+        "Discord is taking steps to address the security breach."
+      ]
+    },
+    {
+      "id": "cluster_14",
       "coverage": 1,
       "updated_at": "Thu, 09 Oct 2025 18:10:18 +0000",
       "title": "Rubik’s Cube gets a $299 update, complete with IPS screens and its own apps",
-      "neutral_headline": "Rubik’s Cube gets a $299 update, complete with IPS screens and its own apps",
+      "neutral_headline": "Rubik’s Cube Receives $299 Update with IPS Screens",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -453,14 +271,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/IMG_5476-1152x648-1760030724.jpg",
-      "popularity_score": 263.6871869444444
+      "popularity_score": 259.94990083333334,
+      "ai_summary": [
+        "The Rubik's Cube has received a $299 update.",
+        "The updated cube features IPS screens and its own apps.",
+        "The Rubik's WOWCube is a 2×2 cube with modern twists.",
+        "The new cube offers a digital and interactive experience.",
+        "The update aims to modernize the classic puzzle game."
+      ]
     },
     {
-      "id": "cluster_62",
+      "id": "cluster_19",
       "coverage": 1,
       "updated_at": "Thu, 09 Oct 2025 16:12:00 +0000",
       "title": "Musk’s X posts on ketamine, Putin spur release of his security clearances",
-      "neutral_headline": "Musk’s X posts on ketamine, Putin spur release of his security clearances",
+      "neutral_headline": "Musk's X Posts on Ketamine, Putin Spur Security Clearance Release",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -477,14 +302,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2217198061-1024x648.jpg",
-      "popularity_score": 261.7155202777778
+      "popularity_score": 257.97823416666665,
+      "ai_summary": [
+        "Elon Musk's posts on ketamine and Putin may expose his clearances.",
+        "Conditions of Elon Musk’s top-secret clearances may soon be exposed.",
+        "The posts have raised questions about Musk's security clearances.",
+        "The government may review the conditions of his clearances.",
+        "The situation highlights the importance of security protocols."
+      ]
     },
     {
-      "id": "cluster_95",
+      "id": "cluster_28",
       "coverage": 1,
       "updated_at": "Wed, 08 Oct 2025 21:18:30 +0000",
       "title": "Bank of England warns AI stock bubble rivals 2000 dotcom peak",
-      "neutral_headline": "Bank of England warns AI stock bubble rivals 2000 dotcom peak",
+      "neutral_headline": "Bank of England Warns of AI Stock Bubble Similar to 2000 Peak",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -501,14 +333,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/bank_of_england-1152x648.jpg",
-      "popularity_score": 148
+      "popularity_score": 148,
+      "ai_summary": [
+        "The Bank of England warns of an AI stock bubble.",
+        "The bubble rivals the 2000 dotcom peak.",
+        "Market concentration has not been this extreme in 50 years.",
+        "The central bank is monitoring the AI market closely.",
+        "The warning highlights potential risks in the financial market."
+      ]
     },
     {
-      "id": "cluster_79",
+      "id": "cluster_22",
       "coverage": 1,
       "updated_at": "Thu, 09 Oct 2025 13:18:57 +0000",
       "title": "Tax credits for electric cars are no more. What’s next for the US EV industry?",
-      "neutral_headline": "Tax credits for electric cars are no more. What’s next for the US EV industry",
+      "neutral_headline": "Tax Credits for Electric Cars End, What's Next for US EV Industry?",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -525,14 +364,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/2023-Rivian-R1S-2-1152x648.jpg",
-      "popularity_score": 144.83135361111113
+      "popularity_score": 141.0940675,
+      "ai_summary": [
+        "Tax credits for electric cars are no longer available.",
+        "Dozens of new electric car models are in the pipeline.",
+        "The industry faces challenges without tax credits.",
+        "The future of the EV industry is uncertain.",
+        "The US EV industry is adapting to the changes."
+      ]
     },
     {
-      "id": "cluster_92",
+      "id": "cluster_26",
       "coverage": 1,
       "updated_at": "Wed, 08 Oct 2025 22:42:39 +0000",
       "title": "Stoke Space gives us another reason to take it very seriously",
-      "neutral_headline": "Stoke Space gives us another reason to take it very seriously",
+      "neutral_headline": "Stoke Space Receives New Investments, Raising Nearly $1 Billion",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -549,14 +395,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/zenith2-1152x648.jpg",
-      "popularity_score": 141
+      "popularity_score": 141,
+      "ai_summary": [
+        "Stoke Space has received new investments.",
+        "Stoke Space has raised nearly $1 billion.",
+        "The investments will support Stoke Space's development.",
+        "The company is working on reusable rockets.",
+        "The funding will help advance space technology."
+      ]
     },
     {
-      "id": "cluster_85",
+      "id": "cluster_24",
       "coverage": 1,
       "updated_at": "Thu, 09 Oct 2025 08:30:29 +0000",
       "title": "Everything we know about Ferrari’s first electric vehicle",
-      "neutral_headline": "Everything we know about Ferrari’s first electric vehicle",
+      "neutral_headline": "Ferrari's First Electric Vehicle Details Revealed",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -573,14 +426,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/H5A9253-1152x648.jpg",
-      "popularity_score": 140.02357583333333
+      "popularity_score": 139,
+      "ai_summary": [
+        "Ferrari's first electric vehicle will have four motors.",
+        "The vehicle will have 800 V and more than 1,000 horsepower.",
+        "The electric vehicle is made in-house.",
+        "The car will be a high-performance electric vehicle.",
+        "Ferrari is entering the electric vehicle market."
+      ]
     },
     {
-      "id": "cluster_76",
+      "id": "cluster_20",
       "coverage": 1,
       "updated_at": "Thu, 09 Oct 2025 14:14:25 +0000",
       "title": "We’re about to find many more interstellar interlopers—here’s how to visit one",
-      "neutral_headline": "We’re about to find many more interstellar interlopers—here’s how to visit one",
+      "neutral_headline": "More Interstellar Interlopers Are Coming, Here's How to Visit",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -597,14 +457,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/STScI-01K1X6XDR76ZD4FYJ9VTWN1ERB-1152x648.jpg",
-      "popularity_score": 139.75579805555554
+      "popularity_score": 136.01851194444444,
+      "ai_summary": [
+        "We are about to find many more interstellar interlopers.",
+        "The article explains how to visit an interstellar interloper.",
+        "The article suggests that you do not have to claim they are aliens.",
+        "The article discusses the excitement of these discoveries.",
+        "The article explores the possibilities of interstellar travel."
+      ]
     },
     {
-      "id": "cluster_77",
+      "id": "cluster_21",
       "coverage": 1,
       "updated_at": "Thu, 09 Oct 2025 14:00:58 +0000",
       "title": "How Easter Island’s giant statues “walked” to their final platforms",
-      "neutral_headline": "How Easter Island’s giant statues “walked” to their final platforms",
+      "neutral_headline": "Researchers Discover How Easter Island Statues Were Transported",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -621,14 +488,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/easter5-1152x648.jpg",
-      "popularity_score": 139.53163138888888
+      "popularity_score": 135.79434527777778,
+      "ai_summary": [
+        "Researchers found the moai statues were moved using ropes and a zig-zag walking motion.",
+        "Roads were specifically constructed to facilitate the statues' movement across the island.",
+        "This method allowed the statues to \"walk\" to their final platform locations.",
+        "The study reveals a practical solution to a long-standing historical puzzle.",
+        "The findings offer insight into the engineering capabilities of the island's inhabitants."
+      ]
     },
     {
-      "id": "cluster_80",
+      "id": "cluster_23",
       "coverage": 1,
       "updated_at": "Thu, 09 Oct 2025 13:00:51 +0000",
       "title": "Intel’s next-generation Panther Lake laptop chips could be a return to form",
-      "neutral_headline": "Intel’s next-generation Panther Lake laptop chips could be a return to form",
+      "neutral_headline": "Intel's Panther Lake Laptop Chips Could Revitalize Performance",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -645,14 +519,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Client-Strategic-Overview-13-2-1152x648-1759990634.jpeg",
-      "popularity_score": 138.52968694444445
+      "popularity_score": 134.79240083333332,
+      "ai_summary": [
+        "Intel's upcoming Panther Lake laptop CPUs may simplify the current product lineup.",
+        "The new chips will replace the complex Lunar Lake and Arrow Lake configurations.",
+        "This change could signal a return to form for Intel's laptop chip development.",
+        "The simplified structure may improve consumer understanding of product offerings.",
+        "Panther Lake aims to enhance performance and streamline the user experience."
+      ]
     },
     {
-      "id": "cluster_90",
+      "id": "cluster_25",
       "coverage": 1,
       "updated_at": "Wed, 08 Oct 2025 23:56:33 +0000",
       "title": "One NASA science mission saved from Trump’s cuts, but others still in limbo",
-      "neutral_headline": "One NASA science mission saved from Trump’s cuts, but others still in limbo",
+      "neutral_headline": "NASA Science Mission Saved, Others Face Funding Uncertainties",
       "bullet_summary": [
         "Even if funding is reinstated, we have already lost people",
         "Reported by Ars Technica"
@@ -670,14 +551,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/osiris-apex-1152x648-1759966361.jpg",
-      "popularity_score": 133
+      "popularity_score": 133,
+      "ai_summary": [
+        "One NASA science mission has been spared from proposed budget cuts.",
+        "Other missions remain in a state of uncertainty due to potential funding losses.",
+        "Scientists express concern about the impact of delayed or lost funding.",
+        "Some researchers have already left projects due to the funding instability.",
+        "The situation highlights the challenges of long-term scientific endeavors."
+      ]
     },
     {
-      "id": "cluster_93",
+      "id": "cluster_27",
       "coverage": 1,
       "updated_at": "Wed, 08 Oct 2025 22:32:12 +0000",
       "title": "Man gets drunk, wakes up with a medical mystery that nearly kills him",
-      "neutral_headline": "Man gets drunk, wakes up with a medical mystery that nearly kills him",
+      "neutral_headline": "Intoxicated Man Experiences Medical Mystery, Nearly Dies",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -694,14 +582,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-116781911-1152x648.jpg",
-      "popularity_score": 133
+      "popularity_score": 133,
+      "ai_summary": [
+        "A man became intoxicated and subsequently experienced a life-threatening medical issue.",
+        "The incident resulted in a complex medical mystery for doctors to solve.",
+        "The case presents a compelling narrative suitable for a medical drama.",
+        "The man's condition required extensive medical intervention to save his life.",
+        "The cause of the medical issue remains a central focus of the case."
+      ]
     },
     {
-      "id": "cluster_96",
+      "id": "cluster_29",
       "coverage": 1,
       "updated_at": "Wed, 08 Oct 2025 21:08:50 +0000",
       "title": "ISPs created so many fees that FCC will kill requirement to list them all",
-      "neutral_headline": "ISPs created so many fees that FCC will kill requirement to list them all",
+      "neutral_headline": "FCC Eliminates ISP Fee Listing Requirement Due to Complaints",
       "bullet_summary": [
         "ISPs complained about Biden-era rule, said listing every fee was too hard",
         "Reported by Ars Technica"
@@ -719,7 +614,14 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/brendan-carr-1152x648-1756320188.jpg",
-      "popularity_score": 133
+      "popularity_score": 133,
+      "ai_summary": [
+        "The Federal Communications Commission will remove the fee listing requirement for ISPs.",
+        "ISPs argued that listing all fees was overly burdensome and difficult to manage.",
+        "The Biden administration had previously mandated the fee transparency rule.",
+        "The FCC's decision responds to complaints from the internet service providers.",
+        "This change may impact consumer awareness of ISP charges and pricing."
+      ]
     }
   ]
 }
