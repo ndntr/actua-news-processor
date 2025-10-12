@@ -1,17 +1,38 @@
 {
   "clinical": {
-    "updated_at": "2025-10-12T19:09:23.424Z",
+    "updated_at": "2025-10-12T23:10:56.944Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2025-10-12T19:09:23.424Z",
+    "updated_at": "2025-10-12T23:10:56.944Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2025-10-12T19:09:34.218Z",
+    "updated_at": "2025-10-12T23:11:05.790Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Sun, 12 Oct 2025 23:01:04 GMT",
+        "title": "Woman, 53, becomes UK’s longest survivor of heart and lung transplant",
+        "neutral_headline": "Woman, 53, becomes UK’s longest survivor of heart and lung transplant",
+        "bullet_summary": [
+          "Reported by Guardian Health"
+        ],
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/society/2025/oct/13/katie-mitchell-becomes-uk-longest-surviving-heart-and-lung-transplant-recipient",
+            "published_at": "Sun, 12 Oct 2025 23:01:04 GMT",
+            "title": "Woman, 53, becomes UK’s longest survivor of heart and lung transplant",
+            "standfirst": "Katie Mitchell had procedure at 15 after being diagnosed with Eisenmenger syndrome, a rare congenital diseaseAt the age of 15, medics feared Katie Mitchell was coming to the end of her life after suffering irreversible lung damage and heart failure from a rare congenital disease.But she defied the odds thanks to a heart and lung transplant, and at the age of 53 she has become the UK’s longest-surviving recipient of such a procedure. Continue reading...",
+            "content": "Katie Mitchell had procedure at 15 after being diagnosed with Eisenmenger syndrome, a rare congenital diseaseAt the age of 15, medics feared Katie Mitchell was coming to the end of her life after suffering irreversible lung damage and heart failure from a rare congenital disease.But she defied the odds thanks to a heart and lung transplant, and at the age of 53 she has become the UK’s longest-surviving recipient of such a procedure. Continue reading...",
+            "feed_position": 0
+          }
+        ]
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Sun, 12 Oct 2025 14:00:54 GMT",
         "title": "High youth death rates are an ‘emerging crisis’, global health study warns",
@@ -28,12 +49,35 @@
             "title": "High youth death rates are an ‘emerging crisis’, global health study warns",
             "standfirst": "Alcohol, suicide and injuries driving rises among teenagers and young adults despite overall rates falling, authors say The world faces “an emerging crisis” of higher death rates among teenagers and young adults, according to a major study on the causes of death and disability worldwide.The reasons vary from drug and alcohol use, and suicide in North America, to infectious diseases and injuries in sub-Saharan Africa, the researchers said, but warned that their data should serve as “a wake-up call”.In the UK and Ireland, Samaritans can be contacted on freephone 116 123, or email jo@samaritans.org or jo@samaritans.ie. In the US, you can call or text the National Suicide Prevention Lifeline on 988, chat on 988lifeline.org, or text HOME to 741741 to connect with a crisis counsellor. In Australia, the crisis support service Lifeline is 13 11 14. Other international helplines can be found at befrienders.org Continue reading...",
             "content": "Alcohol, suicide and injuries driving rises among teenagers and young adults despite overall rates falling, authors say The world faces “an emerging crisis” of higher death rates among teenagers and young adults, according to a major study on the causes of death and disability worldwide.The reasons vary from drug and alcohol use, and suicide in North America, to infectious diseases and injuries in sub-Saharan Africa, the researchers said, but warned that their data should serve as “a wake-up call”.In the UK and Ireland, Samaritans can be contacted on freephone 116 123, or email jo@samaritans.org or jo@samaritans.ie. In the US, you can call or text the National Suicide Prevention Lifeline on 988, chat on 988lifeline.org, or text HOME to 741741 to connect with a crisis counsellor. In Australia, the crisis support service Lifeline is 13 11 14. Other international helplines can be found at befrienders.org Continue reading...",
-            "feed_position": 0
+            "feed_position": 1
           }
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Sun, 12 Oct 2025 08:33:52 GMT",
+        "title": "My late husband's organs transformed the lives of four people",
+        "neutral_headline": "My late husband's organs transformed the lives of four people",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/c62ldw09y6go?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sun, 12 Oct 2025 08:33:52 GMT",
+            "title": "My late husband's organs transformed the lives of four people",
+            "standfirst": "Mark Hutchinson was only 52 when he died unexpectedly last year after suffering two strokes \"out of the blue\".",
+            "content": "Mark Hutchinson was only 52 when he died unexpectedly last year after suffering two strokes \"out of the blue\".",
+            "feed_position": 27,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c1e/live/0949be30-a752-11f0-b741-177e3e2c2fc7.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c1e/live/0949be30-a752-11f0-b741-177e3e2c2fc7.jpg"
+      },
+      {
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Sun, 12 Oct 2025 05:00:45 GMT",
         "title": "The plastic inside us: how microplastics may be reshaping our bodies and minds",
@@ -49,12 +93,12 @@
             "title": "The plastic inside us: how microplastics may be reshaping our bodies and minds",
             "standfirst": "The particles are in our blood, brains and guts – and scientists are only beginning to learn what they doMicroplastics have been found almost everywhere: in blood, placentas, lungs – even the human brain. One study estimated our cerebral organs alone may contain 5g of the stuff, or roughly a teaspoon. If true, plastic isn’t just wrapped around our food or woven into our clothes: it is lodged deep inside us.Now, researchers suspect these particles may also be meddling with our gut microbes. When Dr Christian Pacher-Deutsch at the University of Graz in Austria exposed gut bacteria from five healthy volunteers to five common microplastics, the bacterial populations shifted – along with the chemicals they produced. Some of these changes mirrored patterns linked to depression and colorectal cancer. Continue reading...",
             "content": "The particles are in our blood, brains and guts – and scientists are only beginning to learn what they doMicroplastics have been found almost everywhere: in blood, placentas, lungs – even the human brain. One study estimated our cerebral organs alone may contain 5g of the stuff, or roughly a teaspoon. If true, plastic isn’t just wrapped around our food or woven into our clothes: it is lodged deep inside us.Now, researchers suspect these particles may also be meddling with our gut microbes. When Dr Christian Pacher-Deutsch at the University of Graz in Austria exposed gut bacteria from five healthy volunteers to five common microplastics, the bacterial populations shifted – along with the chemicals they produced. Some of these changes mirrored patterns linked to depression and colorectal cancer. Continue reading...",
-            "feed_position": 1
+            "feed_position": 2
           }
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Sat, 11 Oct 2025 19:15:39 GMT",
         "title": "Diane Keaton, Oscar-winning star of Annie Hall and The Godfather, dies aged 79",
@@ -71,12 +115,35 @@
             "title": "Diane Keaton, Oscar-winning star of Annie Hall and The Godfather, dies aged 79",
             "standfirst": "The legendary actor best known for her many collaborations with Woody Allen, as well as films including Reds, The First Wives Club and Book Club, has diedDiane Keaton: a life in picturesPeter Bradshaw on Diane KeatonKeaton interviewed in 2023 and 2014Jess Cartner-Morley on Keaton’s styleDiane Keaton, one of the best-loved film stars of the past 50 years, has died at the age of 79 in California.The news was confirmed by People magazine. Further details are not available at this time and her loved ones have asked for privacy, according to a family spokesperson. Continue reading...",
             "content": "The legendary actor best known for her many collaborations with Woody Allen, as well as films including Reds, The First Wives Club and Book Club, has diedDiane Keaton: a life in picturesPeter Bradshaw on Diane KeatonKeaton interviewed in 2023 and 2014Jess Cartner-Morley on Keaton’s styleDiane Keaton, one of the best-loved film stars of the past 50 years, has died at the age of 79 in California.The news was confirmed by People magazine. Further details are not available at this time and her loved ones have asked for privacy, according to a family spokesperson. Continue reading...",
-            "feed_position": 2
+            "feed_position": 3
           }
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_5",
+        "coverage": 1,
+        "updated_at": "Sat, 11 Oct 2025 11:01:27 GMT",
+        "title": "Report shows 'stark' gender gap in HIV prevention",
+        "neutral_headline": "Report shows 'stark' gender gap in HIV prevention",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/c4gkgpgrp84o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sat, 11 Oct 2025 11:01:27 GMT",
+            "title": "Report shows 'stark' gender gap in HIV prevention",
+            "standfirst": "A meeting will discuss how to tackle what organisers say is a growing inequality in HIV prevention.",
+            "content": "A meeting will discuss how to tackle what organisers say is a growing inequality in HIV prevention.",
+            "feed_position": 86,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3416/live/f81d8660-a67e-11f0-91dc-8bae54b190c0.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3416/live/f81d8660-a67e-11f0-91dc-8bae54b190c0.jpg"
+      },
+      {
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Sat, 11 Oct 2025 05:00:18 GMT",
         "title": "Will UK taxpayers get their £122m back from PPE Medpro?",
@@ -92,12 +159,12 @@
             "title": "Will UK taxpayers get their £122m back from PPE Medpro?",
             "standfirst": "The high court told the company linked to Michelle Mone to pay up over the supply of defective gowns, but there appears no clear route to reclaim the fundsThe five-year unravelling of Britain’s most high-profile Covid contracts scandal involving a baroness, her husband and multimillion-pound government deals accelerated last week with a high court judgment against the company linked to the former Tory peer Michelle Mone.The judge, Mrs Justice Cockerill, ruled that PPE Medpro, owned by Mone’s husband, the Isle of Man-based businessman Doug Barrowman, supplied defective personal protective equipment (PPE) for use in the NHS during the pandemic. Cockerill ordered that PPE Medpro must return the sum of £122m, which the Department of Health and Social Care paid for the order of 25m sterile surgical gowns, under a contract awarded in June 2020 via the VIP lane. Continue reading...",
             "content": "The high court told the company linked to Michelle Mone to pay up over the supply of defective gowns, but there appears no clear route to reclaim the fundsThe five-year unravelling of Britain’s most high-profile Covid contracts scandal involving a baroness, her husband and multimillion-pound government deals accelerated last week with a high court judgment against the company linked to the former Tory peer Michelle Mone.The judge, Mrs Justice Cockerill, ruled that PPE Medpro, owned by Mone’s husband, the Isle of Man-based businessman Doug Barrowman, supplied defective personal protective equipment (PPE) for use in the NHS during the pandemic. Cockerill ordered that PPE Medpro must return the sum of £122m, which the Department of Health and Social Care paid for the order of 25m sterile surgical gowns, under a contract awarded in June 2020 via the VIP lane. Continue reading...",
-            "feed_position": 3
+            "feed_position": 4
           }
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Sat, 11 Oct 2025 05:00:18 GMT",
         "title": "TikTok influencers fuelling parallel market for unlicensed weight-loss drug",
@@ -113,14 +180,14 @@
             "title": "TikTok influencers fuelling parallel market for unlicensed weight-loss drug",
             "standfirst": "Guardian finds a thriving trade on Telegram for retatrutide, which is still in clinical trials and illegal to sellAn online parallel market for an unlicensed weight-loss drug is being fuelled by TikTok fitness influencers and sellers on WhatsApp, a Guardian investigation can reveal.Retatrutide, which is still in clinical trials, is being advertised by social media influencers for its supposed fat-burning effects. Followers are urged to message the accounts privately for supplier links, as well as being provided with discount codes. Continue reading...",
             "content": "Guardian finds a thriving trade on Telegram for retatrutide, which is still in clinical trials and illegal to sellAn online parallel market for an unlicensed weight-loss drug is being fuelled by TikTok fitness influencers and sellers on WhatsApp, a Guardian investigation can reveal.Retatrutide, which is still in clinical trials, is being advertised by social media influencers for its supposed fat-burning effects. Followers are urged to message the accounts privately for supplier links, as well as being provided with discount codes. Continue reading...",
-            "feed_position": 4
+            "feed_position": 5
           }
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2025-10-12T19:09:34.218Z",
+    "updated_at": "2025-10-12T23:11:05.790Z",
     "clusters": []
   }
 }
