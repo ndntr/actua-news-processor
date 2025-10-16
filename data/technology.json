@@ -1,70 +1,102 @@
 {
-  "updated_at": "2025-10-15T23:12:19.572Z",
+  "updated_at": "2025-10-16T03:33:24.558Z",
   "clusters": [
     {
-      "id": "cluster_0",
-      "coverage": 1,
-      "updated_at": "2025-10-15T23:12:19.570Z",
-      "title": "ROG Xbox Ally X: The Ars Technica review",
-      "neutral_headline": "Ars Technica Reviews the ROG Xbox Ally X Gaming Device",
+      "id": "cluster_42",
+      "coverage": 3,
+      "updated_at": "Wed, 15 Oct 2025 16:49:00 GMT",
+      "title": "Should you upgrade to M5 MacBook Pro from an M1? How the numbers add up",
+      "neutral_headline": "Apple Announces New M5 Chip for Multiple Devices",
       "bullet_summary": [
-        "Reported by Ars Technica"
+        "Apple announced its new M5 chip along with the new iPad Pro, MacBook Pro, and Vision Pro",
+        "Reported by ZDNet, TechCrunch, Wired Tech"
+      ],
+      "items": [
+        {
+          "source": "ZDNet",
+          "url": "https://www.zdnet.com/article/should-you-upgrade-to-m5-macbook-pro-from-an-m1-how-the-numbers-add-up/",
+          "published_at": "Wed, 15 Oct 2025 16:49:00 GMT",
+          "title": "Should you upgrade to M5 MacBook Pro from an M1? How the numbers add up",
+          "standfirst": "Apple's new M5 MacBook Pro advertises some impressive performance gains, but who are they relevant for? Let's break down the numbers.",
+          "content": "Apple's new M5 MacBook Pro advertises some impressive performance gains, but who are they relevant for? Let's break down the numbers.",
+          "feed_position": 15
+        },
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2025/10/15/apple-upgrades-ipad-pro-macbook-pro-and-vision-pro-with-new-m5-chip/",
+          "published_at": "Wed, 15 Oct 2025 15:15:33 +0000",
+          "title": "Apple upgrades iPad Pro, MacBook Pro, and Vision Pro with new M5 chip",
+          "standfirst": "Apple announced its new M5 chip along with the new iPad Pro, MacBook Pro, and Vision Pro.",
+          "content": "Apple announced its new M5 chip along with the new iPad Pro, MacBook Pro, and Vision Pro.",
+          "feed_position": 16
+        },
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/apple-m5-powered-ipad-pro-macbook-pro-vision-pro-october-2025/",
+          "published_at": "Wed, 15 Oct 2025 15:11:26 +0000",
+          "title": "Apple Just Upgraded the iPad Pro, MacBook Pro, and Vision Pro With Its New M5 Chip",
+          "standfirst": "The hardware largely remains the same, but performance gets a boost.",
+          "content": "The hardware largely remains the same, but performance gets a boost.",
+          "feed_position": 5,
+          "image_url": "https://media.wired.com/photos/68efb698670b06a048487b72/master/pass/Apple%20iPad%20Pro%20M5%20SOURCE%20Apple.jpg"
+        }
+      ],
+      "featured_image": "https://media.wired.com/photos/68efb698670b06a048487b72/master/pass/Apple%20iPad%20Pro%20M5%20SOURCE%20Apple.jpg",
+      "popularity_score": 3009.259845,
+      "ai_summary": [
+        "Apple announced the new M5 chip.",
+        "The M5 chip will be in the new iPad Pro, MacBook Pro, and Vision Pro.",
+        "The new chip is expected to provide performance gains.",
+        "The hardware of the devices largely remains the same.",
+        "Apple is upgrading multiple product lines with the new chip."
+      ]
+    },
+    {
+      "id": "cluster_27",
+      "coverage": 2,
+      "updated_at": "Wed, 15 Oct 2025 18:53:00 +0000",
+      "title": "Anthropic’s Claude Haiku 4.5 matches May’s frontier model at fraction of cost",
+      "neutral_headline": "Anthropic Releases New Claude Haiku 4.5 Model",
+      "bullet_summary": [
+        "Reported by Ars Technica, TechCrunch"
       ],
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/gaming/2025/10/rog-xbox-ally-x-the-ars-technica-review/",
-          "published_at": "2025-10-15T23:12:19.570Z",
-          "title": "ROG Xbox Ally X: The Ars Technica review",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 0
-        }
-      ],
-      "popularity_score": 360.9999994444444,
-      "ai_summary": [
-        "Ars Technica published a review of the ROG Xbox Ally X.",
-        "The review provides an assessment of the gaming device.",
-        "The review covers the features and performance of the device.",
-        "The article offers insights into the device's strengths and weaknesses.",
-        "The review is aimed at potential consumers of the gaming device."
-      ]
-    },
-    {
-      "id": "cluster_2",
-      "coverage": 1,
-      "updated_at": "2025-10-15T23:12:19.570Z",
-      "title": "Rice weevil on a grain of rice wins 2025 Nikon Small World contest",
-      "neutral_headline": "Rice Weevil Microscopic Image Wins Nikon Small World Contest",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
+          "url": "https://arstechnica.com/ai/2025/10/anthropics-claude-haiku-4-5-matches-mays-frontier-model-at-fraction-of-cost/",
+          "published_at": "Wed, 15 Oct 2025 18:53:00 +0000",
+          "title": "Anthropic’s Claude Haiku 4.5 matches May’s frontier model at fraction of cost",
+          "standfirst": "Tiny, fast model hits coding scores similar to GPT-5 and Sonnet 4.",
+          "content": "On Wednesday, Anthropic released Claude Haiku 4.5, a small AI language model that reportedly delivers performance similar to what its frontier model Claude Sonnet 4 achieved five months ago but at one-third the cost and more than twice the speed. The new model is available now to all Claude app, web, and API users. If the benchmarks for Haiku 4.5 reported by Anthropic hold up to independent testing, the fact that the company can match some capabilities of its cutting-edge coding model from only five months ago (and GPT-5 in coding) while providing a dramatic speed increase and cost cut is notable. As a recap, Anthropic ships the Claude family in three model sizes: Haiku (small), Sonnet (medium), and Opus (large). The larger models are based on larger neural networks and typically include deeper contextual knowledge but are slower and more expensive to run. Due to a technique called distillation, companies like Anthropic have been able to craft smaller AI models that match the capability of larger, older models at functional tasks like coding, although it typically comes at the cost of omitting stored knowledge.Read full article Comments",
+          "feed_position": 5,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/haiku45_hero.jpg"
+        },
         {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2025/10/meet-the-2025-nikon-photomicrography-winners/",
-          "published_at": "2025-10-15T23:12:19.570Z",
-          "title": "Rice weevil on a grain of rice wins 2025 Nikon Small World contest",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 2
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2025/10/15/anthropic-launches-new-version-of-scaled-down-haiku-model/",
+          "published_at": "Wed, 15 Oct 2025 17:00:00 +0000",
+          "title": "Anthropic launches new version of scaled-down &#8216;Haiku&#8217; model",
+          "standfirst": "Anthropic has released Claude Haiku 4.5, the newest version of its smallest model, billed as offering similar performance to Sonnet 4 \"at one-third the cost and more than twice the speed.\"",
+          "content": "Anthropic has released Claude Haiku 4.5, the newest version of its smallest model, billed as offering similar performance to Sonnet 4 \"at one-third the cost and more than twice the speed.\"",
+          "feed_position": 7
         }
       ],
-      "popularity_score": 358.9999994444444,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/haiku45_hero.jpg",
+      "popularity_score": 2011.3265116666666,
       "ai_summary": [
-        "A photograph of a rice weevil on a grain of rice won the contest.",
-        "The image was the winner of the 2025 Nikon Small World contest.",
-        "The contest showcases microscopic photography.",
-        "The winning image highlights the beauty of the microscopic world.",
-        "The contest celebrates scientific and artistic achievements."
+        "Anthropic launched Claude Haiku 4.5.",
+        "Claude Haiku 4.5 is the newest version of the smallest model.",
+        "The model offers similar performance to Sonnet 4.",
+        "Claude Haiku 4.5 is offered at one-third the cost.",
+        "The model is more than twice as fast as Sonnet 4."
       ]
     },
     {
-      "id": "cluster_1",
+      "id": "cluster_12",
       "coverage": 1,
-      "updated_at": "2025-10-15T23:12:19.570Z",
+      "updated_at": "Wed, 15 Oct 2025 21:31:00 +0000",
       "title": "Army general says he’s using AI to improve “decision-making”",
-      "neutral_headline": "Army General Uses Artificial Intelligence for Decision Making",
+      "neutral_headline": "Army General Uses AI to Improve Decision Making",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -72,28 +104,61 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/ai/2025/10/army-general-says-hes-using-ai-to-improve-decision-making/",
-          "published_at": "2025-10-15T23:12:19.570Z",
+          "published_at": "Wed, 15 Oct 2025 21:31:00 +0000",
           "title": "Army general says he’s using AI to improve “decision-making”",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 1
+          "standfirst": "\"AI is one thing that, as a commander, it’s been very, very interesting for me.\"",
+          "content": "Last month, OpenAI published a usage study showing that nearly 15 percent of work-related conversations on ChatGPT had to deal with \"making decisions and solving problems.\" Now comes word that at least one high-level member of the US military is using LLMs for the same purpose. At the Association of the US Army Conference in Washington, DC, this week, Maj. Gen. William \"Hank\" Taylor reportedly said that \"Chat and I are really close lately,\" using a distressingly familiar diminutive nickname to refer to an unspecified AI chatbot. \"AI is one thing that, as a commander, it’s been very, very interesting for me.\" Military-focused news site DefenseScoop reports that Taylor told a roundtable group of reporters that he and the Eighth Army he commands out of South Korea are \"regularly using\" AI to modernize their predictive analysis for logistical planning and operational purposes. That is helpful for paperwork tasks like \"just being able to write our weekly reports and things,\" Taylor said, but it also aids in informing their overall direction.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2219849110-1152x648.jpg"
         }
       ],
-      "popularity_score": 357.9999994444444,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2219849110-1152x648.jpg",
+      "popularity_score": 361.959845,
       "ai_summary": [
-        "An Army general is using artificial intelligence.",
-        "The general aims to improve decision-making processes.",
-        "The use of AI is part of a military strategy.",
-        "The general's approach involves AI integration.",
-        "The goal is to enhance efficiency and effectiveness."
+        "An Army general is using AI.",
+        "The general aims to improve decision-making.",
+        "The general finds AI very interesting.",
+        "The general is a commander.",
+        "AI is being used in a military context."
       ]
     },
     {
-      "id": "cluster_3",
+      "id": "cluster_17",
       "coverage": 1,
-      "updated_at": "2025-10-15T23:12:19.570Z",
+      "updated_at": "Wed, 15 Oct 2025 20:30:43 +0000",
+      "title": "Rice weevil on a grain of rice wins 2025 Nikon Small World contest",
+      "neutral_headline": "Rice Weevil Wins Nikon Small World Photomicrography Contest",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/science/2025/10/meet-the-2025-nikon-photomicrography-winners/",
+          "published_at": "Wed, 15 Oct 2025 20:30:43 +0000",
+          "title": "Rice weevil on a grain of rice wins 2025 Nikon Small World contest",
+          "standfirst": "Nikon Small World photomicrography contest is an annual reminder that science can be beautiful as well as informative.",
+          "content": "A stunning image of a rice weevil on a single grain of rice has won the 2025 Nikon Small World photomicrography contest, yielding valuable insight into the structure and behavior of—and providing a fresh perspective on—this well-known agricultural pest. The image was taken by Zhang You of Yunnan, China. Another of You's photographs placed 15th in this year's contest. “It pays to dive deep into entomology: understanding insects’ behaviors and mastering lighting,\" You said in a statement. \"A standout work blends artistry with scientific rigor, capturing the very essence, energy, and spirit of these creatures.” There was an element of luck in creating his winning image, too. \"I had observed rice weevils in grains before, but never one with its wings spread,\" You said. \"This one was naturally preserved on a windowsill, perhaps in a final attempt to escape. Its tiny size makes manually preparing spread-wing specimens extremely difficult, so encountering it was both serendipitous and inspiring.”Read full article Comments",
+          "feed_position": 1,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/nikon1-1152x648-1760544093.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/nikon1-1152x648-1760544093.jpg",
+      "popularity_score": 361.9551227777778,
+      "ai_summary": [
+        "A rice weevil on a grain of rice won the contest.",
+        "The Nikon Small World contest is annual.",
+        "The contest showcases photomicrography.",
+        "Science can be beautiful and informative.",
+        "The contest highlights scientific imagery."
+      ]
+    },
+    {
+      "id": "cluster_18",
+      "coverage": 1,
+      "updated_at": "Wed, 15 Oct 2025 20:22:24 +0000",
       "title": "Once unthinkable, NASA and Lockheed now consider launching Orion on other rockets",
-      "neutral_headline": "NASA and Lockheed Consider Launching Orion on Alternative Rockets",
+      "neutral_headline": "NASA and Lockheed Consider Orion Rocket Launch Options",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -101,28 +166,30 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/space/2025/10/once-unthinkable-nasa-and-lockheed-now-consider-launching-orion-on-other-rockets/",
-          "published_at": "2025-10-15T23:12:19.570Z",
+          "published_at": "Wed, 15 Oct 2025 20:22:24 +0000",
           "title": "Once unthinkable, NASA and Lockheed now consider launching Orion on other rockets",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 3
+          "standfirst": "\"We're trying to crawl, then walk, then run into our reuse strategy.\"",
+          "content": "The Orion spacecraft and Space Launch System rocket have been attached at the hip for the better part of two decades. The big rocket lifts, the smaller spacecraft flies, and Congress keeps the money rolling in. But now there are signs that the twain may, in the not too distant future, split. This is because Lockheed Martin has begun to pivot toward a future in which the Orion spacecraft—thanks to increasing reusability, a focus on cost, and openness to flying on different rockets—fits into commercial space applications. In interviews, company officials said that if NASA wanted to buy Orion missions as a \"service,\" rather than owning and operating the spacecraft, they were ready to work with the space agency.Read full article Comments",
+          "feed_position": 2,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/jsc2025e016293large-1152x648.jpg"
         }
       ],
-      "popularity_score": 322.9999994444444,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/jsc2025e016293large-1152x648.jpg",
+      "popularity_score": 325.81651166666666,
       "ai_summary": [
         "NASA and Lockheed are considering alternative rocket launches.",
-        "They are exploring launching Orion on different rockets.",
-        "This was once considered an unlikely possibility.",
-        "The change reflects evolving space exploration strategies.",
-        "The move could impact future space missions."
+        "They are exploring launching Orion on other rockets.",
+        "The goal is to develop a reuse strategy.",
+        "The strategy involves crawling, walking, and running.",
+        "The focus is on reusability of the Orion spacecraft."
       ]
     },
     {
-      "id": "cluster_4",
+      "id": "cluster_20",
       "coverage": 1,
-      "updated_at": "2025-10-15T23:12:19.570Z",
+      "updated_at": "Wed, 15 Oct 2025 20:05:39 +0000",
       "title": "Thousands of customers imperiled after nation-state ransacks F5’s network",
-      "neutral_headline": "Nation-State Attack Compromises F5 Network, Endangering Customers",
+      "neutral_headline": "F5 Network Breached, Thousands of Customers Imperiled",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -130,57 +197,30 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/security/2025/10/breach-of-f5-requires-emergency-action-from-big-ip-users-feds-warn/",
-          "published_at": "2025-10-15T23:12:19.570Z",
+          "published_at": "Wed, 15 Oct 2025 20:05:39 +0000",
           "title": "Thousands of customers imperiled after nation-state ransacks F5’s network",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 4
+          "standfirst": "Risks to BIG-IP users include supply-chain attacks, credential loss, and vulnerability exploits.",
+          "content": "Thousands of networks—many of them operated by the US government and Fortune 500 companies—face an “imminent threat” of being breached by a nation-state hacking group following the breach of a major maker of software, the federal government warned Wednesday. F5, a Seattle-based maker of networking software, disclosed the breach on Wednesday. F5 said a “sophisticated” threat group working for an undisclosed nation-state government had surreptitiously and persistently dwelled in its network over a “long-term.” Security researchers who have responded to similar intrusions in the past took the language to mean the hackers were inside the F5 network for years. Unprecedented During that time, F5 said, the hackers took control of the network segment the company uses to create and distribute updates for BIG IP, a line of server appliances that F5 says is used by 48 of the world’s top 50 corporations. Wednesday’s disclosure went on to say the threat group downloaded proprietary BIG-IP source code information about vulnerabilities that had been privately discovered but not yet patched. The hackers also obtained configuration settings that some customers used inside their networks.Read full article Comments",
+          "feed_position": 3,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1202018501-1152x648.jpg"
         }
       ],
-      "popularity_score": 312.9999994444444,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1202018501-1152x648.jpg",
+      "popularity_score": 315.537345,
       "ai_summary": [
         "A nation-state ransacked F5's network.",
-        "Thousands of customers are now imperiled by the attack.",
-        "The attack resulted in a security breach.",
-        "The incident highlights cybersecurity vulnerabilities.",
-        "F5 is a major technology company."
+        "Risks include supply-chain attacks.",
+        "Risks include credential loss.",
+        "Risks include vulnerability exploits.",
+        "Thousands of customers are affected."
       ]
     },
     {
-      "id": "cluster_6",
+      "id": "cluster_24",
       "coverage": 1,
-      "updated_at": "2025-10-15T23:12:19.570Z",
-      "title": "Anthropic’s Claude Haiku 4.5 matches May’s frontier model at fraction of cost",
-      "neutral_headline": "Anthropic's Claude Haiku 4.5 Matches Frontier Model at Lower Cost",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2025/10/anthropics-claude-haiku-4-5-matches-mays-frontier-model-at-fraction-of-cost/",
-          "published_at": "2025-10-15T23:12:19.570Z",
-          "title": "Anthropic’s Claude Haiku 4.5 matches May’s frontier model at fraction of cost",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 6
-        }
-      ],
-      "popularity_score": 307.9999994444444,
-      "ai_summary": [
-        "Anthropic's Claude Haiku 4.5 matches a May frontier model.",
-        "The model achieves this at a fraction of the cost.",
-        "The comparison highlights advancements in AI technology.",
-        "The model offers a cost-effective solution.",
-        "The development represents a significant achievement."
-      ]
-    },
-    {
-      "id": "cluster_5",
-      "coverage": 1,
-      "updated_at": "2025-10-15T23:12:19.570Z",
+      "updated_at": "Wed, 15 Oct 2025 19:23:54 +0000",
       "title": "CDC tormented: HR workers summoned from furlough to lay off themselves, others",
-      "neutral_headline": "CDC Faces Layoffs, HR Workers Summoned from Furlough",
+      "neutral_headline": "CDC Workforce Suffers Layoffs and Trauma",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -188,26 +228,28 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/health/2025/10/cdc-tormented-hr-workers-summoned-from-furlough-to-lay-off-themselves-others/",
-          "published_at": "2025-10-15T23:12:19.570Z",
+          "published_at": "Wed, 15 Oct 2025 19:23:54 +0000",
           "title": "CDC tormented: HR workers summoned from furlough to lay off themselves, others",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 5
+          "standfirst": "Traumatized CDC has lost 33% of its workforce this year, union says.",
+          "content": "The dust is still settling at the Centers for Disease Control and Prevention after a mass layoff on Friday, which former employees at the beleaguered agency are describing as a massacre. In separate press briefings on Tuesday, a network of terminated CDC staff that goes by the name the National Public Health Coalition, and the union representing employees at the agency discussed what the wide-scale cuts mean for the American people, as well as the trauma, despair, and damage they have wreaked on the workers of the once-premier public health agency. In a normal federal layoff—called a reduction in force, or RIF—the agency would be given a full outline of the roles and branches or divisions affected, as well as some explanation for the cuts, such as alleged fraud, abuse, or redundancy. However, the Trump administration has provided no such information or explanation, leaving current and former employees to essentially crowdsource what has been lost and only guess at the possible reasons.Read full article Comments",
+          "feed_position": 4,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2228551722-1152x648.jpg"
         }
       ],
-      "popularity_score": 302.9999994444444,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2228551722-1152x648.jpg",
+      "popularity_score": 304.8415116666667,
       "ai_summary": [
-        "The CDC is undergoing a period of turmoil.",
+        "The CDC is experiencing workforce trauma.",
+        "The CDC has lost 33% of its workforce this year.",
         "HR workers were summoned from furlough.",
-        "They were tasked with laying off themselves and others.",
-        "The situation reflects organizational challenges.",
-        "The CDC is a major public health agency."
+        "HR workers were tasked with laying off themselves and others.",
+        "A union has reported the situation."
       ]
     },
     {
-      "id": "cluster_9",
+      "id": "cluster_51",
       "coverage": 1,
-      "updated_at": "2025-10-15T23:12:19.570Z",
+      "updated_at": "Wed, 15 Oct 2025 16:00:51 +0000",
       "title": "Google’s AI videos get a big upgrade with Veo 3.1",
       "neutral_headline": "Google Upgrades AI Video Capabilities with Veo 3.1",
       "bullet_summary": [
@@ -217,28 +259,30 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/google/2025/10/googles-ai-videos-get-a-big-upgrade-with-veo-3-1/",
-          "published_at": "2025-10-15T23:12:19.570Z",
+          "published_at": "Wed, 15 Oct 2025 16:00:51 +0000",
           "title": "Google’s AI videos get a big upgrade with Veo 3.1",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 9
+          "standfirst": "Veo 3.1 is coming to the Gemini app and the Flow filmmaking tool.",
+          "content": "It's getting harder to know what's real on the Internet, and Google is not helping one bit with the announcement of Veo 3.1. The company's new video model supposedly offers better audio and realism, along with greater prompt accuracy. The updated video AI will be available throughout the Google ecosystem, including the Flow filmmaking tool, where the new model will unlock additional features. And if you're worried about the cost of conjuring all these AI videos, Google is also adding a \"Fast\" variant of Veo. Veo made waves when it debuted earlier this year, demonstrating a staggering improvement in AI video quality just a few months after Veo 2's release. It turns out that having all that video on YouTube is very useful for training AI models, so Google is already moving on to Veo 3.1 with a raft of new features. Google says Veo 3.1 offers stronger prompt adherence, which results in better video outputs and fewer wasted compute cycles. Audio, which was a hallmark feature of the Veo 3 release, has reportedly improved, too. Veo 3's text-to-video was limited to 720p landscape output, but there's an ever-increasing volume of vertical video on the Internet. So Veo 3.1 can produce both landscape and portrait 16:9 video.Read full article Comments",
+          "feed_position": 8,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Veo-3.1-1152x648.png"
         }
       ],
-      "popularity_score": 286.9999994444444,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Veo-3.1-1152x648.png",
+      "popularity_score": 285.457345,
       "ai_summary": [
-        "Google's AI video capabilities have received a major upgrade.",
-        "The upgrade is with the new Veo 3.1 version.",
-        "The upgrade enhances video generation.",
-        "The update improves the quality of AI-generated videos.",
-        "The new version offers advanced features."
+        "Google is upgrading its AI video capabilities.",
+        "The upgrade involves Veo 3.1.",
+        "Veo 3.1 is coming to the Gemini app.",
+        "Veo 3.1 is coming to the Flow filmmaking tool.",
+        "The upgrade enhances video creation tools."
       ]
     },
     {
-      "id": "cluster_7",
+      "id": "cluster_31",
       "coverage": 1,
-      "updated_at": "2025-10-15T23:12:19.570Z",
+      "updated_at": "Wed, 15 Oct 2025 18:26:20 +0000",
       "title": "ISPs angry about California law that lets renters opt out of forced payments",
-      "neutral_headline": "ISPs Oppose California Law Allowing Renters Opt Out of Payments",
+      "neutral_headline": "California Law Allows Renters to Opt Out of Payments",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -246,28 +290,30 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/tech-policy/2025/10/california-says-landlords-cant-make-tenants-pay-for-an-isp-they-dont-want/",
-          "published_at": "2025-10-15T23:12:19.570Z",
+          "published_at": "Wed, 15 Oct 2025 18:26:20 +0000",
           "title": "ISPs angry about California law that lets renters opt out of forced payments",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 7
+          "standfirst": "Gov. Newsom signs broadband billing law hated by the cable industry.",
+          "content": "Rejecting opposition from the cable and real estate industries, California Gov. Gavin Newsom signed a bill that aims to increase broadband competition in apartment buildings. The new law taking effect on January 1 says landlords must let tenants \"opt out of paying for any subscription from a third-party Internet service provider, such as through a bulk-billing arrangement, to provide service for wired Internet, cellular, or satellite service that is offered in connection with the tenancy.\" It was approved by the state Assembly in a 75–0 vote in April, and by the Senate in a 30–7 vote last month. \"This is kind of like a first step in trying to give this industry an opportunity to just treat people fairly,\" Assemblymember Rhodesia Ransom, a Democratic lawmaker who authored the bill, told Ars last month. \"It's not super restrictive. We are not banning bulk billing. We're not even limiting how much money the people can make. What we're saying here with this bill is that if a tenant wants to opt out of the arrangement, they should be allowed to opt out.\"Read full article Comments",
+          "feed_position": 6,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/broadband-ethernet-cables-1152x648-1742589135.jpg"
         }
       ],
-      "popularity_score": 282.9999994444444,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/broadband-ethernet-cables-1152x648-1742589135.jpg",
+      "popularity_score": 283.88206722222225,
       "ai_summary": [
-        "Internet service providers are angry about a new California law.",
+        "California passed a law about broadband billing.",
         "The law allows renters to opt out of forced payments.",
-        "The law impacts the business practices of ISPs.",
-        "The law affects the relationship between ISPs and renters.",
-        "The law aims to give renters more choice."
+        "The cable industry dislikes the new law.",
+        "Governor Newsom signed the broadband billing law.",
+        "The law impacts internet service providers."
       ]
     },
     {
-      "id": "cluster_8",
+      "id": "cluster_39",
       "coverage": 1,
-      "updated_at": "2025-10-15T23:12:19.570Z",
+      "updated_at": "Wed, 15 Oct 2025 17:00:51 +0000",
       "title": "US demand grows for Chinese cars despite privacy and security fears",
-      "neutral_headline": "US Demand for Chinese Cars Grows Despite Privacy Concerns",
+      "neutral_headline": "US Demand Grows for Chinese Cars Despite Concerns",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -275,20 +321,363 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/cars/2025/10/us-demand-grows-for-chinese-cars-despite-privacy-and-security-fears/",
-          "published_at": "2025-10-15T23:12:19.570Z",
+          "published_at": "Wed, 15 Oct 2025 17:00:51 +0000",
           "title": "US demand grows for Chinese cars despite privacy and security fears",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 8
+          "standfirst": "But they're still unlikely to go on sale in the US.",
+          "content": "More than half of American car buyers would consider a Chinese car brand for their next purchase, an increase of almost 25 percent compared to last year. That's according to a survey of prospective car buyers conducted annually by the research firm AutoPacific. And yes, those car buyers are conscious of the privacy and security fears. AutoPacific spoke to 18,000 people who said they were planning to buy or lease a new car within the next three years for its 2025 Future Attribution Demand Study, and the company has been releasing snippets of data as it analyzes them, ahead of the full report's release later this year. There has already been at least one surprise. Last year, partially automated driving systems like General Motors' Super Cruise or Ford's BlueCruise, or those developed by Tesla, were not in high demand. This year, that tech went to the top of the most-wanted list, with 43 percent of consumers saying they want hands-free partial automation. The same percentage also indicated a demand for rear automatic emergency braking. Wireless device charging, No. 1 in the list in 2024, didn't make the top 15 for 2025.Read full article Comments",
+          "feed_position": 7,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2240964205-1152x648.jpg"
         }
       ],
-      "popularity_score": 282.9999994444444,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2240964205-1152x648.jpg",
+      "popularity_score": 282.457345,
       "ai_summary": [
-        "Demand for Chinese cars is growing in the United States.",
-        "There are concerns about privacy and security.",
-        "The demand is despite these concerns.",
-        "The trend reflects consumer preferences.",
-        "The growth indicates a shift in the automotive market."
+        "US demand for Chinese cars is growing.",
+        "Concerns exist about privacy and security.",
+        "Chinese cars are unlikely to go on sale in the US.",
+        "Demand is increasing despite the concerns.",
+        "The US market is not currently open to Chinese cars."
+      ]
+    },
+    {
+      "id": "cluster_58",
+      "coverage": 1,
+      "updated_at": "Wed, 15 Oct 2025 15:14:52 +0000",
+      "title": "ChatGPT erotica coming soon with age verification, CEO says",
+      "neutral_headline": "ChatGPT Erotica Features Age Verification, CEO Announces New Tools",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2025/10/chatgpt-will-soon-allow-erotic-chats-for-verified-adults-only/",
+          "published_at": "Wed, 15 Oct 2025 15:14:52 +0000",
+          "title": "ChatGPT erotica coming soon with age verification, CEO says",
+          "standfirst": "Sam Altman claims new tools can detect mental distress while relaxing limits for adults.",
+          "content": "On Tuesday, OpenAI CEO Sam Altman announced that the company will allow verified adult users to have erotic conversations with ChatGPT starting in December. The change represents a shift in how OpenAI approaches content restrictions, which the company had loosened in February but then dramatically tightened after an August lawsuit from parents of a teen who died by suicide after allegedly receiving encouragement from ChatGPT. \"In December, as we roll out age-gating more fully and as part of our 'treat adult users like adults' principle, we will allow even more, like erotica for verified adults,\" Altman wrote in his post on X (formerly Twitter). The announcement follows OpenAI's recent hint that it would allow developers to create \"mature\" ChatGPT applications once the company implements appropriate age verification and controls. Altman explained that OpenAI had made ChatGPT \"pretty restrictive to make sure we were being careful with mental health issues\" but acknowledged this approach made the chatbot \"less useful/enjoyable to many users who had no mental health problems.\" The CEO said the company now has new tools to better detect when users are experiencing mental distress, allowing OpenAI to relax restrictions in most cases.Read full article Comments",
+          "feed_position": 9,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/openai-math-apples-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/openai-math-apples-1152x648.jpg",
+      "popularity_score": 265.6909561111111,
+      "ai_summary": [
+        "OpenAI will implement age verification for ChatGPT erotica content, according to the CEO.",
+        "New tools will detect mental distress, while relaxing limits for adult content.",
+        "The company aims to balance user safety with creative expression.",
+        "This change follows discussions about content moderation and user safety.",
+        "The CEO believes these updates will improve the user experience."
+      ]
+    },
+    {
+      "id": "cluster_91",
+      "coverage": 1,
+      "updated_at": "Tue, 14 Oct 2025 18:24:53 +0000",
+      "title": "Google will let Gemini schedule meetings for you in Gmail",
+      "neutral_headline": "Google Gemini Will Schedule Meetings Directly Within Gmail",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/google/2025/10/gemini-can-now-help-schedule-meetings-in-gmail/",
+          "published_at": "Tue, 14 Oct 2025 18:24:53 +0000",
+          "title": "Google will let Gemini schedule meetings for you in Gmail",
+          "standfirst": "Help Me Schedule creates a meeting widget based on the context of your message.",
+          "content": "Meetings can be a real drain on productivity, but a new Gmail feature might at least cut down on the time you spend scheduling them. The company has announced \"Help Me Schedule\" is coming to Gmail, leveraging Gemini AI to recognize when you want to schedule a meeting and offering possible meeting times for the email recipient to choose. The new meeting feature is reminiscent of Magic Cue on Google's latest Pixel phones. As you type emails, Gmail will be able to recognize when you are planning a meeting. A Help Me Schedule button will appear in the toolbar. Upon clicking, Google's AI will swing into action and find possible meeting times that match the context of your message and are available in your calendar. When you engage with Help me schedule, the AI generates an in-line meeting widget for your message. The recipient can select the time that works for them, and that's it—the meeting is scheduled for both parties. What about meetings with more than one invitee? Google says the feature won't support groups at launch.Read full article Comments",
+          "feed_position": 19,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/Gemini-1-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/Gemini-1-1152x648.jpg",
+      "popularity_score": 160,
+      "ai_summary": [
+        "Google will integrate Gemini to schedule meetings within Gmail messages.",
+        "The \"Help Me Schedule\" feature uses message context to create meeting widgets.",
+        "This feature aims to streamline meeting coordination for users.",
+        "It will analyze email threads to suggest available times and dates.",
+        "The feature is designed to simplify scheduling complexities."
+      ]
+    },
+    {
+      "id": "cluster_63",
+      "coverage": 1,
+      "updated_at": "Wed, 15 Oct 2025 14:35:48 +0000",
+      "title": "Apple unveils M5 update for the 11- and 13-inch iPad Pros",
+      "neutral_headline": "Apple Introduces M5 Update for New 11- and 13-inch iPad Pros",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2025/10/apple-unveils-m5-update-for-the-11-and-13-inch-ipad-pros/",
+          "published_at": "Wed, 15 Oct 2025 14:35:48 +0000",
+          "title": "Apple unveils M5 update for the 11- and 13-inch iPad Pros",
+          "standfirst": "Leaks of the new tablet from a couple weeks ago appear to have been genuine.",
+          "content": "A couple of weeks ago, a YouTuber unboxed what appeared to be a refreshed iPad Pro in full retail packaging, suggesting it would be launching imminently. Today, Apple formally announced the new tablets, and it looks like pretty much everything uncovered by that YouTuber turned out to be accurate. The new iPad Pros, powered by Apple's also-new M5 chip, use the same basic designs as the M4 iPad Pros from last year and are compatible with the same cases and accessories. The new iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model, is available for pre-order today, and ships on October 22. Apple's M5 is similar in composition to the M4—the fully enabled version uses four high-performance CPU cores, six high-efficiency CPU cores, 10 GPU cores, and a 16-core Neural Engine. But a memory bandwidth increase, from 120GB/s for the M4 to 153GB/s for the M5, enables a 30 percent improvement in GPU performance and a 45 percent increase to ray-traced graphics performance, according to Apple's estimates. Apple's press release also highlighted improvements to storage performance, with \"up to 2x faster storage read and write speeds.\"Read full article Comments",
+          "feed_position": 10,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Apple-iPad-Pro-hero-251015-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Apple-iPad-Pro-hero-251015-1152x648.jpg",
+      "popularity_score": 152.039845,
+      "ai_summary": [
+        "Apple has unveiled the M5 update for the 11- and 13-inch iPad Pro models.",
+        "Leaks from a few weeks ago accurately predicted the new tablet's features.",
+        "The new iPads will likely feature performance improvements.",
+        "The M5 chip is expected to enhance the tablet's capabilities.",
+        "Apple continues to update its tablet product line with new technology."
+      ]
+    },
+    {
+      "id": "cluster_66",
+      "coverage": 1,
+      "updated_at": "Wed, 15 Oct 2025 14:03:55 +0000",
+      "title": "New Apple M5 is the centerpiece of an updated 14-inch MacBook Pro",
+      "neutral_headline": "New Apple M5 Powers Updated 14-inch MacBook Pro",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2025/10/new-apple-m5-is-the-centerpiece-of-an-updated-14-inch-macbook-pro/",
+          "published_at": "Wed, 15 Oct 2025 14:03:55 +0000",
+          "title": "New Apple M5 is the centerpiece of an updated 14-inch MacBook Pro",
+          "standfirst": "A 27.5% increase in memory bandwidth provides a big boost to GPU performance.",
+          "content": "Apple often releases a smaller second wave of new products in October after the dust settles from its September iPhone announcement, and this year that wave revolves around its brand-new M5 chip. The first Mac to get the new processor will be the new 14-inch MacBook Pro, which the company announced today on its press site alongside a new M5 iPad Pro and an updated version of the Vision Pro headset. But unlike the last couple MacBook Pro refreshes, Apple isn't ready with Pro and Max versions of the M5 for higher-end 14-inch MacBook Pros and 16-inch MacBook Pros. Those models will continue to use the M4 Pro and M4 Max for now, and we probably shouldn't expect an update for them until sometime next year. Aside from the M5, the 14-inch M5 MacBook Pro has essentially identical specs to the outgoing M4 version. It has a notched 14-inch screen with ProMotion support and a 3024×1964 resolution, three USB-C/Thunderbolt 4 ports, an HDMI port, an SD card slot, and a 12 MP Center Stage webcam. It still weighs 3.4 pounds, and Apple still estimates the battery should last for \"up to 16 hours\" of wireless web browsing and up to 24 hours of video streaming. The main internal difference is an option for a 4TB storage upgrade, which will run you $1,200 if you're upgrading from the base 512GB SSD.Read full article Comments",
+          "feed_position": 11,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Apple-MacBook-Pro-14-in-hero-251015-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Apple-MacBook-Pro-14-in-hero-251015-1152x648.jpg",
+      "popularity_score": 151.50845611111112,
+      "ai_summary": [
+        "The new Apple M5 chip is the centerpiece of the updated 14-inch MacBook Pro.",
+        "Memory bandwidth increases by 27.5%, boosting GPU performance significantly.",
+        "This update aims to improve the MacBook Pro's overall performance.",
+        "The new chip will likely enhance video editing and gaming capabilities.",
+        "Apple continues to focus on performance improvements in its laptops."
+      ]
+    },
+    {
+      "id": "cluster_69",
+      "coverage": 1,
+      "updated_at": "Wed, 15 Oct 2025 13:27:08 +0000",
+      "title": "With considerably less fanfare, Apple releases a second-generation Vision Pro",
+      "neutral_headline": "Apple Releases Second-Generation Vision Pro with Less Fanfare",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2025/10/with-considerably-less-fanfare-apple-releases-a-second-generation-vision-pro/",
+          "published_at": "Wed, 15 Oct 2025 13:27:08 +0000",
+          "title": "With considerably less fanfare, Apple releases a second-generation Vision Pro",
+          "standfirst": "Reports suggest that Apple has de-prioritized Vision Pro development internally.",
+          "content": "Apple's announcement of the Vision Pro headset in 2023 was pretty hyperbolic about the device's potential, even by Apple's standards. CEO Tim Cook called it \"the beginning of a new era for computing,\" placing the Vision Pro in the same industry-shifting echelon as the Mac and the iPhone. The Vision Pro could still eventually lead to a product that ushers in a new age of \"spatial computing.\" But it does seem like Apple is a bit less optimistic about the headset's current form—at least, that's one possible way to read the fact that the second-generation Vision Pro is being announced via press release, rather than as the centerpiece of a product event. The new Vision Pro is available for the same $3,499 as the first model, which will likely continue to limit the headset's appeal outside of a die-hard community of early adopters and curious developers. It's available for pre-order today and ships on October 22.Read full article Comments",
+          "feed_position": 13,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Apple-Vision-Pro-hero-251015-1-1152x648.jpeg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Apple-Vision-Pro-hero-251015-1-1152x648.jpeg",
+      "popularity_score": 150.89540055555557,
+      "ai_summary": [
+        "Apple released a second-generation Vision Pro with less public attention.",
+        "Reports suggest Apple has reduced the priority of Vision Pro development.",
+        "The company may be reevaluating its strategy for the product.",
+        "This release may indicate a shift in Apple's focus.",
+        "The Vision Pro's future remains uncertain based on reports."
+      ]
+    },
+    {
+      "id": "cluster_87",
+      "coverage": 1,
+      "updated_at": "Tue, 14 Oct 2025 19:58:38 +0000",
+      "title": "DirecTV screensavers will show AI-generated ads with your face in 2026",
+      "neutral_headline": "DirecTV Screensavers Will Display AI-Generated Ads in 2026",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2025/10/directv-screensavers-will-show-ai-generated-ads-with-your-face-in-2026/",
+          "published_at": "Tue, 14 Oct 2025 19:58:38 +0000",
+          "title": "DirecTV screensavers will show AI-generated ads with your face in 2026",
+          "standfirst": "Like other companies with streaming businesses, DirecTV is leaning into ads more.",
+          "content": "As if DirecTV doesn't have enough trouble keeping customers, the satellite TV provider's streaming devices will show AI-generated screensaver ads next year, according to an announcement today from partnering ads company Glance. People who use either of DirecTV’s two Gemini streaming devices will start seeing the ads “in early 2026,” per the announcement. DirecTV’s Gemini Air is an Android TV-powered USB device that people can plug into a TV for access to live TV channels, as well as streaming apps. Gemini Air doesn’t require a DirecTV satellite connection, and DirecTV gives all of its Internet customers the device. DirecTV first started selling Gemini devices in 2023, when it launched a separate Gemini set-top box that connects through DirecTV satellite setups. DirecTV made an agreement with Glance to show AI-generated content and ads on Gemini devices' screensavers. Currently, Gemini devices show Google wallpapers as screensavers, which are on by default. When the new screensavers launch, Glance's AI content will show if the TV is idle for 10 minutes, The Verge reported.Read full article Comments",
+          "feed_position": 18,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GEMINI-AIR_0-1152x648-1760468257.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GEMINI-AIR_0-1152x648-1760468257.jpg",
+      "popularity_score": 148,
+      "ai_summary": [
+        "DirecTV will show AI-generated ads with user faces in its screensavers by 2026.",
+        "The company is increasing its focus on advertising revenue.",
+        "This move reflects a trend among streaming businesses.",
+        "The ads will likely be personalized for viewers.",
+        "DirecTV aims to generate more revenue through advertising."
+      ]
+    },
+    {
+      "id": "cluster_70",
+      "coverage": 1,
+      "updated_at": "Wed, 15 Oct 2025 13:00:23 +0000",
+      "title": "ROG Xbox Ally X: The Ars Technica review",
+      "neutral_headline": "Ars Technica Reviews the ROG Xbox Ally X Portable Gaming Device",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gaming/2025/10/rog-xbox-ally-x-the-ars-technica-review/",
+          "published_at": "Wed, 15 Oct 2025 13:00:23 +0000",
+          "title": "ROG Xbox Ally X: The Ars Technica review",
+          "standfirst": "The first portable “Xbox” fails to unify a messy world of competing PC gaming platforms.",
+          "content": "Here at Ars, we have been writing about rumors of a portable Xbox for literal decades now. With the ROG Xbox Ally, Microsoft has finally made those rumors a reality in the weirdest, most Microsoft way possible. Yes, the $600 ROG Xbox Ally—and its souped-up cousin, the $1,000, ridiculous-mouthful-of-a-name ROG Xbox Ally X, which we tested—are the first official handheld hardware to sport the Xbox brand name. But Microsoft isn’t taking the exclusive-heavy, walled garden software approach that it has been committed to for nearly 25 years of Xbox home consoles. Instead, the ROG Xbox Ally is, at its base, simply a new version of Asus’ Windows-based ROG Ally line with an Xbox-flavored coat of paint. That coat of paint—what Microsoft is calling the Xbox Full-screen Experience (FSE)—represents the company’s belated attempt to streamline the Windows gaming experience to be a bit more console-like in terms of user interface and overall simplicity. While that’s a worthy vision, the execution in these early days is so spotty and riddled with annoyances that it’s hard to recommend over the SteamOS-based competition.Read full article Comments",
+          "feed_position": 14,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/rogpromo-1152x648-1760476814.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/rogpromo-1152x648-1760476814.jpg",
+      "popularity_score": 146.4495672222222,
+      "ai_summary": [
+        "The Ars Technica review covers the ROG Xbox Ally X portable gaming device.",
+        "The device struggles to unify competing PC gaming platforms.",
+        "The review highlights the challenges of the portable \"Xbox\" concept.",
+        "The device aims to provide a portable gaming experience.",
+        "The review assesses the device's performance and usability."
+      ]
+    },
+    {
+      "id": "cluster_67",
+      "coverage": 1,
+      "updated_at": "Wed, 15 Oct 2025 13:37:01 +0000",
+      "title": "Believing misinformation is a “win” for some people, even when proven false",
+      "neutral_headline": "Misinformation Acceptance Can Be a \"Win\" for Some Individuals",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/science/2025/10/believing-misinformation-is-a-win-for-some-people-even-when-proven-false/",
+          "published_at": "Wed, 15 Oct 2025 13:37:01 +0000",
+          "title": "Believing misinformation is a “win” for some people, even when proven false",
+          "standfirst": "\"Winning\" means prioritizing independence from outside influence over being right.",
+          "content": "Why do some people endorse claims that can easily be disproved? It’s one thing to believe false information, but another to actively stick with something that’s obviously wrong. Our new research, published in the Journal of Social Psychology, suggests that some people consider it a “win” to lean in to known falsehoods. We are social psychologists who study political psychology and how people reason about reality. During the pandemic, we surveyed 5,535 people across eight countries to investigate why people believed COVID-19 misinformation, like false claims that 5G networks cause the virus.Read full article Comments",
+          "feed_position": 12,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/womanmask-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/womanmask-1152x648.jpg",
+      "popularity_score": 145.0601227777778,
+      "ai_summary": [
+        "Some people prioritize independence from outside influence over factual accuracy.",
+        "Believing misinformation can be a \"win\" for these individuals.",
+        "This behavior is often linked to a desire for autonomy.",
+        "The focus is on maintaining a sense of control.",
+        "This phenomenon highlights the complexities of belief formation."
+      ]
+    },
+    {
+      "id": "cluster_83",
+      "coverage": 1,
+      "updated_at": "Tue, 14 Oct 2025 21:17:49 +0000",
+      "title": "NATO boss mocks Russian navy, which is on the hunt for Red October “the nearest mechanic”",
+      "neutral_headline": "NATO Leader Comments on Russian Navy's Submarine Incident",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/security/2025/10/nato-boss-mocks-russian-navy-which-is-on-the-hunt-for-red-october-the-nearest-mechanic/",
+          "published_at": "Tue, 14 Oct 2025 21:17:49 +0000",
+          "title": "NATO boss mocks Russian navy, which is on the hunt for Red October “the nearest mechanic”",
+          "standfirst": "A Russian sub surfaces off of Western Europe. Is it damaged?",
+          "content": "When one of its Kilo-class diesel-electric submarines recently surfaced off the coast of France, Russia denied that there was a problem with the vessel. The sub was simply surfacing to comply with maritime transit rules governing the English Channel, the Kremlin said—Russia being, of course, a noted follower of international law. But social media accounts historically linked to Russian security forces suggested a far more serious problem on the submarine Novorossiysk. According to The Maritime Executive, \"Rumors began to circulate on well-informed social media channels that the Novorossiysk had suffered a fuel leak. They suggested the vessel lacked onboard capabilities and was forced to surface to empty flooded compartments. Some reports said it was a dangerous fuel leak aboard the vessel, which was commissioned in 2012.\" France 24 quoted further social media reports as saying, \"The submarine has neither the spare parts nor the qualified specialists onboard to fix the malfunction,\" and it \"now poses an explosion hazard.\"Read full article Comments",
+          "feed_position": 15,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/french-ships-shadows-russian-sub-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/french-ships-shadows-russian-sub-1152x648.jpg",
+      "popularity_score": 133,
+      "ai_summary": [
+        "The NATO boss mocked the Russian navy's submarine incident.",
+        "A Russian submarine surfaced near Western Europe.",
+        "The incident raises questions about the submarine's condition.",
+        "The submarine may have experienced mechanical issues.",
+        "The situation highlights tensions in the region."
+      ]
+    },
+    {
+      "id": "cluster_84",
+      "coverage": 1,
+      "updated_at": "Tue, 14 Oct 2025 21:01:50 +0000",
+      "title": "Feds seize $15 billion from alleged forced labor scam built on “human suffering”",
+      "neutral_headline": "Federal Authorities Seize $15 Billion in Forced Labor Scam",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2025/10/feds-seize-15-billion-from-alleged-forced-labor-scam-built-on-human-suffering/",
+          "published_at": "Tue, 14 Oct 2025 21:01:50 +0000",
+          "title": "Feds seize $15 billion from alleged forced labor scam built on “human suffering”",
+          "standfirst": "Scams like this one net billions from well-educated victims.",
+          "content": "Federal prosecutors have seized $15 billion from the alleged kingpin of an operation that used imprisoned laborers to trick unsuspecting people into making investments in phony funds, often after spending months faking romantic relationships with the victims. Such \"pig butchering\" scams have operated for years. They typically work when members of the operation initiate conversations with people on social media and then spend months messaging them. Often, the scammers pose as attractive individuals who feign romantic interest for the victim. Forced labor, phone farms, and human suffering Eventually, conversations turn to phony investment funds with the end goal of convincing the victim to transfer large amounts of bitcoin. In many cases, the scammers are trafficked and held against their will in compounds surrounded by fences and barbed wire.Read full article Comments",
+          "feed_position": 16,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/bitcoin-romance-pig-butchering-scam-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/bitcoin-romance-pig-butchering-scam-1152x648.jpg",
+      "popularity_score": 133,
+      "ai_summary": [
+        "Federal authorities seized $15 billion from a forced labor scam.",
+        "The scam was built on \"human suffering\" according to reports.",
+        "Scams like this one target well-educated victims.",
+        "The victims lost significant amounts of money.",
+        "Authorities are working to combat these fraudulent schemes."
+      ]
+    },
+    {
+      "id": "cluster_85",
+      "coverage": 1,
+      "updated_at": "Tue, 14 Oct 2025 20:44:02 +0000",
+      "title": "Trump admin pressured Facebook into removing ICE-tracking group",
+      "neutral_headline": "Trump Administration Pressured Facebook to Remove ICE Group",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2025/10/trump-admin-pressured-facebook-into-removing-ice-tracking-group/",
+          "published_at": "Tue, 14 Oct 2025 20:44:02 +0000",
+          "title": "Trump admin pressured Facebook into removing ICE-tracking group",
+          "standfirst": "Pam Bondi claims Facebook group was used to “dox and target” ICE agents.",
+          "content": "Attorney General Pam Bondi today said that Facebook removed an ICE-tracking group after \"outreach\" from the Department of Justice. \"Today following outreach from @thejusticedept, Facebook removed a large group page that was being used to dox and target @ICEgov agents in Chicago,\" Bondi wrote in an X post. Bondi alleged that a \"wave of violence against ICE has been driven by online apps and social media campaigns designed to put ICE officers at risk just for doing their jobs.\" She added that the DOJ \"will continue engaging tech companies to eliminate platforms where radicals can incite imminent violence against federal law enforcement.\" When contacted by Ars, Facebook owner Meta said the group \"was removed for violating our policies against coordinated harm.\" Meta didn't describe any specific violation but directed us to a policy against \"coordinating harm and promoting crime,\" which includes a prohibition against \"outing the undercover status of law enforcement, military, or security personnel.\"Read full article Comments",
+          "feed_position": 17,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/zuckerberg-trump-1152x648-1760473002.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/zuckerberg-trump-1152x648-1760473002.jpg",
+      "popularity_score": 133,
+      "ai_summary": [
+        "The Trump administration pressured Facebook to remove an ICE-tracking group.",
+        "Pam Bondi claimed the group was used to target ICE agents.",
+        "The group allegedly facilitated doxing of ICE personnel.",
+        "This action reflects political tensions surrounding immigration.",
+        "The situation highlights the role of social media in political discourse."
       ]
     }
   ]
