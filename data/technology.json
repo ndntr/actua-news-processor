@@ -1,50 +1,41 @@
 {
-  "updated_at": "2025-10-18T03:23:38.561Z",
+  "updated_at": "2025-10-18T07:11:31.407Z",
   "clusters": [
     {
-      "id": "cluster_1",
-      "coverage": 2,
-      "updated_at": "2025-10-17T20:15:30-04:00",
-      "title": "Facebook’s new button lets its AI look at photos you haven&#8217;t uploaded yet",
-      "neutral_headline": "Facebook AI Suggests Edits for Phone Photos",
+      "id": "cluster_0",
+      "coverage": 1,
+      "updated_at": "2025-10-18T07:11:31.298Z",
+      "title": "Yes, everything online sucks now—but it doesn’t have to",
+      "neutral_headline": "Online Experiences Face Challenges, Potential for Improvement",
       "bullet_summary": [
-        "Reported by The Verge, TechCrunch"
+        "Reported by Ars Technica"
       ],
       "items": [
         {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/802102/meta-facebook-opt-in-ai-edits-photos-camera-roll",
-          "published_at": "2025-10-17T20:15:30-04:00",
-          "title": "Facebook’s new button lets its AI look at photos you haven&#8217;t uploaded yet",
-          "standfirst": "Meta has rolled out an opt-in AI feature to its US and Canadian Facebook users that claims to make their photos and videos more &#8220;shareworthy.&#8221; The only catch is that the feature is designed for your phone’s camera roll — not the media you’ve already uploaded to Facebook. If you opt in, Meta’s AI will [&#8230;]",
-          "content": "Meta has rolled out an opt-in AI feature to its US and Canadian Facebook users that claims to make their photos and videos more &#8220;shareworthy.&#8221; The only catch is that the feature is designed for your phone’s camera roll — not the media you’ve already uploaded to Facebook. If you opt in, Meta’s AI will comb through your camera roll, upload your unpublished photos to Meta’s cloud, and surface “hidden gems” that are “lost among screenshots, receipts, and random snaps,” the company says. Users will be able to save or share the suggested edits and collages. If Facebook wanting to look at your unpublished photos sounds familiar, it might be because we wrote about an early test in June. At that time, the company claimed unposted, private photos were not being used to train Meta’s AI, but it declined to rule out whether it would do so in the future. Well, the future is now, and it sure sounds like Meta wants to train its AI on your photos — under certain conditions. In the Friday announcement of the feature, Meta says, “We don’t use media from your camera roll to improve AI at Meta, unless you choose to edit this media with our AI tools, or share.” The Verge asked Meta to confirm: Meta will use your camera roll to train its AI if you choose to use this feature, right? We also asked for clarification on when Meta begins using your unpublished photos to train its AI. Does it happen when you opt into the new feature? After you choose to edit something with the tool? Or only after you choose to share the resulting creation? Meta spokesperson Mari Melguizo sent us the following clarification: “This means the camera roll media uploaded by this feature to make suggestions won’t be used to improve AI at Meta. Only if you edit the suggestions with our AI tools or publish those suggestions to Facebook, improvements to AI at Meta may be made.” So, Meta will collect and store your photos in the cloud and Meta’s AI will get to look at them, but the company won’t use them to train their AI unless you take an additional action — at least for now, according to Meta. Today, the feature says it will “select media from your camera roll and upload it to our cloud on an ongoing basis”; in June, Meta told us that it might hold onto some of that data for longer than 30 days. The company claims your media “won’t be used for ad targeting.” Last year, Meta acknowledged that it had already quietly trained its AI models on all public photos and text posted to Facebook and Instagram by adult users since 2007. Facebook’s blog today shows that users will be asked if they want to “allow cloud processing to get creative ideas made for you from your camera roll.” It’s not yet clear if that prompt will also warn users that the feature may train Meta’s AI on your photos. The company says the feature is meant to help users who enjoy snapping pics but want to improve their photos before posting, or who don&#8217;t have time to “create something special.” Facebook says it’ll roll out the feature in the coming months.",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2025/10/yes-everything-online-sucks-now-but-it-doesnt-have-to/",
+          "published_at": "2025-10-18T07:11:31.298Z",
+          "title": "Yes, everything online sucks now—but it doesn’t have to",
+          "standfirst": "",
+          "content": "",
           "feed_position": 0
-        },
-        {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2025/10/17/facebooks-ai-can-now-suggest-edits-to-the-photos-still-on-your-phone/",
-          "published_at": "Fri, 17 Oct 2025 17:29:47 +0000",
-          "title": "Facebook&#8217;s AI can now suggest edits to the photos still on your phone",
-          "standfirst": "Facebook is rolling out a new Meta AI photo suggestion feature across the U.S. and Canada that lets its AI recommend edits to images stored on users’ camera rolls — even if they haven’t been shared. The feature is currently opt-in only.",
-          "content": "Facebook is rolling out a new Meta AI photo suggestion feature across the U.S. and Canada that lets its AI recommend edits to images stored on users’ camera rolls — even if they haven’t been shared. The feature is currently opt-in only.",
-          "feed_position": 5
         }
       ],
-      "popularity_score": 2016.864288611111,
+      "popularity_score": 358.9999697222222,
       "ai_summary": [
-        "Meta is rolling out an AI feature for Facebook users.",
-        "The feature is available in the US and Canada.",
-        "It suggests edits for photos on camera rolls.",
-        "The feature is opt-in only for users.",
-        "The AI aims to make photos more shareworthy."
+        "Online platforms and user experiences are currently facing various issues.",
+        "The article suggests that the current state of the internet is not ideal.",
+        "It proposes that improvements and positive changes are possible.",
+        "The piece likely discusses specific problems and potential solutions.",
+        "The focus is on enhancing the overall quality of online interactions."
       ]
     },
     {
-      "id": "cluster_5",
+      "id": "cluster_1",
       "coverage": 1,
-      "updated_at": "Fri, 17 Oct 2025 22:14:59 +0000",
+      "updated_at": "2025-10-18T07:11:31.298Z",
       "title": "With deadline looming, 4 of 9 universities reject Trump’s “compact” to remake higher ed",
-      "neutral_headline": "Universities Reject Trump's Higher Education Compact, Pressure Continues",
+      "neutral_headline": "Universities Reject Trump's Higher Education Compact Proposal",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -52,30 +43,28 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/culture/2025/10/with-deadline-looming-4-of-9-universities-reject-trumps-compact-to-remake-higher-ed/",
-          "published_at": "Fri, 17 Oct 2025 22:14:59 +0000",
+          "published_at": "2025-10-18T07:11:31.298Z",
           "title": "With deadline looming, 4 of 9 universities reject Trump’s “compact” to remake higher ed",
-          "standfirst": "But Trump is pressuring the other five.",
-          "content": "Earlier this month, the Trump administration made nine elite universities an offer they couldn’t refuse: bring in more conservatives while shutting down “institutional units that purposefully punish, belittle, and even spark violence against conservative ideas,” give up control of admissions and hiring decisions, agree to “biological” definitions of sex and gender, don’t raise tuition for five years, clamp down on student protests, and stay institutionally “neutral” on current events. Do this and you won’t be cut off from “federal benefits,” which could include research funding, student loans, federal contracts, and even student and faculty immigration visas. Instead, you may gain “substantial and meaningful federal grants.” But the universities are refusing. With the initial deadline of October 20 approaching, four of the nine universities—the University of Pennsylvania, Brown, University of Southern California, and MIT—that received the federal “compact” have announced that they will not sign it. In addition, the American Council on Education, which represents more than 1,600 colleges and universities, today issued a statement calling for the compact to be completely withdrawn.Read full article Comments",
-          "feed_position": 0,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-588709290-1152x648.jpg"
+          "standfirst": "",
+          "content": "",
+          "feed_position": 1
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-588709290-1152x648.jpg",
-      "popularity_score": 347.8556775,
+      "popularity_score": 342.9999697222222,
       "ai_summary": [
-        "Four of nine universities rejected Trump's proposed higher education compact.",
-        "The Trump administration is reportedly pressuring the remaining five universities.",
-        "The compact aims to reshape the landscape of higher education.",
-        "Details of the compact's specific provisions remain largely undisclosed.",
-        "The deadline for university acceptance is fast approaching."
+        "Four out of nine universities declined Trump's higher education proposal.",
+        "The deadline for accepting the compact was approaching for the institutions.",
+        "The proposal aimed to reshape the landscape of higher education.",
+        "The compact's specifics and the reasons for rejection are discussed.",
+        "The article analyzes the implications of the universities' decisions."
       ]
     },
     {
-      "id": "cluster_6",
+      "id": "cluster_2",
       "coverage": 1,
-      "updated_at": "Fri, 17 Oct 2025 22:02:54 +0000",
+      "updated_at": "2025-10-18T07:11:31.298Z",
       "title": "Vaginal condition treatment update: Men should get treated, too",
-      "neutral_headline": "Bacterial Vaginosis Treatment Update Includes Partner Treatment",
+      "neutral_headline": "Treatment for Vaginal Conditions Should Include Male Partners",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -83,93 +72,57 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/health/2025/10/vaginal-condition-treatment-update-men-should-get-treated-too/",
-          "published_at": "Fri, 17 Oct 2025 22:02:54 +0000",
+          "published_at": "2025-10-18T07:11:31.298Z",
           "title": "Vaginal condition treatment update: Men should get treated, too",
-          "standfirst": "For bacterial vaginosis, partners are part of the problem—and the solution.",
-          "content": "For some cases of bacterial vaginosis, treatment should include a package deal, doctors now say. The American College of Obstetricians & Gynecologists (ACOG) updated its clinical guidance Friday to fit with recent data indicating that treatment for recurring bacterial vaginosis (BV) in women is significantly more effective if their male partners are also treated at the same time—with both an oral antibiotic and an antibiotic cream directly onto the potentially offending member. “Partner therapy offers us another avenue for hopefully preventing recurrence and helping people feel better faster,” Christopher Zahn, chief of clinical practice and health equity and quality at ACOG, said in a statement.Read full article Comments",
-          "feed_position": 1,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2185753669-1152x648.jpg"
+          "standfirst": "",
+          "content": "",
+          "feed_position": 2
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2185753669-1152x648.jpg",
-      "popularity_score": 337.6542886111111,
+      "popularity_score": 332.9999697222222,
       "ai_summary": [
-        "Bacterial vaginosis treatment should include treatment for male partners.",
-        "Partners are part of the problem and also part of the solution.",
-        "This approach aims to reduce recurrence of the vaginal condition.",
-        "The article emphasizes the importance of comprehensive treatment strategies.",
-        "The update focuses on improving treatment outcomes for all involved."
+        "The article provides an update on the treatment of vaginal conditions.",
+        "It emphasizes the importance of treating male partners as well.",
+        "This approach aims to prevent recurrence and improve outcomes.",
+        "The piece likely discusses specific conditions and treatment protocols.",
+        "The focus is on a comprehensive approach to healthcare."
       ]
     },
     {
-      "id": "cluster_7",
+      "id": "cluster_3",
       "coverage": 1,
-      "updated_at": "Fri, 17 Oct 2025 21:50:10 +0000",
+      "updated_at": "2025-10-18T07:11:31.298Z",
       "title": "Ring cameras are about to get increasingly chummy with law enforcement",
-      "neutral_headline": "Ring Cameras Partner with Company Used by Law Enforcement",
+      "neutral_headline": "Ring Cameras to Increase Collaboration with Law Enforcement",
       "bullet_summary": [
-        "Amazon's Ring partners with company whose tech has reportedly been used by ICE",
         "Reported by Ars Technica"
       ],
       "items": [
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/gadgets/2025/10/ring-cameras-are-about-to-get-increasingly-chummy-with-law-enforcement/",
-          "published_at": "Fri, 17 Oct 2025 21:50:10 +0000",
+          "published_at": "2025-10-18T07:11:31.298Z",
           "title": "Ring cameras are about to get increasingly chummy with law enforcement",
-          "standfirst": "Amazon's Ring partners with company whose tech has reportedly been used by ICE.",
-          "content": "Law enforcement agencies will soon have easier access to footage captured by Amazon’s Ring smart cameras. In a partnership announced this week, Amazon will allow approximately 5,000 local law enforcement agencies to request access to Ring camera footage via surveillance platforms from Flock Safety. Ring cooperating with law enforcement and the reported use of Flock technologies by federal agencies, including US Immigration and Customs Enforcement (ICE), has resurfaced privacy concerns that have followed the devices for years. According to Flock’s announcement, its Ring partnership allows local law enforcement members to use Flock software “to send a direct post in the Ring Neighbors app with details about the investigation and request voluntary assistance.” Requests must include “specific location and timeframe of the incident, a unique investigation code, and details about what is being investigated,” and users can look at the requests anonymously, Flock said. “Any footage a Ring customer chooses to submit will be securely packaged by Flock and shared directly with the requesting local public safety agency through the FlockOS or Flock Nova platform,” the announcement reads.Read full article Comments",
-          "feed_position": 2,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/20250611-lifestyle-outdoorcampro-plugin-home-exterior-wall-wht-rgb-1152x648.jpg"
+          "standfirst": "",
+          "content": "",
+          "feed_position": 3
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/20250611-lifestyle-outdoorcampro-plugin-home-exterior-wall-wht-rgb-1152x648.jpg",
-      "popularity_score": 327.44206638888886,
+      "popularity_score": 322.9999697222222,
       "ai_summary": [
-        "Amazon's Ring is partnering with a company that has worked with ICE.",
-        "The partnership could increase Ring's integration with law enforcement.",
-        "The technology involved has reportedly been used for surveillance purposes.",
-        "This collaboration raises concerns about privacy and data sharing.",
-        "The implications of this partnership are still unfolding."
+        "Ring cameras are expanding their partnerships with law enforcement agencies.",
+        "This collaboration will likely involve sharing video footage.",
+        "The article explores the implications of this increased cooperation.",
+        "It may discuss privacy concerns and data security issues.",
+        "The focus is on the evolving relationship between technology and policing."
       ]
     },
     {
-      "id": "cluster_20",
+      "id": "cluster_4",
       "coverage": 1,
-      "updated_at": "Fri, 17 Oct 2025 18:36:18 +0000",
-      "title": "Dead Ends is a fun, macabre medical history for kids",
-      "neutral_headline": "New Children's Book Explores Macabre Medical History",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2025/10/dead-ends-is-a-fun-macabre-medical-history-for-kids/",
-          "published_at": "Fri, 17 Oct 2025 18:36:18 +0000",
-          "title": "Dead Ends is a fun, macabre medical history for kids",
-          "standfirst": "Ars chats with co-authors Lindsey Fitzharris and Adrian Teal about their delightful new children's book.",
-          "content": "In 1890, a German scientist named Robert Koch thought he’d invented a cure for tuberculosis, a substance derived from the infecting bacterium itself that he dubbed Tuberculin. His substance didn’t actually cure anyone, but it was eventually widely used as a diagnostic skin test. Koch’s successful failure is just one of the many colorful cases featured in Dead Ends! Flukes, Flops, and Failures that Sparked Medical Marvels, a new nonfiction illustrated children’s book by science historian Lindsey Fitzharris and her husband, cartoonist Adrian Teal. A noted science communicator with a fondness for the medically macabre, Fitzharris published a biography of surgical pioneer Joseph Lister, The Butchering Art, in 2017—a great, if occasionally grisly, read. She followed up with 2022’s The Facemaker: A Visionary Surgeon’s Battle to Mend the Disfigured Soldiers of World War I, about a WWI surgeon named Harold Gillies who rebuilt the faces of injured soldiers. And in 2020, she hosted a documentary for the Smithsonian Channel, The Curious Life and Death Of…, exploring famous deaths, ranging from drug lord Pablo Escobar to magician Harry Houdini. Fitzharris performed virtual autopsies, experimented with blood samples, interviewed witnesses, and conducted real-time demonstrations in hopes of gleaning fresh insights. For his part, Teal is a well-known caricaturist and illustrator, best known for his work on the British TV series Spitting Image. His work has also appeared in The Guardian and the Sunday Telegraph, among other outlets.Read full article Comments",
-          "feed_position": 3,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/deadends4-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/deadends4-1152x648.jpg",
-      "popularity_score": 314.21095527777777,
-      "ai_summary": [
-        "A new children's book, \"Dead Ends,\" explores medical history.",
-        "The book is co-authored by Lindsey Fitzharris and Adrian Teal.",
-        "The book aims to make medical history accessible to children.",
-        "The book's tone is described as fun and macabre.",
-        "The authors discuss the book's creation and content."
-      ]
-    },
-    {
-      "id": "cluster_24",
-      "coverage": 1,
-      "updated_at": "Fri, 17 Oct 2025 17:55:19 +0000",
+      "updated_at": "2025-10-18T07:11:31.298Z",
       "title": "Big Tech sues Texas, says age-verification law is “broad censorship regime”",
-      "neutral_headline": "Big Tech Sues Texas Over Age-Verification Law",
+      "neutral_headline": "Big Tech Companies Sue Texas Over Age Verification Law",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -177,30 +130,28 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/tech-policy/2025/10/big-tech-sues-texas-says-age-verification-law-is-broad-censorship-regime/",
-          "published_at": "Fri, 17 Oct 2025 17:55:19 +0000",
+          "published_at": "2025-10-18T07:11:31.298Z",
           "title": "Big Tech sues Texas, says age-verification law is “broad censorship regime”",
-          "standfirst": "Texas app law compared to checking IDs at bookstores and shopping malls.",
-          "content": "Texas is being sued by a Big Tech lobby group over the state’s new law that will require app stores to verify users’ ages and impose restrictions on users under 18. “The Texas App Store Accountability Act imposes a broad censorship regime on the entire universe of mobile apps,” the Computer & Communications Industry Association (CCIA) said yesterday in a lawsuit. “In a misguided attempt to protect minors, Texas has decided to require proof of age before anyone with a smartphone or tablet can download an app. Anyone under 18 must obtain parental consent for every app and in-app purchase they try to download—from ebooks to email to entertainment.” The CCIA said in a press release that the law violates the First Amendment by imposing “a sweeping age-verification, parental consent, and compelled speech regime on both app stores and app developers.” When app stores determine that a user is under 18, “the law prohibits them from downloading virtually all apps and software programs and from making any in-app purchases unless their parent consents and is given control over the minor’s account,” the CCIA said. “Minors who are unable to link their accounts with a parent’s or guardian’s, or who do not receive permission, would be prohibited from accessing app store content.”Read full article Comments",
-          "feed_position": 4,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/boy-with-phone-1152x648-1760722441.jpg"
+          "standfirst": "",
+          "content": "",
+          "feed_position": 4
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/boy-with-phone-1152x648-1760722441.jpg",
-      "popularity_score": 303.52789972222223,
+      "popularity_score": 312.9999697222222,
       "ai_summary": [
-        "Big Tech companies are suing Texas over a new age-verification law.",
-        "The companies claim the law constitutes a \"broad censorship regime.\"",
-        "The law is compared to requiring IDs at bookstores and shopping malls.",
-        "The lawsuit challenges the constitutionality of the Texas law.",
-        "The legal battle could have significant implications for online content."
+        "Major technology companies are suing Texas over an age verification law.",
+        "They claim the law constitutes a \"broad censorship regime.\"",
+        "The lawsuit challenges the constitutionality of the legislation.",
+        "The article details the specific arguments made by the companies.",
+        "The focus is on the legal battle over online content regulation."
       ]
     },
     {
-      "id": "cluster_26",
+      "id": "cluster_5",
       "coverage": 1,
-      "updated_at": "Fri, 17 Oct 2025 17:14:03 +0000",
+      "updated_at": "2025-10-18T07:11:31.298Z",
       "title": "Teen sues to destroy the nudify app that left her in constant fear",
-      "neutral_headline": "Teen Sues to Destroy Nudify App, Citing Constant Fear",
+      "neutral_headline": "Teenager Sues to Remove Nudify App After Experiencing Fear",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -208,30 +159,28 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/tech-policy/2025/10/teen-haunted-by-fake-nudes-sues-to-kill-nudify-app-block-telegram-bots/",
-          "published_at": "Fri, 17 Oct 2025 17:14:03 +0000",
+          "published_at": "2025-10-18T07:11:31.298Z",
           "title": "Teen sues to destroy the nudify app that left her in constant fear",
-          "standfirst": "Lawsuit accuses nudify apps of training on teen victims' images.",
-          "content": "One of the earliest teen victims bullied by fake nudes has sued to destroy the app she said left her living in “constant fear.” In her complaint, the teen—who was granted anonymity as a 17-year-old minor—accused ClothOff of intentionally making it easy to generate and distribute child sexual abuse materials (CSAM), as well as nonconsensual intimate images (NCII) of adults. She also alleged that the social media network Telegram helps promote ClothOff through automated bots that have attracted hundreds of thousands of subscribers. ClothOff’s operation, the teen alleged, goes beyond promoting a single app, which can be used for free to turn an ordinary Instagram photo into CSAM or NCII in “three clicks.”Read full article Comments",
-          "feed_position": 5,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1204474749-1152x648.jpg"
+          "standfirst": "",
+          "content": "",
+          "feed_position": 5
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1204474749-1152x648.jpg",
-      "popularity_score": 292.84012194444443,
+      "popularity_score": 302.9999697222222,
       "ai_summary": [
-        "A teenager is suing to destroy the \"nudify\" app.",
-        "The lawsuit accuses the app of training on teen victims' images.",
-        "The app allegedly generates nude images of individuals.",
-        "The lawsuit claims the app caused the teen constant fear.",
-        "The case highlights the dangers of AI-generated content."
+        "A teenager is suing to remove the \"nudify\" application.",
+        "The app caused the teenager to live in constant fear.",
+        "The lawsuit seeks to address the app's harmful effects.",
+        "The article explores the legal basis for the lawsuit.",
+        "The focus is on the impact of the app and the legal recourse."
       ]
     },
     {
-      "id": "cluster_27",
+      "id": "cluster_6",
       "coverage": 1,
-      "updated_at": "Fri, 17 Oct 2025 16:54:32 +0000",
+      "updated_at": "2025-10-18T07:11:31.298Z",
       "title": "NASA’s next Moonship reaches last stop before launch pad",
-      "neutral_headline": "NASA's Moonship Reaches Final Stop Before Launch Pad",
+      "neutral_headline": "NASA's Moonship Arrives at Launch Pad Preparation Location",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -239,28 +188,26 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/space/2025/10/nasas-next-moonship-reaches-last-stop-before-launch-pad/",
-          "published_at": "Fri, 17 Oct 2025 16:54:32 +0000",
+          "published_at": "2025-10-18T07:11:31.298Z",
           "title": "NASA’s next Moonship reaches last stop before launch pad",
-          "standfirst": "Preparations for the Artemis II mission continue despite the federal government shutdown.",
-          "content": "The Orion spacecraft, which will fly four people around the Moon, arrived inside the cavernous Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida late Thursday night, ready to be stacked on top of its rocket for launch early next year. The late-night transfer covered about 6 miles (10 kilometers) from one facility to another at the Florida spaceport. NASA and its contractors are continuing preparations for the Artemis II mission after the White House approved the program as an exception to work through the ongoing government shutdown, which began on October 1. The sustained work could set up Artemis II for a launch opportunity as soon as February 5 of next year. Astronauts Reid Wiseman, Victor Glover, Christina Koch, and Jeremy Hansen will be the first humans to fly on the Orion spacecraft, a vehicle that has been in development for nearly two decades. The Artemis II crew will make history on their 10-day flight by becoming the first people to travel to the vicinity of the Moon since 1972.Read full article Comments",
-          "feed_position": 6,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/orion_transfer_artii-1152x648.jpg"
+          "standfirst": "",
+          "content": "",
+          "feed_position": 6
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/orion_transfer_artii-1152x648.jpg",
-      "popularity_score": 282.51484416666665,
+      "popularity_score": 292.9999697222222,
       "ai_summary": [
-        "NASA's next Moonship is at its final stop before the launch pad.",
-        "Preparations are underway for the Artemis II mission.",
-        "The federal government shutdown has not halted preparations.",
-        "The Artemis II mission aims to send astronauts to the Moon.",
-        "The launch date is still pending, but preparations continue."
+        "NASA's next Moonship has reached its final destination.",
+        "The location is the launch pad, in preparation for liftoff.",
+        "The article details the final steps before the launch.",
+        "The Moonship is part of NASA's Artemis program.",
+        "The focus is on the progress of the space exploration mission."
       ]
     },
     {
-      "id": "cluster_30",
+      "id": "cluster_7",
       "coverage": 1,
-      "updated_at": "Fri, 17 Oct 2025 16:27:02 +0000",
+      "updated_at": "2025-10-18T07:11:31.298Z",
       "title": "12 years of HDD analysis brings insight to the bathtub curve’s reliability",
       "neutral_headline": "HDD Analysis Reveals Insights into Reliability Over Time",
       "bullet_summary": [
@@ -270,62 +217,57 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/gadgets/2025/10/backblaze-owner-of-317230-hdds-says-hdds-are-lasting-longer/",
-          "published_at": "Fri, 17 Oct 2025 16:27:02 +0000",
+          "published_at": "2025-10-18T07:11:31.298Z",
           "title": "12 years of HDD analysis brings insight to the bathtub curve’s reliability",
-          "standfirst": "Backup firm brings a unique, informed perspective to HDD failure rates.",
-          "content": "Backblaze is a backup and cloud storage company that has been tracking the annualized failure rates (AFRs) of the hard drives in its datacenter since 2013. As you can imagine, that’s netted the firm a lot of data. And that data has led the company to conclude that HDDs “are lasting longer” and showing fewer errors. That conclusion came from a blog post this week by Stephanie Doyle, Backblaze’s writer and blog operations specialist, and Pat Patterson, Backblaze’s chief technical evangelist. The authors compared the AFRs for the approximately 317,230 drives in Backblaze’s datacenter to the AFRs the company recorded when examining the 21,195 drives it had in 2013 and 206,928 drives in 2021. Doyle and Patterson said they identified “a pretty solid deviation in both age of drive failure and the high point of AFR from the last two times we’ve run the analyses.” Credit: Backblaze Read full article Comments",
-          "feed_position": 7,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2020/08/GettyImages-462699436-1024x648.jpg"
+          "standfirst": "",
+          "content": "",
+          "feed_position": 7
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2020/08/GettyImages-462699436-1024x648.jpg",
-      "popularity_score": 272.05651083333333,
+      "popularity_score": 282.9999697222222,
       "ai_summary": [
-        "A twelve-year analysis of HDDs provides insights into failure rates.",
-        "The analysis comes from a backup firm's unique perspective.",
-        "The study focuses on the \"bathtub curve\" of HDD reliability.",
-        "The findings offer valuable data on HDD performance.",
-        "The study helps understand HDD failure patterns over time."
+        "A twelve-year analysis of hard disk drives (HDDs) was conducted.",
+        "The study provides insights into the \"bathtub curve\" of reliability.",
+        "The curve describes the failure rate over the lifespan of a drive.",
+        "The article discusses the findings and their implications.",
+        "The focus is on understanding HDD performance and longevity."
       ]
     },
     {
-      "id": "cluster_37",
+      "id": "cluster_8",
       "coverage": 1,
-      "updated_at": "Fri, 17 Oct 2025 15:40:15 +0000",
+      "updated_at": "2025-10-18T07:11:31.298Z",
       "title": "Lead poisoning has been a feature of our evolution",
-      "neutral_headline": "Lead Poisoning Found in Two-Million-Year-Old Hominin Teeth",
+      "neutral_headline": "Lead Poisoning Has Played a Role in Human Evolution",
       "bullet_summary": [
-        "A recent study found lead in teeth from 2 million-year-old hominin fossils",
         "Reported by Ars Technica"
       ],
       "items": [
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/science/2025/10/hominins-suffered-lead-poisoning-starting-at-least-2-million-years-ago/",
-          "published_at": "Fri, 17 Oct 2025 15:40:15 +0000",
+          "published_at": "2025-10-18T07:11:31.298Z",
           "title": "Lead poisoning has been a feature of our evolution",
-          "standfirst": "A recent study found lead in teeth from 2 million-year-old hominin fossils.",
-          "content": "Our hominid ancestors faced a Pleistocene world full of dangers—and apparently one of those dangers was lead poisoning. Lead exposure sounds like a modern problem, at least if you define “modern” the way a paleoanthropologist might: a time that started a few thousand years ago with ancient Roman silver smelting and lead pipes. According to a recent study, however, lead is a much more ancient nemesis, one that predates not just the Romans but the existence of our genus Homo. Paleoanthropologist Renaud Joannes-Boyau of Australia’s Southern Cross University and his colleagues found evidence of exposure to dangerous amounts of lead in the teeth of fossil apes and hominins dating back almost 2 million years. And somewhat controversially, they suggest that the toxic element’s pervasiveness may have helped shape our evolutionary history. The skull of an early hominid. Credit: Einsamer Schütze / Wikimedia The Romans didn’t invent lead poisoning Joannes-Boyau and his colleagues took tiny samples of preserved enamel and dentin from the teeth of 51 fossils. In most of those teeth, the paleoanthropologists found evidence that these apes and hominins had been exposed to lead—sometimes in dangerous quantities—fairly often during their early years.Read full article Comments",
-          "feed_position": 8,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1285261327-1152x648.jpg"
+          "standfirst": "",
+          "content": "",
+          "feed_position": 8
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1285261327-1152x648.jpg",
-      "popularity_score": 264.2767886111111,
+      "popularity_score": 275.9999697222222,
       "ai_summary": [
-        "A recent study found lead in teeth from hominin fossils.",
-        "The fossils are approximately two million years old.",
-        "The discovery suggests lead poisoning has a long history.",
-        "The study provides insights into early human environments.",
-        "The findings contribute to understanding human evolution."
+        "Lead poisoning has been a factor in human evolution.",
+        "The article explores the historical impact of lead exposure.",
+        "It discusses how lead has affected human health and development.",
+        "The piece may examine the sources of lead exposure.",
+        "The focus is on the long-term consequences of lead poisoning."
       ]
     },
     {
-      "id": "cluster_45",
+      "id": "cluster_9",
       "coverage": 1,
-      "updated_at": "Fri, 17 Oct 2025 15:07:01 +0000",
+      "updated_at": "2025-10-18T07:11:31.298Z",
       "title": "Apple pays $750 million for US Formula 1 streaming coverage",
-      "neutral_headline": "Apple Pays for Formula 1 Streaming Coverage in the US",
+      "neutral_headline": "Apple Pays $750 Million for Formula 1 Streaming Rights",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -333,332 +275,20 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/cars/2025/10/apple-pays-750-million-for-us-formula-1-streaming-coverage/",
-          "published_at": "Fri, 17 Oct 2025 15:07:01 +0000",
+          "published_at": "2025-10-18T07:11:31.298Z",
           "title": "Apple pays $750 million for US Formula 1 streaming coverage",
-          "standfirst": "Some races will be free as F1 TV moves from standalone streaming to Apple TV.",
-          "content": "The United States Grand Prix takes place this weekend at the Circuit of the Americas in Texas, and this morning, Formula 1 used the occasion to announce a new broadcast deal for the sport in the US. Starting next year, F1 will no longer be broadcast on ESPN—it’s moving to Apple TV in a five-year, $750 million deal. Apple boss Tim Cook has been seen at F1 races in the past, and earlier this year, Apple released F1: The Movie, starring Brad Pitt as a 50-something racing driver who improbably gets a second bite at the cherry 30 years after a brutal crash seemingly ended his F1 career. But securing the rights to the sport itself means Apple has snagged a very fast-growing series, with races almost every other week—currently, the sport has expanded to 24 races a year.Read full article Comments",
-          "feed_position": 9,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Apple-exclusive-F1-partner-1152x648.jpg"
+          "standfirst": "",
+          "content": "",
+          "feed_position": 9
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Apple-exclusive-F1-partner-1152x648.jpg",
-      "popularity_score": 262.7228997222222,
+      "popularity_score": 274.9999697222222,
       "ai_summary": [
-        "Apple is paying $750 million for Formula 1 streaming rights.",
-        "Some races will be available for free on Apple TV.",
-        "F1 TV is transitioning from a standalone streaming service.",
-        "The deal expands Apple's sports streaming offerings.",
-        "The move aims to increase Formula 1 viewership."
-      ]
-    },
-    {
-      "id": "cluster_88",
-      "coverage": 1,
-      "updated_at": "Thu, 16 Oct 2025 20:40:49 +0000",
-      "title": "Nation-state hackers deliver malware from “bulletproof” blockchains",
-      "neutral_headline": "Hackers Use Blockchains to Deliver Malware",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/security/2025/10/hackers-bullet-proof-hosts-deliver-malware-from-blockchains/",
-          "published_at": "Thu, 16 Oct 2025 20:40:49 +0000",
-          "title": "Nation-state hackers deliver malware from “bulletproof” blockchains",
-          "standfirst": "Malicious payloads stored on Ethereum and BNB blockchains are immune to takedowns.",
-          "content": "Hacking groups—at least one of which works on behalf of the North Korean government—have found a new and inexpensive way to distribute malware from “bulletproof” hosts: stashing them on public cryptocurrency blockchains. In a Thursday post, members of the Google Threat Intelligence Group said the technique provides the hackers with their own “bulletproof” host, a term that describes cloud platforms that are largely immune from takedowns by law enforcement and pressure from security researchers. More traditionally, these hosts are located in countries without treaties agreeing to enforce criminal laws from the US and other nations. These services often charge hefty sums and cater to criminals spreading malware or peddling child sexual abuse material and wares sold in crime-based flea markets. Next-gen, DIY hosting that can’t be tampered with Since February, Google researchers have observed two groups turning to a newer technique to infect targets with credential stealers and other forms of malware. The method, known as EtherHiding, embeds the malware in smart contracts, which are essentially apps that reside on blockchains for Ethereum and other cryptocurrencies. Two or more parties then enter into an agreement spelled out in the contract. When certain conditions are met, the apps enforce the contract terms in a way that, at least theoretically, is immutable and independent of any central authority.Read full article Comments",
-          "feed_position": 16,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/malware-threat-1000x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/malware-threat-1000x648.jpg",
-      "popularity_score": 166,
-      "ai_summary": [
-        "Nation-state hackers are using blockchains to deliver malware.",
-        "The malware is stored on Ethereum and BNB blockchains.",
-        "The blockchains are designed to be resistant to takedowns.",
-        "This method makes malware removal difficult.",
-        "The technique poses a significant cybersecurity threat."
-      ]
-    },
-    {
-      "id": "cluster_58",
-      "coverage": 1,
-      "updated_at": "Fri, 17 Oct 2025 14:16:58 +0000",
-      "title": "Teachers get an F on AI-generated lesson plans",
-      "neutral_headline": "AI-Generated Lesson Plans Fail to Inspire Teachers",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2025/10/teachers-get-an-f-on-ai-generated-lesson-plans/",
-          "published_at": "Fri, 17 Oct 2025 14:16:58 +0000",
-          "title": "Teachers get an F on AI-generated lesson plans",
-          "standfirst": "AI-generated lesson plans fall short on inspiring students and promoting critical thinking.",
-          "content": "When teachers rely on commonly used artificial intelligence chatbots to devise lesson plans, it does not result in more engaging, immersive, or effective learning experiences compared with existing techniques, we found in our recent study. The AI-generated civics lesson plans we analyzed also left out opportunities for students to explore the stories and experiences of traditionally marginalized people. The allure of generative AI as a teaching aid has caught the attention of educators. A Gallup survey from September 2025 found that 60 percent of K-12 teachers are already using AI in their work, with the most common reported use being teaching preparation and lesson planning. Without the assistance of AI, teachers might spend hours every week crafting lessons for their students. With AI, time-stretched teachers can generate detailed lesson plans featuring learning objectives, materials, activities, assessments, extension activities, and homework tasks in a matter of seconds.Read full article Comments",
-          "feed_position": 11,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1287663546-1152x648-1758570568.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1287663546-1152x648-1758570568.jpg",
-      "popularity_score": 151.88873305555555,
-      "ai_summary": [
-        "AI-generated lesson plans are falling short for teachers.",
-        "The plans struggle to inspire students and promote critical thinking.",
-        "The quality of AI-generated educational content is questioned.",
-        "Teachers are finding the plans inadequate for classroom use.",
-        "The limitations of AI in education are highlighted."
-      ]
-    },
-    {
-      "id": "cluster_85",
-      "coverage": 1,
-      "updated_at": "Thu, 16 Oct 2025 22:41:42 +0000",
-      "title": "RFK Jr.’s MAHA wants to make chemtrail conspiracy theories great again",
-      "neutral_headline": "RFK Jr. Supports Chemtrail Conspiracy Theories",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/health/2025/10/rfk-jr-s-maha-wants-to-make-chemtrail-conspiracy-theories-great-again/",
-          "published_at": "Thu, 16 Oct 2025 22:41:42 +0000",
-          "title": "RFK Jr.’s MAHA wants to make chemtrail conspiracy theories great again",
-          "standfirst": "It's unclear if Kennedy will follow through, but he supports the conspiracy theory.",
-          "content": "A prominent voice in the Make America Healthy Again movement is pushing for health secretary and anti-vaccine activist Robert F. Kennedy Jr. to make the topic of chemtrail conspiracy theories a federal priority, according to a report by KFF News. KFF obtained a memo, written by MAHA influencer Gray Delany in July, presenting the topic to Calley Means, a White House health advisor. The memo lays out a series of unsubstantiated and far-fetched claims that academic researchers and federal agencies are secretively spreading toxic substances from airplanes, poisoning Americans, and spurring large-scale weather events, such as the devastating flooding in Texas last summer. “It is unconscionable that anyone should be allowed to spray known neurotoxins and environmental toxins over our nation’s citizens, their land, food and water supplies,” Delany writes in the memo.Read full article Comments",
-          "feed_position": 14,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1182820491-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1182820491-1152x648.jpg",
-      "popularity_score": 148,
-      "ai_summary": [
-        "Robert F. Kennedy Jr. supports chemtrail conspiracy theories.",
-        "His organization, MAHA, is involved in promoting the theory.",
-        "It is unclear if Kennedy will take further action.",
-        "The conspiracy theory claims that contrails are harmful.",
-        "The theory has been widely debunked by scientists."
-      ]
-    },
-    {
-      "id": "cluster_86",
-      "coverage": 1,
-      "updated_at": "Thu, 16 Oct 2025 21:12:48 +0000",
-      "title": "AI-powered features begin creeping deeper into the bedrock of Windows 11",
-      "neutral_headline": "AI Features Expand in Windows 11",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2025/10/microsofts-vision-for-ai-pcs-looks-a-lot-like-another-crack-at-cortana/",
-          "published_at": "Thu, 16 Oct 2025 21:12:48 +0000",
-          "title": "AI-powered features begin creeping deeper into the bedrock of Windows 11",
-          "standfirst": "Copilot expands with an emphasis on creating and editing files, voice input.",
-          "content": "Like virtually every major Windows announcement in the last three years, the spate of features that Microsoft announced for the operating system today all revolve around generative AI. In particular, they’re concerned with the company’s more recent preoccupation with “agentic” AI, an industry buzzword for “telling AI-powered software to perform a task, which it then does in the background while you move on to other things.” But the overarching impression I got, both from reading the announcement and sitting through a press briefing earlier this month, is that Microsoft is using language models and other generative AI technologies to try again with Cortana, Microsoft’s failed and discontinued entry in the voice assistant wars of the 2010s. According to Microsoft’s Consumer Chief Marketing Officer Yusuf Mehdi, “AI PCs” should be able to recognize input “naturally, in text or voice,” to be able to guide users based on what’s on their screens at any given moment, and that AI assistants “should be able to take action on your behalf.”Read full article Comments",
-          "feed_position": 15,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Windows-Blog-Hero-Image_High-Res-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Windows-Blog-Hero-Image_High-Res-1152x648.jpg",
-      "popularity_score": 148,
-      "ai_summary": [
-        "AI-powered features are expanding in Windows 11.",
-        "Copilot is emphasizing file creation, editing, and voice input.",
-        "The updates integrate AI deeper into the operating system.",
-        "The changes aim to improve user productivity.",
-        "The features are part of Microsoft's AI strategy."
-      ]
-    },
-    {
-      "id": "cluster_89",
-      "coverage": 1,
-      "updated_at": "Thu, 16 Oct 2025 20:25:08 +0000",
-      "title": "Ars Live recap: Is the AI bubble about to pop? Ed Zitron weighs in.",
-      "neutral_headline": "Ars Live Recap: Is the AI Bubble About to Pop?",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2025/10/ars-live-recap-is-the-ai-bubble-about-to-pop-ed-zitron-weighs-in/",
-          "published_at": "Thu, 16 Oct 2025 20:25:08 +0000",
-          "title": "Ars Live recap: Is the AI bubble about to pop? Ed Zitron weighs in.",
-          "standfirst": "Despite connection hiccups, we covered OpenAI's finances, nuclear power, and Sam Altman.",
-          "content": "On Tuesday of last week, Ars Technica hosted a live conversation with Ed Zitron, host of the Better Offline podcast and one of tech’s most vocal AI critics, to discuss whether the generative AI industry is experiencing a bubble and when it might burst. My Internet connection had other plans, though, dropping out multiple times and forcing Ars Technica’s Lee Hutchinson to jump in as an excellent emergency backup host. During the times my connection cooperated, Zitron and I covered OpenAI’s financial issues, lofty infrastructure promises, and why the AI hype machine keeps rolling despite some arguably shaky economics underneath. Lee’s probing questions about per-user costs revealed a potential flaw in AI subscription models: Companies can’t predict whether a user will cost them $2 or $10,000 per month. You can watch a recording of the event on YouTube or in the window below.Read full article Comments",
-          "feed_position": 17,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/ai_bubble_hero2-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/ai_bubble_hero2-1152x648.jpg",
-      "popularity_score": 148,
-      "ai_summary": [
-        "Ars Technica hosted a live discussion on the AI bubble.",
-        "The discussion covered OpenAI's finances and nuclear power.",
-        "The discussion also included Sam Altman's role.",
-        "There were connection hiccups during the live stream.",
-        "Ed Zitron was a guest on the live stream."
-      ]
-    },
-    {
-      "id": "cluster_76",
-      "coverage": 1,
-      "updated_at": "Fri, 17 Oct 2025 10:30:59 +0000",
-      "title": "Yes, everything online sucks now—but it doesn’t have to",
-      "neutral_headline": "Author Cory Doctorow Discusses Online Platform \"Enshittification",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2025/10/yes-everything-online-sucks-now-but-it-doesnt-have-to/",
-          "published_at": "Fri, 17 Oct 2025 10:30:59 +0000",
-          "title": "Yes, everything online sucks now—but it doesn’t have to",
-          "standfirst": "Ars chats with Cory Doctorow about his new book Enshittification.",
-          "content": "We all feel it: Our once-happy digital spaces have become increasingly less user-friendly and more toxic, cluttered with extras nobody asked for and hardly anybody wants. There’s even a word for it: “enshittification,” named 2023 Word of the Year by the American Dialect Society. The term was coined by tech journalist/science fiction author Cory Doctorow, a longtime advocate of digital rights. Doctorow has spun his analysis of what’s been ailing the tech industry into an eminently readable new book, Enshittification: Why Everything Suddenly Got Worse and What To Do About It. As Doctorow tells it, he was on vacation in Puerto Rico, staying in a remote cabin nestled in a cloud forest with microwave Internet service—i.e., very bad Internet service, since microwave signals struggle to penetrate through clouds. It was a 90-minute drive to town, but when they tried to consult TripAdvisor for good local places to have dinner one night, they couldn’t get the site to load. “All you would get is the little TripAdvisor logo as an SVG filling your whole tab and nothing else,” Doctorow told Ars. “So I tweeted, ‘Has anyone at TripAdvisor ever been on a trip? This is the most enshittified website I’ve ever used.'” Initially, he just got a few “haha, that’s a funny word” responses. “It was when I married that to this technical critique, at a moment when things were quite visibly bad to a much larger group of people, that made it take off,” Doctorow said. “I didn’t deliberately set out to do it. I bought a million lottery tickets and one of them won the lottery. It only took two decades.”Read full article Comments",
-          "feed_position": 13,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/cory1-1152x648-1759765718.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/cory1-1152x648-1759765718.jpg",
-      "popularity_score": 142.12234416666666,
-      "ai_summary": [
-        "Cory Doctorow's new book explores the decline of online platforms and their user experiences.",
-        "Doctorow defines \"enshittification\" as the degradation of online services over time.",
-        "He attributes this decline to platform owners prioritizing profit over user satisfaction.",
-        "The book offers potential solutions and strategies to combat this trend.",
-        "Doctorow advocates for user empowerment and platform accountability in the digital space."
-      ]
-    },
-    {
-      "id": "cluster_50",
-      "coverage": 1,
-      "updated_at": "Fri, 17 Oct 2025 14:57:07 +0000",
-      "title": "3 years, 4 championships, but 0 Le Mans wins: Assessing the Porsche 963",
-      "neutral_headline": "Porsche 963 Race Car Achieves Success in IMSA Series",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2025/10/3-years-4-championships-but-0-le-mans-wins-assessing-the-porsche-963/",
-          "published_at": "Fri, 17 Oct 2025 14:57:07 +0000",
-          "title": "3 years, 4 championships, but 0 Le Mans wins: Assessing the Porsche 963",
-          "standfirst": "Riding high in IMSA but pulling out of WEC paints a complicated picture for the factory team.",
-          "content": "Porsche provided flights from Washington to Atlanta and accommodation so Ars could attend Petit Le Mans. Ars does not accept paid editorial content. The car world has long had a thing about numbers. Engine outputs. Top speeds. Zero-to-60 times. Displacement. But the numbers go beyond bench racing specs. Some cars have numbers for names, and few more memorably than Porsche. Its most famous model shares its appellation with the emergency services here in North America; although the car should accurately be “nine-11,” you call it “nine-one-one.” Some numbers are less well-known, but perhaps more special to Porsche’s fans, especially those who like racing. 908. 917. 956. 962. 919. But how about 963? That’s Porsche’s current sports prototype, a 670-hp (500 kW) hybrid that for the last three years has battled against rivals in what is starting to look like, if not a golden era for endurance racing, then at least a very purple patch. And the 963 has done well, racing here in IMSA’s WeatherTech Sportscar Championship and around the globe in the FIA World Endurance Championship.Read full article Comments",
-          "feed_position": 10,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/IMSA2025PetitLeMans_JT19117-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/IMSA2025PetitLeMans_JT19117-1152x648.jpg",
-      "popularity_score": 140.55789972222223,
-      "ai_summary": [
-        "Porsche's 963 race car has secured four championships in three years in IMSA.",
-        "The factory team is withdrawing from the World Endurance Championship (WEC) series.",
-        "This decision creates a complex situation for the Porsche factory racing team.",
-        "The team's performance in IMSA contrasts with its absence from Le Mans wins.",
-        "The article assesses the implications of Porsche's racing strategy and choices."
-      ]
-    },
-    {
-      "id": "cluster_74",
-      "coverage": 1,
-      "updated_at": "Fri, 17 Oct 2025 11:00:49 +0000",
-      "title": "Rocket Report: China launches with no advance warning; Europe’s drone ship",
-      "neutral_headline": "Rocket Report Details Recent Space Launches and Constellations",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/space/2025/10/rocket-report-a-nearly-perfect-flight-for-starship-chinas-surprise-launch/",
-          "published_at": "Fri, 17 Oct 2025 11:00:49 +0000",
-          "title": "Rocket Report: China launches with no advance warning; Europe’s drone ship",
-          "standfirst": "Starlink, Kuiper, and the US military all saw additions to their mega-constellations this week.",
-          "content": "Welcome to Edition 8.15 of the Rocket Report! This year has been, at best, one of mixed results for SpaceX’s Starship program. There have been important steps forward, including the successful reuse of the rocket’s massive Super Heavy booster. Clearly, SpaceX is getting really good at launching and recovering the 33-engine booster stage. But Starship itself, part spacecraft and part upper stage, hasn’t fared as well—at least it hadn’t until the last couple of months. After four Starships were destroyed in flight and on the ground in the first half of 2025, the last two missions ended with pinpoint splashdowns in the Indian Ocean. The most recent mission this week was arguably the most successful yet for Starship, which returned to Earth with little damage, suggesting SpaceX’s improvements to the heat shield are working. As always, we welcome reader submissions. If you don’t want to miss an issue, please subscribe using the box below (the form will not appear on AMP-enabled versions of the site). Each report will include information on small-, medium-, and heavy-lift rockets, as well as a quick look ahead at the next three launches on the calendar. SpaceX vet will fly with Blue Origin. Hans Koenigsmann is one of SpaceX’s earliest, longest-tenured, and most-revered employees. He worked at Elon Musk’s space company for nearly two decades, rising to the role of vice president for mission assurance and safety before leaving SpaceX in 2021. He led the investigations into every Falcon rocket failure, mentored young engineers, and became a public face for SpaceX through numerous presentations and press conferences. And now he has announced he is going to space on a future suborbital flight on Blue Origin’s New Shepard vehicle, Ars reports.Read full article Comments",
-          "feed_position": 12,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/starshipflight11-presplash-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/starshipflight11-presplash-1152x648.jpg",
-      "popularity_score": 136.6195663888889,
-      "ai_summary": [
-        "China conducted a rocket launch without providing any advance warning to the public.",
-        "Europe's drone ship was highlighted in the week's space-related news.",
-        "Starlink, Kuiper, and the US military added satellites to their constellations.",
-        "The report covers various space activities and developments from the past week.",
-        "The article provides updates on the expansion of satellite mega-constellations."
-      ]
-    },
-    {
-      "id": "cluster_90",
-      "coverage": 1,
-      "updated_at": "Thu, 16 Oct 2025 20:05:19 +0000",
-      "title": "OnePlus unveils OxygenOS 16 update with deep Gemini integration",
-      "neutral_headline": "OnePlus Announces OxygenOS 16 Update with Gemini Integration",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/google/2025/10/oneplus-unveils-oxygenos-16-update-with-deep-gemini-integration/",
-          "published_at": "Thu, 16 Oct 2025 20:05:19 +0000",
-          "title": "OnePlus unveils OxygenOS 16 update with deep Gemini integration",
-          "standfirst": "Does your phone even have a Mind Space?",
-          "content": "OnePlus is expected to take the wraps off the OnePlus 15 in the next few weeks, but before that, it’s giving us a look at the software that will run on it. OxygenOS 16, which is based on Android 16, will also come to the company’s other supported phones, and it’s going to include a heaping helping of AI features. OnePlus was slower than most smartphone makers to embrace AI, but it’s full-steam ahead now with new Gemini integrations. OxygenOS 16 is described by OnePlus in grandiose terms as “a defiant rebellion for authenticity.” In the real world, this update is doing a lot of the same things as other AI-heavy smartphones. It’s not all AI—OnePlus notes that OxygenOS 16 will include revamped animations that have been carefully designed for smoothness, as well as the O+ remote app that gives you remote access to Windows and Mac PCs. The lock screen is also more customizable, borrowing a page from the likes of Apple and Samsung. OnePlus began embracing AI in June, when it launched a feature called Mind Space on the OnePlus 13S. That phone was only for the Indian market, but the rest of the world will get this and more with OxygenOS 16. At launch, Mind Space would collect your screenshots and brief voice messages. Mind Space would analyze the screenshots to create calendar entries and not much else.Read full article Comments",
-          "feed_position": 18,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/OP-mind-space-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/OP-mind-space-1152x648.jpg",
-      "popularity_score": 133,
-      "ai_summary": [
-        "OnePlus is releasing the OxygenOS 16 update for its smartphones.",
-        "The update includes deep integration with Google's Gemini artificial intelligence.",
-        "The article questions the inclusion of a \"Mind Space\" feature in the update.",
-        "The update aims to enhance the user experience on OnePlus devices.",
-        "The announcement details new features and improvements in the OxygenOS 16."
-      ]
-    },
-    {
-      "id": "cluster_91",
-      "coverage": 1,
-      "updated_at": "Thu, 16 Oct 2025 19:50:58 +0000",
-      "title": "Sony tells SCOTUS that people accused of piracy aren’t “innocent grandmothers”",
-      "neutral_headline": "Sony Argues Against Protecting Piracy Accused Individuals",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2025/10/sony-tells-scotus-that-people-accused-of-piracy-arent-innocent-grandmothers/",
-          "published_at": "Thu, 16 Oct 2025 19:50:58 +0000",
-          "title": "Sony tells SCOTUS that people accused of piracy aren’t “innocent grandmothers”",
-          "standfirst": "Music companies want ISPs to terminate repeat infringers or pay big damages.",
-          "content": "Record labels Sony, Warner, and Universal yesterday asked the Supreme Court to help it boot pirates off the Internet. Sony and the other labels filed their brief in Cox Communications v. Sony Music Entertainment, a case involving the cable Internet service provider that rebuffed labels’ demands for mass terminations of broadband subscribers accused of repeat copyright infringement. The Supreme Court’s eventual decision in the case may determine whether Internet service providers must terminate the accounts of alleged pirates in order to avoid massive financial liability. Cox has argued that copyright-infringement notices—which are generated by bots and flag users based on their IP addresses—sent by record labels are unreliable. Cox said ISPs can’t verify whether the notices are accurate and that terminating an account would punish every user in a household where only one person may have illegally downloaded copyrighted files.Read full article Comments",
-          "feed_position": 19,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/music-pirate-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/music-pirate-1152x648.jpg",
-      "popularity_score": 133,
-      "ai_summary": [
-        "Sony presented its arguments to the Supreme Court regarding piracy cases.",
-        "Sony contends that individuals accused of piracy are not necessarily \"innocent.\"",
-        "Music companies seek to have ISPs terminate repeat copyright infringers.",
-        "Music companies also want ISPs to pay significant damages for infringements.",
-        "The case involves legal battles over online copyright infringement issues."
+        "Apple has paid $750 million for Formula 1 streaming rights.",
+        "The deal grants Apple exclusive coverage in the United States.",
+        "The agreement will bring Formula 1 to Apple's streaming service.",
+        "The article details the terms and implications of the deal.",
+        "The focus is on the expansion of Apple's sports content."
       ]
     }
   ]
