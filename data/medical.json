@@ -1,17 +1,85 @@
 {
   "clinical": {
-    "updated_at": "2025-10-20T03:43:56.784Z",
+    "updated_at": "2025-10-20T07:14:14.482Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2025-10-20T03:43:56.784Z",
+    "updated_at": "2025-10-20T07:14:14.482Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2025-10-20T03:44:05.884Z",
+    "updated_at": "2025-10-20T07:14:16.560Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Mon, 20 Oct 2025 06:00:36 GMT",
+        "title": "AI-generated ‘poverty porn’ fake images being used by aid agencies",
+        "neutral_headline": "AI-generated ‘poverty porn’ fake images being used by aid agencies",
+        "bullet_summary": [
+          "“All over the place, people are using it,” said Noah Arnold, who works at Fairpicture, a Swiss-based organisation focused on promoting ethical imagery in global development",
+          "Reported by Guardian Health"
+        ],
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/global-development/2025/oct/20/ai-generated-poverty-porn-fake-images-being-used-by-aid-agencies",
+            "published_at": "Mon, 20 Oct 2025 06:00:36 GMT",
+            "title": "AI-generated ‘poverty porn’ fake images being used by aid agencies",
+            "standfirst": "Exclusive: Pictures depicting the most vulnerable and poorest people are being used in social media campaigns in the sector, driven by concerns over consent and costAI-generated images of extreme poverty, children and sexual violence survivors are flooding stock photo sites and increasingly being used by leading health NGOs, according to global health professionals who have voiced concern over a new era of “poverty porn”.“All over the place, people are using it,” said Noah Arnold, who works at Fairpicture, a Swiss-based organisation focused on promoting ethical imagery in global development. “Some are actively using AI imagery, and others, we know that they’re experimenting at least.” Continue reading...",
+            "content": "Exclusive: Pictures depicting the most vulnerable and poorest people are being used in social media campaigns in the sector, driven by concerns over consent and costAI-generated images of extreme poverty, children and sexual violence survivors are flooding stock photo sites and increasingly being used by leading health NGOs, according to global health professionals who have voiced concern over a new era of “poverty porn”.“All over the place, people are using it,” said Noah Arnold, who works at Fairpicture, a Swiss-based organisation focused on promoting ethical imagery in global development. “Some are actively using AI imagery, and others, we know that they’re experimenting at least.” Continue reading...",
+            "feed_position": 0
+          }
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Mon, 20 Oct 2025 05:46:58 GMT",
+        "title": "Fishing group 'devastated' after container fire",
+        "neutral_headline": "Fishing group 'devastated' after container fire",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/c20167pqdn9o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 20 Oct 2025 05:46:58 GMT",
+            "title": "Fishing group 'devastated' after container fire",
+            "standfirst": "Craig Parkins says years of hard work has \"just gone up in smoke\".",
+            "content": "Craig Parkins says years of hard work has \"just gone up in smoke\".",
+            "feed_position": 91,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0348/live/9ad6e3b0-ab6b-11f0-a19b-5d425ca9e3e9.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0348/live/9ad6e3b0-ab6b-11f0-a19b-5d425ca9e3e9.jpg"
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Mon, 20 Oct 2025 05:01:02 GMT",
+        "title": "Housing secretary says 'job on the line' over 1.5m housing target",
+        "neutral_headline": "Housing secretary says 'job on the line' over 1.5m housing target",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/cj41v5g87w1o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 20 Oct 2025 05:01:02 GMT",
+            "title": "Housing secretary says 'job on the line' over 1.5m housing target",
+            "standfirst": "Housing secretary tells BBC Panorama widespread scepticism will make hitting target \"all the sweeter\".",
+            "content": "Housing secretary tells BBC Panorama widespread scepticism will make hitting target \"all the sweeter\".",
+            "feed_position": 31,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8c2/live/6eda1740-ad79-11f0-b2a1-6f537f66f9aa.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8c2/live/6eda1740-ad79-11f0-b2a1-6f537f66f9aa.jpg"
+      },
+      {
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Sun, 19 Oct 2025 23:42:05 GMT",
         "title": "From Hollywood to horticulture: Cate Blanchett on a mission to save seeds",
@@ -34,7 +102,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81b8/live/63e35360-a9e6-11f0-a429-417d8b18f8ba.jpg"
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Sun, 19 Oct 2025 23:01:26 GMT",
         "title": "Millions exploited by ‘menopause gold rush’ amid lack of reliable information, say experts",
@@ -51,33 +119,12 @@
             "title": "Millions exploited by ‘menopause gold rush’ amid lack of reliable information, say experts",
             "standfirst": "Women’s health academics at UCL call for education programme to combat misinformation and unregulated adviceMillions of women are being exploited by a “menopause gold rush” as companies, celebrities and influencers take advantage of a “dearth” of reliable information on the issue, experts have said.Healthcare companies and content creators saw menopause as a “lucrative market” and were trying to profit from gaps in public knowledge, women’s health academics at UCL said. Continue reading...",
             "content": "Women’s health academics at UCL call for education programme to combat misinformation and unregulated adviceMillions of women are being exploited by a “menopause gold rush” as companies, celebrities and influencers take advantage of a “dearth” of reliable information on the issue, experts have said.Healthcare companies and content creators saw menopause as a “lucrative market” and were trying to profit from gaps in public knowledge, women’s health academics at UCL said. Continue reading...",
-            "feed_position": 0
-          }
-        ]
-      },
-      {
-        "id": "cluster_2",
-        "coverage": 1,
-        "updated_at": "Sun, 19 Oct 2025 23:00:27 GMT",
-        "title": "Keir Starmer pressed not to slash UK contribution to global aid fund",
-        "neutral_headline": "Keir Starmer pressed not to slash UK contribution to global aid fund",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/politics/2025/oct/20/keir-starmer-uk-contribution-to-global-fund-aids-malaria",
-            "published_at": "Sun, 19 Oct 2025 23:00:27 GMT",
-            "title": "Keir Starmer pressed not to slash UK contribution to global aid fund",
-            "standfirst": "Polling finds majority consider £1bn funding for Aids, TB and malaria vaccines a UK success storyPressure is mounting on Keir Starmer not to cut the UK’s contribution to the Global Fund to Fight Aids, Tuberculosis and Malaria after polling found 62% of Britons believe the government should maintain or increase its support.The prime minister must decide this year whether to maintain the UK contribution at £1bn or implement a cut in line with recent reductions to the aid budget. A cut of 20% has been rumoured. Continue reading...",
-            "content": "Polling finds majority consider £1bn funding for Aids, TB and malaria vaccines a UK success storyPressure is mounting on Keir Starmer not to cut the UK’s contribution to the Global Fund to Fight Aids, Tuberculosis and Malaria after polling found 62% of Britons believe the government should maintain or increase its support.The prime minister must decide this year whether to maintain the UK contribution at £1bn or implement a cut in line with recent reductions to the aid budget. A cut of 20% has been rumoured. Continue reading...",
             "feed_position": 1
           }
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Sun, 19 Oct 2025 23:00:27 GMT",
         "title": "Bereaved families call for inquiry into UK failure to act on pro-suicide forum",
@@ -99,7 +146,28 @@
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_6",
+        "coverage": 1,
+        "updated_at": "Sun, 19 Oct 2025 23:00:27 GMT",
+        "title": "Keir Starmer pressed not to slash UK contribution to global aid fund",
+        "neutral_headline": "Keir Starmer pressed not to slash UK contribution to global aid fund",
+        "bullet_summary": [
+          "Reported by Guardian Health"
+        ],
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/politics/2025/oct/20/keir-starmer-uk-contribution-to-global-fund-aids-malaria",
+            "published_at": "Sun, 19 Oct 2025 23:00:27 GMT",
+            "title": "Keir Starmer pressed not to slash UK contribution to global aid fund",
+            "standfirst": "Polling finds majority consider £1bn funding for Aids, TB and malaria vaccines a UK success storyPressure is mounting on Keir Starmer not to cut the UK’s contribution to the Global Fund to Fight Aids, Tuberculosis and Malaria after polling found 62% of Britons believe the government should maintain or increase its support.The prime minister must decide this year whether to maintain the UK contribution at £1bn or implement a cut in line with recent reductions to the aid budget. A cut of 20% has been rumoured. Continue reading...",
+            "content": "Polling finds majority consider £1bn funding for Aids, TB and malaria vaccines a UK success storyPressure is mounting on Keir Starmer not to cut the UK’s contribution to the Global Fund to Fight Aids, Tuberculosis and Malaria after polling found 62% of Britons believe the government should maintain or increase its support.The prime minister must decide this year whether to maintain the UK contribution at £1bn or implement a cut in line with recent reductions to the aid budget. A cut of 20% has been rumoured. Continue reading...",
+            "feed_position": 3
+          }
+        ]
+      },
+      {
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Sun, 19 Oct 2025 17:25:19 GMT",
         "title": "The Guardian view on childbirth and medical negligence: rising payouts highlight the urgency of maternity improvements",
@@ -113,14 +181,14 @@
             "url": "https://www.theguardian.com/commentisfree/2025/oct/19/the-guardian-view-on-childbirth-and-medical-negligence-rising-payouts-highlight-the-urgency-of-maternity-improvements",
             "published_at": "Sun, 19 Oct 2025 17:25:19 GMT",
             "title": "The Guardian view on childbirth and medical negligence: rising payouts highlight the urgency of maternity improvements",
-            "standfirst": "Grave shortcomings in the care offered to mothers and babies are well documented. But it is not clear that the right lessons have been learnedThe startling rise in the cost to the NHS in England of medical negligence cases, and a sharp increase in birth injuries to mothers, are the latest warning signs of deeply troubling failures in maternity services. The £60bn estimate of negligence liabilities, from the National Audit Office, represents a quadrupling in less than 20 years. While some medical specialties have seen falling payouts, those in obstetrics rose. The reason why payments in such negligence cases are so high is that when babies are injured, awards must cover lifetime care needs.Grave shortcomings in maternity care are widely recognised, along with unjust disparities in outcomes for women from different socioeconomic and racial groups. Preventable deaths and injuries at units in Morecambe Bay, Shrewsbury and Telford, and East Kent, have been among the most shocking patient safety scandals of recent years. Continue reading...",
-            "content": "Grave shortcomings in the care offered to mothers and babies are well documented. But it is not clear that the right lessons have been learnedThe startling rise in the cost to the NHS in England of medical negligence cases, and a sharp increase in birth injuries to mothers, are the latest warning signs of deeply troubling failures in maternity services. The £60bn estimate of negligence liabilities, from the National Audit Office, represents a quadrupling in less than 20 years. While some medical specialties have seen falling payouts, those in obstetrics rose. The reason why payments in such negligence cases are so high is that when babies are injured, awards must cover lifetime care needs.Grave shortcomings in maternity care are widely recognised, along with unjust disparities in outcomes for women from different socioeconomic and racial groups. Preventable deaths and injuries at units in Morecambe Bay, Shrewsbury and Telford, and East Kent, have been among the most shocking patient safety scandals of recent years. Continue reading...",
-            "feed_position": 3
+            "standfirst": "Grave shortcomings in the care offered to mothers and babies are well documented. But it is not clear that the right lessons have been learnedThe startling rise in the cost to the NHS in England of medical negligence cases, and a sharp increase in birth injuries to mothers, are the latest warning signs of deeply troubling failures in maternity services. The £60bn estimate of negligence liabilities, from the National Audit Office, represents a quadrupling in less than 20 years. While some medical specialties have seen falling payouts, those in obstetrics rose. The reason why payments in such negligence cases are so high is that when babies are injured, awards must cover lifetime care needs.Grave shortcomings in maternity care are widely recognised, along with unjust disparities in outcomes for women from different socioeconomic and racial groups. Preventable deaths and injuries at units in Morecambe Bay, Shrewsbury and Telford, and East Kent, have been among the most shocking patient safety scandals of recent years.Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...",
+            "content": "Grave shortcomings in the care offered to mothers and babies are well documented. But it is not clear that the right lessons have been learnedThe startling rise in the cost to the NHS in England of medical negligence cases, and a sharp increase in birth injuries to mothers, are the latest warning signs of deeply troubling failures in maternity services. The £60bn estimate of negligence liabilities, from the National Audit Office, represents a quadrupling in less than 20 years. While some medical specialties have seen falling payouts, those in obstetrics rose. The reason why payments in such negligence cases are so high is that when babies are injured, awards must cover lifetime care needs.Grave shortcomings in maternity care are widely recognised, along with unjust disparities in outcomes for women from different socioeconomic and racial groups. Preventable deaths and injuries at units in Morecambe Bay, Shrewsbury and Telford, and East Kent, have been among the most shocking patient safety scandals of recent years.Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...",
+            "feed_position": 4
           }
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Sun, 19 Oct 2025 16:22:53 GMT",
         "title": "Dr Jill Tattersall obituary",
@@ -137,12 +205,12 @@
             "title": "Dr Jill Tattersall obituary",
             "standfirst": "My mother, Jill Tattersall, who has died aged 95, helped to change the face of healthcare by co-founding a clinic providing contraception for unmarried women and underage girls in the 1960s.She qualified as a doctor in Sheffield in 1956 and started out by training in obstetrics and gynaecology, quickly moving into the new field of family planning. During the 60s, birth control supplied by the NHS was only for married women and there was still a great deal of stigma attached to premarital sex and underage relationships. Continue reading...",
             "content": "My mother, Jill Tattersall, who has died aged 95, helped to change the face of healthcare by co-founding a clinic providing contraception for unmarried women and underage girls in the 1960s.She qualified as a doctor in Sheffield in 1956 and started out by training in obstetrics and gynaecology, quickly moving into the new field of family planning. During the 60s, birth control supplied by the NHS was only for married women and there was still a great deal of stigma attached to premarital sex and underage relationships. Continue reading...",
-            "feed_position": 4
+            "feed_position": 5
           }
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Sun, 19 Oct 2025 16:12:09 GMT",
         "title": "Why men should be doing a lot more pilates | Letters",
@@ -158,12 +226,12 @@
             "title": "Why men should be doing a lot more pilates | Letters",
             "standfirst": "Tim Heavisides hails the benefits of pilates for rugby players, and Margaret Evans highlights the knee-injuries sustained in walking football I was very pleased to read George Ford’s “confession” that “in recent months I’ve been doing a lot more pilates” (George Ford turns down R360 riches for last shot at England World Cup glory, 15 October).In the last six years, so have I, and I wish that I’d discovered pilates 50 years ago when I was playing rugby; I’m sure I would have recovered more quickly from injuries and maintained a higher level of fitness with a much stronger “core”, so essential in such a physical sport. Continue reading...",
             "content": "Tim Heavisides hails the benefits of pilates for rugby players, and Margaret Evans highlights the knee-injuries sustained in walking football I was very pleased to read George Ford’s “confession” that “in recent months I’ve been doing a lot more pilates” (George Ford turns down R360 riches for last shot at England World Cup glory, 15 October).In the last six years, so have I, and I wish that I’d discovered pilates 50 years ago when I was playing rugby; I’m sure I would have recovered more quickly from injuries and maintained a higher level of fitness with a much stronger “core”, so essential in such a physical sport. Continue reading...",
-            "feed_position": 5
+            "feed_position": 6
           }
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Sun, 19 Oct 2025 15:30:17 GMT",
         "title": "Smart jab can shrink head and neck cancer tumours within six weeks, trial finds",
@@ -179,12 +247,12 @@
             "title": "Smart jab can shrink head and neck cancer tumours within six weeks, trial finds",
             "standfirst": "Triple-action therapy drug amivantamab could be given as an injection to help treat recurrent or metastatic cancersDoctors have hailed “incredibly encouraging” trial results that show a triple-action smart jab can shrink tumours in head and neck cancer patients within six weeks.Head and neck cancer is the world’s sixth most common form of the disease. If it spreads or comes back after standard treatment, patients may be offered immunotherapy and platinum chemotherapy. But if this fails, there is often little else doctors can do. Continue reading...",
             "content": "Triple-action therapy drug amivantamab could be given as an injection to help treat recurrent or metastatic cancersDoctors have hailed “incredibly encouraging” trial results that show a triple-action smart jab can shrink tumours in head and neck cancer patients within six weeks.Head and neck cancer is the world’s sixth most common form of the disease. If it spreads or comes back after standard treatment, patients may be offered immunotherapy and platinum chemotherapy. But if this fails, there is often little else doctors can do. Continue reading...",
-            "feed_position": 6
+            "feed_position": 7
           }
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Sun, 19 Oct 2025 13:00:15 GMT",
         "title": "The lavender marriage is back – but why? | Emma Beddington",
@@ -200,12 +268,12 @@
             "title": "The lavender marriage is back – but why? | Emma Beddington",
             "standfirst": "People are taking many new and unexpected approaches to matrimony, and it is surprisingly excitingThe lavender marriage – that administrative convenience and PR fiction of golden age Hollywood – is back. The Washington Post recently covered its reinvention, meeting Jacob Hoff, who’s gay, and Samantha Greenstone, who’s straight, a blissfully married couple with a baby on the way (they “birds’d and bees’d” Greenstone explained for the pruriently curious). The Post also spoke to friends April Lexi Lee and Sheree Wong, both “on the asexual spectrum”, who say they “bestied so hard we got married … platonically”.Of course, if you’re talking openly about a lavender marriage, it isn’t one. The point of them was to confer a fig leaf of heteronormative respectability at a time when that was professionally and socially essential; these people aren’t in it for appearances. Hoff and Greenstone don’t like the term: “It cheapens what we really have, which is a love match,” Greenstone says. But “lavender marriage” has been co-opted online as a shorthand for different forms of loving, committed relationships that do not centre conventional romance and sexual desire, both as jokey aspiration and lived experience. They need another name: some people call themselves platonic life partners (PLPs); I’ve seen “rainbow marriage” on TikTok.Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...",
             "content": "People are taking many new and unexpected approaches to matrimony, and it is surprisingly excitingThe lavender marriage – that administrative convenience and PR fiction of golden age Hollywood – is back. The Washington Post recently covered its reinvention, meeting Jacob Hoff, who’s gay, and Samantha Greenstone, who’s straight, a blissfully married couple with a baby on the way (they “birds’d and bees’d” Greenstone explained for the pruriently curious). The Post also spoke to friends April Lexi Lee and Sheree Wong, both “on the asexual spectrum”, who say they “bestied so hard we got married … platonically”.Of course, if you’re talking openly about a lavender marriage, it isn’t one. The point of them was to confer a fig leaf of heteronormative respectability at a time when that was professionally and socially essential; these people aren’t in it for appearances. Hoff and Greenstone don’t like the term: “It cheapens what we really have, which is a love match,” Greenstone says. But “lavender marriage” has been co-opted online as a shorthand for different forms of loving, committed relationships that do not centre conventional romance and sexual desire, both as jokey aspiration and lived experience. They need another name: some people call themselves platonic life partners (PLPs); I’ve seen “rainbow marriage” on TikTok.Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...",
-            "feed_position": 7
+            "feed_position": 8
           }
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Sun, 19 Oct 2025 11:00:12 GMT",
         "title": "Inside the Republican network behind big soda’s bid to pit Maga against Maha",
@@ -221,12 +289,12 @@
             "title": "Inside the Republican network behind big soda’s bid to pit Maga against Maha",
             "standfirst": "A Guardian investigation finds the US soda and snack-food industries, threatened by RFK Jr’s movement to change Americans’ eating habits, have turned to a group of well-connected strategists, shadowy pollsters and ‘anti-woke’ influencersMajor US soft-drink and snack-food corporations are waging a coordinated campaign that aims to pit Donald Trump’s Maga faithful against Robert F Kennedy Jr’s Make America Healthy Again movement, a Guardian investigation in partnership with environmental watchdog Fieldnotes has found. Their goal is to stymie the Maha-led effort to curb Americans’ consumption of soda and ultra-processed foods.To carry out the plan, the companies have turned to a partially formalized network of for-hire pollsters, strategists and political financiers with deep ties to the national Republican party – several of whom have taken steps that obscure their connection to the effort and to one another. In the process, the industry has also been aided less directly by a loose coalition of free-market ideologues who have previously worked to advance Trump’s deregulatory agenda. Continue reading...",
             "content": "A Guardian investigation finds the US soda and snack-food industries, threatened by RFK Jr’s movement to change Americans’ eating habits, have turned to a group of well-connected strategists, shadowy pollsters and ‘anti-woke’ influencersMajor US soft-drink and snack-food corporations are waging a coordinated campaign that aims to pit Donald Trump’s Maga faithful against Robert F Kennedy Jr’s Make America Healthy Again movement, a Guardian investigation in partnership with environmental watchdog Fieldnotes has found. Their goal is to stymie the Maha-led effort to curb Americans’ consumption of soda and ultra-processed foods.To carry out the plan, the companies have turned to a partially formalized network of for-hire pollsters, strategists and political financiers with deep ties to the national Republican party – several of whom have taken steps that obscure their connection to the effort and to one another. In the process, the industry has also been aided less directly by a loose coalition of free-market ideologues who have previously worked to advance Trump’s deregulatory agenda. Continue reading...",
-            "feed_position": 8
+            "feed_position": 9
           }
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Sun, 19 Oct 2025 06:22:02 GMT",
         "title": "Ex-rugby pro goes from the first XV to making fifteens",
@@ -249,7 +317,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/deaa/live/78707920-ab6c-11f0-b2a1-6f537f66f9aa.jpg"
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Sat, 18 Oct 2025 20:41:19 GMT",
         "title": "Mental Health Is Real Wealth: how Black men prioritize healing in a Los Angeles community",
@@ -265,12 +333,12 @@
             "title": "Mental Health Is Real Wealth: how Black men prioritize healing in a Los Angeles community",
             "standfirst": "The bi-monthly group gives Black men a safe space to share, reflect and support each otherDesmond Carter is on a mission to save the lives of Black men.Carter, founder of Mental Health Is Real Wealth, leads a bi-monthly mental health group in Los Angeles’ Leimert Park neighborhood, and on a recent Thursday, 15 Black men gathered inside a conference room without pressure and without women. Continue reading...",
             "content": "The bi-monthly group gives Black men a safe space to share, reflect and support each otherDesmond Carter is on a mission to save the lives of Black men.Carter, founder of Mental Health Is Real Wealth, leads a bi-monthly mental health group in Los Angeles’ Leimert Park neighborhood, and on a recent Thursday, 15 Black men gathered inside a conference room without pressure and without women. Continue reading...",
-            "feed_position": 9
+            "feed_position": 10
           }
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Sat, 18 Oct 2025 09:03:10 GMT",
         "title": "Skeletons found in mass grave are ancient Roman soldiers, study finds",
@@ -291,144 +359,11 @@
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88cc/live/85949170-abd7-11f0-a234-21132c44e450.png"
-      },
-      {
-        "id": "cluster_13",
-        "coverage": 1,
-        "updated_at": "Sat, 18 Oct 2025 07:13:48 GMT",
-        "title": "Exciting results from blood test for 50 cancers",
-        "neutral_headline": "Exciting results from blood test for 50 cancers",
-        "bullet_summary": [
-          "Reported by BBC Health"
-        ],
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/c205g21n1zzo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Sat, 18 Oct 2025 07:13:48 GMT",
-            "title": "Exciting results from blood test for 50 cancers",
-            "standfirst": "The Galleri test looks for fragments of DNA that have broken off a tumour and are circulating in the blood.",
-            "content": "The Galleri test looks for fragments of DNA that have broken off a tumour and are circulating in the blood.",
-            "feed_position": 0,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f714/live/07276060-aba5-11f0-bba9-81f28efa2a1e.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f714/live/07276060-aba5-11f0-bba9-81f28efa2a1e.jpg"
-      },
-      {
-        "id": "cluster_14",
-        "coverage": 1,
-        "updated_at": "Sat, 18 Oct 2025 06:49:31 GMT",
-        "title": "Chinese Nobel laureate and physicist Chen Ning Yang dies aged 103",
-        "neutral_headline": "Chinese Nobel laureate and physicist Chen Ning Yang dies aged 103",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/cdxrzzk02plo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Sat, 18 Oct 2025 06:49:31 GMT",
-            "title": "Chinese Nobel laureate and physicist Chen Ning Yang dies aged 103",
-            "standfirst": "Yang, one of the world's most influential scientists, earned global recognition for his work in theoretical physics.",
-            "content": "Yang, one of the world's most influential scientists, earned global recognition for his work in theoretical physics.",
-            "feed_position": 1,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b92/live/827b57a0-abe4-11f0-b2a1-6f537f66f9aa.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b92/live/827b57a0-abe4-11f0-b2a1-6f537f66f9aa.jpg"
-      },
-      {
-        "id": "cluster_15",
-        "coverage": 1,
-        "updated_at": "Sat, 18 Oct 2025 06:07:39 GMT",
-        "title": "Woman's rare cancer found after Butlin's holiday injury",
-        "neutral_headline": "Woman's rare cancer found after Butlin's holiday injury",
-        "bullet_summary": [
-          "Reported by BBC Health"
-        ],
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/videos/crmxzj47lzyo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Sat, 18 Oct 2025 06:07:39 GMT",
-            "title": "Woman's rare cancer found after Butlin's holiday injury",
-            "standfirst": "Charlotte had a \"fantastic\" weekend at Butlin's, unaware of the news she was about to receive.",
-            "content": "Charlotte had a \"fantastic\" weekend at Butlin's, unaware of the news she was about to receive.",
-            "feed_position": 101,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e93/live/2a1acec0-aa9e-11f0-ba75-093eca1ac29b.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e93/live/2a1acec0-aa9e-11f0-ba75-093eca1ac29b.jpg"
-      },
-      {
-        "id": "cluster_16",
-        "coverage": 1,
-        "updated_at": "Sat, 18 Oct 2025 06:00:38 GMT",
-        "title": "Chemical linked to low sperm count, obesity and cancer found in dummies, tests find",
-        "neutral_headline": "Chemical linked to low sperm count, obesity and cancer found in dummies, tests find",
-        "bullet_summary": [
-          "Philips said they had carried out subsequent testing and found no BPA, while Sophie la Girafe said the amount found was insignificant",
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2025/oct/18/chemical-linked-impaired-sexual-development-found-dummies-tests",
-            "published_at": "Sat, 18 Oct 2025 06:00:38 GMT",
-            "title": "Chemical linked to low sperm count, obesity and cancer found in dummies, tests find",
-            "standfirst": "BPA, a synthetic chemical used in production of plastics, found in baby products made by three big European brandsA chemical linked to impaired sexual development, obesity and cancer has been found in baby dummies manufactured by three big European brands.Dummies made by the Dutch multinational Philips, the Swiss oral health specialists Curaprox and the French toy brand Sophie la Girafe were found to contain bisphenol A (BPA), according to laboratory testing by dTest, a Czech consumer organisation. Philips said they had carried out subsequent testing and found no BPA, while Sophie la Girafe said the amount found was insignificant. Continue reading...",
-            "content": "BPA, a synthetic chemical used in production of plastics, found in baby products made by three big European brandsA chemical linked to impaired sexual development, obesity and cancer has been found in baby dummies manufactured by three big European brands.Dummies made by the Dutch multinational Philips, the Swiss oral health specialists Curaprox and the French toy brand Sophie la Girafe were found to contain bisphenol A (BPA), according to laboratory testing by dTest, a Czech consumer organisation. Philips said they had carried out subsequent testing and found no BPA, while Sophie la Girafe said the amount found was insignificant. Continue reading...",
-            "feed_position": 10
-          }
-        ]
-      },
-      {
-        "id": "cluster_17",
-        "coverage": 1,
-        "updated_at": "Sat, 18 Oct 2025 06:00:37 GMT",
-        "title": "Thousands of new mothers in England readmitted to hospital after birth, figures show",
-        "neutral_headline": "Thousands of new mothers in England readmitted to hospital after birth, figures show",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/lifeandstyle/2025/oct/18/thousands-of-new-mothers-in-england-readmitted-to-hospital-after-birth-figures-show",
-            "published_at": "Sat, 18 Oct 2025 06:00:37 GMT",
-            "title": "Thousands of new mothers in England readmitted to hospital after birth, figures show",
-            "standfirst": "Exclusive: More than 14,600 women readmitted within 30 days of birth in last year, raising alarm over early dischargesThousands of new mothers are being readmitted to hospital in England every year, figures reveal, raising fresh concerns about NHS maternity care.Discharging women from hospital prematurely increases the risk of conditions linked to childbirth being missed, and can be extremely distressing. If childbirth injuries or other conditions are not treated until the mother is readmitted days or weeks later, the chances of a complete recovery may also be reduced. Continue reading...",
-            "content": "Exclusive: More than 14,600 women readmitted within 30 days of birth in last year, raising alarm over early dischargesThousands of new mothers are being readmitted to hospital in England every year, figures reveal, raising fresh concerns about NHS maternity care.Discharging women from hospital prematurely increases the risk of conditions linked to childbirth being missed, and can be extremely distressing. If childbirth injuries or other conditions are not treated until the mother is readmitted days or weeks later, the chances of a complete recovery may also be reduced. Continue reading...",
-            "feed_position": 11
-          }
-        ]
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Sat, 18 Oct 2025 05:00:36 GMT",
-        "title": "Beyond chicken soup: what chefs and doctors eat when they’re sick (or just hungover)",
-        "neutral_headline": "Beyond chicken soup: what chefs and doctors eat when they’re sick (or just hungover)",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/food/2025/oct/18/what-chefs-doctors-eat-when-sick-hungover",
-            "published_at": "Sat, 18 Oct 2025 05:00:36 GMT",
-            "title": "Beyond chicken soup: what chefs and doctors eat when they’re sick (or just hungover)",
-            "standfirst": "Laid up with the flu? Suffering with a sore throat? From chicken bhuna to fire honey, this food should get you back on your feetHydrate with teas For Dr Ricardo José, consultant in respiratory medicine, hydration is key: “It’s about taking frequent sips throughout the day to keep the mucous membranes moist.” Immunologist Dr Jenna Macciochi agrees, saying: “I often stir a spoonful of raw honey – nature’s soothing antimicrobial – into a cup of thyme tea (thyme steeped in water), which helps ease irritation and supports respiratory health. I also love marshmallow root tea, which is great for the mucous membranes.” Continue reading...",
-            "content": "Laid up with the flu? Suffering with a sore throat? From chicken bhuna to fire honey, this food should get you back on your feetHydrate with teas For Dr Ricardo José, consultant in respiratory medicine, hydration is key: “It’s about taking frequent sips throughout the day to keep the mucous membranes moist.” Immunologist Dr Jenna Macciochi agrees, saying: “I often stir a spoonful of raw honey – nature’s soothing antimicrobial – into a cup of thyme tea (thyme steeped in water), which helps ease irritation and supports respiratory health. I also love marshmallow root tea, which is great for the mucous membranes.” Continue reading...",
-            "feed_position": 12
-          }
-        ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2025-10-20T03:44:05.884Z",
+    "updated_at": "2025-10-20T07:14:16.560Z",
     "clusters": []
   }
 }
