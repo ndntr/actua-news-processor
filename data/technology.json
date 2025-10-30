@@ -1,16 +1,25 @@
 {
-  "updated_at": "2025-10-29T23:13:08.631Z",
+  "updated_at": "2025-10-30T03:39:57.250Z",
   "clusters": [
     {
-      "id": "cluster_3",
+      "id": "cluster_9",
       "coverage": 3,
-      "updated_at": "Wed, 29 Oct 2025 22:16:00 GMT",
-      "title": "Massive Azure outage recovery efforts underway - here's the latest",
-      "neutral_headline": "Microsoft Azure Outage Impacts Multiple Services",
+      "updated_at": "2025-10-29T19:20:53-04:00",
+      "title": "Microsoft says it’s recovering after Azure outage took down 365, Xbox, and Starbucks",
+      "neutral_headline": "Microsoft Recovers After Azure Outage Affects Services",
       "bullet_summary": [
-        "Reported by ZDNet, The Verge, TechCrunch"
+        "Reported by The Verge, ZDNet, TechCrunch"
       ],
       "items": [
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/news/809142/microsoft-azure-xbox-365-is-down-outage",
+          "published_at": "2025-10-29T19:20:53-04:00",
+          "title": "Microsoft says it’s recovering after Azure outage took down 365, Xbox, and Starbucks",
+          "standfirst": "Microsoft Azure, the company’s cloud computing service, has experienced an outage just one week after issues with AWS took out swaths of the internet. The issues impacted Microsoft’s services that run on Azure, including Microsoft 365, Xbox, and even Minecraft. Other companies, like Capital One, Alaska Airlines, and Starbucks, also had outages that were linked [&#8230;]",
+          "content": "Microsoft Azure, the company’s cloud computing service, has experienced an outage just one week after issues with AWS took out swaths of the internet. The issues impacted Microsoft’s services that run on Azure, including Microsoft 365, Xbox, and even Minecraft. Other companies, like Capital One, Alaska Airlines, and Starbucks, also had outages that were linked to the problems with Azure. On Azure’s status page, Microsoft’s messages have linked the outage to an “inadvertent configuration change” and DNS problem. As Microsoft reported its earnings on Wednesday afternoon, its main website continued to load slowly as the outage dragged on. An update on Microsoft’s status page at 7:40PM ET included this information: Starting at approximately 16:00 UTC on 29 October 2025, customers and Microsoft services leveraging Azure Front Door (AFD) may have experienced latencies, timeouts, and errors. We have confirmed that an inadvertent configuration change was the trigger event for this issue. Affected Azure services may have included, but were not limited to: App Service, Azure Active Directory B2C, Azure Communication Services, Azure Databricks, Azure Healthcare APIs, Azure Maps, Azure Portal, Azure SQL Database, Azure Virtual Desktop, Container Registry, Media Services, Microsoft Defender External Attack Surface Management, Microsoft Entra ID (Mobility Management Policy Service, Identity & Access Management, and User Management UX), Microsoft Purview, Microsoft Sentinel (Threat Intelligence), and Video Indexer. The AFD service is now operating above 98% availability. While the majority of customers and services are mitigated or seeing strong improvement across affected regions, we are continuing to work on tail-end recovery for remaining impacted customers and services. We have revised our mitigation time and are currently tracking toward full mitigation by 00:40 UTC on 30 October 2025, though we will communicate if mitigation is achieved sooner. The Xbox Support X account also says that gaming services have recovered to their pre-incident state; however, some players said they needed to restart their consoles to reconnect. At 12:25PM ET, Microsoft 365’s status account on X said the company is investigating reports of “issues accessing Microsoft 365 services and the Microsoft 365 admin center.” A Microsoft 365 update posted at 1:02PM ET said the company “identified portions of internal infrastructure that are experiencing connectivity issues,” and that it’s working to “reroute affected traffic to restore service health.” Meanwhile, Xbox’s status page still wasn’t loading, but that has since come back online. The outage stretched beyond Microsoft’s services, as Alaska Airlines and Hawaiian Airlines said they were “currently experiencing a disruption to key systems, including our websites” due to issues with Azure. The airlines advise customers to see an agent at the airport to get their boarding pass if they couldn’t check in online. Community Fibre, an internet provider in the UK, similarly confirmed that some customers may have experienced issues due to the Microsoft outage. Additionally, Kroger told customers that its site and mobile apps were “experiencing an unexpected outage,” while Starbucks’ and Costco’s websites and apps weren’t loading, and users reported issues with Capital One. A global outage impacted the Microsoft Azure platform today where several Alaska and Hawaiian Airlines services are hosted, causing a disruption to key systems, including our websites.Our teams worked quickly to stand up our backup infrastructure to allow our guests to book and…&mdash; Alaska Airlines News (@AlaskaAirNews) October 29, 2025 Our configuration deployment and traffic rebalancing is showing steady service health improvement for the various affected M365 services. Some users may experience residual impact until availability fully recovers. We&#039;re monitoring for an extended period to ensure service health…&mdash; Microsoft 365 Status (@MSFT365Status) October 29, 2025 All Xbox Services have recovered to their pre-incident state. Thank you for your patience while we addressed this issue.&mdash; Xbox Support (@XboxSupport) October 29, 2025 Update, October 29th: Added details on recovery.",
+          "feed_position": 0
+        },
         {
           "source": "ZDNet",
           "url": "https://www.zdnet.com/article/massive-azure-outage-recovery-efforts-underway-heres-the-latest/",
@@ -18,16 +27,7 @@
           "title": "Massive Azure outage recovery efforts underway - here's the latest",
           "standfirst": "Hours later, numerous Microsoft Azure and end-user-facing services are still down, and it appears they'll be out for hours more.",
           "content": "Hours later, numerous Microsoft Azure and end-user-facing services are still down, and it appears they'll be out for hours more.",
-          "feed_position": 1
-        },
-        {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/news/809142/microsoft-azure-xbox-365-is-down-outage",
-          "published_at": "2025-10-29T16:40:13-04:00",
-          "title": "A massive Microsoft Azure outage is taking down Xbox and 365",
-          "standfirst": "Microsoft Azure, the company’s cloud computing service, is experiencing an outage just one week after issues with AWS took out swaths of the internet. The issues have impacted Microsoft’s services that run on Azure, including Microsoft 365, Xbox, and even Minecraft. Other companies, like Capital One, Alaska Airlines, and Starbucks, also had outages that were [&#8230;]",
-          "content": "Microsoft Azure, the company’s cloud computing service, is experiencing an outage just one week after issues with AWS took out swaths of the internet. The issues have impacted Microsoft’s services that run on Azure, including Microsoft 365, Xbox, and even Minecraft. Other companies, like Capital One, Alaska Airlines, and Starbucks, also had outages that were linked to the problems with Azure. On Azure’s status page, Microsoft’s messages have linked the outage to an “inadvertent configuration change” and DNS problem. At around 3:20PM ET, the company said it had finished deploying its “last known good” configuration and says customers should soon start seeing signs of recovery, with “full mitigation” expected in the next four hours. As Microsoft reported its earnings at 4PM ET, its main website continued to load slowly, and the outage is not yet resolved. At 12:25PM ET, Microsoft 365’s status account on X said the company is investigating reports of “issues accessing Microsoft 365 services and the Microsoft 365 admin center.” A Microsoft 365 update posted at 1:02PM ET said the company “identified portions of internal infrastructure that are experiencing connectivity issues,” and that it’s working to “reroute affected traffic to restore service health.” Meanwhile, Xbox’s status page still isn’t even loading. The outage goes beyond Microsoft’s services, as Alaska Airlines and Hawaiian Airlines say they are “currently experiencing a disruption to key systems, including our websites” due to issues with Azure. The airlines advise customers to see an agent at the airport to get their boarding pass if they can’t check in for their flight online. We’re investigating reports of issues accessing Microsoft 365 services and the Microsoft 365 admin center. More details can be found in the Service Health Dashboard under MO1181369.&mdash; Microsoft 365 Status (@MSFT365Status) October 29, 2025 Community Fibre, an internet provider in the UK, similarly confirmed that some customers may be experiencing issues due to the Microsoft outage. Additionally, Kroger told customers that its site and mobile apps were “experiencing an unexpected outage,” while Starbucks’ and Costco’s websites weren’t loading, and users are reporting issues with Capital One. Reports of issues with Azure began spiking on DownDetector at around 12PM ET, coinciding with reports of an outage across Microsoft 365 and Xbox. Update, October 29th: Added details on recovery.",
-          "feed_position": 8
+          "feed_position": 4
         },
         {
           "source": "TechCrunch",
@@ -36,24 +36,24 @@
           "title": "Microsoft Azure is down, affecting 365, Xbox, Minecraft, and others",
           "standfirst": "Microsoft Azure is facing a significant outage, with services affected like Microsoft 365, Xbox, and Minecraft.",
           "content": "Microsoft Azure is facing a significant outage, with services affected like Microsoft 365, Xbox, and Minecraft.",
-          "feed_position": 4
+          "feed_position": 10
         }
       ],
-      "popularity_score": 3019.0476025,
+      "popularity_score": 3015.682152777778,
       "ai_summary": [
-        "Microsoft Azure is experiencing a significant outage affecting numerous services.",
-        "Services impacted include Microsoft 365, Xbox, and the game Minecraft.",
-        "The outage is impacting services for hours, according to reports.",
-        "Other companies using Azure, like Capital One, also experienced outages.",
-        "The outage occurred one week after similar issues with Amazon Web Services."
+        "Microsoft Azure experienced a significant outage.",
+        "The outage affected Microsoft 365, Xbox, and Minecraft.",
+        "Other companies also experienced outages.",
+        "The outage occurred one week after AWS issues.",
+        "Recovery efforts are underway to restore services."
       ]
     },
     {
-      "id": "cluster_30",
+      "id": "cluster_40",
       "coverage": 2,
       "updated_at": "Wed, 29 Oct 2025 17:40:19 +0000",
       "title": "Former L3Harris Trenchant boss pleads guilty to selling zero-day exploits to Russian broker",
-      "neutral_headline": "Former L3Harris Executive Pleads Guilty to Selling Secrets",
+      "neutral_headline": "Former L3Harris Executive Pleads Guilty to Selling Exploits",
       "bullet_summary": [
         "Prosecutors confirmed Peter Williams, the former Trenchant boss, sold eight exploits to a Russian buyer",
         "TechCrunch exclusively reported that the Trenchant division was investigating a leak of its hacking tools, after another employee was accused of involvement"
@@ -66,7 +66,7 @@
           "title": "Former L3Harris Trenchant boss pleads guilty to selling zero-day exploits to Russian broker",
           "standfirst": "Prosecutors confirmed Peter Williams, the former Trenchant boss, sold eight exploits to a Russian buyer. TechCrunch exclusively reported that the Trenchant division was investigating a leak of its hacking tools, after another employee was accused of involvement.",
           "content": "Prosecutors confirmed Peter Williams, the former Trenchant boss, sold eight exploits to a Russian buyer. TechCrunch exclusively reported that the Trenchant division was investigating a leak of its hacking tools, after another employee was accused of involvement.",
-          "feed_position": 6
+          "feed_position": 12
         },
         {
           "source": "Wired Tech",
@@ -75,26 +75,26 @@
           "title": "Ex-L3Harris Cyber Boss Pleads Guilty to Selling Trade Secrets to Russian Firm",
           "standfirst": "Peter Williams, a former executive of Trenchant, L3Harris’ cyber division, has pleaded guilty to two counts of stealing trade secrets and selling them to an unnamed Russian software broker.",
           "content": "Peter Williams, a former executive of Trenchant, L3Harris’ cyber division, has pleaded guilty to two counts of stealing trade secrets and selling them to an unnamed Russian software broker.",
-          "feed_position": 5,
+          "feed_position": 6,
           "image_url": "https://media.wired.com/photos/690228d865b611a9f97823f6/master/pass/sec-L3Harris-trial-2172435098.jpg"
         }
       ],
       "featured_image": "https://media.wired.com/photos/690228d865b611a9f97823f6/master/pass/sec-L3Harris-trial-2172435098.jpg",
-      "popularity_score": 2014.4528802777777,
+      "popularity_score": 2010.0060416666668,
       "ai_summary": [
-        "Peter Williams, former Trenchant boss, sold zero-day exploits to a Russian broker.",
-        "Williams pleaded guilty to stealing trade secrets and selling them.",
-        "The Russian buyer was not named in the reports.",
-        "TechCrunch reported the Trenchant division investigated a hacking tools leak.",
-        "Another employee was previously accused of involvement in the leak."
+        "Peter Williams sold zero-day exploits to a Russian broker.",
+        "Williams was the former boss of L3Harris Trenchant.",
+        "He sold eight exploits to the Russian buyer.",
+        "Williams pleaded guilty to the charges.",
+        "The division was investigating a leak of hacking tools."
       ]
     },
     {
-      "id": "cluster_70",
+      "id": "cluster_69",
       "coverage": 2,
       "updated_at": "Wed, 29 Oct 2025 13:00:18 +0000",
       "title": "Republican plan would make deanonymization of census data trivial",
-      "neutral_headline": "Republican Plan Could Compromise Census Data Privacy",
+      "neutral_headline": "Republican Plan Could Risk Privacy of Census Data",
       "bullet_summary": [
         "Reported by Ars Technica, Wired Tech"
       ],
@@ -106,7 +106,7 @@
           "title": "Republican plan would make deanonymization of census data trivial",
           "standfirst": "\"Differential privacy\" algorithm prevents statistical data from being tied to individuals.",
           "content": "President Donald Trump and the Republican Party have spent the better part of the president’s second term radically reshaping the federal government. But in recent weeks, the GOP has set its sights on taking another run at an old target: the US census. Since the first Trump administration, the right has sought to add a question to the census that captures a respondent’s immigration status and to exclude noncitizens from the tallies that determine how seats in Congress are distributed. In 2019, the Supreme Court struck down an attempt by the first Trump administration to add a citizenship question to the census. But now, a little-known algorithmic process called “differential privacy,” created to keep census data from being used to identify individual respondents, has become the right’s latest focus. WIRED spoke to six experts about the GOP’s ongoing effort to falsely allege that a system created to protect people’s privacy has made the data from the 2020 census inaccurate.Read full article Comments",
-          "feed_position": 8,
+          "feed_position": 11,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/census-1152x648.jpg"
         },
         {
@@ -116,32 +116,32 @@
           "title": "The Republican Plan to Reform the Census Could Put Everyone’s Privacy at Risk",
           "standfirst": "A little-known algorithmic process called “differential privacy” helps keep census data anonymous. Conservatives want it gone.",
           "content": "A little-known algorithmic process called “differential privacy” helps keep census data anonymous. Conservatives want it gone.",
-          "feed_position": 39,
+          "feed_position": 40,
           "image_url": "https://media.wired.com/photos/68f6b13d4cd4cc76ba1c8542/master/pass/politics_census_republicans_data_privacy.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/census-1152x648.jpg",
-      "popularity_score": 2009.7859358333333,
+      "popularity_score": 2005.3390972222223,
       "ai_summary": [
-        "Republicans propose changes to census data processing methods.",
-        "The current \"differential privacy\" algorithm protects individual data.",
-        "Conservatives want to eliminate the current privacy algorithm.",
-        "The proposed changes could make data deanonymization easier.",
-        "The changes could potentially put everyone's privacy at risk."
+        "A Republican plan could make census data less anonymous.",
+        "The plan involves changes to \"differential privacy\".",
+        "Differential privacy protects statistical data.",
+        "Conservatives want to eliminate the process.",
+        "The plan could put everyone's privacy at risk."
       ]
     },
     {
-      "id": "cluster_8",
+      "id": "cluster_18",
       "coverage": 1,
       "updated_at": "Wed, 29 Oct 2025 21:35:58 +0000",
       "title": "Meta denies torrenting porn to train AI, says downloads were for “personal use”",
-      "neutral_headline": "Meta Denies Using Porn to Train Artificial Intelligence",
+      "neutral_headline": "Meta Denies Using Porn to Train AI, Cites Personal Use",
       "bullet_summary": [
-        "Reported by Ars Technica Main"
+        "Reported by Ars Technica"
       ],
       "items": [
         {
-          "source": "Ars Technica Main",
+          "source": "Ars Technica",
           "url": "https://arstechnica.com/tech-policy/2025/10/meta-says-porn-downloads-on-its-ips-were-for-personal-use-not-ai-training/",
           "published_at": "Wed, 29 Oct 2025 21:35:58 +0000",
           "title": "Meta denies torrenting porn to train AI, says downloads were for “personal use”",
@@ -152,21 +152,83 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2171230457-1152x648.jpg",
-      "popularity_score": 366.38038027777776,
+      "popularity_score": 361.93354166666666,
       "ai_summary": [
-        "Meta denies allegations of using pirated porn for AI training.",
-        "A lawsuit claims Meta downloaded pornographic material.",
-        "Meta claims the downloads were for personal use.",
-        "The company says the lawsuit's claims are inaccurate.",
-        "The lawsuit alleges Meta used the material to train its AI models."
+        "Meta denies claims of using porn to train its AI.",
+        "The company says downloads were for personal use.",
+        "A lawsuit alleges Meta pirated porn.",
+        "Meta says the lawsuit makes no sense.",
+        "The case involves the training of AI models."
       ]
     },
     {
-      "id": "cluster_18",
+      "id": "cluster_20",
+      "coverage": 1,
+      "updated_at": "Wed, 29 Oct 2025 21:23:22 +0000",
+      "title": "Space station astronauts eager to open “golden treasure box” from Japan",
+      "neutral_headline": "Space Station Astronauts Anticipate Opening Japanese Treasure",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/space/2025/10/space-station-astronauts-eager-to-open-golden-treasure-box-from-japan/",
+          "published_at": "Wed, 29 Oct 2025 21:23:22 +0000",
+          "title": "Space station astronauts eager to open “golden treasure box” from Japan",
+          "standfirst": "\"This spacecraft is so beautiful and shiny, and this is representing our bright future.\"",
+          "content": "A cargo ship from Japan pulled alongside the International Space Station on Wednesday, maneuvering close enough for the lab’s robotic arm to reach out and grab it as the vehicles soared 260 miles over the South Atlantic Ocean. “HTV capture complete,” Japanese astronaut Kimiya Yui radioed from the ISS. “I just want to say congratulations to all teams and people involved in this mission. Also, thank you very much for your hard work and support for the first HTV-X mission.” The HTV-X spacecraft is an upgraded cargo freighter replacing Japan’s H-II Transfer Vehicle, which successfully resupplied the space station nine times between 2009 and 2020. At the conclusion of the HTV program, Japan’s space agency preferred to focus its resources on designing a new cargo ship with more capability at a lower cost. That’s what HTV-X is supposed to be, and Wednesday’s high-flying rendezvous marked the new ship’s first delivery to the ISS.Read full article Comments",
+          "feed_position": 1,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/htvx1-arrive1-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/htvx1-arrive1-1152x648.jpg",
+      "popularity_score": 344.7235416666667,
+      "ai_summary": [
+        "Astronauts are eager to open a \"golden treasure box\".",
+        "The box is from Japan.",
+        "The spacecraft is described as beautiful and shiny.",
+        "The box represents a bright future.",
+        "The astronauts are excited about the contents."
+      ]
+    },
+    {
+      "id": "cluster_21",
+      "coverage": 1,
+      "updated_at": "Wed, 29 Oct 2025 21:04:45 +0000",
+      "title": "NPM flooded with malicious packages downloaded more than 86,000 times",
+      "neutral_headline": "Malicious Packages Flood NPM, Downloaded Thousands of Times",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/",
+          "published_at": "Wed, 29 Oct 2025 21:04:45 +0000",
+          "title": "NPM flooded with malicious packages downloaded more than 86,000 times",
+          "standfirst": "Packages downloaded from NPM can fetch dependancies from untrusted sites.",
+          "content": "Attackers are exploiting a major weakness that has allowed them access to the NPM code repository with more than 100 credential-stealing packages since August, mostly without detection. The finding, laid out Wednesday by security firm Koi, brings attention to an NPM practice that allows installed packages to automatically pull down and run unvetted packages from untrusted domains. Koi said a campaign it tracks as PhantomRaven has exploited NPM’s use of “Remote Dynamic Dependences” to flood NPM with 126 malicious packages that have been downloaded more than 86,000 times. Some 80 of those packages remained available as of Wednesday morning, Koi said. A blind spot “PhantomRaven demonstrates how sophisticated attackers are getting [better] at exploiting blind spots in traditional security tooling,” Koi’s Oren Yomtov wrote. “Remote Dynamic Dependencies aren’t visible to static analysis.”Read full article Comments",
+          "feed_position": 2,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
+      "popularity_score": 326.4132638888889,
+      "ai_summary": [
+        "Malicious packages have been downloaded from NPM.",
+        "The packages were downloaded over 86,000 times.",
+        "Packages can fetch dependencies from untrusted sites.",
+        "The packages pose a security risk.",
+        "The issue highlights a vulnerability in NPM."
+      ]
+    },
+    {
+      "id": "cluster_28",
       "coverage": 1,
       "updated_at": "Wed, 29 Oct 2025 19:44:40 +0000",
       "title": "Trump health official ousted after allegedly giving himself a fake title",
-      "neutral_headline": "Trump Health Official Ousted After Title Allegations",
+      "neutral_headline": "Former Health Official Ousted After Alleged Title Misrepresentation",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -178,57 +240,26 @@
           "title": "Trump health official ousted after allegedly giving himself a fake title",
           "standfirst": "Steven Hatfill had a notable history before his abrupt ouster.",
           "content": "Steven Hatfill, a senior advisor for the Department of Health and Human Services was fired over the weekend, with health officials telling reporters that he was terminated for giving himself a fake, inflated title and for not cooperating with leadership. For his part, Hatfill told The New York Times that his ouster was part of “a coup to overthrow M. Kennedy,” referring to anti-vaccine Health Secretary Robert F. Kennedy Jr. Further, Hatfill said the coup was being orchestrated by Matt Buckham, Kennedy’s chief of staff, though Hatfill didn’t provide any explanation of how his ouster was evidence of that. An HHS spokesperson responded to the allegation, telling the Times that “firing a staff member for cause does not add up to a coup.” Bloomberg was first to report Hatfill’s termination.Read full article Comments",
-          "feed_position": 0,
+          "feed_position": 3,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-122179143-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-122179143-1152x648.jpg",
-      "popularity_score": 349.5253802777778,
+      "popularity_score": 315.07854166666664,
       "ai_summary": [
-        "Steven Hatfill was ousted from his position.",
-        "Hatfill allegedly gave himself a fake title.",
-        "Hatfill had a notable history before his ouster.",
-        "Details of the fake title were not specified in the reports.",
-        "The circumstances surrounding the ouster remain unclear."
+        "Steven Hatfill, a former health official, was ousted from his position.",
+        "The ousting occurred after allegations of Hatfill misrepresenting his title.",
+        "Hatfill had a notable history prior to his abrupt departure from the role.",
+        "Details of Hatfill's past were highlighted in the news report.",
+        "The circumstances surrounding the ousting remain under scrutiny."
       ]
     },
     {
-      "id": "cluster_10",
-      "coverage": 1,
-      "updated_at": "Wed, 29 Oct 2025 21:23:22 +0000",
-      "title": "Space station astronauts eager to open “golden treasure box” from Japan",
-      "neutral_headline": "Space Station Astronauts Excited for Japanese Treasure Box",
-      "bullet_summary": [
-        "Reported by Ars Technica Main"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica Main",
-          "url": "https://arstechnica.com/space/2025/10/space-station-astronauts-eager-to-open-golden-treasure-box-from-japan/",
-          "published_at": "Wed, 29 Oct 2025 21:23:22 +0000",
-          "title": "Space station astronauts eager to open “golden treasure box” from Japan",
-          "standfirst": "\"This spacecraft is so beautiful and shiny, and this is representing our bright future.\"",
-          "content": "A cargo ship from Japan pulled alongside the International Space Station on Wednesday, maneuvering close enough for the lab’s robotic arm to reach out and grab it as the vehicles soared 260 miles over the South Atlantic Ocean. “HTV capture complete,” Japanese astronaut Kimiya Yui radioed from the ISS. “I just want to say congratulations to all teams and people involved in this mission. Also, thank you very much for your hard work and support for the first HTV-X mission.” The HTV-X spacecraft is an upgraded cargo freighter replacing Japan’s H-II Transfer Vehicle, which successfully resupplied the space station nine times between 2009 and 2020. At the conclusion of the HTV program, Japan’s space agency preferred to focus its resources on designing a new cargo ship with more capability at a lower cost. That’s what HTV-X is supposed to be, and Wednesday’s high-flying rendezvous marked the new ship’s first delivery to the ISS.Read full article Comments",
-          "feed_position": 1,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/htvx1-arrive1-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/htvx1-arrive1-1152x648.jpg",
-      "popularity_score": 349.1703802777778,
-      "ai_summary": [
-        "Astronauts are eager to open a \"golden treasure box\" from Japan.",
-        "The spacecraft is described as beautiful and shiny.",
-        "The astronauts see the spacecraft as representing a bright future.",
-        "The contents of the treasure box were not specified.",
-        "The spacecraft's arrival is a significant event for the crew."
-      ]
-    },
-    {
-      "id": "cluster_20",
+      "id": "cluster_30",
       "coverage": 1,
       "updated_at": "Wed, 29 Oct 2025 19:18:37 +0000",
       "title": "FCC Republicans force prisoners and families to pay more for phone calls",
-      "neutral_headline": "FCC Republicans Increase Prisoner Phone Call Costs",
+      "neutral_headline": "FCC Republicans Increase Phone Call Costs for Prisoners and Families",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -240,26 +271,26 @@
           "title": "FCC Republicans force prisoners and families to pay more for phone calls",
           "standfirst": "Democrat: FCC \"rewards corporations with money taken from vulnerable families.\"",
           "content": "The Federal Communications Commission voted yesterday to raise the maximum prices that prison and jail phone services can charge inmates and their families. The 2–1 vote with Republicans voting to raise the limits came with a dissent from Democrat Anna Gomez, who said the new rates will be “almost double in some facilities.” A new inflation factor will allow rates to rise further. “The FCC once again is going above and beyond to address the unsubstantiated needs of monopoly providers to squeeze every penny possible from families that want to stay in touch with their loved ones,” Gomez said at the FCC meeting. “Throughout this order, the FCC chooses to reward corporations with money taken from vulnerable families.”Read full article Comments",
-          "feed_position": 1,
+          "feed_position": 4,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/brendan-carr-fcc-1152x648-1761764153.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/brendan-carr-fcc-1152x648-1761764153.jpg",
-      "popularity_score": 339.09121361111113,
+      "popularity_score": 304.644375,
       "ai_summary": [
-        "FCC Republicans are increasing phone call costs for prisoners.",
-        "The changes will impact prisoners and their families.",
-        "A Democrat stated the FCC rewards corporations.",
-        "The money comes from vulnerable families.",
-        "The FCC's actions are drawing criticism from Democrats."
+        "FCC Republicans are implementing policies that increase phone call costs.",
+        "These increased costs primarily affect prisoners and their families.",
+        "A Democrat criticized the FCC's actions, citing corporate rewards.",
+        "The Democrat stated the FCC is taking money from vulnerable families.",
+        "The policy changes have sparked controversy and criticism."
       ]
     },
     {
-      "id": "cluster_42",
+      "id": "cluster_52",
       "coverage": 1,
       "updated_at": "Wed, 29 Oct 2025 16:37:06 +0000",
       "title": "TV-focused YouTube update brings AI upscaling, shopping QR codes",
-      "neutral_headline": "YouTube Update Introduces AI Upscaling and Shopping",
+      "neutral_headline": "YouTube Update Focuses on TV Experience with AI and Shopping",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -271,57 +302,26 @@
           "title": "TV-focused YouTube update brings AI upscaling, shopping QR codes",
           "standfirst": "YouTube seeks a more couch-friendly experience.",
           "content": "YouTube has been streaming for 20 years, but it was only in the last couple that it came to dominate TV streaming. Google’s video platform attracts more TV viewers than Netflix, Disney+, and all the other apps, and Google is looking to further beef up its big-screen appeal with a new raft of features, including shopping, immersive channel surfing, and an official version of the AI upscaling that had creators miffed a few months back. According to Google, YouTube’s growth has translated into higher payouts. The number of channels earning more than $100,000 annually is up 45 percent in 2025 versus 2024. YouTube is now giving creators some tools to boost their appeal (and hopefully their income) on TV screens. Those elaborate video thumbnails featuring surprised, angry, smiley hosts are about to get even prettier with the new 50MB file size limit. That’s up from a measly 2MB. Video upscaling is also coming to YouTube, and creators will be opted in automatically. To start, YouTube will be upscaling lower-quality videos to 1080p. In the near future, Google plans to support “super resolution” up to 4K.Read full article Comments",
-          "feed_position": 3,
+          "feed_position": 6,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2021/12/getty-youtube-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2021/12/getty-youtube-1152x648.jpg",
-      "popularity_score": 331.39926916666667,
+      "popularity_score": 296.95243055555557,
       "ai_summary": [
-        "YouTube is rolling out updates for a TV-focused experience.",
-        "The update includes AI upscaling features.",
-        "Shopping QR codes are also being added.",
-        "YouTube aims to improve the viewing experience on TVs.",
-        "The updates are designed to be more couch-friendly."
+        "YouTube is rolling out an update focused on improving the TV experience.",
+        "The update includes AI upscaling features for enhanced video quality.",
+        "Shopping QR codes are being integrated into the platform.",
+        "YouTube aims to make the platform more user-friendly on couches.",
+        "The changes are designed to enhance the viewing experience."
       ]
     },
     {
-      "id": "cluster_11",
-      "coverage": 1,
-      "updated_at": "Wed, 29 Oct 2025 21:04:45 +0000",
-      "title": "NPM flooded with malicious packages downloaded more than 86,000 times",
-      "neutral_headline": "Malicious Packages Flood NPM, Downloaded Thousands of Times",
-      "bullet_summary": [
-        "Reported by Ars Technica Main"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica Main",
-          "url": "https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/",
-          "published_at": "Wed, 29 Oct 2025 21:04:45 +0000",
-          "title": "NPM flooded with malicious packages downloaded more than 86,000 times",
-          "standfirst": "Packages downloaded from NPM can fetch dependancies from untrusted sites.",
-          "content": "Attackers are exploiting a major weakness that has allowed them access to the NPM code repository with more than 100 credential-stealing packages since August, mostly without detection. The finding, laid out Wednesday by security firm Koi, brings attention to an NPM practice that allows installed packages to automatically pull down and run unvetted packages from untrusted domains. Koi said a campaign it tracks as PhantomRaven has exploited NPM’s use of “Remote Dynamic Dependences” to flood NPM with 126 malicious packages that have been downloaded more than 86,000 times. Some 80 of those packages remained available as of Wednesday morning, Koi said. A blind spot “PhantomRaven demonstrates how sophisticated attackers are getting [better] at exploiting blind spots in traditional security tooling,” Koi’s Oren Yomtov wrote. “Remote Dynamic Dependencies aren’t visible to static analysis.”Read full article Comments",
-          "feed_position": 2,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
-      "popularity_score": 330.8601025,
-      "ai_summary": [
-        "Malicious packages have been uploaded to NPM.",
-        "The packages have been downloaded over 86,000 times.",
-        "Packages can fetch dependencies from untrusted sites.",
-        "The packages pose a security risk to users.",
-        "The downloads have raised security concerns."
-      ]
-    },
-    {
-      "id": "cluster_25",
+      "id": "cluster_35",
       "coverage": 1,
       "updated_at": "Wed, 29 Oct 2025 18:29:45 +0000",
       "title": "ICE’s forced face scans to verify citizens is unconstitutional, lawmakers say",
-      "neutral_headline": "Lawmakers Challenge ICE Face Scans as Unconstitutional",
+      "neutral_headline": "Lawmakers Say ICE Face Scans to Verify Citizens Are Unconstitutional",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -333,26 +333,26 @@
           "title": "ICE’s forced face scans to verify citizens is unconstitutional, lawmakers say",
           "standfirst": "Videos show ICE conducting random face scans on US streets.",
           "content": "Social media videos have confirmed that Immigration and Customs Enforcement (ICE) and Customs and Border Protection (CBP) officers patrolling US streets are actively using facial recognition technology to verify citizenship, 404 Media reported. In one video posted on a Chicago-based Instagram account, a self-described teenager and US citizen tells officers that he has no government ID. After he offers to show his student ID instead, the officer turns to another and asks, “can you do facial?” As the other officer pulls up an app to scan the teen’s face, the first officer tells the teenager to “relax” while alleging that “a lot of parents” tell their kids they were born in the US. The video ends after the officer takes the minor’s photo and asks the teen to verify that his name matches what the app’s database pulled up. It’s unclear which app the officers used during this Chicago stop. But 404 Media has been closely tracking ICE and CBP’s increasing use of face scans amid the Trump administration’s nationwide mass deportation campaign, which critics slam as largely rooted in racial profiling. Earlier this year, 404 Media reviewed leaked emails confirming that ICE was using Mobile Fortify, which allows agents to scan “an unprecedented number of government databases” and compare face matches against a database of 200 million images.Read full article Comments",
-          "feed_position": 2,
+          "feed_position": 5,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2238024951-1024x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2238024951-1024x648.jpg",
-      "popularity_score": 328.27676916666667,
+      "popularity_score": 293.82993055555556,
       "ai_summary": [
         "Lawmakers are challenging ICE's use of face scans.",
-        "They claim the practice is unconstitutional.",
-        "Videos show ICE conducting face scans on US streets.",
-        "The face scans are being conducted randomly.",
-        "The lawmakers are raising concerns about privacy."
+        "They claim the practice of face scans is unconstitutional.",
+        "Videos show ICE conducting random face scans in public areas.",
+        "The legality of ICE's actions is being questioned.",
+        "The issue raises concerns about privacy and civil liberties."
       ]
     },
     {
-      "id": "cluster_57",
+      "id": "cluster_61",
       "coverage": 1,
       "updated_at": "Wed, 29 Oct 2025 14:46:21 +0000",
       "title": "Nvidia hits record $5 trillion mark as CEO dismisses AI bubble concerns",
-      "neutral_headline": "Nvidia Hits $5 Trillion Mark, CEO Dismisses Bubble Concerns",
+      "neutral_headline": "Nvidia Reaches Record Valuation, CEO Dismisses AI Bubble Concerns",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -364,26 +364,26 @@
           "title": "Nvidia hits record $5 trillion mark as CEO dismisses AI bubble concerns",
           "standfirst": "\"I don’t believe we’re in an AI bubble,\" says Huang after announcing $500B in orders.",
           "content": "On Wednesday, Nvidia became the first company in history to reach a $5 trillion market capitalization, fresh on the heels of a GTC conference keynote in Washington, DC, where CEO Jensen Huang announced $500 billion in AI chip orders and plans to build seven supercomputers for the US government. The milestone comes a mere three months after Nvidia crossed the $4 trillion mark in July, vaulting the company past tech giants like Apple and Microsoft in market valuation but also driving continued fears of an AI investment bubble. Nvidia’s shares have climbed nearly 12-fold since the launch of ChatGPT in late 2022, as the AI boom propelled the S&P 500 to record highs. Shares of Nvidia stock rose 4.6 percent on Wednesday following the Tuesday announcement at the company’s GTC conference. During a Bloomberg Television interview at the event, Huang dismissed concerns about overheated valuations, saying, “I don’t believe we’re in an AI bubble. All of these different AI models we’re using—we’re using plenty of services and paying happily to do it.” Nvidia expects to ship 20 million units of its latest chips, compared to just 4 million units of the previous Hopper generation over its entire lifetime, Huang said at the conference. The $500 billion figure represents cumulative orders for the company’s Blackwell and Rubin processors through the end of 2026, though Huang noted that his projections did not include potential sales to China.Read full article Comments",
-          "feed_position": 5,
+          "feed_position": 8,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/nvidia_flag_2-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/nvidia_flag_2-1152x648.jpg",
-      "popularity_score": 309.5534358333333,
+      "popularity_score": 275.1065972222222,
       "ai_summary": [
-        "Nvidia's market capitalization reached a record $5 trillion.",
-        "The CEO dismissed concerns about an AI bubble.",
-        "Huang announced $500 billion in orders.",
-        "The company's growth is driven by AI demand.",
-        "The CEO remains optimistic about the future."
+        "Nvidia's market capitalization has reached a record $5 trillion.",
+        "The CEO, Huang, dismissed concerns about an AI bubble.",
+        "Huang announced $500 billion in orders for the company.",
+        "The company's success is tied to the AI industry.",
+        "The CEO's statements reflect confidence in the market."
       ]
     },
     {
-      "id": "cluster_44",
+      "id": "cluster_53",
       "coverage": 1,
       "updated_at": "Wed, 29 Oct 2025 16:20:59 +0000",
       "title": "The chemistry behind that pricey cup of civet coffee",
-      "neutral_headline": "Chemistry Behind Kopi Luwak Coffee Taste Analyzed",
+      "neutral_headline": "Chemical Analysis Reveals Details of Civet Coffee's Unique Taste",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -395,26 +395,26 @@
           "title": "The chemistry behind that pricey cup of civet coffee",
           "standfirst": "Fans of kopi luwak claim the coffee has a unique aroma and taste. A new chemical analysis backs them up.",
           "content": "In 2007’s The Bucket List, Jack Nicholson’s billionaire magnate is a fan of a luxury coffee called kopi luwak, only to be informed that the beans first pass through the digestive tracts of civets and are harvested from their feces prior to roasting. The implication is that the billionaire just liked drinking gimmicky expensive coffee without realizing its less-than-luxurious origins. It’s one of the most expensive coffees in the world, ranging from $45 per pound to $590 per pound, depending on whether the beans are farmed or collected in the wild. Whether kopi luwak is worth that hefty price tag depends on who you ask. A Washington Post food critic once compared the beverage to stale Folgers, memorably describing the flavor as “petrified dinosaur droppings steeped in bathtub water.” Yet kopi luwak has many genuine fans who claim the coffee has a unique aroma and taste. Based on a new chemical analysis, they might have a point, according to a paper published in Scientific Reports. Technically, kopi luwak is a method of processing, not a specific coffee bean variety. Asian palm civets hang around coffee plantations because they love to feast on ripened coffee berries; the berries constitute most of their diet, along with various seeds. The consumed berries undergo fermentation as they pass through the animal’s intestines, and the civets digest the pulp and excrete the beans. Coffee farmers then collect the scat to recover the excreted beans and process and roast them to produce kopi luwak.Read full article Comments",
-          "feed_position": 4,
+          "feed_position": 7,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/civet2-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/civet2-1152x648.jpg",
-      "popularity_score": 306.13065805555556,
+      "popularity_score": 271.68381944444445,
       "ai_summary": [
-        "Kopi luwak coffee is known for its unique taste and aroma.",
-        "A new chemical analysis has been conducted.",
-        "The analysis supports claims about the coffee's flavor.",
-        "The coffee is made from beans eaten and excreted by civets.",
-        "The analysis explores the chemical compounds in the coffee."
+        "Kopi luwak coffee is known for its unique aroma and taste.",
+        "A new chemical analysis has been conducted on the coffee.",
+        "The analysis supports claims about the coffee's distinct qualities.",
+        "Fans of the coffee believe it has a special flavor profile.",
+        "The study provides scientific backing for the coffee's reputation."
       ]
     },
     {
-      "id": "cluster_60",
+      "id": "cluster_64",
       "coverage": 1,
       "updated_at": "Wed, 29 Oct 2025 14:28:19 +0000",
       "title": "Man accidentally gets leech up his nose. It took 20 days to figure it out.",
-      "neutral_headline": "Man Finds Leech in Nose, Takes Twenty Days to Discover",
+      "neutral_headline": "Man Discovers Leech in Nose After Twenty Days",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -426,57 +426,26 @@
           "title": "Man accidentally gets leech up his nose. It took 20 days to figure it out.",
           "standfirst": "Leeches have a long medical history. Here's what happens if one gets in your nose.",
           "content": "Since the dawn of civilization, leeches have been firmly attached to medicine. Therapeutic bloodsuckers are seen in murals decorating the tombs of 18th dynasty Egyptian pharaohs. They got their earliest written recommendation in the 2nd century BC by Greek poet and physician Nicander of Colophon. He introduced the “blood-loving leech, long flaccid and yearning for gore,” as a useful tool for sucking out poison after a bite from a poisonous animal. “Let leeches feed on [the] wounds and drink their fill,” he wrote. Ancient Chinese writing touted their medicinal potential, too, as did references in Sanskrit. Galen, the physician for Roman Emperor Marcus Aurelius, supported using leeches to balance the four humors (i.e. blood, phlegm, and yellow and black bile) and therefore treat ailments—as initially outlined by Hippocrates. Leeches, doctors found, provided a method for less painful, localized, and limited bloodletting. We now understand that leeches can release an anesthetic to prevent pain and a powerful anticoagulant, hirudin, to prevent clotting and keep blood flowing. In the centuries since the Roman era, leeches’ popularity only grew. They were used to treat everything from gout to liver disease, epilepsy, and melancholy. The very word “leech” is derived from the Anglo-Saxon word “laece,” which translates to “physician.”Read full article Comments",
-          "feed_position": 6,
+          "feed_position": 9,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2220375814-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2220375814-1152x648.jpg",
-      "popularity_score": 284.25288027777776,
+      "popularity_score": 249.80604166666666,
       "ai_summary": [
-        "A man accidentally got a leech up his nose.",
-        "It took twenty days to realize the leech was present.",
-        "Leeches have a long history in medicine.",
-        "The article explains what happens if a leech enters the nose.",
-        "The incident highlights the leech's ability to go unnoticed."
+        "A man accidentally got a leech lodged in his nose.",
+        "It took twenty days for the man to realize the issue.",
+        "Leeches have a long history in medical practices.",
+        "The article describes what happens when a leech enters the nose.",
+        "The incident highlights the potential for unusual medical cases."
       ]
     },
     {
-      "id": "cluster_66",
-      "coverage": 1,
-      "updated_at": "Wed, 29 Oct 2025 13:40:15 +0000",
-      "title": "New physical attacks are quickly diluting secure enclave defenses from Nvidia, AMD, and Intel",
-      "neutral_headline": "New Attacks Dilute Secure Enclave Defenses",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/security/2025/10/new-physical-attacks-are-quickly-diluting-secure-enclave-defenses-from-nvidia-amd-and-intel/",
-          "published_at": "Wed, 29 Oct 2025 13:40:15 +0000",
-          "title": "New physical attacks are quickly diluting secure enclave defenses from Nvidia, AMD, and Intel",
-          "standfirst": "On-chip TEEs withstand rooted OSes but fall instantly to cheap physical attacks.",
-          "content": "Trusted execution environments, or TEEs, are everywhere—in blockchain architectures, virtually every cloud service, and computing involving AI, finance, and defense contractors. It’s hard to overstate the reliance that entire industries have on three TEEs in particular: Confidential Compute from Nvidia, SEV-SNP from AMD, and SGX and TDX from Intel. All three come with assurances that confidential data and sensitive computing can’t be viewed or altered, even if a server has suffered a complete compromise of the operating kernel. A trio of novel physical attacks raises new questions about the true security offered by these TEES and the exaggerated promises and misconceptions coming from the big and small players using them. The most recent attack, released Tuesday, is known as TEE.fail. It defeats the latest TEE protections from all three chipmakers. The low-cost, low-complexity attack works by placing a small piece of hardware between a single physical memory chip and the motherboard slot it plugs into. It also requires the attacker to compromise the operating system kernel. Once this three-minute attack is completed, Confidential Compute, SEV-SNP, and TDX/SDX can no longer be trusted. Unlike the Battering RAM and Wiretap attacks from last month—which worked only against CPUs using DDR4 memory—TEE.fail works against DDR5, allowing them to work against the latest TEEs.Read full article Comments",
-          "feed_position": 7,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/cpu-key-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/cpu-key-1152x648.jpg",
-      "popularity_score": 273.4517691666667,
-      "ai_summary": [
-        "New physical attacks are targeting secure enclaves.",
-        "The attacks are affecting Nvidia, AMD, and Intel.",
-        "On-chip TEEs are vulnerable to physical attacks.",
-        "TEEs withstand rooted OSes but fall to attacks.",
-        "The attacks are described as cheap and effective."
-      ]
-    },
-    {
-      "id": "cluster_77",
+      "id": "cluster_73",
       "coverage": 1,
       "updated_at": "Wed, 29 Oct 2025 12:23:08 +0000",
       "title": "NASA races to keep Artemis II on schedule, even when workers aren’t being paid",
-      "neutral_headline": "NASA Races to Keep Artemis II on Schedule",
+      "neutral_headline": "NASA Works to Maintain Artemis II Schedule Despite Funding Issues",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -488,57 +457,26 @@
           "title": "NASA races to keep Artemis II on schedule, even when workers aren’t being paid",
           "standfirst": "\"I do think we're rapidly approaching the point where it will be a significant impact.\"",
           "content": "It has been nearly one month since many parts of the federal government shut down after lawmakers missed a budget deadline at the end of September, but so far, NASA’s most critical operations have been unaffected by the political impasse in Washington, DC. That may change soon. Federal civil servants and NASA contractors are not getting paid during the shutdown, even if agency leaders have deemed their tasks essential and directed them to continue working. Jobs classified as essential include employees operating and safeguarding the International Space Station and NASA’s fleet of robotic probes exploring the Solar System and beyond. Many employees at NASA’s Kennedy Space Center in Florida remain at work, too. Their job is to keep the Artemis II mission on schedule for launch as soon as next February. In the four weeks since the start of the government shutdown, crews at Kennedy Space Center have completed several major milestones on the road to Artemis II, including the stacking of the Orion spacecraft atop its Space Launch System rocket inside the cavernous Vehicle Assembly Building. This milestone, completed about one week ago, capped off assembly of the SLS rocket for Artemis II.Read full article Comments",
-          "feed_position": 9,
+          "feed_position": 12,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/KSC-20250807-PH-SNW01_0001orig-1152x648-1761709022.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/KSC-20250807-PH-SNW01_0001orig-1152x648-1761709022.jpg",
-      "popularity_score": 273.1664913888889,
+      "popularity_score": 158.71965277777778,
       "ai_summary": [
-        "NASA is working to keep Artemis II on schedule.",
-        "Workers are not always being paid.",
-        "Delays could have a significant impact.",
-        "The project faces financial and logistical challenges.",
-        "The article discusses the challenges facing the project."
+        "NASA is striving to keep Artemis II on schedule.",
+        "Some workers are not being paid due to funding issues.",
+        "Delays could significantly impact the project's progress.",
+        "The project is approaching a critical point.",
+        "The situation poses challenges to the mission's timeline."
       ]
     },
     {
-      "id": "cluster_101",
-      "coverage": 1,
-      "updated_at": "Tue, 28 Oct 2025 16:46:56 +0000",
-      "title": "Here’s how Slate Auto plans to handle repairs to its electric trucks",
-      "neutral_headline": "Slate Auto Partners for Electric Truck Repair Services",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2025/10/slate-auto-announces-repair-network-access-to-superchargers/",
-          "published_at": "Tue, 28 Oct 2025 16:46:56 +0000",
-          "title": "Here’s how Slate Auto plans to handle repairs to its electric trucks",
-          "standfirst": "The startup has partnered with RepairPal to service its affordable EV truck.",
-          "content": "Earlier this year, Slate Auto emerged from stealth mode and stunned industry watchers with the Slate Truck, a compact electric pickup it plans to sell for less than $30,000. Achieving that price won’t be easy, but Slate really does look to be doing things differently from the rest of the industry—even Tesla. For example, the truck will be made from just 600 parts, with no paint or even an infotainment system, to keep costs down. An unanswered question until now has been “where do I take it to be fixed if it breaks?” Today, we have an answer. Slate is partnering with RepairPal to use the latter’s network of more than 4,000 locations across the US. “Slate’s OEM partnership with RepairPal’s nationwide network of service centers will give Slate customers peace of mind while empowering independent service shops to provide accessorization and service,” said Slate chief commercial officer Jeremy Snyder.Read full article Comments",
-          "feed_position": 19,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/0829_slate-7-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/0829_slate-7-1152x648.jpg",
-      "popularity_score": 154,
-      "ai_summary": [
-        "Slate Auto will partner with RepairPal to service its electric trucks.",
-        "The partnership aims to provide repair services for Slate's affordable EV truck.",
-        "RepairPal will handle repairs for Slate's electric trucks.",
-        "The collaboration is a key part of Slate's plan for its EV truck.",
-        "Details about the repair process are available through the partnership."
-      ]
-    },
-    {
-      "id": "cluster_90",
+      "id": "cluster_83",
       "coverage": 1,
       "updated_at": "Tue, 28 Oct 2025 22:38:46 +0000",
       "title": "Westinghouse is claiming a nuclear deal would see $80B of new reactors",
-      "neutral_headline": "Westinghouse Claims Nuclear Deal Could Bring $80 Billion",
+      "neutral_headline": "Westinghouse Claims Nuclear Deal Involves $80 Billion in Reactors",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -550,26 +488,26 @@
           "title": "Westinghouse is claiming a nuclear deal would see $80B of new reactors",
           "standfirst": "Details are remarkably sparse on what has been agreed to.",
           "content": "On Tuesday, Westinghouse announced that it had reached an agreement with the Trump administration that would purportedly see $80 billion of new nuclear reactors built in the US. And the government indicated that it had finalized plans for a collaboration of GE Vernova and Hitachi to build additional reactors. Unfortunately, there are roughly zero details about the deal at the moment. The agreements were apparently negotiated during President Trump’s trip to Japan. An announcement of those agreements indicates that “Japan and various Japanese companies” would invest “up to” $332 billion for energy infrastructure. This specifically mentioned Westinghouse, GE Vernova, and Hitachi. This promises the construction of both large AP1000 reactors and small modular nuclear reactors. The announcement then goes on to indicate that many other companies would also get a slice of that “up to $332 billion,” many for basic grid infrastructure. So the total amount devoted to nuclear reactors is not specified in the announcement or anywhere else. As of the publication time, the Department of Energy has no information on the deal; Hitachi, GE Vernova, and the Hitachi/GE Vernova collaboration websites are also silent on it.Read full article Comments",
-          "feed_position": 11,
+          "feed_position": 14,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-526258466-1024x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-526258466-1024x648.jpg",
       "popularity_score": 148,
       "ai_summary": [
-        "Westinghouse claims a nuclear deal could involve $80 billion in new reactors.",
-        "Details about the agreement are currently limited and not widely available.",
-        "The specifics of the deal remain remarkably sparse at this time.",
-        "The announcement lacks comprehensive information about the agreement.",
-        "Further information about the deal is needed for clarity."
+        "Westinghouse claims a nuclear deal is in place.",
+        "The deal involves $80 billion in new reactors.",
+        "Details about the agreement are remarkably sparse.",
+        "The specifics of the deal remain unclear.",
+        "Further information is needed to understand the agreement."
       ]
     },
     {
-      "id": "cluster_97",
+      "id": "cluster_90",
       "coverage": 1,
       "updated_at": "Tue, 28 Oct 2025 18:11:36 +0000",
       "title": "OpenAI data suggests 1 million users discuss suicide with ChatGPT weekly",
-      "neutral_headline": "OpenAI Data Shows Users Discuss Suicide with ChatGPT",
+      "neutral_headline": "OpenAI Data Shows Users Discuss Suicide with ChatGPT Weekly",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -581,89 +519,57 @@
           "title": "OpenAI data suggests 1 million users discuss suicide with ChatGPT weekly",
           "standfirst": "Sensitive chats are rare but significant given the large user base.",
           "content": "An AI language model like the kind that powers ChatGPT is a gigantic statistical web of data relationships. You give it a prompt (such as a question), and it provides a response that is statistically related and hopefully helpful. At first, ChatGPT was a tech amusement, but now hundreds of millions of people are relying on this statistical process to guide them through life’s challenges. It’s the first time in history that large numbers of people have begun to confide their feelings to a talking machine, and mitigating the potential harm the systems can cause has been an ongoing challenge. On Monday, OpenAI released data estimating that 0.15 percent of ChatGPT’s active users in a given week have conversations that include explicit indicators of potential suicidal planning or intent. It’s a tiny fraction of the overall user base, but with more than 800 million weekly active users, that translates to over a million people each week, reports TechCrunch. OpenAI also estimates that a similar percentage of users show heightened levels of emotional attachment to ChatGPT, and that hundreds of thousands of people show signs of psychosis or mania in their weekly conversations with the chatbot.Read full article Comments",
-          "feed_position": 15,
+          "feed_position": 18,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/robot_therapy_1-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/robot_therapy_1-1152x648.jpg",
       "popularity_score": 148,
       "ai_summary": [
-        "OpenAI data indicates one million users discuss suicide weekly with ChatGPT.",
-        "Sensitive chats are rare but significant given the large user base.",
-        "The data highlights the frequency of sensitive conversations.",
-        "The large user base amplifies the significance of these discussions.",
-        "OpenAI is aware of the sensitive nature of these interactions."
+        "OpenAI data indicates users discuss suicide with ChatGPT.",
+        "Approximately one million users engage in these discussions weekly.",
+        "Sensitive chats are rare but significant given the user base size.",
+        "The data highlights the potential for mental health support.",
+        "The findings raise questions about AI's role in mental health."
       ]
     },
     {
-      "id": "cluster_99",
+      "id": "cluster_68",
       "coverage": 1,
-      "updated_at": "Tue, 28 Oct 2025 18:00:21 +0000",
-      "title": "Melissa strikes Jamaica, tied as most powerful Atlantic storm to come ashore",
-      "neutral_headline": "Hurricane Melissa Strikes Jamaica as Powerful Storm",
+      "updated_at": "Wed, 29 Oct 2025 13:40:15 +0000",
+      "title": "New physical attacks are quickly diluting secure enclave defenses from Nvidia, AMD, and Intel",
+      "neutral_headline": "New Physical Attacks Compromise Secure Enclave Defenses",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2025/10/melissa-strikes-jamaica-tied-as-most-powerful-atlantic-storm-to-come-ashore/",
-          "published_at": "Tue, 28 Oct 2025 18:00:21 +0000",
-          "title": "Melissa strikes Jamaica, tied as most powerful Atlantic storm to come ashore",
-          "standfirst": "The storm was so strong a hurricane hunter had to end its mission early.",
-          "content": "Hurricane Melissa made landfall in southwestern Jamaica, near New Hope, on Tuesday at 1 pm ET with staggeringly powerful sustained winds of 185 mph. In the National Hurricane Center update noting the precise landfall time and location, specialist Larry Kelly characterized Melissa as an “extremely dangerous and life-threatening” hurricane. Melissa is bringing very heavy rainfall, damaging surge, and destructive winds to the small Caribbean island that is home to about 3 million people. The effects on the island are sure to be catastrophic and prolonged.Read full article Comments",
-          "feed_position": 17,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2243299438-1024x648.jpg"
+          "url": "https://arstechnica.com/security/2025/10/new-physical-attacks-are-quickly-diluting-secure-enclave-defenses-from-nvidia-amd-and-intel/",
+          "published_at": "Wed, 29 Oct 2025 13:40:15 +0000",
+          "title": "New physical attacks are quickly diluting secure enclave defenses from Nvidia, AMD, and Intel",
+          "standfirst": "On-chip TEEs withstand rooted OSes but fall instantly to cheap physical attacks.",
+          "content": "Trusted execution environments, or TEEs, are everywhere—in blockchain architectures, virtually every cloud service, and computing involving AI, finance, and defense contractors. It’s hard to overstate the reliance that entire industries have on three TEEs in particular: Confidential Compute from Nvidia, SEV-SNP from AMD, and SGX and TDX from Intel. All three come with assurances that confidential data and sensitive computing can’t be viewed or altered, even if a server has suffered a complete compromise of the operating kernel. A trio of novel physical attacks raises new questions about the true security offered by these TEES and the exaggerated promises and misconceptions coming from the big and small players using them. The most recent attack, released Tuesday, is known as TEE.fail. It defeats the latest TEE protections from all three chipmakers. The low-cost, low-complexity attack works by placing a small piece of hardware between a single physical memory chip and the motherboard slot it plugs into. It also requires the attacker to compromise the operating system kernel. Once this three-minute attack is completed, Confidential Compute, SEV-SNP, and TDX/SDX can no longer be trusted. Unlike the Battering RAM and Wiretap attacks from last month—which worked only against CPUs using DDR4 memory—TEE.fail works against DDR5, allowing them to work against the latest TEEs.Read full article Comments",
+          "feed_position": 10,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/cpu-key-1152x648.jpg"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2243299438-1024x648.jpg",
-      "popularity_score": 148,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/cpu-key-1152x648.jpg",
+      "popularity_score": 139.00493055555555,
       "ai_summary": [
-        "Hurricane Melissa struck Jamaica, tying as a powerful storm.",
-        "The storm was so strong a hurricane hunter had to end its mission.",
-        "Melissa was one of the most powerful Atlantic storms to hit land.",
-        "The hurricane's intensity forced the early mission termination.",
-        "The storm's impact on Jamaica was significant."
+        "New physical attacks are quickly weakening secure enclaves.",
+        "These attacks target defenses from Nvidia, AMD, and Intel.",
+        "On-chip TEEs are vulnerable to cheap physical attacks.",
+        "TEEs withstand rooted OSes but fail to physical attacks.",
+        "The attacks highlight security vulnerabilities in hardware."
       ]
     },
     {
-      "id": "cluster_100",
-      "coverage": 1,
-      "updated_at": "Tue, 28 Oct 2025 17:45:34 +0000",
-      "title": "Python plan to boost software security foiled by Trump admin’s anti-DEI rules",
-      "neutral_headline": "Python Software Security Plan Affected by Anti-DEI Rules",
-      "bullet_summary": [
-        "National Science Foundation said grantees must not operate any DEI programs",
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2025/10/python-foundation-rejects-1-5-million-grant-over-trump-admins-anti-dei-rules/",
-          "published_at": "Tue, 28 Oct 2025 17:45:34 +0000",
-          "title": "Python plan to boost software security foiled by Trump admin’s anti-DEI rules",
-          "standfirst": "National Science Foundation said grantees must not operate any DEI programs.",
-          "content": "The Python Software Foundation has rejected a $1.5 million government grant because of anti-DEI requirements imposed by the Trump administration, the nonprofit said in a blog post yesterday. The grant would have been the largest in the organization’s history. Hoping to “address structural vulnerabilities in Python and PyPI,” the foundation submitted a grant proposal in January 2025 to the National Science Foundation’s Safety, Security, and Privacy of Open Source Ecosystems program. After a “multi-round proposal writing process” and a “months-long vetting process,” it appeared the foundation was close to obtaining a two-year grant worth $1.5 million. But what at first seemed like good news quickly turned sour due to rules against Diversity, Equity, and Inclusion programs, the foundation said:Read full article Comments",
-          "feed_position": 18,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/rejecting-money-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/rejecting-money-1152x648.jpg",
-      "popularity_score": 143,
-      "ai_summary": [
-        "Python's plan to boost software security was affected by anti-DEI rules.",
-        "The Trump administration's rules impacted the project's progress.",
-        "The National Science Foundation said grantees must not operate DEI programs.",
-        "The rules have implications for the project's funding and operations.",
-        "The DEI restrictions are a key factor in the situation."
-      ]
-    },
-    {
-      "id": "cluster_88",
+      "id": "cluster_82",
       "coverage": 1,
       "updated_at": "Wed, 29 Oct 2025 03:30:56 +0000",
       "title": "Mazda shows a rotary hybrid concept for Tokyo with evolved design language",
-      "neutral_headline": "Mazda Unveils Rotary Hybrid Concept for Tokyo Show",
+      "neutral_headline": "Mazda Unveils Rotary Hybrid Concept with Evolved Design",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -675,22 +581,22 @@
           "title": "Mazda shows a rotary hybrid concept for Tokyo with evolved design language",
           "standfirst": "Ideas include algae-based fuels and capturing carbon from the exhaust while driving.",
           "content": "The Japan Mobility Show kicks off in Tokyo this week, and Mazda is using the occasion to show off a couple of concepts it says embody a theme called “the joy of driving fuels a sustainable tomorrow.” One of these is the Vision X-Coupe, which Mazda says shows off the evolution of its KODO design language—something we first saw at the Tokyo show a decade ago. You can see a clear visual link between the renderings of the Vision X-Coupe and some of Mazda’s current models like the 3 hatchback or the CX-30 crossover, but translated through the long, low form factor of a four-door coupe. The design language is perhaps less interesting than some of the sustainability ideas that Mazda is exploring here, though. There's definitely hints of the Mazda RX-Vision in this shape. Credit: Mazda It's a four-seat, four-door coupe. Credit: Mazda Fun to drive AND sustainable? Sign us up. Credit: Mazda The powertrain is a 503 hp (375 kW) plug-in hybrid that uses a two-rotor turbocharged rotary engine as the internal combustion part of the equation. Mazda says it should have a total range of 500 miles (800 km), with a range of 100 miles (160 km) on battery power alone.Read full article Comments",
-          "feed_position": 10,
+          "feed_position": 13,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/MAZDA_VISION_MODEL_3-X-COUPE-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/MAZDA_VISION_MODEL_3-X-COUPE-1152x648.jpg",
-      "popularity_score": 139.29649138888888,
+      "popularity_score": 139,
       "ai_summary": [
-        "Mazda showcased a rotary hybrid concept at the Tokyo Motor Show.",
-        "The concept features an evolved design language for the brand.",
+        "Mazda is showcasing a rotary hybrid concept in Tokyo.",
+        "The concept features an evolved design language.",
         "Ideas include algae-based fuels for the vehicle.",
-        "The concept also explores capturing carbon from exhaust.",
-        "The vehicle represents Mazda's future design and technology."
+        "The concept aims to capture carbon from exhaust.",
+        "The vehicle represents Mazda's future design direction."
       ]
     },
     {
-      "id": "cluster_91",
+      "id": "cluster_84",
       "coverage": 1,
       "updated_at": "Tue, 28 Oct 2025 19:12:29 +0000",
       "title": "If things in America weren’t stupid enough, Texas is suing Tylenol maker",
@@ -706,26 +612,26 @@
           "title": "If things in America weren’t stupid enough, Texas is suing Tylenol maker",
           "standfirst": "Texas sues Tylenol maker over unproven claim the pain medicine causes autism.",
           "content": "While the underlying cause or causes of autism spectrum disorder remain elusive and appear likely to be a complex interplay of genetic and environmental factors, President Trump and his anti-vaccine health secretary Robert F. Kennedy Jr.—neither of whom have any scientific or medical background whatsoever—have decided to pin the blame on Tylenol, a common pain reliever and fever reducer that has no proven link to autism. And now, Texas Attorney General Ken Paxton is suing the maker of Tylenol, Kenvue and Johnson & Johnson, who previously sold Tylenol, claiming that they have been “deceptively marketing Tylenol” knowing that it “leads to a significantly increased risk of autism and other disorders.” To back that claim, Paxton relies on the “considerable body of evidence… recently highlighted by the Trump Administration.”Read full article Comments",
-          "feed_position": 12,
+          "feed_position": 15,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2150327872-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2150327872-1152x648.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "Texas is suing the Tylenol maker over an unproven claim.",
-        "The claim alleges the pain medicine causes autism in children.",
-        "The lawsuit is based on an unverified claim.",
-        "The legal action involves the popular pain medication.",
-        "The lawsuit's basis is the unproven link to autism."
+        "Texas is suing the maker of Tylenol.",
+        "The lawsuit is based on an unproven claim.",
+        "The claim alleges the pain medicine causes autism.",
+        "The lawsuit has sparked controversy.",
+        "The case highlights concerns about medical claims."
       ]
     },
     {
-      "id": "cluster_95",
+      "id": "cluster_88",
       "coverage": 1,
       "updated_at": "Tue, 28 Oct 2025 18:30:32 +0000",
       "title": "An autonomous car for consumers? Lucid says it’s happening.",
-      "neutral_headline": "Lucid Announces Plans for Autonomous Consumer Cars",
+      "neutral_headline": "Lucid Announces Plans for Autonomous Cars for Consumers",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -737,26 +643,26 @@
           "title": "An autonomous car for consumers? Lucid says it’s happening.",
           "standfirst": "Nvidia is working with Lucid on autonomous cars and future factories.",
           "content": "Is it possible to be a CEO in 2025 and not catch a case of AI fever? The latest company to catch this particular cold is Lucid, the Saudi-backed electric vehicle startup. Today, it announced a new collaboration with Nvidia to use the latter’s hardware and software, with the aim of creating an autonomous vehicle for consumers. Oh, and the AI will apparently design Lucid’s production lines. Formed by refugees from Tesla who saw a chance to improve on their past work, Lucid has already built the most efficient EV on sale in North America. But until recently, it also just had variants of the same Air sedan to offer consumers, before the Gravity SUV joined the range this year. The company will need to start selling tens of thousands of EVs a year before too long, especially if it’s ever to become profitable. And that will involve some smaller, cheaper models, starting with a midsize crossover sometime in 2027. A major goal for the first of those EVs is a starting price of less than $50,000, so I hope they’re getting a good deal on the Nvidia GPUs that Lucid now says will enable a “true eyes-off, hands-off, and mind-off” autonomous driving system for consumer-owned vehicles.Read full article Comments",
-          "feed_position": 13,
+          "feed_position": 16,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/EMBARGO_Lucid_NVIDIA-GTC_IMAGE-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/EMBARGO_Lucid_NVIDIA-GTC_IMAGE-1152x648.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "Lucid says it is developing an autonomous car for consumers.",
-        "Nvidia is working with Lucid on autonomous cars.",
-        "Nvidia is also involved in future factories for Lucid.",
-        "The partnership aims to bring autonomous vehicles to market.",
-        "The announcement signals progress in autonomous vehicle technology."
+        "Lucid is planning to produce autonomous cars for consumers.",
+        "Nvidia is collaborating with Lucid on the project.",
+        "Nvidia is also involved in future factory development.",
+        "The announcement signals progress in autonomous driving.",
+        "The partnership aims to advance self-driving technology."
       ]
     },
     {
-      "id": "cluster_96",
+      "id": "cluster_89",
       "coverage": 1,
       "updated_at": "Tue, 28 Oct 2025 18:28:51 +0000",
       "title": "Senators move to keep Big Tech’s creepy companion bots away from kids",
-      "neutral_headline": "Senators Propose Limiting Companion Bots for Children",
+      "neutral_headline": "Senators Seek to Regulate Big Tech's Companion Bots for Children",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -768,26 +674,26 @@
           "title": "Senators move to keep Big Tech’s creepy companion bots away from kids",
           "standfirst": "Big Tech immediately opposed the proposed law as \"heavy-handed.\"",
           "content": "The US will weigh a ban on children’s access to companion bots, as two senators announced bipartisan legislation Tuesday that would criminalize making chatbots that encourage harms like suicidal ideation or engage kids in sexually explicit chats. At a press conference, Josh Hawley (R-Mo.) and Richard Blumenthal (D-Conn.) introduced the GUARD Act, joined by grieving parents holding up photos of their children lost after engaging with chatbots. If passed, the law would require chatbot makers to check IDs or use “any other commercially reasonable method” to accurately assess if a user is a minor who must be blocked. Companion bots would also have to repeatedly remind users of all ages that they aren’t real humans or trusted professionals.Read full article Comments",
-          "feed_position": 14,
+          "feed_position": 17,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1285352680-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1285352680-1152x648.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "Senators are moving to limit Big Tech's companion bots for children.",
-        "Big Tech immediately opposed the proposed law as \"heavy-handed.\"",
-        "The proposed law aims to protect children from these bots.",
-        "The legislation faces opposition from major technology companies.",
-        "The debate centers on the use of companion bots for children."
+        "Senators are working to regulate companion bots.",
+        "The focus is on keeping these bots away from children.",
+        "Big Tech companies immediately opposed the proposed law.",
+        "Big Tech called the proposed law \"heavy-handed.\"",
+        "The legislation aims to protect children from potential harm."
       ]
     },
     {
-      "id": "cluster_98",
+      "id": "cluster_91",
       "coverage": 1,
       "updated_at": "Tue, 28 Oct 2025 18:10:18 +0000",
       "title": "Samsung makes ads on $3,499 smart fridges official with upcoming software update",
-      "neutral_headline": "Samsung Smart Fridges to Feature Official Advertisements",
+      "neutral_headline": "Samsung Smart Fridges Will Display Advertisements Through Software Update",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -799,18 +705,18 @@
           "title": "Samsung makes ads on $3,499 smart fridges official with upcoming software update",
           "standfirst": "Update introduces two ways for the fridges to show ads.",
           "content": "After kicking off an unpopular pilot test last month, Samsung made the practice of having its expensive smart fridges display ads official this week. The ads will be shown on Samsung’s 2024 Family Hub smart fridges. As of this writing, Samsung’s Family Hub fridges have MSRPs ranging from $1,899 to $3,499. The ads will arrive through a software update that Samsung will start issuing this month and display on the fridge’s integrated 21.5- or 32-inch (depending on the model) screen. The ads will show when the fridges are idle and display what Samsung calls Cover Screens. As part of the Family Hub software update, we are piloting a new widget for select Cover Screens themes of Family Hub refrigerators. The widget will display useful day-to-day information such as news, calendar and weather forecasts, along with curated advertisements. Samsung also said that its fridges will only show contextualized ads, instead of personalized ads, which rely on collecting data on users.Read full article Comments",
-          "feed_position": 16,
+          "feed_position": 19,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Samsung.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Samsung.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "Samsung will introduce ads on its $3,499 smart fridges.",
-        "A software update will make the ads official.",
-        "The update introduces two ways for the fridges to show ads.",
-        "The ads will be integrated into the fridge's interface.",
-        "The move represents a new monetization strategy for Samsung."
+        "Samsung will introduce advertisements on its Family Hub smart refrigerators through a software update.",
+        "The update will provide two methods for the refrigerators to display advertisements to users.",
+        "Advertisements will appear on the refrigerator's touchscreen interface for user viewing.",
+        "Samsung plans to monetize the smart fridge platform by selling advertising space to brands.",
+        "The Family Hub refrigerators have a starting price of $3,499, depending on the model."
       ]
     }
   ]
