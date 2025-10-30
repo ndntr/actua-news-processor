@@ -1,12 +1,12 @@
 {
-  "updated_at": "2025-10-30T03:39:57.250Z",
+  "updated_at": "2025-10-30T07:13:21.189Z",
   "clusters": [
     {
-      "id": "cluster_9",
+      "id": "cluster_24",
       "coverage": 3,
       "updated_at": "2025-10-29T19:20:53-04:00",
       "title": "Microsoft says it’s recovering after Azure outage took down 365, Xbox, and Starbucks",
-      "neutral_headline": "Microsoft Recovers After Azure Outage Affects Services",
+      "neutral_headline": "Microsoft Azure Outage Impacts Multiple Services",
       "bullet_summary": [
         "Reported by The Verge, ZDNet, TechCrunch"
       ],
@@ -36,20 +36,20 @@
           "title": "Microsoft Azure is down, affecting 365, Xbox, Minecraft, and others",
           "standfirst": "Microsoft Azure is facing a significant outage, with services affected like Microsoft 365, Xbox, and Minecraft.",
           "content": "Microsoft Azure is facing a significant outage, with services affected like Microsoft 365, Xbox, and Minecraft.",
-          "feed_position": 10
+          "feed_position": 11
         }
       ],
-      "popularity_score": 3015.682152777778,
+      "popularity_score": 3012.125503055556,
       "ai_summary": [
         "Microsoft Azure experienced a significant outage.",
         "The outage affected Microsoft 365, Xbox, and Minecraft.",
-        "Other companies also experienced outages.",
-        "The outage occurred one week after AWS issues.",
-        "Recovery efforts are underway to restore services."
+        "Other companies also experienced outages due to Azure.",
+        "Microsoft is working to recover from the outage.",
+        "The outage occurred one week after AWS issues."
       ]
     },
     {
-      "id": "cluster_40",
+      "id": "cluster_59",
       "coverage": 2,
       "updated_at": "Wed, 29 Oct 2025 17:40:19 +0000",
       "title": "Former L3Harris Trenchant boss pleads guilty to selling zero-day exploits to Russian broker",
@@ -66,7 +66,7 @@
           "title": "Former L3Harris Trenchant boss pleads guilty to selling zero-day exploits to Russian broker",
           "standfirst": "Prosecutors confirmed Peter Williams, the former Trenchant boss, sold eight exploits to a Russian buyer. TechCrunch exclusively reported that the Trenchant division was investigating a leak of its hacking tools, after another employee was accused of involvement.",
           "content": "Prosecutors confirmed Peter Williams, the former Trenchant boss, sold eight exploits to a Russian buyer. TechCrunch exclusively reported that the Trenchant division was investigating a leak of its hacking tools, after another employee was accused of involvement.",
-          "feed_position": 12
+          "feed_position": 13
         },
         {
           "source": "Wired Tech",
@@ -75,26 +75,26 @@
           "title": "Ex-L3Harris Cyber Boss Pleads Guilty to Selling Trade Secrets to Russian Firm",
           "standfirst": "Peter Williams, a former executive of Trenchant, L3Harris’ cyber division, has pleaded guilty to two counts of stealing trade secrets and selling them to an unnamed Russian software broker.",
           "content": "Peter Williams, a former executive of Trenchant, L3Harris’ cyber division, has pleaded guilty to two counts of stealing trade secrets and selling them to an unnamed Russian software broker.",
-          "feed_position": 6,
+          "feed_position": 11,
           "image_url": "https://media.wired.com/photos/690228d865b611a9f97823f6/master/pass/sec-L3Harris-trial-2172435098.jpg"
         }
       ],
       "featured_image": "https://media.wired.com/photos/690228d865b611a9f97823f6/master/pass/sec-L3Harris-trial-2172435098.jpg",
-      "popularity_score": 2010.0060416666668,
+      "popularity_score": 2006.4493919444444,
       "ai_summary": [
-        "Peter Williams sold zero-day exploits to a Russian broker.",
-        "Williams was the former boss of L3Harris Trenchant.",
-        "He sold eight exploits to the Russian buyer.",
-        "Williams pleaded guilty to the charges.",
-        "The division was investigating a leak of hacking tools."
+        "Peter Williams, former Trenchant boss, sold zero-day exploits to a Russian broker.",
+        "Williams pleaded guilty to stealing trade secrets and selling them to a Russian firm.",
+        "Prosecutors confirmed Williams sold eight exploits to an unnamed Russian buyer.",
+        "TechCrunch reported Trenchant investigated a leak of its hacking tools.",
+        "Another employee was accused of involvement in the hacking tool leak."
       ]
     },
     {
-      "id": "cluster_69",
+      "id": "cluster_93",
       "coverage": 2,
       "updated_at": "Wed, 29 Oct 2025 13:00:18 +0000",
       "title": "Republican plan would make deanonymization of census data trivial",
-      "neutral_headline": "Republican Plan Could Risk Privacy of Census Data",
+      "neutral_headline": "Republican Plan Could Weaken Census Data Privacy",
       "bullet_summary": [
         "Reported by Ars Technica, Wired Tech"
       ],
@@ -116,26 +116,26 @@
           "title": "The Republican Plan to Reform the Census Could Put Everyone’s Privacy at Risk",
           "standfirst": "A little-known algorithmic process called “differential privacy” helps keep census data anonymous. Conservatives want it gone.",
           "content": "A little-known algorithmic process called “differential privacy” helps keep census data anonymous. Conservatives want it gone.",
-          "feed_position": 40,
+          "feed_position": 45,
           "image_url": "https://media.wired.com/photos/68f6b13d4cd4cc76ba1c8542/master/pass/politics_census_republicans_data_privacy.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/census-1152x648.jpg",
-      "popularity_score": 2005.3390972222223,
+      "popularity_score": 2001.7824475,
       "ai_summary": [
-        "A Republican plan could make census data less anonymous.",
-        "The plan involves changes to \"differential privacy\".",
-        "Differential privacy protects statistical data.",
-        "Conservatives want to eliminate the process.",
-        "The plan could put everyone's privacy at risk."
+        "A Republican plan could make deanonymization of census data easier.",
+        "The current \"differential privacy\" algorithm protects individual data.",
+        "Conservatives want to eliminate the \"differential privacy\" algorithm.",
+        "This algorithm prevents statistical data from being tied to individuals.",
+        "Removing the algorithm could put everyone’s privacy at risk."
       ]
     },
     {
-      "id": "cluster_18",
+      "id": "cluster_36",
       "coverage": 1,
       "updated_at": "Wed, 29 Oct 2025 21:35:58 +0000",
       "title": "Meta denies torrenting porn to train AI, says downloads were for “personal use”",
-      "neutral_headline": "Meta Denies Using Porn to Train AI, Cites Personal Use",
+      "neutral_headline": "Meta Denies Using Porn to Train Artificial Intelligence",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -152,21 +152,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2171230457-1152x648.jpg",
-      "popularity_score": 361.93354166666666,
+      "popularity_score": 358.3768919444444,
       "ai_summary": [
-        "Meta denies claims of using porn to train its AI.",
-        "The company says downloads were for personal use.",
-        "A lawsuit alleges Meta pirated porn.",
-        "Meta says the lawsuit makes no sense.",
-        "The case involves the training of AI models."
+        "Meta denies claims of pirating porn to train its artificial intelligence.",
+        "Meta stated the downloads were for personal use, not AI training.",
+        "A lawsuit alleges Meta used pornographic content for AI development.",
+        "Meta says the lawsuit claiming this makes no sense.",
+        "The lawsuit claims Meta downloaded pornographic content."
       ]
     },
     {
-      "id": "cluster_20",
+      "id": "cluster_38",
       "coverage": 1,
       "updated_at": "Wed, 29 Oct 2025 21:23:22 +0000",
       "title": "Space station astronauts eager to open “golden treasure box” from Japan",
-      "neutral_headline": "Space Station Astronauts Anticipate Opening Japanese Treasure",
+      "neutral_headline": "Space Station Astronauts Excited for Japanese Cargo Delivery",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -183,17 +183,17 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/htvx1-arrive1-1152x648.jpg",
-      "popularity_score": 344.7235416666667,
+      "popularity_score": 341.16689194444444,
       "ai_summary": [
-        "Astronauts are eager to open a \"golden treasure box\".",
-        "The box is from Japan.",
+        "Astronauts are eager to open a \"golden treasure box\" from Japan.",
         "The spacecraft is described as beautiful and shiny.",
-        "The box represents a bright future.",
-        "The astronauts are excited about the contents."
+        "The delivery represents a bright future for the astronauts.",
+        "The cargo is from a Japanese spacecraft.",
+        "The astronauts are excited to receive the delivery."
       ]
     },
     {
-      "id": "cluster_21",
+      "id": "cluster_39",
       "coverage": 1,
       "updated_at": "Wed, 29 Oct 2025 21:04:45 +0000",
       "title": "NPM flooded with malicious packages downloaded more than 86,000 times",
@@ -214,21 +214,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
-      "popularity_score": 326.4132638888889,
+      "popularity_score": 322.85661416666665,
       "ai_summary": [
-        "Malicious packages have been downloaded from NPM.",
-        "The packages were downloaded over 86,000 times.",
-        "Packages can fetch dependencies from untrusted sites.",
-        "The packages pose a security risk.",
-        "The issue highlights a vulnerability in NPM."
+        "Malicious packages on NPM have been downloaded over 86,000 times.",
+        "Packages downloaded from NPM can fetch dependencies from untrusted sites.",
+        "The packages contain malicious code.",
+        "The downloads pose a security risk.",
+        "The packages are available on the NPM platform."
       ]
     },
     {
-      "id": "cluster_28",
+      "id": "cluster_46",
       "coverage": 1,
       "updated_at": "Wed, 29 Oct 2025 19:44:40 +0000",
       "title": "Trump health official ousted after allegedly giving himself a fake title",
-      "neutral_headline": "Former Health Official Ousted After Alleged Title Misrepresentation",
+      "neutral_headline": "Trump Health Official Ousted After Alleged Title Falsification",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -245,21 +245,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-122179143-1152x648.jpg",
-      "popularity_score": 315.07854166666664,
+      "popularity_score": 311.52189194444446,
       "ai_summary": [
-        "Steven Hatfill, a former health official, was ousted from his position.",
-        "The ousting occurred after allegations of Hatfill misrepresenting his title.",
-        "Hatfill had a notable history prior to his abrupt departure from the role.",
-        "Details of Hatfill's past were highlighted in the news report.",
-        "The circumstances surrounding the ousting remain under scrutiny."
+        "Steven Hatfill was ousted after allegedly giving himself a fake title.",
+        "Hatfill had a notable history before his abrupt ouster.",
+        "The circumstances surrounding the ouster are unclear.",
+        "The ouster occurred recently.",
+        "Hatfill was a Trump health official."
       ]
     },
     {
-      "id": "cluster_30",
+      "id": "cluster_49",
       "coverage": 1,
       "updated_at": "Wed, 29 Oct 2025 19:18:37 +0000",
       "title": "FCC Republicans force prisoners and families to pay more for phone calls",
-      "neutral_headline": "FCC Republicans Increase Phone Call Costs for Prisoners and Families",
+      "neutral_headline": "FCC Republicans Increase Prisoner Phone Call Costs",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -276,21 +276,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/brendan-carr-fcc-1152x648-1761764153.jpg",
-      "popularity_score": 304.644375,
+      "popularity_score": 301.0877252777778,
       "ai_summary": [
-        "FCC Republicans are implementing policies that increase phone call costs.",
-        "These increased costs primarily affect prisoners and their families.",
-        "A Democrat criticized the FCC's actions, citing corporate rewards.",
-        "The Democrat stated the FCC is taking money from vulnerable families.",
-        "The policy changes have sparked controversy and criticism."
+        "FCC Republicans are forcing prisoners and families to pay more.",
+        "A Democrat stated the FCC rewards corporations with money.",
+        "The money is taken from vulnerable families.",
+        "The FCC is making changes to phone call regulations.",
+        "The changes will increase costs for phone calls."
       ]
     },
     {
-      "id": "cluster_52",
+      "id": "cluster_71",
       "coverage": 1,
       "updated_at": "Wed, 29 Oct 2025 16:37:06 +0000",
       "title": "TV-focused YouTube update brings AI upscaling, shopping QR codes",
-      "neutral_headline": "YouTube Update Focuses on TV Experience with AI and Shopping",
+      "neutral_headline": "YouTube Update Focuses on Television Experience",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -307,21 +307,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2021/12/getty-youtube-1152x648.jpg",
-      "popularity_score": 296.95243055555557,
+      "popularity_score": 293.39578083333333,
       "ai_summary": [
-        "YouTube is rolling out an update focused on improving the TV experience.",
-        "The update includes AI upscaling features for enhanced video quality.",
-        "Shopping QR codes are being integrated into the platform.",
-        "YouTube aims to make the platform more user-friendly on couches.",
-        "The changes are designed to enhance the viewing experience."
+        "YouTube's update brings AI upscaling and shopping QR codes.",
+        "The update is focused on a more couch-friendly experience.",
+        "The update is for TV-focused users.",
+        "The update includes new features.",
+        "The update aims to improve the TV viewing experience."
       ]
     },
     {
-      "id": "cluster_35",
+      "id": "cluster_54",
       "coverage": 1,
       "updated_at": "Wed, 29 Oct 2025 18:29:45 +0000",
       "title": "ICE’s forced face scans to verify citizens is unconstitutional, lawmakers say",
-      "neutral_headline": "Lawmakers Say ICE Face Scans to Verify Citizens Are Unconstitutional",
+      "neutral_headline": "Lawmakers Say ICE Face Scans Are Unconstitutional",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -338,21 +338,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2238024951-1024x648.jpg",
-      "popularity_score": 293.82993055555556,
+      "popularity_score": 290.27328083333333,
       "ai_summary": [
-        "Lawmakers are challenging ICE's use of face scans.",
-        "They claim the practice of face scans is unconstitutional.",
-        "Videos show ICE conducting random face scans in public areas.",
-        "The legality of ICE's actions is being questioned.",
-        "The issue raises concerns about privacy and civil liberties."
+        "Lawmakers say ICE's forced face scans are unconstitutional.",
+        "Videos show ICE conducting random face scans on US streets.",
+        "The face scans are used to verify citizens.",
+        "The lawmakers are concerned about privacy.",
+        "The face scans are being conducted by ICE."
       ]
     },
     {
-      "id": "cluster_61",
+      "id": "cluster_84",
       "coverage": 1,
       "updated_at": "Wed, 29 Oct 2025 14:46:21 +0000",
       "title": "Nvidia hits record $5 trillion mark as CEO dismisses AI bubble concerns",
-      "neutral_headline": "Nvidia Reaches Record Valuation, CEO Dismisses AI Bubble Concerns",
+      "neutral_headline": "Nvidia Hits Record Valuation, CEO Dismisses AI Bubble",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -369,21 +369,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/nvidia_flag_2-1152x648.jpg",
-      "popularity_score": 275.1065972222222,
+      "popularity_score": 271.5499475,
       "ai_summary": [
-        "Nvidia's market capitalization has reached a record $5 trillion.",
-        "The CEO, Huang, dismissed concerns about an AI bubble.",
-        "Huang announced $500 billion in orders for the company.",
-        "The company's success is tied to the AI industry.",
-        "The CEO's statements reflect confidence in the market."
+        "Nvidia hits a record $5 trillion market valuation.",
+        "The CEO dismissed concerns about an AI bubble.",
+        "Huang announced $500 billion in orders.",
+        "The CEO is optimistic about the future.",
+        "Nvidia is a major player in the AI industry."
       ]
     },
     {
-      "id": "cluster_53",
+      "id": "cluster_73",
       "coverage": 1,
       "updated_at": "Wed, 29 Oct 2025 16:20:59 +0000",
       "title": "The chemistry behind that pricey cup of civet coffee",
-      "neutral_headline": "Chemical Analysis Reveals Details of Civet Coffee's Unique Taste",
+      "neutral_headline": "Chemical Analysis Reveals Secrets of Civet Coffee",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -400,17 +400,17 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/civet2-1152x648.jpg",
-      "popularity_score": 271.68381944444445,
+      "popularity_score": 268.1271697222222,
       "ai_summary": [
-        "Kopi luwak coffee is known for its unique aroma and taste.",
-        "A new chemical analysis has been conducted on the coffee.",
-        "The analysis supports claims about the coffee's distinct qualities.",
-        "Fans of the coffee believe it has a special flavor profile.",
-        "The study provides scientific backing for the coffee's reputation."
+        "A new chemical analysis backs up claims about civet coffee.",
+        "Fans of kopi luwak claim it has a unique aroma and taste.",
+        "The analysis explores the chemistry of the coffee.",
+        "The coffee is known as kopi luwak.",
+        "The analysis supports the coffee's unique qualities."
       ]
     },
     {
-      "id": "cluster_64",
+      "id": "cluster_87",
       "coverage": 1,
       "updated_at": "Wed, 29 Oct 2025 14:28:19 +0000",
       "title": "Man accidentally gets leech up his nose. It took 20 days to figure it out.",
@@ -431,21 +431,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2220375814-1152x648.jpg",
-      "popularity_score": 249.80604166666666,
+      "popularity_score": 246.24939194444445,
       "ai_summary": [
-        "A man accidentally got a leech lodged in his nose.",
-        "It took twenty days for the man to realize the issue.",
-        "Leeches have a long history in medical practices.",
-        "The article describes what happens when a leech enters the nose.",
-        "The incident highlights the potential for unusual medical cases."
+        "A man accidentally got a leech up his nose.",
+        "It took twenty days to figure out the problem.",
+        "Leeches have a long medical history.",
+        "The man experienced a medical issue.",
+        "The leech was discovered after a long period."
       ]
     },
     {
-      "id": "cluster_73",
+      "id": "cluster_97",
       "coverage": 1,
       "updated_at": "Wed, 29 Oct 2025 12:23:08 +0000",
       "title": "NASA races to keep Artemis II on schedule, even when workers aren’t being paid",
-      "neutral_headline": "NASA Works to Maintain Artemis II Schedule Despite Funding Issues",
+      "neutral_headline": "NASA Races to Keep Artemis II on Schedule",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -462,21 +462,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/KSC-20250807-PH-SNW01_0001orig-1152x648-1761709022.jpg",
-      "popularity_score": 158.71965277777778,
+      "popularity_score": 155.16300305555555,
       "ai_summary": [
-        "NASA is striving to keep Artemis II on schedule.",
-        "Some workers are not being paid due to funding issues.",
-        "Delays could significantly impact the project's progress.",
-        "The project is approaching a critical point.",
-        "The situation poses challenges to the mission's timeline."
+        "NASA races to keep Artemis II on schedule.",
+        "Workers not being paid could significantly impact the project.",
+        "NASA is facing challenges with the project.",
+        "The project is the Artemis II mission.",
+        "The project is approaching a critical point."
       ]
     },
     {
-      "id": "cluster_83",
+      "id": "cluster_109",
       "coverage": 1,
       "updated_at": "Tue, 28 Oct 2025 22:38:46 +0000",
       "title": "Westinghouse is claiming a nuclear deal would see $80B of new reactors",
-      "neutral_headline": "Westinghouse Claims Nuclear Deal Involves $80 Billion in Reactors",
+      "neutral_headline": "Westinghouse Claims Nuclear Deal Involves New Reactors",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -495,19 +495,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-526258466-1024x648.jpg",
       "popularity_score": 148,
       "ai_summary": [
-        "Westinghouse claims a nuclear deal is in place.",
-        "The deal involves $80 billion in new reactors.",
-        "Details about the agreement are remarkably sparse.",
-        "The specifics of the deal remain unclear.",
-        "Further information is needed to understand the agreement."
+        "Westinghouse claims a nuclear deal involves $80 billion of reactors.",
+        "Details are remarkably sparse on what has been agreed to.",
+        "The deal involves new nuclear reactors.",
+        "The deal is worth a significant amount.",
+        "The details of the deal are limited."
       ]
     },
     {
-      "id": "cluster_90",
+      "id": "cluster_116",
       "coverage": 1,
       "updated_at": "Tue, 28 Oct 2025 18:11:36 +0000",
       "title": "OpenAI data suggests 1 million users discuss suicide with ChatGPT weekly",
-      "neutral_headline": "OpenAI Data Shows Users Discuss Suicide with ChatGPT Weekly",
+      "neutral_headline": "OpenAI Data Shows Users Discuss Suicide Weekly",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -526,50 +526,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/robot_therapy_1-1152x648.jpg",
       "popularity_score": 148,
       "ai_summary": [
-        "OpenAI data indicates users discuss suicide with ChatGPT.",
-        "Approximately one million users engage in these discussions weekly.",
-        "Sensitive chats are rare but significant given the user base size.",
-        "The data highlights the potential for mental health support.",
-        "The findings raise questions about AI's role in mental health."
+        "OpenAI data suggests 1 million users discuss suicide weekly.",
+        "Sensitive chats are rare but significant given the large user base.",
+        "The data comes from ChatGPT interactions.",
+        "The discussions are about suicide.",
+        "The user base is very large."
       ]
     },
     {
-      "id": "cluster_68",
-      "coverage": 1,
-      "updated_at": "Wed, 29 Oct 2025 13:40:15 +0000",
-      "title": "New physical attacks are quickly diluting secure enclave defenses from Nvidia, AMD, and Intel",
-      "neutral_headline": "New Physical Attacks Compromise Secure Enclave Defenses",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/security/2025/10/new-physical-attacks-are-quickly-diluting-secure-enclave-defenses-from-nvidia-amd-and-intel/",
-          "published_at": "Wed, 29 Oct 2025 13:40:15 +0000",
-          "title": "New physical attacks are quickly diluting secure enclave defenses from Nvidia, AMD, and Intel",
-          "standfirst": "On-chip TEEs withstand rooted OSes but fall instantly to cheap physical attacks.",
-          "content": "Trusted execution environments, or TEEs, are everywhere—in blockchain architectures, virtually every cloud service, and computing involving AI, finance, and defense contractors. It’s hard to overstate the reliance that entire industries have on three TEEs in particular: Confidential Compute from Nvidia, SEV-SNP from AMD, and SGX and TDX from Intel. All three come with assurances that confidential data and sensitive computing can’t be viewed or altered, even if a server has suffered a complete compromise of the operating kernel. A trio of novel physical attacks raises new questions about the true security offered by these TEES and the exaggerated promises and misconceptions coming from the big and small players using them. The most recent attack, released Tuesday, is known as TEE.fail. It defeats the latest TEE protections from all three chipmakers. The low-cost, low-complexity attack works by placing a small piece of hardware between a single physical memory chip and the motherboard slot it plugs into. It also requires the attacker to compromise the operating system kernel. Once this three-minute attack is completed, Confidential Compute, SEV-SNP, and TDX/SDX can no longer be trusted. Unlike the Battering RAM and Wiretap attacks from last month—which worked only against CPUs using DDR4 memory—TEE.fail works against DDR5, allowing them to work against the latest TEEs.Read full article Comments",
-          "feed_position": 10,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/cpu-key-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/cpu-key-1152x648.jpg",
-      "popularity_score": 139.00493055555555,
-      "ai_summary": [
-        "New physical attacks are quickly weakening secure enclaves.",
-        "These attacks target defenses from Nvidia, AMD, and Intel.",
-        "On-chip TEEs are vulnerable to cheap physical attacks.",
-        "TEEs withstand rooted OSes but fail to physical attacks.",
-        "The attacks highlight security vulnerabilities in hardware."
-      ]
-    },
-    {
-      "id": "cluster_82",
+      "id": "cluster_107",
       "coverage": 1,
       "updated_at": "Wed, 29 Oct 2025 03:30:56 +0000",
       "title": "Mazda shows a rotary hybrid concept for Tokyo with evolved design language",
-      "neutral_headline": "Mazda Unveils Rotary Hybrid Concept with Evolved Design",
+      "neutral_headline": "Mazda Unveils Rotary Hybrid Concept Featuring Innovative Design Elements",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -588,19 +557,50 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/MAZDA_VISION_MODEL_3-X-COUPE-1152x648.jpg",
       "popularity_score": 139,
       "ai_summary": [
-        "Mazda is showcasing a rotary hybrid concept in Tokyo.",
-        "The concept features an evolved design language.",
-        "Ideas include algae-based fuels for the vehicle.",
-        "The concept aims to capture carbon from exhaust.",
-        "The vehicle represents Mazda's future design direction."
+        "Mazda presented a rotary hybrid concept at Tokyo, showcasing design evolution.",
+        "The concept explores algae-based fuels as a sustainable energy source.",
+        "It also considers capturing carbon emissions directly from the exhaust system.",
+        "The design language reflects Mazda's future automotive direction.",
+        "Details about the concept's performance specifications remain undisclosed."
       ]
     },
     {
-      "id": "cluster_84",
+      "id": "cluster_91",
+      "coverage": 1,
+      "updated_at": "Wed, 29 Oct 2025 13:40:15 +0000",
+      "title": "New physical attacks are quickly diluting secure enclave defenses from Nvidia, AMD, and Intel",
+      "neutral_headline": "Physical Attacks Compromise Secure Enclave Defenses on Processors",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/security/2025/10/new-physical-attacks-are-quickly-diluting-secure-enclave-defenses-from-nvidia-amd-and-intel/",
+          "published_at": "Wed, 29 Oct 2025 13:40:15 +0000",
+          "title": "New physical attacks are quickly diluting secure enclave defenses from Nvidia, AMD, and Intel",
+          "standfirst": "On-chip TEEs withstand rooted OSes but fall instantly to cheap physical attacks.",
+          "content": "Trusted execution environments, or TEEs, are everywhere—in blockchain architectures, virtually every cloud service, and computing involving AI, finance, and defense contractors. It’s hard to overstate the reliance that entire industries have on three TEEs in particular: Confidential Compute from Nvidia, SEV-SNP from AMD, and SGX and TDX from Intel. All three come with assurances that confidential data and sensitive computing can’t be viewed or altered, even if a server has suffered a complete compromise of the operating kernel. A trio of novel physical attacks raises new questions about the true security offered by these TEES and the exaggerated promises and misconceptions coming from the big and small players using them. The most recent attack, released Tuesday, is known as TEE.fail. It defeats the latest TEE protections from all three chipmakers. The low-cost, low-complexity attack works by placing a small piece of hardware between a single physical memory chip and the motherboard slot it plugs into. It also requires the attacker to compromise the operating system kernel. Once this three-minute attack is completed, Confidential Compute, SEV-SNP, and TDX/SDX can no longer be trusted. Unlike the Battering RAM and Wiretap attacks from last month—which worked only against CPUs using DDR4 memory—TEE.fail works against DDR5, allowing them to work against the latest TEEs.Read full article Comments",
+          "feed_position": 10,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/cpu-key-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/cpu-key-1152x648.jpg",
+      "popularity_score": 135.44828083333334,
+      "ai_summary": [
+        "New physical attacks bypass secure enclave defenses on various processors.",
+        "These attacks quickly compromise Nvidia, AMD, and Intel's security features.",
+        "On-chip Trusted Execution Environments (TEEs) are vulnerable to attacks.",
+        "Rooted operating systems do not affect the TEEs, but physical attacks do.",
+        "Cheap physical attacks can instantly defeat the security measures."
+      ]
+    },
+    {
+      "id": "cluster_110",
       "coverage": 1,
       "updated_at": "Tue, 28 Oct 2025 19:12:29 +0000",
       "title": "If things in America weren’t stupid enough, Texas is suing Tylenol maker",
-      "neutral_headline": "Texas Sues Tylenol Maker Over Autism Claim",
+      "neutral_headline": "Texas Sues Tylenol Maker Over Alleged Autism Link",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -619,19 +619,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2150327872-1152x648.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "Texas is suing the maker of Tylenol.",
-        "The lawsuit is based on an unproven claim.",
-        "The claim alleges the pain medicine causes autism.",
-        "The lawsuit has sparked controversy.",
-        "The case highlights concerns about medical claims."
+        "The state of Texas is suing the manufacturer of Tylenol.",
+        "The lawsuit alleges a connection between Tylenol and autism.",
+        "The claim is based on unproven scientific evidence.",
+        "The legal action targets the company's marketing practices.",
+        "The manufacturer has not yet issued a public response."
       ]
     },
     {
-      "id": "cluster_88",
+      "id": "cluster_114",
       "coverage": 1,
       "updated_at": "Tue, 28 Oct 2025 18:30:32 +0000",
       "title": "An autonomous car for consumers? Lucid says it’s happening.",
-      "neutral_headline": "Lucid Announces Plans for Autonomous Cars for Consumers",
+      "neutral_headline": "Lucid Plans Consumer Autonomous Car Development",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -650,19 +650,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/EMBARGO_Lucid_NVIDIA-GTC_IMAGE-1152x648.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "Lucid is planning to produce autonomous cars for consumers.",
-        "Nvidia is collaborating with Lucid on the project.",
-        "Nvidia is also involved in future factory development.",
-        "The announcement signals progress in autonomous driving.",
-        "The partnership aims to advance self-driving technology."
+        "Lucid Motors is planning to develop autonomous vehicles for consumers.",
+        "Nvidia is collaborating with Lucid on autonomous car technology.",
+        "The partnership also involves future factory automation.",
+        "Details about the car's release date remain unavailable.",
+        "The project aims to integrate advanced driver-assistance systems."
       ]
     },
     {
-      "id": "cluster_89",
+      "id": "cluster_115",
       "coverage": 1,
       "updated_at": "Tue, 28 Oct 2025 18:28:51 +0000",
       "title": "Senators move to keep Big Tech’s creepy companion bots away from kids",
-      "neutral_headline": "Senators Seek to Regulate Big Tech's Companion Bots for Children",
+      "neutral_headline": "Senators Propose Legislation Restricting Companion Bots for Children",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -681,19 +681,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1285352680-1152x648.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "Senators are working to regulate companion bots.",
-        "The focus is on keeping these bots away from children.",
-        "Big Tech companies immediately opposed the proposed law.",
-        "Big Tech called the proposed law \"heavy-handed.\"",
-        "The legislation aims to protect children from potential harm."
+        "Senators are working to limit Big Tech's companion bots for children.",
+        "The proposed law aims to protect children from potential risks.",
+        "Big Tech companies have expressed opposition to the legislation.",
+        "They consider the proposed law to be overly restrictive.",
+        "The bill's specifics and potential impact are still under review."
       ]
     },
     {
-      "id": "cluster_91",
+      "id": "cluster_117",
       "coverage": 1,
       "updated_at": "Tue, 28 Oct 2025 18:10:18 +0000",
       "title": "Samsung makes ads on $3,499 smart fridges official with upcoming software update",
-      "neutral_headline": "Samsung Smart Fridges Will Display Advertisements Through Software Update",
+      "neutral_headline": "Samsung to Introduce Ads on Smart Fridges Through Software Update",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -712,11 +712,11 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Samsung.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "Samsung will introduce advertisements on its Family Hub smart refrigerators through a software update.",
-        "The update will provide two methods for the refrigerators to display advertisements to users.",
-        "Advertisements will appear on the refrigerator's touchscreen interface for user viewing.",
-        "Samsung plans to monetize the smart fridge platform by selling advertising space to brands.",
-        "The Family Hub refrigerators have a starting price of $3,499, depending on the model."
+        "Samsung will implement advertisements on its smart refrigerators.",
+        "The feature will be introduced via an upcoming software update.",
+        "The update will provide two methods for displaying advertisements.",
+        "The smart refrigerators have a retail price of $3,499.",
+        "The ads will likely target users with personalized content."
       ]
     }
   ]
