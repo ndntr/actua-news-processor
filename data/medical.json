@@ -1,17 +1,179 @@
 {
   "clinical": {
-    "updated_at": "2025-11-06T07:13:22.654Z",
+    "updated_at": "2025-11-06T11:12:08.917Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2025-11-06T07:13:22.654Z",
+    "updated_at": "2025-11-06T11:12:08.917Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2025-11-06T07:13:32.479Z",
+    "updated_at": "2025-11-06T11:12:11.787Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Thu, 06 Nov 2025 11:08:55 GMT",
+        "title": "UK facing long, tough flu season, NHS chiefs warn",
+        "neutral_headline": "UK facing long, tough flu season, NHS chiefs warn",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/c8r01ykl0xgo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 06 Nov 2025 11:08:55 GMT",
+            "title": "UK facing long, tough flu season, NHS chiefs warn",
+            "standfirst": "Vulnerable urged to come forward for flu jab quickly as virus has come early this year.",
+            "content": "Vulnerable urged to come forward for flu jab quickly as virus has come early this year.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e238/live/277194e0-bafe-11f0-9758-995af3ef9daa.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e238/live/277194e0-bafe-11f0-9758-995af3ef9daa.jpg"
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Thu, 06 Nov 2025 10:06:45 GMT",
+        "title": "William announces Earthshot Prize 2025 winners in Rio",
+        "neutral_headline": "William announces Earthshot Prize 2025 winners in Rio",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/cy0y50457y9o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 06 Nov 2025 10:06:45 GMT",
+            "title": "William announces Earthshot Prize 2025 winners in Rio",
+            "standfirst": "Winners include a project for making the Atlantic Forest financially viable and a global ocean treaty initiative.",
+            "content": "Winners include a project for making the Atlantic Forest financially viable and a global ocean treaty initiative.",
+            "feed_position": 33,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5373/live/aa1dc110-bae1-11f0-aa13-0b0479f6f42a.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5373/live/aa1dc110-bae1-11f0-aa13-0b0479f6f42a.jpg"
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Thu, 06 Nov 2025 09:37:40 GMT",
+        "title": "How do hurricanes or typhoons form and are they getting stronger?",
+        "neutral_headline": "How do hurricanes or typhoons form and are they getting stronger",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/cz913gxlw3jo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 06 Nov 2025 09:37:40 GMT",
+            "title": "How do hurricanes or typhoons form and are they getting stronger?",
+            "standfirst": "These powerful tropical storms are generally becoming more intense as the world warms.",
+            "content": "These powerful tropical storms are generally becoming more intense as the world warms.",
+            "feed_position": 36,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc8b/live/815ff9f0-baf5-11f0-bdb8-f91e842da2c7.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc8b/live/815ff9f0-baf5-11f0-bdb8-f91e842da2c7.jpg"
+      },
+      {
+        "id": "cluster_3",
+        "coverage": 1,
+        "updated_at": "Thu, 06 Nov 2025 06:12:16 GMT",
+        "title": "Maternity inquiry must include care culture - dad",
+        "neutral_headline": "Maternity inquiry must include care culture - dad",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/cgqle5gjp2no?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 06 Nov 2025 06:12:16 GMT",
+            "title": "Maternity inquiry must include care culture - dad",
+            "standfirst": "Freyja Green died in March 2019 after a traumatic birth at St James's University Hospital in Leeds.",
+            "content": "Freyja Green died in March 2019 after a traumatic birth at St James's University Hospital in Leeds.",
+            "feed_position": 4,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c3b/live/fb1438e0-ba4d-11f0-b333-073787fb182f.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c3b/live/fb1438e0-ba4d-11f0-b333-073787fb182f.jpg"
+      },
+      {
+        "id": "cluster_4",
+        "coverage": 1,
+        "updated_at": "Thu, 06 Nov 2025 02:45:03 GMT",
+        "title": "How caffeine can help you manage headaches and other tips",
+        "neutral_headline": "How caffeine can help you manage headaches and other tips",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/cgr44j201rzo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 06 Nov 2025 02:45:03 GMT",
+            "title": "How caffeine can help you manage headaches and other tips",
+            "standfirst": "If you're getting a pattern of milder, recurring headaches here are four things you can do to help manage it.",
+            "content": "If you're getting a pattern of milder, recurring headaches here are four things you can do to help manage it.",
+            "feed_position": 2,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c33/live/26185cc0-b8a9-11f0-9418-d155a3381a50.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c33/live/26185cc0-b8a9-11f0-9418-d155a3381a50.jpg"
+      },
+      {
+        "id": "cluster_5",
+        "coverage": 1,
+        "updated_at": "Thu, 06 Nov 2025 00:04:46 GMT",
+        "title": "ADHD services shutting door to new NHS patients as demand soars, BBC finds",
+        "neutral_headline": "ADHD services shutting door to new NHS patients as demand soars, BBC finds",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/c4gpl150ze4o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 06 Nov 2025 00:04:46 GMT",
+            "title": "ADHD services shutting door to new NHS patients as demand soars, BBC finds",
+            "standfirst": "A BBC investigation finds that a host of areas in England are closing waiting lists and others are rationing care.",
+            "content": "A BBC investigation finds that a host of areas in England are closing waiting lists and others are rationing care.",
+            "feed_position": 1,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad28/live/b4ad7d60-b9a0-11f0-b2a1-6f537f66f9aa.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad28/live/b4ad7d60-b9a0-11f0-b2a1-6f537f66f9aa.jpg"
+      },
+      {
+        "id": "cluster_6",
+        "coverage": 1,
+        "updated_at": "Wed, 05 Nov 2025 19:21:00 GMT",
+        "title": "BMA rejects fresh offer to end doctor strikes",
+        "neutral_headline": "BMA rejects fresh offer to end doctor strikes",
+        "bullet_summary": [
+          "An offer was made to avert the resident doctors' strike but the union said it did not go far enough",
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/cdrze1rzejlo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Wed, 05 Nov 2025 19:21:00 GMT",
+            "title": "BMA rejects fresh offer to end doctor strikes",
+            "standfirst": "An offer was made to avert the resident doctors' strike but the union said it did not go far enough.",
+            "content": "An offer was made to avert the resident doctors' strike but the union said it did not go far enough.",
+            "feed_position": 3,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35cb/live/e773c8b0-ba6a-11f0-ba8c-5f7067df6bdc.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35cb/live/e773c8b0-ba6a-11f0-ba8c-5f7067df6bdc.jpg"
+      },
+      {
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Wed, 05 Nov 2025 19:06:24 GMT",
         "title": "Resident doctors’ strike to go ahead after Wes Streeting’s last-ditch offer is rejected",
@@ -32,7 +194,7 @@
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Wed, 05 Nov 2025 17:45:29 GMT",
         "title": "I found something strange on my back – and eventually I just couldn’t ignore it | Adrian Chiles",
@@ -53,7 +215,7 @@
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Wed, 05 Nov 2025 17:33:47 GMT",
         "title": "End-of-life care needs a fundamental review, not just more funding | Letters",
@@ -74,7 +236,7 @@
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Wed, 05 Nov 2025 16:56:09 GMT",
         "title": "LED mask ads banned over acne and rosacea claims",
@@ -90,37 +252,14 @@
             "title": "LED mask ads banned over acne and rosacea claims",
             "standfirst": "Adverts for cosmetic devices not registered with the medicines regulator must not make medical claims.",
             "content": "Adverts for cosmetic devices not registered with the medicines regulator must not make medical claims.",
-            "feed_position": 1,
+            "feed_position": 5,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b9d/live/2dc97d40-b9a4-11f0-91b3-9fadee0808a6.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b9d/live/2dc97d40-b9a4-11f0-91b3-9fadee0808a6.jpg"
       },
       {
-        "id": "cluster_4",
-        "coverage": 1,
-        "updated_at": "Wed, 05 Nov 2025 15:37:27 GMT",
-        "title": "William follows in mother Diana's footsteps with Rio statue photo",
-        "neutral_headline": "William follows in mother Diana's footsteps with Rio statue photo",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/cge5zlgpydxo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Wed, 05 Nov 2025 15:37:27 GMT",
-            "title": "William follows in mother Diana's footsteps with Rio statue photo",
-            "standfirst": "The Prince of Wales posed beneath the Christ the Redeemer statue 34 years after his mother did.",
-            "content": "The Prince of Wales posed beneath the Christ the Redeemer statue 34 years after his mother did.",
-            "feed_position": 33,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01b4/live/3d9a69a0-ba5d-11f0-995c-3bd371294616.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01b4/live/3d9a69a0-ba5d-11f0-995c-3bd371294616.jpg"
-      },
-      {
-        "id": "cluster_5",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Wed, 05 Nov 2025 15:11:16 GMT",
         "title": "Trump U-turns to renominate billionaire for Nasa chief",
@@ -143,30 +282,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db95/live/26233770-ba44-11f0-a0d5-273175887cd7.jpg"
       },
       {
-        "id": "cluster_6",
-        "coverage": 1,
-        "updated_at": "Wed, 05 Nov 2025 13:04:38 GMT",
-        "title": "Britain sliding 'into economic crisis' over £85bn sickness bill, ex-John Lewis boss warns",
-        "neutral_headline": "Britain sliding 'into economic crisis' over £85bn sickness bill,...",
-        "bullet_summary": [
-          "Reported by BBC Health"
-        ],
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/c7v80n7mz2jo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Wed, 05 Nov 2025 13:04:38 GMT",
-            "title": "Britain sliding 'into economic crisis' over £85bn sickness bill, ex-John Lewis boss warns",
-            "standfirst": "The number of people who are out of work for health reasons has grown by 800,000 since 2019.",
-            "content": "The number of people who are out of work for health reasons has grown by 800,000 since 2019.",
-            "feed_position": 3,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b4b/live/f27943d0-ba32-11f0-ba75-093eca1ac29b.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b4b/live/f27943d0-ba32-11f0-ba75-093eca1ac29b.jpg"
-      },
-      {
-        "id": "cluster_7",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Wed, 05 Nov 2025 07:00:18 GMT",
         "title": "Belén review – gripping true story of woman unjustly accused of illegal abortion",
@@ -188,7 +304,7 @@
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Wed, 05 Nov 2025 06:09:16 GMT",
         "title": "Council to vaccinate child in care after court win",
@@ -204,14 +320,14 @@
             "title": "Council to vaccinate child in care after court win",
             "standfirst": "The mother refused vaccinations out of her belief there is a link between the jabs and autism.",
             "content": "The mother refused vaccinations out of her belief there is a link between the jabs and autism.",
-            "feed_position": 0,
+            "feed_position": 6,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a28/live/6e9b31c0-b967-11f0-8ece-6904e2149bdb.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a28/live/6e9b31c0-b967-11f0-8ece-6904e2149bdb.jpg"
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Wed, 05 Nov 2025 00:30:30 GMT",
         "title": "Dr Xand: Five easy food swaps to improve your gut health",
@@ -227,14 +343,14 @@
             "title": "Dr Xand: Five easy food swaps to improve your gut health",
             "standfirst": "Instead of reaching for pricey probiotic shots or snacks, here are five easy food swaps to boost your gut health.",
             "content": "Instead of reaching for pricey probiotic shots or snacks, here are five easy food swaps to boost your gut health.",
-            "feed_position": 2,
+            "feed_position": 9,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7312/live/9ddac8c0-b9ac-11f0-aa13-0b0479f6f42a.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7312/live/9ddac8c0-b9ac-11f0-aa13-0b0479f6f42a.jpg"
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Wed, 05 Nov 2025 00:01:12 GMT",
         "title": "Fixing Britain’s worklessness crisis will cost employers £6bn a year, report says",
@@ -255,7 +371,7 @@
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Tue, 04 Nov 2025 23:30:09 GMT",
         "title": "Babies born to black mothers 81% more likely to die in neonatal care, NHS study shows",
@@ -276,7 +392,7 @@
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Tue, 04 Nov 2025 20:45:15 GMT",
         "title": "Soy, oat, almond, rice: which alternative milk is healthiest?",
@@ -297,7 +413,7 @@
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Tue, 04 Nov 2025 20:08:04 GMT",
         "title": "NHS staff bearing brunt as ‘ugly’ racism of 70s and 80s returns, says Streeting",
@@ -319,7 +435,7 @@
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Tue, 04 Nov 2025 17:49:56 GMT",
         "title": "A precious web of care still exists | Letters",
@@ -338,99 +454,11 @@
             "feed_position": 8
           }
         ]
-      },
-      {
-        "id": "cluster_15",
-        "coverage": 1,
-        "updated_at": "Tue, 04 Nov 2025 16:00:00 GMT",
-        "title": "‘Music is my remedy’: how DJing is helping Ukraine’s war veterans with their recovery",
-        "neutral_headline": "‘Music is my remedy’: how DJing is helping Ukraine’s war veterans with their recovery",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/music/2025/nov/04/ukraine-war-veterans-enterdj-music-therapy-superhumans-centre",
-            "published_at": "Tue, 04 Nov 2025 16:00:00 GMT",
-            "title": "‘Music is my remedy’: how DJing is helping Ukraine’s war veterans with their recovery",
-            "standfirst": "At the Superhumans centre in Ukraine, the EnterDJ music therapy programme teaches war-wounded soldiers how to mix, rehabilitating them with dance music and providing purpose and opportunities to performIn Ukraine, sound carries a different weight: the cautionary blurt of sirens, Shahed drones humming overhead, the concussive thwack of air defence interception and the subsequent explosion. But as well as the sounds of war, which continue three and a half years into Russia’s full-scale invasion, music still plays, clubs remain open during the day (closing well before the midnight curfew), and electronic dance music remains an intrinsic part of many Ukrainian lives.Kyiv’s iconic clubs, such as K41, became bomb shelters before transforming into frontline fundraisers. Parties doubling up as cleanup operations are held at strike sites. New venues such as Abo Records – the first of many creative spaces to set up shop in an abandoned liquor factory – have emerged as gathering points where you might share a cigarette with a sniper or combat medic as easily as with a DJ. But the rehabilitative power of dance music is most evident at the Superhumans centre, near Lviv in the west of Ukraine. Here, the most critically war-wounded are treated with prosthetics and reconstructive surgery, and psychological support is given to children and adults affected by the war. And within the range of treatment is music therapy. Continue reading...",
-            "content": "At the Superhumans centre in Ukraine, the EnterDJ music therapy programme teaches war-wounded soldiers how to mix, rehabilitating them with dance music and providing purpose and opportunities to performIn Ukraine, sound carries a different weight: the cautionary blurt of sirens, Shahed drones humming overhead, the concussive thwack of air defence interception and the subsequent explosion. But as well as the sounds of war, which continue three and a half years into Russia’s full-scale invasion, music still plays, clubs remain open during the day (closing well before the midnight curfew), and electronic dance music remains an intrinsic part of many Ukrainian lives.Kyiv’s iconic clubs, such as K41, became bomb shelters before transforming into frontline fundraisers. Parties doubling up as cleanup operations are held at strike sites. New venues such as Abo Records – the first of many creative spaces to set up shop in an abandoned liquor factory – have emerged as gathering points where you might share a cigarette with a sniper or combat medic as easily as with a DJ. But the rehabilitative power of dance music is most evident at the Superhumans centre, near Lviv in the west of Ukraine. Here, the most critically war-wounded are treated with prosthetics and reconstructive surgery, and psychological support is given to children and adults affected by the war. And within the range of treatment is music therapy. Continue reading...",
-            "feed_position": 9
-          }
-        ]
-      },
-      {
-        "id": "cluster_16",
-        "coverage": 1,
-        "updated_at": "Tue, 04 Nov 2025 13:15:17 GMT",
-        "title": "Vapers overtake smokers for first time in Britain",
-        "neutral_headline": "Vapers overtake smokers for first time in Britain",
-        "bullet_summary": [
-          "Reported by BBC Health"
-        ],
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/ceq0z9e2wwwo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Tue, 04 Nov 2025 13:15:17 GMT",
-            "title": "Vapers overtake smokers for first time in Britain",
-            "standfirst": "Some 5.4 million adults use vapes daily or occasionally compared with 4.9 million using cigarettes, figures show.",
-            "content": "Some 5.4 million adults use vapes daily or occasionally compared with 4.9 million using cigarettes, figures show.",
-            "feed_position": 4,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47a4/live/513f7a50-b967-11f0-8ece-6904e2149bdb.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47a4/live/513f7a50-b967-11f0-8ece-6904e2149bdb.jpg"
-      },
-      {
-        "id": "cluster_17",
-        "coverage": 1,
-        "updated_at": "Tue, 04 Nov 2025 11:00:30 GMT",
-        "title": "Firms not supporting staff through IVF could lose £217m in hidden costs, study shows",
-        "neutral_headline": "Firms not supporting staff through IVF could lose £217m in hidden costs, study shows",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2025/nov/04/firms-not-supporting-staff-ivf-hidden-costs",
-            "published_at": "Tue, 04 Nov 2025 11:00:30 GMT",
-            "title": "Firms not supporting staff through IVF could lose £217m in hidden costs, study shows",
-            "standfirst": "Cost of sick leave for appointments, productivity loss and resignations is more than of paid leave, research estimatesUK employers who do not formally support staff undergoing fertility treatments could be losing £217.3m a year in sick leave, lost productivity and resignations, research estimates.Companies without fertility leave pay £35,317 per affected employee, compared with a cost of £388 for 10 days’ paid leave when a clear fertility policy is in place, the campaign group Fertility Matters at Work estimated. Continue reading...",
-            "content": "Cost of sick leave for appointments, productivity loss and resignations is more than of paid leave, research estimatesUK employers who do not formally support staff undergoing fertility treatments could be losing £217.3m a year in sick leave, lost productivity and resignations, research estimates.Companies without fertility leave pay £35,317 per affected employee, compared with a cost of £388 for 10 days’ paid leave when a clear fertility policy is in place, the campaign group Fertility Matters at Work estimated. Continue reading...",
-            "feed_position": 10
-          }
-        ]
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Tue, 04 Nov 2025 10:01:47 GMT",
-        "title": "Stone tool discovery suggests very first humans were inventors",
-        "neutral_headline": "Stone tool discovery suggests very first humans were inventors",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/ce8zn4ln85ro?at_medium=RSS&at_campaign=rss",
-            "published_at": "Tue, 04 Nov 2025 10:01:47 GMT",
-            "title": "Stone tool discovery suggests very first humans were inventors",
-            "standfirst": "The find shows that the technology was passed down through thousands of generations.",
-            "content": "The find shows that the technology was passed down through thousands of generations.",
-            "feed_position": 1,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd5a/live/b65d4ab0-b968-11f0-b2a1-6f537f66f9aa.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd5a/live/b65d4ab0-b968-11f0-b2a1-6f537f66f9aa.jpg"
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2025-11-06T07:13:32.479Z",
+    "updated_at": "2025-11-06T11:12:11.788Z",
     "clusters": []
   }
 }
