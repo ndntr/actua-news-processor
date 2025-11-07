@@ -1,17 +1,59 @@
 {
   "clinical": {
-    "updated_at": "2025-11-06T23:12:40.239Z",
+    "updated_at": "2025-11-07T07:13:23.806Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2025-11-06T23:12:40.239Z",
+    "updated_at": "2025-11-07T07:13:23.806Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2025-11-06T23:12:42.397Z",
+    "updated_at": "2025-11-07T07:13:25.637Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Fri, 07 Nov 2025 06:00:20 GMT",
+        "title": "NHS to take over state-of-the-art hospital from private health group in ‘windfall’",
+        "neutral_headline": "NHS to take over state-of-the-art hospital from private health group in ‘windfall’",
+        "bullet_summary": [
+          "Reported by Guardian Health"
+        ],
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/society/2025/nov/07/nhs-to-take-over-state-of-the-art-hospital-from-private-health-group-in-windfall",
+            "published_at": "Fri, 07 Nov 2025 06:00:20 GMT",
+            "title": "NHS to take over state-of-the-art hospital from private health group in ‘windfall’",
+            "standfirst": "Nuffield Health to close London hospital after anticipated demand for private care fails to materialiseAn NHS trust is taking over a state-of-the-art hospital from a leading private healthcare group after it failed to attract enough paying patients to use it.Barts Health trust in London will turn Nuffield Health’s facility into a dedicated NHS breast cancer diagnosis and treatment centre when it gains control next month. Continue reading...",
+            "content": "Nuffield Health to close London hospital after anticipated demand for private care fails to materialiseAn NHS trust is taking over a state-of-the-art hospital from a leading private healthcare group after it failed to attract enough paying patients to use it.Barts Health trust in London will turn Nuffield Health’s facility into a dedicated NHS breast cancer diagnosis and treatment centre when it gains control next month. Continue reading...",
+            "feed_position": 0
+          }
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Thu, 06 Nov 2025 23:30:09 GMT",
+        "title": "Call to give UK cancer patients legal right to be treated within two months",
+        "neutral_headline": "Call to give UK cancer patients legal right to be treated within two months",
+        "bullet_summary": [
+          "Reported by Guardian Health"
+        ],
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/society/2025/nov/06/call-give-uk-cancer-patients-legal-right-treated-within-two-months",
+            "published_at": "Thu, 06 Nov 2025 23:30:09 GMT",
+            "title": "Call to give UK cancer patients legal right to be treated within two months",
+            "standfirst": "Experts point to example of Denmark, where survival rates for some cancers are among the best in EuropeCancer patients should have the legal right to be treated within two months, even if that means the NHS has to pay for them to be treated privately or abroad, according to international experts.Writing in the Lancet Oncology, they say cancer patients should have the legally enforceable entitlement to be treated within 62 days of an urgent referral by a GP. Continue reading...",
+            "content": "Experts point to example of Denmark, where survival rates for some cancers are among the best in EuropeCancer patients should have the legal right to be treated within two months, even if that means the NHS has to pay for them to be treated privately or abroad, according to international experts.Writing in the Lancet Oncology, they say cancer patients should have the legally enforceable entitlement to be treated within 62 days of an urgent referral by a GP. Continue reading...",
+            "feed_position": 1
+          }
+        ]
+      },
+      {
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Thu, 06 Nov 2025 19:33:59 GMT",
         "title": "COP30: World leaders take aim at Trump for climate inaction",
@@ -34,7 +76,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f22/live/90240cd0-bb43-11f0-9494-47f20ee206c1.jpg"
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Thu, 06 Nov 2025 17:52:50 GMT",
         "title": "How employers can help their staff stay in work | Letters",
@@ -50,21 +92,12 @@
             "title": "How employers can help their staff stay in work | Letters",
             "standfirst": "Readers respond to the government’s Keep Britain Working review that aims to tackle the growing worklessness crisisThe Keep Britain Working review highlights the crisis of people leaving the labour market because of poor health (Fixing Britain’s worklessness crisis will cost employers £6bn a year, report says, 5 November). Its call for employers to improve occupational health support and early intervention is welcome, but it risks missing the bigger issue: work itself.For too long, the UK has subsidised poor work. Public authorities have awarded contracts to employers that pay low wages, offer insecure hours and provide little support when people fall ill. The state then picks up the cost in welfare, lost tax and pressure on the NHS. That’s not a sustainable economy, it’s a subsidy for failure. Continue reading...",
             "content": "Readers respond to the government’s Keep Britain Working review that aims to tackle the growing worklessness crisisThe Keep Britain Working review highlights the crisis of people leaving the labour market because of poor health (Fixing Britain’s worklessness crisis will cost employers £6bn a year, report says, 5 November). Its call for employers to improve occupational health support and early intervention is welcome, but it risks missing the bigger issue: work itself.For too long, the UK has subsidised poor work. Public authorities have awarded contracts to employers that pay low wages, offer insecure hours and provide little support when people fall ill. The state then picks up the cost in welfare, lost tax and pressure on the NHS. That’s not a sustainable economy, it’s a subsidy for failure. Continue reading...",
-            "feed_position": 0
-          },
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/business/2025/nov/05/fixing-britains-worklessness-crisis-will-cost-employers-6bn-a-year-report-says",
-            "published_at": "Wed, 05 Nov 2025 00:01:12 GMT",
-            "title": "Fixing Britain’s worklessness crisis will cost employers £6bn a year, report says",
-            "standfirst": "The Keep Britain Working review, created to tackle the rising tide of ill health pushing millions out of work, reported its findings ahead of this month’s budgetEmployers have been told in a landmark government review that fixing Britain’s health-related worklessness crisis will require them to spend £6bn a year on support for their staff.In a major report before this month’s budget, Charlie Mayfield warned that businesses needed to play a more central role in tackling a rising tide of ill-health that is pushing millions of people out of work. Continue reading...",
-            "content": "The Keep Britain Working review, created to tackle the rising tide of ill health pushing millions out of work, reported its findings ahead of this month’s budgetEmployers have been told in a landmark government review that fixing Britain’s health-related worklessness crisis will require them to spend £6bn a year on support for their staff.In a major report before this month’s budget, Charlie Mayfield warned that businesses needed to play a more central role in tackling a rising tide of ill-health that is pushing millions of people out of work. Continue reading...",
-            "feed_position": 8
+            "feed_position": 2
           }
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Thu, 06 Nov 2025 17:00:02 GMT",
         "title": "Beans, beans, the magical fruit: how healthy are they really?",
@@ -80,12 +113,12 @@
             "title": "Beans, beans, the magical fruit: how healthy are they really?",
             "standfirst": "Research shows beans are good for the body and for the planet. Here’s what to know about getting more in your dietBeans are affordable, accessible and versatile – delicious in dense salads and creamy sauces alike.They grow worldwide and are good for the planet, enriching the soil they sprout from with nitrogen while emitting fewer greenhouse gases and requiring significantly less land and water per gram of protein than any animal source. Thanks to enormous diversity, more than 400 varieties are used in culinary contexts, some of which are gorgeous to boot. Continue reading...",
             "content": "Research shows beans are good for the body and for the planet. Here’s what to know about getting more in your dietBeans are affordable, accessible and versatile – delicious in dense salads and creamy sauces alike.They grow worldwide and are good for the planet, enriching the soil they sprout from with nitrogen while emitting fewer greenhouse gases and requiring significantly less land and water per gram of protein than any animal source. Thanks to enormous diversity, more than 400 varieties are used in culinary contexts, some of which are gorgeous to boot. Continue reading...",
-            "feed_position": 1
+            "feed_position": 3
           }
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Thu, 06 Nov 2025 17:00:00 GMT",
         "title": "BBC Inside Science",
@@ -108,7 +141,7 @@
         "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Thu, 06 Nov 2025 15:32:59 GMT",
         "title": "Woman 'strung along' seriously ill man over kidney donation",
@@ -131,7 +164,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1805/live/22f1d620-bb1f-11f0-b2a1-6f537f66f9aa.jpg"
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Thu, 06 Nov 2025 15:23:30 GMT",
         "title": "CMAT's hack for chilling out",
@@ -155,7 +188,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6419/live/9942eba0-bb21-11f0-aa13-0b0479f6f42a.jpg"
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Thu, 06 Nov 2025 14:45:54 GMT",
         "title": "How the heart can 'create' emotions",
@@ -178,7 +211,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bf2/live/db9007a0-bb07-11f0-aa13-0b0479f6f42a.jpg"
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Thu, 06 Nov 2025 14:43:36 GMT",
         "title": "Can your phlegm colour tell you when to see a doctor?",
@@ -201,7 +234,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f62c/live/7845d2e0-bb13-11f0-ba75-093eca1ac29b.jpg"
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Thu, 06 Nov 2025 12:07:36 GMT",
         "title": "Bird flu virus spreading in UK could be worst yet, expert warns farmers",
@@ -224,7 +257,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81a5/live/dbe741a0-bb02-11f0-80a0-8fc2ef516106.jpg"
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Thu, 06 Nov 2025 12:00:56 GMT",
         "title": "'Choking' in porn has become the new normal. Here’s why a new UK law banning it is so vital | Clare McGlynn",
@@ -242,12 +275,12 @@
             "title": "'Choking' in porn has become the new normal. Here’s why a new UK law banning it is so vital | Clare McGlynn",
             "standfirst": "Strangulation during sex damages young women’s brain health and breeds deep gender inequality. But the real test will be its enforcementThis week marks a turning point in the UK’s approach to violent porn. The government has announced it will make publishing or possessing pornographic depictions of strangulation or suffocation – often known as “choking” – illegal. This bold move could transform the porn that appears on porn sites and social media platforms.Strangulation in porn was once niche. Indeed, studies investigating the content of porn 20 years ago found hardly any instances of it. Yet an independent review of pornography released this year found that it was rife on the most popular porn sites. This summer the children’s commissioner released a report revealing that 58% of young people had seen strangulation in pornography, even though only 6% had searched for it. As renowned porn producer Erika Lust puts it, strangulation has become the “alpha and omega” of “any porn scene”.Clare McGlynn is a professor of law at Durham University and author of Exposed: The Rise of Extreme Porn and How We Fight Back (out in 2026)Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...",
             "content": "Strangulation during sex damages young women’s brain health and breeds deep gender inequality. But the real test will be its enforcementThis week marks a turning point in the UK’s approach to violent porn. The government has announced it will make publishing or possessing pornographic depictions of strangulation or suffocation – often known as “choking” – illegal. This bold move could transform the porn that appears on porn sites and social media platforms.Strangulation in porn was once niche. Indeed, studies investigating the content of porn 20 years ago found hardly any instances of it. Yet an independent review of pornography released this year found that it was rife on the most popular porn sites. This summer the children’s commissioner released a report revealing that 58% of young people had seen strangulation in pornography, even though only 6% had searched for it. As renowned porn producer Erika Lust puts it, strangulation has become the “alpha and omega” of “any porn scene”.Clare McGlynn is a professor of law at Durham University and author of Exposed: The Rise of Extreme Porn and How We Fight Back (out in 2026)Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...",
-            "feed_position": 2
+            "feed_position": 4
           }
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Thu, 06 Nov 2025 11:27:44 GMT",
         "title": "Woman with stage 4 cancer has welfare benefit stopped after falling ill abroad",
@@ -263,12 +296,12 @@
             "title": "Woman with stage 4 cancer has welfare benefit stopped after falling ill abroad",
             "standfirst": "Ana Paula Cabral’s universal credit payments were abruptly ended by DWP when she failed to return from Portugal tripA woman with stage 4 colon cancer has had her universal credit payments stopped and is at risk of losing her home after she fell ill while visiting family abroad to tell them about her diagnosis.Ana Paula Cabral, 65, who moved to the UK from Portugal eight years ago, started receiving universal credit (UC) in July as she was unable to work after her cancer diagnosis, which required extensive chemotherapy. Continue reading...",
             "content": "Ana Paula Cabral’s universal credit payments were abruptly ended by DWP when she failed to return from Portugal tripA woman with stage 4 colon cancer has had her universal credit payments stopped and is at risk of losing her home after she fell ill while visiting family abroad to tell them about her diagnosis.Ana Paula Cabral, 65, who moved to the UK from Portugal eight years ago, started receiving universal credit (UC) in July as she was unable to work after her cancer diagnosis, which required extensive chemotherapy. Continue reading...",
-            "feed_position": 3
+            "feed_position": 5
           }
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Thu, 06 Nov 2025 11:08:55 GMT",
         "title": "UK facing long, tough flu season, NHS chiefs warn",
@@ -291,7 +324,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e238/live/277194e0-bafe-11f0-9758-995af3ef9daa.jpg"
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Thu, 06 Nov 2025 10:06:45 GMT",
         "title": "William announces Earthshot Prize 2025 winners in Rio",
@@ -314,7 +347,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5373/live/aa1dc110-bae1-11f0-aa13-0b0479f6f42a.jpg"
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Thu, 06 Nov 2025 09:37:40 GMT",
         "title": "How do hurricanes or typhoons form and are they getting stronger?",
@@ -337,7 +370,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc8b/live/815ff9f0-baf5-11f0-bdb8-f91e842da2c7.jpg"
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Thu, 06 Nov 2025 06:12:16 GMT",
         "title": "Maternity inquiry must include care culture - dad",
@@ -360,7 +393,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c3b/live/fb1438e0-ba4d-11f0-b333-073787fb182f.jpg"
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Thu, 06 Nov 2025 02:45:03 GMT",
         "title": "How caffeine can help you manage headaches and other tips",
@@ -383,7 +416,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c33/live/26185cc0-b8a9-11f0-9418-d155a3381a50.jpg"
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Thu, 06 Nov 2025 00:04:46 GMT",
         "title": "ADHD services shutting door to new NHS patients as demand soars, BBC finds",
@@ -406,7 +439,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad28/live/b4ad7d60-b9a0-11f0-b2a1-6f537f66f9aa.jpg"
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Wed, 05 Nov 2025 19:21:00 GMT",
         "title": "BMA rejects fresh offer to end doctor strikes",
@@ -428,53 +461,11 @@
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35cb/live/e773c8b0-ba6a-11f0-ba8c-5f7067df6bdc.jpg"
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Wed, 05 Nov 2025 19:06:24 GMT",
-        "title": "Resident doctors’ strike to go ahead after Wes Streeting’s last-ditch offer is rejected",
-        "neutral_headline": "Resident doctors’ strike to go ahead after Wes Streeting’s...",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2025/nov/05/resident-doctors-strike-to-go-ahead-after-wes-streetings-last-ditch-offer-is-rejected",
-            "published_at": "Wed, 05 Nov 2025 19:06:24 GMT",
-            "title": "Resident doctors’ strike to go ahead after Wes Streeting’s last-ditch offer is rejected",
-            "standfirst": "Resident doctors in England to strike for five days next week, saying health secretary’s latest offer is too limitedWes Streeting has failed in an attempt to end the long-running resident doctors’ dispute with a new offer to them, which means their five-day strike next week is expected to go ahead.The health secretary tabled a new offer to resident doctors – formerly junior doctors – in England on Wednesday in a move intended to avoid the strike, their 13th. Continue reading...",
-            "content": "Resident doctors in England to strike for five days next week, saying health secretary’s latest offer is too limitedWes Streeting has failed in an attempt to end the long-running resident doctors’ dispute with a new offer to them, which means their five-day strike next week is expected to go ahead.The health secretary tabled a new offer to resident doctors – formerly junior doctors – in England on Wednesday in a move intended to avoid the strike, their 13th. Continue reading...",
-            "feed_position": 4
-          }
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Wed, 05 Nov 2025 17:45:29 GMT",
-        "title": "I found something strange on my back – and eventually I just couldn’t ignore it | Adrian Chiles",
-        "neutral_headline": "I found something strange on my back – and eventually I just...",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/commentisfree/2025/nov/05/i-found-something-strange-on-my-back-and-eventually-i-just-couldnt-ignore-it",
-            "published_at": "Wed, 05 Nov 2025 17:45:29 GMT",
-            "title": "I found something strange on my back – and eventually I just couldn’t ignore it | Adrian Chiles",
-            "standfirst": "When I first discovered this vaguely troubling symptom, I embarked upon my tried-and-tested routine for dealing with such things: 1. Pretend it’s not there. 2. Acknowledge it is. 3. Convince myself it’s growingThe NHS is a funny fish. It often kind of almost works brilliantly. Almost but frustratingly, not quite.I had this thing on the back of my shoulder which, being where it was, I couldn’t quite see. I could feel it though. A moley, warty thing. I’ll spare you a fuller description. Continue reading...",
-            "content": "When I first discovered this vaguely troubling symptom, I embarked upon my tried-and-tested routine for dealing with such things: 1. Pretend it’s not there. 2. Acknowledge it is. 3. Convince myself it’s growingThe NHS is a funny fish. It often kind of almost works brilliantly. Almost but frustratingly, not quite.I had this thing on the back of my shoulder which, being where it was, I couldn’t quite see. I could feel it though. A moley, warty thing. I’ll spare you a fuller description. Continue reading...",
-            "feed_position": 5
-          }
-        ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2025-11-06T23:12:42.397Z",
+    "updated_at": "2025-11-07T07:13:25.637Z",
     "clusters": []
   }
 }
