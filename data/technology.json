@@ -1,34 +1,34 @@
 {
-  "updated_at": "2025-11-18T23:13:00.129Z",
+  "updated_at": "2025-11-19T03:41:14.612Z",
   "clusters": [
     {
-      "id": "cluster_1",
+      "id": "cluster_6",
       "coverage": 3,
-      "updated_at": "2025-11-18T17:58:59-05:00",
-      "title": "Cloudflare outages aren’t a matter of if — but when",
+      "updated_at": "Wed, 19 Nov 2025 01:33:00 GMT",
+      "title": "Major Cloudflare outage took down ChatGPT, X, and Spotify Tuesday - here's what happened",
       "neutral_headline": "Cloudflare Outage Causes Widespread Internet Disruptions",
       "bullet_summary": [
         "It's the latest in a string of outages that Mehdi Daoudi, CEO and co-founder of the internet performance [&#8230;]",
-        "Reported by The Verge, TechCrunch, Guardian Tech"
+        "Reported by ZDNet, The Verge, TechCrunch"
       ],
       "items": [
+        {
+          "source": "ZDNet",
+          "url": "https://www.zdnet.com/article/major-cloudflare-outage-took-down-chatgpt-x-and-spotify-tuesday-heres-what-happened/",
+          "published_at": "Wed, 19 Nov 2025 01:33:00 GMT",
+          "title": "Major Cloudflare outage took down ChatGPT, X, and Spotify Tuesday - here's what happened",
+          "standfirst": "A major outage rippled across the web, knocking many of the internet's biggest sites offline.",
+          "content": "A major outage rippled across the web, knocking many of the internet's biggest sites offline.",
+          "feed_position": 3
+        },
         {
           "source": "The Verge",
           "url": "https://www.theverge.com/news/823562/cloudflare-outage-wake-up-call-websites",
           "published_at": "2025-11-18T17:58:59-05:00",
-          "title": "Cloudflare outages aren’t a matter of if — but when",
+          "title": "Cloudflare shows internet outages aren’t a matter of if — but when",
           "standfirst": "Cloudflare has become the latest web infrastructure giant to collapse in the span of a month, replacing entire sites, including X, ChatGPT, Spotify, Canva, and even the outage-tracking DownDetector, with an error message for hours this morning. It's the latest in a string of outages that Mehdi Daoudi, CEO and co-founder of the internet performance [&#8230;]",
           "content": "Cloudflare has become the latest web infrastructure giant to collapse in the span of a month, replacing entire sites, including X, ChatGPT, Spotify, Canva, and even the outage-tracking DownDetector, with an error message for hours this morning. It's the latest in a string of outages that Mehdi Daoudi, CEO and co-founder of the internet performance monitoring platform Catchpoint, says should be a \"wake-up call\" for companies. \"Everybody's putting all their eggs in one basket, and then they're surprised when there is a problem,\" Daoudi says. \"It's on the company's side to make sure that they have redundancy and resiliency.\" The outage comes … Read the full story at The Verge.",
-          "feed_position": 0
-        },
-        {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/news/822869/cloudflare-is-down-outage-x-twitter-downdetector",
-          "published_at": "2025-11-18T13:30:54-05:00",
-          "title": "A massive Cloudflare outage brought down X, ChatGPT, and even Downdetector",
-          "standfirst": "Cloudflare, a networking company that provides DDoS protection and internet content delivery services for many companies around the globe, is recovering after a major outage that took down sites across the web. Users weren’t able to access X, ChatGPT, and even the outage-tracking site DownDetector on Tuesday morning, with some sites displaying an error message [&#8230;]",
-          "content": "Cloudflare, a networking company that provides DDoS protection and internet content delivery services for many companies around the globe, is recovering after a major outage that took down sites across the web. Users weren’t able to access X, ChatGPT, and even the outage-tracking site DownDetector on Tuesday morning, with some sites displaying an error message that said, “Please unblock challenges.cloudflare.com to proceed.” The disruption, which started at around 6:20AM ET, is linked to a “configuration file that is automatically generated to manage threat traffic,” Cloudflare spokesperson Jackie Dutton tells The Verge. “The file grew beyond an expected size of entries and triggered a crash in the software system that handles traffic for a number of Cloudflare&#8217;s services.” Dutton added that “there is no evidence” of an attack or other malicious activity. Cloudflare posted an update to its status page at 9:42AM ET, saying: “A fix has been implemented and we believe the incident is now resolved. We are continuing to monitor for errors to ensure all services are back to normal.” Cloudflare CTO Dane Knecht wrote in a post on X that the service “failed” its customers and the broader internet, adding that “a latent bug in a service underpinning our bot mitigation capability started to crash after a routine configuration change we made… This was not an attack.” I won’t mince words: earlier today we failed our customers and the broader Internet when a problem in @Cloudflare network impacted large amounts of traffic that rely on us. The sites, businesses, and organizations that rely on Cloudflare depend on us being available and I…&mdash; Dane Knecht 🦭 (@dok2001) November 18, 2025 Other online services, including Indeed, Grindr, Uber, Canva, Spotify, NJ Transit, League of Legends, and Archive of Our Own, experienced issues during the outage, while digital outlets like Axios, The Information, and Politico also went down. The Cloudflare outage comes less than a month after a huge Amazon Web Services crash took down Fortnite, Alexa, Snapchat, and other services, which was followed by issues at Microsoft Azure that brought Xbox offline for hours. Update, November 18th: Added an update from Cloudflare.",
-          "feed_position": 4
+          "feed_position": 6
         },
         {
           "source": "TechCrunch",
@@ -37,33 +37,64 @@
           "title": "Cloudflare blames massive internet outage on &#8216;latent bug&#8217;",
           "standfirst": "An outage at internet infrastructure giant Cloudflare took down several big websites and services, including ChatGPT, Claude, Spotify, and X.",
           "content": "An outage at internet infrastructure giant Cloudflare took down several big websites and services, including ChatGPT, Claude, Spotify, and X.",
-          "feed_position": 13
-        },
-        {
-          "source": "Guardian Tech",
-          "url": "https://www.theguardian.com/technology/2025/nov/18/cloudflare-outage-causes-error-messages-across-the-internet",
-          "published_at": "Tue, 18 Nov 2025 15:11:51 GMT",
-          "title": "Cloudflare outage causes error messages across the internet",
-          "standfirst": "US company that defends millions of websites against malicious attacks says it believes issue ‘is now resolved’Explainer: What is Cloudflare?A key piece of the internet’s usually hidden infrastructure suffered a global outage on Tuesday, causing error messages to flash up across websites.Cloudflare, a US company whose services include defending millions of websites against malicious attacks, experienced an unidentified problem that meant internet users could not access some of its customers’ websites. Continue reading...",
-          "content": "US company that defends millions of websites against malicious attacks says it believes issue ‘is now resolved’Explainer: What is Cloudflare?A key piece of the internet’s usually hidden infrastructure suffered a global outage on Tuesday, causing error messages to flash up across websites.Cloudflare, a US company whose services include defending millions of websites against malicious attacks, experienced an unidentified problem that meant internet users could not access some of its customers’ websites. Continue reading...",
-          "feed_position": 0
+          "feed_position": 16
         }
       ],
-      "popularity_score": 3019.7663530555556,
+      "popularity_score": 3017.8626077777776,
       "ai_summary": [
-        "Cloudflare experienced a major outage.",
-        "The outage affected many websites globally.",
-        "X, ChatGPT, and Spotify were impacted.",
-        "Some sites displayed error messages.",
-        "Cloudflare provides internet infrastructure services."
+        "A major Cloudflare outage caused widespread internet disruptions.",
+        "Several major websites and services were affected by the outage.",
+        "Services like ChatGPT, X, and Spotify were temporarily unavailable.",
+        "Cloudflare blamed the outage on a \"latent bug.\"",
+        "The outage highlighted the vulnerability of internet infrastructure."
       ]
     },
     {
-      "id": "cluster_10",
+      "id": "cluster_17",
+      "coverage": 2,
+      "updated_at": "Wed, 19 Nov 2025 00:03:02 +0000",
+      "title": "Trump DOE gives Microsoft partner $1B loan to restart Three Mile Island reactor",
+      "neutral_headline": "US DOE Provides Loan for Three Mile Island Reactor Restart",
+      "bullet_summary": [
+        "Reported by TechCrunch, TechMeme"
+      ],
+      "items": [
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2025/11/18/trump-doe-gives-microsoft-partner-1b-loan-to-restart-three-mile-island-reactor/",
+          "published_at": "Wed, 19 Nov 2025 00:03:02 +0000",
+          "title": "Trump DOE gives Microsoft partner $1B loan to restart Three Mile Island reactor",
+          "standfirst": "Constellation Energy will use the loan to refurbish a reactor it idled in 2019. Microsoft has agreed to buy the power once the facility reopens in 2028.",
+          "content": "Constellation Energy will use the loan to refurbish a reactor it idled in 2019. Microsoft has agreed to buy the power once the facility reopens in 2028.",
+          "feed_position": 1
+        },
+        {
+          "source": "TechMeme",
+          "url": "http://www.techmeme.com/251118/p51#a251118p51",
+          "published_at": "Tue, 18 Nov 2025 17:45:10 -0500",
+          "title": "The US DOE will provide Constellation with a $1B loan to restart the Three Mile Island nuclear plant; the output will be sold to Microsoft under a 20-year deal (Costas Paris/Wall Street Journal)",
+          "standfirst": "Costas Paris / Wall Street Journal: The US DOE will provide Constellation with a $1B loan to restart the Three Mile Island nuclear plant; the output will be sold to Microsoft under a 20-year deal &mdash; Constellation Energy aims to bring mothballed plant back to life to power Microsoft AI agreement",
+          "content": "Costas Paris / Wall Street Journal: The US DOE will provide Constellation with a $1B loan to restart the Three Mile Island nuclear plant; the output will be sold to Microsoft under a 20-year deal &mdash; Constellation Energy aims to bring mothballed plant back to life to power Microsoft AI agreement",
+          "feed_position": 7,
+          "image_url": "http://www.techmeme.com/251118/i51.jpg"
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/251118/i51.jpg",
+      "popularity_score": 2016.3631633333334,
+      "ai_summary": [
+        "The US Department of Energy is providing a loan.",
+        "The loan is for one billion dollars.",
+        "The loan is to restart the Three Mile Island nuclear plant.",
+        "Constellation Energy will use the loan for refurbishment.",
+        "Microsoft will purchase the power generated by the plant."
+      ]
+    },
+    {
+      "id": "cluster_30",
       "coverage": 2,
       "updated_at": "Tue, 18 Nov 2025 21:47:14 +0000",
       "title": "Meta wins monopoly trial, convinces judge that social networking is dead",
-      "neutral_headline": "Meta Wins Antitrust Trial, Judge Rules Social Networking Alive",
+      "neutral_headline": "Meta Wins Antitrust Trial, Judge Rules Social Networking Is Dead",
       "bullet_summary": [
         "Reported by Ars Technica, TechCrunch"
       ],
@@ -75,7 +106,7 @@
           "title": "Meta wins monopoly trial, convinces judge that social networking is dead",
           "standfirst": "People are \"bored\" by their friends' content, judge ruled, siding with Meta.",
           "content": "After years of pushback from the Federal Trade Commission over Meta’s acquisitions of Instagram and WhatsApp, Meta has defeated the FTC’s monopoly claims. In a Tuesday ruling, US District Judge James Boasberg said the FTC failed to show that Meta has a monopoly in a market dubbed “personal social networking.” In that narrowly defined market, the FTC unsuccessfully argued, Meta supposedly faces only two rivals, Snapchat and MeWe, which struggle to compete due to its alleged monopoly. But the days of grouping apps into “separate markets of social networking and social media” are over, Boasberg wrote. He cited the Greek philosopher Heraclitus, who “posited that no man can ever step into the same river twice,” while telling the FTC they missed their chance to block Meta’s purchase.Read full article Comments",
-          "feed_position": 1,
+          "feed_position": 3,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2209959270-1024x648.jpg"
         },
         {
@@ -85,21 +116,21 @@
           "title": "Meta wins antitrust trial as judge denies that it&#8217;s a monopoly",
           "standfirst": "A federal judge ruled that Meta is not a monopoly in a lawsuit with the FTC.",
           "content": "A federal judge ruled that Meta is not a monopoly in a lawsuit with the FTC.",
-          "feed_position": 3
+          "feed_position": 6
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2209959270-1024x648.jpg",
-      "popularity_score": 2018.5705197222221,
+      "popularity_score": 2014.09983,
       "ai_summary": [
-        "A federal judge ruled in Meta's favor.",
-        "The lawsuit was with the FTC.",
-        "The judge denied Meta is a monopoly.",
-        "The judge stated people are bored by content.",
-        "The ruling concerned social networking."
+        "Meta won an antitrust trial against the Federal Trade Commission.",
+        "The judge ruled that Meta is not a monopoly.",
+        "The judge stated people are \"bored\" by their friends' content.",
+        "The ruling sided with Meta in the lawsuit.",
+        "The case involved allegations of monopolistic practices."
       ]
     },
     {
-      "id": "cluster_12",
+      "id": "cluster_31",
       "coverage": 2,
       "updated_at": "Tue, 18 Nov 2025 21:44:28 GMT",
       "title": "I found the best early Black Friday streaming service and device deals",
@@ -116,7 +147,7 @@
           "title": "I found the best early Black Friday streaming service and device deals",
           "standfirst": "Ahead of Black Friday, we've found great streaming deals from YouTube TV, Disney+, Hulu, ESPN, and more.",
           "content": "Ahead of Black Friday, we've found great streaming deals from YouTube TV, Disney+, Hulu, ESPN, and more.",
-          "feed_position": 0
+          "feed_position": 9
         },
         {
           "source": "ZDNet",
@@ -125,7 +156,7 @@
           "title": "Shop the best early Costco deals for Black Friday 2025",
           "standfirst": "Black Friday is next week, and Costco has already launched some great early holiday deals on TVs, tablets, and more.",
           "content": "Black Friday is next week, and Costco has already launched some great early holiday deals on TVs, tablets, and more.",
-          "feed_position": 1
+          "feed_position": 10
         },
         {
           "source": "ZDNet",
@@ -134,7 +165,7 @@
           "title": "Best early Black Friday Nintendo Switch deals 2025: 20+ sales out early",
           "standfirst": "Although Black Friday is still two weeks away, you can find great Nintendo Switch and Switch 2 deals now. I've collected the best from Walmart, Best Buy, and more.",
           "content": "Although Black Friday is still two weeks away, you can find great Nintendo Switch and Switch 2 deals now. I've collected the best from Walmart, Best Buy, and more.",
-          "feed_position": 2
+          "feed_position": 11
         },
         {
           "source": "ZDNet",
@@ -143,7 +174,7 @@
           "title": "Best early Black Friday gaming PC deals 2025: My favorite sales out early",
           "standfirst": "Black Friday is just over one week away, but you can get a jump on your holiday shopping list with great deals on gaming desktop PCs, monitors, SSDs, and more.",
           "content": "Black Friday is just over one week away, but you can get a jump on your holiday shopping list with great deals on gaming desktop PCs, monitors, SSDs, and more.",
-          "feed_position": 4
+          "feed_position": 13
         },
         {
           "source": "ZDNet",
@@ -152,7 +183,7 @@
           "title": "Best early Black Friday PlayStation deals 2025: 20+ sales out now",
           "standfirst": "Although Black Friday is still two weeks away, you can find great PlayStation deals now from across the internet. I've collected some of the best.",
           "content": "Although Black Friday is still two weeks away, you can find great PlayStation deals now from across the internet. I've collected some of the best.",
-          "feed_position": 5
+          "feed_position": 14
         },
         {
           "source": "ZDNet",
@@ -161,7 +192,7 @@
           "title": "Best early Black Friday TV deals 2025: Save on Samsung, TCL, and more",
           "standfirst": "Black Friday is just over a week away, and you can already find great deals on TVs and home theater equipment from Samsung, Sony, and more.",
           "content": "Black Friday is just over a week away, and you can already find great deals on TVs and home theater equipment from Samsung, Sony, and more.",
-          "feed_position": 6
+          "feed_position": 15
         },
         {
           "source": "ZDNet",
@@ -170,7 +201,7 @@
           "title": "Best early Black Friday phone deals 2025: I found 13 offers at Amazon, Sam's Club, more",
           "standfirst": "We're a week away from the big holiday sale, but there's already a slew of deals on iPhones, Google, Samsung, and more to take advantage of.",
           "content": "We're a week away from the big holiday sale, but there's already a slew of deals on iPhones, Google, Samsung, and more to take advantage of.",
-          "feed_position": 9
+          "feed_position": 17
         },
         {
           "source": "ZDNet",
@@ -179,34 +210,7 @@
           "title": "Best early Black Friday laptop deals 2025: 21+ sales out early",
           "standfirst": "Black Friday is next week, but retailers are gearing up with early sales now. Here are the best we've found so far.",
           "content": "Black Friday is next week, but retailers are gearing up with early sales now. Here are the best we've found so far.",
-          "feed_position": 10
-        },
-        {
-          "source": "ZDNet",
-          "url": "https://www.zdnet.com/article/best-early-black-friday-chromebook-deals-2025/",
-          "published_at": "Tue, 18 Nov 2025 17:55:43 GMT",
-          "title": "Best early Black Friday Chromebook deals 2025: 20+ sales out early",
-          "standfirst": "Black Friday is just two weeks away, and in the lead-up to the sales event, I've collected the best early Chromebook deals across major retailers.",
-          "content": "Black Friday is just two weeks away, and in the lead-up to the sales event, I've collected the best early Chromebook deals across major retailers.",
-          "feed_position": 14
-        },
-        {
-          "source": "ZDNet",
-          "url": "https://www.zdnet.com/article/best-early-black-friday-deals-2025/",
-          "published_at": "Tue, 18 Nov 2025 17:44:00 GMT",
-          "title": "Best early Black Friday deals 2025: 55+ deals on TVs, laptops, streaming, and more",
-          "standfirst": "Black Friday is Nov. 28, but major retailers like Amazon, Best Buy, and Walmart are already slashing prices on top tech.",
-          "content": "Black Friday is Nov. 28, but major retailers like Amazon, Best Buy, and Walmart are already slashing prices on top tech.",
-          "feed_position": 15
-        },
-        {
-          "source": "ZDNet",
-          "url": "https://www.zdnet.com/article/best-early-black-friday-kindle-deals-2025/",
-          "published_at": "Tue, 18 Nov 2025 16:36:49 GMT",
-          "title": "Shop the best early Kindle deals for Black Friday 2025",
-          "standfirst": "We're keeping a close eye on the best early Black Friday Kindle deals, including bundles on base models and accessories, ahead of the holiday season.",
-          "content": "We're keeping a close eye on the best early Black Friday Kindle deals, including bundles on base models and accessories, ahead of the holiday season.",
-          "feed_position": 17
+          "feed_position": 18
         },
         {
           "source": "Wired Tech",
@@ -230,57 +234,17 @@
         }
       ],
       "featured_image": "https://media.wired.com/photos/691c1756902dc7a3ed741e72/master/pass/Best%20Early%20Black%20Friday%20Mattress%20Deals.png",
-      "popularity_score": 2018.524408611111,
+      "popularity_score": 2014.0537188888889,
       "ai_summary": [
-        "Early Black Friday deals are available now.",
-        "Deals are available on streaming services.",
-        "Deals are available on gaming PCs.",
-        "Deals are available on phones.",
-        "Deals are available on TVs."
+        "Retailers are offering early Black Friday deals on streaming services, including YouTube TV and Disney+.",
+        "Costco has launched early holiday deals on items like TVs and tablets for Black Friday 2025.",
+        "Nintendo Switch deals are available now, with sales from Walmart and Best Buy.",
+        "Gaming PC deals are available on desktops, monitors, and SSDs ahead of Black Friday.",
+        "Early Black Friday deals include offers on phones from Amazon, Sam's Club, and other retailers."
       ]
     },
     {
-      "id": "cluster_41",
-      "coverage": 2,
-      "updated_at": "Tue, 18 Nov 2025 13:45:00 -0500",
-      "title": "Quora's Poe launches group chats, letting users around the world engage in group chats with up to 200 people and collaborate across 200+ AI models (Sarah Perez/TechCrunch)",
-      "neutral_headline": "Quora's Poe Launches Group Chats with AI Models",
-      "bullet_summary": [
-        "Reported by TechMeme, TechCrunch"
-      ],
-      "items": [
-        {
-          "source": "TechMeme",
-          "url": "http://www.techmeme.com/251118/p43#a251118p43",
-          "published_at": "Tue, 18 Nov 2025 13:45:00 -0500",
-          "title": "Quora's Poe launches group chats, letting users around the world engage in group chats with up to 200 people and collaborate across 200+ AI models (Sarah Perez/TechCrunch)",
-          "standfirst": "Sarah Perez / TechCrunch: Quora's Poe launches group chats, letting users around the world engage in group chats with up to 200 people and collaborate across 200+ AI models &mdash; Poe, Quora's app that brings together different AI models into one platform, is launching group chat functionality.",
-          "content": "Sarah Perez / TechCrunch: Quora's Poe launches group chats, letting users around the world engage in group chats with up to 200 people and collaborate across 200+ AI models &mdash; Poe, Quora's app that brings together different AI models into one platform, is launching group chat functionality.",
-          "feed_position": 9,
-          "image_url": "http://www.techmeme.com/251118/i43.jpg"
-        },
-        {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2025/11/18/poes-ai-app-now-supports-group-chats-across-ai-models/",
-          "published_at": "Tue, 18 Nov 2025 17:04:03 +0000",
-          "title": "Poe&#8217;s AI app now supports group chats across AI models",
-          "standfirst": "Quora's AI platform Poe now lets users engage in group chats with up to 200 people across AI models and bots.",
-          "content": "Quora's AI platform Poe now lets users engage in group chats with up to 200 people across AI models and bots.",
-          "feed_position": 6
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/251118/i43.jpg",
-      "popularity_score": 2015.5332975,
-      "ai_summary": [
-        "Quora's Poe app is launching group chats.",
-        "Users can engage in group chats.",
-        "Group chats can include up to 200 people.",
-        "Users can collaborate across AI models.",
-        "The app brings together different AI models."
-      ]
-    },
-    {
-      "id": "cluster_45",
+      "id": "cluster_53",
       "coverage": 2,
       "updated_at": "Tue, 18 Nov 2025 18:37:23 +0000",
       "title": "Bonkers Bitcoin heist: 5-star hotels, cash-filled envelopes, vanishing funds",
@@ -296,7 +260,7 @@
           "title": "Bonkers Bitcoin heist: 5-star hotels, cash-filled envelopes, vanishing funds",
           "standfirst": "Bitcoin mining hardware exec falls for sophisticated crypto scam to tune of $200k",
           "content": "As Kent Halliburton stood in a bathroom at the Rosewood Hotel in central Amsterdam, thousands of miles from home, running his fingers through an envelope filled with 10,000 euros in crisp banknotes, he started to wonder what he had gotten himself into. Halliburton is the cofounder and CEO of Sazmining, a company that operates bitcoin mining hardware on behalf of clients—a model known as “mining-as-a-service.” Halliburton is based in Peru, but Sazmining runs mining hardware out of third-party data centers across Norway, Paraguay, Ethiopia, and the United States. As Halliburton tells it, he had flown to Amsterdam the previous day, August 5, to meet Even and Maxim, two representatives of a wealthy Monaco-based family. The family office had offered to purchase hundreds of bitcoin mining rigs from Sazmining—around $4 million worth—which the company would install at a facility currently under construction in Ethiopia. Before finalizing the deal, the family office had asked to meet Halliburton in person.Read full article Comments",
-          "feed_position": 5,
+          "feed_position": 7,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1321675861-1152x648.jpg"
         },
         {
@@ -311,17 +275,79 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1321675861-1152x648.jpg",
-      "popularity_score": 2015.4063530555557,
+      "popularity_score": 2010.9356633333334,
       "ai_summary": [
-        "A Bitcoin mining executive lost $200,000 to a complex cryptocurrency scam.",
-        "The scam involved five-star hotels, cash-filled envelopes, and vanishing funds.",
-        "The executive was targeted by a sophisticated scheme earlier this year.",
-        "The article highlights the increasing prevalence of complex crypto scams.",
-        "The scam's details included elaborate methods to deceive the executive."
+        "A Bitcoin mining hardware executive was scammed out of $200,000.",
+        "The scam involved five-star hotels and cash-filled envelopes.",
+        "The executive fell for a sophisticated crypto scam earlier this year.",
+        "Funds vanished after the executive was targeted by the scam.",
+        "Crypto scams are becoming increasingly sophisticated and complex."
       ]
     },
     {
-      "id": "cluster_28",
+      "id": "cluster_25",
+      "coverage": 1,
+      "updated_at": "Tue, 18 Nov 2025 22:42:07 +0000",
+      "title": "GOP overhaul of broadband permit laws: Cities hate it, cable companies love it",
+      "neutral_headline": "GOP Broadband Permit Law Overhaul Faces Opposition",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2025/11/gop-overhaul-of-broadband-permit-laws-cities-hate-it-cable-companies-love-it/",
+          "published_at": "Tue, 18 Nov 2025 22:42:07 +0000",
+          "title": "GOP overhaul of broadband permit laws: Cities hate it, cable companies love it",
+          "standfirst": "Cities and counties call Congressional plan an \"unprecedented federal intrusion.\"",
+          "content": "Congressional Republicans angered local government leaders with a plan for what local groups call an “unprecedented federal intrusion” into how municipalities issue permits for construction of broadband networks. The Republican plan drew rave reviews from cable lobby groups, however. A House subcommittee moved ahead with the plan today despite the opposition from local leaders and criticism from Congressional Democrats. Under the bills, some kinds of local telecom projects would be approved automatically if a city or town doesn’t rule within a deadline set by Congress. “These bills represent an unprecedented federal intrusion into established local decision-making processes, favoring large broadband, telecommunications, wireless, and cable companies at the expense of residents and taxpayers,” four groups representing local leaders wrote in a letter to US lawmakers. “These bills strip local governments of the ability to effectively manage the infrastructure built on local streets and in neighborhoods, while imposing no reciprocal obligations on providers.”Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-network-map-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-network-map-1152x648.jpg",
+      "popularity_score": 348.0145522222222,
+      "ai_summary": [
+        "A GOP plan to overhaul broadband permit laws is facing opposition.",
+        "Cities and counties view the Congressional plan as federal intrusion.",
+        "Cable companies are supportive of the proposed changes.",
+        "The plan could impact how broadband infrastructure is deployed.",
+        "The debate involves the balance of federal and local control."
+      ]
+    },
+    {
+      "id": "cluster_26",
+      "coverage": 1,
+      "updated_at": "Tue, 18 Nov 2025 22:27:24 +0000",
+      "title": "Faced with naked man, DoorDasher demands police action; they arrest her for illegal surveillance",
+      "neutral_headline": "DoorDasher Arrested After Filming Naked Man",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2025/11/doordasher-claims-sexual-assault-but-cops-arrest-her-for-filming-nude-drunk-man/",
+          "published_at": "Tue, 18 Nov 2025 22:27:24 +0000",
+          "title": "Faced with naked man, DoorDasher demands police action; they arrest her for illegal surveillance",
+          "standfirst": "Two felony charges for filming man inside his house.",
+          "content": "Last month, a DoorDash driver in upstate New York delivered an item to a local house in Oswego—only to find the front door open and a man apparently unconscious or asleep on a couch in the front room. The man was also quite naked, with pants and underwear around his ankles, and he was fully visible from the porch. The DoorDasher was a 23-year-old woman named Olivia Henderson, and she felt like the whole situation was some kind of creepy exploitation play. Was this guy purposely exposing himself to her? Was he even asleep? Should she have to endure the sight of random male genitalia just to make a few bucks? She did not think so, and she decided to do something about it. Henderson filmed the man from outside the home, and she later posted the video on TikTok to shame him. Naturally, it went viral.Read full article Comments",
+          "feed_position": 1,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/henderson-1086x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/henderson-1086x648.jpg",
+      "popularity_score": 337.7692744444444,
+      "ai_summary": [
+        "A DoorDasher was arrested after filming a man inside his house.",
+        "The DoorDasher was charged with two felony counts.",
+        "The incident involved a naked man and a demand for police action.",
+        "The charges relate to illegal surveillance of the individual.",
+        "The case highlights privacy concerns and legal ramifications."
+      ]
+    },
+    {
+      "id": "cluster_42",
       "coverage": 1,
       "updated_at": "Tue, 18 Nov 2025 19:28:14 +0000",
       "title": "Microsoft tries to head off the “novel security risks” of Windows 11 AI agents",
@@ -337,57 +363,26 @@
           "title": "Microsoft tries to head off the “novel security risks” of Windows 11 AI agents",
           "standfirst": "Agents with read/write access to your files create big security, privacy issues.",
           "content": "Microsoft has been adding AI features to Windows 11 for years, but things have recently entered a new phase, with both generative and so-called “agentic” AI features working their way deeper into the bedrock of the operating system. A new build of Windows 11 released to Windows Insider Program testers yesterday includes a new “experimental agentic features” toggle in the Settings to support a feature called Copilot Actions, and Microsoft has published a detailed support article detailing more about just how those “experimental agentic features” will work. If you’re not familiar, “agentic” is a buzzword that Microsoft has used repeatedly to describe its future ambitions for Windows 11—in plainer language, these agents are meant to accomplish assigned tasks in the background, allowing the user’s attention to be turned elsewhere. Microsoft says it wants agents to be capable of “everyday tasks like organizing files, scheduling meetings, or sending emails,” and that Copilot Actions should give you “an active digital collaborator that can carry out complex tasks for you to enhance efficiency and productivity.” But like other kinds of AI, these agents can be prone to error and confabulations and will often proceed as if they know what they’re doing even when they don’t. They also present, in Microsoft’s own words, “novel security risks,” mostly related to what can happen if an attacker is able to give instructions to one of these agents. As a result, Microsoft’s implementation walks a tightrope between giving these agents access to your files and cordoning them off from the rest of the system.Read full article Comments",
-          "feed_position": 3,
+          "feed_position": 5,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/MSFT_Holiday_copilot_Card_1-1152x648-1763493467.jpeg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/MSFT_Holiday_copilot_Card_1-1152x648-1763493467.jpeg",
-      "popularity_score": 356.25385305555557,
+      "popularity_score": 331.78316333333333,
       "ai_summary": [
-        "Microsoft is addressing security concerns related to Windows 11 AI agents.",
-        "AI agents with file access create potential security and privacy issues.",
-        "The company aims to mitigate novel security risks associated with AI agents.",
-        "The focus is on protecting user data from potential vulnerabilities.",
-        "The article discusses the implications of AI agents on user security."
+        "Microsoft is addressing security risks associated with Windows 11 AI agents.",
+        "AI agents with file access create security and privacy issues.",
+        "The company is working to mitigate potential vulnerabilities.",
+        "The focus is on protecting user data and system integrity.",
+        "The changes aim to improve the security of AI features."
       ]
     },
     {
-      "id": "cluster_3",
-      "coverage": 1,
-      "updated_at": "Tue, 18 Nov 2025 22:42:07 +0000",
-      "title": "GOP overhaul of broadband permit laws: Cities hate it, cable companies love it",
-      "neutral_headline": "GOP Broadband Permit Law Overhaul Faces Opposition",
-      "bullet_summary": [
-        "Reported by Ars Technica Main"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica Main",
-          "url": "https://arstechnica.com/tech-policy/2025/11/gop-overhaul-of-broadband-permit-laws-cities-hate-it-cable-companies-love-it/",
-          "published_at": "Tue, 18 Nov 2025 22:42:07 +0000",
-          "title": "GOP overhaul of broadband permit laws: Cities hate it, cable companies love it",
-          "standfirst": "Cities and counties call Congressional plan an \"unprecedented federal intrusion.\"",
-          "content": "Congressional Republicans angered local government leaders with a plan for what local groups call an “unprecedented federal intrusion” into how municipalities issue permits for construction of broadband networks. The Republican plan drew rave reviews from cable lobby groups, however. A House subcommittee moved ahead with the plan today despite the opposition from local leaders and criticism from Congressional Democrats. Under the bills, some kinds of local telecom projects would be approved automatically if a city or town doesn’t rule within a deadline set by Congress. “These bills represent an unprecedented federal intrusion into established local decision-making processes, favoring large broadband, telecommunications, wireless, and cable companies at the expense of residents and taxpayers,” four groups representing local leaders wrote in a letter to US lawmakers. “These bills strip local governments of the ability to effectively manage the infrastructure built on local streets and in neighborhoods, while imposing no reciprocal obligations on providers.”Read full article Comments",
-          "feed_position": 0,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-network-map-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-network-map-1152x648.jpg",
-      "popularity_score": 352.48524194444445,
-      "ai_summary": [
-        "A Congressional plan to overhaul broadband permit laws is facing opposition.",
-        "Cities and counties view the plan as an unprecedented federal intrusion.",
-        "Cable companies are supportive of the proposed changes to permit laws.",
-        "The plan aims to streamline the process for broadband deployment.",
-        "The article highlights the differing perspectives on the proposed legislation."
-      ]
-    },
-    {
-      "id": "cluster_9",
+      "id": "cluster_29",
       "coverage": 1,
       "updated_at": "Tue, 18 Nov 2025 22:01:57 +0000",
       "title": "CDC data confirms US is 2 months away from losing measles elimination status",
-      "neutral_headline": "US Nears Loss of Measles Elimination Status",
+      "neutral_headline": "US Faces Potential Loss of Measles Elimination Status",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -399,22 +394,22 @@
           "title": "CDC data confirms US is 2 months away from losing measles elimination status",
           "standfirst": "Elimination status is lost if the virus spreads continuously for 12 months.",
           "content": "Federal health officials have linked two massive US measles outbreaks, confirming that the country is about two months away from losing its measles elimination status, according to a report by The New York Times. The Times obtained a recording of a call during which officials from the Centers for Disease Control and Prevention confirmed to state health departments that the ongoing measles outbreak at the border of Arizona and Utah is a continuation of the explosive outbreak in West Texas that began in mid- to late-January. That is, the two massive outbreaks are being caused by the same subtype of measles virus. This is a significant link that hasn’t previously been reported despite persistent questions from journalists and concerns from health experts, particularly in light of Canada losing its elimination status last week. The loss of an elimination status means that measles will once again be considered endemic to the US, an embarrassing public health backslide for a vaccine-preventable disease.Read full article Comments",
-          "feed_position": 0,
+          "feed_position": 2,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2201702057-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2201702057-1152x648.jpg",
-      "popularity_score": 351.8157975,
+      "popularity_score": 327.3451077777778,
       "ai_summary": [
-        "The United States is two months away from losing measles elimination status.",
-        "Elimination status is lost if the virus spreads for twelve continuous months.",
-        "The CDC data confirms the proximity to losing elimination status.",
-        "The article highlights the importance of maintaining measles elimination.",
-        "The potential loss of status raises public health concerns."
+        "CDC data indicates the US is nearing loss of measles elimination status.",
+        "Elimination status is lost after continuous virus spread for 12 months.",
+        "The situation highlights public health concerns and vaccination importance.",
+        "The data reflects the current state of measles transmission.",
+        "The CDC is monitoring the situation closely."
       ]
     },
     {
-      "id": "cluster_18",
+      "id": "cluster_35",
       "coverage": 1,
       "updated_at": "Tue, 18 Nov 2025 20:37:04 +0000",
       "title": "Tech giants pour billions into Anthropic as circular AI investments roll on",
@@ -430,57 +425,26 @@
           "title": "Tech giants pour billions into Anthropic as circular AI investments roll on",
           "standfirst": "ChatGPT competitor secures billions from Microsoft and Nvidia in deal to use cloud services and chips.",
           "content": "On Tuesday, Microsoft and Nvidia announced plans to invest in Anthropic under a new partnership that includes a $30 billion commitment by the Claude maker to use Microsoft’s cloud services. Nvidia will commit up to $10 billion to Anthropic and Microsoft up to $5 billion, with both companies investing in Anthropic’s next funding round. The deal brings together two companies that have backed OpenAI and connects them more closely to one of the ChatGPT maker’s main competitors. Microsoft CEO Satya Nadella said in a video that OpenAI “remains a critical partner,” while adding that the companies will increasingly be customers of each other. “We will use Anthropic models, they will use our infrastructure, and we’ll go to market together,” Nadella said.Read full article Comments",
-          "feed_position": 2,
+          "feed_position": 4,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/triple_people-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/triple_people-1152x648.jpg",
-      "popularity_score": 345.40107527777775,
+      "popularity_score": 320.9303855555556,
       "ai_summary": [
         "Tech giants are investing billions in Anthropic, a ChatGPT competitor.",
-        "Microsoft and Nvidia are major investors in the AI company.",
-        "The deal involves using cloud services and chips from the investors.",
-        "The investments reflect the ongoing trend of AI-related funding.",
-        "Anthropic aims to compete with established AI models."
+        "Microsoft and Nvidia are providing funding to Anthropic.",
+        "The deal involves cloud services and chip usage.",
+        "The investment reflects the ongoing AI race.",
+        "Anthropic is seeking to compete with established AI models."
       ]
     },
     {
-      "id": "cluster_5",
-      "coverage": 1,
-      "updated_at": "Tue, 18 Nov 2025 22:27:24 +0000",
-      "title": "Faced with naked man, DoorDasher demands police action; they arrest her for illegal surveillance",
-      "neutral_headline": "DoorDasher Arrested After Filming Naked Man",
-      "bullet_summary": [
-        "Reported by Ars Technica Main"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica Main",
-          "url": "https://arstechnica.com/tech-policy/2025/11/doordasher-claims-sexual-assault-but-cops-arrest-her-for-filming-nude-drunk-man/",
-          "published_at": "Tue, 18 Nov 2025 22:27:24 +0000",
-          "title": "Faced with naked man, DoorDasher demands police action; they arrest her for illegal surveillance",
-          "standfirst": "Two felony charges for filming man inside his house.",
-          "content": "Last month, a DoorDash driver in upstate New York delivered an item to a local house in Oswego—only to find the front door open and a man apparently unconscious or asleep on a couch in the front room. The man was also quite naked, with pants and underwear around his ankles, and he was fully visible from the porch. The DoorDasher was a 23-year-old woman named Olivia Henderson, and she felt like the whole situation was some kind of creepy exploitation play. Was this guy purposely exposing himself to her? Was he even asleep? Should she have to endure the sight of random male genitalia just to make a few bucks? She did not think so, and she decided to do something about it. Henderson filmed the man from outside the home, and she later posted the video on TikTok to shame him. Naturally, it went viral.Read full article Comments",
-          "feed_position": 1,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/henderson-1086x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/henderson-1086x648.jpg",
-      "popularity_score": 342.23996416666665,
-      "ai_summary": [
-        "A DoorDasher was arrested after filming a man inside his house.",
-        "The DoorDasher faces two felony charges for illegal surveillance.",
-        "The incident occurred after the DoorDasher encountered a naked man.",
-        "The article highlights the legal consequences of the DoorDasher's actions.",
-        "The case involves issues of privacy and surveillance."
-      ]
-    },
-    {
-      "id": "cluster_43",
+      "id": "cluster_51",
       "coverage": 1,
       "updated_at": "Tue, 18 Nov 2025 18:38:09 +0000",
       "title": "The Analogue 3D is the modern N64 fans have been waiting for",
-      "neutral_headline": "Analogue 3D Console Aims to Revive N64 Games",
+      "neutral_headline": "Analogue 3D Console Offers Modern N64 Experience",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -492,26 +456,26 @@
           "title": "The Analogue 3D is the modern N64 fans have been waiting for",
           "standfirst": "Excellent design and display filters, but the lack of OpenFPGA support rankles.",
           "content": "If you’ve ever tried to hook an old Nintendo 64 up to a modern HDTV, you know the results can be less than ideal. Assuming your original hardware still works and your flatscreen even has the requisite R/F and/or composite inputs to allow for the connection, the N64’s output will probably look like a blurry mess on a flatscreen that wasn’t designed with those old video signals as a priority. The Analogue 3D solves this very specific problem very well, with a powerful FPGA core that accurately replicates a Nintendo 64 and well-made display filters that do a good job of approximating that cathode-ray tube glow you remember from decades ago. But the lack of easy expandability limits the appeal of this $250 device to all but the most die-hard fans of original N64 hardware. A beauty to behold As a piece of physical design, the Analogue 3D is a work of art. The gentle curves of its sleek black shell evoke the original N64 design without copying it, coming in at a slightly smaller footprint and height. Plus, there’s no ugly power brick.Read full article Comments",
-          "feed_position": 4,
+          "feed_position": 6,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/IMG_8465-1152x648-1763486800.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/IMG_8465-1152x648-1763486800.jpg",
-      "popularity_score": 323.4191308333333,
+      "popularity_score": 298.9484411111111,
       "ai_summary": [
-        "The Analogue 3D console is designed for modern N64 fans.",
+        "The Analogue 3D is designed for modern N64 fans.",
         "The console features excellent design and display filters.",
-        "The lack of OpenFPGA support is a drawback for some users.",
-        "The console aims to provide an enhanced gaming experience.",
-        "The article reviews the features and limitations of the console."
+        "It lacks OpenFPGA support, which is a drawback for some users.",
+        "The console aims to provide a high-quality retro gaming experience.",
+        "The design and features are intended to enhance gameplay."
       ]
     },
     {
-      "id": "cluster_62",
+      "id": "cluster_59",
       "coverage": 1,
       "updated_at": "Tue, 18 Nov 2025 16:32:58 +0000",
       "title": "Google CEO: If an AI bubble pops, no one is getting out clean",
-      "neutral_headline": "Google CEO Warns of Potential AI Bubble Burst",
+      "neutral_headline": "Google CEO Warns of AI Bubble Burst Consequences",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -523,26 +487,26 @@
           "title": "Google CEO: If an AI bubble pops, no one is getting out clean",
           "standfirst": "Sundar Pichai says no company is immune if AI bubble bursts, echoing dotcom fears.",
           "content": "On Tuesday, Alphabet CEO Sundar Pichai warned of “irrationality” in the AI market, telling the BBC in an interview, “I think no company is going to be immune, including us.” His comments arrive as scrutiny over the state of the AI market has reached new heights, with Alphabet shares doubling in value over seven months to reach a $3.5 trillion market capitalization. Speaking exclusively to the BBC at Google’s California headquarters, Pichai acknowledged that while AI investment growth is at an “extraordinary moment,” the industry can “overshoot” in investment cycles, as we’re seeing now. He drew comparisons to the late 1990s Internet boom, which saw early Internet company valuations surge before collapsing in 2000, leading to bankruptcies and job losses. “We can look back at the Internet right now. There was clearly a lot of excess investment, but none of us would question whether the Internet was profound,” Pichai said. “I expect AI to be the same. So I think it’s both rational and there are elements of irrationality through a moment like this.”Read full article Comments",
-          "feed_position": 6,
+          "feed_position": 8,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Sundar-IO-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Sundar-IO-1152x648.jpg",
-      "popularity_score": 313.3327419444444,
+      "popularity_score": 288.86205222222225,
       "ai_summary": [
-        "Google CEO Sundar Pichai warns of potential AI bubble burst.",
-        "Pichai states no company is immune if an AI bubble bursts.",
-        "The warning echoes concerns from the dotcom era.",
-        "The article discusses the potential risks associated with AI.",
-        "The CEO's comments highlight the uncertainty in the AI market."
+        "Google CEO Sundar Pichai discussed the potential AI bubble.",
+        "He stated no company would be immune if the bubble bursts.",
+        "Pichai echoed concerns similar to the dotcom era.",
+        "The comments reflect the current AI investment climate.",
+        "The warning highlights potential risks in the AI sector."
       ]
     },
     {
-      "id": "cluster_67",
+      "id": "cluster_60",
       "coverage": 1,
       "updated_at": "Tue, 18 Nov 2025 16:08:56 +0000",
       "title": "Google unveils Gemini 3 AI model and AI-first IDE called Antigravity",
-      "neutral_headline": "Google Unveils Gemini 3 AI Model and Antigravity IDE",
+      "neutral_headline": "Google Unveils Gemini 3 AI Model and IDE",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -554,22 +518,53 @@
           "title": "Google unveils Gemini 3 AI model and AI-first IDE called Antigravity",
           "standfirst": "Google's flagship AI model is getting its second major upgrade this year.",
           "content": "Google has kicked its Gemini rollout into high gear over the past year, releasing the much-improved Gemini 2.5 family and cramming various flavors of the model into Search, Gmail, and just about everything else the company makes. Now, Google’s increasingly unavoidable AI is getting an upgrade. Gemini 3 Pro is available in a limited form today, featuring more immersive, visual outputs and fewer lies, Google says. The company also says Gemini 3 sets a new high-water mark for vibe coding, and Google is announcing a new AI-first integrated development environment (IDE) called Antigravity, which is also available today. The first member of the Gemini 3 family Google says the release of Gemini 3 is yet another step toward artificial general intelligence (AGI). The new version of Google’s flagship AI model has expanded simulated reasoning abilities and shows improved understanding of text, images, and video. So far, testers like it—Google’s latest LLM is once again atop the LMArena leaderboard with an ELO score of 1,501, besting Gemini 2.5 Pro by 50 points.Read full article Comments",
-          "feed_position": 7,
+          "feed_position": 9,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Gemini-3-1152x648.png"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Gemini-3-1152x648.png",
-      "popularity_score": 302.9321863888889,
+      "popularity_score": 278.4614966666667,
       "ai_summary": [
-        "Google unveiled the Gemini 3 AI model and Antigravity IDE.",
-        "Gemini 3 is the second major upgrade to Google's flagship AI model.",
-        "Antigravity is an AI-first integrated development environment.",
-        "The announcements reflect Google's focus on AI development.",
-        "The article highlights the new features and capabilities."
+        "Google has unveiled its Gemini 3 AI model.",
+        "The model is getting its second major upgrade this year.",
+        "Google also introduced an AI-first IDE called Antigravity.",
+        "The announcements reflect Google's AI development efforts.",
+        "The new model aims to improve AI capabilities."
       ]
     },
     {
-      "id": "cluster_75",
+      "id": "cluster_111",
+      "coverage": 1,
+      "updated_at": "Mon, 17 Nov 2025 17:59:09 +0000",
+      "title": "Report claims that Apple has yet again put the Mac Pro “on the back burner”",
+      "neutral_headline": "Apple Reportedly Delays Mac Pro Updates",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2025/11/report-claims-that-apple-has-yet-again-put-the-mac-pro-on-the-back-burner/",
+          "published_at": "Mon, 17 Nov 2025 17:59:09 +0000",
+          "title": "Report claims that Apple has yet again put the Mac Pro “on the back burner”",
+          "standfirst": "Mac Pro was last updated in mid-2023, one of the last Macs to switch from Intel.",
+          "content": "Apple’s Power Mac and Mac Pro towers used to be the company’s primary workstations, but it has been years since they were updated with the same regularity as the MacBook Air or MacBook Pro. The Mac Pro has seen just four hardware updates in the last 15 years, and that’s counting a 2012 refresh that was mostly identical to the 2010 version. Long-suffering Mac Pro buyers may have taken heart when Apple finally added an M2 Ultra processor to the tower in mid-2023, making it one of the very last Macs to switch from Intel to Apple Silicon—surely this would mean that the computer would at least be updated once every year or two, like the Mac Studio has been? But Bloomberg’s Mark Gurman says that Mac Pro buyers shouldn’t get their hopes up for new hardware in 2026. Gurman says that the tower is “on the back burner” at Apple and that the company is “focused on a new Mac Studio” for the next-generation M5 Ultra chip that is in the works. As we reported earlier this year, Apple doesn’t have plans to design or release an M4 Ultra, and the Mac Studio refresh from this spring included an M3 Ultra alongside the M4 Max.Read full article Comments",
+          "feed_position": 19,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Apple-WWDC23-Mac-Pro-M2-Ultra-Mac-Pro-internal-230605-scaled-1-1152x648-1763401152.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Apple-WWDC23-Mac-Pro-M2-Ultra-Mac-Pro-internal-230605-scaled-1-1152x648-1763401152.jpg",
+      "popularity_score": 160,
+      "ai_summary": [
+        "A report claims Apple has delayed updates to the Mac Pro.",
+        "The Mac Pro was last updated in mid-2023.",
+        "It was one of the last Macs to transition from Intel.",
+        "The delay suggests a shift in Apple's priorities.",
+        "The Mac Pro is a high-end desktop computer."
+      ]
+    },
+    {
+      "id": "cluster_68",
       "coverage": 1,
       "updated_at": "Tue, 18 Nov 2025 15:25:19 +0000",
       "title": "Ryan Gosling must save dying stars in Project Hail Mary trailer",
@@ -585,88 +580,26 @@
           "title": "Ryan Gosling must save dying stars in Project Hail Mary trailer",
           "standfirst": "\"The consensus here is that it would be preferable if you did not die.\"",
           "content": "The big holiday releases are still waiting in the wings, but it’s not too soon to look forward to what’s coming in 2026. Amazon MGM Studios has released a new trailer for its forthcoming space odyssey Project Hail Mary, which is based on Andy Weir’s (The Martian) bestselling 2021 novel about an amnesiac biologist-turned-schoolteacher in space. Weir told The New York Times that the inspiration for his novel came from a planned multi-book space opera called Zhek that he began writing after The Martian, about a potential fuel for interstellar travel. He eventually abandoned that effort and wrote the 2017 novel, Artemis, instead, but aspects of Zhek found their way into the Project Hail Mary novel. As we’ve previously reported, Amazon MGM Studios acquired the rights for Weir’s novel before it was even published and brought on Drew Goddard to write the screenplay. (Goddard also wrote the adapted screenplay for The Martian, so he’s an excellent choice.) The studio tapped Phil Lord and Christopher Miller (Cloudy with a Chance of Meatballs, The LEGO Movie) to direct and signed on Ryan Gosling to star. Per the official premise:Read full article Comments",
-          "feed_position": 8,
+          "feed_position": 10,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/hailmary1-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/hailmary1-1152x648.jpg",
-      "popularity_score": 280.2052419444444,
+      "popularity_score": 155.73455222222222,
       "ai_summary": [
-        "Ryan Gosling stars in the trailer for Project Hail Mary.",
+        "A trailer for Project Hail Mary has been released.",
+        "Ryan Gosling stars in the upcoming film.",
         "The film involves saving dying stars.",
-        "The trailer features the line \"It would be preferable if you did not die.\"",
-        "The article provides a brief overview of the film's plot.",
-        "The trailer offers a glimpse into the upcoming movie."
+        "The trailer offers a glimpse of the movie's plot.",
+        "The film is based on a science fiction novel."
       ]
     },
     {
-      "id": "cluster_79",
-      "coverage": 1,
-      "updated_at": "Tue, 18 Nov 2025 15:10:49 +0000",
-      "title": "Tesla safety driver falls asleep during passenger’s robotaxi ride",
-      "neutral_headline": "Tesla Safety Driver Falls Asleep During Robotaxi Ride",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2025/11/tesla-safety-driver-falls-asleep-during-passengers-robotaxi-ride/",
-          "published_at": "Tue, 18 Nov 2025 15:10:49 +0000",
-          "title": "Tesla safety driver falls asleep during passenger’s robotaxi ride",
-          "standfirst": "A Reddit user posted video of his safety driver sleeping at the wheel in San Fransisco.",
-          "content": "As Tesla’s profits shrink and its model lineup continues to age, the company remains focused on establishing new lines of business. Tesla CEO Elon Musk says there’s not much his Optimus robots won’t be able to do in the future—following people around to prevent them from committing crimes is the latest—despite the technology not quite existing yet. Musk’s robotaxis are a little closer to reality, with a kind of limited service being offered in Austin, Texas, as well as parts of San Francisco. But Tesla might need to rethink its approach to safety drivers after a Tesla rideshare passenger in San Francisco took to Reddit to share a video of the operator asleep in the driver’s seat. In fact, the safety driver fell asleep three times during the ride, which took place a little over a week ago, according to Reddit user ohmichael. In his post, which contains a 12-second clip of a man sleeping and then waking in the front seat of a moving Tesla, the poster says he contacted Tesla to report this behavior but never heard back.Read full article Comments",
-          "feed_position": 9,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/IMG_0422-1152x648-1763477486.png"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/IMG_0422-1152x648-1763477486.png",
-      "popularity_score": 260.96357527777775,
-      "ai_summary": [
-        "A Tesla safety driver fell asleep during a robotaxi ride.",
-        "A Reddit user posted video of the sleeping safety driver.",
-        "The incident occurred in San Francisco.",
-        "The article raises concerns about safety in robotaxis.",
-        "The video highlights the potential risks of autonomous driving."
-      ]
-    },
-    {
-      "id": "cluster_135",
-      "coverage": 1,
-      "updated_at": "Mon, 17 Nov 2025 17:59:09 +0000",
-      "title": "Report claims that Apple has yet again put the Mac Pro “on the back burner”",
-      "neutral_headline": "Apple Reportedly Delays Mac Pro Updates Again",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2025/11/report-claims-that-apple-has-yet-again-put-the-mac-pro-on-the-back-burner/",
-          "published_at": "Mon, 17 Nov 2025 17:59:09 +0000",
-          "title": "Report claims that Apple has yet again put the Mac Pro “on the back burner”",
-          "standfirst": "Mac Pro was last updated in mid-2023, one of the last Macs to switch from Intel.",
-          "content": "Apple’s Power Mac and Mac Pro towers used to be the company’s primary workstations, but it has been years since they were updated with the same regularity as the MacBook Air or MacBook Pro. The Mac Pro has seen just four hardware updates in the last 15 years, and that’s counting a 2012 refresh that was mostly identical to the 2010 version. Long-suffering Mac Pro buyers may have taken heart when Apple finally added an M2 Ultra processor to the tower in mid-2023, making it one of the very last Macs to switch from Intel to Apple Silicon—surely this would mean that the computer would at least be updated once every year or two, like the Mac Studio has been? But Bloomberg’s Mark Gurman says that Mac Pro buyers shouldn’t get their hopes up for new hardware in 2026. Gurman says that the tower is “on the back burner” at Apple and that the company is “focused on a new Mac Studio” for the next-generation M5 Ultra chip that is in the works. As we reported earlier this year, Apple doesn’t have plans to design or release an M4 Ultra, and the Mac Studio refresh from this spring included an M3 Ultra alongside the M4 Max.Read full article Comments",
-          "feed_position": 17,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Apple-WWDC23-Mac-Pro-M2-Ultra-Mac-Pro-internal-230605-scaled-1-1152x648-1763401152.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Apple-WWDC23-Mac-Pro-M2-Ultra-Mac-Pro-internal-230605-scaled-1-1152x648-1763401152.jpg",
-      "popularity_score": 160,
-      "ai_summary": [
-        "A report claims Apple has delayed Mac Pro updates.",
-        "The Mac Pro was last updated in mid-2023.",
-        "The Mac Pro was one of the last Macs to switch from Intel.",
-        "The article discusses the ongoing development of the Mac Pro.",
-        "The report suggests a delay in the product's release."
-      ]
-    },
-    {
-      "id": "cluster_121",
+      "id": "cluster_101",
       "coverage": 1,
       "updated_at": "Mon, 17 Nov 2025 22:50:21 +0000",
       "title": "With a new company, Jeff Bezos will become a CEO again",
-      "neutral_headline": "Jeff Bezos to Become CEO Again with New Company",
+      "neutral_headline": "Jeff Bezos Plans New Company After Amazon",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -678,7 +611,7 @@
           "title": "With a new company, Jeff Bezos will become a CEO again",
           "standfirst": "He stepped down at Amazon in 2021 and doesn't hold a CEO title at Blue Origin.",
           "content": "Jeff Bezos is one of the world’s richest and most famous tech CEOs, but he hasn’t actually been a CEO of anything since 2021. That’s now changing as he takes on the role of co-CEO of a new AI company, according to a New York Times report citing three people familiar with the company. Grandiosely named Project Prometheus (and not to be confused with the NASA project of the same name), the company will focus on using AI to pursue breakthroughs in research, engineering, manufacturing, and other fields that are dubbed part of “the physical economy”—in contrast to the software applications that are likely the first thing most people in the general public think of when they hear “AI.” Bezos’ co-CEO will be Vik Bajaj, a chemist and physicist who previously led life sciences work at Google X, an Alphabet-backed research group that worked on speculative projects that could lead to more product categories. (For example, it developed technologies that would later underpin Google’s Waymo service.) Bajaj also worked at Verily, another Alphabet-backed research group focused on life sciences, and Foresite Labs, an incubator for new AI companies.Read full article Comments",
-          "feed_position": 12,
+          "feed_position": 14,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2021/09/getty-bezos-space-symposium-scaled-1152x648-1763419085.jpg"
         }
       ],
@@ -687,17 +620,17 @@
       "ai_summary": [
         "Jeff Bezos will become a CEO again with a new company.",
         "He stepped down as Amazon CEO in 2021.",
-        "He does not currently hold a CEO title at Blue Origin.",
-        "The article announces Bezos's return to a CEO role.",
-        "The new company's details are not specified."
+        "Bezos does not hold a CEO title at Blue Origin.",
+        "The new venture marks a return to a CEO role.",
+        "The announcement signals Bezos's continued business involvement."
       ]
     },
     {
-      "id": "cluster_125",
+      "id": "cluster_105",
       "coverage": 1,
       "updated_at": "Mon, 17 Nov 2025 22:08:16 +0000",
       "title": "UCLA faculty gets big win in suit against Trump’s university attacks",
-      "neutral_headline": "UCLA Faculty Wins Lawsuit Against Trump's University Attacks",
+      "neutral_headline": "UCLA Faculty Wins Lawsuit Against Trump Attacks",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -709,7 +642,7 @@
           "title": "UCLA faculty gets big win in suit against Trump’s university attacks",
           "standfirst": "Government can't use funding threats to override the First Amendment.",
           "content": "On Friday, a US District Court issued a preliminary injunction blocking the United States government from halting federal funding at UCLA or any other school in the University of California system. The ruling came in response to a suit filed by groups representing the faculty at these schools challenging the Trump administration’s attempts to force UCLA into a deal that would substantially revise instruction and policy. The court’s decision lays out how the Trump administration’s attacks on universities follow a standard plan: use accusations of antisemitism to justify an immediate cut to funding, then use the loss of money to compel an agreement that would result in revisions to how the university is run. The court finds that this plan was deficient on multiple grounds, from violating legal procedures for cutting funding to an illegal attempt at suppressing the First Amendment rights of faculty. The result is a reprieve for the entire University of California system, as well as a clear pathway for any universities to fight back against the Trump administration’s attacks on research and education.Read full article Comments",
-          "feed_position": 14,
+          "feed_position": 16,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2233479560-1024x648.jpg"
         }
       ],
@@ -717,49 +650,49 @@
       "popularity_score": 148,
       "ai_summary": [
         "UCLA faculty won a lawsuit against Trump's university attacks.",
-        "The government cannot use funding threats to override the First Amendment.",
-        "The lawsuit addressed issues of academic freedom.",
-        "The article highlights the legal victory for the faculty.",
-        "The ruling protects the First Amendment rights of the faculty."
+        "The ruling addresses government funding threats.",
+        "The court determined the government cannot override the First Amendment.",
+        "The case involved academic freedom and free speech.",
+        "The victory protects faculty rights."
       ]
     },
     {
-      "id": "cluster_136",
+      "id": "cluster_71",
       "coverage": 1,
-      "updated_at": "Mon, 17 Nov 2025 17:48:02 +0000",
-      "title": "Benoit Blanc takes on a “perfectly impossible crime” in Wake Up Dead Man trailer",
-      "neutral_headline": "Benoit Blanc Returns in Wake Up Dead Man Trailer",
+      "updated_at": "Tue, 18 Nov 2025 15:10:49 +0000",
+      "title": "Tesla safety driver falls asleep during passenger’s robotaxi ride",
+      "neutral_headline": "Tesla Safety Driver Falls Asleep During Ride",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/culture/2025/11/benoit-blanc-takes-on-a-perfectly-impossible-crime-in-wake-up-dead-man-trailer/",
-          "published_at": "Mon, 17 Nov 2025 17:48:02 +0000",
-          "title": "Benoit Blanc takes on a “perfectly impossible crime” in Wake Up Dead Man trailer",
-          "standfirst": "\"I'm incapable of not solving a crime. You'll see. It's fun!\"",
-          "content": "Nothing says it’s holiday season quite like a new installment of Rian Johnson’s delightful Knives Out mystery series. The final trailer for Wake Up Dead Man: A Knives Out Mystery was just released, featuring Daniel Craig’s Benoit Blanc in all his Southern gentleman detective glory. This time, he’s tackling the strange death of a parish priest in a spookily Gothic small-town setting. As we’ve previously reported, the original Knives Out was a masterfully plotted winning mashup of Clue and Murder on the Orient Express—or any number of adaptations of novels by the grande dame of murder mysteries, Agatha Christie—along with other classics like Deathtrap, Gosford Park, and Murder by Death. Craig clearly found Blanc a refreshing counter to the 007 franchise, and he and Johnson soon committed to filming a sequel: 2022’s Glass Onion, inspired particularly by the Christie-based “tropical getaway” whodunnit Evil Under the Sun (1982) and an under-appreciated 1973 gem called The Last of Sheila. And now we have Wake Up Dead Man. With this franchise, the less one knows going in, the better. But Johnson has assembled yet another winning all-star cast. Josh Brolin plays the victim, the fire-and-brimstone-spewing Monseigneur Jefferson Wicks; Josh O’Connor plays a young priest named Rev. Jud Duplenticy; Glenn Close plays a devout churchgoer named Martha Delacroix, Wick’s loyal helper; Mila Kunis plays local police chief Geraldine Scott; Jeremy Renner plays town doctor Nat Sharp; Kerry Washington plays uptight lawyer Vera Draven; Daryl McCormack plays aspiring politician Cy Draven; Thomas Haden Church plays groundskeeper Samson Holt; Andrew Scott plays bestselling author Lee Ross; and Cailee Spaeny plays Simone Vivane, a disabled former classical cellist.Read full article Comments",
-          "feed_position": 18,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/deadman1-1152x648.jpg"
+          "url": "https://arstechnica.com/cars/2025/11/tesla-safety-driver-falls-asleep-during-passengers-robotaxi-ride/",
+          "published_at": "Tue, 18 Nov 2025 15:10:49 +0000",
+          "title": "Tesla safety driver falls asleep during passenger’s robotaxi ride",
+          "standfirst": "A Reddit user posted video of his safety driver sleeping at the wheel in San Fransisco.",
+          "content": "As Tesla’s profits shrink and its model lineup continues to age, the company remains focused on establishing new lines of business. Tesla CEO Elon Musk says there’s not much his Optimus robots won’t be able to do in the future—following people around to prevent them from committing crimes is the latest—despite the technology not quite existing yet. Musk’s robotaxis are a little closer to reality, with a kind of limited service being offered in Austin, Texas, as well as parts of San Francisco. But Tesla might need to rethink its approach to safety drivers after a Tesla rideshare passenger in San Francisco took to Reddit to share a video of the operator asleep in the driver’s seat. In fact, the safety driver fell asleep three times during the ride, which took place a little over a week ago, according to Reddit user ohmichael. In his post, which contains a 12-second clip of a man sleeping and then waking in the front seat of a moving Tesla, the poster says he contacted Tesla to report this behavior but never heard back.Read full article Comments",
+          "feed_position": 11,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/IMG_0422-1152x648-1763477486.png"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/deadman1-1152x648.jpg",
-      "popularity_score": 148,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/IMG_0422-1152x648-1763477486.png",
+      "popularity_score": 146.49288555555555,
       "ai_summary": [
-        "Benoit Blanc returns in the Wake Up Dead Man trailer.",
-        "The trailer teases a \"perfectly impossible crime.\"",
-        "Blanc states, \"I'm incapable of not solving a crime.\"",
-        "The article provides a brief overview of the film's plot.",
-        "The trailer offers a glimpse into the upcoming movie."
+        "A Tesla safety driver was caught sleeping during a robotaxi ride.",
+        "A Reddit user posted a video of the incident.",
+        "The driver was supposed to monitor the vehicle's operation.",
+        "The incident raises safety concerns about autonomous driving.",
+        "The video shows the driver asleep at the wheel."
       ]
     },
     {
-      "id": "cluster_81",
+      "id": "cluster_73",
       "coverage": 1,
       "updated_at": "Tue, 18 Nov 2025 15:03:02 +0000",
       "title": "Widespread Cloudflare outage blamed on mysterious traffic spike",
-      "neutral_headline": "Cloudflare Outage Disrupts Numerous Websites and Online Platforms",
+      "neutral_headline": "Cloudflare Outage Causes Widespread Website and Platform Disruptions",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -771,57 +704,26 @@
           "title": "Widespread Cloudflare outage blamed on mysterious traffic spike",
           "standfirst": "Cloudflare is down, causing many websites and big platforms to go dark.",
           "content": "A Cloudflare outage caused large chunks of the Internet to go dark Tuesday morning, temporarily impacting big platforms like X and ChatGPT. “A fix has been implemented and we believe the incident is now resolved. We are continuing to monitor for errors to ensure all services are back to normal,” Cloudflare’s status page said. “Some customers may be still experiencing issues logging into or using the Cloudflare dashboard.” The company initially attributed the widespread outages to “an internal service degradation” and provided updates as it sought a fix over the past two hours.Read full article Comments",
-          "feed_position": 10,
+          "feed_position": 12,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2243855984-1024x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2243855984-1024x648.jpg",
-      "popularity_score": 139.83385305555555,
+      "popularity_score": 135.36316333333332,
       "ai_summary": [
-        "Cloudflare experienced a widespread outage impacting many websites and major online platforms.",
-        "The outage was attributed to a significant spike in network traffic.",
-        "Users reported difficulties accessing various online services and content.",
-        "Cloudflare provides content delivery network and security services for many websites.",
-        "The cause of the traffic spike remains under investigation by Cloudflare engineers."
+        "Cloudflare experienced an outage, impacting numerous websites and major online platforms.",
+        "The outage was attributed to an unexpected and significant surge in network traffic.",
+        "Many users reported difficulties accessing various online services and content.",
+        "Cloudflare engineers worked to identify and resolve the cause of the disruption.",
+        "Services were gradually restored as the issue was addressed and mitigated."
       ]
     },
     {
-      "id": "cluster_137",
-      "coverage": 1,
-      "updated_at": "Mon, 17 Nov 2025 17:34:41 +0000",
-      "title": "Fans’ reverse-engineered servers for Sony’s defunct Concord might be in trouble",
-      "neutral_headline": "Sony's Concord Reverse-Engineered Servers Face Potential Legal Issues",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gaming/2025/11/fans-reverse-engineered-servers-for-sonys-defunct-concord-might-be-in-trouble/",
-          "published_at": "Mon, 17 Nov 2025 17:34:41 +0000",
-          "title": "Fans’ reverse-engineered servers for Sony’s defunct Concord might be in trouble",
-          "standfirst": "\"Concord Delta\" project locks down Discord after YouTube video takedowns.",
-          "content": "A group of dedicated coders has managed to partially revive online gameplay for the PC version of Concord, the team-based shooter that Sony famously shut down just two weeks after its launch last summer. Now, though, the team behind that fan server effort is closing off new access after Sony started issuing DMCA takedown requests of sample gameplay videos. The Game Post was among the first to publicize the “Concord Delta” project, which reverse-engineered the game’s now-defunct server API to get a functional multiplayer match running over the weekend. “The project is still [a work in progress], it’s playable, but buggy,” developer Red posted in the game’s Discord channel, as reported by The Game Post. “Once our servers are fully set up, we’ll begin doing some private playtesting.” Accessing the “Concord Delta” servers reportedly requires a legitimate PC copy of the game, which is relatively hard to come by these days. Concord only sold an estimated 25,000 copies across PC and PS5 before being shut down last year. And that number doesn’t account for the players who accepted a full refund for their $40 purchase after the official servers shut down.Read full article Comments",
-          "feed_position": 19,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/concord3-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/concord3-1152x648.jpg",
-      "popularity_score": 139,
-      "ai_summary": [
-        "Fans created reverse-engineered servers for Sony's defunct game, Concord.",
-        "The \"Concord Delta\" project was locked down after YouTube video takedowns.",
-        "Sony may be taking action against the fan-made server project.",
-        "The takedowns suggest potential copyright or intellectual property concerns.",
-        "The future of the reverse-engineered servers remains uncertain at this time."
-      ]
-    },
-    {
-      "id": "cluster_119",
+      "id": "cluster_100",
       "coverage": 1,
       "updated_at": "Mon, 17 Nov 2025 23:15:40 +0000",
       "title": "Trump admin axed 383 active clinical trials, dumping over 74K participants",
-      "neutral_headline": "Trump Administration Ended Hundreds of Clinical Trials Prematurely",
+      "neutral_headline": "Trump Administration Ended Hundreds of Clinical Trials, Impacting Participants",
       "bullet_summary": [
         "It's a \"violation of foundational ethical principles of human participant research",
         "Reported by Ars Technica"
@@ -834,22 +736,22 @@
           "title": "Trump admin axed 383 active clinical trials, dumping over 74K participants",
           "standfirst": "It's a \"violation of foundational ethical principles of human participant research.\"",
           "content": "When the Trump administration brutally cut federal funding for biomedical research earlier this year, at least 383 clinical trials that were already in progress were abruptly canceled, cutting off over 74,000 trial participants from their experimental treatments, monitoring, or follow-ups, according to a study published today in JAMA Internal Medicine. The study, led by researchers at Harvard, fills a knowledge gap of how the Trump administration’s research funding cuts affected clinical trials specifically. It makes clear not just the wastefulness and inefficiency of the cuts but also the deep ethical violations, JAMA Internal Medicine editors wrote in an accompanying editor’s note. In March, the National Institutes of Health, under the control of the Trump administration, announced that it would cancel $1.8 billion in grant funding that wasn’t aligned with the administration’s priorities. The Harvard researchers, led by health care policy expert Anupam Jena, used an NIH database and a federal accountability tracking tool to find grants supporting clinical trials that were active as of February 28 but had been terminated by August 15.Read full article Comments",
-          "feed_position": 11,
+          "feed_position": 13,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2236338199-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2236338199-1152x648.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "The Trump administration terminated 383 active clinical trials prematurely.",
-        "Over 74,000 participants were affected by the trial terminations.",
-        "Critics claim this action violated ethical principles of research.",
-        "The trials covered a range of medical conditions and treatments.",
-        "The reasons for the trial terminations remain a subject of debate."
+        "The Trump administration terminated 383 active clinical trials during its tenure.",
+        "Over 74,000 participants were involved in the clinical trials that were ended.",
+        "Critics cited ethical concerns regarding the abrupt cessation of the research.",
+        "The decision was described as a violation of research ethics principles.",
+        "The trials covered a range of medical areas and research objectives."
       ]
     },
     {
-      "id": "cluster_122",
+      "id": "cluster_102",
       "coverage": 1,
       "updated_at": "Mon, 17 Nov 2025 22:20:38 +0000",
       "title": "5 plead guilty to laptop farm and ID theft scheme to land North Koreans US IT jobs",
@@ -865,26 +767,26 @@
           "title": "5 plead guilty to laptop farm and ID theft scheme to land North Koreans US IT jobs",
           "standfirst": "Fleets of laptops run from US residences gave appearance workers were in the US.",
           "content": "Five men have pleaded guilty to running laptop farms and providing other assistance to North Koreans to obtain remote IT work at US companies in violation of US law, federal prosecutors said. The pleas come amid a rash of similar schemes orchestrated by hacking and threat groups backed by the North Korean government. The campaigns, which ramped up nearly five years ago, aim to steal millions of dollars in job revenue and cryptocurrencies to fund North Korean weapons programs. Another motive is to seed cyber attacks for espionage. In one such incident, a North Korean man who fraudulently obtained a job at US security company KnowBe4 installed malware immediately upon beginning his employment. On Friday, the US Justice Department said that five men pleaded guilty to assisting North Koreans in obtaining jobs in a scheme orchestrated by APT38, also tracked under the name Lazarus. APT38 has targeted the US and other countries for more than a decade with a stream of attack campaigns that have grown ever bolder and more advanced. All five pleaded guilty to wire fraud, and one to aggravated identity theft, for a range of actions.Read full article Comments",
-          "feed_position": 13,
+          "feed_position": 15,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/north-korea-hacking-1000x648.jpeg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/north-korea-hacking-1000x648.jpeg",
       "popularity_score": 133,
       "ai_summary": [
-        "Five individuals pleaded guilty to a laptop farm and ID theft scheme.",
+        "Five individuals admitted guilt in a scheme involving identity theft and laptop farms.",
         "The scheme aimed to secure US IT jobs for North Korean workers.",
-        "Laptops were operated from US residences to create a false appearance.",
-        "The scheme involved fraudulent use of identities and locations.",
-        "The individuals face potential penalties for their criminal actions."
+        "Laptops were operated from US residences to create a false impression.",
+        "The defendants used stolen identities to facilitate the fraudulent employment.",
+        "The scheme violated US laws and regulations regarding foreign employment."
       ]
     },
     {
-      "id": "cluster_128",
+      "id": "cluster_107",
       "coverage": 1,
       "updated_at": "Mon, 17 Nov 2025 19:50:44 +0000",
       "title": "Judge smacks down Texas AG’s request to immediately block Tylenol ads",
-      "neutral_headline": "Judge Rejects Texas Attorney General's Tylenol Ad Block Request",
+      "neutral_headline": "Judge Rejects Texas Attorney General's Tylenol Ad Ban Request",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -896,26 +798,26 @@
           "title": "Judge smacks down Texas AG’s request to immediately block Tylenol ads",
           "standfirst": "The Texas lawsuit hinges on the unproven claim that Tylenol causes autism.",
           "content": "A Texas Judge has rejected a request from Texas Attorney General Ken Paxton to issue a temporary order barring Tylenol’s maker, Kenvue, from claiming amid litigation that the pain and fever medication is safe for pregnant women and children, according to court documents. In records filed Friday, District Judge LeAnn Rafferty, in Panola County, also rejected Paxton’s unusual request to block Kenvue from distributing $400 million in dividends to shareholders later this month. The denials are early losses for Paxton in a politically charged case that hinges on the unproven claim that Tylenol causes autism and other disorders—a claim first introduced by President Trump and his anti-vaccine health secretary, Robert F. Kennedy Jr.Read full article Comments",
-          "feed_position": 15,
+          "feed_position": 17,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2236511159-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2236511159-1152x648.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "A judge denied the Texas Attorney General's request to block Tylenol ads.",
-        "The lawsuit claims Tylenol causes autism, a claim not proven.",
-        "The case centers on the unproven link between Tylenol and autism.",
-        "The judge's decision allows Tylenol ads to continue running.",
-        "The legal battle over Tylenol's safety continues in Texas."
+        "A judge denied the Texas Attorney General's request to immediately block Tylenol ads.",
+        "The lawsuit centers on the claim that Tylenol use causes autism.",
+        "The claim has not been scientifically proven or widely accepted.",
+        "The judge's decision allows Tylenol advertising to continue.",
+        "The legal case is ongoing and will continue to be litigated."
       ]
     },
     {
-      "id": "cluster_129",
+      "id": "cluster_108",
       "coverage": 1,
       "updated_at": "Mon, 17 Nov 2025 19:19:38 +0000",
       "title": "After last week’s stunning landing, here’s what comes next for Blue Origin",
-      "neutral_headline": "Blue Origin Prepares for Future Missions Following Successful Landing",
+      "neutral_headline": "Blue Origin Prepares for Future Launches Following Successful Landing",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -927,18 +829,18 @@
           "title": "After last week’s stunning landing, here’s what comes next for Blue Origin",
           "standfirst": "\"There's never been such a high demand for launch as there is right now.\"",
           "content": "For decades—yes, literally decades—it has been easy to dismiss Blue Origin as a company brimming with potential but rarely producing much of consequence. But last week the company took a tremendous stride forward, not just launching its second orbital rocket, but subsequently landing the booster on a barge named Jacklyn. It now seems clear that Blue Origin is in the midst of a transition from sleeping giant to force to be reckoned with. To get a sense of where the company goes from here, Ars spoke with the company’s chief executive, Dave Limp, on the eve of last week’s launch. The first thing he emphasized is how much the company learned about New Glenn, and the process of rolling the vehicle out and standing it up for launch, from the vehicle’s first attempt in January.Read full article Comments",
-          "feed_position": 16,
+          "feed_position": 18,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/NG-flying-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/NG-flying-1152x648.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "Blue Origin completed a successful landing of its spacecraft.",
-        "Demand for launch services is currently at a high level.",
-        "The company is planning for future missions and expansions.",
-        "Blue Origin is a private space exploration and launch company.",
-        "The recent landing represents a step forward for the company."
+        "Blue Origin successfully completed a recent spaceflight and landing.",
+        "The company is experiencing high demand for its launch services.",
+        "Future launches are planned, building on the recent success.",
+        "The company is focused on expanding its space exploration capabilities.",
+        "Blue Origin is responding to the increasing demand for space travel."
       ]
     }
   ]
