@@ -1,12 +1,12 @@
 {
-  "updated_at": "2025-11-19T23:13:33.717Z",
+  "updated_at": "2025-11-20T03:40:06.095Z",
   "clusters": [
     {
-      "id": "cluster_0",
+      "id": "cluster_12",
       "coverage": 2,
       "updated_at": "Wed, 19 Nov 2025 23:12:08 +0000",
       "title": "Sling Orange Day Passes are only $1 right now for Black Friday",
-      "neutral_headline": "Sling Orange Day Passes Available for One Dollar",
+      "neutral_headline": "Sling Orange Day Passes Available for One Dollar for Black Friday",
       "bullet_summary": [
         "CyberGhost's other best feature is its streaming servers — I've found both better video quality and more consistent unblocking when I use them on streaming sites",
         "0 (n=89) showed more modest improvements, with GPT‑5",
@@ -284,9 +284,9 @@
           "source": "VentureBeat",
           "url": "https://venturebeat.com/ai/musks-xai-launches-grok-4-1-with-lower-hallucination-rate-on-the-web-and",
           "published_at": "Tue, 18 Nov 2025 20:03:00 GMT",
-          "title": "Musk's xAI launches Grok 4.1 with lower hallucination rate on the web and apps — no API access (for now)",
-          "standfirst": "In what appeared to be a bid to soak up some of Google&#x27;s limelight prior to the launch of its new Gemini 3 flagship AI model — now recorded as the most powerful LLM in the world by multiple independent evaluators — Elon Musk&#x27;s rival AI startup xAI last night unveiled its newest large language model, Grok 4.1.The model is now live for consumer use on Grok.com, social network X (formerly Twitter), and the company’s iOS and Android mobile apps, and it arrives with major architectural and usability enhancements, among them: faster reasoning, improved emotional intelligence, and significantly reduced hallucination rates. xAI also published a white paper on its evaluations and including a small bit on training process here. Across public benchmarks, Grok 4.1 has vaulted to the top of the leaderboard, outperforming rival models from Anthropic, OpenAI, and Google — at least, Google&#x27;s pre-Gemini 3 model (Gemini 2.5 Pro). It builds upon the success of xAI&#x27;s Grok-4 Fast, which VentureBeat covered favorably shortly following its release back in September 2025.However, enterprise developers looking to integrate the new and improved model Grok 4.1 into production environments will find one major constraint: It&#x27;s not yet available through xAI’s public API. Despite its high benchmarks, Grok 4.1 remains confined to xAI’s consumer-facing interfaces, with no announced timeline for API exposure. At present, only older models — including Grok 4 Fast (reasoning and non-reasoning variants), Grok 4 0709, and legacy models such as Grok 3, Grok 3 Mini, and Grok 2 Vision — are available for programmatic use via the xAI developer API. These support up to 2 million tokens of context, with token pricing ranging from $0.20 to $3.00 per million depending on the configuration.For now, this limits Grok 4.1’s utility in enterprise workflows that rely on backend integration, fine-tuned agentic pipelines, or scalable internal tooling. While the consumer rollout positions Grok 4.1 as the most capable LLM in xAI’s portfolio, production deployments in enterprise environments remain on hold.Model design and deployment strategyGrok 4.1 arrives in two configurations: a fast-response, low-latency mode for immediate replies, and a “thinking” mode that engages in multi-step reasoning before producing output. Both versions are live for end users and are selectable via the model picker in xAI’s apps.The two configurations differ not just in latency but also in how deeply the model processes prompts. Grok 4.1 Thinking leverages internal planning and deliberation mechanisms, while the standard version prioritizes speed. Despite the difference in architecture, both scored higher than any competing models in blind preference and benchmark testing.Leading the field in human and expert evaluationOn the LMArena Text Arena leaderboard, Grok 4.1 Thinking briefly held the top position with a normalized Elo score of 1483 — then was dethroned a few hours later with Google&#x27;s release of Gemini 3 and its incredible 1501 Elo score. The non-thinking version of Grok 4.1 also fares well on the index, however, at 1465. These scores place Grok 4.1 above Google’s Gemini 2.5 Pro, Anthropic’s Claude 4.5 series, and OpenAI’s GPT-4.5 preview.In creative writing, Grok 4.1 ranks second only to Polaris Alpha (an early GPT-5.1 variant), with the “thinking” model earning a score of 1721.9 on the Creative Writing v3 benchmark. This marks a roughly 600-point improvement over previous Grok iterations. Similarly, in the Arena Expert leaderboard, which aggregates feedback from professional reviewers, Grok 4.1 Thinking again leads the field with a score of 1510.The gains are especially notable given that Grok 4.1 was released only two months after Grok 4 Fast, highlighting the accelerated development pace at xAI.Core improvements over previous generationsTechnically, Grok 4.1 represents a significant leap in real-world usability. Visual capabilities — previously limited in Grok 4 — have been upgraded to enable robust image and video understanding, including chart analysis and OCR-level text extraction. Multimodal reliability was a pain point in prior versions and has now been addressed.Token-level latency has been reduced by approximately 28% while preserving reasoning depth. In long-context tasks, Grok 4.1 maintains coherent output up to 1 million tokens, improving on Grok 4’s tendency to degrade past the 300,000 token mark.xAI has also improved the model&#x27;s tool orchestration capabilities. Grok 4.1 can now plan and execute multiple external tools in parallel, reducing the number of interaction cycles required to complete multi-step queries. According to internal test logs, some research tasks that previously required four steps can now be completed in one or two.Other alignment improvements include better truth calibration — reducing the tendency to hedge or soften politically sensitive outputs — and more natural, human-like prosody in voice mode, with support for different speaking styles and accents.Safety and adversarial robustnessAs part of its risk management framework, xAI evaluated Grok 4.1 for refusal behavior, hallucination resistance, sycophancy, and dual-use safety.The hallucination rate in non-reasoning mode has dropped from 12.09% in Grok 4 Fast to just 4.22% — a roughly 65% improvement.The model also scored 2.97% on FActScore, a factual QA benchmark, down from 9.89% in earlier versions.In the domain of adversarial robustness, Grok 4.1 has been tested with prompt injection attacks, jailbreak prompts, and sensitive chemistry and biology queries. Safety filters showed low false negative rates, especially for restricted chemical knowledge (0.00%) and restricted biological queries (0.03%). The model’s ability to resist manipulation in persuasion benchmarks, such as MakeMeSay, also appears strong—it registered a 0% success rate as an attacker.Limited enterprise access via APIDespite these gains, Grok 4.1 remains unavailable to enterprise users through xAI’s API. According to the company’s public documentation, the latest available models for developers are Grok 4 Fast (both reasoning and non-reasoning variants), each supporting up to 2 million tokens of context at pricing tiers ranging from $0.20 to $0.50 per million tokens. These are backed by a 4M tokens-per-minute throughput limit and 480 requests per minute (RPM) rate cap.By contrast, Grok 4.1 is accessible only through xAI’s consumer-facing properties—X, Grok.com, and the mobile apps. This means organizations cannot yet deploy Grok 4.1 via fine-tuned internal workflows, multi-agent chains, or real-time product integrations.Industry reception and next stepsThe release has been met with strong public and industry feedback. Elon Musk, founder of xAI, posted a brief endorsement, calling it “a great model” and congratulating the team. AI benchmark platforms have praised the leap in usability and linguistic nuance.For enterprise customers, however, the picture is more mixed. Grok 4.1’s performance represents a breakthrough for general-purpose and creative tasks, but until API access is enabled, it will remain a consumer-first product with limited enterprise applicability.As competitive models from OpenAI, Google, and Anthropic continue to evolve, xAI’s next strategic move may hinge on when — and how — it opens Grok 4.1 to external developers.",
-          "content": "In what appeared to be a bid to soak up some of Google&#x27;s limelight prior to the launch of its new Gemini 3 flagship AI model — now recorded as the most powerful LLM in the world by multiple independent evaluators — Elon Musk&#x27;s rival AI startup xAI last night unveiled its newest large language model, Grok 4.1.The model is now live for consumer use on Grok.com, social network X (formerly Twitter), and the company’s iOS and Android mobile apps, and it arrives with major architectural and usability enhancements, among them: faster reasoning, improved emotional intelligence, and significantly reduced hallucination rates. xAI also published a white paper on its evaluations and including a small bit on training process here. Across public benchmarks, Grok 4.1 has vaulted to the top of the leaderboard, outperforming rival models from Anthropic, OpenAI, and Google — at least, Google&#x27;s pre-Gemini 3 model (Gemini 2.5 Pro). It builds upon the success of xAI&#x27;s Grok-4 Fast, which VentureBeat covered favorably shortly following its release back in September 2025.However, enterprise developers looking to integrate the new and improved model Grok 4.1 into production environments will find one major constraint: It&#x27;s not yet available through xAI’s public API. Despite its high benchmarks, Grok 4.1 remains confined to xAI’s consumer-facing interfaces, with no announced timeline for API exposure. At present, only older models — including Grok 4 Fast (reasoning and non-reasoning variants), Grok 4 0709, and legacy models such as Grok 3, Grok 3 Mini, and Grok 2 Vision — are available for programmatic use via the xAI developer API. These support up to 2 million tokens of context, with token pricing ranging from $0.20 to $3.00 per million depending on the configuration.For now, this limits Grok 4.1’s utility in enterprise workflows that rely on backend integration, fine-tuned agentic pipelines, or scalable internal tooling. While the consumer rollout positions Grok 4.1 as the most capable LLM in xAI’s portfolio, production deployments in enterprise environments remain on hold.Model design and deployment strategyGrok 4.1 arrives in two configurations: a fast-response, low-latency mode for immediate replies, and a “thinking” mode that engages in multi-step reasoning before producing output. Both versions are live for end users and are selectable via the model picker in xAI’s apps.The two configurations differ not just in latency but also in how deeply the model processes prompts. Grok 4.1 Thinking leverages internal planning and deliberation mechanisms, while the standard version prioritizes speed. Despite the difference in architecture, both scored higher than any competing models in blind preference and benchmark testing.Leading the field in human and expert evaluationOn the LMArena Text Arena leaderboard, Grok 4.1 Thinking briefly held the top position with a normalized Elo score of 1483 — then was dethroned a few hours later with Google&#x27;s release of Gemini 3 and its incredible 1501 Elo score. The non-thinking version of Grok 4.1 also fares well on the index, however, at 1465. These scores place Grok 4.1 above Google’s Gemini 2.5 Pro, Anthropic’s Claude 4.5 series, and OpenAI’s GPT-4.5 preview.In creative writing, Grok 4.1 ranks second only to Polaris Alpha (an early GPT-5.1 variant), with the “thinking” model earning a score of 1721.9 on the Creative Writing v3 benchmark. This marks a roughly 600-point improvement over previous Grok iterations. Similarly, in the Arena Expert leaderboard, which aggregates feedback from professional reviewers, Grok 4.1 Thinking again leads the field with a score of 1510.The gains are especially notable given that Grok 4.1 was released only two months after Grok 4 Fast, highlighting the accelerated development pace at xAI.Core improvements over previous generationsTechnically, Grok 4.1 represents a significant leap in real-world usability. Visual capabilities — previously limited in Grok 4 — have been upgraded to enable robust image and video understanding, including chart analysis and OCR-level text extraction. Multimodal reliability was a pain point in prior versions and has now been addressed.Token-level latency has been reduced by approximately 28% while preserving reasoning depth. In long-context tasks, Grok 4.1 maintains coherent output up to 1 million tokens, improving on Grok 4’s tendency to degrade past the 300,000 token mark.xAI has also improved the model&#x27;s tool orchestration capabilities. Grok 4.1 can now plan and execute multiple external tools in parallel, reducing the number of interaction cycles required to complete multi-step queries. According to internal test logs, some research tasks that previously required four steps can now be completed in one or two.Other alignment improvements include better truth calibration — reducing the tendency to hedge or soften politically sensitive outputs — and more natural, human-like prosody in voice mode, with support for different speaking styles and accents.Safety and adversarial robustnessAs part of its risk management framework, xAI evaluated Grok 4.1 for refusal behavior, hallucination resistance, sycophancy, and dual-use safety.The hallucination rate in non-reasoning mode has dropped from 12.09% in Grok 4 Fast to just 4.22% — a roughly 65% improvement.The model also scored 2.97% on FActScore, a factual QA benchmark, down from 9.89% in earlier versions.In the domain of adversarial robustness, Grok 4.1 has been tested with prompt injection attacks, jailbreak prompts, and sensitive chemistry and biology queries. Safety filters showed low false negative rates, especially for restricted chemical knowledge (0.00%) and restricted biological queries (0.03%). The model’s ability to resist manipulation in persuasion benchmarks, such as MakeMeSay, also appears strong—it registered a 0% success rate as an attacker.Limited enterprise access via APIDespite these gains, Grok 4.1 remains unavailable to enterprise users through xAI’s API. According to the company’s public documentation, the latest available models for developers are Grok 4 Fast (both reasoning and non-reasoning variants), each supporting up to 2 million tokens of context at pricing tiers ranging from $0.20 to $0.50 per million tokens. These are backed by a 4M tokens-per-minute throughput limit and 480 requests per minute (RPM) rate cap.By contrast, Grok 4.1 is accessible only through xAI’s consumer-facing properties—X, Grok.com, and the mobile apps. This means organizations cannot yet deploy Grok 4.1 via fine-tuned internal workflows, multi-agent chains, or real-time product integrations.Industry reception and next stepsThe release has been met with strong public and industry feedback. Elon Musk, founder of xAI, posted a brief endorsement, calling it “a great model” and congratulating the team. AI benchmark platforms have praised the leap in usability and linguistic nuance.For enterprise customers, however, the picture is more mixed. Grok 4.1’s performance represents a breakthrough for general-purpose and creative tasks, but until API access is enabled, it will remain a consumer-first product with limited enterprise applicability.As competitive models from OpenAI, Google, and Anthropic continue to evolve, xAI’s next strategic move may hinge on when — and how — it opens Grok 4.1 to external developers.",
+          "title": "Musk's xAI launches Grok 4.1 with lower hallucination rate on the web and apps",
+          "standfirst": "Update: A day after this article was published, xAI unveiled Grok 4.1 access through its API for $0.20 per 1 input million tokens (or $0.05 for cached input) and output tokens at $0.50 per million, making it among the cheaper available frontier AI model options. Read more here.In what appeared to be a bid to soak up some of Google&#x27;s limelight prior to the launch of its new Gemini 3 flagship AI model — now recorded as the most powerful LLM in the world by multiple independent evaluators — Elon Musk&#x27;s rival AI startup xAI last night unveiled its newest large language model, Grok 4.1.The model is now live for consumer use on Grok.com, social network X (formerly Twitter), and the company’s iOS and Android mobile apps, and it arrives with major architectural and usability enhancements, among them: faster reasoning, improved emotional intelligence, and significantly reduced hallucination rates. xAI also published a white paper on its evaluations and including a small bit on training process here. Across public benchmarks, Grok 4.1 has vaulted to the top of the leaderboard, outperforming rival models from Anthropic, OpenAI, and Google — at least, Google&#x27;s pre-Gemini 3 model (Gemini 2.5 Pro). It builds upon the success of xAI&#x27;s Grok-4 Fast, which VentureBeat covered favorably shortly following its release back in September 2025.However, enterprise developers looking to integrate the new and improved model Grok 4.1 into production environments will find one major constraint: It&#x27;s not yet available through xAI’s public API. Despite its high benchmarks, Grok 4.1 remains confined to xAI’s consumer-facing interfaces, with no announced timeline for API exposure. At present, only older models — including Grok 4 Fast (reasoning and non-reasoning variants), Grok 4 0709, and legacy models such as Grok 3, Grok 3 Mini, and Grok 2 Vision — are available for programmatic use via the xAI developer API. These support up to 2 million tokens of context, with token pricing ranging from $0.20 to $3.00 per million depending on the configuration.For now, this limits Grok 4.1’s utility in enterprise workflows that rely on backend integration, fine-tuned agentic pipelines, or scalable internal tooling. While the consumer rollout positions Grok 4.1 as the most capable LLM in xAI’s portfolio, production deployments in enterprise environments remain on hold.Model design and deployment strategyGrok 4.1 arrives in two configurations: a fast-response, low-latency mode for immediate replies, and a “thinking” mode that engages in multi-step reasoning before producing output. Both versions are live for end users and are selectable via the model picker in xAI’s apps.The two configurations differ not just in latency but also in how deeply the model processes prompts. Grok 4.1 Thinking leverages internal planning and deliberation mechanisms, while the standard version prioritizes speed. Despite the difference in architecture, both scored higher than any competing models in blind preference and benchmark testing.Leading the field in human and expert evaluationOn the LMArena Text Arena leaderboard, Grok 4.1 Thinking briefly held the top position with a normalized Elo score of 1483 — then was dethroned a few hours later with Google&#x27;s release of Gemini 3 and its incredible 1501 Elo score. The non-thinking version of Grok 4.1 also fares well on the index, however, at 1465. These scores place Grok 4.1 above Google’s Gemini 2.5 Pro, Anthropic’s Claude 4.5 series, and OpenAI’s GPT-4.5 preview.In creative writing, Grok 4.1 ranks second only to Polaris Alpha (an early GPT-5.1 variant), with the “thinking” model earning a score of 1721.9 on the Creative Writing v3 benchmark. This marks a roughly 600-point improvement over previous Grok iterations. Similarly, in the Arena Expert leaderboard, which aggregates feedback from professional reviewers, Grok 4.1 Thinking again leads the field with a score of 1510.The gains are especially notable given that Grok 4.1 was released only two months after Grok 4 Fast, highlighting the accelerated development pace at xAI.Core improvements over previous generationsTechnically, Grok 4.1 represents a significant leap in real-world usability. Visual capabilities — previously limited in Grok 4 — have been upgraded to enable robust image and video understanding, including chart analysis and OCR-level text extraction. Multimodal reliability was a pain point in prior versions and has now been addressed.Token-level latency has been reduced by approximately 28% while preserving reasoning depth. In long-context tasks, Grok 4.1 maintains coherent output up to 1 million tokens, improving on Grok 4’s tendency to degrade past the 300,000 token mark.xAI has also improved the model&#x27;s tool orchestration capabilities. Grok 4.1 can now plan and execute multiple external tools in parallel, reducing the number of interaction cycles required to complete multi-step queries. According to internal test logs, some research tasks that previously required four steps can now be completed in one or two.Other alignment improvements include better truth calibration — reducing the tendency to hedge or soften politically sensitive outputs — and more natural, human-like prosody in voice mode, with support for different speaking styles and accents.Safety and adversarial robustnessAs part of its risk management framework, xAI evaluated Grok 4.1 for refusal behavior, hallucination resistance, sycophancy, and dual-use safety.The hallucination rate in non-reasoning mode has dropped from 12.09% in Grok 4 Fast to just 4.22% — a roughly 65% improvement.The model also scored 2.97% on FActScore, a factual QA benchmark, down from 9.89% in earlier versions.In the domain of adversarial robustness, Grok 4.1 has been tested with prompt injection attacks, jailbreak prompts, and sensitive chemistry and biology queries. Safety filters showed low false negative rates, especially for restricted chemical knowledge (0.00%) and restricted biological queries (0.03%). The model’s ability to resist manipulation in persuasion benchmarks, such as MakeMeSay, also appears strong—it registered a 0% success rate as an attacker.Limited enterprise access via APIDespite these gains, Grok 4.1 initially was not available to enterprise users through xAI’s API. According to the company’s public documentation, the latest available models for developers are Grok 4 Fast (both reasoning and non-reasoning variants), each supporting up to 2 million tokens of context at pricing tiers ranging from $0.20 to $0.50 per million tokens. These are backed by a 4M tokens-per-minute throughput limit and 480 requests per minute (RPM) rate cap.By contrast, Grok 4.1 is accessible only through xAI’s consumer-facing properties—X, Grok.com, and the mobile apps. This means organizations cannot yet deploy Grok 4.1 via fine-tuned internal workflows, multi-agent chains, or real-time product integrations.As of November 19, 2025, xAI made the models available through its API as grok-4-1-fast-reasoning and grok-4-1-fast-non-reasoning, both optimized for real-world tool use, including web search, code execution, and document retrieval. xAI also introduced the Agent Tools API, a framework that allows autonomous agents to operate over real-time X data, external toolchains, and remote functions, with integrated orchestration handled entirely on xAI’s infrastructure.This update positions Grok 4.1 Fast as xAI’s flagship enterprise model, outperforming competitors like Claude Sonnet 4.5, GPT-5, and Gemini 3 Pro on agentic benchmarks such as τ²-bench and Berkeley Function Calling v4. Pricing is competitive, with input tokens billed at $0.20 per million (or $0.05 for cached input) and output tokens at $0.50 per million—matching Grok 4 Fast pricing tiers. Tool usage is metered separately at $5 per 1,000 successful invocations, though all tool access is temporarily free through December 3, 2025, in partnership with OpenRouter. In long-context and multi-turn performance, Grok 4.1 Fast shows measurable improvements over both Grok 4 and Grok 4 Fast, suggesting significant reinforcement learning optimization for agentic and retrieval-augmented workflows.With this release, Grok 4.1 transitions from a consumer-facing product to a production-grade platform for enterprise and developer integration. It also resolves a key limitation in the original rollout by making its most performant variant accessible to backend applications, research pipelines, and autonomous agents through the API. See a price comparison chart below:ModelInput (/1M tokens)Output (/1M tokens)Total CostSourceERNIE 4.5 Turbo$0.11$0.45$0.56QianfanGrok 4.1 Fast (cached)$0.05$0.50$0.55xAI APIGrok 4.1 Fast (uncached)$0.20$0.50$0.70xAI APIERNIE 5.0$0.85$3.40$4.25QianfanQwen3 (Coder ex.)$0.85$3.40$4.25QianfanGPT-5.1$1.25$10.00$11.25OpenAIGemini 2.5 Pro (≤200K)$1.25$10.00$11.25GoogleGemini 3 Pro (≤200K)$2.00$12.00$14.00GoogleGemini 2.5 Pro (>200K)$2.50$15.00$17.50GoogleGemini 3 Pro (>200K)$4.00$18.00$22.00GoogleGrok 4 (0709)$3.00$15.00$18.00xAI APIClaude Opus 4.1$15.00$75.00$90.00AnthropicIndustry reception and next stepsThe release has been met with strong public and industry feedback. Elon Musk, founder of xAI, posted a brief endorsement, calling it “a great model” and congratulating the team. AI benchmark platforms have praised the leap in usability and linguistic nuance.For enterprise customers, however, the picture is more mixed. Grok 4.1’s performance represents a breakthrough for general-purpose and creative tasks.As competitive models from OpenAI, Google, and Anthropic continue to evolve, xAI has fielded a competitive and compelling option for developers and enterprise use cases.",
+          "content": "Update: A day after this article was published, xAI unveiled Grok 4.1 access through its API for $0.20 per 1 input million tokens (or $0.05 for cached input) and output tokens at $0.50 per million, making it among the cheaper available frontier AI model options. Read more here.In what appeared to be a bid to soak up some of Google&#x27;s limelight prior to the launch of its new Gemini 3 flagship AI model — now recorded as the most powerful LLM in the world by multiple independent evaluators — Elon Musk&#x27;s rival AI startup xAI last night unveiled its newest large language model, Grok 4.1.The model is now live for consumer use on Grok.com, social network X (formerly Twitter), and the company’s iOS and Android mobile apps, and it arrives with major architectural and usability enhancements, among them: faster reasoning, improved emotional intelligence, and significantly reduced hallucination rates. xAI also published a white paper on its evaluations and including a small bit on training process here. Across public benchmarks, Grok 4.1 has vaulted to the top of the leaderboard, outperforming rival models from Anthropic, OpenAI, and Google — at least, Google&#x27;s pre-Gemini 3 model (Gemini 2.5 Pro). It builds upon the success of xAI&#x27;s Grok-4 Fast, which VentureBeat covered favorably shortly following its release back in September 2025.However, enterprise developers looking to integrate the new and improved model Grok 4.1 into production environments will find one major constraint: It&#x27;s not yet available through xAI’s public API. Despite its high benchmarks, Grok 4.1 remains confined to xAI’s consumer-facing interfaces, with no announced timeline for API exposure. At present, only older models — including Grok 4 Fast (reasoning and non-reasoning variants), Grok 4 0709, and legacy models such as Grok 3, Grok 3 Mini, and Grok 2 Vision — are available for programmatic use via the xAI developer API. These support up to 2 million tokens of context, with token pricing ranging from $0.20 to $3.00 per million depending on the configuration.For now, this limits Grok 4.1’s utility in enterprise workflows that rely on backend integration, fine-tuned agentic pipelines, or scalable internal tooling. While the consumer rollout positions Grok 4.1 as the most capable LLM in xAI’s portfolio, production deployments in enterprise environments remain on hold.Model design and deployment strategyGrok 4.1 arrives in two configurations: a fast-response, low-latency mode for immediate replies, and a “thinking” mode that engages in multi-step reasoning before producing output. Both versions are live for end users and are selectable via the model picker in xAI’s apps.The two configurations differ not just in latency but also in how deeply the model processes prompts. Grok 4.1 Thinking leverages internal planning and deliberation mechanisms, while the standard version prioritizes speed. Despite the difference in architecture, both scored higher than any competing models in blind preference and benchmark testing.Leading the field in human and expert evaluationOn the LMArena Text Arena leaderboard, Grok 4.1 Thinking briefly held the top position with a normalized Elo score of 1483 — then was dethroned a few hours later with Google&#x27;s release of Gemini 3 and its incredible 1501 Elo score. The non-thinking version of Grok 4.1 also fares well on the index, however, at 1465. These scores place Grok 4.1 above Google’s Gemini 2.5 Pro, Anthropic’s Claude 4.5 series, and OpenAI’s GPT-4.5 preview.In creative writing, Grok 4.1 ranks second only to Polaris Alpha (an early GPT-5.1 variant), with the “thinking” model earning a score of 1721.9 on the Creative Writing v3 benchmark. This marks a roughly 600-point improvement over previous Grok iterations. Similarly, in the Arena Expert leaderboard, which aggregates feedback from professional reviewers, Grok 4.1 Thinking again leads the field with a score of 1510.The gains are especially notable given that Grok 4.1 was released only two months after Grok 4 Fast, highlighting the accelerated development pace at xAI.Core improvements over previous generationsTechnically, Grok 4.1 represents a significant leap in real-world usability. Visual capabilities — previously limited in Grok 4 — have been upgraded to enable robust image and video understanding, including chart analysis and OCR-level text extraction. Multimodal reliability was a pain point in prior versions and has now been addressed.Token-level latency has been reduced by approximately 28% while preserving reasoning depth. In long-context tasks, Grok 4.1 maintains coherent output up to 1 million tokens, improving on Grok 4’s tendency to degrade past the 300,000 token mark.xAI has also improved the model&#x27;s tool orchestration capabilities. Grok 4.1 can now plan and execute multiple external tools in parallel, reducing the number of interaction cycles required to complete multi-step queries. According to internal test logs, some research tasks that previously required four steps can now be completed in one or two.Other alignment improvements include better truth calibration — reducing the tendency to hedge or soften politically sensitive outputs — and more natural, human-like prosody in voice mode, with support for different speaking styles and accents.Safety and adversarial robustnessAs part of its risk management framework, xAI evaluated Grok 4.1 for refusal behavior, hallucination resistance, sycophancy, and dual-use safety.The hallucination rate in non-reasoning mode has dropped from 12.09% in Grok 4 Fast to just 4.22% — a roughly 65% improvement.The model also scored 2.97% on FActScore, a factual QA benchmark, down from 9.89% in earlier versions.In the domain of adversarial robustness, Grok 4.1 has been tested with prompt injection attacks, jailbreak prompts, and sensitive chemistry and biology queries. Safety filters showed low false negative rates, especially for restricted chemical knowledge (0.00%) and restricted biological queries (0.03%). The model’s ability to resist manipulation in persuasion benchmarks, such as MakeMeSay, also appears strong—it registered a 0% success rate as an attacker.Limited enterprise access via APIDespite these gains, Grok 4.1 initially was not available to enterprise users through xAI’s API. According to the company’s public documentation, the latest available models for developers are Grok 4 Fast (both reasoning and non-reasoning variants), each supporting up to 2 million tokens of context at pricing tiers ranging from $0.20 to $0.50 per million tokens. These are backed by a 4M tokens-per-minute throughput limit and 480 requests per minute (RPM) rate cap.By contrast, Grok 4.1 is accessible only through xAI’s consumer-facing properties—X, Grok.com, and the mobile apps. This means organizations cannot yet deploy Grok 4.1 via fine-tuned internal workflows, multi-agent chains, or real-time product integrations.As of November 19, 2025, xAI made the models available through its API as grok-4-1-fast-reasoning and grok-4-1-fast-non-reasoning, both optimized for real-world tool use, including web search, code execution, and document retrieval. xAI also introduced the Agent Tools API, a framework that allows autonomous agents to operate over real-time X data, external toolchains, and remote functions, with integrated orchestration handled entirely on xAI’s infrastructure.This update positions Grok 4.1 Fast as xAI’s flagship enterprise model, outperforming competitors like Claude Sonnet 4.5, GPT-5, and Gemini 3 Pro on agentic benchmarks such as τ²-bench and Berkeley Function Calling v4. Pricing is competitive, with input tokens billed at $0.20 per million (or $0.05 for cached input) and output tokens at $0.50 per million—matching Grok 4 Fast pricing tiers. Tool usage is metered separately at $5 per 1,000 successful invocations, though all tool access is temporarily free through December 3, 2025, in partnership with OpenRouter. In long-context and multi-turn performance, Grok 4.1 Fast shows measurable improvements over both Grok 4 and Grok 4 Fast, suggesting significant reinforcement learning optimization for agentic and retrieval-augmented workflows.With this release, Grok 4.1 transitions from a consumer-facing product to a production-grade platform for enterprise and developer integration. It also resolves a key limitation in the original rollout by making its most performant variant accessible to backend applications, research pipelines, and autonomous agents through the API. See a price comparison chart below:ModelInput (/1M tokens)Output (/1M tokens)Total CostSourceERNIE 4.5 Turbo$0.11$0.45$0.56QianfanGrok 4.1 Fast (cached)$0.05$0.50$0.55xAI APIGrok 4.1 Fast (uncached)$0.20$0.50$0.70xAI APIERNIE 5.0$0.85$3.40$4.25QianfanQwen3 (Coder ex.)$0.85$3.40$4.25QianfanGPT-5.1$1.25$10.00$11.25OpenAIGemini 2.5 Pro (≤200K)$1.25$10.00$11.25GoogleGemini 3 Pro (≤200K)$2.00$12.00$14.00GoogleGemini 2.5 Pro (>200K)$2.50$15.00$17.50GoogleGemini 3 Pro (>200K)$4.00$18.00$22.00GoogleGrok 4 (0709)$3.00$15.00$18.00xAI APIClaude Opus 4.1$15.00$75.00$90.00AnthropicIndustry reception and next stepsThe release has been met with strong public and industry feedback. Elon Musk, founder of xAI, posted a brief endorsement, calling it “a great model” and congratulating the team. AI benchmark platforms have praised the leap in usability and linguistic nuance.For enterprise customers, however, the picture is more mixed. Grok 4.1’s performance represents a breakthrough for general-purpose and creative tasks.As competitive models from OpenAI, Google, and Anthropic continue to evolve, xAI has fielded a competitive and compelling option for developers and enterprise use cases.",
           "feed_position": 5,
           "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5BPaolPQb2HiippqexMByr/dbbc7c78014b61f900e3377e4a754678/200aa65d-c9d0-492e-a1fb-c98055cdb9d0.jpg?w=300&q=30"
         },
@@ -302,58 +302,27 @@
         }
       ],
       "featured_image": "https://images.ctfassets.net/jdtwqhzvc2n1/1EELcUCWai7BHVe2Iti1Ht/1fef9a3dd13eeed757dfda0bdccc4403/lsRydt-rLj3bqzrXKMGoN_b9a12412710e4c468f59b1b66cb31312__1_.png?w=300&q=30",
-      "popularity_score": 2019.9761897222222,
+      "popularity_score": 2015.5338625,
       "ai_summary": [
-        "Sling Orange Day Passes are available for one dollar.",
-        "The promotion runs through November 30.",
-        "The pass includes access to 34 channels.",
-        "Channels include ESPN, TNT, TBS, and children's channels.",
-        "The pass does not include access to Thanksgiving football games."
+        "Sling TV offers discounted Sling Orange Day Passes for Black Friday.",
+        "The passes provide access to 34 channels, including ESPN and TNT.",
+        "The promotion offers the passes for one dollar through November 30.",
+        "The pass includes channels like Disney Channel and CNN.",
+        "Sling Orange does not include access to Thursday's NFL games."
       ]
     },
     {
-      "id": "cluster_36",
+      "id": "cluster_18",
       "coverage": 1,
-      "updated_at": "Wed, 19 Nov 2025 20:25:46 +0000",
-      "title": "Critics scoff after Microsoft warns AI feature can infect machines and pilfer data",
-      "neutral_headline": "Microsoft Warns AI Feature Can Infect Machines, Pilfer Data",
+      "updated_at": "Wed, 19 Nov 2025 22:57:23 +0000",
+      "title": "“We’re in an LLM bubble,” Hugging Face CEO says—but not an AI one",
+      "neutral_headline": "Hugging Face CEO Discusses the Current AI Investment Climate",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/security/2025/11/critics-scoff-after-microsoft-warns-ai-feature-can-infect-machines-and-pilfer-data/",
-          "published_at": "Wed, 19 Nov 2025 20:25:46 +0000",
-          "title": "Critics scoff after Microsoft warns AI feature can infect machines and pilfer data",
-          "standfirst": "Integration of Copilot Actions into Windows is off by default, but for how long?",
-          "content": "Microsoft’s warning on Tuesday that an experimental AI Agent integrated into Windows can infect devices and pilfer sensitive user data has set off a familiar response from security-minded critics: Why is Big Tech so intent on pushing new features before their dangerous behaviors can be fully understood and contained? As reported Tuesday, Microsoft introduced Copilot Actions, a new set of “experimental agentic features” that, when enabled, perform “everyday tasks like organizing files, scheduling meetings, or sending emails,” and provide “an active digital collaborator that can carry out complex tasks for you to enhance efficiency and productivity.” Hallucinations and prompt injections apply The fanfare, however, came with a significant caveat. Microsoft recommended users enable Copilot Actions only “if you understand the security implications outlined.”Read full article Comments",
-          "feed_position": 0,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/microsoft-copilot-windows-1024x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/microsoft-copilot-windows-1024x648.jpg",
-      "popularity_score": 377.20341194444444,
-      "ai_summary": [
-        "Microsoft warns about potential risks of an AI feature.",
-        "The feature could infect machines.",
-        "The feature could pilfer data.",
-        "The feature is Copilot Actions in Windows.",
-        "The feature is off by default."
-      ]
-    },
-    {
-      "id": "cluster_6",
-      "coverage": 1,
-      "updated_at": "Wed, 19 Nov 2025 22:57:23 +0000",
-      "title": "“We’re in an LLM bubble,” Hugging Face CEO says—but not an AI one",
-      "neutral_headline": "Hugging Face CEO Discusses AI Bubble",
-      "bullet_summary": [
-        "Reported by Ars Technica Main"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica Main",
           "url": "https://arstechnica.com/ai/2025/11/were-in-an-llm-bubble-hugging-face-ceo-says-but-not-an-ai-one/",
           "published_at": "Wed, 19 Nov 2025 22:57:23 +0000",
           "title": "“We’re in an LLM bubble,” Hugging Face CEO says—but not an AI one",
@@ -364,21 +333,145 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/1763499309592-1152x648.webp",
-      "popularity_score": 367.7303563888889,
+      "popularity_score": 363.28802916666666,
       "ai_summary": [
-        "The Hugging Face CEO discusses the AI landscape.",
-        "The CEO believes there is an LLM bubble.",
-        "The CEO does not believe there is an AI bubble.",
-        "Risks of AI investment are less clear in some areas.",
-        "The CEO is commenting on the current market."
+        "The CEO of Hugging Face believes there is an LLM bubble.",
+        "The CEO does not believe there is an AI bubble overall.",
+        "Risks of AI investment in manufacturing are less clear.",
+        "The CEO's comments reflect on the current AI landscape.",
+        "The statement suggests a nuanced view of AI investment."
       ]
     },
     {
-      "id": "cluster_44",
+      "id": "cluster_21",
+      "coverage": 1,
+      "updated_at": "Wed, 19 Nov 2025 22:44:20 +0000",
+      "title": "NASA really wants you to know that 3I/ATLAS is an interstellar comet",
+      "neutral_headline": "NASA Confirms 3I/ATLAS as an Interstellar Comet",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/science/2025/11/nasa-really-wants-you-to-know-that-3i-atlas-is-an-interstellar-comet/",
+          "published_at": "Wed, 19 Nov 2025 22:44:20 +0000",
+          "title": "NASA really wants you to know that 3I/ATLAS is an interstellar comet",
+          "standfirst": "A rundown of what we know of the third extrasolar object we've identified.",
+          "content": "Since early July, telescopes around the world have been tracking just our third confirmed interstellar visitor, the comet 3I/ATLAS—3I, for third interstellar, and ATLAS (Asteroid Terrestrial-impact Last Alert System) for the telescope network that first spotted it. But the object’s closest approach to the Sun came in late October during the US government shutdown. So, while enough people went to work to ensure that the hardware continued to do its job, nobody was available at NASA to make the images available to the public or discuss their implications. So today, NASA held a press conference to discuss everything that we now know about 3I/ATLAS, and how NASA’s hardware contributed to that knowledge. And to say one more time that the object is a fairly typical comet and not some spaceship doing its best to appear like one. Extrasolar comet 3I/ATLAS is an extrasolar comet and the third visitor from another star that we’ve detected. We know the comet part because it looks like one, forming a coma of gas and dust, as well as a tail, as the Sun heats up its materials. That hasn’t stopped the usual suspect (Avi Loeb) from speculating that it might be a spacecraft, as he had for the earlier visitors. NASA doesn’t want to hear it. “This object is a comet,” said Associate Administrator Amit Kshatrya. “It looks and behaves like a comet, and all evidence points to it being a comet.”Read full article Comments",
+          "feed_position": 1,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/image-1-1152x648.jpeg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/image-1-1152x648.jpeg",
+      "popularity_score": 338.0705291666667,
+      "ai_summary": [
+        "NASA is emphasizing the interstellar nature of 3I/ATLAS.",
+        "3I/ATLAS is the third extrasolar object identified.",
+        "The article provides a rundown of what is known about it.",
+        "The comet's origin is outside of our solar system.",
+        "NASA wants to highlight the significance of the discovery."
+      ]
+    },
+    {
+      "id": "cluster_36",
+      "coverage": 1,
+      "updated_at": "Wed, 19 Nov 2025 21:25:24 +0000",
+      "title": "Massive Cloudflare outage was triggered by file that suddenly doubled in size",
+      "neutral_headline": "Cloudflare Outage Caused by File Size Increase",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2025/11/cloudflare-broke-much-of-the-internet-with-a-corrupted-bot-management-file/",
+          "published_at": "Wed, 19 Nov 2025 21:25:24 +0000",
+          "title": "Massive Cloudflare outage was triggered by file that suddenly doubled in size",
+          "standfirst": "\"I worry this is the big botnet flexing,\" CEO said. But outage was self-inflicted.",
+          "content": "When a Cloudflare outage disrupted large numbers of websites and online services yesterday, the company initially thought it was hit by a “hyper-scale” DDoS (distributed denial-of-service) attack. “I worry this is the big botnet flexing,” Cloudflare co-founder and CEO Matthew Prince wrote in an internal chat room yesterday, while he and others discussed whether Cloudflare was being hit by attacks from the prolific Aisuru botnet. But upon further investigation, Cloudflare staff realized the problem had an internal cause: an important file had unexpectedly doubled in size and propagated across the network. This caused trouble for software that needs to read the file to maintain the Cloudflare bot management system that uses a machine learning model to protect against security threats. Cloudflare’s core CDN, security services, and several other services were affected.Read full article Comments",
+          "feed_position": 2,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/cloudflare-error-1152x648-1763584433.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/cloudflare-error-1152x648-1763584433.jpg",
+      "popularity_score": 326.7549736111111,
+      "ai_summary": [
+        "A massive Cloudflare outage occurred recently.",
+        "The outage was triggered by a file that doubled in size.",
+        "The CEO expressed concern about potential botnet activity.",
+        "The outage was ultimately self-inflicted by Cloudflare.",
+        "The incident highlights the importance of system monitoring."
+      ]
+    },
+    {
+      "id": "cluster_37",
+      "coverage": 1,
+      "updated_at": "Wed, 19 Nov 2025 21:14:42 +0000",
+      "title": "Rocket Lab Electron among first artifacts installed in CA Science Center space gallery",
+      "neutral_headline": "Rocket Lab Electron Installed in California Science Center",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/space/2025/11/rocket-lab-electron-among-first-artifacts-installed-in-ca-science-center-space-gallery/",
+          "published_at": "Wed, 19 Nov 2025 21:14:42 +0000",
+          "title": "Rocket Lab Electron among first artifacts installed in CA Science Center space gallery",
+          "standfirst": "Filling space in the Samuel Oschin Air and Space Center's Kent Kresa Space Gallery.",
+          "content": "It took the California Science Center more than three years to erect its new Samuel Oschin Air and Space Center, including stacking NASA’s space shuttle Endeavour for its launch pad-like display. Now the big work begins. “That’s completing the artifact installation and then installing the exhibits,” said Jeffrey Rudolph, president and CEO of the California Science Center in Los Angeles, in an interview. “Most of the exhibits are in fabrication in shops around the country and audio-visual production is underway. We’re full-on focused on exhibits now.”Read full article Comments",
+          "feed_position": 3,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/news-111825a-lg-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/news-111825a-lg-1152x648.jpg",
+      "popularity_score": 324.57664027777776,
+      "ai_summary": [
+        "A Rocket Lab Electron rocket is now on display.",
+        "The rocket is among the first artifacts installed.",
+        "It is located in the Kent Kresa Space Gallery.",
+        "The gallery is part of the Samuel Oschin Air and Space Center.",
+        "The installation marks a significant addition to the center."
+      ]
+    },
+    {
+      "id": "cluster_48",
+      "coverage": 1,
+      "updated_at": "Wed, 19 Nov 2025 20:25:46 +0000",
+      "title": "Critics scoff after Microsoft warns AI feature can infect machines and pilfer data",
+      "neutral_headline": "Microsoft AI Feature Raises Concerns About Data Security",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/security/2025/11/critics-scoff-after-microsoft-warns-ai-feature-can-infect-machines-and-pilfer-data/",
+          "published_at": "Wed, 19 Nov 2025 20:25:46 +0000",
+          "title": "Critics scoff after Microsoft warns AI feature can infect machines and pilfer data",
+          "standfirst": "Integration of Copilot Actions into Windows is off by default, but for how long?",
+          "content": "Microsoft’s warning on Tuesday that an experimental AI agent integrated into Windows can infect devices and pilfer sensitive user data has set off a familiar response from security-minded critics: Why is Big Tech so intent on pushing new features before their dangerous behaviors can be fully understood and contained? As reported Tuesday, Microsoft introduced Copilot Actions, a new set of “experimental agentic features” that, when enabled, perform “everyday tasks like organizing files, scheduling meetings, or sending emails,” and provide “an active digital collaborator that can carry out complex tasks for you to enhance efficiency and productivity.” Hallucinations and prompt injections apply The fanfare, however, came with a significant caveat. Microsoft recommended users enable Copilot Actions only “if you understand the security implications outlined.”Read full article Comments",
+          "feed_position": 5,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/microsoft-copilot-windows-1024x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/microsoft-copilot-windows-1024x648.jpg",
+      "popularity_score": 322.7610847222222,
+      "ai_summary": [
+        "Critics are questioning a Microsoft AI feature.",
+        "The feature could potentially infect machines.",
+        "The feature could also pilfer data from users.",
+        "Copilot Actions integration is off by default.",
+        "The article questions how long it will remain off."
+      ]
+    },
+    {
+      "id": "cluster_56",
       "coverage": 1,
       "updated_at": "Wed, 19 Nov 2025 19:33:22 +0000",
       "title": "Testing shows Apple N1 Wi-Fi chip improves on older Broadcom chips in every way",
-      "neutral_headline": "Apple's N1 Wi-Fi Chip Improves Performance Over Older Chips",
+      "neutral_headline": "Apple's In-House Wi-Fi Chip Shows Performance Improvements",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -390,53 +483,53 @@
           "title": "Testing shows Apple N1 Wi-Fi chip improves on older Broadcom chips in every way",
           "standfirst": "Apple's in-house Wi-Fi chip doesn't set records, but it's a reliable performer.",
           "content": "This year’s newest iPhones included one momentous change that marked a new phase in the evolution of Apple Silicon: the Apple N1, Apple’s first in-house chip made to handle local wireless connections. The N1 supports Wi-Fi 7, Bluetooth 6, and the Thread smart home communication protocol, and it replaces the third-party wireless chips (mostly made by Broadcom) that Apple used in older iPhones. Apple claimed that the N1 would enable more reliable connectivity for local communication features like AirPlay and AirDrop but didn’t say anything about how users could expect it to perform. But Ookla, the folks behind the SpeedTest app and website, have analyzed about five weeks’ worth of users’ testing data to get an idea of how the iPhone 17 lineup stacks up to the iPhone 16, as well as Android phones with Wi-Fi chips from Qualcomm, MediaTek, and others. While the N1 isn’t at the top of the charts, Ookla says Apple’s Wi-Fi chip “delivered higher download and upload speeds on Wi-Fi compared to the iPhone 16 across every studied percentile and virtually every region.” The median download speed for the iPhone 17 series was 329.56Mbps, compared to 236.46Mbps for the iPhone 16; the upload speed also jumped from 73.68Mbps to 103.26Mbps.Read full article Comments",
-          "feed_position": 1,
+          "feed_position": 6,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/IMG_3399-1152x648.jpeg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/IMG_3399-1152x648.jpeg",
-      "popularity_score": 362.3300786111111,
+      "popularity_score": 307.8877513888889,
       "ai_summary": [
-        "Apple's in-house Wi-Fi chip shows improvements over Broadcom chips.",
-        "The N1 chip does not set any performance records in testing.",
-        "Testing indicates the N1 chip is a reliable performer in various scenarios.",
-        "The chip's performance is consistent across different usage cases.",
-        "Apple's chip offers a solid performance profile compared to its predecessor."
+        "Apple's in-house Wi-Fi chip has been tested.",
+        "The chip improves on older Broadcom chips.",
+        "The chip performs reliably in testing.",
+        "The chip does not set any performance records.",
+        "The results show Apple's progress in chip design."
       ]
     },
     {
-      "id": "cluster_9",
+      "id": "cluster_41",
       "coverage": 1,
-      "updated_at": "Wed, 19 Nov 2025 22:44:20 +0000",
-      "title": "NASA really wants you to know that 3I/ATLAS is an interstellar comet",
-      "neutral_headline": "NASA Highlights Interstellar Comet 3I/ATLAS Details",
+      "updated_at": "Wed, 19 Nov 2025 20:56:59 +0000",
+      "title": "He got sued for sharing public YouTube videos; nightmare ended in settlement",
+      "neutral_headline": "Librarian Settles Lawsuit Over YouTube Video Sharing",
       "bullet_summary": [
-        "Reported by Ars Technica Main"
+        "Reported by Ars Technica"
       ],
       "items": [
         {
-          "source": "Ars Technica Main",
-          "url": "https://arstechnica.com/science/2025/11/nasa-really-wants-you-to-know-that-3i-atlas-is-an-interstellar-comet/",
-          "published_at": "Wed, 19 Nov 2025 22:44:20 +0000",
-          "title": "NASA really wants you to know that 3I/ATLAS is an interstellar comet",
-          "standfirst": "A rundown of what we know of the third extrasolar object we've identified.",
-          "content": "Since early July, telescopes around the world have been tracking just our third confirmed interstellar visitor, the comet 3I/ATLAS—3I, for third interstellar, and ATLAS (Asteroid Terrestrial-impact Last Alert System) for the telescope network that first spotted it. But the object’s closest approach to the Sun came in late October during the US government shutdown. So, while enough people went to work to ensure that the hardware continued to do its job, nobody was available at NASA to make the images available to the public or discuss their implications. So today, NASA held a press conference to discuss everything that we now know about 3I/ATLAS, and how NASA’s hardware contributed to that knowledge. And to say one more time that the object is a fairly typical comet and not some spaceship doing its best to appear like one. Extrasolar comet 3I/ATLAS is an extrasolar comet and the third visitor from another star that we’ve detected. We know the comet part because it looks like one, forming a coma of gas and dust, as well as a tail, as the Sun heats up its materials. That hasn’t stopped the usual suspect (Avi Loeb) from speculating that it might be a spacecraft, as he had for the earlier visitors. NASA doesn’t want to hear it. “This object is a comet,” said Associate Administrator Amit Kshatrya. “It looks and behaves like a comet, and all evidence points to it being a comet.”Read full article Comments",
-          "feed_position": 1,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/image-1-1152x648.jpeg"
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2025/11/proctorio-settles-curious-lawsuit-with-librarian-who-shared-public-youtube-videos/",
+          "published_at": "Wed, 19 Nov 2025 20:56:59 +0000",
+          "title": "He got sued for sharing public YouTube videos; nightmare ended in settlement",
+          "standfirst": "Librarian vows to stop invasive ed tech after ending lawsuit with Proctorio.",
+          "content": "Nobody expects to get sued for re-posting a YouTube video on social media by using the “share” button, but librarian Ian Linkletter spent the past five years embroiled in a copyright fight after doing just that. Now that a settlement has been reached, Linkletter told Ars why he thinks his 2020 tweets sharing public YouTube videos put a target on his back. Linkletter’s legal nightmare started in 2020 after an education technology company, Proctorio, began monitoring student backlash on Reddit over its AI tool used to remotely scan rooms, identify students, and prevent cheating on exams. On Reddit, students echoed serious concerns raised by researchers, warning of privacy issues, racist and sexist biases, and barriers to students with disabilities.Read full article Comments",
+          "feed_position": 4,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Ian-Linkletter-via-Ashley-Linkletter-1152x648.jpeg"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/image-1-1152x648.jpeg",
-      "popularity_score": 342.5128563888889,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Ian-Linkletter-via-Ashley-Linkletter-1152x648.jpeg",
+      "popularity_score": 306.2813625,
       "ai_summary": [
-        "NASA is emphasizing information about the interstellar comet 3I/ATLAS.",
-        "3I/ATLAS is the third extrasolar object identified by scientists.",
-        "The object's characteristics are being actively studied by researchers.",
-        "Scientists are gathering data to understand its composition and origin.",
-        "The comet's trajectory and behavior are under ongoing observation."
+        "A librarian was sued for sharing public YouTube videos.",
+        "The lawsuit ended with a settlement agreement.",
+        "The librarian vows to stop using invasive ed tech.",
+        "The case involved Proctorio, an ed tech company.",
+        "The settlement marks the end of a legal battle."
       ]
     },
     {
-      "id": "cluster_82",
+      "id": "cluster_89",
       "coverage": 1,
       "updated_at": "Wed, 19 Nov 2025 15:57:30 +0000",
       "title": "DeepMind’s latest: An AI for handling mathematical proofs",
@@ -452,26 +545,26 @@
           "title": "DeepMind’s latest: An AI for handling mathematical proofs",
           "standfirst": "AlphaProof can handle math challenges but needs a bit of help right now.",
           "content": "Computers are extremely good with numbers, but they haven’t gotten many human mathematicians fired. Until recently, they could barely hold their own in high school-level math competitions. But now Google’s DeepMind team has built AlphaProof, an AI system that matched silver medalists’ performance at the 2024 International Mathematical Olympiad, scoring just one point short of gold at the most prestigious undergrad math competition in the world. And that’s kind of a big deal. True understanding The reason computers fared poorly in math competitions is that, while they far surpass humanity’s ability to perform calculations, they are not really that good at the logic and reasoning that is needed for advanced math. Put differently, they are good at performing calculations really quickly, but they usually suck at understanding why they’re doing them. While something like addition seems simple, humans can do semi-formal proofs based on definitions of addition or go for fully formal Peano arithmetic that defines the properties of natural numbers and operations like addition through axioms.Read full article Comments",
-          "feed_position": 3,
+          "feed_position": 8,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-643999103-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-643999103-1152x648.jpg",
-      "popularity_score": 335.73230083333334,
+      "popularity_score": 281.2899736111111,
       "ai_summary": [
-        "DeepMind created AlphaProof, an AI for tackling mathematical proofs.",
-        "AlphaProof can solve complex math problems with some assistance.",
-        "The AI requires some human input to complete certain challenges.",
-        "The system is designed to automate aspects of mathematical reasoning.",
-        "AlphaProof represents a step forward in AI's mathematical capabilities."
+        "DeepMind has created an AI called AlphaProof.",
+        "AlphaProof is designed for mathematical proofs.",
+        "The AI can handle math challenges.",
+        "AlphaProof currently needs some human assistance.",
+        "The development represents progress in AI capabilities."
       ]
     },
     {
-      "id": "cluster_76",
+      "id": "cluster_85",
       "coverage": 1,
       "updated_at": "Wed, 19 Nov 2025 16:26:18 +0000",
       "title": "Celebrated game developer Rebecca Heineman dies at age 62",
-      "neutral_headline": "Celebrated Game Developer Rebecca Heineman Passes Away",
+      "neutral_headline": "Game Developer Rebecca Heineman Passes Away at Sixty-Two",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -483,88 +576,26 @@
           "title": "Celebrated game developer Rebecca Heineman dies at age 62",
           "standfirst": "The gaming community mourns a beloved mentor and LGBTQ+ advocate with a storied career.",
           "content": "On Monday, veteran game developer Rebecca Ann Heineman died in Rockwall, Texas, at age 62 after a battle with adenocarcinoma. Apogee founder Scott Miller first shared the news publicly on social media, and her son William confirmed her death with Ars Technica. Heineman’s GoFundMe page, which displayed a final message she had posted about entering palliative care, will now help her family with funeral costs. Rebecca “Burger Becky” Heineman was born in October 1963 and grew up in Whittier, California. She first gained national recognition in 1980 when she won the national Atari 2600 Space Invaders championship in New York at age 16, becoming the first formally recognized US video game champion. That victory launched a career spanning more than four decades and 67 credited games, according to MobyGames. Among many achievements in her life, Heineman was perhaps best known for co-founding Interplay Productions with Brian Fargo, Jay Patel, and Troy Worrell in 1983. The company created franchises like Wasteland, Fallout, and Baldur’s Gate. At Interplay, Heineman designed The Bard’s Tale III: Thief of Fate and Dragon Wars while also programming ports of classics like Wolfenstein 3D and Battle Chess.Read full article Comments",
-          "feed_position": 2,
+          "feed_position": 7,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/rebecca_heineman_1-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/rebecca_heineman_1-1152x648.jpg",
-      "popularity_score": 332.21230083333336,
+      "popularity_score": 277.7699736111111,
       "ai_summary": [
-        "Rebecca Heineman, a prominent game developer, has died at age 62.",
-        "The gaming community is mourning the loss of a respected figure.",
-        "Heineman was a mentor and advocate for the LGBTQ+ community.",
-        "She had a long and impactful career in the gaming industry.",
-        "Her contributions have left a lasting legacy in the field."
+        "Rebecca Heineman, a celebrated game developer, died at age sixty-two.",
+        "She was a beloved mentor and advocate within the gaming community.",
+        "Heineman had a long and impactful career in the video game industry.",
+        "Her contributions included work on numerous classic games.",
+        "The gaming community is mourning her loss and celebrating her legacy."
       ]
     },
     {
-      "id": "cluster_24",
-      "coverage": 1,
-      "updated_at": "Wed, 19 Nov 2025 21:25:24 +0000",
-      "title": "Massive Cloudflare outage was triggered by file that suddenly doubled in size",
-      "neutral_headline": "Cloudflare Outage Caused by File Size Increase",
-      "bullet_summary": [
-        "Reported by Ars Technica Main"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica Main",
-          "url": "https://arstechnica.com/tech-policy/2025/11/cloudflare-broke-much-of-the-internet-with-a-corrupted-bot-management-file/",
-          "published_at": "Wed, 19 Nov 2025 21:25:24 +0000",
-          "title": "Massive Cloudflare outage was triggered by file that suddenly doubled in size",
-          "standfirst": "\"I worry this is the big botnet flexing,\" CEO said. But outage was self-inflicted.",
-          "content": "When a Cloudflare outage disrupted large numbers of websites and online services yesterday, the company initially thought it was hit by a “hyper-scale” DDoS (distributed denial-of-service) attack. “I worry this is the big botnet flexing,” Cloudflare co-founder and CEO Matthew Prince wrote in an internal chat room yesterday, while he and others discussed whether Cloudflare was being hit by attacks from the prolific Aisuru botnet. But upon further investigation, Cloudflare staff realized the problem had an internal cause: an important file had unexpectedly doubled in size and propagated across the network. This caused trouble for software that needs to read the file to maintain the Cloudflare bot management system that uses a machine learning model to protect against security threats. Cloudflare’s core CDN, security services, and several other services were affected.Read full article Comments",
-          "feed_position": 2,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/cloudflare-error-1152x648-1763584433.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/cloudflare-error-1152x648-1763584433.jpg",
-      "popularity_score": 331.1973008333333,
-      "ai_summary": [
-        "A Cloudflare outage was triggered by a file that doubled in size.",
-        "The CEO expressed concern about potential botnet activity.",
-        "The outage was ultimately caused by an internal system issue.",
-        "The incident highlighted the vulnerability of the system.",
-        "The company has taken steps to prevent similar occurrences."
-      ]
-    },
-    {
-      "id": "cluster_25",
-      "coverage": 1,
-      "updated_at": "Wed, 19 Nov 2025 21:14:42 +0000",
-      "title": "Rocket Lab Electron among first artifacts installed in CA Science Center space gallery",
-      "neutral_headline": "Rocket Lab Electron Installed in California Science Center",
-      "bullet_summary": [
-        "Reported by Ars Technica Main"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica Main",
-          "url": "https://arstechnica.com/space/2025/11/rocket-lab-electron-among-first-artifacts-installed-in-ca-science-center-space-gallery/",
-          "published_at": "Wed, 19 Nov 2025 21:14:42 +0000",
-          "title": "Rocket Lab Electron among first artifacts installed in CA Science Center space gallery",
-          "standfirst": "Filling space in the Samuel Oschin Air and Space Center's Kent Kresa Space Gallery.",
-          "content": "It took the California Science Center more than three years to erect its new Samuel Oschin Air and Space Center, including stacking NASA’s space shuttle Endeavour for its launch pad-like display. Now the big work begins. “That’s completing the artifact installation and then installing the exhibits,” said Jeffrey Rudolph, president and CEO of the California Science Center in Los Angeles, in an interview. “Most of the exhibits are in fabrication in shops around the country and audio-visual production is underway. We’re full-on focused on exhibits now.”Read full article Comments",
-          "feed_position": 3,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/news-111825a-lg-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/news-111825a-lg-1152x648.jpg",
-      "popularity_score": 329.0189675,
-      "ai_summary": [
-        "A Rocket Lab Electron rocket is now displayed at the Science Center.",
-        "It is among the first artifacts installed in the new space gallery.",
-        "The rocket is part of the Samuel Oschin Air and Space Center.",
-        "The gallery is located at the California Science Center.",
-        "The exhibit aims to showcase advancements in space exploration."
-      ]
-    },
-    {
-      "id": "cluster_94",
+      "id": "cluster_98",
       "coverage": 1,
       "updated_at": "Wed, 19 Nov 2025 14:41:52 +0000",
       "title": "How Louvre thieves exploited human psychology to avoid suspicion—and what it reveals about AI",
-      "neutral_headline": "Louvre Thieves Exploited Psychology; AI Implications Explored",
+      "neutral_headline": "Louvre Thieves Exploit Psychology, Revealing AI Implications",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -576,208 +607,22 @@
           "title": "How Louvre thieves exploited human psychology to avoid suspicion—and what it reveals about AI",
           "standfirst": "For humans and AI, when something fits the category of “ordinary,” it slips from notice.",
           "content": "On a sunny morning on October 19 2025, four men allegedly walked into the world’s most-visited museum and left, minutes later, with crown jewels worth 88 million euros ($101 million). The theft from Paris’ Louvre Museum—one of the world’s most surveilled cultural institutions—took just under eight minutes. Visitors kept browsing. Security didn’t react (until alarms were triggered). The men disappeared into the city’s traffic before anyone realized what had happened. Investigators later revealed that the thieves wore hi-vis vests, disguising themselves as construction workers. They arrived with a furniture lift, a common sight in Paris’s narrow streets, and used it to reach a balcony overlooking the Seine. Dressed as workers, they looked as if they belonged. This strategy worked because we don’t see the world objectively. We see it through categories—through what we expect to see. The thieves understood the social categories that we perceive as “normal” and exploited them to avoid suspicion. Many artificial intelligence (AI) systems work in the same way and are vulnerable to the same kinds of mistakes as a result. The sociologist Erving Goffman would describe what happened at the Louvre using his concept of the presentation of self: people “perform” social roles by adopting the cues others expect. Here, the performance of normality became the perfect camouflage. The sociology of sight Humans carry out mental categorization all the time to make sense of people and places. When something fits the category of “ordinary,” it slips from notice. AI systems used for tasks such as facial recognition and detecting suspicious activity in a public area operate in a similar way. For humans, categorization is cultural. For AI, it is mathematical. But both systems rely on learned patterns rather than objective reality. Because AI learns from data about who looks “normal” and who looks “suspicious,” it absorbs the categories embedded in its training data. And this makes it susceptible to bias. The Louvre robbers weren’t seen as dangerous because they fit a trusted category. In AI, the same process can have the opposite effect: people who don’t fit the statistical norm become more visible and over-scrutinized. It can mean a facial recognition system disproportionately flags certain racial or gendered groups as potential threats while letting others pass unnoticed. A sociological lens helps us see that these aren’t separate issues. AI doesn’t invent its categories; it learns ours. When a computer vision system is trained on security footage where “normal” is defined by particular bodies, clothing, or behavior, it reproduces those assumptions. Just as the museum’s guards looked past the thieves because they appeared to belong, AI can look past certain patterns while overreacting to others. Categorization, whether human or algorithmic, is a double-edged sword. It helps us process information quickly, but it also encodes our cultural assumptions. Both people and machines rely on pattern recognition, which is an efficient but imperfect strategy. A sociological view of AI treats algorithms as mirrors: They reflect back our social categories and hierarchies. In the Louvre case, the mirror is turned toward us. The robbers succeeded not because they were invisible, but because they were seen through the lens of normality. In AI terms, they passed the classification test. From museum halls to machine learning This link between perception and categorization reveals something important about our increasingly algorithmic world. Whether it’s a guard deciding who looks suspicious or an AI deciding who looks like a “shoplifter,” the underlying process is the same: assigning people to categories based on cues that feel objective but are culturally learned. When an AI system is described as “biased,” this often means that it reflects those social categories too faithfully. The Louvre heist reminds us that these categories don’t just shape our attitudes, they shape what gets noticed at all. After the theft, France’s culture minister promised new cameras and tighter security. But no matter how advanced those systems become, they will still rely on categorization. Someone, or something, must decide what counts as “suspicious behavior.” If that decision rests on assumptions, the same blind spots will persist. The Louvre robbery will be remembered as one of Europe’s most spectacular museum thefts. The thieves succeeded because they mastered the sociology of appearance: They understood the categories of normality and used them as tools. And in doing so, they showed how both people and machines can mistake conformity for safety. Their success in broad daylight wasn’t only a triumph of planning. It was a triumph of categorical thinking, the same logic that underlies both human perception and artificial intelligence. The lesson is clear: Before we teach machines to see better, we must first learn to question how we see. Vincent Charles, Reader in AI for Business and Management Science, Queen’s University Belfast, and Tatiana Gherman, Associate Professor of AI for Business and Strategy, University of Northampton. This article is republished from The Conversation under a Creative Commons license. Read the original article. Read full article Comments",
-          "feed_position": 4,
+          "feed_position": 9,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2242090240-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2242090240-1152x648.jpg",
-      "popularity_score": 325.47174527777776,
+      "popularity_score": 271.02941805555554,
       "ai_summary": [
-        "Thieves at the Louvre used human psychology to avoid detection.",
-        "The article explores how this relates to AI systems.",
-        "Both humans and AI may overlook the \"ordinary.\"",
-        "The study examines how familiarity can lead to oversight.",
-        "The findings have implications for security and AI development."
+        "Thieves used human psychology to avoid suspicion at the Louvre.",
+        "The article explores how this relates to artificial intelligence.",
+        "Both humans and AI can overlook the \"ordinary\" and familiar.",
+        "This reveals vulnerabilities in security systems and perception.",
+        "The study highlights the importance of understanding human behavior."
       ]
     },
     {
-      "id": "cluster_29",
-      "coverage": 1,
-      "updated_at": "Wed, 19 Nov 2025 20:56:59 +0000",
-      "title": "He got sued for sharing public YouTube videos; nightmare ended in settlement",
-      "neutral_headline": "Librarian Settles Lawsuit Over Public YouTube Video Sharing",
-      "bullet_summary": [
-        "Reported by Ars Technica Main"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica Main",
-          "url": "https://arstechnica.com/tech-policy/2025/11/proctorio-settles-curious-lawsuit-with-librarian-who-shared-public-youtube-videos/",
-          "published_at": "Wed, 19 Nov 2025 20:56:59 +0000",
-          "title": "He got sued for sharing public YouTube videos; nightmare ended in settlement",
-          "standfirst": "Librarian vows to stop invasive ed tech after ending lawsuit with Proctorio.",
-          "content": "Nobody expects to get sued for re-posting a YouTube video on social media by using the “share” button, but librarian Ian Linkletter spent the past five years embroiled in a copyright fight after doing just that. Now that a settlement has been reached, Linkletter told Ars why he thinks his 2020 tweets sharing public YouTube videos put a target on his back. Linkletter’s legal nightmare started in 2020 after an education technology company, Proctorio, began monitoring student backlash on Reddit over its AI tool used to remotely scan rooms, identify students, and prevent cheating on exams. On Reddit, students echoed serious concerns raised by researchers, warning of privacy issues, racist and sexist biases, and barriers to students with disabilities.Read full article Comments",
-          "feed_position": 4,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Ian-Linkletter-via-Ashley-Linkletter-1152x648.jpeg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Ian-Linkletter-via-Ashley-Linkletter-1152x648.jpeg",
-      "popularity_score": 310.7236897222222,
-      "ai_summary": [
-        "A librarian settled a lawsuit related to sharing YouTube videos.",
-        "The lawsuit involved the use of invasive educational technology.",
-        "The librarian plans to stop using the technology.",
-        "The case highlights concerns about data privacy.",
-        "The settlement marks the end of a legal battle."
-      ]
-    },
-    {
-      "id": "cluster_97",
-      "coverage": 1,
-      "updated_at": "Wed, 19 Nov 2025 14:00:00 +0000",
-      "title": "Twin suction turbines and 3-Gs in slow corners? Meet the DRG-Lola.",
-      "neutral_headline": "DRG-Lola Concept Features Twin Turbines and 3-Gs",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2025/11/an-electric-car-thats-faster-than-f1-around-monaco-thats-the-idea/",
-          "published_at": "Wed, 19 Nov 2025 14:00:00 +0000",
-          "title": "Twin suction turbines and 3-Gs in slow corners? Meet the DRG-Lola.",
-          "standfirst": "The concept is meant to inspire the next generation of electric single-seaters.",
-          "content": "We’re in something of a purple patch if you’re a fan of clever new technology in single-seat race cars. Out in the Middle East, the autonomous A2RL crew held another race at Yas Marina, one that by all accounts was a lot more impressive than the last time the self-driving race cars competed against a human. Formula E teams are getting ready for the debut next year of their Gen4 era, which sees cars with real downforce and almost twice as much power. Meanwhile, we only have a few months left before we see the results of F1’s new technical rules change, as the sport adopts far more powerful electrical propulsion and active aerodynamics. But what if there was an electric single-seater that was faster around a track than any of these? That’s the idea behind the DRG-Lola, a racing concept designed from the ground up by Lola Cars, the storied-now-reborn British race car manufacturer, and Lucas di Grassi, veteran of the hybrid LMP1 sportscar days and FIA Formula E champion. Di Grassi is one of the more thoughtful racing drivers out there and is a passionate advocate of clean technologies in racing—in 2020 he shared his earlier thoughts on where Formula E could take its technical direction. The DRG-Lola is much closer to reality than that 2020 concept; di Grassi has relied on existing battery and motor technology, rather than some uninvented unobtanium to make it all work. It generates 804 hp (600 kW) from a pair of electric motors driving the front and rear axles and is powered by a 60 kWh battery pack that’s arranged in modules on either side of the driver’s cockpit.Read full article Comments",
-          "feed_position": 5,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/DGR-05-night-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/DGR-05-night-1152x648.jpg",
-      "popularity_score": 293.7739675,
-      "ai_summary": [
-        "The DRG-Lola concept car features twin suction turbines.",
-        "The car is designed to handle 3-Gs in slow corners.",
-        "The concept aims to inspire future electric single-seater designs.",
-        "The design incorporates innovative aerodynamic features.",
-        "The car's design is intended to push the boundaries of technology."
-      ]
-    },
-    {
-      "id": "cluster_103",
-      "coverage": 1,
-      "updated_at": "Wed, 19 Nov 2025 12:30:59 +0000",
-      "title": "OnePlus 15 review: The end of range anxiety",
-      "neutral_headline": "OnePlus 15 Review: Addressing Range Anxiety Concerns",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2025/11/oneplus-15-review-the-end-of-range-anxiety/",
-          "published_at": "Wed, 19 Nov 2025 12:30:59 +0000",
-          "title": "OnePlus 15 review: The end of range anxiety",
-          "standfirst": "OnePlus delivers its second super-fast phone of 2025.",
-          "content": "OnePlus got its start courting the enthusiast community by offering blazing-fast phones for a low price. While the prices aren’t quite as low as they once were, the new OnePlus 15 still delivers on value. Priced at $899, this phone sports the latest and most powerful Snapdragon processor, the largest battery in a mainstream smartphone, and a super-fast screen. The OnePlus 15 still doesn’t deliver the most satisfying software experience, and the camera may actually be a step back for the company, but the things OnePlus gets right are very right. It’s a fast, sleek phone that runs for ages on a charge, and it’s a little cheaper than the competition. But its shortcomings make it hard to recommend this device over the latest from Google or Samsung—or even the flagship phone OnePlus released 10 months ago. US buyers have time to mull it over, though. Because of the recent government shutdown, Federal Communications Commission approval of the OnePlus 15 has been delayed. The company says it will release the phone as soon as it can, but there’s no exact date yet.Read full article Comments",
-          "feed_position": 6,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/OnePlus-15-4-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/OnePlus-15-4-1152x648.jpg",
-      "popularity_score": 290.2903563888889,
-      "ai_summary": [
-        "The OnePlus 15 phone is reviewed, focusing on battery life.",
-        "The phone is the second super-fast phone released in 2025.",
-        "The review highlights the phone's performance.",
-        "The phone aims to alleviate range anxiety for users.",
-        "The device offers improvements in battery technology."
-      ]
-    },
-    {
-      "id": "cluster_117",
-      "coverage": 1,
-      "updated_at": "Tue, 18 Nov 2025 22:42:07 +0000",
-      "title": "GOP overhaul of broadband permit laws: Cities hate it, cable companies love it",
-      "neutral_headline": "GOP Broadband Permit Law Overhaul Faces Opposition",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2025/11/gop-overhaul-of-broadband-permit-laws-cities-hate-it-cable-companies-love-it/",
-          "published_at": "Tue, 18 Nov 2025 22:42:07 +0000",
-          "title": "GOP overhaul of broadband permit laws: Cities hate it, cable companies love it",
-          "standfirst": "Cities and counties call congressional plan an \"unprecedented federal intrusion.\"",
-          "content": "Congressional Republicans angered local government leaders with a plan for what local groups call an “unprecedented federal intrusion” into how municipalities issue permits for construction of broadband networks. The Republican plan drew rave reviews from cable lobby groups, however. A House subcommittee moved ahead with the plan today despite the opposition from local leaders and criticism from congressional Democrats. Under the bills, some kinds of local telecom projects would be approved automatically if a city or town doesn’t rule within a deadline set by Congress. “These bills represent an unprecedented federal intrusion into established local decision-making processes, favoring large broadband, telecommunications, wireless, and cable companies at the expense of residents and taxpayers,” four groups representing local leaders wrote in a letter to US lawmakers. “These bills strip local governments of the ability to effectively manage the infrastructure built on local streets and in neighborhoods, while imposing no reciprocal obligations on providers.”Read full article Comments",
-          "feed_position": 7,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-network-map-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-network-map-1152x648.jpg",
-      "popularity_score": 263,
-      "ai_summary": [
-        "A GOP plan to overhaul broadband permit laws is facing criticism.",
-        "Cities and counties oppose the congressional proposal.",
-        "Cable companies generally support the proposed changes.",
-        "The plan is described as an unprecedented federal intrusion.",
-        "The debate centers on control over broadband infrastructure."
-      ]
-    },
-    {
-      "id": "cluster_118",
-      "coverage": 1,
-      "updated_at": "Tue, 18 Nov 2025 22:27:24 +0000",
-      "title": "Faced with naked man, DoorDasher demands police action; they arrest her for illegal surveillance",
-      "neutral_headline": "DoorDasher Arrested After Filming Naked Man",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2025/11/doordasher-claims-sexual-assault-but-cops-arrest-her-for-filming-nude-drunk-man/",
-          "published_at": "Tue, 18 Nov 2025 22:27:24 +0000",
-          "title": "Faced with naked man, DoorDasher demands police action; they arrest her for illegal surveillance",
-          "standfirst": "Two felony charges for filming man inside his house.",
-          "content": "Last month, a DoorDash driver in upstate New York delivered an item to a local house in Oswego—only to find the front door open and a man apparently unconscious or asleep on a couch in the front room. The man was also quite naked, with pants and underwear around his ankles, and he was fully visible from the porch. The DoorDasher was a 23-year-old woman named Olivia Henderson, and she felt like the whole situation was some kind of creepy exploitation play. Was this guy purposely exposing himself to her? Was he even asleep? Should she have to endure the sight of random male genitalia just to make a few bucks? She did not think so, and she decided to do something about it. Henderson filmed the man from outside the home, and she later posted the video on TikTok to shame him. Naturally, it went viral.Read full article Comments",
-          "feed_position": 8,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/henderson-1086x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/henderson-1086x648.jpg",
-      "popularity_score": 253,
-      "ai_summary": [
-        "A DoorDasher was arrested after filming a naked man.",
-        "The DoorDasher demanded police action after the incident.",
-        "She faces two felony charges for illegal surveillance.",
-        "The incident raises questions about privacy and security.",
-        "The case is currently under legal review."
-      ]
-    },
-    {
-      "id": "cluster_119",
-      "coverage": 1,
-      "updated_at": "Tue, 18 Nov 2025 22:01:57 +0000",
-      "title": "CDC data confirms US is 2 months away from losing measles elimination status",
-      "neutral_headline": "CDC Data Indicates Measles Elimination Status at Risk",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/health/2025/11/cdc-data-confirms-us-is-2-months-away-from-losing-measles-elimination-status/",
-          "published_at": "Tue, 18 Nov 2025 22:01:57 +0000",
-          "title": "CDC data confirms US is 2 months away from losing measles elimination status",
-          "standfirst": "Elimination status is lost if the virus spreads continuously for 12 months.",
-          "content": "Federal health officials have linked two massive US measles outbreaks, confirming that the country is about two months away from losing its measles elimination status, according to a report by The New York Times. The Times obtained a recording of a call during which officials from the Centers for Disease Control and Prevention confirmed to state health departments that the ongoing measles outbreak at the border of Arizona and Utah is a continuation of the explosive outbreak in West Texas that began in mid- to late-January. That is, the two massive outbreaks are being caused by the same subtype of measles virus. This is a significant link that hasn’t previously been reported despite persistent questions from journalists and concerns from health experts, particularly in light of Canada losing its elimination status last week. The loss of an elimination status means that measles will once again be considered endemic to the US, an embarrassing public health backslide for a vaccine-preventable disease.Read full article Comments",
-          "feed_position": 9,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2201702057-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2201702057-1152x648.jpg",
-      "popularity_score": 243,
-      "ai_summary": [
-        "CDC data confirms the US is close to losing measles elimination status.",
-        "Elimination status is lost if the virus spreads for 12 months.",
-        "The data indicates a potential resurgence of the disease.",
-        "Public health officials are monitoring the situation closely.",
-        "The focus is on preventing further spread of measles."
-      ]
-    },
-    {
-      "id": "cluster_122",
+      "id": "cluster_126",
       "coverage": 1,
       "updated_at": "Tue, 18 Nov 2025 19:28:14 +0000",
       "title": "Microsoft tries to head off the “novel security risks” of Windows 11 AI agents",
@@ -793,88 +638,26 @@
           "title": "Microsoft tries to head off the “novel security risks” of Windows 11 AI agents",
           "standfirst": "Agents with read/write access to your files create big security, privacy issues.",
           "content": "Microsoft has been adding AI features to Windows 11 for years, but things have recently entered a new phase, with both generative and so-called “agentic” AI features working their way deeper into the bedrock of the operating system. A new build of Windows 11 released to Windows Insider Program testers yesterday includes a new “experimental agentic features” toggle in the Settings to support a feature called Copilot Actions, and Microsoft has published a detailed support article detailing more about just how those “experimental agentic features” will work. If you’re not familiar, “agentic” is a buzzword that Microsoft has used repeatedly to describe its future ambitions for Windows 11—in plainer language, these agents are meant to accomplish assigned tasks in the background, allowing the user’s attention to be turned elsewhere. Microsoft says it wants agents to be capable of “everyday tasks like organizing files, scheduling meetings, or sending emails,” and that Copilot Actions should give you “an active digital collaborator that can carry out complex tasks for you to enhance efficiency and productivity.” But like other kinds of AI, these agents can be prone to error and confabulations and will often proceed as if they know what they’re doing even when they don’t. They also present, in Microsoft’s own words, “novel security risks,” mostly related to what can happen if an attacker is able to give instructions to one of these agents. As a result, Microsoft’s implementation walks a tightrope between giving these agents access to your files and cordoning them off from the rest of the system.Read full article Comments",
-          "feed_position": 12,
+          "feed_position": 17,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/MSFT_Holiday_copilot_Card_1-1152x648-1763493467.jpeg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/MSFT_Holiday_copilot_Card_1-1152x648-1763493467.jpeg",
       "popularity_score": 170,
       "ai_summary": [
-        "Microsoft is addressing security risks associated with Windows 11 AI agents.",
-        "Agents with read/write access to files pose security threats.",
-        "The company is working to mitigate privacy concerns.",
-        "The focus is on protecting user data and system integrity.",
-        "The changes aim to improve the security of AI features."
+        "Microsoft is working to mitigate security risks of Windows 11 AI agents.",
+        "AI agents with file access create security and privacy concerns.",
+        "The company is addressing potential vulnerabilities in the system.",
+        "These agents could potentially compromise user data and privacy.",
+        "Microsoft aims to balance AI functionality with user protection."
       ]
     },
     {
-      "id": "cluster_129",
-      "coverage": 1,
-      "updated_at": "Tue, 18 Nov 2025 16:32:58 +0000",
-      "title": "Google CEO: If an AI bubble pops, no one is getting out clean",
-      "neutral_headline": "Google CEO Warns of AI Bubble Burst Consequences",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2025/11/googles-sundar-pichai-warns-of-irrationality-in-trillion-dollar-ai-investment-boom/",
-          "published_at": "Tue, 18 Nov 2025 16:32:58 +0000",
-          "title": "Google CEO: If an AI bubble pops, no one is getting out clean",
-          "standfirst": "Sundar Pichai says no company is immune if AI bubble bursts, echoing dotcom fears.",
-          "content": "On Tuesday, Alphabet CEO Sundar Pichai warned of “irrationality” in the AI market, telling the BBC in an interview, “I think no company is going to be immune, including us.” His comments arrive as scrutiny over the state of the AI market has reached new heights, with Alphabet shares doubling in value over seven months to reach a $3.5 trillion market capitalization. Speaking exclusively to the BBC at Google’s California headquarters, Pichai acknowledged that while AI investment growth is at an “extraordinary moment,” the industry can “overshoot” in investment cycles, as we’re seeing now. He drew comparisons to the late 1990s Internet boom, which saw early Internet company valuations surge before collapsing in 2000, leading to bankruptcies and job losses. “We can look back at the Internet right now. There was clearly a lot of excess investment, but none of us would question whether the Internet was profound,” Pichai said. “I expect AI to be the same. So I think it’s both rational and there are elements of irrationality through a moment like this.”Read full article Comments",
-          "feed_position": 15,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Sundar-IO-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Sundar-IO-1152x648.jpg",
-      "popularity_score": 160,
-      "ai_summary": [
-        "Google CEO Sundar Pichai discusses the potential for an AI bubble.",
-        "He states that no company would be immune to a burst.",
-        "He draws parallels to the dotcom bubble of the past.",
-        "The warning highlights the risks of over-investment.",
-        "The statement emphasizes the need for caution in AI development."
-      ]
-    },
-    {
-      "id": "cluster_130",
-      "coverage": 1,
-      "updated_at": "Tue, 18 Nov 2025 16:08:56 +0000",
-      "title": "Google unveils Gemini 3 AI model and AI-first IDE called Antigravity",
-      "neutral_headline": "Google Releases Gemini 3 AI Model and Antigravity IDE",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/google/2025/11/google-unveils-gemini-3-ai-model-and-ai-first-ide-called-antigravity/",
-          "published_at": "Tue, 18 Nov 2025 16:08:56 +0000",
-          "title": "Google unveils Gemini 3 AI model and AI-first IDE called Antigravity",
-          "standfirst": "Google's flagship AI model is getting its second major upgrade this year.",
-          "content": "Google has kicked its Gemini rollout into high gear over the past year, releasing the much-improved Gemini 2.5 family and cramming various flavors of the model into Search, Gmail, and just about everything else the company makes. Now, Google’s increasingly unavoidable AI is getting an upgrade. Gemini 3 Pro is available in a limited form today, featuring more immersive, visual outputs and fewer lies, Google says. The company also says Gemini 3 sets a new high-water mark for vibe coding, and Google is announcing a new AI-first integrated development environment (IDE) called Antigravity, which is also available today. The first member of the Gemini 3 family Google says the release of Gemini 3 is yet another step toward artificial general intelligence (AGI). The new version of Google’s flagship AI model has expanded simulated reasoning abilities and shows improved understanding of text, images, and video. So far, testers like it—Google’s latest LLM is once again atop the LMArena leaderboard with an ELO score of 1,501, besting Gemini 2.5 Pro by 50 points.Read full article Comments",
-          "feed_position": 16,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Gemini-3-1152x648.png"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Gemini-3-1152x648.png",
-      "popularity_score": 160,
-      "ai_summary": [
-        "Google launched Gemini 3, its second major AI model upgrade this year.",
-        "The company also introduced Antigravity, an AI-first integrated development environment.",
-        "Gemini 3 aims to improve performance and capabilities in various applications.",
-        "Antigravity is designed to streamline the software development process.",
-        "Google continues to invest heavily in artificial intelligence research and development."
-      ]
-    },
-    {
-      "id": "cluster_121",
+      "id": "cluster_125",
       "coverage": 1,
       "updated_at": "Tue, 18 Nov 2025 20:37:04 +0000",
       "title": "Tech giants pour billions into Anthropic as circular AI investments roll on",
-      "neutral_headline": "Tech Companies Invest Billions in Anthropic AI Development",
+      "neutral_headline": "Tech Giants Invest Billions in Anthropic AI Development",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -886,26 +669,26 @@
           "title": "Tech giants pour billions into Anthropic as circular AI investments roll on",
           "standfirst": "ChatGPT competitor secures billions from Microsoft and Nvidia in deal to use cloud services and chips.",
           "content": "On Tuesday, Microsoft and Nvidia announced plans to invest in Anthropic under a new partnership that includes a $30 billion commitment by the Claude maker to use Microsoft’s cloud services. Nvidia will commit up to $10 billion to Anthropic and Microsoft up to $5 billion, with both companies investing in Anthropic’s next funding round. The deal brings together two companies that have backed OpenAI and connects them more closely to one of the ChatGPT maker’s main competitors. Microsoft CEO Satya Nadella said in a video that OpenAI “remains a critical partner,” while adding that the companies will increasingly be customers of each other. “We will use Anthropic models, they will use our infrastructure, and we’ll go to market together,” Nadella said.Read full article Comments",
-          "feed_position": 11,
+          "feed_position": 16,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/triple_people-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/triple_people-1152x648.jpg",
       "popularity_score": 148,
       "ai_summary": [
-        "Anthropic, a ChatGPT competitor, secured billions in funding from Microsoft and Nvidia.",
-        "The investment allows Anthropic to utilize Microsoft's cloud services and Nvidia's chips.",
-        "This deal highlights the ongoing trend of circular investments within the AI industry.",
-        "Microsoft and Nvidia are seeking to strengthen their positions in the AI market.",
-        "Anthropic plans to use the funds to further develop its AI models and services."
+        "Tech companies are investing heavily in Anthropic, an AI competitor.",
+        "Microsoft and Nvidia are providing billions in funding.",
+        "The deal involves cloud services and chip usage for Anthropic.",
+        "This investment fuels the ongoing AI development race.",
+        "Anthropic is developing AI models to compete with ChatGPT."
       ]
     },
     {
-      "id": "cluster_126",
+      "id": "cluster_130",
       "coverage": 1,
       "updated_at": "Tue, 18 Nov 2025 18:38:09 +0000",
       "title": "The Analogue 3D is the modern N64 fans have been waiting for",
-      "neutral_headline": "Analogue 3D Console Offers Modern N64 Gaming Experience",
+      "neutral_headline": "Analogue 3D Console Aims to Revive N64 Experience",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -917,57 +700,57 @@
           "title": "The Analogue 3D is the modern N64 fans have been waiting for",
           "standfirst": "Excellent design and display filters, but the lack of OpenFPGA support rankles.",
           "content": "If you’ve ever tried to hook an old Nintendo 64 up to a modern HDTV, you know the results can be less than ideal. Assuming your original hardware still works and your flatscreen even has the requisite R/F and/or composite inputs to allow for the connection, the N64’s output will probably look like a blurry mess on a flatscreen that wasn’t designed with those old video signals as a priority. The Analogue 3D solves this very specific problem very well, with a powerful FPGA core that accurately replicates a Nintendo 64 and well-made display filters that do a good job of approximating that cathode-ray tube glow you remember from decades ago. But the lack of easy expandability limits the appeal of this $250 device to all but the most die-hard fans of original N64 hardware. A beauty to behold As a piece of physical design, the Analogue 3D is a work of art. The gentle curves of its sleek black shell evoke the original N64 design without copying it, coming in at a slightly smaller footprint and height. Plus, there’s no ugly power brick.Read full article Comments",
-          "feed_position": 13,
+          "feed_position": 18,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/IMG_8465-1152x648-1763486800.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/IMG_8465-1152x648-1763486800.jpg",
       "popularity_score": 148,
       "ai_summary": [
-        "The Analogue 3D console provides a modern way to play Nintendo 64 games.",
-        "It features excellent design and display filters for enhanced visual quality.",
-        "The console lacks OpenFPGA support, which may disappoint some users.",
-        "OpenFPGA allows for broader compatibility with different game cartridges.",
-        "The Analogue 3D aims to provide a premium retro gaming experience."
+        "The Analogue 3D console is designed for N64 fans.",
+        "It features excellent design and display filters for enhanced visuals.",
+        "The console lacks OpenFPGA support, which is a drawback.",
+        "OpenFPGA allows for broader game compatibility and customization.",
+        "The console aims to provide a modern N64 gaming experience."
       ]
     },
     {
-      "id": "cluster_135",
+      "id": "cluster_107",
       "coverage": 1,
-      "updated_at": "Tue, 18 Nov 2025 15:25:19 +0000",
-      "title": "Ryan Gosling must save dying stars in Project Hail Mary trailer",
-      "neutral_headline": "Project Hail Mary Trailer Features Ryan Gosling in Space",
+      "updated_at": "Wed, 19 Nov 2025 12:30:59 +0000",
+      "title": "OnePlus 15 review: The end of range anxiety",
+      "neutral_headline": "OnePlus 15 Review: Addressing Range Anxiety in Smartphones",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/culture/2025/11/stranded-astronaut-finds-an-alien-ally-in-project-hail-mary-trailer/",
-          "published_at": "Tue, 18 Nov 2025 15:25:19 +0000",
-          "title": "Ryan Gosling must save dying stars in Project Hail Mary trailer",
-          "standfirst": "\"The consensus here is that it would be preferable if you did not die.\"",
-          "content": "The big holiday releases are still waiting in the wings, but it’s not too soon to look forward to what’s coming in 2026. Amazon MGM Studios has released a new trailer for its forthcoming space odyssey Project Hail Mary, which is based on Andy Weir’s (The Martian) bestselling 2021 novel about an amnesiac biologist-turned-schoolteacher in space. Weir told The New York Times that the inspiration for his novel came from a planned multi-book space opera called Zhek that he began writing after The Martian, about a potential fuel for interstellar travel. He eventually abandoned that effort and wrote the 2017 novel, Artemis, instead, but aspects of Zhek found their way into the Project Hail Mary novel. As we’ve previously reported, Amazon MGM Studios acquired the rights for Weir’s novel before it was even published and brought on Drew Goddard to write the screenplay. (Goddard also wrote the adapted screenplay for The Martian, so he’s an excellent choice.) The studio tapped Phil Lord and Christopher Miller (Cloudy with a Chance of Meatballs, The LEGO Movie) to direct and signed on Ryan Gosling to star. Per the official premise:Read full article Comments",
-          "feed_position": 17,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/hailmary1-1152x648.jpg"
+          "url": "https://arstechnica.com/gadgets/2025/11/oneplus-15-review-the-end-of-range-anxiety/",
+          "published_at": "Wed, 19 Nov 2025 12:30:59 +0000",
+          "title": "OnePlus 15 review: The end of range anxiety",
+          "standfirst": "OnePlus delivers its second super-fast phone of 2025.",
+          "content": "OnePlus got its start courting the enthusiast community by offering blazing-fast phones for a low price. While the prices aren’t quite as low as they once were, the new OnePlus 15 still delivers on value. Priced at $899, this phone sports the latest and most powerful Snapdragon processor, the largest battery in a mainstream smartphone, and a super-fast screen. The OnePlus 15 still doesn’t deliver the most satisfying software experience, and the camera may actually be a step back for the company, but the things OnePlus gets right are very right. It’s a fast, sleek phone that runs for ages on a charge, and it’s a little cheaper than the competition. But its shortcomings make it hard to recommend this device over the latest from Google or Samsung—or even the flagship phone OnePlus released 10 months ago. US buyers have time to mull it over, though. Because of the recent government shutdown, Federal Communications Commission approval of the OnePlus 15 has been delayed. The company says it will release the phone as soon as it can, but there’s no exact date yet.Read full article Comments",
+          "feed_position": 11,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/OnePlus-15-4-1152x648.jpg"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/hailmary1-1152x648.jpg",
-      "popularity_score": 148,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/OnePlus-15-4-1152x648.jpg",
+      "popularity_score": 145.84802916666666,
       "ai_summary": [
-        "The trailer for Project Hail Mary features actor Ryan Gosling in a starring role.",
-        "The film's plot involves saving dying stars in a space-based scenario.",
-        "The trailer includes the line, \"It would be preferable if you did not die.\"",
-        "Project Hail Mary is based on the novel of the same name.",
-        "The film is expected to be a science fiction thriller."
+        "OnePlus delivers its second super-fast phone of 2025.",
+        "The phone aims to alleviate concerns about battery life.",
+        "It offers fast charging capabilities for user convenience.",
+        "The review focuses on the phone's battery performance.",
+        "OnePlus is focusing on improving the user experience."
       ]
     },
     {
-      "id": "cluster_127",
+      "id": "cluster_131",
       "coverage": 1,
       "updated_at": "Tue, 18 Nov 2025 18:37:23 +0000",
       "title": "Bonkers Bitcoin heist: 5-star hotels, cash-filled envelopes, vanishing funds",
-      "neutral_headline": "Bitcoin Mining Executive Victim of Sophisticated Crypto Scam",
+      "neutral_headline": "Bitcoin Mining Executive Falls Victim to Crypto Scam",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -979,57 +762,150 @@
           "title": "Bonkers Bitcoin heist: 5-star hotels, cash-filled envelopes, vanishing funds",
           "standfirst": "Bitcoin mining hardware exec falls for sophisticated crypto scam to tune of $200k",
           "content": "As Kent Halliburton stood in a bathroom at the Rosewood Hotel in central Amsterdam, thousands of miles from home, running his fingers through an envelope filled with 10,000 euros in crisp banknotes, he started to wonder what he had gotten himself into. Halliburton is the cofounder and CEO of Sazmining, a company that operates bitcoin mining hardware on behalf of clients—a model known as “mining-as-a-service.” Halliburton is based in Peru, but Sazmining runs mining hardware out of third-party data centers across Norway, Paraguay, Ethiopia, and the United States. As Halliburton tells it, he had flown to Amsterdam the previous day, August 5, to meet Even and Maxim, two representatives of a wealthy Monaco-based family. The family office had offered to purchase hundreds of bitcoin mining rigs from Sazmining—around $4 million worth—which the company would install at a facility currently under construction in Ethiopia. Before finalizing the deal, the family office had asked to meet Halliburton in person.Read full article Comments",
-          "feed_position": 14,
+          "feed_position": 19,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1321675861-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1321675861-1152x648.jpg",
       "popularity_score": 141,
       "ai_summary": [
-        "A Bitcoin mining hardware executive was scammed out of $200,000.",
-        "The scam involved five-star hotels, cash-filled envelopes, and vanishing funds.",
-        "The executive fell for a sophisticated cryptocurrency fraud scheme.",
-        "The details of the scam suggest a high level of planning and execution.",
-        "The incident highlights the risks associated with cryptocurrency investments."
+        "A Bitcoin mining hardware executive was scammed.",
+        "The scam involved sophisticated tactics and deception.",
+        "The executive lost approximately two hundred thousand dollars.",
+        "The scam included five-star hotels and cash-filled envelopes.",
+        "The funds ultimately vanished after the scam."
       ]
     },
     {
-      "id": "cluster_137",
+      "id": "cluster_101",
       "coverage": 1,
-      "updated_at": "Tue, 18 Nov 2025 15:10:49 +0000",
-      "title": "Tesla safety driver falls asleep during passenger’s robotaxi ride",
-      "neutral_headline": "Tesla Safety Driver Sleeps During Robotaxi Ride",
+      "updated_at": "Wed, 19 Nov 2025 14:00:00 +0000",
+      "title": "Twin suction turbines and 3-Gs in slow corners? Meet the DRG-Lola.",
+      "neutral_headline": "DRG-Lola Concept Car Features Twin Turbines",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2025/11/tesla-safety-driver-falls-asleep-during-passengers-robotaxi-ride/",
-          "published_at": "Tue, 18 Nov 2025 15:10:49 +0000",
-          "title": "Tesla safety driver falls asleep during passenger’s robotaxi ride",
-          "standfirst": "A Reddit user posted video of his safety driver sleeping at the wheel in San Fransisco.",
-          "content": "As Tesla’s profits shrink and its model lineup continues to age, the company remains focused on establishing new lines of business. Tesla CEO Elon Musk says there’s not much his Optimus robots won’t be able to do in the future—following people around to prevent them from committing crimes is the latest—despite the technology not quite existing yet. Musk’s robotaxis are a little closer to reality, with a kind of limited service being offered in Austin, Texas, as well as parts of San Francisco. But Tesla might need to rethink its approach to safety drivers after a Tesla rideshare passenger in San Francisco took to Reddit to share a video of the operator asleep in the driver’s seat. In fact, the safety driver fell asleep three times during the ride, which took place a little over a week ago, according to Reddit user ohmichael. In his post, which contains a 12-second clip of a man sleeping and then waking in the front seat of a moving Tesla, the poster says he contacted Tesla to report this behavior but never heard back.Read full article Comments",
-          "feed_position": 18,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/IMG_0422-1152x648-1763477486.png"
+          "url": "https://arstechnica.com/cars/2025/11/an-electric-car-thats-faster-than-f1-around-monaco-thats-the-idea/",
+          "published_at": "Wed, 19 Nov 2025 14:00:00 +0000",
+          "title": "Twin suction turbines and 3-Gs in slow corners? Meet the DRG-Lola.",
+          "standfirst": "The concept is meant to inspire the next generation of electric single-seaters.",
+          "content": "We’re in something of a purple patch if you’re a fan of clever new technology in single-seat race cars. Out in the Middle East, the autonomous A2RL crew held another race at Yas Marina, one that by all accounts was a lot more impressive than the last time the self-driving race cars competed against a human. Formula E teams are getting ready for the debut next year of their Gen4 era, which sees cars with real downforce and almost twice as much power. Meanwhile, we only have a few months left before we see the results of F1’s new technical rules change, as the sport adopts far more powerful electrical propulsion and active aerodynamics. But what if there was an electric single-seater that was faster around a track than any of these? That’s the idea behind the DRG-Lola, a racing concept designed from the ground up by Lola Cars, the storied-now-reborn British race car manufacturer, and Lucas di Grassi, veteran of the hybrid LMP1 sportscar days and FIA Formula E champion. Di Grassi is one of the more thoughtful racing drivers out there and is a passionate advocate of clean technologies in racing—in 2020 he shared his earlier thoughts on where Formula E could take its technical direction. The DRG-Lola is much closer to reality than that 2020 concept; di Grassi has relied on existing battery and motor technology, rather than some uninvented unobtanium to make it all work. It generates 804 hp (600 kW) from a pair of electric motors driving the front and rear axles and is powered by a 60 kWh battery pack that’s arranged in modules on either side of the driver’s cockpit.Read full article Comments",
+          "feed_position": 10,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/DGR-05-night-1152x648.jpg"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/IMG_0422-1152x648-1763477486.png",
-      "popularity_score": 139,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/DGR-05-night-1152x648.jpg",
+      "popularity_score": 139.33164027777778,
       "ai_summary": [
-        "A Tesla safety driver was caught sleeping at the wheel during a robotaxi ride.",
-        "A Reddit user posted a video of the incident in San Francisco.",
-        "The safety driver was responsible for monitoring the autonomous system.",
-        "The incident raises concerns about the safety of robotaxi operations.",
-        "Tesla is facing increased scrutiny regarding its autonomous driving technology."
+        "The DRG-Lola concept car features twin suction turbines.",
+        "It is designed to inspire the next generation of electric racers.",
+        "The car is intended to handle slow corners with high G-forces.",
+        "The concept car is a design for electric single-seaters.",
+        "The design aims to push the boundaries of electric vehicle technology."
       ]
     },
     {
-      "id": "cluster_120",
+      "id": "cluster_121",
+      "coverage": 1,
+      "updated_at": "Tue, 18 Nov 2025 22:42:07 +0000",
+      "title": "GOP overhaul of broadband permit laws: Cities hate it, cable companies love it",
+      "neutral_headline": "GOP Proposes Overhaul of Broadband Permit Laws",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2025/11/gop-overhaul-of-broadband-permit-laws-cities-hate-it-cable-companies-love-it/",
+          "published_at": "Tue, 18 Nov 2025 22:42:07 +0000",
+          "title": "GOP overhaul of broadband permit laws: Cities hate it, cable companies love it",
+          "standfirst": "Cities and counties call congressional plan an \"unprecedented federal intrusion.\"",
+          "content": "Congressional Republicans angered local government leaders with a plan for what local groups call an “unprecedented federal intrusion” into how municipalities issue permits for construction of broadband networks. The Republican plan drew rave reviews from cable lobby groups, however. A House subcommittee moved ahead with the plan today despite the opposition from local leaders and criticism from congressional Democrats. Under the bills, some kinds of local telecom projects would be approved automatically if a city or town doesn’t rule within a deadline set by Congress. “These bills represent an unprecedented federal intrusion into established local decision-making processes, favoring large broadband, telecommunications, wireless, and cable companies at the expense of residents and taxpayers,” four groups representing local leaders wrote in a letter to US lawmakers. “These bills strip local governments of the ability to effectively manage the infrastructure built on local streets and in neighborhoods, while imposing no reciprocal obligations on providers.”Read full article Comments",
+          "feed_position": 12,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-network-map-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-network-map-1152x648.jpg",
+      "popularity_score": 133,
+      "ai_summary": [
+        "The GOP is proposing changes to broadband permit laws.",
+        "Cities and counties oppose the proposed changes.",
+        "Cable companies generally support the proposed changes.",
+        "Cities call the plan an \"unprecedented federal intrusion.\"",
+        "The plan could affect broadband infrastructure deployment."
+      ]
+    },
+    {
+      "id": "cluster_122",
+      "coverage": 1,
+      "updated_at": "Tue, 18 Nov 2025 22:27:24 +0000",
+      "title": "Faced with naked man, DoorDasher demands police action; they arrest her for illegal surveillance",
+      "neutral_headline": "DoorDasher Arrested After Filming Naked Man",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2025/11/doordasher-claims-sexual-assault-but-cops-arrest-her-for-filming-nude-drunk-man/",
+          "published_at": "Tue, 18 Nov 2025 22:27:24 +0000",
+          "title": "Faced with naked man, DoorDasher demands police action; they arrest her for illegal surveillance",
+          "standfirst": "Two felony charges for filming man inside his house.",
+          "content": "Last month, a DoorDash driver in upstate New York delivered an item to a local house in Oswego—only to find the front door open and a man apparently unconscious or asleep on a couch in the front room. The man was also quite naked, with pants and underwear around his ankles, and he was fully visible from the porch. The DoorDasher was a 23-year-old woman named Olivia Henderson, and she felt like the whole situation was some kind of creepy exploitation play. Was this guy purposely exposing himself to her? Was he even asleep? Should she have to endure the sight of random male genitalia just to make a few bucks? She did not think so, and she decided to do something about it. Henderson filmed the man from outside the home, and she later posted the video on TikTok to shame him. Naturally, it went viral.Read full article Comments",
+          "feed_position": 13,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/henderson-1086x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/henderson-1086x648.jpg",
+      "popularity_score": 133,
+      "ai_summary": [
+        "A DoorDasher demanded police action after seeing a naked man.",
+        "The DoorDasher was arrested for illegal surveillance.",
+        "She faces two felony charges related to the incident.",
+        "The incident involved filming a man inside his house.",
+        "The case raises questions about privacy and surveillance."
+      ]
+    },
+    {
+      "id": "cluster_123",
+      "coverage": 1,
+      "updated_at": "Tue, 18 Nov 2025 22:01:57 +0000",
+      "title": "CDC data confirms US is 2 months away from losing measles elimination status",
+      "neutral_headline": "CDC Data Indicates Measles Elimination Status at Risk",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/health/2025/11/cdc-data-confirms-us-is-2-months-away-from-losing-measles-elimination-status/",
+          "published_at": "Tue, 18 Nov 2025 22:01:57 +0000",
+          "title": "CDC data confirms US is 2 months away from losing measles elimination status",
+          "standfirst": "Elimination status is lost if the virus spreads continuously for 12 months.",
+          "content": "Federal health officials have linked two massive US measles outbreaks, confirming that the country is about two months away from losing its measles elimination status, according to a report by The New York Times. The Times obtained a recording of a call during which officials from the Centers for Disease Control and Prevention confirmed to state health departments that the ongoing measles outbreak at the border of Arizona and Utah is a continuation of the explosive outbreak in West Texas that began in mid- to late-January. That is, the two massive outbreaks are being caused by the same subtype of measles virus. This is a significant link that hasn’t previously been reported despite persistent questions from journalists and concerns from health experts, particularly in light of Canada losing its elimination status last week. The loss of an elimination status means that measles will once again be considered endemic to the US, an embarrassing public health backslide for a vaccine-preventable disease.Read full article Comments",
+          "feed_position": 14,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2201702057-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2201702057-1152x648.jpg",
+      "popularity_score": 133,
+      "ai_summary": [
+        "CDC data confirms the US is close to losing measles elimination status.",
+        "Elimination status is lost if the virus spreads for twelve months.",
+        "The US is two months away from losing its elimination status.",
+        "This indicates a potential increase in measles cases.",
+        "Public health officials are monitoring the situation closely."
+      ]
+    },
+    {
+      "id": "cluster_124",
       "coverage": 1,
       "updated_at": "Tue, 18 Nov 2025 21:47:14 +0000",
       "title": "Meta wins monopoly trial, convinces judge that social networking is dead",
-      "neutral_headline": "Meta Wins Monopoly Trial Regarding Social Networking",
+      "neutral_headline": "Meta Wins Monopoly Trial, Citing User Boredom",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -1041,49 +917,18 @@
           "title": "Meta wins monopoly trial, convinces judge that social networking is dead",
           "standfirst": "People are \"bored\" by their friends' content, judge ruled, siding with Meta.",
           "content": "After years of pushback from the Federal Trade Commission over Meta’s acquisitions of Instagram and WhatsApp, Meta has defeated the FTC’s monopoly claims. In a Tuesday ruling, US District Judge James Boasberg said the FTC failed to show that Meta has a monopoly in a market dubbed “personal social networking.” In that narrowly defined market, the FTC unsuccessfully argued, Meta supposedly faces only two rivals, Snapchat and MeWe, which struggle to compete due to its alleged monopoly. But the days of grouping apps into “separate markets of social networking and social media” are over, Boasberg wrote. He cited the Greek philosopher Heraclitus, who “posited that no man can ever step into the same river twice,” while telling the FTC they missed their chance to block Meta’s purchase.Read full article Comments",
-          "feed_position": 10,
+          "feed_position": 15,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2209959270-1024x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2209959270-1024x648.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "Meta won a monopoly trial, convincing the judge social networking is dead.",
+        "Meta won a monopoly trial regarding social networking.",
+        "The judge sided with Meta in the legal proceedings.",
         "The judge ruled that people are \"bored\" by their friends' content.",
-        "The ruling sided with Meta in the legal proceedings.",
-        "The case involved allegations of anti-competitive practices.",
-        "Meta continues to face scrutiny regarding its market dominance."
-      ]
-    },
-    {
-      "id": "cluster_139",
-      "coverage": 1,
-      "updated_at": "Tue, 18 Nov 2025 15:03:02 +0000",
-      "title": "Widespread Cloudflare outage blamed on mysterious traffic spike",
-      "neutral_headline": "Cloudflare Outage Caused by Mysterious Traffic Spike",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2025/11/widespread-cloudflare-outage-blamed-on-mysterious-traffic-spike/",
-          "published_at": "Tue, 18 Nov 2025 15:03:02 +0000",
-          "title": "Widespread Cloudflare outage blamed on mysterious traffic spike",
-          "standfirst": "Cloudflare is down, causing many websites and big platforms to go dark.",
-          "content": "A Cloudflare outage caused large chunks of the Internet to go dark Tuesday morning, temporarily impacting big platforms like X and ChatGPT. “A fix has been implemented and we believe the incident is now resolved. We are continuing to monitor for errors to ensure all services are back to normal,” Cloudflare’s status page said. “Some customers may be still experiencing issues logging into or using the Cloudflare dashboard.” The company initially attributed the widespread outages to “an internal service degradation” and provided updates as it sought a fix over the past two hours.Read full article Comments",
-          "feed_position": 19,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2243855984-1024x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2243855984-1024x648.jpg",
-      "popularity_score": 128,
-      "ai_summary": [
-        "A widespread Cloudflare outage occurred, affecting numerous websites.",
-        "The outage was attributed to a mysterious traffic spike.",
-        "Many major platforms and websites experienced downtime.",
-        "Cloudflare provides content delivery network and security services.",
-        "The incident highlights the importance of internet infrastructure stability."
+        "The ruling impacts the future of social media platforms.",
+        "The case involved arguments about market competition."
       ]
     }
   ]
