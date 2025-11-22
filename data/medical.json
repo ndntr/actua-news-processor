@@ -1,17 +1,40 @@
 {
   "clinical": {
-    "updated_at": "2025-11-21T19:11:34.408Z",
+    "updated_at": "2025-11-22T03:34:09.673Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2025-11-21T19:11:34.408Z",
+    "updated_at": "2025-11-22T03:34:09.673Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2025-11-21T19:11:46.539Z",
+    "updated_at": "2025-11-22T03:34:11.958Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Fri, 21 Nov 2025 21:21:41 GMT",
+        "title": "'A lot of fighting': Fossil fuel row breaks out at UN climate summit",
+        "neutral_headline": "'A lot of fighting': Fossil fuel row breaks out at UN climate summit",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/c0q5ewew4geo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Fri, 21 Nov 2025 21:21:41 GMT",
+            "title": "'A lot of fighting': Fossil fuel row breaks out at UN climate summit",
+            "standfirst": "A row over fossil fuels has broken out at COP30 but this is also likely to be a negotiating tactic.",
+            "content": "A row over fossil fuels has broken out at COP30 but this is also likely to be a negotiating tactic.",
+            "feed_position": 7,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f10c/live/55491e60-c6de-11f0-9fb5-5f3a3703a365.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f10c/live/55491e60-c6de-11f0-9fb5-5f3a3703a365.jpg"
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Fri, 21 Nov 2025 18:42:12 GMT",
         "title": "Gove apologises after Covid report alleges 'toxic' culture",
@@ -32,29 +55,6 @@
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8095/live/87d20080-c6c1-11f0-a892-01d657345866.jpg"
-      },
-      {
-        "id": "cluster_1",
-        "coverage": 1,
-        "updated_at": "Fri, 21 Nov 2025 18:18:44 GMT",
-        "title": "UN climate summit drops mention of fossil fuels from draft deal",
-        "neutral_headline": "UN climate summit drops mention of fossil fuels from draft deal",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/c0q5ewew4geo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Fri, 21 Nov 2025 18:18:44 GMT",
-            "title": "UN climate summit drops mention of fossil fuels from draft deal",
-            "standfirst": "A row over fossil fuels has broken out at COP30 but this is also likely to be a negotiating tactic.",
-            "content": "A row over fossil fuels has broken out at COP30 but this is also likely to be a negotiating tactic.",
-            "feed_position": 7,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f10c/live/55491e60-c6de-11f0-9fb5-5f3a3703a365.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f10c/live/55491e60-c6de-11f0-9fb5-5f3a3703a365.jpg"
       },
       {
         "id": "cluster_2",
@@ -479,7 +479,7 @@
     ]
   },
   "month_in_research": {
-    "updated_at": "2025-11-21T19:11:46.539Z",
+    "updated_at": "2025-11-22T03:34:11.958Z",
     "clusters": []
   }
 }
