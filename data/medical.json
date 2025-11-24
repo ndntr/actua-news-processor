@@ -1,17 +1,17 @@
 {
   "clinical": {
-    "updated_at": "2025-11-24T19:09:18.777Z",
+    "updated_at": "2025-11-24T23:13:17.300Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2025-11-24T19:09:18.777Z",
+    "updated_at": "2025-11-24T23:13:17.300Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2025-11-24T19:09:27.980Z",
+    "updated_at": "2025-11-24T23:13:20.502Z",
     "clusters": [
       {
-        "id": "cluster_3",
+        "id": "cluster_5",
         "coverage": 2,
         "updated_at": "Mon, 24 Nov 2025 16:12:28 GMT",
         "title": "Groundbreaking UK gene therapy offers hope after progress of three-year-old",
@@ -27,7 +27,7 @@
             "title": "Groundbreaking UK gene therapy offers hope after progress of three-year-old",
             "standfirst": "Oliver Chu from California first person to have the one-off treatment for Hunter syndromeDoctors are cautiously optimistic about a groundbreaking gene therapy for children affected by a devastating inherited disorder after seeing positive results in the first boy to receive the treatment.Three-year-old Oliver Chu from California became the first patient to have the therapy nine months ago as part of a clinical trial run by researchers in Manchester. It is too early to call the therapy a success, but doctors are encouraged by his progress so far. Continue reading...",
             "content": "Oliver Chu from California first person to have the one-off treatment for Hunter syndromeDoctors are cautiously optimistic about a groundbreaking gene therapy for children affected by a devastating inherited disorder after seeing positive results in the first boy to receive the treatment.Three-year-old Oliver Chu from California became the first patient to have the therapy nine months ago as part of a clinical trial run by researchers in Manchester. It is too early to call the therapy a success, but doctors are encouraged by his progress so far. Continue reading...",
-            "feed_position": 2
+            "feed_position": 3
           },
           {
             "source": "BBC Health",
@@ -47,7 +47,7 @@
             "standfirst": "Oliver has an inherited condition called Hunter syndrome, which causes progressive damage to the body and brain.",
             "content": "Oliver has an inherited condition called Hunter syndrome, which causes progressive damage to the body and brain.",
             "feed_position": 1,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a74f/live/66c83790-c966-11f0-a892-01d657345866.jpg"
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02f8/live/8c2cdf40-c96b-11f0-8c06-f5d460985095.jpg"
           },
           {
             "source": "BBC Health",
@@ -65,6 +65,50 @@
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Mon, 24 Nov 2025 22:18:53 GMT",
+        "title": "Tatiana Schlossberg's poignant essay raises awareness of rare leukaemia",
+        "neutral_headline": "Tatiana Schlossberg's poignant essay raises awareness of rare leukaemia",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/cj9ynjg3zy0o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 24 Nov 2025 22:18:53 GMT",
+            "title": "Tatiana Schlossberg's poignant essay raises awareness of rare leukaemia",
+            "standfirst": "Doctors say her struggle - even with the best care as a member of a prominent family - emphasises the need for more research.",
+            "content": "Doctors say her struggle - even with the best care as a member of a prominent family - emphasises the need for more research.",
+            "feed_position": 3,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/404c/live/339002a0-c983-11f0-84b0-85226717c3ac.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/404c/live/339002a0-c983-11f0-84b0-85226717c3ac.jpg"
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Mon, 24 Nov 2025 19:50:11 GMT",
+        "title": "Tracking abortion laws across the United States",
+        "neutral_headline": "Tracking abortion laws across the United States",
+        "bullet_summary": [
+          "Reported by Guardian Health"
+        ],
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/us-news/ng-interactive/2024/jul/29/abortion-laws-bans-by-state",
+            "published_at": "Mon, 24 Nov 2025 19:50:11 GMT",
+            "title": "Tracking abortion laws across the United States",
+            "standfirst": "Abortion is now banned in 13 states, while four have banned the procedure past roughly six weeks of pregnancyThe US supreme court’s decision to overturn Roe v Wade may have abolished the national right to abortion, but the state-by-state battle for abortion rights is far from over.Since Roe was overturned in 2022, 13 states have enacted near-total abortion bans, while four states – Georgia, South Carolina, Florida and Iowa – have banned abortion past roughly six weeks of pregnancy. Other states have enacted laws or held ballot referendums to protect abortion rights. Continue reading...",
+            "content": "Abortion is now banned in 13 states, while four have banned the procedure past roughly six weeks of pregnancyThe US supreme court’s decision to overturn Roe v Wade may have abolished the national right to abortion, but the state-by-state battle for abortion rights is far from over.Since Roe was overturned in 2022, 13 states have enacted near-total abortion bans, while four states – Georgia, South Carolina, Florida and Iowa – have banned abortion past roughly six weeks of pregnancy. Other states have enacted laws or held ballot referendums to protect abortion rights. Continue reading...",
+            "feed_position": 1
+          }
+        ]
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
         "updated_at": "Mon, 24 Nov 2025 17:35:37 GMT",
         "title": "John Stuart Brown obituary",
         "neutral_headline": "John Stuart Brown obituary",
@@ -79,12 +123,12 @@
             "title": "John Stuart Brown obituary",
             "standfirst": "Doctor whose lobbying led to a government sanctioned increase in minor surgery undertaken by GPsIn 1979, the British Medical Journal published an article by a Kent GP, John Stuart Brown, titled “Minor operations in general practice”.Brown, who has died aged 90, wrote that undertaking an average of four minor operations a week in his GP surgery had huge advantages compared to referring patients to hospital. It was faster, more convenient for patients and cost-effective, saving the area health authority more than £15,000 a year. He estimated the average cost of a procedure in his GP surgery was £5, compared to £78.24 in hospital. Continue reading...",
             "content": "Doctor whose lobbying led to a government sanctioned increase in minor surgery undertaken by GPsIn 1979, the British Medical Journal published an article by a Kent GP, John Stuart Brown, titled “Minor operations in general practice”.Brown, who has died aged 90, wrote that undertaking an average of four minor operations a week in his GP surgery had huge advantages compared to referring patients to hospital. It was faster, more convenient for patients and cost-effective, saving the area health authority more than £15,000 a year. He estimated the average cost of a procedure in his GP surgery was £5, compared to £78.24 in hospital. Continue reading...",
-            "feed_position": 1
+            "feed_position": 2
           }
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Mon, 24 Nov 2025 17:13:38 GMT",
         "title": "Obesity jab drug fails to slow Alzheimer's",
@@ -107,7 +151,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec5c/live/b319be50-c954-11f0-97cf-5bf03e31d3e5.jpg"
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Mon, 24 Nov 2025 17:01:01 GMT",
         "title": "People who stop using Mounjaro suffer reversal of health benefits, says study",
@@ -128,7 +172,7 @@
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Mon, 24 Nov 2025 16:03:57 GMT",
         "title": "What is the UK Covid inquiry and how does it work?",
@@ -151,7 +195,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bda/live/d088bf20-5723-11f0-82f9-ffcaa67a8d94.jpg"
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Mon, 24 Nov 2025 12:50:37 GMT",
         "title": "Covid inquiry hears impact on firms and staff",
@@ -174,7 +218,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e372/live/efafb100-c92f-11f0-a6fa-73752061276d.jpg"
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Mon, 24 Nov 2025 12:02:52 GMT",
         "title": "Catherine calls for end to 'stigma' around addiction",
@@ -197,7 +241,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d8d/live/7d357fd0-c8fb-11f0-9fb5-5f3a3703a365.jpg"
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Mon, 24 Nov 2025 12:00:26 GMT",
         "title": "Doctors respond to ‘data-free’ decision over menopause hormone therapy: ‘It’s not true’",
@@ -213,12 +257,12 @@
             "title": "Doctors respond to ‘data-free’ decision over menopause hormone therapy: ‘It’s not true’",
             "standfirst": "Physicians say FDA panel conflated two issues and made baseless claims about unproven health benefitsEstrogen-related medications for menopause will no longer carry broad black-box warnings, Marty Makary, commissioner of the US Food and Drug Administration (FDA), announced last week, bypassing the regulatory agency’s typical process and, according to experts, overstating the science behind the medications – with troubling implications for future drug decisions.The decision to remove an ominous warning from 2003 about the risks of cardiovascular disease, breast cancer and dementia makes sense for local vaginal estrogen products, but systemic estrogen is more complicated, menopause experts said – and more than these nuances, they worried about the scientific process, or lack thereof, in making the decision. Continue reading...",
             "content": "Physicians say FDA panel conflated two issues and made baseless claims about unproven health benefitsEstrogen-related medications for menopause will no longer carry broad black-box warnings, Marty Makary, commissioner of the US Food and Drug Administration (FDA), announced last week, bypassing the regulatory agency’s typical process and, according to experts, overstating the science behind the medications – with troubling implications for future drug decisions.The decision to remove an ominous warning from 2003 about the risks of cardiovascular disease, breast cancer and dementia makes sense for local vaginal estrogen products, but systemic estrogen is more complicated, menopause experts said – and more than these nuances, they worried about the scientific process, or lack thereof, in making the decision. Continue reading...",
-            "feed_position": 3
+            "feed_position": 4
           }
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Mon, 24 Nov 2025 11:00:24 GMT",
         "title": "Horror stories of a ‘feminised workplace’ mask the real crisis in male identity | Finn Mackay",
@@ -234,12 +278,12 @@
             "title": "Horror stories of a ‘feminised workplace’ mask the real crisis in male identity | Finn Mackay",
             "standfirst": "Stereotypes that centre men’s worth in their work are strangling sensible debate, and letting down women tooFinn Mackay is an academic and the author of Female Masculinities and the Gender WarsFirst it was mechanisation threatening our jobs, then AI and now this: the Great Feminisation is taking over the workplace. Well, that’s according to American journalist Helen Andrews, who popularised this thesis in a speech to the National Conservatism conference in Washington DC.The idea is that too many women in the workplace, and in positions of power, has led to the dominance of stereotypical feminine values, to the detriment of everyone. Girly things like conflict resolution rather than manly plain speaking, fussy HR departments, or a lack of healthy aggressive competition, have all created an imbalance in the workplace and in the world, suppressing stereotypical masculine values. Andrews fears for her sons and their future in the feminised world that she believes threatens us all.Finn Mackay is the author of Female Masculinities and the Gender Wars, and a senior lecturer in sociology at the University of the West of England in BristolDo you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...",
             "content": "Stereotypes that centre men’s worth in their work are strangling sensible debate, and letting down women tooFinn Mackay is an academic and the author of Female Masculinities and the Gender WarsFirst it was mechanisation threatening our jobs, then AI and now this: the Great Feminisation is taking over the workplace. Well, that’s according to American journalist Helen Andrews, who popularised this thesis in a speech to the National Conservatism conference in Washington DC.The idea is that too many women in the workplace, and in positions of power, has led to the dominance of stereotypical feminine values, to the detriment of everyone. Girly things like conflict resolution rather than manly plain speaking, fussy HR departments, or a lack of healthy aggressive competition, have all created an imbalance in the workplace and in the world, suppressing stereotypical masculine values. Andrews fears for her sons and their future in the feminised world that she believes threatens us all.Finn Mackay is the author of Female Masculinities and the Gender Wars, and a senior lecturer in sociology at the University of the West of England in BristolDo you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...",
-            "feed_position": 4
+            "feed_position": 5
           }
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Mon, 24 Nov 2025 11:00:23 GMT",
         "title": "The one change that worked: I was trembling with anxiety when I found a fun, free way to get calm",
@@ -255,12 +299,12 @@
             "title": "The one change that worked: I was trembling with anxiety when I found a fun, free way to get calm",
             "standfirst": "I can’t dance. Not even a little bit. But the terrible moves my friends mock are an antidote to the racing heart and quivering breath that arrive in my more anxious momentsThe first time I started dancing at home was a happy accident. I’d just had a terse conversation with an ex, and my body was reacting in its usual way: racing heart, quivering breath and trembling fingers. I needed to calm down. Looking around for quick fixes in my flat – my bed, some stale chocolate digestives and a packet of cigarettes – I settled on the kitchen radio, which had been humming faintly in the background all morning.Tuned to BBC Radio 6 Music, it was playing a disco track I didn’t recognise. But the beat was steady and intermingled with the sounds of tambourines, synths and drums. I turned up the volume, and then my body was moving: limbs swinging, feet tapping, hips wiggling. I continued into the next song, leaning into the feeling and becoming more animated to the sounds of another upbeat 70s track, imagining myself on a crowded, sweaty dancefloor. It was all very silly. But by the third song, my anxiety had melted away. I was smiling. And I felt more like myself again. Continue reading...",
             "content": "I can’t dance. Not even a little bit. But the terrible moves my friends mock are an antidote to the racing heart and quivering breath that arrive in my more anxious momentsThe first time I started dancing at home was a happy accident. I’d just had a terse conversation with an ex, and my body was reacting in its usual way: racing heart, quivering breath and trembling fingers. I needed to calm down. Looking around for quick fixes in my flat – my bed, some stale chocolate digestives and a packet of cigarettes – I settled on the kitchen radio, which had been humming faintly in the background all morning.Tuned to BBC Radio 6 Music, it was playing a disco track I didn’t recognise. But the beat was steady and intermingled with the sounds of tambourines, synths and drums. I turned up the volume, and then my body was moving: limbs swinging, feet tapping, hips wiggling. I continued into the next song, leaning into the feeling and becoming more animated to the sounds of another upbeat 70s track, imagining myself on a crowded, sweaty dancefloor. It was all very silly. But by the third song, my anxiety had melted away. I was smiling. And I felt more like myself again. Continue reading...",
-            "feed_position": 5
+            "feed_position": 6
           }
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Mon, 24 Nov 2025 09:27:45 GMT",
         "title": "What are the symptoms of prostate cancer and what should you check for?",
@@ -283,7 +327,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4f7/live/8f655c10-b3c1-11f0-9834-bd5e89cd5975.png"
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Mon, 24 Nov 2025 09:13:46 GMT",
         "title": "Lord Cameron reveals he had prostate cancer",
@@ -306,7 +350,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3429/live/e962bde0-c904-11f0-a892-01d657345866.jpg"
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Sun, 23 Nov 2025 18:22:20 GMT",
         "title": "Hospitals must get smaller to stop NHS ‘permacrisis’, thinktank urges",
@@ -322,12 +366,12 @@
             "title": "Hospitals must get smaller to stop NHS ‘permacrisis’, thinktank urges",
             "standfirst": "Re:State report says role hospitals play needs ‘fundamental reinvention’ to deliver better care for patientsHospitals need to become smaller, with fewer beds, to help save the NHS from its “permacrisis”, a thinktank has said.The role hospitals play needs to undergo “a fundamental reinvention” to help them escape the overcrowding that has become widespread over the last decade, according to the thinktank Re:State. Continue reading...",
             "content": "Re:State report says role hospitals play needs ‘fundamental reinvention’ to deliver better care for patientsHospitals need to become smaller, with fewer beds, to help save the NHS from its “permacrisis”, a thinktank has said.The role hospitals play needs to undergo “a fundamental reinvention” to help them escape the overcrowding that has become widespread over the last decade, according to the thinktank Re:State. Continue reading...",
-            "feed_position": 6
+            "feed_position": 7
           }
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Sun, 23 Nov 2025 17:06:35 GMT",
         "title": "Private finance plans for NHS buildings | Letters",
@@ -343,12 +387,12 @@
             "title": "Private finance plans for NHS buildings | Letters",
             "standfirst": "Johnbosco Nwogbo says adding a new private finance debt burden is a bad idea, while Lord Hutton thinks PFIs have been good for the NHS and patientsLabour MPs are absolutely right to reject Wes Streeting’s plan to use private capital to build neighbourhood health centres (Labour MPs urge Reeves to drop private finance plans for NHS buildings, 21 November). Like a family using a payday loan to buy their home, yes, we’d end up with a building, but we’ll have to sacrifice meals to keep up with the payments.Given Rachel Reeves’s lack of fiscal wiggle room, no one believes that the NHS’s budget will increase year-on-year to keep pace with the combined financial impact of inflation, the growing health needs of our ageing population and possible rising drug prices. So adding a new private finance debt burden to this cocktail will only result in trusts skimping on the only one of those things they have control over: patient care. Continue reading...",
             "content": "Johnbosco Nwogbo says adding a new private finance debt burden is a bad idea, while Lord Hutton thinks PFIs have been good for the NHS and patientsLabour MPs are absolutely right to reject Wes Streeting’s plan to use private capital to build neighbourhood health centres (Labour MPs urge Reeves to drop private finance plans for NHS buildings, 21 November). Like a family using a payday loan to buy their home, yes, we’d end up with a building, but we’ll have to sacrifice meals to keep up with the payments.Given Rachel Reeves’s lack of fiscal wiggle room, no one believes that the NHS’s budget will increase year-on-year to keep pace with the combined financial impact of inflation, the growing health needs of our ageing population and possible rising drug prices. So adding a new private finance debt burden to this cocktail will only result in trusts skimping on the only one of those things they have control over: patient care. Continue reading...",
-            "feed_position": 7
+            "feed_position": 8
           }
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Sun, 23 Nov 2025 14:00:13 GMT",
         "title": "The loneliness fix: I wanted to find new friends in my 30s – and it was easier than I imagined",
@@ -365,12 +409,12 @@
             "title": "The loneliness fix: I wanted to find new friends in my 30s – and it was easier than I imagined",
             "standfirst": "It is said to be harder to make friends as you age. But I found that a mix of apps and other tools, as well as a happy attitude, led to a world of potential new palsTonight, Rachel, Elvira and I will meet for dinner. A year ago, none of us knew the others existed. Six months ago Rachel and Elvira were strangers until I introduced them. But now, here we are, something as close to firm friends as is possible after such a short time.If you’ve ever consumed any media, you would be forgiven for thinking that life after 35 is a burning wasteland of unimaginable horrors: the beginnings of incessant back pain, an interest in dishwasher loading, the discovery that you’re ineligible for entire industries billed as “a young person’s game”, and, apparently, an inability to make friends. Continue reading...",
             "content": "It is said to be harder to make friends as you age. But I found that a mix of apps and other tools, as well as a happy attitude, led to a world of potential new palsTonight, Rachel, Elvira and I will meet for dinner. A year ago, none of us knew the others existed. Six months ago Rachel and Elvira were strangers until I introduced them. But now, here we are, something as close to firm friends as is possible after such a short time.If you’ve ever consumed any media, you would be forgiven for thinking that life after 35 is a burning wasteland of unimaginable horrors: the beginnings of incessant back pain, an interest in dishwasher loading, the discovery that you’re ineligible for entire industries billed as “a young person’s game”, and, apparently, an inability to make friends. Continue reading...",
-            "feed_position": 8
+            "feed_position": 9
           }
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Sun, 23 Nov 2025 14:00:12 GMT",
         "title": "‘Eating Indigenously’: award-winning chef celebrates Native American cuisine in new cookbook",
@@ -386,12 +430,12 @@
             "title": "‘Eating Indigenously’: award-winning chef celebrates Native American cuisine in new cookbook",
             "standfirst": "James Beard-winning chef Sean Sherman’s cookbook Turtle Island pushes readers to view food systems through an Indigenous lensAs a child growing up on the Pine Ridge Reservation in South Dakota in the 1970s and 80s, Sean Sherman, an Oglala Lakota member and a James Beard award-winning chef, recalls pounding dried bison and mixing it with chokeberry to create a snack called wasná. He and his cousins would often hunt for pheasants and grouse, or harvest wild berries and Thíŋpsiŋla, a wild prairie turnip that’s a staple Lakota food. Sherman’s earliest memories of food were full of history, culture and spiritualism.His idealistic experiences of harvesting and hunting for food on the reservation were juxtaposed with the legacy of colonialism. Most of the time, Sherman and his family ate government-issued food such as canned beef, or blocks of cow cheese, which diverged from their traditional diet. It’s a tale that Sherman, co-founder of the Minneapolis-based Indigenous restaurant Owamni, shares along with other stories in a new cookbook that highlights Indigenous cuisines throughout North America. Continue reading...",
             "content": "James Beard-winning chef Sean Sherman’s cookbook Turtle Island pushes readers to view food systems through an Indigenous lensAs a child growing up on the Pine Ridge Reservation in South Dakota in the 1970s and 80s, Sean Sherman, an Oglala Lakota member and a James Beard award-winning chef, recalls pounding dried bison and mixing it with chokeberry to create a snack called wasná. He and his cousins would often hunt for pheasants and grouse, or harvest wild berries and Thíŋpsiŋla, a wild prairie turnip that’s a staple Lakota food. Sherman’s earliest memories of food were full of history, culture and spiritualism.His idealistic experiences of harvesting and hunting for food on the reservation were juxtaposed with the legacy of colonialism. Most of the time, Sherman and his family ate government-issued food such as canned beef, or blocks of cow cheese, which diverged from their traditional diet. It’s a tale that Sherman, co-founder of the Minneapolis-based Indigenous restaurant Owamni, shares along with other stories in a new cookbook that highlights Indigenous cuisines throughout North America. Continue reading...",
-            "feed_position": 9
+            "feed_position": 10
           }
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Sun, 23 Nov 2025 14:00:11 GMT",
         "title": "London exhibition to explore mental health and social bonds in ‘polarised’ times",
@@ -407,12 +451,12 @@
             "title": "London exhibition to explore mental health and social bonds in ‘polarised’ times",
             "standfirst": "Artworks to go on display in January at Bethlem Museum of the Mind, in the world’s oldest psychiatric hospitalFrom images of empty community rooms and a colourful canvas crammed with caricatures to a baby linked by an umbilical-like cord to a seated stranger, artworks on the subject of mental health are to go on display in an exhibition that examines social bonds against the backdrop of today’s polarised times.Artists have long drawn on their own experiences of mental ill health. Staged at the Bethlem Museum of the Mind, in the world’s oldest psychiatric hospital, in south-east London, Kindred will explore the power of communities to make people feel comforted as well as isolated. Continue reading...",
             "content": "Artworks to go on display in January at Bethlem Museum of the Mind, in the world’s oldest psychiatric hospitalFrom images of empty community rooms and a colourful canvas crammed with caricatures to a baby linked by an umbilical-like cord to a seated stranger, artworks on the subject of mental health are to go on display in an exhibition that examines social bonds against the backdrop of today’s polarised times.Artists have long drawn on their own experiences of mental ill health. Staged at the Bethlem Museum of the Mind, in the world’s oldest psychiatric hospital, in south-east London, Kindred will explore the power of communities to make people feel comforted as well as isolated. Continue reading...",
-            "feed_position": 10
+            "feed_position": 11
           }
         ]
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Sun, 23 Nov 2025 13:03:05 GMT",
         "title": "Bereaved parents face ‘harrowing’ delays for NHS postmorterms",
@@ -429,58 +473,14 @@
             "title": "Bereaved parents face ‘harrowing’ delays for NHS postmorterms",
             "standfirst": "Shortage of specialist doctors means service is in crisis, says chair of Royal College of Pathologists committeeBereaved parents are enduring “harrowing” delays of more than a year to find out why their child died because the NHS has too few specialist doctors to perform postmortems.The shortage of paediatric and perinatal pathologists is revealed in a report by the Royal College of Pathologists published on Sunday. It warns that the situation is “dire”, services in some parts of the UK have “totally collapsed” and families are paying the price.37% of consultant posts in the UK are lying vacant.The UK has just 52 paediatric and perinatal consultants and 13 are due to retire in the next five years.Just 3% of consultants think current staffing levels are enough to sustain their service.Only 13 resident doctors are in training to become consultants in the specialty. Continue reading...",
             "content": "Shortage of specialist doctors means service is in crisis, says chair of Royal College of Pathologists committeeBereaved parents are enduring “harrowing” delays of more than a year to find out why their child died because the NHS has too few specialist doctors to perform postmortems.The shortage of paediatric and perinatal pathologists is revealed in a report by the Royal College of Pathologists published on Sunday. It warns that the situation is “dire”, services in some parts of the UK have “totally collapsed” and families are paying the price.37% of consultant posts in the UK are lying vacant.The UK has just 52 paediatric and perinatal consultants and 13 are due to retire in the next five years.Just 3% of consultants think current staffing levels are enough to sustain their service.Only 13 resident doctors are in training to become consultants in the specialty. Continue reading...",
-            "feed_position": 11
-          }
-        ]
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Sun, 23 Nov 2025 08:00:04 GMT",
-        "title": "‘We’ve got to find answers’: Corby families affected by cancer searching for truth about toxic waste sites",
-        "neutral_headline": "‘We’ve got to find answers’: Corby families affected by cancer searching...",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2025/nov/23/cancer-corby-toxic-waste-sites-steelworks",
-            "published_at": "Sun, 23 Nov 2025 08:00:04 GMT",
-            "title": "‘We’ve got to find answers’: Corby families affected by cancer searching for truth about toxic waste sites",
-            "standfirst": "Alison Gaffney believes her son’s rare leukaemia was caused by dumped toxic waste from the town’s steelworksAlison Gaffney and Andy Hinde received the devastating news that their 17-month-old son, Fraser, had a rare type of leukaemia in 2018.Two years of gruelling treatment followed, including chemotherapy, radiotherapy and immunotherapy, before a stem cell transplant. Fraser, then aged three, made a “miraculous recovery” from the surgery, before doctors declared the cancer in remission. Continue reading...",
-            "content": "Alison Gaffney believes her son’s rare leukaemia was caused by dumped toxic waste from the town’s steelworksAlison Gaffney and Andy Hinde received the devastating news that their 17-month-old son, Fraser, had a rare type of leukaemia in 2018.Two years of gruelling treatment followed, including chemotherapy, radiotherapy and immunotherapy, before a stem cell transplant. Fraser, then aged three, made a “miraculous recovery” from the surgery, before doctors declared the cancer in remission. Continue reading...",
             "feed_position": 12
           }
         ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Sun, 23 Nov 2025 07:16:11 GMT",
-        "title": "'It sounds dramatic but singing class saved my life'",
-        "neutral_headline": "'It sounds dramatic but singing class saved my life'",
-        "bullet_summary": [
-          "Reported by BBC Health"
-        ],
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/c8r07r55g3xo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Sun, 23 Nov 2025 07:16:11 GMT",
-            "title": "'It sounds dramatic but singing class saved my life'",
-            "standfirst": "Hundreds of peopling attending singing groups are being taught songs and breathing techniques.",
-            "content": "Hundreds of peopling attending singing groups are being taught songs and breathing techniques.",
-            "feed_position": 92,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8640/live/56676620-c55e-11f0-88c6-23e769b55dc3.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8640/live/56676620-c55e-11f0-88c6-23e769b55dc3.jpg"
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2025-11-24T19:09:27.981Z",
+    "updated_at": "2025-11-24T23:13:20.502Z",
     "clusters": []
   }
 }
