@@ -1,17 +1,17 @@
 {
   "clinical": {
-    "updated_at": "2025-12-02T03:49:10.653Z",
+    "updated_at": "2025-12-02T07:16:43.123Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2025-12-02T03:49:10.653Z",
+    "updated_at": "2025-12-02T07:16:43.123Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2025-12-02T03:49:13.615Z",
+    "updated_at": "2025-12-02T07:16:44.895Z",
     "clusters": [
       {
-        "id": "cluster_0",
+        "id": "cluster_2",
         "coverage": 2,
         "updated_at": "Mon, 01 Dec 2025 19:07:34 GMT",
         "title": "Resident doctors in England to go on strike in run-up to Christmas",
@@ -27,7 +27,7 @@
             "title": "Resident doctors in England to go on strike in run-up to Christmas",
             "standfirst": "Five days of strike action over jobs and pay to take place from 17 to 22 December Thousands of doctors in England are to go on strike again this month, in a dispute over pay and job security.The British Medical Association has announced that resident doctors – formerly known as junior doctors – will begin a five-day strike action that will run from 7am on 17 December until 7am on 22 December. Continue reading...",
             "content": "Five days of strike action over jobs and pay to take place from 17 to 22 December Thousands of doctors in England are to go on strike again this month, in a dispute over pay and job security.The British Medical Association has announced that resident doctors – formerly known as junior doctors – will begin a five-day strike action that will run from 7am on 17 December until 7am on 22 December. Continue reading...",
-            "feed_position": 1
+            "feed_position": 2
           },
           {
             "source": "BBC Health",
@@ -43,7 +43,51 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/370d/live/3ffed6e0-cedf-11f0-8c06-f5d460985095.jpg"
       },
       {
+        "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Tue, 02 Dec 2025 07:10:41 GMT",
+        "title": "Death toll in Indonesia floods passes 600",
+        "neutral_headline": "Death toll in Indonesia floods passes 600",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/c4g4enlp6kzo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Tue, 02 Dec 2025 07:10:41 GMT",
+            "title": "Death toll in Indonesia floods passes 600",
+            "standfirst": "Another 500 people are missing, while thousands more have been injured after a cyclone hit the region.",
+            "content": "Another 500 people are missing, while thousands more have been injured after a cyclone hit the region.",
+            "feed_position": 39,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af9e/live/fbd5ef00-cf45-11f0-9fb5-5f3a3703a365.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af9e/live/fbd5ef00-cf45-11f0-9fb5-5f3a3703a365.jpg"
+      },
+      {
         "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Tue, 02 Dec 2025 05:00:17 GMT",
+        "title": "‘I wish I could say I kept my cool’: my maddening experience with the NHS wheelchair service",
+        "neutral_headline": "‘I wish I could say I kept my cool’: my maddening...",
+        "bullet_summary": [
+          "Reported by Guardian Health"
+        ],
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/world/2025/dec/02/i-wish-i-could-say-i-kept-my-cool-my-maddening-experience-with-the-nhs-wheelchair-service",
+            "published_at": "Tue, 02 Dec 2025 05:00:17 GMT",
+            "title": "‘I wish I could say I kept my cool’: my maddening experience with the NHS wheelchair service",
+            "standfirst": "After I was paralysed in a climbing accident, I discovered how inconsiderate, illogical and incompetent many wheelchair providers can beI was lying on my back in an east London hospital, sometime in August 2023. I don’t know what day it was, exactly; by that point I’d mostly given up caring. My phone rang. I managed to answer, even though I had largely lost the use of my hands. (Luckily, a member of staff had left it lying on my chest.) Also, I wasn’t feeling great. In the early stages of coming to terms with the fact I was paralysed, I had just been informed that the doctors wanted to drill a hole directly into my guts, inserting a plastic tube to drain away my urine, effectively making my penis redundant. It was proving quite a lot to take in.Nonetheless, I answered. Continue reading...",
+            "content": "After I was paralysed in a climbing accident, I discovered how inconsiderate, illogical and incompetent many wheelchair providers can beI was lying on my back in an east London hospital, sometime in August 2023. I don’t know what day it was, exactly; by that point I’d mostly given up caring. My phone rang. I managed to answer, even though I had largely lost the use of my hands. (Luckily, a member of staff had left it lying on my chest.) Also, I wasn’t feeling great. In the early stages of coming to terms with the fact I was paralysed, I had just been informed that the doctors wanted to drill a hole directly into my guts, inserting a plastic tube to drain away my urine, effectively making my penis redundant. It was proving quite a lot to take in.Nonetheless, I answered. Continue reading...",
+            "feed_position": 1
+          }
+        ]
+      },
+      {
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Mon, 01 Dec 2025 18:56:09 GMT",
         "title": "The Guardian view on men’s health: the needs of different groups can only be addressed in a functioning system | Editorial",
@@ -59,12 +103,12 @@
             "title": "The Guardian view on men’s health: the needs of different groups can only be addressed in a functioning system | Editorial",
             "standfirst": "The specific health issues faced by boys and men deserve attention. But waiting lists stand in the way of improvementMen, on average, have lower life expectancy than women – by around four years in the UK. They account for three-quarters of all deaths by suicide and are more likely to smoke and be overweight. Young men are more likely than young women to die as a result of accidents, violence or overdoses. Prostate cancer is the most common cancer in men, with around 12,000 deaths every year. A public consultation on whether to introduce screening for the disease opened last week, after an expert committee advised against it.So the men’s health strategy for England launched recently by the health secretary, Wes Streeting, should be welcomed on principle. Just as a women’s health lens helps policymakers to focus on female reproductive health and risks, a men’s health lens should enable specific problems to be targeted more effectively.Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...",
             "content": "The specific health issues faced by boys and men deserve attention. But waiting lists stand in the way of improvementMen, on average, have lower life expectancy than women – by around four years in the UK. They account for three-quarters of all deaths by suicide and are more likely to smoke and be overweight. Young men are more likely than young women to die as a result of accidents, violence or overdoses. Prostate cancer is the most common cancer in men, with around 12,000 deaths every year. A public consultation on whether to introduce screening for the disease opened last week, after an expert committee advised against it.So the men’s health strategy for England launched recently by the health secretary, Wes Streeting, should be welcomed on principle. Just as a women’s health lens helps policymakers to focus on female reproductive health and risks, a men’s health lens should enable specific problems to be targeted more effectively.Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...",
-            "feed_position": 2
+            "feed_position": 3
           }
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Mon, 01 Dec 2025 17:55:50 GMT",
         "title": "Assisted dying bill is safer than any other in the world | Letters",
@@ -80,12 +124,12 @@
             "title": "Assisted dying bill is safer than any other in the world | Letters",
             "standfirst": "Dr Jacky Davis and Stephen Sedley respond to letters that supported the Lords’ scrutiny of the billDr Lucy Thomas raises some interesting points in her defence of the House of Lords’ behaviour on assisted dying (Letters, 26 November). But it is a stretch to suggest that the 1,000 amendments that peers have tabled to the bill represent effective independent scrutiny.What possible justification can there be for requiring every dying person – including a 90-year-old in their final weeks with advanced metastasised cancer – to provide a negative pregnancy test before their request is approved (amendment 458)? I am sure there are many peers who want to scrutinise the bill in a sensible way, but they are being thwarted by a handful who seem intent on stopping law change at any cost. Continue reading...",
             "content": "Dr Jacky Davis and Stephen Sedley respond to letters that supported the Lords’ scrutiny of the billDr Lucy Thomas raises some interesting points in her defence of the House of Lords’ behaviour on assisted dying (Letters, 26 November). But it is a stretch to suggest that the 1,000 amendments that peers have tabled to the bill represent effective independent scrutiny.What possible justification can there be for requiring every dying person – including a 90-year-old in their final weeks with advanced metastasised cancer – to provide a negative pregnancy test before their request is approved (amendment 458)? I am sure there are many peers who want to scrutinise the bill in a sensible way, but they are being thwarted by a handful who seem intent on stopping law change at any cost. Continue reading...",
-            "feed_position": 3
+            "feed_position": 4
           }
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Mon, 01 Dec 2025 16:58:35 GMT",
         "title": "US and UK agree zero tariffs deal on pharmaceuticals",
@@ -108,7 +152,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7a1/live/f33b4ce0-cece-11f0-8741-59a8e037abac.jpg"
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Mon, 01 Dec 2025 14:21:50 GMT",
         "title": "Do you know what a forever chemical is?",
@@ -131,7 +175,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc00/live/f61ecd80-cebd-11f0-9fb5-5f3a3703a365.jpg"
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Mon, 01 Dec 2025 14:05:41 GMT",
         "title": "WHO warning over shortage of obesity jabs",
@@ -154,7 +198,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2559/live/b07a1cb0-cec4-11f0-a892-01d657345866.jpg"
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Mon, 01 Dec 2025 14:02:58 GMT",
         "title": "Beware flammable skincare, too many sprouts and overindulging in cheese this Christmas, say health experts",
@@ -175,7 +219,7 @@
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Mon, 01 Dec 2025 14:00:15 GMT",
         "title": "I needed new bras but what really lifted me up was a moment of connection with my bra fitter | Jodi Wilson",
@@ -192,12 +236,12 @@
             "title": "I needed new bras but what really lifted me up was a moment of connection with my bra fitter | Jodi Wilson",
             "standfirst": "These fleeting human interactions are an antidote to loneliness in an increasingly online worldOn a work trip to Melbourne, I detoured into the city to get fitted for a bra. A friend had shared that it was an experience all women should have because, regardless of age and body type, a supportive bra is always worthwhile; as is the firm yet kind guidance of a professional fitter who has seen it all.“It was her hand on my upper back to steady me,” my friend said. “It made me cry.” Continue reading...",
             "content": "These fleeting human interactions are an antidote to loneliness in an increasingly online worldOn a work trip to Melbourne, I detoured into the city to get fitted for a bra. A friend had shared that it was an experience all women should have because, regardless of age and body type, a supportive bra is always worthwhile; as is the firm yet kind guidance of a professional fitter who has seen it all.“It was her hand on my upper back to steady me,” my friend said. “It made me cry.” Continue reading...",
-            "feed_position": 4
+            "feed_position": 5
           }
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Mon, 01 Dec 2025 13:45:11 GMT",
         "title": "Shortage of ‘breakthrough’ weight loss drugs will slow fight against obesity, WHO warns",
@@ -213,35 +257,12 @@
             "title": "Shortage of ‘breakthrough’ weight loss drugs will slow fight against obesity, WHO warns",
             "standfirst": "WHO urges countries to make drugs such as Mounjaro more accessible to people and asks drugs companies to lower pricesWeight loss drugs such as Mounjaro offer huge potential to tackle soaring obesity globally but are currently only available to one in 10 of those who need them, the World Health Organization has said.Their proven effectiveness in helping people lose weight means the medications represent “a new chapter” in how health services can treat obesity and the killer diseases it causes, the WHO added. Continue reading...",
             "content": "WHO urges countries to make drugs such as Mounjaro more accessible to people and asks drugs companies to lower pricesWeight loss drugs such as Mounjaro offer huge potential to tackle soaring obesity globally but are currently only available to one in 10 of those who need them, the World Health Organization has said.Their proven effectiveness in helping people lose weight means the medications represent “a new chapter” in how health services can treat obesity and the killer diseases it causes, the WHO added. Continue reading...",
-            "feed_position": 5
+            "feed_position": 6
           }
         ]
       },
       {
-        "id": "cluster_9",
-        "coverage": 1,
-        "updated_at": "Mon, 01 Dec 2025 13:03:27 GMT",
-        "title": "Death toll in Indonesia floods passes 500",
-        "neutral_headline": "Death toll in Indonesia floods passes 500",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/c4g4enlp6kzo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Mon, 01 Dec 2025 13:03:27 GMT",
-            "title": "Death toll in Indonesia floods passes 500",
-            "standfirst": "Another 500 people are missing, while thousands more have been injured after a cyclone hit the region.",
-            "content": "Another 500 people are missing, while thousands more have been injured after a cyclone hit the region.",
-            "feed_position": 39,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73ef/live/004faad0-ce97-11f0-9fb5-5f3a3703a365.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73ef/live/004faad0-ce97-11f0-9fb5-5f3a3703a365.jpg"
-      },
-      {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Mon, 01 Dec 2025 11:00:33 GMT",
         "title": "Gratitude can be truly healing – but you need more than a checklist",
@@ -258,12 +279,12 @@
             "title": "Gratitude can be truly healing – but you need more than a checklist",
             "standfirst": "Transformative gratitude occurs within sincere relationships, but building those links is not always an easy process Recently, my psychoanalyst annoyed me. She said something and I felt misunderstood, criticised – and that she was wrong. I wanted an apology. As we worked through this, as she listened to me and I listened to her, I gradually realised that she hadn’t meant exactly what I thought, and that I was the one who had misunderstood, who was being so critical. But why couldn’t she have made it easier for me to understand, phrased it like I would have done? She responded: “That isn’t what I thought.”In that moment, something clicked. I felt the rush and the relief of sudden emotional clarity. I think this came from seeing that my psychoanalyst, by not apologising to appease my anger, by not taking an easy way out of the conflict, by persisting in offering me her honest thoughts about what was going on in my mind and by bearing my struggle to take them in, was giving me an extremely rare and precious experience. I felt an overwhelming and surprising surge of gratitude. Continue reading...",
             "content": "Transformative gratitude occurs within sincere relationships, but building those links is not always an easy process Recently, my psychoanalyst annoyed me. She said something and I felt misunderstood, criticised – and that she was wrong. I wanted an apology. As we worked through this, as she listened to me and I listened to her, I gradually realised that she hadn’t meant exactly what I thought, and that I was the one who had misunderstood, who was being so critical. But why couldn’t she have made it easier for me to understand, phrased it like I would have done? She responded: “That isn’t what I thought.”In that moment, something clicked. I felt the rush and the relief of sudden emotional clarity. I think this came from seeing that my psychoanalyst, by not apologising to appease my anger, by not taking an easy way out of the conflict, by persisting in offering me her honest thoughts about what was going on in my mind and by bearing my struggle to take them in, was giving me an extremely rare and precious experience. I felt an overwhelming and surprising surge of gratitude. Continue reading...",
-            "feed_position": 6
+            "feed_position": 7
           }
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Mon, 01 Dec 2025 08:23:22 GMT",
         "title": "Virgin Media fined £23.8m for putting vulnerable customers at risk",
@@ -279,12 +300,12 @@
             "title": "Virgin Media fined £23.8m for putting vulnerable customers at risk",
             "standfirst": "Company failed to protect thousands of people switching from analogue to digital landline, Ofcom rulesBusiness live –latest updatesVirgin Media has been fined £23.8m for putting thousands of vulnerable people “at risk of harm” when switching them from an analogue to a digital landline.The media watchdog, Ofcom, found the company failed to protect people who relied on telecare alarms to call for help, after Virgin Media self-reported a number of “serious incidents” in November and December 2023. Continue reading...",
             "content": "Company failed to protect thousands of people switching from analogue to digital landline, Ofcom rulesBusiness live –latest updatesVirgin Media has been fined £23.8m for putting thousands of vulnerable people “at risk of harm” when switching them from an analogue to a digital landline.The media watchdog, Ofcom, found the company failed to protect people who relied on telecare alarms to call for help, after Virgin Media self-reported a number of “serious incidents” in November and December 2023. Continue reading...",
-            "feed_position": 7
+            "feed_position": 8
           }
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Mon, 01 Dec 2025 08:00:29 GMT",
         "title": "Is it true that … a glass of wine a day is good for your heart?",
@@ -300,12 +321,12 @@
             "title": "Is it true that … a glass of wine a day is good for your heart?",
             "standfirst": "Moderate wine consumption may benefit your cardiac health, but foods such as grapes and berries offer similar advantages without the negative effects “People shouldn’t think that drinking wine is good for you,” says Dr Oliver Guttmann, a consultant cardiologist at the Wellington hospital in London.Alcohol consumption is linked to high blood pressure, liver disease, digestive, mental health and immune system problems, as well as cancer. Continue reading...",
             "content": "Moderate wine consumption may benefit your cardiac health, but foods such as grapes and berries offer similar advantages without the negative effects “People shouldn’t think that drinking wine is good for you,” says Dr Oliver Guttmann, a consultant cardiologist at the Wellington hospital in London.Alcohol consumption is linked to high blood pressure, liver disease, digestive, mental health and immune system problems, as well as cancer. Continue reading...",
-            "feed_position": 8
+            "feed_position": 9
           }
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Mon, 01 Dec 2025 07:48:16 GMT",
         "title": "HIV warning to older women as infections increase",
@@ -328,7 +349,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3372/live/afc24960-cbda-11f0-8762-3f2fb464d5ac.jpg"
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Mon, 01 Dec 2025 06:04:18 GMT",
         "title": "I have high levels of forever chemicals in my blood - what can I do about it?",
@@ -351,7 +372,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf3c/live/d1e766c0-ceae-11f0-8c06-f5d460985095.jpg"
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Sun, 30 Nov 2025 22:30:18 GMT",
         "title": "Testing at A&Es part of plan to end new HIV cases in England by 2030",
@@ -367,12 +388,12 @@
             "title": "Testing at A&Es part of plan to end new HIV cases in England by 2030",
             "standfirst": "Labour announces prevention programme as well as efforts to re-engage people who have fallen out of medical careEnding new HIV transmissions in England by 2030 is within reach thanks to an action plan that will include routine testing at A&Es, the government has said.The HIV action plan, to be unveiled on World Aids Day on Monday, aims to re-engage the thousands of people who have left HIV care, bringing them back to lifesaving treatment. The £170m package also includes funding for opt-out HIV testing at A&Es during routine blood tests in areas with the highest rates, including London and Manchester. Continue reading...",
             "content": "Labour announces prevention programme as well as efforts to re-engage people who have fallen out of medical careEnding new HIV transmissions in England by 2030 is within reach thanks to an action plan that will include routine testing at A&Es, the government has said.The HIV action plan, to be unveiled on World Aids Day on Monday, aims to re-engage the thousands of people who have left HIV care, bringing them back to lifesaving treatment. The £170m package also includes funding for opt-out HIV testing at A&Es during routine blood tests in areas with the highest rates, including London and Manchester. Continue reading...",
-            "feed_position": 9
+            "feed_position": 10
           }
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Sun, 30 Nov 2025 22:00:17 GMT",
         "title": "Reciting the names of the dead: how Australia’s response to HIV/Aids was emotionally – and politically – powerful | Leigh Boucher",
@@ -388,12 +409,12 @@
             "title": "Reciting the names of the dead: how Australia’s response to HIV/Aids was emotionally – and politically – powerful | Leigh Boucher",
             "standfirst": "Researchers now describe it as both historical phenomenon and public health model. Its success was remarkablePast/Present is a column which places current events in historical contextAids has always been laden with political and emotional volatilities. The possibility of blood- or sex-based transmission combined with its first emergence among marginalised and criminalised populations created a potent mix of primal terror and terrifying prejudice.It can sometimes be difficult to remember just how potently misinformation, fear and outright hostility framed the knowledge and experience of Aids in the first decade or so of the pandemic. In this period, a positive result on an HIV test was a terminal diagnosis and medical knowledge about transmission and treatment was still cloudy.Sign up for a weekly email featuring our best reads Continue reading...",
             "content": "Researchers now describe it as both historical phenomenon and public health model. Its success was remarkablePast/Present is a column which places current events in historical contextAids has always been laden with political and emotional volatilities. The possibility of blood- or sex-based transmission combined with its first emergence among marginalised and criminalised populations created a potent mix of primal terror and terrifying prejudice.It can sometimes be difficult to remember just how potently misinformation, fear and outright hostility framed the knowledge and experience of Aids in the first decade or so of the pandemic. In this period, a positive result on an HIV test was a terminal diagnosis and medical knowledge about transmission and treatment was still cloudy.Sign up for a weekly email featuring our best reads Continue reading...",
-            "feed_position": 10
+            "feed_position": 11
           }
         ]
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Sun, 30 Nov 2025 18:10:12 GMT",
         "title": "Let’s not repeat the folly of PFIs for NHS buildings | Letter",
@@ -409,12 +430,12 @@
             "title": "Let’s not repeat the folly of PFIs for NHS buildings | Letter",
             "standfirst": "Too often savings in construction cost and time are at the expense of design and materials, and high finance and support costs, writes Martin CookIn response to Lord Hutton’s letter (23 November) on NHS hospitals built under the private finance initiative (PFI), independent research into the design quality of PFI public buildings, by all of the auditing authorities in the UK, showed serious flaws and a significant “quality gap” when compared to traditional design-led procurement.In my 2007 book The Design Quality Manual: Improving Building Performance, I included results from all these reviews, starting with the Audit Commission’s 2003 report PFI in Schools. The design flaws were serious, including poor functionality, short-life materials, and non-compliance with building and safety regulations. Continue reading...",
             "content": "Too often savings in construction cost and time are at the expense of design and materials, and high finance and support costs, writes Martin CookIn response to Lord Hutton’s letter (23 November) on NHS hospitals built under the private finance initiative (PFI), independent research into the design quality of PFI public buildings, by all of the auditing authorities in the UK, showed serious flaws and a significant “quality gap” when compared to traditional design-led procurement.In my 2007 book The Design Quality Manual: Improving Building Performance, I included results from all these reviews, starting with the Audit Commission’s 2003 report PFI in Schools. The design flaws were serious, including poor functionality, short-life materials, and non-compliance with building and safety regulations. Continue reading...",
-            "feed_position": 11
+            "feed_position": 12
           }
         ]
       },
       {
-        "id": "cluster_18",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Sun, 30 Nov 2025 18:10:00 GMT",
         "title": "A more nuanced approach to ultra-processed foods is necessary | Letters",
@@ -430,27 +451,6 @@
             "title": "A more nuanced approach to ultra-processed foods is necessary | Letters",
             "standfirst": "The discussion over UPFs distracts from the real public health problem: meat and dairy products, writes Noah PraamsmaIt’s time to clear up the confusion over ultra-processed foods (We know ultra-processed foods are bad for you – but can you spot them? Take our quiz, 21 November). Yes, eating UPFs made from animal products (like chicken nuggets and cheese in a squeeze bottle) can increase the risk of heart disease, type 2 diabetes and certain cancers, but UPFs from plants (like cereal, canned beans and even veggie burgers) can actually help keep you healthy.More and more leading health organisations agree that a more nuanced approach to UPFs is necessary. The American Medical Association recently passed a resolution that “supports and promotes public awareness and education about the differences between healthful foods and unhealthful ultra-processed foods”. The American Heart Association also recently released a report noting that “not all UPFs are junk foods or have poor nutritional quality; some UPFs have better nutritional value [than others] and can be part of an overall healthy dietary pattern”. This difference has a lot to do with whether the UPF is an animal- or plant-based product. Continue reading...",
             "content": "The discussion over UPFs distracts from the real public health problem: meat and dairy products, writes Noah PraamsmaIt’s time to clear up the confusion over ultra-processed foods (We know ultra-processed foods are bad for you – but can you spot them? Take our quiz, 21 November). Yes, eating UPFs made from animal products (like chicken nuggets and cheese in a squeeze bottle) can increase the risk of heart disease, type 2 diabetes and certain cancers, but UPFs from plants (like cereal, canned beans and even veggie burgers) can actually help keep you healthy.More and more leading health organisations agree that a more nuanced approach to UPFs is necessary. The American Medical Association recently passed a resolution that “supports and promotes public awareness and education about the differences between healthful foods and unhealthful ultra-processed foods”. The American Heart Association also recently released a report noting that “not all UPFs are junk foods or have poor nutritional quality; some UPFs have better nutritional value [than others] and can be part of an overall healthy dietary pattern”. This difference has a lot to do with whether the UPF is an animal- or plant-based product. Continue reading...",
-            "feed_position": 12
-          }
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Sun, 30 Nov 2025 14:36:02 GMT",
-        "title": "NHS test delays putting hundreds of thousands at risk, say doctors",
-        "neutral_headline": "NHS test delays putting hundreds of thousands at risk, say doctors",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/uk-news/2025/nov/30/nhs-test-delays-putting-hundreds-of-thousands-at-risk-say-doctors",
-            "published_at": "Sun, 30 Nov 2025 14:36:02 GMT",
-            "title": "NHS test delays putting hundreds of thousands at risk, say doctors",
-            "standfirst": "Exclusive: Long waiting times affected 386,849 patients in England during September, data analysis showsHundreds of thousands of people in England are not getting tests for killer diseases because of widespread delays that doctors fear will harm patients.A total of 386,849 people in September had been waiting more than six weeks for a diagnostic test for cancer, heart problems and other serious conditions, according to an analysis of NHS waiting time data by the Royal College of Radiologists (RCR). Continue reading...",
-            "content": "Exclusive: Long waiting times affected 386,849 patients in England during September, data analysis showsHundreds of thousands of people in England are not getting tests for killer diseases because of widespread delays that doctors fear will harm patients.A total of 386,849 people in September had been waiting more than six weeks for a diagnostic test for cancer, heart problems and other serious conditions, according to an analysis of NHS waiting time data by the Royal College of Radiologists (RCR). Continue reading...",
             "feed_position": 13
           }
         ]
@@ -458,7 +458,7 @@
     ]
   },
   "month_in_research": {
-    "updated_at": "2025-12-02T03:49:13.615Z",
+    "updated_at": "2025-12-02T07:16:44.895Z",
     "clusters": []
   }
 }
