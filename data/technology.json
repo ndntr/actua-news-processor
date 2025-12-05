@@ -1,61 +1,12 @@
 {
-  "updated_at": "2025-12-05T03:48:17.395Z",
+  "updated_at": "2025-12-05T07:15:56.936Z",
   "clusters": [
     {
-      "id": "cluster_29",
-      "coverage": 3,
-      "updated_at": "2025-12-04T17:37:44-05:00",
-      "title": "Apple announces even more major executive turnover",
-      "neutral_headline": "Apple Announces Executive Departures and New Appointments",
-      "bullet_summary": [
-        "Reported by The Verge, TechCrunch, TechMeme"
-      ],
-      "items": [
-        {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/news/838712/apple-policy-lead-lisa-jackson-retiring",
-          "published_at": "2025-12-04T17:37:44-05:00",
-          "title": "Apple announces even more major executive turnover",
-          "standfirst": "Following the recent retirement of former COO Jeff Williams, AI chief John Giannandrea stepping down, and the departure of head of design Alan Dye for Meta, Apple announced Thursday that environmental and policy lead Lisa Jackson is retiring and that Jennifer Newstead will replace Kate Adams as the company’s general counsel after Adams retires “late [&#8230;]",
-          "content": "Following the recent retirement of former COO Jeff Williams, AI chief John Giannandrea stepping down, and the departure of head of design Alan Dye for Meta, Apple announced Thursday that environmental and policy lead Lisa Jackson is retiring and that Jennifer Newstead will replace Kate Adams as the company’s general counsel after Adams retires “late next year.” Jackson, technically “vice president for Environment, Policy, and Social Initiatives,” will retire in “late January 2026,” Apple says. Newstead, who is currently Meta’s chief legal officer, will take over Apple’s general counsel role on March 1st, 2026, from Adams, who has been Apple’s general counsel since 2017. With Jackson’s retirement and Newstead coming on board, Apple is also making some organizational shifts and shifting some responsibilities to Williams’ COO replacement, Sabih Khan. As described by Apple: The Government Affairs organization will transition to Adams, who will oversee the team until her retirement late next year, after which it will be led by Newstead. Newstead’s title will become senior vice president, General Counsel and Government Affairs, reflecting the combining of the two organizations. The Environment and Social Initiatives teams will report to Apple chief operating officer Sabih Khan. Before joining Apple in 2013, Jackson led the EPA for part of President Obama’s time in office. Apple promoted Jackson to be policy lead in 2015. Adams came to Apple in 2017 after 14 years at Honeywell, according to Apple’s website.",
-          "feed_position": 1
-        },
-        {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2025/12/04/apples-executive-shakeup-continues-with-departures-of-general-counsel-and-policy-head/",
-          "published_at": "Thu, 04 Dec 2025 22:28:01 +0000",
-          "title": "Apple&#8217;s executive shake-up continues with departures of general counsel and policy head",
-          "standfirst": "Apple loses two more top senior executives with exits of longtime general counsel Kate Adams and environmental VP Lisa Jackson. Meta’s Jennifer Newstead is set to join as new general counsel in 2026.",
-          "content": "Apple loses two more top senior executives with exits of longtime general counsel Kate Adams and environmental VP Lisa Jackson. Meta’s Jennifer Newstead is set to join as new general counsel in 2026.",
-          "feed_position": 4
-        },
-        {
-          "source": "TechMeme",
-          "url": "http://www.techmeme.com/251204/p45#a251204p45",
-          "published_at": "Thu, 04 Dec 2025 17:00:37 -0500",
-          "title": "Apple says general counsel Kate Adams and policy chief Lisa Jackson will retire, and Jennifer Newstead, Meta's former chief legal officer, will replace Adams (Kif Leswing/CNBC)",
-          "standfirst": "Kif Leswing / CNBC: Apple says general counsel Kate Adams and policy chief Lisa Jackson will retire, and Jennifer Newstead, Meta's former chief legal officer, will replace Adams &mdash; Apple's general counsel, Kate Adams, and its vice president for environment, policy, and social initiatives, Lisa Jackson &hellip;",
-          "content": "Kif Leswing / CNBC: Apple says general counsel Kate Adams and policy chief Lisa Jackson will retire, and Jennifer Newstead, Meta's former chief legal officer, will replace Adams &mdash; Apple's general counsel, Kate Adams, and its vice president for environment, policy, and social initiatives, Lisa Jackson &hellip;",
-          "feed_position": 10,
-          "image_url": "http://www.techmeme.com/251204/i45.jpg"
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/251204/i45.jpg",
-      "popularity_score": 3014.824057222222,
-      "ai_summary": [
-        "Apple announced executive changes on Thursday.",
-        "Lisa Jackson is retiring from her environmental role.",
-        "Jennifer Newstead will replace Kate Adams as general counsel.",
-        "Kate Adams is retiring from her position.",
-        "John Giannandrea is stepping down from his AI role."
-      ]
-    },
-    {
-      "id": "cluster_24",
+      "id": "cluster_20",
       "coverage": 2,
       "updated_at": "Thu, 04 Dec 2025 23:00:00 GMT",
       "title": "The 'truth serum' for AI: OpenAI’s new method for training models to confess their mistakes",
-      "neutral_headline": "OpenAI Develops Method to Improve AI Model Honesty",
+      "neutral_headline": "OpenAI Develops Method to Train AI to Confess Mistakes",
       "bullet_summary": [
         "\" The researchers found that when a model misbehaves, it is significantly more likely to admit it in the confession than in its main answer",
         "Mibe said that Honda has already canceled plans for some EVs here in America, instead focusing on a broader selection of hybrid models",
@@ -219,21 +170,59 @@
         }
       ],
       "featured_image": "https://images.ctfassets.net/jdtwqhzvc2n1/3Cr8qlWOHQWFuY1M5Z7sib/b1bad43fa7debaf698f5455f5ffcee1a/LLM_confessions.jpg?w=300&q=30",
-      "popularity_score": 2015.1951683333334,
+      "popularity_score": 2011.7341844444445,
       "ai_summary": [
-        "OpenAI introduced a \"truth serum\" method for LLMs.",
-        "The method compels models to self-report misbehavior.",
-        "The technique addresses dishonesty in AI models.",
-        "Models may overstate confidence or hide shortcuts.",
-        "The goal is to create more transparent AI systems."
+        "OpenAI researchers introduced a \"truth serum\" method.",
+        "The method is for training large language models.",
+        "The method compels models to report misbehavior.",
+        "The method addresses AI dishonesty and policy violations.",
+        "The method aims for more transparent AI systems."
       ]
     },
     {
-      "id": "cluster_117",
+      "id": "cluster_24",
+      "coverage": 2,
+      "updated_at": "2025-12-04T17:37:44-05:00",
+      "title": "Apple announces even more major executive turnover",
+      "neutral_headline": "Apple Announces Executive Departures, Including General Counsel",
+      "bullet_summary": [
+        "Reported by The Verge, TechCrunch"
+      ],
+      "items": [
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/news/838712/apple-policy-lead-lisa-jackson-retiring",
+          "published_at": "2025-12-04T17:37:44-05:00",
+          "title": "Apple announces even more major executive turnover",
+          "standfirst": "Following the recent retirement of former COO Jeff Williams, AI chief John Giannandrea stepping down, and the departure of head of design Alan Dye for Meta, Apple announced Thursday that environmental and policy lead Lisa Jackson is retiring and that Jennifer Newstead will replace Kate Adams as the company’s general counsel after Adams retires “late [&#8230;]",
+          "content": "Following the recent retirement of former COO Jeff Williams, AI chief John Giannandrea stepping down, and the departure of head of design Alan Dye for Meta, Apple announced Thursday that environmental and policy lead Lisa Jackson is retiring and that Jennifer Newstead will replace Kate Adams as the company’s general counsel after Adams retires “late next year.” Jackson, technically “vice president for Environment, Policy, and Social Initiatives,” will retire in “late January 2026,” Apple says. Newstead, who is currently Meta’s chief legal officer, will take over Apple’s general counsel role on March 1st, 2026, from Adams, who has been Apple’s general counsel since 2017. With Jackson’s retirement and Newstead coming on board, Apple is also making some organizational shifts and shifting some responsibilities to Williams’ COO replacement, Sabih Khan. As described by Apple: The Government Affairs organization will transition to Adams, who will oversee the team until her retirement late next year, after which it will be led by Newstead. Newstead’s title will become senior vice president, General Counsel and Government Affairs, reflecting the combining of the two organizations. The Environment and Social Initiatives teams will report to Apple chief operating officer Sabih Khan. Before joining Apple in 2013, Jackson led the EPA for part of President Obama’s time in office. Apple promoted Jackson to be policy lead in 2015. Adams came to Apple in 2017 after 14 years at Honeywell, according to Apple’s website.",
+          "feed_position": 1
+        },
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2025/12/04/apples-executive-shakeup-continues-with-departures-of-general-counsel-and-policy-head/",
+          "published_at": "Thu, 04 Dec 2025 22:28:01 +0000",
+          "title": "Apple&#8217;s executive shake-up continues with departures of general counsel and policy head",
+          "standfirst": "Apple loses two more top senior executives with exits of longtime general counsel Kate Adams and environmental VP Lisa Jackson. Meta’s Jennifer Newstead is set to join as new general counsel in 2026.",
+          "content": "Apple loses two more top senior executives with exits of longtime general counsel Kate Adams and environmental VP Lisa Jackson. Meta’s Jennifer Newstead is set to join as new general counsel in 2026.",
+          "feed_position": 4
+        }
+      ],
+      "popularity_score": 2011.3630733333334,
+      "ai_summary": [
+        "Apple announced multiple executive departures.",
+        "Lisa Jackson is retiring from her role.",
+        "Jennifer Newstead will replace Kate Adams.",
+        "Kate Adams is retiring as general counsel.",
+        "The departures continue a recent trend at Apple."
+      ]
+    },
+    {
+      "id": "cluster_108",
       "coverage": 2,
       "updated_at": "Thu, 04 Dec 2025 11:30:04 +0000",
       "title": "A fentanyl vaccine is about to get its first major test",
-      "neutral_headline": "Fentanyl Vaccine Trial Set to Begin in the Netherlands",
+      "neutral_headline": "Fentanyl Vaccine Set for First Major Test in Netherlands",
       "bullet_summary": [
         "Reported by Ars Technica, Wired Tech"
       ],
@@ -255,22 +244,22 @@
           "title": "A Fentanyl Vaccine Is About to Get Its First Major Test",
           "standfirst": "ARMR Sciences of New York is trialing a vaccine in the Netherlands to protect against fentanyl-related overdose and death.",
           "content": "ARMR Sciences of New York is trialing a vaccine in the Netherlands to protect against fentanyl-related overdose and death.",
-          "feed_position": 36,
+          "feed_position": 40,
           "image_url": "https://media.wired.com/photos/6909fef5d708e8376d1a521e/master/pass/110425_Fentanyl-Vaccine.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2209051218-1152x648.jpg",
-      "popularity_score": 2003.6962794444444,
+      "popularity_score": 2000.2352955555555,
       "ai_summary": [
-        "A fentanyl vaccine is undergoing its first major test.",
-        "ARMR Sciences of New York is conducting the trial.",
-        "The trial aims to protect against overdose and death.",
+        "A fentanyl vaccine is undergoing trials.",
         "The trial is taking place in the Netherlands.",
-        "The vaccine is designed to combat fentanyl's effects."
+        "The vaccine aims to prevent overdose and death.",
+        "ARMR Sciences of New York is conducting the trial.",
+        "The trial is a major step for the vaccine."
       ]
     },
     {
-      "id": "cluster_37",
+      "id": "cluster_31",
       "coverage": 1,
       "updated_at": "Thu, 04 Dec 2025 21:51:36 +0000",
       "title": "In comedy of errors, men accused of wiping gov databases turned to an AI tool",
@@ -291,21 +280,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/data-theft-1152x648.jpg",
-      "popularity_score": 352.0551683333333,
+      "popularity_score": 348.59418444444447,
       "ai_summary": [
-        "Defendants were convicted of similar crimes a decade ago.",
-        "The defendants used an AI tool in their defense.",
-        "The men were accused of wiping government databases.",
-        "The AI tool contributed to their acquittal.",
-        "The case involved a series of errors."
+        "Men were accused of wiping government databases.",
+        "They used an AI tool in the process.",
+        "They were previously convicted of similar crimes.",
+        "The AI tool played a role in their case.",
+        "The case involves a comedy of errors."
       ]
     },
     {
-      "id": "cluster_26",
+      "id": "cluster_21",
       "coverage": 1,
       "updated_at": "Thu, 04 Dec 2025 22:54:52 +0000",
       "title": "Congress warned that NASA’s current plan for Artemis “cannot work”",
-      "neutral_headline": "Congress Warns NASA's Artemis Plan Cannot Succeed",
+      "neutral_headline": "Congress Warns NASA's Artemis Plan \"Cannot Work",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -322,21 +311,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2207557317-900x648.jpg",
-      "popularity_score": 348.1096127777778,
+      "popularity_score": 344.6486288888889,
       "ai_summary": [
-        "Congress was warned about NASA's Artemis plan.",
+        "Congress has issued a warning about Artemis.",
+        "The warning states the current plan is unworkable.",
         "The Artemis III mission and beyond should be canceled.",
-        "The current plan is deemed unworkable.",
-        "The warning came from a congressional source.",
-        "The plan faces significant challenges."
+        "The warning comes from a congressional body.",
+        "The plan is for NASA's Artemis program."
       ]
     },
     {
-      "id": "cluster_45",
+      "id": "cluster_39",
       "coverage": 1,
       "updated_at": "Thu, 04 Dec 2025 20:56:44 +0000",
       "title": "CDC vaccine panel realizes again it has no idea what it’s doing, delays big vote",
-      "neutral_headline": "CDC Vaccine Panel Delays Vote Due to Chaos",
+      "neutral_headline": "CDC Vaccine Panel Delays Vote After Chaotic Meeting",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -353,21 +342,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2249270671-1152x648.jpg",
-      "popularity_score": 331.1407236111111,
+      "popularity_score": 327.67974,
       "ai_summary": [
-        "The CDC vaccine panel delayed a significant vote.",
-        "The meeting included anti-vaccine presentations.",
+        "The CDC vaccine panel delayed a vote.",
         "The meeting was described as chaotic.",
-        "The panel realized it lacked clarity.",
+        "Anti-vaccine presentations were included.",
+        "The panel is reconsidering its actions.",
         "The vote was postponed due to issues."
       ]
     },
     {
-      "id": "cluster_41",
+      "id": "cluster_35",
       "coverage": 1,
       "updated_at": "Thu, 04 Dec 2025 21:23:40 +0000",
       "title": "Engineer proves that Kohler’s smart toilet cameras aren’t very private",
-      "neutral_headline": "Engineer Reveals Kohler Smart Toilet Cameras Lack Privacy",
+      "neutral_headline": "Engineer Proves Kohler Smart Toilet Cameras Lack Privacy",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -384,21 +373,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/fa9752cdfabfc67f2acd9bfdf4f195ecfdad5f05-1152x648.jpg",
-      "popularity_score": 326.5896125,
+      "popularity_score": 323.1286288888889,
       "ai_summary": [
-        "An engineer proved Kohler's cameras are not private.",
-        "The cameras are installed in smart toilets.",
-        "Kohler is collecting data on users' activities.",
-        "The engineer's findings raise privacy concerns.",
-        "The data collected includes user's waste."
+        "An engineer tested Kohler's smart toilet cameras.",
+        "The engineer found privacy issues.",
+        "The cameras collect user data.",
+        "Kohler is getting information on users.",
+        "The cameras are not very private."
       ]
     },
     {
-      "id": "cluster_52",
+      "id": "cluster_44",
       "coverage": 1,
       "updated_at": "Thu, 04 Dec 2025 20:07:20 +0000",
       "title": "Researchers find what makes AI chatbots politically persuasive",
-      "neutral_headline": "Study Finds Weak Effect of AI Chatbots on Persuasion",
+      "neutral_headline": "Study Finds AI Chatbots Have Weak Political Persuasion",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -415,21 +404,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/twitter-bot-1152x648.jpg",
-      "popularity_score": 320.3173902777778,
+      "popularity_score": 316.85640666666666,
       "ai_summary": [
-        "Researchers studied political persuasion by AI.",
-        "A massive study was conducted on the topic.",
-        "AI chatbots have a weak effect on persuasion.",
-        "The study examined the impact of AI.",
-        "The findings suggest limited influence."
+        "Researchers studied AI's political persuasion abilities.",
+        "The study was a massive undertaking.",
+        "AIs have a weak effect on persuasion.",
+        "The study focused on political persuasion.",
+        "The findings show limited impact."
       ]
     },
     {
-      "id": "cluster_69",
+      "id": "cluster_60",
       "coverage": 1,
       "updated_at": "Thu, 04 Dec 2025 18:40:36 +0000",
       "title": "ChatGPT hyped up violent stalker who believed he was “God’s assassin,” DOJ says",
-      "neutral_headline": "ChatGPT Used by Stalker, DOJ Says",
+      "neutral_headline": "ChatGPT Used to Hyped Up Violent Stalker",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -446,21 +435,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2233803629-1152x648.jpg",
-      "popularity_score": 304.8718347222222,
+      "popularity_score": 301.4108511111111,
       "ai_summary": [
-        "A podcaster faces charges for ChatGPT-linked stalking.",
-        "The podcaster believed he was \"God's assassin.\"",
+        "ChatGPT was used by a violent stalker.",
+        "The stalker believed he was \"God's assassin.\"",
         "The DOJ is involved in the case.",
-        "The podcaster could face up to seventy years.",
-        "The podcaster could face a $3.5 million fine."
+        "The podcaster faces severe penalties.",
+        "The podcaster is linked to ChatGPT."
       ]
     },
     {
-      "id": "cluster_57",
+      "id": "cluster_48",
       "coverage": 1,
       "updated_at": "Thu, 04 Dec 2025 19:53:14 +0000",
       "title": "Why won’t Steam Machine support HDMI 2.1? Digging in on the display standard drama.",
-      "neutral_headline": "Steam Machine Lacks HDMI 2.1 Support",
+      "neutral_headline": "Steam Machine Faces HDMI 2.1 Support Challenges Due to Driver Issues",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -477,21 +466,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/sm1-1152x648.jpg",
-      "popularity_score": 295.0823902777778,
+      "popularity_score": 291.62140666666664,
       "ai_summary": [
-        "Valve is addressing open source driver issues.",
-        "Valve is trying to unblock limits.",
-        "Steam Machine does not support HDMI 2.1.",
-        "The issue is related to display standards.",
-        "The lack of support is causing drama."
+        "Valve is working to resolve limitations related to open source driver issues.",
+        "These issues are preventing full support for the HDMI 2.1 display standard.",
+        "The company is actively trying to \"unblock\" the current restrictions.",
+        "The issues are impacting the Steam Machine's display capabilities.",
+        "The open source drivers are the primary cause of the problem."
       ]
     },
     {
-      "id": "cluster_74",
+      "id": "cluster_65",
       "coverage": 1,
       "updated_at": "Thu, 04 Dec 2025 18:11:41 +0000",
       "title": "OnePlus 15 finally gets FCC clearance after government shutdown delay—preorders live",
-      "neutral_headline": "OnePlus 15 Receives FCC Clearance, Preorders Live",
+      "neutral_headline": "OnePlus 15 Receives FCC Clearance, Preorders Now Available",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -508,21 +497,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/OnePlus-15-5-1152x648.jpg",
-      "popularity_score": 273.3898902777778,
+      "popularity_score": 269.92890666666665,
       "ai_summary": [
-        "The OnePlus 15 has received FCC clearance.",
-        "Preorders are now available for the device.",
-        "The device starts at a price of $900.",
-        "A free gift is offered for a limited time.",
-        "The government shutdown delayed the process."
+        "The OnePlus 15 has finally received clearance from the FCC.",
+        "Preorders for the device are now open to the public.",
+        "The starting price for the phone is set at $900.",
+        "A free gift will be included with preorders for a limited time.",
+        "The FCC clearance was delayed due to a government shutdown."
       ]
     },
     {
-      "id": "cluster_76",
+      "id": "cluster_67",
       "coverage": 1,
       "updated_at": "Thu, 04 Dec 2025 17:59:38 +0000",
       "title": "In 1995, a Netscape employee wrote a hack in 10 days that now runs the Internet",
-      "neutral_headline": "JavaScript Turns Thirty Years Old",
+      "neutral_headline": "JavaScript's 30th Anniversary Celebrates Web's Interactive Foundation",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -539,17 +528,17 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/netscape_logo_header_3-1152x648.jpg",
-      "popularity_score": 273.1890569444445,
+      "popularity_score": 269.7280733333333,
       "ai_summary": [
-        "A Netscape employee wrote a hack in ten days.",
-        "JavaScript is the glue of the interactive web.",
-        "JavaScript is thirty years old.",
-        "The code was written in 1995.",
-        "JavaScript holds the web together."
+        "A Netscape employee wrote JavaScript in just ten days back in 1995.",
+        "JavaScript is now essential for the interactive web experience.",
+        "It serves as the primary glue holding the interactive web together.",
+        "The language has evolved significantly over the past three decades.",
+        "JavaScript continues to be a crucial technology for web development."
       ]
     },
     {
-      "id": "cluster_95",
+      "id": "cluster_86",
       "coverage": 1,
       "updated_at": "Thu, 04 Dec 2025 16:16:46 +0000",
       "title": "Welcome to “necroprinting”—3D printer nozzle made from mosquito’s proboscis",
@@ -570,21 +559,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2065922040-1152x648.jpg",
-      "popularity_score": 251.4746125,
+      "popularity_score": 248.0136288888889,
       "ai_summary": [
-        "Researchers are exploring the use of mosquito proboscises as 3D printer nozzles.",
-        "These nozzles are significantly cheaper than commercially manufactured alternatives.",
-        "The process involves carefully dissecting and preparing the mosquito's proboscis.",
-        "This innovative approach could reduce costs for certain 3D printing applications.",
-        "The research highlights a creative use of biological materials in technology."
+        "Researchers are using mosquito proboscises to create 3D printer nozzles.",
+        "These nozzles are significantly cheaper than manufactured alternatives.",
+        "The process involves dissecting the mosquito's proboscis.",
+        "The nozzles are designed for use in 3D printing applications.",
+        "This innovative approach offers a cost-effective solution."
       ]
     },
     {
-      "id": "cluster_128",
+      "id": "cluster_119",
       "coverage": 1,
       "updated_at": "Wed, 03 Dec 2025 23:16:03 +0000",
       "title": "Admins and defenders gird themselves against maximum-severity server vuln",
-      "neutral_headline": "Critical Server Vulnerability Discovered in Open Source React",
+      "neutral_headline": "Server Vulnerability Allows Malicious Code Execution via Malformed HTML",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -603,19 +592,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-1.jpg",
       "popularity_score": 154,
       "ai_summary": [
-        "A severe vulnerability exists in open source React software.",
-        "Malicious code can be executed through malformed HTML.",
-        "No authentication is required to exploit this vulnerability.",
-        "Administrators and defenders are preparing for potential attacks.",
-        "The vulnerability poses a significant security risk to affected servers."
+        "A maximum-severity server vulnerability has been discovered.",
+        "Open source React is susceptible to malicious code execution.",
+        "The vulnerability requires malformed HTML to trigger the issue.",
+        "No authentication is needed to exploit the vulnerability.",
+        "Admins and defenders are preparing for potential attacks."
       ]
     },
     {
-      "id": "cluster_114",
+      "id": "cluster_105",
       "coverage": 1,
       "updated_at": "Thu, 04 Dec 2025 12:00:42 +0000",
       "title": "The NPU in your phone keeps improving—why isn’t that making AI better?",
-      "neutral_headline": "Phone NPUs Improve, But AI Advancement Remains Complex",
+      "neutral_headline": "Phone NPUs Improve, Yet AI Performance Remains Unchanged",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -632,21 +621,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/npu_phone-1152x648.jpg",
-      "popularity_score": 152.20683472222223,
+      "popularity_score": 148.7458511111111,
       "ai_summary": [
-        "Neural Processing Units (NPUs) in phones are constantly improving.",
-        "Shrinking artificial intelligence for mobile devices is challenging.",
-        "The complexity of AI development hinders its progress on phones.",
-        "Optimizing AI for mobile platforms requires significant effort.",
-        "The gap between NPU capabilities and AI performance persists."
+        "The Neural Processing Unit (NPU) in phones is constantly improving.",
+        "Despite NPU advancements, AI performance has not significantly improved.",
+        "Shrinking AI for mobile devices presents complex challenges.",
+        "The complexities of mobile AI are hindering progress.",
+        "The relationship between NPU and AI performance is not straightforward."
       ]
     },
     {
-      "id": "cluster_136",
+      "id": "cluster_127",
       "coverage": 1,
       "updated_at": "Wed, 03 Dec 2025 21:06:34 +0000",
       "title": "Republicans drop Trump-ordered block on state AI laws from defense bill",
-      "neutral_headline": "Republicans Remove Trump's Block on State AI Laws",
+      "neutral_headline": "Republicans Remove Trump's Block on State AI Laws in Defense Bill",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -665,19 +654,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2238395456-1024x648.jpg",
       "popularity_score": 148,
       "ai_summary": [
-        "Republicans have removed a Trump-ordered block on state AI laws.",
-        "A \"widespread and powerful movement\" prevented the block.",
-        "The defense bill will no longer restrict state AI legislation.",
-        "This decision allows states to pursue their own AI regulations.",
-        "The move reflects a shift in the political landscape regarding AI."
+        "Republicans have dropped Trump's block on state AI laws.",
+        "The decision was made within the context of a defense bill.",
+        "A \"widespread and powerful movement\" influenced the outcome.",
+        "Trump's attempt to block the laws was unsuccessful.",
+        "The state AI laws will now proceed without federal interference."
       ]
     },
     {
-      "id": "cluster_100",
+      "id": "cluster_91",
       "coverage": 1,
       "updated_at": "Thu, 04 Dec 2025 15:28:08 +0000",
       "title": "Trump wants tiny Japanese-style cars for US even as he cuts mpg goals",
-      "neutral_headline": "Trump Proposes Small Cars While Cutting Fuel Economy Goals",
+      "neutral_headline": "Trump Advocates for Small Cars While Cutting MPG Goals",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -694,52 +683,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2234137052-1152x648.jpg",
-      "popularity_score": 146.66405694444444,
+      "popularity_score": 143.20307333333332,
       "ai_summary": [
-        "Trump is advocating for small, Japanese-style cars in the US.",
-        "He is simultaneously cutting fuel economy targets.",
-        "The first Trump administration had stricter fuel economy standards.",
-        "This creates a contradiction in his transportation policies.",
-        "The proposal could impact vehicle design and fuel efficiency."
+        "Trump is expressing interest in small, Japanese-style cars for the US.",
+        "Simultaneously, he is cutting fuel economy goals.",
+        "Even his first administration had stricter fuel economy targets.",
+        "The current stance presents a contradiction in policy.",
+        "The implications of these actions are still unfolding."
       ]
     },
     {
-      "id": "cluster_105",
-      "coverage": 1,
-      "updated_at": "Thu, 04 Dec 2025 15:08:39 +0000",
-      "title": "Lego announces NASA Artemis SLS rocket set to lift off (literally) in 2026",
-      "neutral_headline": "Lego to Release NASA Artemis SLS Rocket Set in 2026",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/space/2025/12/lego-announces-nasa-artemis-sls-rocket-set-to-lift-off-literally-in-2026/",
-          "published_at": "Thu, 04 Dec 2025 15:08:39 +0000",
-          "title": "Lego announces NASA Artemis SLS rocket set to lift off (literally) in 2026",
-          "standfirst": "Developed with NASA and ESA, the 632-piece kit comes out Jan. 1.",
-          "content": "How do you top a highly detailed scale model of NASA’s new moon-bound rocket and its support tower? If you’re Lego, you make it so it can actually lift off. Lego’s NASA Artemis Space Launch System Rocket, part of its Technic line of advanced building sets, will land on store shelves for $60 on January 1, 2026, and then “blast off” from kitchen tables, office desks and living room floors. The 632-piece set climbs skyward, separating from its expendable stages along the way, until the Orion crew spacecraft and its European Service Module top out the motion on their way to the moon—or wherever your imagination carries it. “The educational LEGO Technic set shows the moment a rocket launches, in three distinct stages,” reads the product description on Lego’s website. “Turn the crank to see the solid rocket boosters separate from the core stage, which then also detaches. Continue turning to watch the upper stage with its engine module, Orion spacecraft and launch abort system separate.”Read full article Comments",
-          "feed_position": 11,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/news-120225b-lg-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/news-120225b-lg-1152x648.jpg",
-      "popularity_score": 140.33933472222222,
-      "ai_summary": [
-        "Lego is releasing a NASA Artemis SLS rocket set.",
-        "The set is developed in collaboration with NASA and ESA.",
-        "It will consist of 632 pieces for building the rocket.",
-        "The kit is scheduled for release on January 1st.",
-        "This set offers a detailed model of the Artemis rocket."
-      ]
-    },
-    {
-      "id": "cluster_129",
+      "id": "cluster_120",
       "coverage": 1,
       "updated_at": "Wed, 03 Dec 2025 23:01:26 +0000",
       "title": "Great handling, advanced EV tech: We drive the 2027 BMW iX3",
-      "neutral_headline": "BMW iX3 EV Receives Positive Reviews for Handling and Tech",
+      "neutral_headline": "BMW iX3 Drives Well, Showcases Advanced Electric Vehicle Technology",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -758,19 +716,50 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/BMW-iX3-50-xDrive-Spacesilver-061-1152x648.jpg",
       "popularity_score": 139,
       "ai_summary": [
-        "The 2027 BMW iX3 has received positive reviews.",
-        "It is praised for its handling and advanced EV technology.",
-        "This is the first of BMW's \"Neue Klasse\" EVs.",
-        "The vehicle is performing well in initial assessments.",
-        "The iX3 represents a significant step forward for BMW."
+        "The 2027 BMW iX3 offers great handling characteristics.",
+        "It incorporates advanced electric vehicle technology.",
+        "It is the first of BMW's \"Neue Klasse\" EVs.",
+        "The vehicle is receiving positive reviews.",
+        "The iX3 is considered a successful launch."
       ]
     },
     {
-      "id": "cluster_125",
+      "id": "cluster_96",
+      "coverage": 1,
+      "updated_at": "Thu, 04 Dec 2025 15:08:39 +0000",
+      "title": "Lego announces NASA Artemis SLS rocket set to lift off (literally) in 2026",
+      "neutral_headline": "Lego Announces NASA Artemis SLS Rocket Set for 2026 Release",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/space/2025/12/lego-announces-nasa-artemis-sls-rocket-set-to-lift-off-literally-in-2026/",
+          "published_at": "Thu, 04 Dec 2025 15:08:39 +0000",
+          "title": "Lego announces NASA Artemis SLS rocket set to lift off (literally) in 2026",
+          "standfirst": "Developed with NASA and ESA, the 632-piece kit comes out Jan. 1.",
+          "content": "How do you top a highly detailed scale model of NASA’s new moon-bound rocket and its support tower? If you’re Lego, you make it so it can actually lift off. Lego’s NASA Artemis Space Launch System Rocket, part of its Technic line of advanced building sets, will land on store shelves for $60 on January 1, 2026, and then “blast off” from kitchen tables, office desks and living room floors. The 632-piece set climbs skyward, separating from its expendable stages along the way, until the Orion crew spacecraft and its European Service Module top out the motion on their way to the moon—or wherever your imagination carries it. “The educational LEGO Technic set shows the moment a rocket launches, in three distinct stages,” reads the product description on Lego’s website. “Turn the crank to see the solid rocket boosters separate from the core stage, which then also detaches. Continue turning to watch the upper stage with its engine module, Orion spacecraft and launch abort system separate.”Read full article Comments",
+          "feed_position": 11,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/news-120225b-lg-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/news-120225b-lg-1152x648.jpg",
+      "popularity_score": 136.8783511111111,
+      "ai_summary": [
+        "Lego is releasing a NASA Artemis SLS rocket set.",
+        "The set is developed in collaboration with NASA and ESA.",
+        "The kit contains 632 pieces.",
+        "The set will be available starting January 1.",
+        "The launch of the set is scheduled for 2026."
+      ]
+    },
+    {
+      "id": "cluster_116",
       "coverage": 1,
       "updated_at": "Thu, 04 Dec 2025 00:06:58 +0000",
       "title": "12 former FDA chiefs unite to say agency memo on vaccines is deeply stupid",
-      "neutral_headline": "Former FDA Chiefs Criticize Agency Memo on Vaccines",
+      "neutral_headline": "Former FDA Chiefs Criticize Agency Memo on Vaccine Safety",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -789,19 +778,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/GettyImages-1403288381-1152x648.jpeg",
       "popularity_score": 133,
       "ai_summary": [
-        "Twelve former FDA chiefs have criticized an agency memo.",
-        "They claim the memo misrepresents scientific and regulatory records.",
-        "The memo's arguments are considered deeply flawed.",
-        "The criticism highlights disagreements within the agency.",
-        "The controversy raises questions about vaccine policy."
+        "Twelve former FDA chiefs have united to criticize a recent memo.",
+        "They believe the memo's arguments are deeply flawed.",
+        "The memo is about vaccine safety.",
+        "The arguments misrepresent scientific and regulatory records.",
+        "The former chiefs are expressing strong disagreement."
       ]
     },
     {
-      "id": "cluster_137",
+      "id": "cluster_128",
       "coverage": 1,
       "updated_at": "Wed, 03 Dec 2025 20:40:42 +0000",
       "title": "Humans in southern Africa were an isolated population until recently",
-      "neutral_headline": "Southern African Humans Were Isolated Until Recently",
+      "neutral_headline": "Southern African Population Isolated Until Recent History",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -821,18 +810,18 @@
       "popularity_score": 133,
       "ai_summary": [
         "Humans in southern Africa were isolated until recently.",
-        "A distinct population existed for a long period.",
-        "This population was isolated until the last thousand years.",
-        "The findings shed light on human migration patterns.",
-        "The research provides insights into genetic diversity."
+        "This distinct population was isolated for a long period.",
+        "The isolation ended approximately a thousand years ago.",
+        "Genetic studies reveal this period of separation.",
+        "The findings shed light on human migration patterns."
       ]
     },
     {
-      "id": "cluster_139",
+      "id": "cluster_130",
       "coverage": 1,
       "updated_at": "Wed, 03 Dec 2025 19:48:47 +0000",
       "title": "After nearly 30 years, Crucial will stop selling RAM to consumers",
-      "neutral_headline": "Crucial to Discontinue Consumer RAM Sales After Nearly 30 Years",
+      "neutral_headline": "Crucial to Stop Selling RAM to Consumers After Nearly 30 Years",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -854,8 +843,8 @@
         "Crucial will stop selling RAM to consumers.",
         "Micron cites AI data center demand as the reason.",
         "The DIY upgrade brand is being discontinued.",
-        "The decision reflects a shift in market priorities.",
-        "The move will impact consumers who build their own computers."
+        "The decision impacts the consumer market.",
+        "The focus shifts to data center needs."
       ]
     }
   ]
