@@ -1,8 +1,118 @@
 {
-  "updated_at": "2025-12-11T07:19:29.105Z",
+  "updated_at": "2025-12-11T23:14:13.548Z",
   "clusters": [
     {
-      "id": "cluster_45",
+      "id": "cluster_17",
+      "coverage": 3,
+      "updated_at": "Thu, 11 Dec 2025 21:27:18 +0000",
+      "title": "OpenAI releases GPT-5.2 after “code red” Google threat alert",
+      "neutral_headline": "OpenAI releases GPT-5.2 after “code red” Google threat alert",
+      "bullet_summary": [
+        "Reported by Ars Technica, TechMeme, Wired Tech"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/information-technology/2025/12/openai-releases-gpt-5-2-after-code-red-google-threat-alert/",
+          "published_at": "Thu, 11 Dec 2025 21:27:18 +0000",
+          "title": "OpenAI releases GPT-5.2 after “code red” Google threat alert",
+          "standfirst": "Company claims new AI model tops Gemini and matches humans on 70% of work tasks.",
+          "content": "On Thursday, OpenAI released GPT-5.2, its newest family of AI models for ChatGPT, in three versions called Instant, Thinking, and Pro. The release follows CEO Sam Altman’s internal “code red” memo earlier this month, which directed company resources toward improving ChatGPT in response to competitive pressure from Google’s Gemini 3 AI model. “We designed 5.2 to unlock even more economic value for people,” Fidji Simo, OpenAI’s chief product officer, said during a press briefing with journalists on Thursday. “It’s better at creating spreadsheets, building presentations, writing code, perceiving images, understanding long context, using tools and then linking complex, multi-step projects.” As with previous versions of GPT-5, the three model tiers serve different purposes: Instant handles faster tasks like writing and translation; Thinking spits out simulated reasoning “thinking” text in an attempt to tackle more complex work like coding and math; and Pro spits out even more simulated reasoning text with the goal of delivering the highest-accuracy performance for difficult problems.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/openai_tectonic_shift_3-1152x648.jpg"
+        },
+        {
+          "source": "TechMeme",
+          "url": "http://www.techmeme.com/251211/p34#a251211p34",
+          "published_at": "Thu, 11 Dec 2025 13:06:11 -0500",
+          "title": "OpenAI launches GPT-5.2, its \"best model yet,\" in Instant, Thinking, and Pro variants, with significant improvements in writing, coding, and reasoning (Maxwell Zeff/Wired)",
+          "standfirst": "Maxwell Zeff / Wired: OpenAI launches GPT-5.2, its &ldquo;best model yet,&rdquo; in Instant, Thinking, and Pro variants, with significant improvements in writing, coding, and reasoning &mdash; The ChatGPT-maker is releasing its &ldquo;best model yet&rdquo; as it faces new pressures from Google and other AI competitors.",
+          "content": "Maxwell Zeff / Wired: OpenAI launches GPT-5.2, its &ldquo;best model yet,&rdquo; in Instant, Thinking, and Pro variants, with significant improvements in writing, coding, and reasoning &mdash; The ChatGPT-maker is releasing its &ldquo;best model yet&rdquo; as it faces new pressures from Google and other AI competitors.",
+          "feed_position": 14,
+          "image_url": "http://www.techmeme.com/251211/i34.jpg"
+        },
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/openai-gpt-launch-gemini-code-red/",
+          "published_at": "Thu, 11 Dec 2025 18:00:00 +0000",
+          "title": "OpenAI Launches GPT-5.2 as It Navigates ‘Code Red’",
+          "standfirst": "The ChatGPT-maker is releasing its “best model yet” as it faces new pressures from Google and other AI competitors.",
+          "content": "The ChatGPT-maker is releasing its “best model yet” as it faces new pressures from Google and other AI competitors.",
+          "feed_position": 7,
+          "image_url": "https://media.wired.com/photos/6939fd17eaa4088bd3b69c9f/master/pass/GettyImages-2249343616.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/openai_tectonic_shift_3-1152x648.jpg",
+      "popularity_score": 3018.217903333333
+    },
+    {
+      "id": "cluster_43",
+      "coverage": 2,
+      "updated_at": "Thu, 11 Dec 2025 13:25:03 -0500",
+      "title": "Google launches Disco, a Gemini 3-powered experiment that suggests and creates GenTabs, web apps based on the user's open browser tabs and Gemini chat history (Sarah Perez/TechCrunch)",
+      "neutral_headline": "Google launches Disco, a Gemini 3-powered experiment that suggests and creates GenTabs, web apps based on the user's...",
+      "bullet_summary": [
+        "Reported by TechMeme, TechCrunch"
+      ],
+      "items": [
+        {
+          "source": "TechMeme",
+          "url": "http://www.techmeme.com/251211/p36#a251211p36",
+          "published_at": "Thu, 11 Dec 2025 13:25:03 -0500",
+          "title": "Google launches Disco, a Gemini 3-powered experiment that suggests and creates GenTabs, web apps based on the user's open browser tabs and Gemini chat history (Sarah Perez/TechCrunch)",
+          "standfirst": "Sarah Perez / TechCrunch: Google launches Disco, a Gemini 3-powered experiment that suggests and creates GenTabs, web apps based on the user's open browser tabs and Gemini chat history &mdash; Google on Thursday introduced a new AI experiment for the web browser: the Gemini-powered product, &ldquo;Disco,&rdquo; which helps to turn your open tabs into custom applications.",
+          "content": "Sarah Perez / TechCrunch: Google launches Disco, a Gemini 3-powered experiment that suggests and creates GenTabs, web apps based on the user's open browser tabs and Gemini chat history &mdash; Google on Thursday introduced a new AI experiment for the web browser: the Gemini-powered product, &ldquo;Disco,&rdquo; which helps to turn your open tabs into custom applications.",
+          "feed_position": 12,
+          "image_url": "http://www.techmeme.com/251211/i36.jpg"
+        },
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2025/12/11/google-debuts-disco-a-gemini-powered-tool-for-making-web-apps-from-browser-tabs/",
+          "published_at": "Thu, 11 Dec 2025 18:00:00 +0000",
+          "title": "Google debuts &#8216;Disco,&#8217; a Gemini-powered tool for making web apps from browser tabs",
+          "standfirst": "Google Labs is testing a product that will work with your browser tabs to make web apps for you.",
+          "content": "Google Labs is testing a product that will work with your browser tabs to make web apps for you.",
+          "feed_position": 6
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/251211/i36.jpg",
+      "popularity_score": 2015.1804033333333
+    },
+    {
+      "id": "cluster_52",
+      "coverage": 2,
+      "updated_at": "Thu, 11 Dec 2025 17:33:52 +0000",
+      "title": "Fewer EVs need fewer batteries: Ford and SK On end their joint venture",
+      "neutral_headline": "Fewer EVs need fewer batteries: Ford and SK On end their joint venture",
+      "bullet_summary": [
+        "Reported by Ars Technica, TechCrunch"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/cars/2025/12/fewer-evs-need-fewer-batteries-ford-and-sk-on-end-their-joint-venture/",
+          "published_at": "Thu, 11 Dec 2025 17:33:52 +0000",
+          "title": "Fewer EVs need fewer batteries: Ford and SK On end their joint venture",
+          "standfirst": "Ford will keep the plant in Kentucky, SK gets the one in Tennessee.",
+          "content": "Cast your mind back to 2021. Electric vehicles were hot stuff, buoyed by Tesla’s increasingly stratospheric valuation and a general optimism fueled by what would turn out to be the most significant climate-focused spending package in US history. For some time, automakers had been promising an all-electric future, and they started laying the groundwork to make that happen, partnering with battery suppliers and the like. Take Ford—that year, it announced a joint venture with SK to build a pair of battery factories, one in Kentucky, the other in Tennessee. BlueOvalSK represented an $11.4 billion investment that would create 11,000 jobs, we were told, and an annual output of 60 GWh from both plants. Four years later, things look very different. EV subsidies are dead, as is any inclination by the current government to hold automakers accountable for selling too many gas guzzlers. EV-heavy product plans have been thrown out, and designs for new combustion-powered cars are being dusted off and spiffed up. Fewer EVs means a lower need for batteries, and today we saw that in evidence when it emerged that Ford and SK On are ending their battery factory joint venture.Read full article Comments",
+          "feed_position": 5,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/Blue-Oval-City-1-1152x648.jpg"
+        },
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2025/12/11/ford-and-sk-on-are-ending-their-u-s-battery-joint-venture/",
+          "published_at": "Thu, 11 Dec 2025 16:11:07 +0000",
+          "title": "Ford and SK On are ending their US battery joint venture",
+          "standfirst": "The factories live on; the joint venture will not. The two companies will divide the assets: Ford will take ownership and operation of the twin battery plants in Kentucky, while SK On will operate the factory at the massive BlueOval SK campus in Tennessee.",
+          "content": "The factories live on; the joint venture will not. The two companies will divide the assets: Ford will take ownership and operation of the twin battery plants in Kentucky, while SK On will operate the factory at the massive BlueOval SK campus in Tennessee.",
+          "feed_position": 10
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/Blue-Oval-City-1-1152x648.jpg",
+      "popularity_score": 2014.3273477777777
+    },
+    {
+      "id": "cluster_103",
       "coverage": 2,
       "updated_at": "Wed, 10 Dec 2025 18:40:58 +0000",
       "title": "Kindle Scribe Colorsoft brings color e-ink to Amazon’s 11-inch e-reader",
@@ -18,7 +128,7 @@
           "title": "Kindle Scribe Colorsoft brings color e-ink to Amazon’s 11-inch e-reader",
           "standfirst": "Amazon has added color e-ink to its devices more slowly than its competitors.",
           "content": "Amazon has been updating the large-screened Kindle Scribe tablet more frequently and regularly than it updates its standard e-readers, and today the company is announcing the tablet’s third hardware update in four years. The regular Scribe is also being joined by a lower-end Scribe with less storage and no front light and an upgraded Kindle Scribe Colorsoft model with a color e-ink screen. This makes it only the second Kindle to include a color screen, after last year’s Kindle Colorsoft. Both the regular Kindle Scribe and the Kindle Scribe Colorsoft are available to order starting today for $500 and $630, respectively. Both of those devices include a Premium Pen accessory and 32GB of internal storage; 64GB of storage is available for an extra $50 for both devices. The cheaper front light-less Scribe is coming sometime next year and will run $430 for a model with a more modest 16GB of storage. (These are all much more expensive than the original Scribe’s $340 launch price, but inflation, tariffs, and shortages are wreaking havoc with all kinds of tech prices for the past few years.) The Scribe and Scribe Colorsoft both come with an updated front light “with miniaturized LEDs that fit tightly against the display,” narrowing the bezel and improving the uniformity of the lighting. Amazon has also tweaked the friction level of the paper-like texture on the glass display, shrunk the gap between the glass and the actual display panel to make writing on the tablet feel more like writing on paper, and added a quad-core processor and more RAM to speed the tablet up.Read full article Comments",
-          "feed_position": 5,
+          "feed_position": 14,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/download-1152x648.jpeg"
         },
         {
@@ -28,15 +138,207 @@
           "title": "Kindle Scribe Colorsoft and Kindle Scribe (3rd Gen) Review (2025)",
           "standfirst": "Amazon’s latest e-reader and digital notebook combos bring new features, but they may not be enough in a crowded market.",
           "content": "Amazon’s latest e-reader and digital notebook combos bring new features, but they may not be enough in a crowded market.",
-          "feed_position": 12,
+          "feed_position": 29,
           "image_url": "https://media.wired.com/photos/6938b15e6714700b8598873d/master/pass/Kindle%20Scribe%20Colorsoft_Kindle%20Scribe%20(3rd%20Gen)%20comparison%20top%20art%20122025%20updated%20SOURCE%20Amazon.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/download-1152x648.jpeg",
-      "popularity_score": 2007.358026388889
+      "popularity_score": 2000
     },
     {
-      "id": "cluster_7",
+      "id": "cluster_29",
+      "coverage": 1,
+      "updated_at": "Thu, 11 Dec 2025 19:29:29 +0000",
+      "title": "Disney says Google AI infringes copyright “on a massive scale”",
+      "neutral_headline": "Disney says Google AI infringes copyright “on a massive scale”",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/google/2025/12/disney-says-google-ai-infringes-copyright-on-a-massive-scale/",
+          "published_at": "Thu, 11 Dec 2025 19:29:29 +0000",
+          "title": "Disney says Google AI infringes copyright “on a massive scale”",
+          "standfirst": "Disney demands that Google immediately block its copyrighted content from appearing in AI outputs.",
+          "content": "The Wild West of copyrighted characters in AI may be coming to an end. There has been legal wrangling over the role of copyright in the AI era, but the mother of all legal teams may now be gearing up for a fight. Disney has sent a cease and desist to Google, alleging the company’s AI tools are infringing Disney’s copyrights “on a massive scale.” According to the letter, Google is violating the entertainment conglomerate’s intellectual property in multiple ways. The legal notice says Google has copied a “large corpus” of Disney’s works to train its gen AI models, which is believable, as Google’s image and video models will happily produce popular Disney characters—they couldn’t do that without feeding the models lots of Disney data. The C&D also takes issue with Google for distributing “copies of its protected works” to consumers. So all those memes you’ve been making with Disney characters? Yeah, Disney doesn’t like that, either. The letter calls out a huge number of Disney-owned properties that can be prompted into existence in Google AI, including The Lion King, Deadpool, and Star Wars.Read full article Comments",
+          "feed_position": 2,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2018/01/I-Cant-Believe-Its-Not-Mickey.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2018/01/I-Cant-Believe-Its-Not-Mickey.jpg",
+      "popularity_score": 356.2542922222222
+    },
+    {
+      "id": "cluster_2",
+      "coverage": 1,
+      "updated_at": "Thu, 11 Dec 2025 23:03:02 +0000",
+      "title": "Instead of fixing WoW’s new floating house exploit, Blizzard makes it official",
+      "neutral_headline": "Instead of fixing WoW’s new floating house exploit, Blizzard makes it official",
+      "bullet_summary": [
+        "Reported by Ars Technica Main"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica Main",
+          "url": "https://arstechnica.com/gaming/2025/12/instead-of-fixing-wows-new-floating-house-exploit-blizzard-makes-it-official/",
+          "published_at": "Thu, 11 Dec 2025 23:03:02 +0000",
+          "title": "Instead of fixing WoW’s new floating house exploit, Blizzard makes it official",
+          "standfirst": "\"We all kinda immediately agreed this was way too cool to change.\"",
+          "content": "Long-time World of Warcraft players have been waiting 21 years for the new in-game housing features that Blizzard officially announced last year and which launched in early access last week. Shortly after that launch, though, players quickly discovered a way to make their houses float high above the ground by exploiting an unintended, invisible UI glitch. Now, Blizzard says that the overwhelming response to that accidental house hovering has been so strong that it’s pivoting to integrate it as an official part of the game. “We were going to fix flying houses to bring them back to terra firma, but you all made such awesome stuff, so we made it possible with the base UI instead.” WoW principal designer Jesse Kurlancheek posted on social media Tuesday. Lead producer Kyle Hartline followed up on that announcement with some behind-the-scenes gossip: “Like no joke we had an ops channel about how to roll out the float fix but folks shared like 5 of the dopest houses and we all kinda immediately agreed this was way too cool to change,” he wrote.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/floatingwowhouse-905x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/floatingwowhouse-905x648.jpg",
+      "popularity_score": 352.8134588888889
+    },
+    {
+      "id": "cluster_22",
+      "coverage": 1,
+      "updated_at": "Thu, 11 Dec 2025 20:25:08 +0000",
+      "title": "Supergirl teaser gives us a likably imperfect Kara Zor-El",
+      "neutral_headline": "Supergirl teaser gives us a likably imperfect Kara Zor-El",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/culture/2025/12/milly-alcock-is-out-for-revenge-in-supergirl-teaser/",
+          "published_at": "Thu, 11 Dec 2025 20:25:08 +0000",
+          "title": "Supergirl teaser gives us a likably imperfect Kara Zor-El",
+          "standfirst": "Director Craig Gillespie's film is the second in the new DCU's \"Gods and Monsters\" chapter.",
+          "content": "Warner Bros. has been hinting all week that it was coming and finally dropped the long-awaited first extended teaser trailer for Supergirl, directed by Craig Gillespie and starring Milly Alcock in the title role. Plans for a Supergirl movie date all the way back to 2018, but the merger that produced Warner Bros. Discovery scuttled the original concept. James Gunn and Peter Safran came in as co-CEOs of the new DC Studios and announced plans for a “soft reboot” of the DC universe, starting with this summer’s Superman. Sasha Calle played Supergirl for a brief appearance in 2023’s The Flash, but despite having signed a multi-year contract, Gunn and Safran decided to go in a different direction for their standalone film and cast Alcock (House of the Dragon) instead. Gunn particularly wanted to distance this new version of Supergirl from earlier incarnations, especially how the character was portrayed by Melissa Benoist in the Arrowverse series that ran from 2015–2021. He wanted someone less earnest, more of a contrast to David Corenswet’s wholesome Superman. “This is a story-based medium; we want stories to be in theaters that are cool and different from each other,” Gunn said at a media briefing. “And this movie is not exactly just a female clone of Superman. It’s its own thing entirely. And with a character who’s equally worthy of this treatment.”Read full article Comments",
+          "feed_position": 1,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/supergirl2-1152x648-1765482181.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/supergirl2-1152x648-1765482181.jpg",
+      "popularity_score": 340.1817922222222
+    },
+    {
+      "id": "cluster_40",
+      "coverage": 1,
+      "updated_at": "Thu, 11 Dec 2025 18:33:45 +0000",
+      "title": "Ars Live: 3 former CDC leaders detail impacts of RFK Jr.’s anti-science agenda",
+      "neutral_headline": "Ars Live: 3 former CDC leaders detail impacts of RFK Jr.’s anti-science agenda",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/health/2025/12/ars-live-3-former-cdc-leaders-detail-impacts-of-rfk-jr-s-anti-science-agenda/",
+          "published_at": "Thu, 11 Dec 2025 18:33:45 +0000",
+          "title": "Ars Live: 3 former CDC leaders detail impacts of RFK Jr.’s anti-science agenda",
+          "standfirst": "Join us Tuesday, December 16, at 2 pm ET to hear from leaders who resigned in protest.",
+          "content": "The Centers for Disease Control and Prevention is in critical condition. This year, the premier public health agency had its funding brutally cut and staff gutted, its mission sabotaged, and its headquarters riddled with literal bullets. The over 500 rounds fired were meant for its scientists and public health experts, who endured only to be sidelined, ignored, and overruled by Health Secretary Robert F. Kennedy Jr., an anti-vaccine activist hellbent on warping the agency to fit his anti-science agenda. Then, on August 27, Kennedy fired CDC Director Susan Monarez just weeks after she was confirmed by the Senate. She had refused to blindly approve vaccine recommendations from a panel of vaccine skeptics and contrarians that he had hand-selected. The agency descended into chaos, and Monarez wasn’t the only one to leave the agency that day. Three top leaders had reached their breaking point and coordinated their resignations upon the dramatic ouster: Drs. Demetre Daskalakis, Debra Houry, and Daniel Jernigan walked out of the agency as their colleagues rallied around them.Read full article Comments",
+          "feed_position": 3,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2231820155-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2231820155-1152x648.jpg",
+      "popularity_score": 333.3254033333333
+    },
+    {
+      "id": "cluster_42",
+      "coverage": 1,
+      "updated_at": "Thu, 11 Dec 2025 18:26:17 +0000",
+      "title": "Gazelle’s Arroyo offers a belt drive, continuous variable transmission",
+      "neutral_headline": "Gazelle’s Arroyo offers a belt drive, continuous variable transmission",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/cars/2025/12/gazelles-new-arroyo-a-high-end-commute-bike/",
+          "published_at": "Thu, 11 Dec 2025 18:26:17 +0000",
+          "title": "Gazelle’s Arroyo offers a belt drive, continuous variable transmission",
+          "standfirst": "Gazelle's high-end commuter offers a belt drive and continuous variable transmission.",
+          "content": "A little while back, we took a look at a large cargo bike from Urban Arrow that had some interesting features: a drive train that sported continuous variable gearing and a belt drive. But it was difficult to get a feel for what using that drivetrain was like when it was being used to shift a large and extremely heavy cargo bike. So, I jumped at the opportunity when Urban Arrow’s sister company, Gazelle, offered a chance to ride one of its new Arroyo models, which feature the same drivetrain, but this time coupled to a fairly standard commuter bike. Getting rid of all the weight and bulk really allowed the drive system to shine. And, as with its cargo-carrying cousin, the bike is filled with thoughtful touches and design decisions that make riding it a pleasure. But all that comes at a cost: This is a premium bike with little in the way of compromises, and it’s priced accordingly. High-end hardware The Arroyo line is meant for commuters and urban/suburban riding. It has a step-through frame, a large rack, fenders, and its riding stance is very upright. In keeping with its Dutch heritage, it’s meant to be ridden as a bicycle, rather than a bike-like scooter. There’s no throttle to let you avoid pedaling, and even when it’s set to its maximum assist rating, you’ll end up putting in a reasonable amount of effort during the ride. If you’re looking for something that lets you handle a commute in hot weather without sweating, you’ll probably want to look elsewhere.Read full article Comments",
+          "feed_position": 4,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/IMG_1793-1152x648.jpeg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/IMG_1793-1152x648.jpeg",
+      "popularity_score": 308.20095888888886
+    },
+    {
+      "id": "cluster_59",
+      "coverage": 1,
+      "updated_at": "Thu, 11 Dec 2025 16:43:30 +0000",
+      "title": "Disney invests $1 billion in OpenAI, licenses 200 characters for AI video app Sora",
+      "neutral_headline": "Disney invests $1 billion in OpenAI, licenses 200 characters for AI video app Sora",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2025/12/disney-invests-1-billion-in-openai-licenses-200-characters-for-ai-video-app-sora/",
+          "published_at": "Thu, 11 Dec 2025 16:43:30 +0000",
+          "title": "Disney invests $1 billion in OpenAI, licenses 200 characters for AI video app Sora",
+          "standfirst": "Three-year deal lets users create AI videos of Mickey Mouse, Darth Vader, and more.",
+          "content": "On Thursday, The Walt Disney Company announced a $1 billion investment in OpenAI and a three-year licensing agreement that will allow users of OpenAI’s Sora video generator to create short clips featuring more than 200 Disney, Marvel, Pixar, and Star Wars characters. It’s the first major content licensing partnership between a Hollywood studio related to the most recent version of OpenAI’s AI video platform, which drew criticism from some parts of the entertainment industry when it launched in late September. “Technological innovation has continually shaped the evolution of entertainment, bringing with it new ways to create and share great stories with the world,” said Disney CEO Robert A. Iger in the announcement. “The rapid advancement of artificial intelligence marks an important moment for our industry, and through this collaboration with OpenAI we will thoughtfully and responsibly extend the reach of our storytelling through generative AI, while respecting and protecting creators and their works.” The deal creates interesting bedfellows between a company that basically defined modern US copyright policy through congressional lobbying back in the 1990s and one that has argued in a submission to the UK House of Lords that useful AI models cannot be created without copyrighted material.Read full article Comments",
+          "feed_position": 7,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/disney_1-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/disney_1-1152x648.jpg",
+      "popularity_score": 291.48790333333335
+    },
+    {
+      "id": "cluster_54",
+      "coverage": 1,
+      "updated_at": "Thu, 11 Dec 2025 17:02:48 +0000",
+      "title": "No sterile neutrinos after all, say MicroBooNE physicists",
+      "neutral_headline": "No sterile neutrinos after all, say MicroBooNE physicists",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/science/2025/12/microboone-results-rule-out-sterile-neutrinos/",
+          "published_at": "Thu, 11 Dec 2025 17:02:48 +0000",
+          "title": "No sterile neutrinos after all, say MicroBooNE physicists",
+          "standfirst": "There's a less than 5 percent chance that earlier anomalies can be explained by fourth neutrino \"flavor.\"",
+          "content": "Since the 1990s, physicists have pondered the tantalizing possibility of an exotic fourth type of neutrino, dubbed the “sterile” neutrino, that doesn’t interact with regular matter at all, apart from its fellow neutrinos, perhaps. But definitive experimental evidence for sterile neutrinos has remained elusive. Now it looks like the latest results from Fermilab’s MiniBooNE experiment have ruled out the sterile neutrino entirely, according to a paper published in the journal Nature. How did the possibility of sterile neutrinos even become a thing? It all dates back to the so-called “solar neutrino problem.” Physicists detected the first solar neutrinos from the Sun in 1966. The only problem was that there were far fewer solar neutrinos being detected than predicted by theory, a conundrum that became known as the solar neutrino problem. In 1962, physicists discovered a second type (“flavor”) of neutrino, the muon neutrino. This was followed by the discovery of a third flavor, the tau neutrino, in 2000. Physicists already suspected that neutrinos might be able to switch from one flavor to another. In 2002, scientists at the Sudbury Neutrino Observatory (or SNO) announced that they had solved the solar neutrino problem. The missing solar (electron) neutrinos were just in disguise, having changed into a different flavor on the long journey between the Sun and the Earth. If neutrinos oscillate, then they must have a teensy bit of mass after all. That posed another knotty neutrino-related problem. There are three neutrino flavors, but none of them has a well-defined mass. Rather, different kinds of “mass states” mix together in various ways to produce electron, muon, and tau neutrinos. That’s quantum weirdness for you.Read full article Comments",
+          "feed_position": 6,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/neutrinos-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/neutrinos-1152x648.jpg",
+      "popularity_score": 286.80957
+    },
+    {
+      "id": "cluster_69",
+      "coverage": 1,
+      "updated_at": "Thu, 11 Dec 2025 14:39:21 +0000",
+      "title": "Oracle shares slide on $15B increase in data center spending",
+      "neutral_headline": "Oracle shares slide on $15B increase in data center spending",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/information-technology/2025/12/oracle-shares-slide-on-15b-increase-in-data-center-spending/",
+          "published_at": "Thu, 11 Dec 2025 14:39:21 +0000",
+          "title": "Oracle shares slide on $15B increase in data center spending",
+          "standfirst": "Company raises its capital expenditure forecast as it doubles down on AI infrastructure bet.",
+          "content": "Oracle stock dropped after it reported disappointing revenues on Wednesday alongside a $15 billion increase in its planned spending on data centers this year to serve artificial intelligence groups. Shares in Larry Ellison’s database company fell 11 percent in pre-market trading on Thursday after it reported revenues of $16.1 billion in the last quarter, up 14 percent from the previous year, but below analysts’ estimates. Oracle raised its forecast for capital expenditure this financial year by more than 40 percent to $50 billion. The outlay, largely directed to building data centers, climbed to $12 billion in the quarter, above expectations of $8.4 billion.Read full article Comments",
+          "feed_position": 8,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1867844462-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1867844462-1152x648.jpg",
+      "popularity_score": 264.4187366666667
+    },
+    {
+      "id": "cluster_93",
       "coverage": 1,
       "updated_at": "Thu, 11 Dec 2025 00:29:54 +0000",
       "title": "NASA just lost contact with a Mars orbiter, and will soon lose another one",
@@ -51,112 +353,16 @@
           "published_at": "Thu, 11 Dec 2025 00:29:54 +0000",
           "title": "NASA just lost contact with a Mars orbiter, and will soon lose another one",
           "standfirst": "If NASA is serious about exploring Mars, it's past time to send new missions.",
-          "content": "NASA has lost contact with one its three spacecraft orbiting Mars, the agency announced Tuesday. Meanwhile, a second Mars orbiter is perilously close to running out of fuel, and the third mission is running well past its warranty. Ground teams last heard from the Mars Atmosphere and Volatile Evolution, or MAVEN, spacecraft on Saturday, December 6. “Telemetry from MAVEN had showed all subsystems working normally before it orbited behind the red planet,” NASA said in a short statement. “After the spacecraft emerged from behind Mars, NASA’s Deep Space Network did not observe a signal.” NASA said mission controllers are “investigating the anomaly to address the situation. More information will be shared once it becomes available.”Read full article Comments",
-          "feed_position": 0,
+          "content": "NASA has lost contact with one of its three spacecraft orbiting Mars, the agency announced Tuesday. Meanwhile, a second Mars orbiter is perilously close to running out of fuel, and the third mission is running well past its warranty. Ground teams last heard from the Mars Atmosphere and Volatile Evolution, or MAVEN, spacecraft on Saturday, December 6. “Telemetry from MAVEN had showed all subsystems working normally before it orbited behind the red planet,” NASA said in a short statement. “After the spacecraft emerged from behind Mars, NASA’s Deep Space Network did not observe a signal.” NASA said mission controllers are “investigating the anomaly to address the situation. More information will be shared once it becomes available.”Read full article Comments",
+          "feed_position": 9,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GSFC_20171208_Archive_e000206orig-1041x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GSFC_20171208_Archive_e000206orig-1041x648.jpg",
-      "popularity_score": 354.17358194444444
+      "popularity_score": 251
     },
     {
-      "id": "cluster_15",
-      "coverage": 1,
-      "updated_at": "Wed, 10 Dec 2025 23:16:52 +0000",
-      "title": "After years of resisting it, SpaceX now plans to go public. Why?",
-      "neutral_headline": "After years of resisting it, SpaceX now plans to go public. Why",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/space/2025/12/after-years-of-resisting-it-spacex-now-plans-to-go-public-why/",
-          "published_at": "Wed, 10 Dec 2025 23:16:52 +0000",
-          "title": "After years of resisting it, SpaceX now plans to go public. Why?",
-          "standfirst": "\"Much of the AI race comes down to amassing and deploying assets.\"",
-          "content": "SpaceX is planning to raise tens of billions of dollars through an initial public offering next year, multiple outlets have reported, and Ars can confirm. This represents a major change in thinking from the world’s leading space company and its founder, Elon Musk. The Wall Street Journal and The Information first reported about a possible IPO last Friday, and Bloomberg followed that up on Tuesday evening with a report suggesting the company would target a $1.5 trillion valuation. This would allow SpaceX to raise in excess of $30 billion. This is an enormous amount of funding. The largest IPO in history occurred in 2019, when the state-owned Saudi Arabian oil company began public trading as Aramco and raised $29 billion. In terms of revenue, Aramco is a top-five company in the world.Read full article Comments",
-          "feed_position": 1,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/02/GettyImages-1238367289-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2022/02/GettyImages-1238367289-1152x648.jpg",
-      "popularity_score": 342.9563597222222
-    },
-    {
-      "id": "cluster_28",
-      "coverage": 1,
-      "updated_at": "Wed, 10 Dec 2025 20:38:58 +0000",
-      "title": "A new open-weights AI coding model is closing in on proprietary options",
-      "neutral_headline": "A new open-weights AI coding model is closing in on proprietary options",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2025/12/mistral-bets-big-on-vibe-coding-with-new-autonomous-software-engineering-agent/",
-          "published_at": "Wed, 10 Dec 2025 20:38:58 +0000",
-          "title": "A new open-weights AI coding model is closing in on proprietary options",
-          "standfirst": "Devstral 2 model scores 72% on industry benchmark, nearing proprietary rivals.",
-          "content": "On Tuesday, French AI startup Mistral AI released Devstral 2, a 123 billion parameter open-weights coding model designed to work as part of an autonomous software engineering agent. The model achieves a 72.2 percent score on SWE-bench Verified, a benchmark that attempts to test whether AI systems can solve real GitHub issues, putting it among the top-performing open-weights models. Perhaps more notably, Mistral didn’t just release an AI model, it released a new development app called Mistral Vibe. It’s a command line interface (CLI) similar to Claude Code, OpenAI Codex, and Gemini CLI that lets developers interact with the Devstral models directly in their terminal. The tool can scan file structures and Git status to maintain context across an entire project, make changes across multiple files, and execute shell commands autonomously. Mistral released the CLI under the Apache 2.0 license. It’s always wise to take AI benchmarks with a large grain of salt, but we’ve heard from employees of the big AI companies that they pay very close attention to how well models do on SWE-bench Verified, which presents AI models with 500 real software engineering problems pulled from GitHub issues in popular Python repositories. The AI must read the issue description, navigate the codebase, and generate a working patch that passes unit tests. While some AI researchers have noted that around 90 percent of the tasks in the benchmark test relatively simple bug fixes that experienced engineers could complete in under an hour, it’s one of the few standardized ways to compare coding models.Read full article Comments",
-          "feed_position": 3,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/mistral_header_2-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/mistral_header_2-1152x648.jpg",
-      "popularity_score": 327.32469305555554
-    },
-    {
-      "id": "cluster_25",
-      "coverage": 1,
-      "updated_at": "Wed, 10 Dec 2025 21:05:44 +0000",
-      "title": "After NPR and PBS defunding, FCC receives call to take away station licenses",
-      "neutral_headline": "After NPR and PBS defunding, FCC receives call to take away station licenses",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2025/12/conservative-attacks-on-npr-and-pbs-continue-with-call-to-take-fcc-licenses/",
-          "published_at": "Wed, 10 Dec 2025 21:05:44 +0000",
-          "title": "After NPR and PBS defunding, FCC receives call to take away station licenses",
-          "standfirst": "NPR and PBS stations targeted by group involved in Carr's news-distortion probes.",
-          "content": "A conservative group yesterday urged the Federal Communications Commission to take licenses away from NPR and PBS stations and let other entities use the spectrum. The request came from the Center for American Rights (CAR), a nonprofit law firm that has played a prominent role in the news-distortion investigations spearheaded by FCC Chairman Brendan Carr. “In the wake of the wind-down of the Corporation for Public Broadcasting and the end of federal funding for NPR and PBS, the Center respectfully suggests that the Commission open an inquiry that looks at the future of ‘public’ broadcasting in that new environment,” a Center for American Rights filing said. The CPB is set to shut down after Congress approved President Trump’s request to rescind its funding. The Center for American Rights said the CPB shutdown should be used as an opportunity to reassign spectrum used by NPR and PBS stations to other entities.Read full article Comments",
-          "feed_position": 2,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/Sesame-Street-1152x648-1752686465.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/Sesame-Street-1152x648-1752686465.jpg",
-      "popularity_score": 322.77080416666666
-    },
-    {
-      "id": "cluster_33",
-      "coverage": 1,
-      "updated_at": "Wed, 10 Dec 2025 20:07:47 +0000",
-      "title": "Cable channel subscribers grew for the first time in 8 years last quarter",
-      "neutral_headline": "Cable channel subscribers grew for the first time in 8 years last quarter",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2025/12/cable-channel-subscribers-grew-for-the-first-time-in-years-last-quarter/",
-          "published_at": "Wed, 10 Dec 2025 20:07:47 +0000",
-          "title": "Cable channel subscribers grew for the first time in 8 years last quarter",
-          "standfirst": "Sports and YouTube TV played big roles, MoffettNathanson report says.",
-          "content": "In a surprising, and likely temporary, turn of events, the number of people paying to watch cable channels has grown. On Monday, research analyst MoffettNathanson released its “Cord-Cutting Monitor Q3 2025: Signs of Life?” report. It found that the pay TV operators, including cable companies, satellite companies, and virtual multichannel video programming distributors (vMVPDs) like YouTube TV and Fubo, added 303,000 net subscribers in Q3 2025. According to the report, “There are more linear video subscribers now than there were three months ago. That’s the first time we’ve been able to say that since 2017.”Read full article Comments",
-          "feed_position": 4,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2222725846-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2222725846-1152x648.jpg",
-      "popularity_score": 301.80497083333336
-    },
-    {
-      "id": "cluster_50",
+      "id": "cluster_106",
       "coverage": 1,
       "updated_at": "Wed, 10 Dec 2025 18:00:19 +0000",
       "title": "Ugly infotainment mars the 2025 Subaru Forester Hybrid experience",
@@ -172,15 +378,135 @@
           "title": "Ugly infotainment mars the 2025 Subaru Forester Hybrid experience",
           "standfirst": "It drives fine, but the first hybrid Forester is not without its flaws.",
           "content": "Although many of us associate it with rally-derived machinery from the late 1990s and early 2000s, these days, Subaru has mostly abandoned its performance cars to concentrate on its true calling—rugged, all-wheel-drive vehicles that are high on practicality, powered by horizontally opposed “boxer” engines. One area where the brand has never particularly excelled has been fuel efficiency, which is where today’s test car, the Subaru Forester Hybrid, comes in. The last time Ars reviewed a Subaru Forester, it left us impressed. How about one with 40 percent better economy, in that case? Now, the 2.5 L flat-four engine operates on the Atkinson/Miller cycle, which generates 162 hp (121 kW) and 154 lb-ft (208 Nm). There’s an electric motor-generator starter and an electric traction motor with 118 hp (88 kW) and 199 lb-ft (270 Nm) that work together to send a combined 194 hp (145 kW) to all four wheels via a symmetrical all-wheel drive system and a planetary continuously variable transmission. The Forester Hybrid is 183.3 inches (4,656 mm) long, 70.2 inches (1,783 mm) wide, and 68.1 inches (1,729 mm) tall, with a 105.1-inch (2,670 mm) wheelbase. Credit: Jonathan Gitlin Spot the two EyeSight cameras at the top of the windscreen. Credit: Jonathan Gitlin Hatching plots. Credit: Jonathan Gitlin If that sounds vaguely familiar, that’s because it’s the same powertrain that Subaru has also fitted to the smaller Crosstrek Hybrid that we drove in September.Read full article Comments",
-          "feed_position": 8,
+          "feed_position": 17,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/2025-Subaru-Forester-Hybrid-1-of-14-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/2025-Subaru-Forester-Hybrid-1-of-14-1152x648.jpg",
-      "popularity_score": 282.6805263888889
+      "popularity_score": 156
     },
     {
-      "id": "cluster_46",
+      "id": "cluster_98",
+      "coverage": 1,
+      "updated_at": "Wed, 10 Dec 2025 20:38:58 +0000",
+      "title": "A new open-weights AI coding model is closing in on proprietary options",
+      "neutral_headline": "A new open-weights AI coding model is closing in on proprietary options",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2025/12/mistral-bets-big-on-vibe-coding-with-new-autonomous-software-engineering-agent/",
+          "published_at": "Wed, 10 Dec 2025 20:38:58 +0000",
+          "title": "A new open-weights AI coding model is closing in on proprietary options",
+          "standfirst": "Devstral 2 model scores 72% on industry benchmark, nearing proprietary rivals.",
+          "content": "On Tuesday, French AI startup Mistral AI released Devstral 2, a 123 billion parameter open-weights coding model designed to work as part of an autonomous software engineering agent. The model achieves a 72.2 percent score on SWE-bench Verified, a benchmark that attempts to test whether AI systems can solve real GitHub issues, putting it among the top-performing open-weights models. Perhaps more notably, Mistral didn’t just release an AI model, it released a new development app called Mistral Vibe. It’s a command line interface (CLI) similar to Claude Code, OpenAI Codex, and Gemini CLI that lets developers interact with the Devstral models directly in their terminal. The tool can scan file structures and Git status to maintain context across an entire project, make changes across multiple files, and execute shell commands autonomously. Mistral released the CLI under the Apache 2.0 license. It’s always wise to take AI benchmarks with a large grain of salt, but we’ve heard from employees of the big AI companies that they pay very close attention to how well models do on SWE-bench Verified, which presents AI models with 500 real software engineering problems pulled from GitHub issues in popular Python repositories. The AI must read the issue description, navigate the codebase, and generate a working patch that passes unit tests. While some AI researchers have noted that around 90 percent of the tasks in the benchmark test relatively simple bug fixes that experienced engineers could complete in under an hour, it’s one of the few standardized ways to compare coding models.Read full article Comments",
+          "feed_position": 12,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/mistral_header_2-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/mistral_header_2-1152x648.jpg",
+      "popularity_score": 148
+    },
+    {
+      "id": "cluster_94",
+      "coverage": 1,
+      "updated_at": "Wed, 10 Dec 2025 23:16:52 +0000",
+      "title": "After years of resisting it, SpaceX now plans to go public. Why?",
+      "neutral_headline": "After years of resisting it, SpaceX now plans to go public. Why",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/space/2025/12/after-years-of-resisting-it-spacex-now-plans-to-go-public-why/",
+          "published_at": "Wed, 10 Dec 2025 23:16:52 +0000",
+          "title": "After years of resisting it, SpaceX now plans to go public. Why?",
+          "standfirst": "\"Much of the AI race comes down to amassing and deploying assets.\"",
+          "content": "SpaceX is planning to raise tens of billions of dollars through an initial public offering next year, multiple outlets have reported, and Ars can confirm. This represents a major change in thinking from the world’s leading space company and its founder, Elon Musk. The Wall Street Journal and The Information first reported about a possible IPO last Friday, and Bloomberg followed that up on Tuesday evening with a report suggesting the company would target a $1.5 trillion valuation. This would allow SpaceX to raise in excess of $30 billion. This is an enormous amount of funding. The largest IPO in history occurred in 2019, when the state-owned Saudi Arabian oil company began public trading as Aramco and raised $29 billion. In terms of revenue, Aramco is a top-five company in the world.Read full article Comments",
+          "feed_position": 10,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/02/GettyImages-1238367289-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2022/02/GettyImages-1238367289-1152x648.jpg",
+      "popularity_score": 141
+    },
+    {
+      "id": "cluster_107",
+      "coverage": 1,
+      "updated_at": "Wed, 10 Dec 2025 17:14:08 +0000",
+      "title": "This is the oldest evidence of people starting fires",
+      "neutral_headline": "This is the oldest evidence of people starting fires",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/science/2025/12/this-is-the-oldest-evidence-of-people-starting-fires/",
+          "published_at": "Wed, 10 Dec 2025 17:14:08 +0000",
+          "title": "This is the oldest evidence of people starting fires",
+          "standfirst": "We didn't start the fire. (Neanderthals did, at least 400,000 years ago.)",
+          "content": "Heat-reddened clay, fire-cracked stone, and fragments of pyrite mark where Neanderthals gathered around a campfire 400,000 years ago in what’s now Suffolk, England. Based on chemical analysis of the sediment at the site, along with the telltale presence of pyrite, a mineral not naturally found nearby but very handy for striking sparks with flint, British Museum archaeologist Rob Davis and his colleagues say the Neanderthals probably started the fire themselves. That makes the abandoned English clay pit at Barnham the oldest evidence in the world that people (Neanderthal people, in this case) had learned to not only use fire, but also create it and control it. A cozy Neanderthal campfire Today, the Barnham site is part of an abandoned clay pit where workers first discovered stone tools in the early 1900s. But 400,000 years ago, it would have been a picturesque little spot at the edge of a stream-fed pond, surrounded by a mix of forest and grassland. There are no hominin fossils here, but archaeologists unearthed a Neanderthal skull about 100 kilometers to the south, so the hominins at Barnham were probably also Neanderthals. The place would have offered a group of Neanderthals a relatively quiet, sheltered place to set up camp, according to Davis and his colleagues.Read full article Comments",
+          "feed_position": 18,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/artist-e1765349023584-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/artist-e1765349023584-1152x648.jpg",
+      "popularity_score": 139
+    },
+    {
+      "id": "cluster_96",
+      "coverage": 1,
+      "updated_at": "Wed, 10 Dec 2025 21:05:44 +0000",
+      "title": "After NPR and PBS defunding, FCC receives call to take away station licenses",
+      "neutral_headline": "After NPR and PBS defunding, FCC receives call to take away station licenses",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2025/12/conservative-attacks-on-npr-and-pbs-continue-with-call-to-take-fcc-licenses/",
+          "published_at": "Wed, 10 Dec 2025 21:05:44 +0000",
+          "title": "After NPR and PBS defunding, FCC receives call to take away station licenses",
+          "standfirst": "NPR and PBS stations targeted by group involved in Carr's news-distortion probes.",
+          "content": "A conservative group yesterday urged the Federal Communications Commission to take licenses away from NPR and PBS stations and let other entities use the spectrum. The request came from the Center for American Rights (CAR), a nonprofit law firm that has played a prominent role in the news-distortion investigations spearheaded by FCC Chairman Brendan Carr. “In the wake of the wind-down of the Corporation for Public Broadcasting and the end of federal funding for NPR and PBS, the Center respectfully suggests that the Commission open an inquiry that looks at the future of ‘public’ broadcasting in that new environment,” a Center for American Rights filing said. The CPB is set to shut down after Congress approved President Trump’s request to rescind its funding. The Center for American Rights said the CPB shutdown should be used as an opportunity to reassign spectrum used by NPR and PBS stations to other entities.Read full article Comments",
+          "feed_position": 11,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/Sesame-Street-1152x648-1752686465.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/Sesame-Street-1152x648-1752686465.jpg",
+      "popularity_score": 133
+    },
+    {
+      "id": "cluster_100",
+      "coverage": 1,
+      "updated_at": "Wed, 10 Dec 2025 20:07:47 +0000",
+      "title": "Cable channel subscribers grew for the first time in 8 years last quarter",
+      "neutral_headline": "Cable channel subscribers grew for the first time in 8 years last quarter",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2025/12/cable-channel-subscribers-grew-for-the-first-time-in-years-last-quarter/",
+          "published_at": "Wed, 10 Dec 2025 20:07:47 +0000",
+          "title": "Cable channel subscribers grew for the first time in 8 years last quarter",
+          "standfirst": "Sports and YouTube TV played big roles, MoffettNathanson report says.",
+          "content": "In a surprising, and likely temporary, turn of events, the number of people paying to watch cable channels has grown. On Monday, research analyst MoffettNathanson released its “Cord-Cutting Monitor Q3 2025: Signs of Life?” report. It found that the pay TV operators, including cable companies, satellite companies, and virtual multichannel video programming distributors (vMVPDs) like YouTube TV and Fubo, added 303,000 net subscribers in Q3 2025. According to the report, “There are more linear video subscribers now than there were three months ago. That’s the first time we’ve been able to say that since 2017.”Read full article Comments",
+          "feed_position": 13,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2222725846-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2222725846-1152x648.jpg",
+      "popularity_score": 133
+    },
+    {
+      "id": "cluster_104",
       "coverage": 1,
       "updated_at": "Wed, 10 Dec 2025 18:30:45 +0000",
       "title": "US taking 25% cut of Nvidia chip sales “makes no sense,” experts say",
@@ -196,15 +522,15 @@
           "title": "US taking 25% cut of Nvidia chip sales “makes no sense,” experts say",
           "standfirst": "Trump’s odd Nvidia reversal may open the door for China to demand Blackwell access.",
           "content": "Donald Trump’s decision to allow Nvidia to export an advanced artificial intelligence chip, the H200, to China may give China exactly what it needs to win the AI race, experts and lawmakers have warned. The H200 is about 10 times less powerful than Nvidia’s Blackwell chip, which is the tech giant’s currently most advanced chip that cannot be exported to China. But the H200 is six times more powerful than the H20, the most advanced chip available in China today. Meanwhile China’s leading AI chip maker, Huawei, is estimated to be about two years behind Nvidia’s technology. By approving the sales, Trump may unwittingly be helping Chinese chip makers “catch up” to Nvidia, Jake Sullivan told The New York Times. Sullivan, a former Biden-era national security advisor who helped design AI chip export curbs on China, told the NYT that Trump’s move was “nuts” because “China’s main problem” in the AI race “is they don’t have enough advanced computing capability.”Read full article Comments",
-          "feed_position": 6,
+          "feed_position": 15,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2212801610-1024x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2212801610-1024x648.jpg",
-      "popularity_score": 280.1877486111111
+      "popularity_score": 133
     },
     {
-      "id": "cluster_48",
+      "id": "cluster_105",
       "coverage": 1,
       "updated_at": "Wed, 10 Dec 2025 18:13:52 +0000",
       "title": "After key Russian launch site is damaged, NASA accelerates Dragon supply missions",
@@ -220,113 +546,15 @@
           "title": "After key Russian launch site is damaged, NASA accelerates Dragon supply missions",
           "standfirst": "It is by no means certain that Russia will be able to fix Site 31 soon.",
           "content": "With a key Russian launch pad out of service, NASA is accelerating the launch of two Cargo Dragon spaceships in order to ensure that astronauts on board the International Space Station have all the supplies they need next year. According to the space agency’s internal schedule, the next Dragon supply mission, CRS-34, is moving forward one month from June 2026 to May. And the next Dragon supply mission after this, CRS-35, has been advanced three months from November to August. A source indicated that the changing schedules are a “direct result” of a launch pad incident on Thanksgiving Day at the Russian spaceport in Baikonur, Kazakhstan.Read full article Comments",
-          "feed_position": 7,
+          "feed_position": 16,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/51842830239_a0768f7dc5_k-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/51842830239_a0768f7dc5_k-1152x648.jpg",
-      "popularity_score": 269.90635972222225
+      "popularity_score": 133
     },
     {
-      "id": "cluster_52",
-      "coverage": 1,
-      "updated_at": "Wed, 10 Dec 2025 17:14:08 +0000",
-      "title": "This is the oldest evidence of people starting fires",
-      "neutral_headline": "This is the oldest evidence of people starting fires",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2025/12/this-is-the-oldest-evidence-of-people-starting-fires/",
-          "published_at": "Wed, 10 Dec 2025 17:14:08 +0000",
-          "title": "This is the oldest evidence of people starting fires",
-          "standfirst": "We didn't start the fire. (Neanderthals did, at least 400,000 years ago.)",
-          "content": "Heat-reddened clay, fire-cracked stone, and fragments of pyrite mark where Neanderthals gathered around a campfire 400,000 years ago in what’s now Suffolk, England. Based on chemical analysis of the sediment at the site, along with the telltale presence of pyrite, a mineral not naturally found nearby but very handy for striking sparks with flint, British Museum archaeologist Rob Davis and his colleagues say the Neanderthals probably started the fire themselves. That makes the abandoned English clay pit at Barnham the oldest evidence in the world that people (Neanderthal people, in this case) had learned to not only use fire, but also create it and control it. A cozy Neanderthal campfire Today, the Barnham site is part of an abandoned clay pit where workers first discovered stone tools in the early 1900s. But 400,000 years ago, it would have been a picturesque little spot at the edge of a stream-fed pond, surrounded by a mix of forest and grassland. There are no hominin fossils here, but archaeologists unearthed a Neanderthal skull about 100 kilometers to the south, so the hominins at Barnham were probably also Neanderthals. The place would have have offered a group of Neanderthals a relatively quiet, sheltered place to set up camp, according to Davis and his colleagues.Read full article Comments",
-          "feed_position": 9,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/artist-e1765349023584-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/artist-e1765349023584-1152x648.jpg",
-      "popularity_score": 254.91080416666668
-    },
-    {
-      "id": "cluster_66",
-      "coverage": 1,
-      "updated_at": "Wed, 10 Dec 2025 15:11:10 +0000",
-      "title": "Impeachment articles filed against RFK Jr., claiming abuse of power",
-      "neutral_headline": "Impeachment articles filed against RFK Jr., claiming abuse of power",
-      "bullet_summary": [
-        "He's the \"biggest self-created threat to our health and safety,\" Stevens said",
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/health/2025/12/impeachment-articles-filed-against-rfk-jr-claiming-abuse-of-power/",
-          "published_at": "Wed, 10 Dec 2025 15:11:10 +0000",
-          "title": "Impeachment articles filed against RFK Jr., claiming abuse of power",
-          "standfirst": "He's the \"biggest self-created threat to our health and safety,\" Stevens said.",
-          "content": "Rep. Haley Stevens (D-Mich.) filed articles of impeachment against Health Secretary Robert F. Kennedy Jr. Wednesday, accusing him of abusing the powers of his office and undermining public health, putting Americans’ lives at risk. He “has got to go,” Stevens said in a video announcing the impeachment articles. In an accompanying press statement, she said Kennedy, who rose to prominence as an ardent anti-vaccine activist, “has turned his back on science, on public health, and on the American people—spreading conspiracies and lies, driving up costs, and putting lives at risk.” She called him the “biggest self-created threat to our health and safety.” It is very unlikely that an impeachment push will gain traction in the Republican-controlled Congress. No other Democratic lawmakers are backing the articles.Read full article Comments",
-          "feed_position": 11,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2233690134-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2233690134-1152x648.jpg",
-      "popularity_score": 151.86135972222223
-    },
-    {
-      "id": "cluster_73",
-      "coverage": 1,
-      "updated_at": "Wed, 10 Dec 2025 14:00:43 +0000",
-      "title": "AMD’s next-gen “FSR Redstone” brings big gains, as long as you’re using a new GPU",
-      "neutral_headline": "AMD’s next-gen “FSR Redstone” brings big gains, as long as you’re using a new GPU",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2025/12/amds-fsr-redstone-upscaling-claims-to-close-the-gap-with-nvidias-dlss/",
-          "published_at": "Wed, 10 Dec 2025 14:00:43 +0000",
-          "title": "AMD’s next-gen “FSR Redstone” brings big gains, as long as you’re using a new GPU",
-          "standfirst": "\"Redstone\" is a promising mix of old and new ideas, but Nvidia is years ahead.",
-          "content": "Nvidia, AMD, and Intel have all made high-quality image upscaling a cornerstone feature of their new GPUs this decade. Upscaling technologies like Nvidia’s Deep Learning Super Sampling (DLSS), AMD’s FidelityFX Super Resolution (FSR), and Intel’s Xe Super Sampling (XeSS) are all ways to transform a lower-resolution source image into a higher-resolution image, delivering better-looking games without requiring as much graphics hardware as you’d need to render the higher-resolution image natively. Later additions have focused on improving ray-tracing performance and “frame generation” technologies that boost frame rates by creating new AI-generated frames to insert between natively rendered frames. Generally speaking, Nvidia’s DLSS technologies have provided better image quality than AMD’s FSR, but they have only been available on newer Nvidia hardware—the GeForce RTX 20-series or newer for most features, with frame-generation features locked to the RTX 40- and 50-series. FSR’s results don’t look as good, but they have benefited from running on just about anything, including older GPUs, Nvidia GPUs, and even integrated Intel and AMD GPUs. Today, AMD is trying to shift that dynamic with something called “FSR Redstone,” a collection of ray-tracing and frame-generation features all intended to boost AMD’s image quality while being relatively easy to implement for game developers who are already using FSR 3.1 or FSR 4.Read full article Comments",
-          "feed_position": 13,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/Screenshot-2025-12-09-at-3.43.56-PM-1152x648-1765313186.jpeg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/Screenshot-2025-12-09-at-3.43.56-PM-1152x648-1765313186.jpeg",
-      "popularity_score": 150.68719305555555
-    },
-    {
-      "id": "cluster_95",
-      "coverage": 1,
-      "updated_at": "Tue, 09 Dec 2025 21:08:11 +0000",
-      "title": "Big Tech joins forces with Linux Foundation to standardize AI agents",
-      "neutral_headline": "Big Tech joins forces with Linux Foundation to standardize AI agents",
-      "bullet_summary": [
-        "The Agentic AI Foundation launches to support MCP, AGENTS",
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2025/12/big-tech-joins-forces-with-linux-foundation-to-standardize-ai-agents/",
-          "published_at": "Tue, 09 Dec 2025 21:08:11 +0000",
-          "title": "Big Tech joins forces with Linux Foundation to standardize AI agents",
-          "standfirst": "The Agentic AI Foundation launches to support MCP, AGENTS.md, and goose.",
-          "content": "Big Tech has spent the past year telling us we’re living in the era of AI agents, but most of what we’ve been promised is still theoretical. As companies race to turn fantasy into reality, they’ve developed a collection of tools to guide the development of generative AI. A cadre of major players in the AI race, including Anthropic, Block, and OpenAI, has come together to promote interoperability with the newly formed Agentic AI Foundation (AAIF). This move elevates a handful of popular technologies and could make them a de facto standard for AI development going forward. The development path for agentic AI models is cloudy to say the least, but companies have invested so heavily in creating these systems that some tools have percolated to the surface. The AAIF, which is part of the nonprofit Linux Foundation, has been launched to govern the development of three key AI technologies: Model Context Protocol (MCP), goose, and AGENTS.md. MCP is probably the most well-known of the trio, having been open-sourced by Anthropic a year ago. The goal of MCP is to link AI agents to data sources in a standardized way—Anthropic (and now the AAIF) is fond of calling MCP a “USB-C port for AI.” Rather than creating custom integrations for every different database or cloud storage platform, MCP allows developers to quickly and easily connect to any MCP-compliant server.Read full article Comments",
-          "feed_position": 17,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/GettyImages-1327016094-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/GettyImages-1327016094-1152x648.jpg",
-      "popularity_score": 148
-    },
-    {
-      "id": "cluster_57",
+      "id": "cluster_109",
       "coverage": 1,
       "updated_at": "Wed, 10 Dec 2025 16:59:15 +0000",
       "title": "Sperm donor with rare cancer mutation fathered nearly 200 children in Europe",
@@ -342,155 +570,11 @@
           "title": "Sperm donor with rare cancer mutation fathered nearly 200 children in Europe",
           "standfirst": "Children with the mutation have up to a 90% chance of developing cancer by age 60.",
           "content": "A single sperm donor who carries a rare cancer-causing genetic mutation has fathered at least 197 children across 14 countries in Europe, according to a collaborative investigation by 14 European news groups. According to their investigative report, some of the children have already died, and many others are expected to develop deadly cancers. The man—Donor 7069, alias “Kjeld”—carries a rare mutation in the TP53 gene, which codes for a critical tumor suppressor called protein 53 or p53. This protein (which is a transcription factor) keeps cells from dividing uncontrollably, can activate DNA repair processes amid damage, and can trigger cell death when a cell is beyond repair. Many cancers are linked to mutations in p53.Read full article Comments",
-          "feed_position": 10,
+          "feed_position": 19,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2018/09/GettyImages-460716005-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2018/09/GettyImages-460716005-1152x648.jpg",
-      "popularity_score": 138.6627486111111
-    },
-    {
-      "id": "cluster_71",
-      "coverage": 1,
-      "updated_at": "Wed, 10 Dec 2025 14:45:06 +0000",
-      "title": "Dr. Oz tells his federal employees to eat less during the holidays",
-      "neutral_headline": "Dr. Oz tells his federal employees to eat less during the holidays",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/health/2025/12/dr-oz-tells-his-federal-employees-to-eat-less-during-the-holidays/",
-          "published_at": "Wed, 10 Dec 2025 14:45:06 +0000",
-          "title": "Dr. Oz tells his federal employees to eat less during the holidays",
-          "standfirst": "“You don’t have to try every cookie on the holiday table,” wrote Mehmet Oz in an email to staff.",
-          "content": "Dr. Mehmet Oz, the administrator for the Centers for Medicare and Medicaid Services (CMS) and former daytime talk show star, has recently been emailing all federal workers in his agency weekly tips on “Crushing Cubicle Cravings” and how to avoid snacking in the office. “We all love a fun cookie swap and potluck this time of year. With several teams across CMS hosting holiday gatherings this month, I am sharing some strategies to help you make healthier choices—while still indulging in festive treats,” Oz wrote in his latest missive, which appears as a recurring section in his weekly bulletin titled “From the Administrator’s Desk,” according to emails viewed by WIRED. “Set your intentions,” writes Oz. “Decide in advance how many treats you’ll allow yourself to enjoy and try to stick to that number. You don’t have to try every cookie on the cookie table.”Read full article Comments",
-          "feed_position": 12,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2188660602-1-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2188660602-1-1152x648.jpg",
-      "popularity_score": 136.42691527777777
-    },
-    {
-      "id": "cluster_79",
-      "coverage": 1,
-      "updated_at": "Wed, 10 Dec 2025 12:32:21 +0000",
-      "title": "Operation Bluebird wants to relaunch “Twitter,” says Musk abandoned the name and logo",
-      "neutral_headline": "Operation Bluebird wants to relaunch “Twitter,” says Musk abandoned the name and logo",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/information-technology/2025/12/can-twitter-fly-again-startup-wants-to-pry-iconic-trademark-from-musks-x/",
-          "published_at": "Wed, 10 Dec 2025 12:32:21 +0000",
-          "title": "Operation Bluebird wants to relaunch “Twitter,” says Musk abandoned the name and logo",
-          "standfirst": "“Abandonment” offers rare chance to reclaim one of tech’s most recognized brands.",
-          "content": "A Virginia startup calling itself “Operation Bluebird” announced this week that it has filed a formal petition with the US Patent and Trademark Office, asking the federal agency to cancel X Corporation’s trademarks of the words “Twitter” and “tweet” since X has allegedly abandoned them. “The TWITTER and TWEET brands have been eradicated from X Corp.’s products, services, and marketing, effectively abandoning the storied brand, with no intention to resume use of the mark,” the petition states. “The TWITTER bird was grounded.” If successful, two leaders of the group tell Ars, Operation Bluebird would launch a social network under the name Twitter.new, possibly as early as late next year. (Twitter.new has created a working prototype and is already inviting users to reserve handles.)Read full article Comments",
-          "feed_position": 14,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/getty-twitter-logo-1152x648-1765369763.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/getty-twitter-logo-1152x648-1765369763.jpg",
-      "popularity_score": 134.2144152777778
-    },
-    {
-      "id": "cluster_80",
-      "coverage": 1,
-      "updated_at": "Wed, 10 Dec 2025 12:30:29 +0000",
-      "title": "Win hardware, collectibles, and more in the 2025 Ars Technica Charity Drive",
-      "neutral_headline": "Win hardware, collectibles, and more in the 2025 Ars Technica Charity Drive",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gaming/2025/12/win-hardware-collectibles-and-more-in-the-2025-ars-technica-charity-drive/",
-          "published_at": "Wed, 10 Dec 2025 12:30:29 +0000",
-          "title": "Win hardware, collectibles, and more in the 2025 Ars Technica Charity Drive",
-          "standfirst": "Help yourself to prizes by helping us raise money for good causes.",
-          "content": "It’s once again that special time of year when we give you a chance to do well by doing good. That’s right—it’s the 2025 edition of our annual Charity Drive! Every year since 2007, we’ve encouraged readers to give to Penny Arcade’s Child’s Play charity, which provides toys and games to kids being treated in hospitals around the world. In recent years, we’ve added the Electronic Frontier Foundation to our charity push, aiding in their efforts to defend Internet freedom. This year, as always, we’re providing some extra incentive for those donations by offering donors a chance to win pieces of our big pile of vendor-provided swag. We can’t keep it, and we don’t want it clogging up our offices, so it’s now yours to win. This year’s swag pile is full of high-value geek goodies. We have over a dozen prizes valued at nearly $5,000 total, including gaming hardware and collectibles, apparel, and more. In 2023, Ars readers raised nearly $40,000 for charity, contributing to a total haul of more than $542,000 since 2007. We want to raise even more this year, and we can do it if readers dig deep.Read full article Comments",
-          "feed_position": 15,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/charitydrive2025-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/charitydrive2025-1152x648.jpg",
-      "popularity_score": 134.18330416666666
-    },
-    {
-      "id": "cluster_93",
-      "coverage": 1,
-      "updated_at": "Tue, 09 Dec 2025 22:34:39 +0000",
-      "title": "Over 250 people quarantined in South Carolina as measles outbreak rages",
-      "neutral_headline": "Over 250 people quarantined in South Carolina as measles outbreak rages",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/health/2025/12/over-250-people-quarantined-in-south-carolina-as-measles-outbreak-rages/",
-          "published_at": "Tue, 09 Dec 2025 22:34:39 +0000",
-          "title": "Over 250 people quarantined in South Carolina as measles outbreak rages",
-          "standfirst": "16 cases are linked to a church, which followed exposures at four schools last week.",
-          "content": "A measles outbreak that began in South Carolina at the start of October is showing no signs of slowing as officials on Tuesday reported 27 new cases since Friday. Those cases bring the outbreak total to 111. The southern state’s outbreak now rivals outbreaks ongoing in Utah and Arizona, which have tallied 115 and 176 cases, respectively. The outbreaks are threatening to cost the country its measles elimination status, which was earned in 2000 after vaccination efforts stopped the virus from spreading continuously. If the current transmission of the virus isn’t halted by January, the virus will have circulated for 12 consecutive months, marking it once again as an endemic disease in the US. In an update on Tuesday, South Carolina’s health department suggested the spread is far from over. Of the state’s 27 new cases, 16 were linked to exposure at a church, the Way of Truth Church in Inman. And amid the new cases, new exposures were identified at Inman Intermediate School. That’s on top of exposures announced Friday at four other schools in the region, which led to well over 100 students being quarantined.Read full article Comments",
-          "feed_position": 16,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2152300024-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2152300024-1152x648.jpg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_97",
-      "coverage": 1,
-      "updated_at": "Tue, 09 Dec 2025 18:53:21 +0000",
-      "title": "Supreme Court appears likely to approve Trump’s firing of FTC Democrat",
-      "neutral_headline": "Supreme Court appears likely to approve Trump’s firing of FTC Democrat",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2025/12/supreme-court-appears-likely-to-approve-trumps-firing-of-ftc-democrat/",
-          "published_at": "Tue, 09 Dec 2025 18:53:21 +0000",
-          "title": "Supreme Court appears likely to approve Trump’s firing of FTC Democrat",
-          "standfirst": "Conservative justices seem ready to back Trump control of independent agencies.",
-          "content": "The Supreme Court’s conservative justices appear ready to overturn a 90-year-old precedent that said the president cannot fire a Federal Trade Commission member without cause. A ruling for Trump would give him more power over the FTC and potentially other independent agencies such as the Federal Communications Commission. Former FTC Commissioner Rebecca Kelly Slaughter, a Democrat, sued Trump after he fired both Democrats from the commission in March. Slaughter’s case rests largely on the 1935 ruling in Humphrey’s Executor v. United States, in which the Supreme Court unanimously held that the president can only remove FTC commissioners for inefficiency, neglect of duty, or malfeasance in office. Chief Justice John Roberts said during yesterday’s oral arguments that Humphrey’s Executor is a “dried husk” despite being the “primary authority” that Slaughter’s legal team is relying on. Roberts said the court’s 2020 ruling in Seila Law made it “pretty clear… that Humphrey’s Executor is just a dried husk of whatever people used to think it was because, in the opinion itself, it described the powers of the agency it was talking about, and they’re vanishingly insignificant, have nothing to do with what the FTC looks like today.”Read full article Comments",
-          "feed_position": 18,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-supreme-court-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-supreme-court-1152x648.jpg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_99",
-      "coverage": 1,
-      "updated_at": "Tue, 09 Dec 2025 18:09:05 +0000",
-      "title": "NASA astronauts will have their own droid when they go back to the Moon",
-      "neutral_headline": "NASA astronauts will have their own droid when they go back to the Moon",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/space/2025/12/lunar-outpost-rover-to-study-lunar-dust-alongside-artemis-astronauts-on-moon/",
-          "published_at": "Tue, 09 Dec 2025 18:09:05 +0000",
-          "title": "NASA astronauts will have their own droid when they go back to the Moon",
-          "standfirst": "NASA crew will be the first astronauts to work with a robot on a celestial body other than Earth.",
-          "content": "B-9 had Will Robinson. Twiki had Buck Rogers. And, of course, C-3PO and R2-D2 had Luke Skywalker. Now, in a scenario straight out of science fiction, MAPP will have whoever NASA names to the crew of the second Artemis mission to land on the moon. The space agency has selected Lunar Outpost’s Mobile Autonomous Prospecting Platform, or MAPP, to become the first robotic rover to operate on the moon alongside astronauts. Although its tasks will be far simpler than those of the robots seen on TV and in the movies, the autonomous four-wheeled MAPP will help scientists learn more about the crew’s surroundings. Science instruments on the rover will characterize the surface plasma and behavior of the dust in the lunar environment. “The Apollo era taught us that the further humanity is from Earth, the more dependent we are on science to protect and sustain human life on other planets,” said Nicky Fox, NASA’s associate administrator for science, in a statement. “By deploying these… science instruments on the lunar surface, our proving ground, NASA is leading the world in the creation of humanity’s interplanetary survival guide to ensure the health and safety of our spacecraft and human explorers as we begin our epic journey back to the Moon.”Read full article Comments",
-          "feed_position": 19,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/news-120825a-lg-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/news-120825a-lg-1152x648.jpg",
       "popularity_score": 133
     }
   ]
