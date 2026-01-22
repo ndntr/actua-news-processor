@@ -1,17 +1,40 @@
 {
   "clinical": {
-    "updated_at": "2026-01-22T04:05:58.109Z",
+    "updated_at": "2026-01-22T07:22:09.010Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-01-22T04:05:58.109Z",
+    "updated_at": "2026-01-22T07:22:09.011Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-01-22T04:06:01.421Z",
+    "updated_at": "2026-01-22T07:22:12.818Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Thu, 22 Jan 2026 06:08:15 GMT",
+        "title": "I'm 26 and want to be sterilised over pregnancy sickness",
+        "neutral_headline": "I'm 26 and want to be sterilised over pregnancy sickness",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/c9wxvre2d4xo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 22 Jan 2026 06:08:15 GMT",
+            "title": "I'm 26 and want to be sterilised over pregnancy sickness",
+            "standfirst": "Chloe booked an abortion because her sickness was so severe she could not look after herself.",
+            "content": "Chloe booked an abortion because her sickness was so severe she could not look after herself.",
+            "feed_position": 100,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6e9/live/e25b2e80-f756-11f0-aff3-fb80c79e9828.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6e9/live/e25b2e80-f756-11f0-aff3-fb80c79e9828.jpg"
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Wed, 21 Jan 2026 23:30:51 GMT",
         "title": "Use of ADHD medication in UK more than tripled in 13 years, study finds",
@@ -30,29 +53,6 @@
             "feed_position": 0
           }
         ]
-      },
-      {
-        "id": "cluster_1",
-        "coverage": 1,
-        "updated_at": "Wed, 21 Jan 2026 22:58:30 GMT",
-        "title": "I'm 26 and want to be sterilised over pregnancy sickness",
-        "neutral_headline": "I'm 26 and want to be sterilised over pregnancy sickness",
-        "bullet_summary": [
-          "Reported by BBC Health"
-        ],
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/c9wxvre2d4xo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Wed, 21 Jan 2026 22:58:30 GMT",
-            "title": "I'm 26 and want to be sterilised over pregnancy sickness",
-            "standfirst": "Chloe booked an abortion because her sickness was so severe she could not look after herself.",
-            "content": "Chloe booked an abortion because her sickness was so severe she could not look after herself.",
-            "feed_position": 100,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3a5/live/d22c8ba0-f5f6-11f0-a745-635c33f47272.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3a5/live/d22c8ba0-f5f6-11f0-a745-635c33f47272.jpg"
       },
       {
         "id": "cluster_2",
@@ -468,7 +468,7 @@
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-01-22T04:06:01.421Z",
+    "updated_at": "2026-01-22T07:22:12.818Z",
     "clusters": []
   }
 }
