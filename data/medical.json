@@ -1,17 +1,61 @@
 {
   "clinical": {
-    "updated_at": "2026-02-05T19:32:57.970Z",
+    "updated_at": "2026-02-05T23:17:44.372Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-02-05T19:32:57.970Z",
+    "updated_at": "2026-02-05T23:17:44.372Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-02-05T19:33:01.143Z",
+    "updated_at": "2026-02-05T23:17:46.930Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Thu, 05 Feb 2026 21:00:00 GMT",
+        "title": "BBC Inside Science",
+        "neutral_headline": "BBC Inside Science",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/sounds/play/w3ct8txy?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 05 Feb 2026 21:00:00 GMT",
+            "title": "BBC Inside Science",
+            "standfirst": "New research on how forever chemicals get into our environment.",
+            "content": "New research on how forever chemicals get into our environment.",
+            "feed_position": 59,
+            "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Thu, 05 Feb 2026 20:15:46 GMT",
+        "title": "Five high-protein snacks that are good for vegetarians, according to a dietician",
+        "neutral_headline": "Five high-protein snacks that are good for vegetarians, according to a dietician",
+        "bullet_summary": [
+          "Reported by Guardian Health"
+        ],
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/lifeandstyle/2026/jan/30/high-protein-snacks-that-arent-bars-or-jerky",
+            "published_at": "Thu, 05 Feb 2026 20:15:46 GMT",
+            "title": "Five high-protein snacks that are good for vegetarians, according to a dietician",
+            "standfirst": "We asked a dietician for tips on hitting protein goals when you have a plant-based diet or are sick of protein barsThis piece was originally published in the Filter US newsletter on buying fewer, better things. Sign up here to get early access to itEach week we cut through the noise to bring you smart, practical recommendations on how to live better – from what is worth buying to the tools, habits and ideas that actually last.Not a day goes by that I don’t eat a protein bar.Go Macro Bar Continue reading...",
+            "content": "We asked a dietician for tips on hitting protein goals when you have a plant-based diet or are sick of protein barsThis piece was originally published in the Filter US newsletter on buying fewer, better things. Sign up here to get early access to itEach week we cut through the noise to bring you smart, practical recommendations on how to live better – from what is worth buying to the tools, habits and ideas that actually last.Not a day goes by that I don’t eat a protein bar.Go Macro Bar Continue reading...",
+            "feed_position": 0
+          }
+        ]
+      },
+      {
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Thu, 05 Feb 2026 17:41:53 GMT",
         "title": "We need new drugs for mental ill-health | Letter",
@@ -32,7 +76,7 @@
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Thu, 05 Feb 2026 17:00:42 GMT",
         "title": "‘People are turning themselves into lab rats’: the injectable peptides craze sweeping the US",
@@ -53,30 +97,7 @@
         ]
       },
       {
-        "id": "cluster_2",
-        "coverage": 1,
-        "updated_at": "Thu, 05 Feb 2026 17:00:00 GMT",
-        "title": "BBC Inside Science",
-        "neutral_headline": "BBC Inside Science",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/sounds/play/w3ct8txy?at_medium=RSS&at_campaign=rss",
-            "published_at": "Thu, 05 Feb 2026 17:00:00 GMT",
-            "title": "BBC Inside Science",
-            "standfirst": "New research on how forever chemicals get into our environment.",
-            "content": "New research on how forever chemicals get into our environment.",
-            "feed_position": 59,
-            "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
-      },
-      {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Thu, 05 Feb 2026 16:00:40 GMT",
         "title": "Unlicensed weight-loss drugs marketed on social media as ‘prizes’",
@@ -97,7 +118,7 @@
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Thu, 05 Feb 2026 14:39:00 GMT",
         "title": "Alton Towers to remove disability pass for people with ADHD and anxiety",
@@ -121,7 +142,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dfa/live/69109ae0-0293-11f1-a1c4-c94a3ddf1d51.jpg"
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Thu, 05 Feb 2026 14:23:22 GMT",
         "title": "Health warning over Cape Verde travel after stomach bug deaths",
@@ -144,7 +165,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48fe/live/e4b43760-0293-11f1-b7e1-afb6d0884c18.jpg"
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Thu, 05 Feb 2026 13:22:13 GMT",
         "title": "What are critical minerals and why do countries need them?",
@@ -167,7 +188,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7847/live/a4b8c650-f7a6-11f0-9dfa-8ff76e953b19.jpg"
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Thu, 05 Feb 2026 12:00:58 GMT",
         "title": "UK's £8bn research fund faces 'hard decisions' as it pauses new grants",
@@ -191,7 +212,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1823/live/7566ee40-0282-11f1-853d-351197b9900b.jpg"
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Thu, 05 Feb 2026 11:10:29 GMT",
         "title": "Townsville hospital investigates after South Australian anti-abortion activist posts image of aborted foetus",
@@ -212,7 +233,7 @@
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Thu, 05 Feb 2026 11:01:35 GMT",
         "title": "36 UK infants ill after drinking contaminated baby formula",
@@ -235,7 +256,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c87b/live/836c8c60-027e-11f1-853d-351197b9900b.jpg"
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Thu, 05 Feb 2026 09:13:20 GMT",
         "title": "Fumes, rats and maggots: peer urges Environment Agency to clear illegal dump in Wigan",
@@ -256,7 +277,7 @@
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Thu, 05 Feb 2026 08:28:58 GMT",
         "title": "Dad starts wargaming club for men's mental health",
@@ -280,7 +301,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3e7/live/b0fc6480-01e7-11f1-9972-d3f265c101c6.jpg"
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Thu, 05 Feb 2026 06:24:25 GMT",
         "title": "'Our daughter's cancer symptoms were dismissed because she was a child'",
@@ -303,7 +324,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56f1/live/a8521310-0201-11f1-b311-a93d45a0b96f.jpg"
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Thu, 05 Feb 2026 06:00:22 GMT",
         "title": "Does getting cold increase your chances of catching flu?",
@@ -324,7 +345,7 @@
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Thu, 05 Feb 2026 05:00:21 GMT",
         "title": "‘I wondered if I would be a coward or not’: five Ukrainian men on how war has changed them",
@@ -345,7 +366,7 @@
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Thu, 05 Feb 2026 05:00:20 GMT",
         "title": "‘The children are not safe here’: the Nigerian couple fighting infanticide",
@@ -367,7 +388,7 @@
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Thu, 05 Feb 2026 04:57:54 GMT",
         "title": "New York City and Illinois join WHO network after Trump pulls US out of global health body",
@@ -388,7 +409,7 @@
         ]
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Thu, 05 Feb 2026 00:48:42 GMT",
         "title": "Period blood test could offer less invasive alternative to cervical screening",
@@ -411,7 +432,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7eda/live/9b0a16a0-0268-11f1-9972-d3f265c101c6.jpg"
       },
       {
-        "id": "cluster_18",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Wed, 04 Feb 2026 23:30:14 GMT",
         "title": "Autistic girls much less likely to be diagnosed, study says",
@@ -430,32 +451,11 @@
             "feed_position": 10
           }
         ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Wed, 04 Feb 2026 21:00:11 GMT",
-        "title": "Mediterranean diet can reduce risk of stroke by up to 25%, long-term study suggests",
-        "neutral_headline": "Mediterranean diet can reduce risk of stroke by up to 25%, long-term study suggests",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2026/feb/04/mediterranean-diet-reduce-risk-of-stroke-study",
-            "published_at": "Wed, 04 Feb 2026 21:00:11 GMT",
-            "title": "Mediterranean diet can reduce risk of stroke by up to 25%, long-term study suggests",
-            "standfirst": "Two-decade study indicates a diet rich in foods such as olive oil, nuts and vegetables can cut risk of every type of strokeA Mediterranean diet can reduce the risk of every type of stroke, in some cases by as much as 25%, a large study conducted over two decades suggests.A diet rich in olive oil, nuts, seafood, whole grains and vegetables has previously been linked to a number of health benefits. However, until now there has been limited evidence of how it might affect the risk of all forms of stroke. Continue reading...",
-            "content": "Two-decade study indicates a diet rich in foods such as olive oil, nuts and vegetables can cut risk of every type of strokeA Mediterranean diet can reduce the risk of every type of stroke, in some cases by as much as 25%, a large study conducted over two decades suggests.A diet rich in olive oil, nuts, seafood, whole grains and vegetables has previously been linked to a number of health benefits. However, until now there has been limited evidence of how it might affect the risk of all forms of stroke. Continue reading...",
-            "feed_position": 0
-          }
-        ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-02-05T19:33:01.143Z",
+    "updated_at": "2026-02-05T23:17:46.930Z",
     "clusters": []
   }
 }
