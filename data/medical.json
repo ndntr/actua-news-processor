@@ -1,17 +1,64 @@
 {
   "clinical": {
-    "updated_at": "2026-02-09T07:51:31.471Z",
+    "updated_at": "2026-02-09T11:40:32.220Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-02-09T07:51:31.471Z",
+    "updated_at": "2026-02-09T11:40:32.220Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-02-09T07:51:40.392Z",
+    "updated_at": "2026-02-09T11:40:41.781Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Mon, 09 Feb 2026 06:21:27 GMT",
+        "title": "Why are fewer people donating their organs?",
+        "neutral_headline": "Why are fewer people donating their organs",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/cgjw341zj81o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 09 Feb 2026 06:21:27 GMT",
+            "title": "Why are fewer people donating their organs?",
+            "standfirst": "The number waiting for an organ is at a record high as loved ones increasingly block donations.",
+            "content": "The number waiting for an organ is at a record high as loved ones increasingly block donations.",
+            "feed_position": 59,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08d2/live/f840b550-0532-11f1-b9d7-4fda1210c377.png"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08d2/live/f840b550-0532-11f1-b9d7-4fda1210c377.png"
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Mon, 09 Feb 2026 06:21:01 GMT",
+        "title": "'Weight-loss jab helped me find my cancer'",
+        "neutral_headline": "'Weight-loss jab helped me find my cancer'",
+        "bullet_summary": [
+          "Rebecca Combellack says she found out she had breast cancer after losing weight and finding a lump",
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/cn0yl9v0x4go?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 09 Feb 2026 06:21:01 GMT",
+            "title": "'Weight-loss jab helped me find my cancer'",
+            "standfirst": "Rebecca Combellack says she found out she had breast cancer after losing weight and finding a lump.",
+            "content": "Rebecca Combellack says she found out she had breast cancer after losing weight and finding a lump.",
+            "feed_position": 1,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9df/live/b5aaecd0-02b5-11f1-83b0-21555a6f44a1.png"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9df/live/b5aaecd0-02b5-11f1-83b0-21555a6f44a1.png"
+      },
+      {
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Sun, 08 Feb 2026 23:52:07 GMT",
         "title": "‘Take the vaccine, please,’ Dr Oz urges amid rising measles cases in US",
@@ -33,7 +80,7 @@
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Sun, 08 Feb 2026 16:56:52 GMT",
         "title": "When ‘low contact’ doesn’t mean healing – but coercion | Letters",
@@ -54,7 +101,7 @@
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Sun, 08 Feb 2026 15:00:33 GMT",
         "title": "Social media companies are being sued for harming their users’ mental health – but are the platforms addictive?",
@@ -75,7 +122,7 @@
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Sun, 08 Feb 2026 14:00:34 GMT",
         "title": "The troubling rise of longevity fixation syndrome: ‘I was crushed by the pressure I put on myself’",
@@ -96,7 +143,7 @@
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Sun, 08 Feb 2026 14:00:33 GMT",
         "title": "Is there a doctor on board? The midair emergency call medical professionals dread",
@@ -117,7 +164,7 @@
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Sun, 08 Feb 2026 12:34:33 GMT",
         "title": "Office buzz: UK employers turn to beehives to boost workplace wellbeing",
@@ -138,7 +185,7 @@
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Sun, 08 Feb 2026 12:00:30 GMT",
         "title": "I spent years meeting strangers for masochistic hook-ups. Was I a sex addict?",
@@ -159,7 +206,7 @@
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Sun, 08 Feb 2026 10:00:27 GMT",
         "title": "The sneeze secret: how much should you worry about this explosive reflex?",
@@ -180,28 +227,30 @@
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_10",
         "coverage": 1,
-        "updated_at": "Sun, 08 Feb 2026 06:00:23 GMT",
-        "title": "Failure to compensate pelvic mesh implant victims ‘morally unacceptable’, say campaigners",
-        "neutral_headline": "Failure to compensate pelvic mesh implant victims...",
+        "updated_at": "Sun, 08 Feb 2026 09:04:47 GMT",
+        "title": "'Rare moss species are fighting climate change'",
+        "neutral_headline": "'Rare moss species are fighting climate change'",
         "bullet_summary": [
-          "Reported by Guardian Health"
+          "Reported by BBC Science"
         ],
         "items": [
           {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2026/feb/08/failure-to-compensate-pelvic-mesh-implant-victims-morally-unacceptable-say-campaigners",
-            "published_at": "Sun, 08 Feb 2026 06:00:23 GMT",
-            "title": "Failure to compensate pelvic mesh implant victims ‘morally unacceptable’, say campaigners",
-            "standfirst": "Thousands of women with life-changing complications still in limbo two years after call for financial redressThe government’s failure to respond to calls for a compensation scheme for women harmed by pelvic mesh has been described as “morally unacceptable” by campaigners.Thousands of women were left with life-changing complications after receiving transvaginal mesh implants, with some unable to walk or work again. Continue reading...",
-            "content": "Thousands of women with life-changing complications still in limbo two years after call for financial redressThe government’s failure to respond to calls for a compensation scheme for women harmed by pelvic mesh has been described as “morally unacceptable” by campaigners.Thousands of women were left with life-changing complications after receiving transvaginal mesh implants, with some unable to walk or work again. Continue reading...",
-            "feed_position": 8
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/c0lx3e1w5y8o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sun, 08 Feb 2026 09:04:47 GMT",
+            "title": "'Rare moss species are fighting climate change'",
+            "standfirst": "An extinct moss is reintroduced across Yorkshire's moors in the battle against climate change.",
+            "content": "An extinct moss is reintroduced across Yorkshire's moors in the battle against climate change.",
+            "feed_position": 42,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79d2/live/f18ff0e0-0352-11f1-8dce-5f79cab4f7bf.jpg"
           }
-        ]
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79d2/live/f18ff0e0-0352-11f1-8dce-5f79cab4f7bf.jpg"
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Sun, 08 Feb 2026 06:00:23 GMT",
         "title": "‘I don’t have to create his legacy, I just have to protect it’: Chadwick Boseman’s widow Simone on grieving a global star – and guarding his secrets",
@@ -218,12 +267,33 @@
             "title": "‘I don’t have to create his legacy, I just have to protect it’: Chadwick Boseman’s widow Simone on grieving a global star – and guarding his secrets",
             "standfirst": "Black Panther made him a megastar, but in private the actor and his wife Simone Ledward Boseman were dealing with his terminal cancer diagnosis. In a rare interview, she talks about the shock of losing him, and how a revival of one of his plays has helped her healSimone Ledward Boseman is reflecting on the five years that have passed since the death of her husband, actor and writer Chadwick Boseman. “The edges of grief get less sharp over time,” she says. “Five years definitely feels like a marker. I’ve had to gradually figure out how I talk about Chad. What do I want to share, and what do I feel comfortable sharing? Can I find something that I might want to share in the midst of something I don’t want to share?” We meet on a video call across time zones – it’s 9am in California, where she lives. “Except for my mom, I’m not talking to anybody before 10am,” she laughs. She’s made an exception to give a rare interview ahead of the UK premiere of her late husband’s play Deep Azure, which is currently in previews in London at Shakespeare’s Globe.When Boseman’s death was announced at the end of August 2020, the shock reverberated across the globe. He was devastatingly young – only 43 – and the world was just getting to know him. The release of the movie Black Panther two years earlier, in which he played the eponymous character also known as T’Challa, had skyrocketed his fame. Before then, he had been a successful Hollywood actor. Now? He was a global megastar – the first Black superhero in the Marvel Cinematic Universe (MCU). The news was doubly shocking because the family had not previously revealed that he had been suffering with colorectal cancer. Continue reading...",
             "content": "Black Panther made him a megastar, but in private the actor and his wife Simone Ledward Boseman were dealing with his terminal cancer diagnosis. In a rare interview, she talks about the shock of losing him, and how a revival of one of his plays has helped her healSimone Ledward Boseman is reflecting on the five years that have passed since the death of her husband, actor and writer Chadwick Boseman. “The edges of grief get less sharp over time,” she says. “Five years definitely feels like a marker. I’ve had to gradually figure out how I talk about Chad. What do I want to share, and what do I feel comfortable sharing? Can I find something that I might want to share in the midst of something I don’t want to share?” We meet on a video call across time zones – it’s 9am in California, where she lives. “Except for my mom, I’m not talking to anybody before 10am,” she laughs. She’s made an exception to give a rare interview ahead of the UK premiere of her late husband’s play Deep Azure, which is currently in previews in London at Shakespeare’s Globe.When Boseman’s death was announced at the end of August 2020, the shock reverberated across the globe. He was devastatingly young – only 43 – and the world was just getting to know him. The release of the movie Black Panther two years earlier, in which he played the eponymous character also known as T’Challa, had skyrocketed his fame. Before then, he had been a successful Hollywood actor. Now? He was a global megastar – the first Black superhero in the Marvel Cinematic Universe (MCU). The news was doubly shocking because the family had not previously revealed that he had been suffering with colorectal cancer. Continue reading...",
+            "feed_position": 8
+          }
+        ]
+      },
+      {
+        "id": "cluster_12",
+        "coverage": 1,
+        "updated_at": "Sun, 08 Feb 2026 06:00:23 GMT",
+        "title": "Failure to compensate pelvic mesh implant victims ‘morally unacceptable’, say campaigners",
+        "neutral_headline": "Failure to compensate pelvic mesh implant victims...",
+        "bullet_summary": [
+          "Reported by Guardian Health"
+        ],
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/society/2026/feb/08/failure-to-compensate-pelvic-mesh-implant-victims-morally-unacceptable-say-campaigners",
+            "published_at": "Sun, 08 Feb 2026 06:00:23 GMT",
+            "title": "Failure to compensate pelvic mesh implant victims ‘morally unacceptable’, say campaigners",
+            "standfirst": "Thousands of women with life-changing complications still in limbo two years after call for financial redressThe government’s failure to respond to calls for a compensation scheme for women harmed by pelvic mesh has been described as “morally unacceptable” by campaigners.Thousands of women were left with life-changing complications after receiving transvaginal mesh implants, with some unable to walk or work again. Continue reading...",
+            "content": "Thousands of women with life-changing complications still in limbo two years after call for financial redressThe government’s failure to respond to calls for a compensation scheme for women harmed by pelvic mesh has been described as “morally unacceptable” by campaigners.Thousands of women were left with life-changing complications after receiving transvaginal mesh implants, with some unable to walk or work again. Continue reading...",
             "feed_position": 9
           }
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Sun, 08 Feb 2026 02:00:18 GMT",
         "title": "Why has food become another joyless way to self-optimise? | Emma Beddington",
@@ -244,7 +314,7 @@
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Sat, 07 Feb 2026 19:00:10 GMT",
         "title": "Tanning apps that offer ‘safe’ sun routines undermining efforts to tackle skin cancer",
@@ -265,7 +335,7 @@
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Sat, 07 Feb 2026 15:00:05 GMT",
         "title": "Avocados are a Super Bowl staple – but are they truly a miracle food?",
@@ -284,55 +354,11 @@
             "feed_position": 12
           }
         ]
-      },
-      {
-        "id": "cluster_13",
-        "coverage": 1,
-        "updated_at": "Sat, 07 Feb 2026 09:41:07 GMT",
-        "title": "Europe feels the impact of weeks of wet weather and freezing cold",
-        "neutral_headline": "Europe feels the impact of weeks of wet weather and freezing cold",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/weather/articles/cwy8450qkwwo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Sat, 07 Feb 2026 09:41:07 GMT",
-            "title": "Europe feels the impact of weeks of wet weather and freezing cold",
-            "standfirst": "A blocked weather pattern has been bringing persistent heavy rain to the Iberian Peninsula. As Darren Bett explains, that's not the only type of extreme weather affecting Europe at the moment.",
-            "content": "A blocked weather pattern has been bringing persistent heavy rain to the Iberian Peninsula. As Darren Bett explains, that's not the only type of extreme weather affecting Europe at the moment.",
-            "feed_position": 42,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a24/live/501c54d0-035a-11f1-8e00-3751f0197d0e.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a24/live/501c54d0-035a-11f1-8e00-3751f0197d0e.jpg"
-      },
-      {
-        "id": "cluster_14",
-        "coverage": 1,
-        "updated_at": "Sat, 07 Feb 2026 09:00:57 GMT",
-        "title": "NHS doctor struck off over botched circumcision still performing operation",
-        "neutral_headline": "NHS doctor struck off over botched circumcision still performing operation",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2026/feb/07/nhs-doctor-zuber-bux-struck-off-botched-circumcision-still-performing-operation",
-            "published_at": "Sat, 07 Feb 2026 09:00:57 GMT",
-            "title": "NHS doctor struck off over botched circumcision still performing operation",
-            "standfirst": "‘Catastrophic failure of safeguarding’ highlighted by fact Zuber Bux’s lay practice is legal, campaigners sayA doctor who was struck off over a “reckless” circumcision that risked killing a toddler is still performing the procedure as a layperson, the Guardian can reveal.Campaigners say Zuber Bux’s private circumcision business highlights a “catastrophic failure of safeguarding”, as alarm grows about the absence of regulation of the procedure. Continue reading...",
-            "content": "‘Catastrophic failure of safeguarding’ highlighted by fact Zuber Bux’s lay practice is legal, campaigners sayA doctor who was struck off over a “reckless” circumcision that risked killing a toddler is still performing the procedure as a layperson, the Guardian can reveal.Campaigners say Zuber Bux’s private circumcision business highlights a “catastrophic failure of safeguarding”, as alarm grows about the absence of regulation of the procedure. Continue reading...",
-            "feed_position": 13
-          }
-        ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-02-09T07:51:40.392Z",
+    "updated_at": "2026-02-09T11:40:41.781Z",
     "clusters": []
   }
 }
