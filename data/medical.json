@@ -1,17 +1,38 @@
 {
   "clinical": {
-    "updated_at": "2026-02-10T23:32:48.617Z",
+    "updated_at": "2026-02-11T04:57:24.424Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-02-10T23:32:48.617Z",
+    "updated_at": "2026-02-11T04:57:24.424Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-02-10T23:32:51.055Z",
+    "updated_at": "2026-02-11T04:57:26.915Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Tue, 10 Feb 2026 23:52:41 GMT",
+        "title": "FDA declines to review Moderna application for new flu vaccine",
+        "neutral_headline": "FDA declines to review Moderna application for new flu vaccine",
+        "bullet_summary": [
+          "Reported by Guardian Health"
+        ],
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/us-news/2026/feb/10/fda-moderna-flu-vaccine",
+            "published_at": "Tue, 10 Feb 2026 23:52:41 GMT",
+            "title": "FDA declines to review Moderna application for new flu vaccine",
+            "standfirst": "Moderna requests meeting to discuss refusal as decision could have implications for all new and updated vaccinesUS regulators will not review Moderna’s request to license a new, potentially more effective flu shot – even though the US Food and Drug Administration (FDA) previously gave the green light to the project – in a decision that could have implications for all new and updated vaccines in the US.It’s the latest move by the Trump administration against vaccines. Officials in January decided to stop fully recommending one-third of routine childhood vaccines, including flu vaccines. Continue reading...",
+            "content": "Moderna requests meeting to discuss refusal as decision could have implications for all new and updated vaccinesUS regulators will not review Moderna’s request to license a new, potentially more effective flu shot – even though the US Food and Drug Administration (FDA) previously gave the green light to the project – in a decision that could have implications for all new and updated vaccines in the US.It’s the latest move by the Trump administration against vaccines. Officials in January decided to stop fully recommending one-third of routine childhood vaccines, including flu vaccines. Continue reading...",
+            "feed_position": 0
+          }
+        ]
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Tue, 10 Feb 2026 23:30:00 GMT",
         "title": "Exercise can be ‘frontline treatment’ for mild depression, researchers say",
@@ -27,12 +48,12 @@
             "title": "Exercise can be ‘frontline treatment’ for mild depression, researchers say",
             "standfirst": "Biggest improvements seen in young adults and new mothers, with group activities of most benefitAerobic exercise such as running, swimming or dancing can be considered a frontline treatment for mild depression and anxiety, according to research that suggests working out with others brings the most benefits.Scientists analysed published reviews on exercise and mental health and found that some of the greatest improvements were observed in young adults and new mothers – groups that are considered particularly vulnerable to mental health problems. Continue reading...",
             "content": "Biggest improvements seen in young adults and new mothers, with group activities of most benefitAerobic exercise such as running, swimming or dancing can be considered a frontline treatment for mild depression and anxiety, according to research that suggests working out with others brings the most benefits.Scientists analysed published reviews on exercise and mental health and found that some of the greatest improvements were observed in young adults and new mothers – groups that are considered particularly vulnerable to mental health problems. Continue reading...",
-            "feed_position": 0
+            "feed_position": 1
           }
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Tue, 10 Feb 2026 18:23:37 GMT",
         "title": "Health warning over Cape Verde travel after stomach bug deaths",
@@ -55,7 +76,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48fe/live/e4b43760-0293-11f1-b7e1-afb6d0884c18.jpg"
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Tue, 10 Feb 2026 16:51:48 GMT",
         "title": "Student loan move could cost Labour dear | Letter",
@@ -71,12 +92,12 @@
             "title": "Student loan move could cost Labour dear | Letter",
             "standfirst": "Dr Michael Symonds and Gavin Greenwood respond to an editorial on graduate loansYour editorial (8 February) is correct to highlight that a graduate levy by stealth is no way to fund the NHS and its potential consequences. This will include resident doctors, whose dissatisfaction with their pay and working conditions will be amplified by the chancellor’s statement that they now need to help pay for their own salaries.The anger that recent graduates feel will also be felt by their parents, many of whom benefited from free higher education and see as unfair the repayment/tax changes being imposed. The government should bear in mind the electoral near wipeout experienced by the Liberal Democrats in 2015, having enabled the Tory-led coalition to triple the cost of student fees, despite the manifesto pledge to remove it.Dr Michael SymondsEmeritus professor, University of Nottingham medical school Continue reading...",
             "content": "Dr Michael Symonds and Gavin Greenwood respond to an editorial on graduate loansYour editorial (8 February) is correct to highlight that a graduate levy by stealth is no way to fund the NHS and its potential consequences. This will include resident doctors, whose dissatisfaction with their pay and working conditions will be amplified by the chancellor’s statement that they now need to help pay for their own salaries.The anger that recent graduates feel will also be felt by their parents, many of whom benefited from free higher education and see as unfair the repayment/tax changes being imposed. The government should bear in mind the electoral near wipeout experienced by the Liberal Democrats in 2015, having enabled the Tory-led coalition to triple the cost of student fees, despite the manifesto pledge to remove it.Dr Michael SymondsEmeritus professor, University of Nottingham medical school Continue reading...",
-            "feed_position": 1
+            "feed_position": 2
           }
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Tue, 10 Feb 2026 15:32:45 GMT",
         "title": "The EU is working on a blanket ban of ‘forever chemicals’. Why isn't Britain? | Pippa Neill",
@@ -93,12 +114,12 @@
             "title": "The EU is working on a blanket ban of ‘forever chemicals’. Why isn't Britain? | Pippa Neill",
             "standfirst": "In Lancashire, I met people living with dangerous levels of Pfas, including in their food. The government is failing themLast week, on the morning the government published its Pfas action plan, I got a worried phone call from a woman called Sam who lives next door to a chemical factory in Lancashire. Sam had just been hand-delivered a letter from her local council informing her that after testing, it had been confirmed that her ducks’ eggs, reared in her garden in Thornton-Cleveleys, near Blackpool, are contaminated with Pfas.Pfas – per- and poly-fluoroalkyl substances, commonly known as “forever chemicals” due to their persistence in the environment – are a family of thousands of chemicals, and I have been reporting on them for years. Some, including those found in the eggs Sam and her family have been eating, have been linked to a wide range of serious illnesses, including certain cancers. Continue reading...",
             "content": "In Lancashire, I met people living with dangerous levels of Pfas, including in their food. The government is failing themLast week, on the morning the government published its Pfas action plan, I got a worried phone call from a woman called Sam who lives next door to a chemical factory in Lancashire. Sam had just been hand-delivered a letter from her local council informing her that after testing, it had been confirmed that her ducks’ eggs, reared in her garden in Thornton-Cleveleys, near Blackpool, are contaminated with Pfas.Pfas – per- and poly-fluoroalkyl substances, commonly known as “forever chemicals” due to their persistence in the environment – are a family of thousands of chemicals, and I have been reporting on them for years. Some, including those found in the eggs Sam and her family have been eating, have been linked to a wide range of serious illnesses, including certain cancers. Continue reading...",
-            "feed_position": 2
+            "feed_position": 3
           }
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Tue, 10 Feb 2026 15:00:51 GMT",
         "title": "‘Coca leaf is life itself’: Andean growers’ hopes fade as WHO upholds global curb",
@@ -114,12 +135,12 @@
             "title": "‘Coca leaf is life itself’: Andean growers’ hopes fade as WHO upholds global curb",
             "standfirst": "Under US pressure as part of the ‘war on drugs’, the WHO still categorises the sacred Indigenous remedy as akin to heroin or fentanyl, despite its many therapeutic propertiesFor thousands of years, Andean people living around what is now the town of Coripata, east of La Paz, Bolivia, have used coca leaves to relieve fatigue, hunger and altitude sickness (known as soroche), as well as to treat headaches and digestive problems.Concerned about the future of this cultural and religious practice, Daynor Choque, heir to this ancient tradition, points to a pile of leaves on the table in front of him. Continue reading...",
             "content": "Under US pressure as part of the ‘war on drugs’, the WHO still categorises the sacred Indigenous remedy as akin to heroin or fentanyl, despite its many therapeutic propertiesFor thousands of years, Andean people living around what is now the town of Coripata, east of La Paz, Bolivia, have used coca leaves to relieve fatigue, hunger and altitude sickness (known as soroche), as well as to treat headaches and digestive problems.Concerned about the future of this cultural and religious practice, Daynor Choque, heir to this ancient tradition, points to a pile of leaves on the table in front of him. Continue reading...",
-            "feed_position": 3
+            "feed_position": 4
           }
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Tue, 10 Feb 2026 12:26:15 GMT",
         "title": "AstraZeneca CEO hails NHS drug price deal but keeps pause on £200m UK investment",
@@ -135,12 +156,12 @@
             "title": "AstraZeneca CEO hails NHS drug price deal but keeps pause on £200m UK investment",
             "standfirst": "Pascal Soriot suggests UK-US agreement will not be enough to revive plan to expand Cambridge siteBusiness live – latest updatesThe boss of Britain’s biggest pharmaceutical company has said the government’s recent drug pricing deal is a “very positive step” but is unlikely to unfreeze a paused £200m investment in Cambridge.AstraZeneca’s chief executive, Pascal Soriot, suggested that a UK-US deal on NHS pricing agreed in December would not be “sufficient” to restart the project to build a research site in the east of England, which was paused in September. Continue reading...",
             "content": "Pascal Soriot suggests UK-US agreement will not be enough to revive plan to expand Cambridge siteBusiness live – latest updatesThe boss of Britain’s biggest pharmaceutical company has said the government’s recent drug pricing deal is a “very positive step” but is unlikely to unfreeze a paused £200m investment in Cambridge.AstraZeneca’s chief executive, Pascal Soriot, suggested that a UK-US deal on NHS pricing agreed in December would not be “sufficient” to restart the project to build a research site in the east of England, which was paused in September. Continue reading...",
-            "feed_position": 4
+            "feed_position": 5
           }
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Tue, 10 Feb 2026 12:04:28 GMT",
         "title": "Sepsis mistakes killed our daughter - we fear it could happen again",
@@ -163,7 +184,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bcb/live/6e1a2960-05af-11f1-b5e2-dd58fc65f0f6.jpg"
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Tue, 10 Feb 2026 10:28:07 GMT",
         "title": "Israeli court blocks life-saving cancer care for boy, 5, due to his Gaza address",
@@ -179,12 +200,12 @@
             "title": "Israeli court blocks life-saving cancer care for boy, 5, due to his Gaza address",
             "standfirst": "Palestinian boy has been in the West Bank since 2022 but is still registered as a resident in the strip where ban appliesAn Israeli court has rejected an appeal to allow a five-year-old Palestinian boy with an aggressive form of cancer to enter Israel for life-saving treatment, citing a government policy that bars residents registered in Gaza from crossing the border, even when they no longer live there.In a ruling issued on Sunday, the Jerusalem district court dismissed a petition seeking permission to transfer the child from Ramallah to Tel HaShomer hospital near Tel Aviv for a bone marrow transplant – a procedure unavailable in either Gaza or the occupied West Bank. The boy has been in the West Bank since 2022 where he was receiving medical care unavailable in the Gaza Strip. His doctors have determined that he urgently requires antibody immunotherapy. Continue reading...",
             "content": "Palestinian boy has been in the West Bank since 2022 but is still registered as a resident in the strip where ban appliesAn Israeli court has rejected an appeal to allow a five-year-old Palestinian boy with an aggressive form of cancer to enter Israel for life-saving treatment, citing a government policy that bars residents registered in Gaza from crossing the border, even when they no longer live there.In a ruling issued on Sunday, the Jerusalem district court dismissed a petition seeking permission to transfer the child from Ramallah to Tel HaShomer hospital near Tel Aviv for a bone marrow transplant – a procedure unavailable in either Gaza or the occupied West Bank. The boy has been in the West Bank since 2022 where he was receiving medical care unavailable in the Gaza Strip. His doctors have determined that he urgently requires antibody immunotherapy. Continue reading...",
-            "feed_position": 5
+            "feed_position": 6
           }
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Tue, 10 Feb 2026 10:19:08 GMT",
         "title": "More solar farms on the way after record renewables auction",
@@ -207,7 +228,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fb1/live/fa8e5190-05b0-11f1-8336-6d2201ebafb2.jpg"
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Tue, 10 Feb 2026 10:00:00 GMT",
         "title": "Inside Health",
@@ -230,7 +251,7 @@
         "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1r8h6.jpg"
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Tue, 10 Feb 2026 07:47:44 GMT",
         "title": "Could this spider's silk help repair nerves?",
@@ -253,7 +274,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6be2/live/bf36dfa0-0654-11f1-b7e1-afb6d0884c18.jpg"
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Tue, 10 Feb 2026 06:20:48 GMT",
         "title": "Using AI for medical advice 'dangerous', study finds",
@@ -276,7 +297,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be85/live/ba2db8c0-05c9-11f1-a351-bb43301b14c5.jpg"
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Tue, 10 Feb 2026 06:02:01 GMT",
         "title": "Deaf patients condemn lack of NHS interpreters",
@@ -299,7 +320,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2152/live/f913a250-01e8-11f1-9199-abe6787bfb38.jpg"
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Tue, 10 Feb 2026 05:00:13 GMT",
         "title": "‘What I see in clinic is never a set of labels’: are we in danger of overdiagnosing mental illness?",
@@ -316,12 +337,12 @@
             "title": "‘What I see in clinic is never a set of labels’: are we in danger of overdiagnosing mental illness?",
             "standfirst": "Our current approach to mental health labelling and diagnosis has brought benefits. But as a practising doctor, I am concerned that it may be doing more harm than goodSomeone is shot, and almost dies; the fragility of life is intimately revealed to him. He goes on to have flashbacks of the event, finds that he can no longer relax or enjoy himself. He is agitated and restless. His relationships suffer, then wither; he is progressively disturbed by intrusive memories of the event.This could be read as a description of many patients I’ve seen in clinic and in the emergency room over the years in my work as a doctor: it’s recognisably someone suffering what has in recent decades been called PTSD, or post-traumatic stress disorder. But it isn’t one of my patients. It’s a description of a character in the 7,000-year-old Indian epic The Ramayana; Indian psychiatrist Hitesh Sheth uses it as an example of the timelessness of certain states of mind. Other ancient epics describe textbook cases of what we now call “generalised anxiety disorder”, which is characterised by excessive fear and rumination, loss of focus, and inability to sleep. Yet others describe what sounds like suicidal depression, or devastating substance addiction.The great topmost sheet of the mass, that where hardly a light had twinkled or moved, becomes now a sparkling field of rhythmic flashing points with trains of travelling sparks hurrying hither and thither. The brain is waking and with it the mind is returning … Swiftly the head mass becomes an enchanted loom where millions of flashing shuttles weave a dissolving pattern, always a meaningful pattern though never an abiding one. Continue reading...",
             "content": "Our current approach to mental health labelling and diagnosis has brought benefits. But as a practising doctor, I am concerned that it may be doing more harm than goodSomeone is shot, and almost dies; the fragility of life is intimately revealed to him. He goes on to have flashbacks of the event, finds that he can no longer relax or enjoy himself. He is agitated and restless. His relationships suffer, then wither; he is progressively disturbed by intrusive memories of the event.This could be read as a description of many patients I’ve seen in clinic and in the emergency room over the years in my work as a doctor: it’s recognisably someone suffering what has in recent decades been called PTSD, or post-traumatic stress disorder. But it isn’t one of my patients. It’s a description of a character in the 7,000-year-old Indian epic The Ramayana; Indian psychiatrist Hitesh Sheth uses it as an example of the timelessness of certain states of mind. Other ancient epics describe textbook cases of what we now call “generalised anxiety disorder”, which is characterised by excessive fear and rumination, loss of focus, and inability to sleep. Yet others describe what sounds like suicidal depression, or devastating substance addiction.The great topmost sheet of the mass, that where hardly a light had twinkled or moved, becomes now a sparkling field of rhythmic flashing points with trains of travelling sparks hurrying hither and thither. The brain is waking and with it the mind is returning … Swiftly the head mass becomes an enchanted loom where millions of flashing shuttles weave a dissolving pattern, always a meaningful pattern though never an abiding one. Continue reading...",
-            "feed_position": 6
+            "feed_position": 7
           }
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Mon, 09 Feb 2026 23:30:04 GMT",
         "title": "People with obesity 70% more likely to be hospitalised by or die from infection, study finds",
@@ -337,12 +358,12 @@
             "title": "People with obesity 70% more likely to be hospitalised by or die from infection, study finds",
             "standfirst": "Being unhealthy weight raises risk of severe illness or death from most infectious diseases significantly, researchers findPeople living with obesity are 70% more likely to be hospitalised by or die from an infection, with one in 10 infection-related deaths globally linked to the condition, research suggests.Being an unhealthy weight significantly increases the risk of severe illness and death from most infectious diseases, including flu, pneumonia, gastroenteritis, urinary tract infections and Covid-19, according to a study of more than 500,000 people. Continue reading...",
             "content": "Being unhealthy weight raises risk of severe illness or death from most infectious diseases significantly, researchers findPeople living with obesity are 70% more likely to be hospitalised by or die from an infection, with one in 10 infection-related deaths globally linked to the condition, research suggests.Being an unhealthy weight significantly increases the risk of severe illness and death from most infectious diseases, including flu, pneumonia, gastroenteritis, urinary tract infections and Covid-19, according to a study of more than 500,000 people. Continue reading...",
-            "feed_position": 7
+            "feed_position": 8
           }
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Mon, 09 Feb 2026 17:23:36 GMT",
         "title": "RFK Jr misled Senate during confirmation, Congress members and Hawaii governor say",
@@ -358,12 +379,12 @@
             "title": "RFK Jr misled Senate during confirmation, Congress members and Hawaii governor say",
             "standfirst": "Newly revealed emails undermine Kennedy’s testimony about 2019 Samoa trip ahead of deadly measles outbreakThree members of Congress say the US health secretary, Robert F Kennedy Jr, lied during his Senate confirmation hearings in response to newly revealed emails that undermine his testimony that a trip he took to Samoa ahead of a deadly measles outbreak had “nothing to do with vaccines”.The governor of Hawaii, a medical doctor who responded to the crisis, also spoke out – saying that the disclosure of the emails by the Guardian and the Associated Press show Kennedy misled the Senate and that he should step down. Continue reading...",
             "content": "Newly revealed emails undermine Kennedy’s testimony about 2019 Samoa trip ahead of deadly measles outbreakThree members of Congress say the US health secretary, Robert F Kennedy Jr, lied during his Senate confirmation hearings in response to newly revealed emails that undermine his testimony that a trip he took to Samoa ahead of a deadly measles outbreak had “nothing to do with vaccines”.The governor of Hawaii, a medical doctor who responded to the crisis, also spoke out – saying that the disclosure of the emails by the Guardian and the Associated Press show Kennedy misled the Senate and that he should step down. Continue reading...",
-            "feed_position": 8
+            "feed_position": 9
           }
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Mon, 09 Feb 2026 16:00:20 GMT",
         "title": "A couple of teas or coffees a day could lower risk of dementia, scientists say",
@@ -379,12 +400,12 @@
             "title": "A couple of teas or coffees a day could lower risk of dementia, scientists say",
             "standfirst": "Findings suggest smaller cognitive decline, but US study cannot prove daily caffeine hit is good for the brainPeople who have a couple of teas or coffees a day have a lower risk of dementia and marginally better cognitive performance than those who avoid the drinks, researchers say.Health records for more than 130,000 people showed that over 40 years, those who routinely drank two to three cups of caffeinated coffee or one to two cups of caffeinated tea daily had a 15-20% lower risk of dementia than those who went without. Continue reading...",
             "content": "Findings suggest smaller cognitive decline, but US study cannot prove daily caffeine hit is good for the brainPeople who have a couple of teas or coffees a day have a lower risk of dementia and marginally better cognitive performance than those who avoid the drinks, researchers say.Health records for more than 130,000 people showed that over 40 years, those who routinely drank two to three cups of caffeinated coffee or one to two cups of caffeinated tea daily had a 15-20% lower risk of dementia than those who went without. Continue reading...",
-            "feed_position": 9
+            "feed_position": 10
           }
         ]
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Mon, 09 Feb 2026 15:07:39 GMT",
         "title": "Almost 70% of NHS areas in England offer only one cycle of IVF, data shows",
@@ -400,12 +421,12 @@
             "title": "Almost 70% of NHS areas in England offer only one cycle of IVF, data shows",
             "standfirst": "Charity says situation breaks Nice guidelines and is having devastating impact on couples struggling with infertility Millions of women in England are able to access only one round of IVF on the NHS because of health authority cutbacks and in contravention of official policy, research from a fertility charity has shown.Nearly 70% of local areas fund just one cycle for women under 40 who have been unable to conceive for two years, rather than the three full cycles they should be offered in line with official guidance, according to data collected by the Progress Educational Trust (PET). Continue reading...",
             "content": "Charity says situation breaks Nice guidelines and is having devastating impact on couples struggling with infertility Millions of women in England are able to access only one round of IVF on the NHS because of health authority cutbacks and in contravention of official policy, research from a fertility charity has shown.Nearly 70% of local areas fund just one cycle for women under 40 who have been unable to conceive for two years, rather than the three full cycles they should be offered in line with official guidance, according to data collected by the Progress Educational Trust (PET). Continue reading...",
-            "feed_position": 10
+            "feed_position": 11
           }
         ]
       },
       {
-        "id": "cluster_18",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Mon, 09 Feb 2026 13:00:55 GMT",
         "title": "Businesses face extinction unless they protect nature, major report warns",
@@ -426,32 +447,11 @@
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cd8/live/f7180f30-05b3-11f1-9972-d3f265c101c6.jpg"
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Mon, 09 Feb 2026 12:00:00 GMT",
-        "title": "US chemical giant to stop producing herbicide called ‘toxic cocktail’ by critics",
-        "neutral_headline": "US chemical giant to stop producing herbicide called ‘toxic cocktail’ by critics",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/environment/2026/feb/09/corteva-agent-orange-glyphosate-herbicide",
-            "published_at": "Mon, 09 Feb 2026 12:00:00 GMT",
-            "title": "US chemical giant to stop producing herbicide called ‘toxic cocktail’ by critics",
-            "standfirst": "Corteva will discontinue a mixture of Agent Orange and glyphosate, but another of its herbicides will still use Vietnam war-era defoliantThe chemical giant Corteva will stop producing Enlist Duo, a herbicide considered to be among the most dangerous still used in the US by environmentalists because it contains a mix of Agent Orange and glyphosate, which have both been linked to cancer and widespread ecological damage.The US military deployed Agent Orange, a chemical weapon, to destroy vegetation during the Vietnam war, causing serious health problems among soldiers and Vietnamese residents.This article was amended on 9 February 2026 to add comment from a Corteva spokesperson. Continue reading...",
-            "content": "Corteva will discontinue a mixture of Agent Orange and glyphosate, but another of its herbicides will still use Vietnam war-era defoliantThe chemical giant Corteva will stop producing Enlist Duo, a herbicide considered to be among the most dangerous still used in the US by environmentalists because it contains a mix of Agent Orange and glyphosate, which have both been linked to cancer and widespread ecological damage.The US military deployed Agent Orange, a chemical weapon, to destroy vegetation during the Vietnam war, causing serious health problems among soldiers and Vietnamese residents.This article was amended on 9 February 2026 to add comment from a Corteva spokesperson. Continue reading...",
-            "feed_position": 11
-          }
-        ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-02-10T23:32:51.055Z",
+    "updated_at": "2026-02-11T04:57:26.915Z",
     "clusters": []
   }
 }
