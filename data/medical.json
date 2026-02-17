@@ -1,17 +1,84 @@
 {
   "clinical": {
-    "updated_at": "2026-02-17T11:34:32.393Z",
+    "updated_at": "2026-02-17T23:22:24.811Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-02-17T11:34:32.394Z",
+    "updated_at": "2026-02-17T23:22:24.811Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-02-17T11:34:38.769Z",
+    "updated_at": "2026-02-17T23:22:27.125Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Tue, 17 Feb 2026 17:39:19 GMT",
+        "title": "Health support needed to tackle joblessness | Letter",
+        "neutral_headline": "Health support needed to tackle joblessness | Letter",
+        "bullet_summary": [
+          "Reported by Guardian Health"
+        ],
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/society/2026/feb/17/health-support-needed-to-tackle-joblessness",
+            "published_at": "Tue, 17 Feb 2026 17:39:19 GMT",
+            "title": "Health support needed to tackle joblessness | Letter",
+            "standfirst": "Health-centred approaches that help individuals stay in or return to work are needed, says Nick PahlThe alarming rise in economic inactivity highlighted in your report (UK sleepwalking into joblessness epidemic, Tesco boss warns, 10 February) underlines a public health issue as much as an economic one. It is increasingly clear that millions of working-age people are drifting out of the labour market not through choice but because of long-term health problems and inadequate support systems around them.Tackling worklessness requires proactive, health-centred approaches that help individuals stay in or return to work. We also know that time out of work is corrosive. Good-quality work improves physical and mental wellbeing, providing income, social connection and purpose, and protects against social exclusion. Continue reading...",
+            "content": "Health-centred approaches that help individuals stay in or return to work are needed, says Nick PahlThe alarming rise in economic inactivity highlighted in your report (UK sleepwalking into joblessness epidemic, Tesco boss warns, 10 February) underlines a public health issue as much as an economic one. It is increasingly clear that millions of working-age people are drifting out of the labour market not through choice but because of long-term health problems and inadequate support systems around them.Tackling worklessness requires proactive, health-centred approaches that help individuals stay in or return to work. We also know that time out of work is corrosive. Good-quality work improves physical and mental wellbeing, providing income, social connection and purpose, and protects against social exclusion. Continue reading...",
+            "feed_position": 0
+          }
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Tue, 17 Feb 2026 15:48:19 GMT",
+        "title": "How do cold weather health alerts work?",
+        "neutral_headline": "How do cold weather health alerts work",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/cd97dkx9g38o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Tue, 17 Feb 2026 15:48:19 GMT",
+            "title": "How do cold weather health alerts work?",
+            "standfirst": "The weather alert service warns the public when high or low temperatures could damage their health.",
+            "content": "The weather alert service warns the public when high or low temperatures could damage their health.",
+            "feed_position": 33,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdcf/live/43e68de0-c456-11f0-8669-5560f5c90fbe.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdcf/live/43e68de0-c456-11f0-8669-5560f5c90fbe.jpg"
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Tue, 17 Feb 2026 15:14:28 GMT",
+        "title": "Viral face depuffing tricks - skin experts reveal if they work",
+        "neutral_headline": "Viral face depuffing tricks - skin experts reveal if they work",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/ce8wd6pzl72o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Tue, 17 Feb 2026 15:14:28 GMT",
+            "title": "Viral face depuffing tricks - skin experts reveal if they work",
+            "standfirst": "We look at three viral hacks to unpick fact from fiction - the effects are often at best, temporary, say experts.",
+            "content": "We look at three viral hacks to unpick fact from fiction - the effects are often at best, temporary, say experts.",
+            "feed_position": 5,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b40/live/556ec230-0c13-11f1-be16-f95144af7a04.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b40/live/556ec230-0c13-11f1-be16-f95144af7a04.jpg"
+      },
+      {
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Tue, 17 Feb 2026 11:32:08 GMT",
         "title": "Boy first in UK to have pioneering leg-lengthening surgery",
@@ -34,7 +101,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58b6/live/bdcaf3c0-0b5b-11f1-b472-df9c1c12cffb.jpg"
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Tue, 17 Feb 2026 11:16:24 GMT",
         "title": "'The kindness of people got me to the finish line'",
@@ -50,14 +117,14 @@
             "title": "'The kindness of people got me to the finish line'",
             "standfirst": "Farmer Sam Stables walks from Herefordshire to London to raise awareness of mental health.",
             "content": "Farmer Sam Stables walks from Herefordshire to London to raise awareness of mental health.",
-            "feed_position": 112,
+            "feed_position": 100,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0296/live/ab169f90-0bec-11f1-b7e1-afb6d0884c18.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0296/live/ab169f90-0bec-11f1-b7e1-afb6d0884c18.jpg"
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Tue, 17 Feb 2026 10:00:00 GMT",
         "title": "Inside Health",
@@ -73,14 +140,14 @@
             "title": "Inside Health",
             "standfirst": "James Gallagher is joined by a panel to explore the side effects of weight loss drugs.",
             "content": "James Gallagher is joined by a panel to explore the side effects of weight loss drugs.",
-            "feed_position": 108,
+            "feed_position": 96,
             "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1r8h6.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1r8h6.jpg"
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Tue, 17 Feb 2026 05:28:41 GMT",
         "title": "What have families told the Lampard Inquiry into mental health deaths?",
@@ -103,7 +170,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42c7/live/aa50ff80-0b45-11f1-9972-d3f265c101c6.jpg"
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Tue, 17 Feb 2026 05:00:47 GMT",
         "title": "Should we really all be taking magnesium supplements? – podcast",
@@ -120,35 +187,12 @@
             "title": "Should we really all be taking magnesium supplements? – podcast",
             "standfirst": "Testimonials about the beneficial health effects of magnesium supplements abound online, with influencers claiming that a daily pill can help with everything from anxiety to sleep and brain fog. But do any of these claims stack up?Ian Sample is joined by co-host Madeleine Finlay to find out where the science stands. They also hear from Katherine Tucker, the founder of the Center for Population Health at the University of Massachusetts Lowell. She explains what magnesium is doing in our bodies and the best approach we can take to ensure we are getting enoughSupport the Guardian: theguardian.com/sciencepod Continue reading...",
             "content": "Testimonials about the beneficial health effects of magnesium supplements abound online, with influencers claiming that a daily pill can help with everything from anxiety to sleep and brain fog. But do any of these claims stack up?Ian Sample is joined by co-host Madeleine Finlay to find out where the science stands. They also hear from Katherine Tucker, the founder of the Center for Population Health at the University of Massachusetts Lowell. She explains what magnesium is doing in our bodies and the best approach we can take to ensure we are getting enoughSupport the Guardian: theguardian.com/sciencepod Continue reading...",
-            "feed_position": 0
+            "feed_position": 1
           }
         ]
       },
       {
-        "id": "cluster_5",
-        "coverage": 1,
-        "updated_at": "Tue, 17 Feb 2026 01:59:27 GMT",
-        "title": "Can you really depuff your face? The truth about three common treatments",
-        "neutral_headline": "Can you really depuff your face? The truth about three common treatments",
-        "bullet_summary": [
-          "Reported by BBC Health"
-        ],
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/ce8wd6pzl72o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Tue, 17 Feb 2026 01:59:27 GMT",
-            "title": "Can you really depuff your face? The truth about three common treatments",
-            "standfirst": "We look at three viral hacks to unpick fact from fiction - the effects are often at best, temporary, say experts.",
-            "content": "We look at three viral hacks to unpick fact from fiction - the effects are often at best, temporary, say experts.",
-            "feed_position": 5,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edb0/live/dbbae6b0-07ff-11f1-8981-b35bbe94674f.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edb0/live/dbbae6b0-07ff-11f1-8981-b35bbe94674f.jpg"
-      },
-      {
-        "id": "cluster_6",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Tue, 17 Feb 2026 01:43:37 GMT",
         "title": "Bailiffs used to pursue NHS staff over pay errors",
@@ -171,7 +215,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02cd/live/f5e78f30-0a79-11f1-b5e2-dd58fc65f0f6.jpg"
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 21:00:00 GMT",
         "title": "BBC Inside Science",
@@ -194,7 +238,7 @@
         "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 19:54:38 GMT",
         "title": "NHS ’clearly failing’ to ensure children get measles vaccine, experts warn",
@@ -210,12 +254,12 @@
             "title": "NHS ’clearly failing’ to ensure children get measles vaccine, experts warn",
             "standfirst": "Calls grow for reform of England’s vaccination system including delivery of jabs in pharmacies as take-up fallsChildren are at risk of measles because the NHS is “clearly failing” to ensure they get the MMR vaccine and its system needs an urgent overhaul, MPs and health experts have warned.Calls are growing for major reform of how MMR jabs are delivered as it emerged that vaccination rates in some parts of England are now on a par with those in Afghanistan and Malawi. Continue reading...",
             "content": "Calls grow for reform of England’s vaccination system including delivery of jabs in pharmacies as take-up fallsChildren are at risk of measles because the NHS is “clearly failing” to ensure they get the MMR vaccine and its system needs an urgent overhaul, MPs and health experts have warned.Calls are growing for major reform of how MMR jabs are delivered as it emerged that vaccination rates in some parts of England are now on a par with those in Afghanistan and Malawi. Continue reading...",
-            "feed_position": 1
+            "feed_position": 2
           }
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 19:54:12 GMT",
         "title": "Fertility patients win high court battle to save embryos after consent error",
@@ -232,12 +276,12 @@
             "title": "Fertility patients win high court battle to save embryos after consent error",
             "standfirst": "Judge says people should not lose chance of parenthood ‘by the ticking of a clock’ after 10-year deadline missedMore than a dozen fertility patients have won a high court battle to save their embryos, eggs and sperm from destruction after errors meant they did not renew consent to store them within the 10-year window required by law.Ruling that the material could be kept, the judge said they should not “have the possibility of parenthood … removed by the ticking of a clock”. Continue reading...",
             "content": "Judge says people should not lose chance of parenthood ‘by the ticking of a clock’ after 10-year deadline missedMore than a dozen fertility patients have won a high court battle to save their embryos, eggs and sperm from destruction after errors meant they did not renew consent to store them within the 10-year window required by law.Ruling that the material could be kept, the judge said they should not “have the possibility of parenthood … removed by the ticking of a clock”. Continue reading...",
-            "feed_position": 2
+            "feed_position": 3
           }
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 18:13:40 GMT",
         "title": "‘A lot of vaccine hesitancy’: how north London council is responding to measles outbreak",
@@ -253,12 +297,12 @@
             "title": "‘A lot of vaccine hesitancy’: how north London council is responding to measles outbreak",
             "standfirst": "Health professionals are having to find innovative ways to reach parents whose children have not had the MMR jabMore than 60 children infected in north London measles outbreakFor people living and working in Enfield, the current measles outbreak is a shock – but not a surprise. The borough has struggled with low vaccine uptake for years, fighting against vaccine hesitancy, online misinformation and health inequalities.Working closely with communities to persuade them to come forward for vaccinations is an “ongoing public health challenge”, which Enfield – like many boroughs – is grappling with, said Enfield council’s director of public health, Dudu Sher-Arami. Continue reading...",
             "content": "Health professionals are having to find innovative ways to reach parents whose children have not had the MMR jabMore than 60 children infected in north London measles outbreakFor people living and working in Enfield, the current measles outbreak is a shock – but not a surprise. The borough has struggled with low vaccine uptake for years, fighting against vaccine hesitancy, online misinformation and health inequalities.Working closely with communities to persuade them to come forward for vaccinations is an “ongoing public health challenge”, which Enfield – like many boroughs – is grappling with, said Enfield council’s director of public health, Dudu Sher-Arami. Continue reading...",
-            "feed_position": 3
+            "feed_position": 4
           }
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 17:26:49 GMT",
         "title": "Ancient bone may prove legendary war elephant crossing of Alps",
@@ -281,7 +325,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e64c/live/1cbfed40-0b52-11f1-b472-df9c1c12cffb.jpg"
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 16:00:29 GMT",
         "title": "Single dose of potent psychedelic drug could help treat depression, trial shows",
@@ -297,18 +341,17 @@
             "title": "Single dose of potent psychedelic drug could help treat depression, trial shows",
             "standfirst": "Researchers find DMT – used in shamanic rituals – in tandem with psychotherapy has significant effect People with major depressive disorder can see a rapid and lasting improvement after a single dose of the psychedelic drug dimethyltryptamine (DMT) when it is combined with psychotherapy, doctors have said.A small clinical trial involving 34 people found that psychedelic-assisted therapy prompted a swift reduction in depressive symptoms that endured long after the drug had worn off, with some still feeling the benefits six months later. Continue reading...",
             "content": "Researchers find DMT – used in shamanic rituals – in tandem with psychotherapy has significant effect People with major depressive disorder can see a rapid and lasting improvement after a single dose of the psychedelic drug dimethyltryptamine (DMT) when it is combined with psychotherapy, doctors have said.A small clinical trial involving 34 people found that psychedelic-assisted therapy prompted a swift reduction in depressive symptoms that endured long after the drug had worn off, with some still feeling the benefits six months later. Continue reading...",
-            "feed_position": 4
+            "feed_position": 5
           }
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 14:24:53 GMT",
         "title": "Measles: how does it spread and how can I protect my child?",
-        "neutral_headline": "Fast-spreading measles outbreak takes hold among under-10s in north London",
+        "neutral_headline": "Measles: how does it spread and how can I protect my child",
         "bullet_summary": [
-          "UKHSA previously reported 34 laboratory-confirmed measles cases among children who attend schools and nurseries in Enfield from 1 January to 9 February, with some requiring hospital treatment",
           "Reported by Guardian Health"
         ],
         "items": [
@@ -319,21 +362,12 @@
             "title": "Measles: how does it spread and how can I protect my child?",
             "standfirst": "A measles outbreak among unvaccinated children in London comes amid a global increase in infectionsA measles outbreak in London is affecting unvaccinated children under the age of 10, and comes amid an increase in infections globally.The UK was among six countries to lose the measles-free status granted by the World Health Organization (WHO) last month. Experts are calling on governments to urgently boost vaccination rates to stop measles infecting more children. Continue reading...",
             "content": "A measles outbreak among unvaccinated children in London comes amid a global increase in infectionsA measles outbreak in London is affecting unvaccinated children under the age of 10, and comes amid an increase in infections globally.The UK was among six countries to lose the measles-free status granted by the World Health Organization (WHO) last month. Experts are calling on governments to urgently boost vaccination rates to stop measles infecting more children. Continue reading...",
-            "feed_position": 5
-          },
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2026/feb/15/measles-outbreak-under-10s-north-london",
-            "published_at": "Sun, 15 Feb 2026 19:37:58 GMT",
-            "title": "Fast-spreading measles outbreak takes hold among under-10s in north London",
-            "standfirst": "UK Health Security Agency urges parents in Enfield to get their children vaccinated as Easter holiday travels approach‘We almost lost you in the night’ - the life-threatening rise of measlesA big measles outbreak in north-east London is affecting unvaccinated children under the age of 10, the UK Health Security Agency (UKHSA) has confirmed.UKHSA previously reported 34 laboratory-confirmed measles cases among children who attend schools and nurseries in Enfield from 1 January to 9 February, with some requiring hospital treatment. Continue reading...",
-            "content": "UK Health Security Agency urges parents in Enfield to get their children vaccinated as Easter holiday travels approach‘We almost lost you in the night’ - the life-threatening rise of measlesA big measles outbreak in north-east London is affecting unvaccinated children under the age of 10, the UK Health Security Agency (UKHSA) has confirmed.UKHSA previously reported 34 laboratory-confirmed measles cases among children who attend schools and nurseries in Enfield from 1 January to 9 February, with some requiring hospital treatment. Continue reading...",
-            "feed_position": 12
+            "feed_position": 6
           }
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 14:00:29 GMT",
         "title": "I was told my inability to conceive a second child was a ‘mystery’. In fact, I was simply ignored | Katie Found",
@@ -350,12 +384,12 @@
             "title": "I was told my inability to conceive a second child was a ‘mystery’. In fact, I was simply ignored | Katie Found",
             "standfirst": "Women’s pain is routinely minimised, normalised, or psychologised. In fertility medicine, this dismissal is compounded by an industry structured around efficiency rather than care“The female body is such a mystery.”The fertility specialist said it lightly, almost kindly, from behind his desk. I was there because my partner and I had been trying for a second child without success. At the time, our son was two. We had conceived him naturally and relatively quickly, so after months of negative pregnancy tests I knew that something was off. Continue reading...",
             "content": "Women’s pain is routinely minimised, normalised, or psychologised. In fertility medicine, this dismissal is compounded by an industry structured around efficiency rather than care“The female body is such a mystery.”The fertility specialist said it lightly, almost kindly, from behind his desk. I was there because my partner and I had been trying for a second child without success. At the time, our son was two. We had conceived him naturally and relatively quickly, so after months of negative pregnancy tests I knew that something was off. Continue reading...",
-            "feed_position": 6
+            "feed_position": 7
           }
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 13:38:50 GMT",
         "title": "Intermittent fasting may make little difference to weight loss, review finds",
@@ -378,7 +412,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d3d/live/9a7b75a0-0b44-11f1-9972-d3f265c101c6.jpg"
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 12:00:25 GMT",
         "title": "Fertility treatment given special emphasis as Trump Rx site goes live",
@@ -395,12 +429,12 @@
             "title": "Fertility treatment given special emphasis as Trump Rx site goes live",
             "standfirst": "Experts say discounts on IVF procedures an attempt to fulfil campaign promise but savings only a fraction of total cost TrumpRx, the US president’s much-anticipated drug discount program, went live earlier this month with coupons available for just 43 medications, including four required for in vitro fertilization (IVF) procedures, and experts say this is probably a half-measure to fulfill Trump’s 2024 campaign promise to make IVF treatment universally accessible.“We’ve been hearing about TrumpRx for a long time,” said Dr Richard Paulson, a professor of reproductive medicine at the University of Southern California. “TrumpRx was supposed to fix all of the problems in terms of prescription drug costs and so on, and it has not done that. The only two classes of drugs that are actually cheaper on Trump RX are the GLP-1 agonists – those are the obesity medications – and fertility drugs.” Continue reading...",
             "content": "Experts say discounts on IVF procedures an attempt to fulfil campaign promise but savings only a fraction of total cost TrumpRx, the US president’s much-anticipated drug discount program, went live earlier this month with coupons available for just 43 medications, including four required for in vitro fertilization (IVF) procedures, and experts say this is probably a half-measure to fulfill Trump’s 2024 campaign promise to make IVF treatment universally accessible.“We’ve been hearing about TrumpRx for a long time,” said Dr Richard Paulson, a professor of reproductive medicine at the University of Southern California. “TrumpRx was supposed to fix all of the problems in terms of prescription drug costs and so on, and it has not done that. The only two classes of drugs that are actually cheaper on Trump RX are the GLP-1 agonists – those are the obesity medications – and fertility drugs.” Continue reading...",
-            "feed_position": 7
+            "feed_position": 8
           }
         ]
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 11:55:48 GMT",
         "title": "Measles outbreak could see unvaccinated pupils excluded from schools in north London",
@@ -421,58 +455,11 @@
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd95/live/62d51520-0b35-11f1-b7e1-afb6d0884c18.jpg"
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Mon, 16 Feb 2026 09:50:58 GMT",
-        "title": "Trump eyes Venezuela visit – but obstacles to his oil plan remain",
-        "neutral_headline": "Trump eyes Venezuela visit – but obstacles to his oil plan remain",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/c4gjx1j1nkjo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Mon, 16 Feb 2026 09:50:58 GMT",
-            "title": "Trump eyes Venezuela visit – but obstacles to his oil plan remain",
-            "standfirst": "The US president wants American energy firms to start extracting the crude but they are reluctant.",
-            "content": "The US president wants American energy firms to start extracting the crude but they are reluctant.",
-            "feed_position": 32,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1d6/live/398af810-065d-11f1-ad0b-39fef3bf1fc8.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1d6/live/398af810-065d-11f1-ad0b-39fef3bf1fc8.jpg"
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Mon, 16 Feb 2026 08:05:27 GMT",
-        "title": "What is the dart frog toxin allegedly used to kill Alexei Navalny?",
-        "neutral_headline": "What is the dart frog toxin allegedly used to kill Alexei Navalny",
-        "bullet_summary": [
-          "The toxin, epibatidine, can be found in frogs in the wild in South America or manufactured in a lab",
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/cm289we7jzdo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Mon, 16 Feb 2026 08:05:27 GMT",
-            "title": "What is the dart frog toxin allegedly used to kill Alexei Navalny?",
-            "standfirst": "The toxin, epibatidine, can be found in frogs in the wild in South America or manufactured in a lab.",
-            "content": "The toxin, epibatidine, can be found in frogs in the wild in South America or manufactured in a lab.",
-            "feed_position": 1,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fc2/live/a4c47040-0a98-11f1-9640-7f85e4d0c189.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fc2/live/a4c47040-0a98-11f1-9640-7f85e4d0c189.jpg"
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-02-17T11:34:38.769Z",
+    "updated_at": "2026-02-17T23:22:27.125Z",
     "clusters": []
   }
 }
