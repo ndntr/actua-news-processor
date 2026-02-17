@@ -1,17 +1,39 @@
 {
   "clinical": {
-    "updated_at": "2026-02-17T04:47:41.169Z",
+    "updated_at": "2026-02-17T07:45:00.860Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-02-17T04:47:41.169Z",
+    "updated_at": "2026-02-17T07:45:00.860Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-02-17T04:47:48.823Z",
+    "updated_at": "2026-02-17T07:45:09.116Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Tue, 17 Feb 2026 05:00:47 GMT",
+        "title": "Should we really all be taking magnesium supplements? – podcast",
+        "neutral_headline": "Should we really all be taking magnesium supplements? – podcast",
+        "bullet_summary": [
+          "They also hear from Katherine Tucker, the founder of the Center for Population Health at the University of Massachusetts Lowell",
+          "Reported by Guardian Health"
+        ],
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/science/audio/2026/feb/17/should-take-magnesium-supplements-health-podcast",
+            "published_at": "Tue, 17 Feb 2026 05:00:47 GMT",
+            "title": "Should we really all be taking magnesium supplements? – podcast",
+            "standfirst": "Testimonials about the beneficial health effects of magnesium supplements abound online, with influencers claiming that a daily pill can help with everything from anxiety to sleep and brain fog. But do any of these claims stack up?Ian Sample is joined by co-host Madeleine Finlay to find out where the science stands. They also hear from Katherine Tucker, the founder of the Center for Population Health at the University of Massachusetts Lowell. She explains what magnesium is doing in our bodies and the best approach we can take to ensure we are getting enoughSupport the Guardian: theguardian.com/sciencepod Continue reading...",
+            "content": "Testimonials about the beneficial health effects of magnesium supplements abound online, with influencers claiming that a daily pill can help with everything from anxiety to sleep and brain fog. But do any of these claims stack up?Ian Sample is joined by co-host Madeleine Finlay to find out where the science stands. They also hear from Katherine Tucker, the founder of the Center for Population Health at the University of Massachusetts Lowell. She explains what magnesium is doing in our bodies and the best approach we can take to ensure we are getting enoughSupport the Guardian: theguardian.com/sciencepod Continue reading...",
+            "feed_position": 0
+          }
+        ]
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Tue, 17 Feb 2026 01:43:37 GMT",
         "title": "Bailiffs used to pursue NHS staff over pay errors",
@@ -34,7 +56,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02cd/live/f5e78f30-0a79-11f1-b5e2-dd58fc65f0f6.jpg"
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 21:00:00 GMT",
         "title": "BBC Inside Science",
@@ -57,7 +79,7 @@
         "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 19:54:38 GMT",
         "title": "NHS ’clearly failing’ to ensure children get measles vaccine, experts warn",
@@ -73,12 +95,12 @@
             "title": "NHS ’clearly failing’ to ensure children get measles vaccine, experts warn",
             "standfirst": "Calls grow for reform of England’s vaccination system including delivery of jabs in pharmacies as take-up fallsChildren are at risk of measles because the NHS is “clearly failing” to ensure they get the MMR vaccine and its system needs an urgent overhaul, MPs and health experts have warned.Calls are growing for major reform of how MMR jabs are delivered as it emerged that vaccination rates in some parts of England are now on a par with those in Afghanistan and Malawi. Continue reading...",
             "content": "Calls grow for reform of England’s vaccination system including delivery of jabs in pharmacies as take-up fallsChildren are at risk of measles because the NHS is “clearly failing” to ensure they get the MMR vaccine and its system needs an urgent overhaul, MPs and health experts have warned.Calls are growing for major reform of how MMR jabs are delivered as it emerged that vaccination rates in some parts of England are now on a par with those in Afghanistan and Malawi. Continue reading...",
-            "feed_position": 0
+            "feed_position": 1
           }
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 19:54:12 GMT",
         "title": "Fertility patients win high court battle to save embryos after consent error",
@@ -95,12 +117,12 @@
             "title": "Fertility patients win high court battle to save embryos after consent error",
             "standfirst": "Judge says people should not lose chance of parenthood ‘by the ticking of a clock’ after 10-year deadline missedMore than a dozen fertility patients have won a high court battle to save their embryos, eggs and sperm from destruction after errors meant they did not renew consent to store them within the 10-year window required by law.Ruling that the material could be kept, the judge said they should not “have the possibility of parenthood … removed by the ticking of a clock”. Continue reading...",
             "content": "Judge says people should not lose chance of parenthood ‘by the ticking of a clock’ after 10-year deadline missedMore than a dozen fertility patients have won a high court battle to save their embryos, eggs and sperm from destruction after errors meant they did not renew consent to store them within the 10-year window required by law.Ruling that the material could be kept, the judge said they should not “have the possibility of parenthood … removed by the ticking of a clock”. Continue reading...",
-            "feed_position": 1
+            "feed_position": 2
           }
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 18:13:40 GMT",
         "title": "‘A lot of vaccine hesitancy’: how north London council is responding to measles outbreak",
@@ -116,12 +138,12 @@
             "title": "‘A lot of vaccine hesitancy’: how north London council is responding to measles outbreak",
             "standfirst": "Health professionals are having to find innovative ways to reach parents whose children have not had the MMR jabMore than 60 children infected in north London measles outbreakFor people living and working in Enfield, the current measles outbreak is a shock – but not a surprise. The borough has struggled with low vaccine uptake for years, fighting against vaccine hesitancy, online misinformation and health inequalities.Working closely with communities to persuade them to come forward for vaccinations is an “ongoing public health challenge”, which Enfield – like many boroughs – is grappling with, said Enfield council’s director of public health, Dudu Sher-Arami. Continue reading...",
             "content": "Health professionals are having to find innovative ways to reach parents whose children have not had the MMR jabMore than 60 children infected in north London measles outbreakFor people living and working in Enfield, the current measles outbreak is a shock – but not a surprise. The borough has struggled with low vaccine uptake for years, fighting against vaccine hesitancy, online misinformation and health inequalities.Working closely with communities to persuade them to come forward for vaccinations is an “ongoing public health challenge”, which Enfield – like many boroughs – is grappling with, said Enfield council’s director of public health, Dudu Sher-Arami. Continue reading...",
-            "feed_position": 2
+            "feed_position": 3
           }
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 17:26:49 GMT",
         "title": "Ancient bone may prove legendary war elephant crossing of Alps",
@@ -144,7 +166,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e64c/live/1cbfed40-0b52-11f1-b472-df9c1c12cffb.jpg"
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 16:00:29 GMT",
         "title": "Single dose of potent psychedelic drug could help treat depression, trial shows",
@@ -160,12 +182,12 @@
             "title": "Single dose of potent psychedelic drug could help treat depression, trial shows",
             "standfirst": "Researchers find DMT – used in shamanic rituals – in tandem with psychotherapy has significant effect People with major depressive disorder can see a rapid and lasting improvement after a single dose of the psychedelic drug dimethyltryptamine (DMT) when it is combined with psychotherapy, doctors have said.A small clinical trial involving 34 people found that psychedelic-assisted therapy prompted a swift reduction in depressive symptoms that endured long after the drug had worn off, with some still feeling the benefits six months later. Continue reading...",
             "content": "Researchers find DMT – used in shamanic rituals – in tandem with psychotherapy has significant effect People with major depressive disorder can see a rapid and lasting improvement after a single dose of the psychedelic drug dimethyltryptamine (DMT) when it is combined with psychotherapy, doctors have said.A small clinical trial involving 34 people found that psychedelic-assisted therapy prompted a swift reduction in depressive symptoms that endured long after the drug had worn off, with some still feeling the benefits six months later. Continue reading...",
-            "feed_position": 3
+            "feed_position": 4
           }
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 14:24:53 GMT",
         "title": "Measles: how does it spread and how can I protect my child?",
@@ -182,7 +204,7 @@
             "title": "Measles: how does it spread and how can I protect my child?",
             "standfirst": "A measles outbreak among unvaccinated children in London comes amid a global increase in infectionsA measles outbreak in London is affecting unvaccinated children under the age of 10, and comes amid an increase in infections globally.The UK was among six countries to lose the measles-free status granted by the World Health Organization (WHO) last month. Experts are calling on governments to urgently boost vaccination rates to stop measles infecting more children. Continue reading...",
             "content": "A measles outbreak among unvaccinated children in London comes amid a global increase in infectionsA measles outbreak in London is affecting unvaccinated children under the age of 10, and comes amid an increase in infections globally.The UK was among six countries to lose the measles-free status granted by the World Health Organization (WHO) last month. Experts are calling on governments to urgently boost vaccination rates to stop measles infecting more children. Continue reading...",
-            "feed_position": 4
+            "feed_position": 5
           },
           {
             "source": "Guardian Health",
@@ -191,12 +213,12 @@
             "title": "Fast-spreading measles outbreak takes hold among under-10s in north London",
             "standfirst": "UK Health Security Agency urges parents in Enfield to get their children vaccinated as Easter holiday travels approach‘We almost lost you in the night’ - the life-threatening rise of measlesA big measles outbreak in north-east London is affecting unvaccinated children under the age of 10, the UK Health Security Agency (UKHSA) has confirmed.UKHSA previously reported 34 laboratory-confirmed measles cases among children who attend schools and nurseries in Enfield from 1 January to 9 February, with some requiring hospital treatment. Continue reading...",
             "content": "UK Health Security Agency urges parents in Enfield to get their children vaccinated as Easter holiday travels approach‘We almost lost you in the night’ - the life-threatening rise of measlesA big measles outbreak in north-east London is affecting unvaccinated children under the age of 10, the UK Health Security Agency (UKHSA) has confirmed.UKHSA previously reported 34 laboratory-confirmed measles cases among children who attend schools and nurseries in Enfield from 1 January to 9 February, with some requiring hospital treatment. Continue reading...",
-            "feed_position": 11
+            "feed_position": 12
           }
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 14:00:29 GMT",
         "title": "I was told my inability to conceive a second child was a ‘mystery’. In fact, I was simply ignored",
@@ -213,12 +235,12 @@
             "title": "I was told my inability to conceive a second child was a ‘mystery’. In fact, I was simply ignored",
             "standfirst": "Women’s pain is routinely minimised, normalised, or psychologised. In fertility medicine, this dismissal is compounded by an industry structured around efficiency rather than care“The female body is such a mystery.”The fertility specialist said it lightly, almost kindly, from behind his desk. I was there because my partner and I had been trying for a second child without success. At the time, our son was two. We had conceived him naturally and relatively quickly, so after months of negative pregnancy tests I knew that something was off. Continue reading...",
             "content": "Women’s pain is routinely minimised, normalised, or psychologised. In fertility medicine, this dismissal is compounded by an industry structured around efficiency rather than care“The female body is such a mystery.”The fertility specialist said it lightly, almost kindly, from behind his desk. I was there because my partner and I had been trying for a second child without success. At the time, our son was two. We had conceived him naturally and relatively quickly, so after months of negative pregnancy tests I knew that something was off. Continue reading...",
-            "feed_position": 5
+            "feed_position": 6
           }
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 13:38:50 GMT",
         "title": "Intermittent fasting may make little difference to weight loss, review finds",
@@ -241,7 +263,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d3d/live/9a7b75a0-0b44-11f1-9972-d3f265c101c6.jpg"
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 12:00:25 GMT",
         "title": "Fertility treatment given special emphasis as Trump Rx site goes live",
@@ -258,12 +280,12 @@
             "title": "Fertility treatment given special emphasis as Trump Rx site goes live",
             "standfirst": "Experts say discounts on IVF procedures an attempt to fulfil campaign promise but savings only a fraction of total cost TrumpRx, the US president’s much-anticipated drug discount program, went live earlier this month with coupons available for just 43 medications, including four required for in vitro fertilization (IVF) procedures, and experts say this is probably a half-measure to fulfill Trump’s 2024 campaign promise to make IVF treatment universally accessible.“We’ve been hearing about TrumpRx for a long time,” said Dr Richard Paulson, a professor of reproductive medicine at the University of Southern California. “TrumpRx was supposed to fix all of the problems in terms of prescription drug costs and so on, and it has not done that. The only two classes of drugs that are actually cheaper on Trump RX are the GLP-1 agonists – those are the obesity medications – and fertility drugs.” Continue reading...",
             "content": "Experts say discounts on IVF procedures an attempt to fulfil campaign promise but savings only a fraction of total cost TrumpRx, the US president’s much-anticipated drug discount program, went live earlier this month with coupons available for just 43 medications, including four required for in vitro fertilization (IVF) procedures, and experts say this is probably a half-measure to fulfill Trump’s 2024 campaign promise to make IVF treatment universally accessible.“We’ve been hearing about TrumpRx for a long time,” said Dr Richard Paulson, a professor of reproductive medicine at the University of Southern California. “TrumpRx was supposed to fix all of the problems in terms of prescription drug costs and so on, and it has not done that. The only two classes of drugs that are actually cheaper on Trump RX are the GLP-1 agonists – those are the obesity medications – and fertility drugs.” Continue reading...",
-            "feed_position": 6
+            "feed_position": 7
           }
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 11:55:48 GMT",
         "title": "Measles outbreak could see unvaccinated pupils excluded from schools in north London",
@@ -286,7 +308,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd95/live/62d51520-0b35-11f1-b7e1-afb6d0884c18.jpg"
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 09:50:58 GMT",
         "title": "Trump eyes Venezuela visit – but obstacles to his oil plan remain",
@@ -309,7 +331,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1d6/live/398af810-065d-11f1-ad0b-39fef3bf1fc8.jpg"
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 08:05:27 GMT",
         "title": "What is the dart frog toxin allegedly used to kill Alexei Navalny?",
@@ -333,7 +355,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fc2/live/a4c47040-0a98-11f1-9640-7f85e4d0c189.jpg"
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 07:30:13 GMT",
         "title": "Google puts users at risk by downplaying health disclaimers under AI Overviews",
@@ -350,12 +372,12 @@
             "title": "Google puts users at risk by downplaying health disclaimers under AI Overviews",
             "standfirst": "Exclusive: Google fails to include safety warnings when users are first presented with AI-generated medical adviceGoogle is putting people at risk of harm by downplaying safety warnings that its AI-generated medical advice may be wrong.When answering queries about sensitive topics such as health, the company says its AI Overviews, which appear above search results, prompt users to seek professional help, rather than relying solely on its summaries. “AI Overviews will inform people when it’s important to seek out expert advice or to verify the information presented,” Google has said. Continue reading...",
             "content": "Exclusive: Google fails to include safety warnings when users are first presented with AI-generated medical adviceGoogle is putting people at risk of harm by downplaying safety warnings that its AI-generated medical advice may be wrong.When answering queries about sensitive topics such as health, the company says its AI Overviews, which appear above search results, prompt users to seek professional help, rather than relying solely on its summaries. “AI Overviews will inform people when it’s important to seek out expert advice or to verify the information presented,” Google has said. Continue reading...",
-            "feed_position": 7
+            "feed_position": 8
           }
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 06:04:05 GMT",
         "title": "Women calling for greater support with menopause",
@@ -378,7 +400,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/add0/live/d99b7df0-0853-11f1-ba49-bb79b430dd38.jpg"
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 05:57:00 GMT",
         "title": "Married couple share same cancer diagnosis",
@@ -401,7 +423,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2872/live/5408b8e0-08fa-11f1-8b6c-9b488ac81030.jpg"
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 05:00:41 GMT",
         "title": "‘It’s the most urgent public health issue’: Dr Rangan Chatterjee on screen time, mental health – and banning social media until 18",
@@ -418,12 +440,12 @@
             "title": "‘It’s the most urgent public health issue’: Dr Rangan Chatterjee on screen time, mental health – and banning social media until 18",
             "standfirst": "The hit podcaster, author and former GP says a failure to regulate big tech is ‘failing a generation of children’. He explains why he quit the NHS and why he wants a ban on screen-based homeworkA 16-year-old boy and his mum went to see their GP, Dr Rangan Chatterjee, on a busy Monday afternoon. That weekend, the boy had been at A&E after an attempt at self-harm, and in his notes the hospital doctor had recommended the teenager be prescribed antidepressants. “I thought: ‘Wait a minute, I can’t just start a 16-year-old on antidepressants,’” says Chatterjee. He wanted to understand what was going on in the boy’s life.They talked for a while, and Chatterjee asked him about his screen use, which turned out to be high. “I said: ‘I think your screen use, particularly in the evenings, might be impacting your mental wellbeing.’” Chatterjee helped the boy and his mother set up a routine where digital devices and social media went off an hour before bed, gradually extending the screen-free period over six weeks. After two months, he says the boy stopped needing to see him. A few months after that, his mother wrote Chatterjee a note to say her son had been transformed – he was engaging with his friends and trying new activities. He was, she said, like a different boy from the one who had ended up in hospital. Continue reading...",
             "content": "The hit podcaster, author and former GP says a failure to regulate big tech is ‘failing a generation of children’. He explains why he quit the NHS and why he wants a ban on screen-based homeworkA 16-year-old boy and his mum went to see their GP, Dr Rangan Chatterjee, on a busy Monday afternoon. That weekend, the boy had been at A&E after an attempt at self-harm, and in his notes the hospital doctor had recommended the teenager be prescribed antidepressants. “I thought: ‘Wait a minute, I can’t just start a 16-year-old on antidepressants,’” says Chatterjee. He wanted to understand what was going on in the boy’s life.They talked for a while, and Chatterjee asked him about his screen use, which turned out to be high. “I said: ‘I think your screen use, particularly in the evenings, might be impacting your mental wellbeing.’” Chatterjee helped the boy and his mother set up a routine where digital devices and social media went off an hour before bed, gradually extending the screen-free period over six weeks. After two months, he says the boy stopped needing to see him. A few months after that, his mother wrote Chatterjee a note to say her son had been transformed – he was engaging with his friends and trying new activities. He was, she said, like a different boy from the one who had ended up in hospital. Continue reading...",
-            "feed_position": 8
+            "feed_position": 9
           }
         ]
       },
       {
-        "id": "cluster_18",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 01:00:36 GMT",
         "title": "Intermittent fasting no better than typical weight loss diets, study finds",
@@ -439,28 +461,6 @@
             "title": "Intermittent fasting no better than typical weight loss diets, study finds",
             "standfirst": "Researchers say limited eating approaches such as 5:2 diet not a ‘miracle solution’ amid surge in their popularityIntermittent fasting is no better for shedding the pounds than conventional diets and is barely more effective than doing nothing, according to a major review of the scientific evidence.Researchers analysed data from 22 global studies and found people who are overweight or living with obesity lost as much weight by following traditional dietary advice as when they tried fasting regimes such as the 5:2 diet popularised by the late Michael Mosley. Continue reading...",
             "content": "Researchers say limited eating approaches such as 5:2 diet not a ‘miracle solution’ amid surge in their popularityIntermittent fasting is no better for shedding the pounds than conventional diets and is barely more effective than doing nothing, according to a major review of the scientific evidence.Researchers analysed data from 22 global studies and found people who are overweight or living with obesity lost as much weight by following traditional dietary advice as when they tried fasting regimes such as the 5:2 diet popularised by the late Michael Mosley. Continue reading...",
-            "feed_position": 9
-          }
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Sun, 15 Feb 2026 21:00:33 GMT",
-        "title": "Katie’s story: her abusive ex-partner said ‘kill yourself’. When she did, police dropped domestic violence inquiry",
-        "neutral_headline": "Katie’s story: her abusive ex-partner said ‘kill yourself’. When she did,...",
-        "bullet_summary": [
-          "Mason Jones, a friend of Madden’s, said Russell was “vile” and “abusive”",
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/ng-interactive/2026/feb/15/domestic-abuse-katie-madden-family-justice",
-            "published_at": "Sun, 15 Feb 2026 21:00:33 GMT",
-            "title": "Katie’s story: her abusive ex-partner said ‘kill yourself’. When she did, police dropped domestic violence inquiry",
-            "standfirst": "After her death, police dropped a case examining Katie Madden’s former partner, despite evidence he had repeatedly told her to kill herselfRevealed: The true toll of female suicides in UK with domestic abuse at their coreHours before Katie Madden took her own life, she had a tense phone call with her former partner Jonathon Russell. Russell was on bail after allegedly assaulting Madden – he was banned from contacting her – but the conversation took place nevertheless.There was a witness to the call who gave evidence to the inquest into Madden’s death. Mason Jones, a friend of Madden’s, said Russell was “vile” and “abusive”. Although Jones said he could not remember the exact words Russell used, he said: “I recall Jon saying at least once that he was in control of the town and would end her life if she didn’t do it herself.” Continue reading...",
-            "content": "After her death, police dropped a case examining Katie Madden’s former partner, despite evidence he had repeatedly told her to kill herselfRevealed: The true toll of female suicides in UK with domestic abuse at their coreHours before Katie Madden took her own life, she had a tense phone call with her former partner Jonathon Russell. Russell was on bail after allegedly assaulting Madden – he was banned from contacting her – but the conversation took place nevertheless.There was a witness to the call who gave evidence to the inquest into Madden’s death. Mason Jones, a friend of Madden’s, said Russell was “vile” and “abusive”. Although Jones said he could not remember the exact words Russell used, he said: “I recall Jon saying at least once that he was in control of the town and would end her life if she didn’t do it herself.” Continue reading...",
             "feed_position": 10
           }
         ]
@@ -468,7 +468,7 @@
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-02-17T04:47:48.823Z",
+    "updated_at": "2026-02-17T07:45:09.116Z",
     "clusters": []
   }
 }
