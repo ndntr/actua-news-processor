@@ -1,21 +1,42 @@
 {
   "clinical": {
-    "updated_at": "2026-02-28T07:20:31.061Z",
+    "updated_at": "2026-02-28T11:13:38.684Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-02-28T07:20:31.061Z",
+    "updated_at": "2026-02-28T11:13:38.684Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-02-28T07:20:34.045Z",
+    "updated_at": "2026-02-28T11:13:40.262Z",
     "clusters": [
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Sat, 28 Feb 2026 11:00:10 GMT",
+        "title": "Poorly regulated clinics are putting children with ADHD at risk, warn doctors",
+        "neutral_headline": "Poorly regulated clinics are putting children with ADHD at risk, warn doctors",
+        "bullet_summary": [
+          "Reported by Guardian Health"
+        ],
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/society/2026/feb/28/poorly-regulated-clinics-putting-children-adhd-risk-warn-doctors",
+            "published_at": "Sat, 28 Feb 2026 11:00:10 GMT",
+            "title": "Poorly regulated clinics are putting children with ADHD at risk, warn doctors",
+            "standfirst": "Private providers in UK accused of prescribing powerful stimulants without examining young patients properlyChildren with ADHD are being put at risk by poorly regulated private clinics that prescribe powerful stimulants without key physical examinations, doctors have warned.A surge in remote-only assessments has led to what one clinician described as “widespread and unsafe practice”, where children are being diagnosed and medicated via video link. The clinical warnings have now forced health authorities in Greater Manchester to overhaul prescribing rules, mandating face-to-face checks to protect the safety of children. Continue reading...",
+            "content": "Private providers in UK accused of prescribing powerful stimulants without examining young patients properlyChildren with ADHD are being put at risk by poorly regulated private clinics that prescribe powerful stimulants without key physical examinations, doctors have warned.A surge in remote-only assessments has led to what one clinician described as “widespread and unsafe practice”, where children are being diagnosed and medicated via video link. The clinical warnings have now forced health authorities in Greater Manchester to overhaul prescribing rules, mandating face-to-face checks to protect the safety of children. Continue reading...",
+            "feed_position": 0
+          }
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
         "updated_at": "Sat, 28 Feb 2026 07:14:44 GMT",
-        "title": "I woke up from an operation in agony and the pain never went away",
-        "neutral_headline": "I woke up from an operation in agony and the pain never went away",
+        "title": "I need 120 pills a week to deal with the agony caused by vaginal mesh",
+        "neutral_headline": "I need 120 pills a week to deal with the agony caused by vaginal mesh",
         "bullet_summary": [
           "Reported by BBC Health"
         ],
@@ -24,17 +45,27 @@
             "source": "BBC Health",
             "url": "https://www.bbc.com/news/articles/crrxe7qjejjo?at_medium=RSS&at_campaign=rss",
             "published_at": "Sat, 28 Feb 2026 07:14:44 GMT",
-            "title": "I woke up from an operation in agony and the pain never went away",
-            "standfirst": "Kerry Watson takes more than 100 tablets a week to deal with the pain caused by a vaginal mesh implant.",
-            "content": "Kerry Watson takes more than 100 tablets a week to deal with the pain caused by a vaginal mesh implant.",
+            "title": "I need 120 pills a week to deal with the agony caused by vaginal mesh",
+            "standfirst": "Kerry Watson is one of 25 women to get compensation after operations done by a single surgeon.",
+            "content": "Kerry Watson is one of 25 women to get compensation after operations done by a single surgeon.",
             "feed_position": 27,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b24/live/117b4560-13d1-11f1-b048-c9424b2cf5fd.jpg"
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b891/live/fa8aafa0-1478-11f1-801d-ed3cff6bf876.png"
+          },
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/videos/c8754y8yzpyo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Fri, 27 Feb 2026 23:00:03 GMT",
+            "title": "I take 120 tablets a week after mesh operation",
+            "standfirst": "Twenty-five women have received compensation following gynaecological surgery.",
+            "content": "Twenty-five women have received compensation following gynaecological surgery.",
+            "feed_position": 28,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/063dbb60-13ea-11f1-801d-ed3cff6bf876.jpg"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b24/live/117b4560-13d1-11f1-b048-c9424b2cf5fd.jpg"
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b891/live/fa8aafa0-1478-11f1-801d-ed3cff6bf876.png"
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Sat, 28 Feb 2026 07:00:39 GMT",
         "title": "Marine strategy must deliver action for seabirds, charity says",
@@ -57,7 +88,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a431/live/6c13c0c0-1402-11f1-8e3a-e7cecfbdc12f.jpg"
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Sat, 28 Feb 2026 05:00:02 GMT",
         "title": "Researchers praise ‘stunning’ results of new prostate cancer treatment",
@@ -73,32 +104,9 @@
             "title": "Researchers praise ‘stunning’ results of new prostate cancer treatment",
             "standfirst": "Early trials of the drug VIR-5500 showed it shrinking tumours in some patientsA new drug for advanced prostate cancer has shown promise in early trials experts have said, with the medication shrinking tumours in some patients.Prostate cancer is the most common cancer among men in many countries, including the US and UK. About 1.5 million men are diagnosed worldwide each year. Continue reading...",
             "content": "Early trials of the drug VIR-5500 showed it shrinking tumours in some patientsA new drug for advanced prostate cancer has shown promise in early trials experts have said, with the medication shrinking tumours in some patients.Prostate cancer is the most common cancer among men in many countries, including the US and UK. About 1.5 million men are diagnosed worldwide each year. Continue reading...",
-            "feed_position": 0
+            "feed_position": 1
           }
         ]
-      },
-      {
-        "id": "cluster_3",
-        "coverage": 1,
-        "updated_at": "Fri, 27 Feb 2026 23:00:03 GMT",
-        "title": "I take 120 tablets a week after mesh operation",
-        "neutral_headline": "I take 120 tablets a week after mesh operation",
-        "bullet_summary": [
-          "Reported by BBC Health"
-        ],
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/videos/c8754y8yzpyo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Fri, 27 Feb 2026 23:00:03 GMT",
-            "title": "I take 120 tablets a week after mesh operation",
-            "standfirst": "Twenty-five women have received compensation following gynaecological surgery.",
-            "content": "Twenty-five women have received compensation following gynaecological surgery.",
-            "feed_position": 28,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/063dbb60-13ea-11f1-801d-ed3cff6bf876.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/063dbb60-13ea-11f1-801d-ed3cff6bf876.jpg"
       },
       {
         "id": "cluster_4",
@@ -117,7 +125,7 @@
             "title": "Target says it will stop selling breakfast cereals with synthetic colors",
             "standfirst": "US retailer’s decision comes as RFK Jr and Maha movement increase pressure on food industry to drop dyes like red 40The big-box US retailer Target announced on Friday that by 31 May it will only sell breakfast cereals made without certified synthetic food colors.The company is introducing the restriction amid increased pressure on the food industry from the Trump administration and the “Make America healthy again” (Maha) movement to stop using such ingredients, which they see as dangerous. Continue reading...",
             "content": "US retailer’s decision comes as RFK Jr and Maha movement increase pressure on food industry to drop dyes like red 40The big-box US retailer Target announced on Friday that by 31 May it will only sell breakfast cereals made without certified synthetic food colors.The company is introducing the restriction amid increased pressure on the food industry from the Trump administration and the “Make America healthy again” (Maha) movement to stop using such ingredients, which they see as dangerous. Continue reading...",
-            "feed_position": 1
+            "feed_position": 2
           }
         ]
       },
@@ -138,7 +146,7 @@
             "title": "Mental health units discharging eating disorder patients with ‘dangerously low’ BMIs",
             "standfirst": "FoI request reveals some people sent home despite BMIs below 15 – considered to be ‘severe malnutrition’ Patients with eating disorders are being discharged from mental health units even though they are still very thin and have “dangerously low” body mass index levels.Some hospitals are sending home people whose BMIs are as low as 12.5, despite usual clinical practice in the NHS seeking to wait until a BMI of 18 or 19 has been achieved. Continue reading...",
             "content": "FoI request reveals some people sent home despite BMIs below 15 – considered to be ‘severe malnutrition’ Patients with eating disorders are being discharged from mental health units even though they are still very thin and have “dangerously low” body mass index levels.Some hospitals are sending home people whose BMIs are as low as 12.5, despite usual clinical practice in the NHS seeking to wait until a BMI of 18 or 19 has been achieved. Continue reading...",
-            "feed_position": 2
+            "feed_position": 3
           }
         ]
       },
@@ -182,7 +190,7 @@
             "title": "Diagnosing mental health conditions need not be a case of yes/no | Letters",
             "standfirst": "Responding to an article on the rising numbers of young people with mental illness or ADHD diagnoses, Sue Simmons says we all lie on a continuum, and Michael Baber calls for a more holistic approachLucy Foulkes explores the possibility that the rising numbers of young people receiving a diagnosis of mental illness or ADHD are subjects of overdiagnosis (Are we really overdiagnosing mental illness?, 22 February). She posits that changes in terminology, increasing societal awareness and reductions in stigma are all factors in the increase in diagnoses.However, there is another way of looking at this issue. If we treat ADHD as binary (you have it or you do not), we are missing the possibility that we all lie somewhere on a continuum with diagnosed ADHD towards one end (and perhaps an ability to focus and concentrate at the other). A diagnosis of ADHD then depends on where the line is drawn. I suggest that this line has been moved in recent years, so that a large group of people have been caught up in the positive ADHD group, who would not have been previously. Continue reading...",
             "content": "Responding to an article on the rising numbers of young people with mental illness or ADHD diagnoses, Sue Simmons says we all lie on a continuum, and Michael Baber calls for a more holistic approachLucy Foulkes explores the possibility that the rising numbers of young people receiving a diagnosis of mental illness or ADHD are subjects of overdiagnosis (Are we really overdiagnosing mental illness?, 22 February). She posits that changes in terminology, increasing societal awareness and reductions in stigma are all factors in the increase in diagnoses.However, there is another way of looking at this issue. If we treat ADHD as binary (you have it or you do not), we are missing the possibility that we all lie somewhere on a continuum with diagnosed ADHD towards one end (and perhaps an ability to focus and concentrate at the other). A diagnosis of ADHD then depends on where the line is drawn. I suggest that this line has been moved in recent years, so that a large group of people have been caught up in the positive ADHD group, who would not have been previously. Continue reading...",
-            "feed_position": 3
+            "feed_position": 4
           }
         ]
       },
@@ -272,7 +280,7 @@
             "title": "‘Watching my six year old deadlift 35kg was pretty cool’: meet the children who work out",
             "standfirst": "A growing number of parents are letting their young children train with weights. But is it a good – or safe – idea? We ask the experts to weigh inMost parents remember the first time their baby smiled or when they took their first steps. Eve Stevenson recalls different milestones. “Watching my daughter, Madison, deadlift 35kg at the age of six was pretty cool,” she says, grinning with pride from her living room in south-west London.As a personal trainer (PT) and former British weightlifting champion, her daughter’s achievements shouldn’t really be that surprising. Still, Stevenson has been on the receiving end of some harsh opinions about her daughter and three-year-old son, Beau, doing resistance training with her. “People tell me it will stunt their growth or that it’s dangerous,” she says. She is also often accused of forcing her children to train, when actually it all started the other way round. “What child doesn’t look at their parents and want to do what they’re doing?” she asks. And although to many people the idea of a small child strength training or competing might feel jarring, Stevenson is among a growing number of parents who see value in helping their children build muscles. Continue reading...",
             "content": "A growing number of parents are letting their young children train with weights. But is it a good – or safe – idea? We ask the experts to weigh inMost parents remember the first time their baby smiled or when they took their first steps. Eve Stevenson recalls different milestones. “Watching my daughter, Madison, deadlift 35kg at the age of six was pretty cool,” she says, grinning with pride from her living room in south-west London.As a personal trainer (PT) and former British weightlifting champion, her daughter’s achievements shouldn’t really be that surprising. Still, Stevenson has been on the receiving end of some harsh opinions about her daughter and three-year-old son, Beau, doing resistance training with her. “People tell me it will stunt their growth or that it’s dangerous,” she says. She is also often accused of forcing her children to train, when actually it all started the other way round. “What child doesn’t look at their parents and want to do what they’re doing?” she asks. And although to many people the idea of a small child strength training or competing might feel jarring, Stevenson is among a growing number of parents who see value in helping their children build muscles. Continue reading...",
-            "feed_position": 4
+            "feed_position": 5
           }
         ]
       },
@@ -396,7 +404,7 @@
             "title": "European girls aged 13-15 have world’s highest rate of tobacco use for age group",
             "standfirst": "World Health Organization report also finds one in seven adolescents across continent use vapes and e-cigarettesTeenage girls in Europe have the highest rate of tobacco use in their age group around the world, while one in seven adolescents across the continent use vapes and e-cigarettes, figures show.The data, based on analysis by the World Health Organization (WHO), shows that Europe is on course to maintain its status as the world’s biggest consumer of tobacco up to 2030, and reveals “particularly concerning” trends of tobacco use among women and young people. Continue reading...",
             "content": "World Health Organization report also finds one in seven adolescents across continent use vapes and e-cigarettesTeenage girls in Europe have the highest rate of tobacco use in their age group around the world, while one in seven adolescents across the continent use vapes and e-cigarettes, figures show.The data, based on analysis by the World Health Organization (WHO), shows that Europe is on course to maintain its status as the world’s biggest consumer of tobacco up to 2030, and reveals “particularly concerning” trends of tobacco use among women and young people. Continue reading...",
-            "feed_position": 5
+            "feed_position": 6
           }
         ]
       },
@@ -417,7 +425,7 @@
             "title": "Rising anger over ‘lop-sided’ and ‘immoral’ US health funding pacts with African countries",
             "standfirst": "Zimbabwe refuses to sign agreement and Kenya faces a court case over data sharing as new aid deals come under scrutinyA series of bilateral health agreements being negotiated between African countries and the administration of President Donald Trump have been labelled “clearly lop-sided” and “immoral” amid growing outrage at US demands, including countries being forced to share biological resources and data.It emerged this week that Zimbabwe had halted negotiations with the US for $350m (£258m) of health funding, saying the proposals risked undermining its sovereignty and independence. Continue reading...",
             "content": "Zimbabwe refuses to sign agreement and Kenya faces a court case over data sharing as new aid deals come under scrutinyA series of bilateral health agreements being negotiated between African countries and the administration of President Donald Trump have been labelled “clearly lop-sided” and “immoral” amid growing outrage at US demands, including countries being forced to share biological resources and data.It emerged this week that Zimbabwe had halted negotiations with the US for $350m (£258m) of health funding, saying the proposals risked undermining its sovereignty and independence. Continue reading...",
-            "feed_position": 6
+            "feed_position": 7
           }
         ]
       },
@@ -461,14 +469,14 @@
             "title": "Vegetarians have ‘substantially lower risk’ of five types of cancer",
             "standfirst": "Study shows lower risk for multiple myeloma as well as pancreatic, prostate, breast and kidney cancersVegetarians have a substantially lower risk of five types of cancer, a landmark study on the role of diet has revealed.The research, using data from more than 1.8 million people who were tracked over many years, found that vegetarians had a 21% lower risk of pancreatic cancer, a 12% lower risk of prostate cancer and a 9% lower risk of breast cancer compared with meat eaters. Combined, these cancers account for around a fifth of cancer deaths in the UK. Continue reading...",
             "content": "Study shows lower risk for multiple myeloma as well as pancreatic, prostate, breast and kidney cancersVegetarians have a substantially lower risk of five types of cancer, a landmark study on the role of diet has revealed.The research, using data from more than 1.8 million people who were tracked over many years, found that vegetarians had a 21% lower risk of pancreatic cancer, a 12% lower risk of prostate cancer and a 9% lower risk of breast cancer compared with meat eaters. Combined, these cancers account for around a fifth of cancer deaths in the UK. Continue reading...",
-            "feed_position": 7
+            "feed_position": 8
           }
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-02-28T07:20:34.045Z",
+    "updated_at": "2026-02-28T11:13:40.262Z",
     "clusters": []
   }
 }
