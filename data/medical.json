@@ -1,17 +1,84 @@
 {
   "clinical": {
-    "updated_at": "2026-02-28T04:12:33.511Z",
+    "updated_at": "2026-02-28T07:20:31.061Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-02-28T04:12:33.511Z",
+    "updated_at": "2026-02-28T07:20:31.061Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-02-28T04:12:42.047Z",
+    "updated_at": "2026-02-28T07:20:34.045Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Sat, 28 Feb 2026 07:14:44 GMT",
+        "title": "I woke up from an operation in agony and the pain never went away",
+        "neutral_headline": "I woke up from an operation in agony and the pain never went away",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/crrxe7qjejjo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sat, 28 Feb 2026 07:14:44 GMT",
+            "title": "I woke up from an operation in agony and the pain never went away",
+            "standfirst": "Kerry Watson takes more than 100 tablets a week to deal with the pain caused by a vaginal mesh implant.",
+            "content": "Kerry Watson takes more than 100 tablets a week to deal with the pain caused by a vaginal mesh implant.",
+            "feed_position": 27,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b24/live/117b4560-13d1-11f1-b048-c9424b2cf5fd.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b24/live/117b4560-13d1-11f1-b048-c9424b2cf5fd.jpg"
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Sat, 28 Feb 2026 07:00:39 GMT",
+        "title": "Marine strategy must deliver action for seabirds, charity says",
+        "neutral_headline": "Marine strategy must deliver action for seabirds, charity says",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/c6269964md0o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sat, 28 Feb 2026 07:00:39 GMT",
+            "title": "Marine strategy must deliver action for seabirds, charity says",
+            "standfirst": "The updated strategy should mean areas like Strangford Lough will be better protected in five years' time.",
+            "content": "The updated strategy should mean areas like Strangford Lough will be better protected in five years' time.",
+            "feed_position": 7,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a431/live/6c13c0c0-1402-11f1-8e3a-e7cecfbdc12f.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a431/live/6c13c0c0-1402-11f1-8e3a-e7cecfbdc12f.jpg"
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Sat, 28 Feb 2026 05:00:02 GMT",
+        "title": "Researchers praise ‘stunning’ results of new prostate cancer treatment",
+        "neutral_headline": "Researchers praise ‘stunning’ results of new prostate cancer treatment",
+        "bullet_summary": [
+          "Reported by Guardian Health"
+        ],
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/society/2026/feb/28/researchers-praise-stunning-results-of-new-prostate-cancer-treatment",
+            "published_at": "Sat, 28 Feb 2026 05:00:02 GMT",
+            "title": "Researchers praise ‘stunning’ results of new prostate cancer treatment",
+            "standfirst": "Early trials of the drug VIR-5500 showed it shrinking tumours in some patientsA new drug for advanced prostate cancer has shown promise in early trials experts have said, with the medication shrinking tumours in some patients.Prostate cancer is the most common cancer among men in many countries, including the US and UK. About 1.5 million men are diagnosed worldwide each year. Continue reading...",
+            "content": "Early trials of the drug VIR-5500 showed it shrinking tumours in some patientsA new drug for advanced prostate cancer has shown promise in early trials experts have said, with the medication shrinking tumours in some patients.Prostate cancer is the most common cancer among men in many countries, including the US and UK. About 1.5 million men are diagnosed worldwide each year. Continue reading...",
+            "feed_position": 0
+          }
+        ]
+      },
+      {
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Fri, 27 Feb 2026 23:00:03 GMT",
         "title": "I take 120 tablets a week after mesh operation",
@@ -27,37 +94,14 @@
             "title": "I take 120 tablets a week after mesh operation",
             "standfirst": "Twenty-five women have received compensation following gynaecological surgery.",
             "content": "Twenty-five women have received compensation following gynaecological surgery.",
-            "feed_position": 27,
+            "feed_position": 28,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/063dbb60-13ea-11f1-801d-ed3cff6bf876.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/063dbb60-13ea-11f1-801d-ed3cff6bf876.jpg"
       },
       {
-        "id": "cluster_1",
-        "coverage": 1,
-        "updated_at": "Fri, 27 Feb 2026 22:52:36 GMT",
-        "title": "I woke up from an operation in agony and the pain never went away",
-        "neutral_headline": "I woke up from an operation in agony and the pain never went away",
-        "bullet_summary": [
-          "Reported by BBC Health"
-        ],
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/crrxe7qjejjo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Fri, 27 Feb 2026 22:52:36 GMT",
-            "title": "I woke up from an operation in agony and the pain never went away",
-            "standfirst": "Kerry Watson takes more than 100 tablets a week to deal with the pain caused by a vaginal mesh implant.",
-            "content": "Kerry Watson takes more than 100 tablets a week to deal with the pain caused by a vaginal mesh implant.",
-            "feed_position": 28,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b24/live/117b4560-13d1-11f1-b048-c9424b2cf5fd.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b24/live/117b4560-13d1-11f1-b048-c9424b2cf5fd.jpg"
-      },
-      {
-        "id": "cluster_2",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Fri, 27 Feb 2026 19:17:45 GMT",
         "title": "Target says it will stop selling breakfast cereals with synthetic colors",
@@ -73,12 +117,12 @@
             "title": "Target says it will stop selling breakfast cereals with synthetic colors",
             "standfirst": "US retailer’s decision comes as RFK Jr and Maha movement increase pressure on food industry to drop dyes like red 40The big-box US retailer Target announced on Friday that by 31 May it will only sell breakfast cereals made without certified synthetic food colors.The company is introducing the restriction amid increased pressure on the food industry from the Trump administration and the “Make America healthy again” (Maha) movement to stop using such ingredients, which they see as dangerous. Continue reading...",
             "content": "US retailer’s decision comes as RFK Jr and Maha movement increase pressure on food industry to drop dyes like red 40The big-box US retailer Target announced on Friday that by 31 May it will only sell breakfast cereals made without certified synthetic food colors.The company is introducing the restriction amid increased pressure on the food industry from the Trump administration and the “Make America healthy again” (Maha) movement to stop using such ingredients, which they see as dangerous. Continue reading...",
-            "feed_position": 0
+            "feed_position": 1
           }
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Fri, 27 Feb 2026 18:39:29 GMT",
         "title": "Mental health units discharging eating disorder patients with ‘dangerously low’ BMIs",
@@ -94,12 +138,12 @@
             "title": "Mental health units discharging eating disorder patients with ‘dangerously low’ BMIs",
             "standfirst": "FoI request reveals some people sent home despite BMIs below 15 – considered to be ‘severe malnutrition’ Patients with eating disorders are being discharged from mental health units even though they are still very thin and have “dangerously low” body mass index levels.Some hospitals are sending home people whose BMIs are as low as 12.5, despite usual clinical practice in the NHS seeking to wait until a BMI of 18 or 19 has been achieved. Continue reading...",
             "content": "FoI request reveals some people sent home despite BMIs below 15 – considered to be ‘severe malnutrition’ Patients with eating disorders are being discharged from mental health units even though they are still very thin and have “dangerously low” body mass index levels.Some hospitals are sending home people whose BMIs are as low as 12.5, despite usual clinical practice in the NHS seeking to wait until a BMI of 18 or 19 has been achieved. Continue reading...",
-            "feed_position": 1
+            "feed_position": 2
           }
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Fri, 27 Feb 2026 18:37:11 GMT",
         "title": "Nasa announces change to its Moon landing plans",
@@ -122,7 +166,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0623/live/74ff37e0-13fe-11f1-8e3a-e7cecfbdc12f.jpg"
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Fri, 27 Feb 2026 17:18:49 GMT",
         "title": "Diagnosing mental health conditions need not be a case of yes/no | Letters",
@@ -138,12 +182,12 @@
             "title": "Diagnosing mental health conditions need not be a case of yes/no | Letters",
             "standfirst": "Responding to an article on the rising numbers of young people with mental illness or ADHD diagnoses, Sue Simmons says we all lie on a continuum, and Michael Baber calls for a more holistic approachLucy Foulkes explores the possibility that the rising numbers of young people receiving a diagnosis of mental illness or ADHD are subjects of overdiagnosis (Are we really overdiagnosing mental illness?, 22 February). She posits that changes in terminology, increasing societal awareness and reductions in stigma are all factors in the increase in diagnoses.However, there is another way of looking at this issue. If we treat ADHD as binary (you have it or you do not), we are missing the possibility that we all lie somewhere on a continuum with diagnosed ADHD towards one end (and perhaps an ability to focus and concentrate at the other). A diagnosis of ADHD then depends on where the line is drawn. I suggest that this line has been moved in recent years, so that a large group of people have been caught up in the positive ADHD group, who would not have been previously. Continue reading...",
             "content": "Responding to an article on the rising numbers of young people with mental illness or ADHD diagnoses, Sue Simmons says we all lie on a continuum, and Michael Baber calls for a more holistic approachLucy Foulkes explores the possibility that the rising numbers of young people receiving a diagnosis of mental illness or ADHD are subjects of overdiagnosis (Are we really overdiagnosing mental illness?, 22 February). She posits that changes in terminology, increasing societal awareness and reductions in stigma are all factors in the increase in diagnoses.However, there is another way of looking at this issue. If we treat ADHD as binary (you have it or you do not), we are missing the possibility that we all lie somewhere on a continuum with diagnosed ADHD towards one end (and perhaps an ability to focus and concentrate at the other). A diagnosis of ADHD then depends on where the line is drawn. I suggest that this line has been moved in recent years, so that a large group of people have been caught up in the positive ADHD group, who would not have been previously. Continue reading...",
-            "feed_position": 2
+            "feed_position": 3
           }
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Fri, 27 Feb 2026 17:14:33 GMT",
         "title": "How photographer captured six planets in 'parade'",
@@ -159,14 +203,14 @@
             "title": "How photographer captured six planets in 'parade'",
             "standfirst": "Josh Dury, from Bristol, photographed the planetary parade in Worth Matravers.",
             "content": "Josh Dury, from Bristol, photographed the planetary parade in Worth Matravers.",
-            "feed_position": 7,
+            "feed_position": 8,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efdf/live/db2a1e60-13f2-11f1-9120-a910fc22c6ac.png"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efdf/live/db2a1e60-13f2-11f1-9120-a910fc22c6ac.png"
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Fri, 27 Feb 2026 16:43:54 GMT",
         "title": "When does the Nasa Moon mission launch and who are the Artemis II crew?",
@@ -189,7 +233,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a00/live/e35f0660-ed44-11f0-8cc8-8329494b82ad.png"
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Fri, 27 Feb 2026 15:41:31 GMT",
         "title": "How you can see six planets all at once",
@@ -212,7 +256,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d35/live/257abf80-13f6-11f1-b048-c9424b2cf5fd.jpg"
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Fri, 27 Feb 2026 15:00:20 GMT",
         "title": "‘Watching my six year old deadlift 35kg was pretty cool’: meet the children who work out",
@@ -228,12 +272,12 @@
             "title": "‘Watching my six year old deadlift 35kg was pretty cool’: meet the children who work out",
             "standfirst": "A growing number of parents are letting their young children train with weights. But is it a good – or safe – idea? We ask the experts to weigh inMost parents remember the first time their baby smiled or when they took their first steps. Eve Stevenson recalls different milestones. “Watching my daughter, Madison, deadlift 35kg at the age of six was pretty cool,” she says, grinning with pride from her living room in south-west London.As a personal trainer (PT) and former British weightlifting champion, her daughter’s achievements shouldn’t really be that surprising. Still, Stevenson has been on the receiving end of some harsh opinions about her daughter and three-year-old son, Beau, doing resistance training with her. “People tell me it will stunt their growth or that it’s dangerous,” she says. She is also often accused of forcing her children to train, when actually it all started the other way round. “What child doesn’t look at their parents and want to do what they’re doing?” she asks. And although to many people the idea of a small child strength training or competing might feel jarring, Stevenson is among a growing number of parents who see value in helping their children build muscles. Continue reading...",
             "content": "A growing number of parents are letting their young children train with weights. But is it a good – or safe – idea? We ask the experts to weigh inMost parents remember the first time their baby smiled or when they took their first steps. Eve Stevenson recalls different milestones. “Watching my daughter, Madison, deadlift 35kg at the age of six was pretty cool,” she says, grinning with pride from her living room in south-west London.As a personal trainer (PT) and former British weightlifting champion, her daughter’s achievements shouldn’t really be that surprising. Still, Stevenson has been on the receiving end of some harsh opinions about her daughter and three-year-old son, Beau, doing resistance training with her. “People tell me it will stunt their growth or that it’s dangerous,” she says. She is also often accused of forcing her children to train, when actually it all started the other way round. “What child doesn’t look at their parents and want to do what they’re doing?” she asks. And although to many people the idea of a small child strength training or competing might feel jarring, Stevenson is among a growing number of parents who see value in helping their children build muscles. Continue reading...",
-            "feed_position": 3
+            "feed_position": 4
           }
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Fri, 27 Feb 2026 13:52:25 GMT",
         "title": "Waitrose to suspend mackerel sales due to overfishing concerns",
@@ -256,7 +300,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f304/live/8e2ba5b0-13cb-11f1-aa2d-1d11f10592ef.jpg"
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Fri, 27 Feb 2026 13:13:05 GMT",
         "title": "Parents of gravely ill child refused respite care",
@@ -289,7 +333,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8c7/live/736e61b0-13dd-11f1-b048-c9424b2cf5fd.jpg"
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Fri, 27 Feb 2026 11:56:57 GMT",
         "title": "Miliband says climate impact of data centres is uncertain",
@@ -313,7 +357,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d21b/live/65810f20-1334-11f1-ba29-8dbbd227222d.jpg"
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Fri, 27 Feb 2026 10:11:32 GMT",
         "title": "Sewage spills threatening salmon survival, says MP",
@@ -329,14 +373,14 @@
             "title": "Sewage spills threatening salmon survival, says MP",
             "standfirst": "Winchester's MP highlights sewage spills potentially affecting the endangered Atlantic salmon.",
             "content": "Winchester's MP highlights sewage spills potentially affecting the endangered Atlantic salmon.",
-            "feed_position": 8,
+            "feed_position": 9,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e77/live/44618d30-1319-11f1-9b9a-9d7ed2eef502.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e77/live/44618d30-1319-11f1-9b9a-9d7ed2eef502.jpg"
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Fri, 27 Feb 2026 08:00:35 GMT",
         "title": "European girls aged 13-15 have world’s highest rate of tobacco use for age group",
@@ -352,12 +396,12 @@
             "title": "European girls aged 13-15 have world’s highest rate of tobacco use for age group",
             "standfirst": "World Health Organization report also finds one in seven adolescents across continent use vapes and e-cigarettesTeenage girls in Europe have the highest rate of tobacco use in their age group around the world, while one in seven adolescents across the continent use vapes and e-cigarettes, figures show.The data, based on analysis by the World Health Organization (WHO), shows that Europe is on course to maintain its status as the world’s biggest consumer of tobacco up to 2030, and reveals “particularly concerning” trends of tobacco use among women and young people. Continue reading...",
             "content": "World Health Organization report also finds one in seven adolescents across continent use vapes and e-cigarettesTeenage girls in Europe have the highest rate of tobacco use in their age group around the world, while one in seven adolescents across the continent use vapes and e-cigarettes, figures show.The data, based on analysis by the World Health Organization (WHO), shows that Europe is on course to maintain its status as the world’s biggest consumer of tobacco up to 2030, and reveals “particularly concerning” trends of tobacco use among women and young people. Continue reading...",
-            "feed_position": 4
+            "feed_position": 5
           }
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Fri, 27 Feb 2026 07:00:34 GMT",
         "title": "Rising anger over ‘lop-sided’ and ‘immoral’ US health funding pacts with African countries",
@@ -373,12 +417,12 @@
             "title": "Rising anger over ‘lop-sided’ and ‘immoral’ US health funding pacts with African countries",
             "standfirst": "Zimbabwe refuses to sign agreement and Kenya faces a court case over data sharing as new aid deals come under scrutinyA series of bilateral health agreements being negotiated between African countries and the administration of President Donald Trump have been labelled “clearly lop-sided” and “immoral” amid growing outrage at US demands, including countries being forced to share biological resources and data.It emerged this week that Zimbabwe had halted negotiations with the US for $350m (£258m) of health funding, saying the proposals risked undermining its sovereignty and independence. Continue reading...",
             "content": "Zimbabwe refuses to sign agreement and Kenya faces a court case over data sharing as new aid deals come under scrutinyA series of bilateral health agreements being negotiated between African countries and the administration of President Donald Trump have been labelled “clearly lop-sided” and “immoral” amid growing outrage at US demands, including countries being forced to share biological resources and data.It emerged this week that Zimbabwe had halted negotiations with the US for $350m (£258m) of health funding, saying the proposals risked undermining its sovereignty and independence. Continue reading...",
-            "feed_position": 5
+            "feed_position": 6
           }
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Fri, 27 Feb 2026 06:54:50 GMT",
         "title": "Six planets on show in celestial 'parade'",
@@ -401,7 +445,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e167/live/3c0444f0-1320-11f1-9120-a910fc22c6ac.jpg"
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Fri, 27 Feb 2026 01:00:27 GMT",
         "title": "Vegetarians have ‘substantially lower risk’ of five types of cancer",
@@ -417,60 +461,14 @@
             "title": "Vegetarians have ‘substantially lower risk’ of five types of cancer",
             "standfirst": "Study shows lower risk for multiple myeloma as well as pancreatic, prostate, breast and kidney cancersVegetarians have a substantially lower risk of five types of cancer, a landmark study on the role of diet has revealed.The research, using data from more than 1.8 million people who were tracked over many years, found that vegetarians had a 21% lower risk of pancreatic cancer, a 12% lower risk of prostate cancer and a 9% lower risk of breast cancer compared with meat eaters. Combined, these cancers account for around a fifth of cancer deaths in the UK. Continue reading...",
             "content": "Study shows lower risk for multiple myeloma as well as pancreatic, prostate, breast and kidney cancersVegetarians have a substantially lower risk of five types of cancer, a landmark study on the role of diet has revealed.The research, using data from more than 1.8 million people who were tracked over many years, found that vegetarians had a 21% lower risk of pancreatic cancer, a 12% lower risk of prostate cancer and a 9% lower risk of breast cancer compared with meat eaters. Combined, these cancers account for around a fifth of cancer deaths in the UK. Continue reading...",
-            "feed_position": 6
+            "feed_position": 7
           }
         ]
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Fri, 27 Feb 2026 00:00:11 GMT",
-        "title": "Taking collagen keeps skin more elastic but won't stop wrinkles, say scientists",
-        "neutral_headline": "Taking collagen keeps skin more elastic but won't stop wrinkles, say scientists",
-        "bullet_summary": [
-          "Reported by BBC Health"
-        ],
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/cge82vq9x9ro?at_medium=RSS&at_campaign=rss",
-            "published_at": "Fri, 27 Feb 2026 00:00:11 GMT",
-            "title": "Taking collagen keeps skin more elastic but won't stop wrinkles, say scientists",
-            "standfirst": "The new review brings together the strongest evidence to date on collagen supplementation, say experts.",
-            "content": "The new review brings together the strongest evidence to date on collagen supplementation, say experts.",
-            "feed_position": 0,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8370/live/3a803660-13b7-11f1-b048-c9424b2cf5fd.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8370/live/3a803660-13b7-11f1-b048-c9424b2cf5fd.jpg"
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Thu, 26 Feb 2026 21:00:00 GMT",
-        "title": "BBC Inside Science",
-        "neutral_headline": "BBC Inside Science",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/sounds/play/w3ct8ty1?at_medium=RSS&at_campaign=rss",
-            "published_at": "Thu, 26 Feb 2026 21:00:00 GMT",
-            "title": "BBC Inside Science",
-            "standfirst": "Molecular biologists find tiny self-replicating molecules which may be key to life origins",
-            "content": "Molecular biologists find tiny self-replicating molecules which may be key to life origins",
-            "feed_position": 33,
-            "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-02-28T04:12:42.047Z",
+    "updated_at": "2026-02-28T07:20:34.045Z",
     "clusters": []
   }
 }
