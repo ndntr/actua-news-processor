@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-02-28T23:15:29.989Z",
+  "updated_at": "2026-03-01T04:49:25.800Z",
   "clusters": [
+    {
+      "id": "cluster_3",
+      "coverage": 2,
+      "updated_at": "Sat, 28 Feb 2026 19:05:00 -0500",
+      "title": "OpenAI says it does not think Anthropic should be designated as a supply chain risk and it has made its position on this clear to the Pentagon (@openai)",
+      "neutral_headline": "Pentagon moves to designate Anthropic as a supply-chain risk",
+      "bullet_summary": [
+        "Reported by TechMeme, TechCrunch"
+      ],
+      "items": [
+        {
+          "source": "TechMeme",
+          "url": "http://www.techmeme.com/260228/p19#a260228p19",
+          "published_at": "Sat, 28 Feb 2026 19:05:00 -0500",
+          "title": "OpenAI says it does not think Anthropic should be designated as a supply chain risk and it has made its position on this clear to the Pentagon (@openai)",
+          "standfirst": "@openai: OpenAI says it does not think Anthropic should be designated as a supply chain risk and it has made its position on this clear to the Pentagon &mdash; We do not think Anthropic should be designated as a supply chain risk and we've made our position on this clear to the Department of War.",
+          "content": "@openai: OpenAI says it does not think Anthropic should be designated as a supply chain risk and it has made its position on this clear to the Pentagon &mdash; We do not think Anthropic should be designated as a supply chain risk and we've made our position on this clear to the Department of War.",
+          "feed_position": 2,
+          "image_url": "http://www.techmeme.com/img/pml.png"
+        },
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/",
+          "published_at": "Fri, 27 Feb 2026 21:53:14 +0000",
+          "title": "Pentagon moves to designate Anthropic as a supply-chain risk",
+          "standfirst": "\"We don't need it, we don't want it, and will not do business with them again,\" the president wrote in the post.",
+          "content": "\"We don't need it, we don't want it, and will not do business with them again,\" the president wrote in the post.",
+          "feed_position": 10
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/img/pml.png",
+      "popularity_score": 2015.2595
+    },
     {
       "id": "cluster_14",
       "coverage": 2,
@@ -33,7 +66,7 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/getty-Dario-Amodei-1152x648.jpg",
-      "popularity_score": 2016.7488919444445
+      "popularity_score": 2011.1833888888889
     },
     {
       "id": "cluster_17",
@@ -219,33 +252,13 @@
           "standfirst": "Despite an ultimatum from Defense Secretary Pete Hegseth, Anthropic said that it can't \"in good conscience\" comply with a Pentagon edict to remove guardrails on its AI, CEO Dario Amodei wrote in a blog post. The Department of Defense had threatened to cancel a $200 million contract and label Anthropic a \"supply chain risk\" if it didn't agree to remove safeguards over mass surveillance and autonomous weapons. \"Our strong preference is to continue to serve the Department and our warfighters — with our two requested safeguards in place,\" Amodei said. \"We remain ready to continue our work to support the national security of the United States.\" In response, US Under Secretary of Defense Emil Michael accused Amodei in a post on X of wanting \"nothing more than to try to personally control the US military and is OK putting our nation's safety at risk.\" The standoff began when the Pentagon demanded that Anthropic its Claude AI product available for \"all lawful purposes\" — including mass surveillance and the development of fully autonomous weapons that can kill without human supervision. Anthropic refused to offer its tech for those things, even with a \"safety stack\" built into that model. Yesterday, Axios reported that Hegseth gave Anthropic a deadline of 5:01 PM on Friday to agree to the Pentagon's terms. At the same time, the DoD requested an assessment of its reliance on Claude, an initial step toward potentially labelling Anthropic as a \"supply chain risk\" — a designation usually reserved for firms from adversaries like China and \"never before applied to an American company,\" Anthropic wrote. Amodei declined to change his stance and stated that if the Pentagon chose to offboard Anthropic, \"we will work to enable a smooth transition to another provider, avoiding any disruption to ongoing military planning, operations or other critical missions.\" Grok is one of the other providers the DoD is reportedly considering, along with Google's Gemini and OpenAI. It may not be that simple for the military to disentangle itself from Claude, however. Up until now, Anthropic's model has been the only one allowed for the military's most sensitive tasks in intelligence, weapons development and battlefield operations. Claude was reportedly used in the Venezuelan raid in which the US military exfiltrated the country's president, Nicolás Maduro, and his wife. AI companies have been widely criticized for potential harm to users, but mass surveillance and weapons development would clearly take that to a new level. Anthropic's potential reply to the Pentagon was seen as a test of its claim to be the most safety-forward AI company, particularly after dropping its flagship safety pledge a few days ago. Now that Amodei has responded, the focus will shift to the Pentagon to see if it follows through on its threats, which could seriously harm Anthropic. This article originally appeared on Engadget at https://www.engadget.com/ai/anthropic-refuses-to-bow-to-pentagon-despite-hegseths-threats-085553126.html?src=rss",
           "content": "Despite an ultimatum from Defense Secretary Pete Hegseth, Anthropic said that it can't \"in good conscience\" comply with a Pentagon edict to remove guardrails on its AI, CEO Dario Amodei wrote in a blog post. The Department of Defense had threatened to cancel a $200 million contract and label Anthropic a \"supply chain risk\" if it didn't agree to remove safeguards over mass surveillance and autonomous weapons. \"Our strong preference is to continue to serve the Department and our warfighters — with our two requested safeguards in place,\" Amodei said. \"We remain ready to continue our work to support the national security of the United States.\" In response, US Under Secretary of Defense Emil Michael accused Amodei in a post on X of wanting \"nothing more than to try to personally control the US military and is OK putting our nation's safety at risk.\" The standoff began when the Pentagon demanded that Anthropic its Claude AI product available for \"all lawful purposes\" — including mass surveillance and the development of fully autonomous weapons that can kill without human supervision. Anthropic refused to offer its tech for those things, even with a \"safety stack\" built into that model. Yesterday, Axios reported that Hegseth gave Anthropic a deadline of 5:01 PM on Friday to agree to the Pentagon's terms. At the same time, the DoD requested an assessment of its reliance on Claude, an initial step toward potentially labelling Anthropic as a \"supply chain risk\" — a designation usually reserved for firms from adversaries like China and \"never before applied to an American company,\" Anthropic wrote. Amodei declined to change his stance and stated that if the Pentagon chose to offboard Anthropic, \"we will work to enable a smooth transition to another provider, avoiding any disruption to ongoing military planning, operations or other critical missions.\" Grok is one of the other providers the DoD is reportedly considering, along with Google's Gemini and OpenAI. It may not be that simple for the military to disentangle itself from Claude, however. Up until now, Anthropic's model has been the only one allowed for the military's most sensitive tasks in intelligence, weapons development and battlefield operations. Claude was reportedly used in the Venezuelan raid in which the US military exfiltrated the country's president, Nicolás Maduro, and his wife. AI companies have been widely criticized for potential harm to users, but mass surveillance and weapons development would clearly take that to a new level. Anthropic's potential reply to the Pentagon was seen as a test of its claim to be the most safety-forward AI company, particularly after dropping its flagship safety pledge a few days ago. Now that Amodei has responded, the focus will shift to the Pentagon to see if it follows through on its threats, which could seriously harm Anthropic. This article originally appeared on Engadget at https://www.engadget.com/ai/anthropic-refuses-to-bow-to-pentagon-despite-hegseths-threats-085553126.html?src=rss",
           "feed_position": 25
-        },
-        {
-          "source": "VentureBeat",
-          "url": "https://venturebeat.com/orchestration/jack-dorseys-block-cuts-40-of-staff-4-000-people-and-yes-its-because-of-ai",
-          "published_at": "Fri, 27 Feb 2026 00:46:00 GMT",
-          "title": "Jack Dorsey's Block cuts 40% of staff, 4,000+ people — and yes, it's because of AI efficiencies",
-          "standfirst": "Former Twitter co-founder Jack Dorsey&#x27;s new company Block — the parent of merchants payment system Square, mobile peer-to-peer payments Cash App, music streamer Tidal, and open source AI orchestration system Goose — is sending shockwaves across the business world tonight after announcing a more than 40% headcount, cutting its workforce by more than 4,000 people out of a prior total of 10,000, despite its latest quarterly earnings statement released today showing $2.87 billion in gross profit up 24% year-over-year. The culprit? Newfound AI efficiencies. As Dorsey put it in a note shared on his own former social network, X: \"we&#x27;re not making this decision because we&#x27;re in trouble. our business is strong. gross profit continues to grow, we continue to serve more and more customers, and profitability is improving. but something has changed. we&#x27;re already seeing that the intelligence tools we’re creating and using, paired with smaller and flatter teams, are enabling a new way of working which fundamentally changes what it means to build and run a company. and that&#x27;s accelerating rapidly. i had two options: cut gradually over months or years as this shift plays out, or be honest about where we are and act on it now. i chose the latter. repeated rounds of cuts are destructive to morale, to focus, and to the trust that customers and shareholders place in our ability to lead. i&#x27;d rather take a hard, clear action now and build from a position we believe in than manage a slow reduction of people toward the same outcome. a smaller company also gives us the space to grow our business the right way, on our own terms, instead of constantly reacting to market pressures.\"Technology: The \"agentic\" shiftThe core of this reorganization is a pivot toward an \"intelligence-native\" model. Dorsey argues that a significantly smaller team, leveraging the very tools they are building, can deliver more value than a traditional large-scale organization. Block is re-engineering its entire operational stack to be orchestrated by AI, moving away from human-intensive management hierarchies toward what it calls \"agentic AI infrastructure\".This includes four primary focus areas:Customer Capabilities: Atomic features that allow customers to build directly on top of Block&#x27;s infrastructure.Proactive Intelligence: Moving from reactive dashboards to tools like Moneybot that anticipate customer needs before they ask.Intelligence Models: A system to orchestrate the company’s internal operations, aiming for extreme speed and product velocity.Operational Orchestration: An AI model designed to manage the internal decision-making and risk-assessment processes of the firm.Product: scaling strength via automationThe financial strength cited in the lede is driven by deep engagement in Cash App and Square. Cash App’s gross profit grew 33% YoY to $1.83 billion, while Square saw its strongest year on record for new volume added (NVA).Specific product highlights include:Cash App Green: This status program for \"modern earners\" — a segment of 125 million people including gig workers and freelancers — has become a cornerstone of the company’s engagement strategy.Square AI: Now embedded in the Square Dashboard, it provides sellers with instant insights into staffing and customer behavior.Consumer Lending: Cash App Borrow origination volume surged 223% YoY, proving to be a high-return product that manages income variability for users.Block also exceeded the Rule of 40—the industry benchmark where the sum of gross profit growth and adjusted operating income margin exceeds 40%—for the first time in the fourth quarter.Community reactionsNot everyone was convinced by Dorsey&#x27;s letter stating that AI efficiencies were the primary driver of the layoffs. As Will Slaughter wrote on X: \"In 3 years from December 2019 to December 2022, Block $XYZ more than tripled its headcount from 3,900 to 12,500. Unwinding less than half an insane COVID overhiring binge has much more to do with Jack Dorsey&#x27;s managerial incompetence than whether AI is going to take your job.\"Entrepreneur Marcelo P. Lima offered a similar sentiment on X, writing in part: \"Everyone will assume Jack Dorsey &#x27;greatest of all time&#x27; is doing this because of AI. He&#x27;s not. Block has been massively bloated for years. Don&#x27;t forget, Jack was head of Twitter. When Elon took over, he fired 80% of staff within 5 months and the product got better. This was before generative AI and Claude Code.\" Dorsey, for his part, disputed claims of the layoffs being driven by mismanagement or overhiring correction. In a response to Slaughter on X posted after this article was published, Dorsey wrote: \"yes we over-hired during covid because i incorrectly built 2 separate company structures (square & cash app) rather than 1, which we corrected mid 2024. but this misses all the complexity we took on through lending, banking, and BNPL. and that we’re now targeting $2M+ gross profit per person, 4x our pre-covid efficiency, which stayed flat at ~$500k from 2019 until 2024. we have and do run an efficient company... better than most.\"And yet, regardless of how heavily AI factored into these layoffs in particular, the outcome on the wider enterprise landscape may ultimately be the same. With Block&#x27;s stock price rising more than 24% on the news, the boards and leadership of other public companies will likely be forced to at least entertain the idea of similarly drastic cuts if they believe AI can replace human labor and drive greater organizational efficiencies. As user @khuppy wrote on X: \"By Q2, if you aren’t firing lots of employees, your board will fire you for being a dinosaur who doesn’t implement AI. It’s going to happen fast now. Feudalism, here we come…\"Clearly, companies across sectors but especially those in tech and services will be re-examining their headcount in light of Block&#x27;s latest move. The human costDespite the robust financial performance, the human cost is stark. The reduction from over 10,000 to just under 6,000 employees is one of the most drastic in fintech history. Dorsey’s internal note, while aimed at transparency, was met with a mix of awe at the technical vision and criticism of the timing.Affected employees are receiving a severance package that includes 20 weeks of salary plus one week per year of tenure, equity vesting through May, and a $5,000 transition fund. Dorsey noted that communication channels would stay open through Thursday evening so the team could say goodbye properly, stating, \"i&#x27;d rather it feel awkward and human than efficient and cold.\"How enterprise decision-makers and leaders should interpret the newsFor enterprise decision-makers, Block’s move represents a fundamental challenge to the \"growth at all costs\" hiring model that has defined the last decade of tech. Leadership teams should view this not merely as a cost-cutting measure, but as a strategic reset where organizational value is measured by the ratio of output to \"intelligence-native\" tools rather than total headcount. Executives should begin by auditing their own internal workflows to identify where agentic AI can consolidate roles and flatten management hierarchies before market pressures force a more reactive, less orderly contraction. Even if not leading to as drastic of cuts, hiring slowdowns and freezes, Block&#x27;s move should likely prompt at least the kind of policy introduced separately by Shopify CEO Tobi Lutke nearly a year ago: \"Before asking for more Headcount and resources, teams most demonstrate why they cannot get what they want done using AI.\" While the community reaction to Block’s layoffs highlights the potential for brand damage and morale loss, the 24% surge in Block’s stock price suggests that the public market is increasingly rewarding lean, automated efficiency over human-intensive scaling. Decision-makers should evaluate their current \"bloat\" against the benchmark set by Dorsey: if a company of 6,000 can drive $12.20 billion in gross profit, the standard for organizational efficiency has been permanently raised.",
-          "content": "Former Twitter co-founder Jack Dorsey&#x27;s new company Block — the parent of merchants payment system Square, mobile peer-to-peer payments Cash App, music streamer Tidal, and open source AI orchestration system Goose — is sending shockwaves across the business world tonight after announcing a more than 40% headcount, cutting its workforce by more than 4,000 people out of a prior total of 10,000, despite its latest quarterly earnings statement released today showing $2.87 billion in gross profit up 24% year-over-year. The culprit? Newfound AI efficiencies. As Dorsey put it in a note shared on his own former social network, X: \"we&#x27;re not making this decision because we&#x27;re in trouble. our business is strong. gross profit continues to grow, we continue to serve more and more customers, and profitability is improving. but something has changed. we&#x27;re already seeing that the intelligence tools we’re creating and using, paired with smaller and flatter teams, are enabling a new way of working which fundamentally changes what it means to build and run a company. and that&#x27;s accelerating rapidly. i had two options: cut gradually over months or years as this shift plays out, or be honest about where we are and act on it now. i chose the latter. repeated rounds of cuts are destructive to morale, to focus, and to the trust that customers and shareholders place in our ability to lead. i&#x27;d rather take a hard, clear action now and build from a position we believe in than manage a slow reduction of people toward the same outcome. a smaller company also gives us the space to grow our business the right way, on our own terms, instead of constantly reacting to market pressures.\"Technology: The \"agentic\" shiftThe core of this reorganization is a pivot toward an \"intelligence-native\" model. Dorsey argues that a significantly smaller team, leveraging the very tools they are building, can deliver more value than a traditional large-scale organization. Block is re-engineering its entire operational stack to be orchestrated by AI, moving away from human-intensive management hierarchies toward what it calls \"agentic AI infrastructure\".This includes four primary focus areas:Customer Capabilities: Atomic features that allow customers to build directly on top of Block&#x27;s infrastructure.Proactive Intelligence: Moving from reactive dashboards to tools like Moneybot that anticipate customer needs before they ask.Intelligence Models: A system to orchestrate the company’s internal operations, aiming for extreme speed and product velocity.Operational Orchestration: An AI model designed to manage the internal decision-making and risk-assessment processes of the firm.Product: scaling strength via automationThe financial strength cited in the lede is driven by deep engagement in Cash App and Square. Cash App’s gross profit grew 33% YoY to $1.83 billion, while Square saw its strongest year on record for new volume added (NVA).Specific product highlights include:Cash App Green: This status program for \"modern earners\" — a segment of 125 million people including gig workers and freelancers — has become a cornerstone of the company’s engagement strategy.Square AI: Now embedded in the Square Dashboard, it provides sellers with instant insights into staffing and customer behavior.Consumer Lending: Cash App Borrow origination volume surged 223% YoY, proving to be a high-return product that manages income variability for users.Block also exceeded the Rule of 40—the industry benchmark where the sum of gross profit growth and adjusted operating income margin exceeds 40%—for the first time in the fourth quarter.Community reactionsNot everyone was convinced by Dorsey&#x27;s letter stating that AI efficiencies were the primary driver of the layoffs. As Will Slaughter wrote on X: \"In 3 years from December 2019 to December 2022, Block $XYZ more than tripled its headcount from 3,900 to 12,500. Unwinding less than half an insane COVID overhiring binge has much more to do with Jack Dorsey&#x27;s managerial incompetence than whether AI is going to take your job.\"Entrepreneur Marcelo P. Lima offered a similar sentiment on X, writing in part: \"Everyone will assume Jack Dorsey &#x27;greatest of all time&#x27; is doing this because of AI. He&#x27;s not. Block has been massively bloated for years. Don&#x27;t forget, Jack was head of Twitter. When Elon took over, he fired 80% of staff within 5 months and the product got better. This was before generative AI and Claude Code.\" Dorsey, for his part, disputed claims of the layoffs being driven by mismanagement or overhiring correction. In a response to Slaughter on X posted after this article was published, Dorsey wrote: \"yes we over-hired during covid because i incorrectly built 2 separate company structures (square & cash app) rather than 1, which we corrected mid 2024. but this misses all the complexity we took on through lending, banking, and BNPL. and that we’re now targeting $2M+ gross profit per person, 4x our pre-covid efficiency, which stayed flat at ~$500k from 2019 until 2024. we have and do run an efficient company... better than most.\"And yet, regardless of how heavily AI factored into these layoffs in particular, the outcome on the wider enterprise landscape may ultimately be the same. With Block&#x27;s stock price rising more than 24% on the news, the boards and leadership of other public companies will likely be forced to at least entertain the idea of similarly drastic cuts if they believe AI can replace human labor and drive greater organizational efficiencies. As user @khuppy wrote on X: \"By Q2, if you aren’t firing lots of employees, your board will fire you for being a dinosaur who doesn’t implement AI. It’s going to happen fast now. Feudalism, here we come…\"Clearly, companies across sectors but especially those in tech and services will be re-examining their headcount in light of Block&#x27;s latest move. The human costDespite the robust financial performance, the human cost is stark. The reduction from over 10,000 to just under 6,000 employees is one of the most drastic in fintech history. Dorsey’s internal note, while aimed at transparency, was met with a mix of awe at the technical vision and criticism of the timing.Affected employees are receiving a severance package that includes 20 weeks of salary plus one week per year of tenure, equity vesting through May, and a $5,000 transition fund. Dorsey noted that communication channels would stay open through Thursday evening so the team could say goodbye properly, stating, \"i&#x27;d rather it feel awkward and human than efficient and cold.\"How enterprise decision-makers and leaders should interpret the newsFor enterprise decision-makers, Block’s move represents a fundamental challenge to the \"growth at all costs\" hiring model that has defined the last decade of tech. Leadership teams should view this not merely as a cost-cutting measure, but as a strategic reset where organizational value is measured by the ratio of output to \"intelligence-native\" tools rather than total headcount. Executives should begin by auditing their own internal workflows to identify where agentic AI can consolidate roles and flatten management hierarchies before market pressures force a more reactive, less orderly contraction. Even if not leading to as drastic of cuts, hiring slowdowns and freezes, Block&#x27;s move should likely prompt at least the kind of policy introduced separately by Shopify CEO Tobi Lutke nearly a year ago: \"Before asking for more Headcount and resources, teams most demonstrate why they cannot get what they want done using AI.\" While the community reaction to Block’s layoffs highlights the potential for brand damage and morale loss, the 24% surge in Block’s stock price suggests that the public market is increasingly rewarding lean, automated efficiency over human-intensive scaling. Decision-makers should evaluate their current \"bloat\" against the benchmark set by Dorsey: if a company of 6,000 can drive $12.20 billion in gross profit, the standard for organizational efficiency has been permanently raised.",
-          "feed_position": 5,
-          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6ilRpMh79SoqPi6HnCVlfx/9a3e5737b43f8b07a7fbf7b1fc044c98/Gemini_Generated_Image_hysqcxhysqcxhysq.png?w=300&q=30"
-        },
-        {
-          "source": "VentureBeat",
-          "url": "https://venturebeat.com/orchestration/microsofts-new-ai-training-method-eliminates-bloated-system-prompts-without",
-          "published_at": "Fri, 27 Feb 2026 00:00:00 GMT",
-          "title": "Microsoft's new AI training method eliminates bloated system prompts without sacrificing model performance",
-          "standfirst": "In building LLM applications, enterprises often have to create very long system prompts to adjust the model’s behavior for their applications. These prompts contain company knowledge, preferences, and application-specific instructions. At enterprise scale, these contexts can push inference latency past acceptable thresholds and drive per-query costs up significantly. On-Policy Context Distillation (OPCD), a new training framework proposed by researchers at Microsoft, helps bake the knowledge and preferences of applications directly into a model. OPCD uses the model’s own responses during training, which avoids some of the pitfalls of other training techniques. This improves the abilities of models for bespoke applications while preserving their general capabilities. Why long system prompts become a liabilityIn-context learning allows developers to update a model’s behavior at inference time without modifying its underlying parameters. Updating parameters is typically a slow and expensive process. However, in-context knowledge is transient. This knowledge does not carry across different conversations with the model, meaning you have to feed the model the exact same massive set of instructions or documents every time. For an enterprise application, this might mean repeatedly pasting company policies, customer tickets, or dense technical manuals into the prompt. This eventually slows down the model, drives up costs, and can confuse the system.“Enterprises often use long system prompts to enforce safety constraints (e.g., hate speech detection) or to provide domain-specific expertise (e.g., medical knowledge),” said Tianzhu Ye, co-author of the paper and researcher at Microsoft Research Asia, in comments provided to VentureBeat. “However, lengthy prompts significantly increase computational overhead and latency at inference time.”The main idea behind context distillation is to train a model to internalize the information that you repeatedly insert into the context. Like other distillation techniques, it follows a teacher-student paradigm. The teacher is an AI model that receives the massive, detailed prompt. Because it has all the instructions and reference documents, it generates highly tailored responses. The student is a model being trained that only sees the main question and doesn’t have access to the full context. Its goal is simply to observe the teacher&#x27;s responses and learn to mimic its behavior.Through this training process, the student model effectively compresses the complex instructions from the teacher&#x27;s prompt directly into its parameters. For an enterprise, the primary value happens at inference time. Because the student model has internalized the context, you can deploy it in your application without needing to paste in the lengthy instructions again. This makes the model significantly faster and with far less computational overhead.However, classic context distillation relies on a flawed training method called “off-policy training,” where the model is trained on fixed datasets that were collected before the training process. This is problematic in several ways. During training, the student is only exposed to ground-truth data and teacher-generated answers, creating what Ye calls \"exposure bias.\" In production, the model must come up with its own token sequences to reach those answers. Because it never practiced making its own decisions or recovering from its own mistakes during training, it can easily derail when operating independently. It’s like showing a student videos of a professional driver and expecting them to learn driving without trial and error.Another problem is the “forward Kullback-Leibler (KL) divergence” minimization measure used to train the model. Under this method, the model is graded on how similar its answers are to the teacher, which encourages \"mode-covering\" behavior, Ye says. The student model is often smaller or lacks the rich context the teacher had, meaning it simply lacks the capacity to perfectly replicate the teacher&#x27;s complex reasoning. Because the student is forced to try and cover all those possibilities anyway, its underlying guesses become overly broad and unfocused.In real-world applications, this can result in hallucinations, where the AI gets confused and confidently makes things up because it is trying to mimic a depth of knowledge it does not actually possess. It also means that the model cannot generalize well to new tasks.How OPCD fixes the teacher-student problemTo fix the critical issues with the old teacher-student dynamic, the Microsoft researchers introduced On-Policy Context Distillation (OPCD). The most important shift in OPCD is that the student model learns from its own generation trajectories as opposed to a static dataset (which is why it is called “on-policy”). Instead of passively studying a dataset of the teacher&#x27;s perfect outputs, the student is given a task without seeing the massive instruction prompt and has to generate an answer entirely on its own.As the student generates its answer, the teacher acts as a live instructor. The teacher has access to the full, customized prompt and evaluates the student&#x27;s output. At every step along the student&#x27;s generation, the system compares the student&#x27;s token distribution against what the context-aware teacher would do.OPCD uses “reverse KL divergence” to grade the student. “By minimizing reverse KL divergence, it promotes &#x27;mode-seeking&#x27; behavior. It focuses on high-probability regions of the student&#x27;s distribution,” Ye said. “It suppresses tokens that the student considers unlikely, even if the teacher&#x27;s belief assigned them high probability. This alignment helps the student correct its own mistakes and avoid the broad, hallucinatory distributions of standard distillation.”Because the student model actively practices making its own decisions and learns to correct its own mistakes during training, it behaves more reliably when deployed in a live application. It successfully bakes complex business rules, safety constraints, or specialized knowledge directly into its permanent memory.What OPCD delivers: The benchmark resultsThe researchers tested OPCD in two key areas: experiential knowledge distillation and system prompt distillation. For experiential knowledge distillation, the researchers wanted to see if an LLM could learn from its own past successes and permanently adopt those lessons. They tested this on models of various sizes, using mathematical reasoning problems.First, the model solved problems and was asked to write down general rules it learned from its successes. Then, using OPCD, they baked those written lessons directly into the model&#x27;s parameters. The results showed that the models improved dramatically without needing the learned experience pasted into their prompts anymore. On complex math problems, an 8-billion-parameter model improved from a 75.0% baseline to 80.9%. For example, on the Frozen Lake navigation game, a small 1.7-billion parameter model initially had a success rate of 6.3%. After OPCD baked in the learned experience, its accuracy jumped to 38.3%. The second set of experiments were on long system prompts. Enterprises often use massive system prompts to enforce strict behavioral guidelines, like maintaining a professional tone, ensuring medical accuracy, or filtering out toxic language. The researchers tested whether OPCD could permanently bake these dense behavioral rules into the models so they would not have to be sent with every single user query. Their experiments show that OPCD successfully internalized these complex rules and massively boosted performance. When testing a 3-billion parameter Llama model on safety and toxicity classification, the base model scored 30.7%. After using OPCD to internalize the safety prompt, its accuracy spiked to 83.1%. On medical question answering, the same model improved from 59.4% to 76.3%.One of the key challenges of fine-tuning models is catastrophic forgetting, where the model becomes too focused on the fine-tune task and worse at general tasks. The researchers tracked out-of-distribution performance to test for this tunnel vision. When they distilled strict safety rules into a model, they immediately tested its ability to answer unrelated medical questions. OPCD successfully maintained the model&#x27;s general medical knowledge, outperforming the old off-policy methods by approximately 4 percentage points. It specialized without losing its broader intelligence.Where OPCD fits — and where it doesn&#x27;tWhile OPCD is a powerful tool for internalizing static knowledge and complex rules, it does not replace all external context methods. “RAG is better when the required information is highly dynamic or involves a massive, frequently updated external database that cannot be compressed into model weights,” Ye said.For enterprise teams evaluating their pipelines, adopting OPCD does not require overhauling existing systems or investing in specialized hardware. “OPCD can be integrated into existing workflows with very little friction,” Ye said. “Any team already running standard RLVR [Reinforcement Learning from Verifiable Rewards] pipelines can adopt OPCD without major architectural changes.”In practice, the student model acts as the policy model performing rollouts, while the frozen teacher model serves as a reference providing logits. The hardware requirements are highly accessible. According to Ye, enterprise teams can reproduce the researchers&#x27; experiments using about eight A100 GPUs.The data requirements are similarly lightweight. For experiential knowledge distillation, developers only need around 30 seed examples to generate solution traces. Because the technique is applied to previously unoptimized environments, even a small amount of data yields the majority of the performance improvement. For system prompt distillation, existing optimized prompts and standard task datasets are sufficient.The researchers built their own implementation on verl, an open-source RLVR codebase, proving that the technique fits cleanly within conventional reinforcement learning frameworks. They plan to release their implementation as open source following internal reviews.The self-improving model: What comes nextLooking ahead, OPCD paves the way for genuinely self-improving models that continuously adapt to bespoke enterprise environments. Once deployed, a model can extract lessons from real-world interactions and use OPCD to progressively internalize those characteristics without requiring manual supervision or data annotation from model trainers.“This represents a fundamental paradigm shift in model improvement: the core improvements to the model would move from training time to test time,” Ye said. “Using the model—and allowing it to gather experience—would become the primary driver of its advancement.”",
-          "content": "In building LLM applications, enterprises often have to create very long system prompts to adjust the model’s behavior for their applications. These prompts contain company knowledge, preferences, and application-specific instructions. At enterprise scale, these contexts can push inference latency past acceptable thresholds and drive per-query costs up significantly. On-Policy Context Distillation (OPCD), a new training framework proposed by researchers at Microsoft, helps bake the knowledge and preferences of applications directly into a model. OPCD uses the model’s own responses during training, which avoids some of the pitfalls of other training techniques. This improves the abilities of models for bespoke applications while preserving their general capabilities. Why long system prompts become a liabilityIn-context learning allows developers to update a model’s behavior at inference time without modifying its underlying parameters. Updating parameters is typically a slow and expensive process. However, in-context knowledge is transient. This knowledge does not carry across different conversations with the model, meaning you have to feed the model the exact same massive set of instructions or documents every time. For an enterprise application, this might mean repeatedly pasting company policies, customer tickets, or dense technical manuals into the prompt. This eventually slows down the model, drives up costs, and can confuse the system.“Enterprises often use long system prompts to enforce safety constraints (e.g., hate speech detection) or to provide domain-specific expertise (e.g., medical knowledge),” said Tianzhu Ye, co-author of the paper and researcher at Microsoft Research Asia, in comments provided to VentureBeat. “However, lengthy prompts significantly increase computational overhead and latency at inference time.”The main idea behind context distillation is to train a model to internalize the information that you repeatedly insert into the context. Like other distillation techniques, it follows a teacher-student paradigm. The teacher is an AI model that receives the massive, detailed prompt. Because it has all the instructions and reference documents, it generates highly tailored responses. The student is a model being trained that only sees the main question and doesn’t have access to the full context. Its goal is simply to observe the teacher&#x27;s responses and learn to mimic its behavior.Through this training process, the student model effectively compresses the complex instructions from the teacher&#x27;s prompt directly into its parameters. For an enterprise, the primary value happens at inference time. Because the student model has internalized the context, you can deploy it in your application without needing to paste in the lengthy instructions again. This makes the model significantly faster and with far less computational overhead.However, classic context distillation relies on a flawed training method called “off-policy training,” where the model is trained on fixed datasets that were collected before the training process. This is problematic in several ways. During training, the student is only exposed to ground-truth data and teacher-generated answers, creating what Ye calls \"exposure bias.\" In production, the model must come up with its own token sequences to reach those answers. Because it never practiced making its own decisions or recovering from its own mistakes during training, it can easily derail when operating independently. It’s like showing a student videos of a professional driver and expecting them to learn driving without trial and error.Another problem is the “forward Kullback-Leibler (KL) divergence” minimization measure used to train the model. Under this method, the model is graded on how similar its answers are to the teacher, which encourages \"mode-covering\" behavior, Ye says. The student model is often smaller or lacks the rich context the teacher had, meaning it simply lacks the capacity to perfectly replicate the teacher&#x27;s complex reasoning. Because the student is forced to try and cover all those possibilities anyway, its underlying guesses become overly broad and unfocused.In real-world applications, this can result in hallucinations, where the AI gets confused and confidently makes things up because it is trying to mimic a depth of knowledge it does not actually possess. It also means that the model cannot generalize well to new tasks.How OPCD fixes the teacher-student problemTo fix the critical issues with the old teacher-student dynamic, the Microsoft researchers introduced On-Policy Context Distillation (OPCD). The most important shift in OPCD is that the student model learns from its own generation trajectories as opposed to a static dataset (which is why it is called “on-policy”). Instead of passively studying a dataset of the teacher&#x27;s perfect outputs, the student is given a task without seeing the massive instruction prompt and has to generate an answer entirely on its own.As the student generates its answer, the teacher acts as a live instructor. The teacher has access to the full, customized prompt and evaluates the student&#x27;s output. At every step along the student&#x27;s generation, the system compares the student&#x27;s token distribution against what the context-aware teacher would do.OPCD uses “reverse KL divergence” to grade the student. “By minimizing reverse KL divergence, it promotes &#x27;mode-seeking&#x27; behavior. It focuses on high-probability regions of the student&#x27;s distribution,” Ye said. “It suppresses tokens that the student considers unlikely, even if the teacher&#x27;s belief assigned them high probability. This alignment helps the student correct its own mistakes and avoid the broad, hallucinatory distributions of standard distillation.”Because the student model actively practices making its own decisions and learns to correct its own mistakes during training, it behaves more reliably when deployed in a live application. It successfully bakes complex business rules, safety constraints, or specialized knowledge directly into its permanent memory.What OPCD delivers: The benchmark resultsThe researchers tested OPCD in two key areas: experiential knowledge distillation and system prompt distillation. For experiential knowledge distillation, the researchers wanted to see if an LLM could learn from its own past successes and permanently adopt those lessons. They tested this on models of various sizes, using mathematical reasoning problems.First, the model solved problems and was asked to write down general rules it learned from its successes. Then, using OPCD, they baked those written lessons directly into the model&#x27;s parameters. The results showed that the models improved dramatically without needing the learned experience pasted into their prompts anymore. On complex math problems, an 8-billion-parameter model improved from a 75.0% baseline to 80.9%. For example, on the Frozen Lake navigation game, a small 1.7-billion parameter model initially had a success rate of 6.3%. After OPCD baked in the learned experience, its accuracy jumped to 38.3%. The second set of experiments were on long system prompts. Enterprises often use massive system prompts to enforce strict behavioral guidelines, like maintaining a professional tone, ensuring medical accuracy, or filtering out toxic language. The researchers tested whether OPCD could permanently bake these dense behavioral rules into the models so they would not have to be sent with every single user query. Their experiments show that OPCD successfully internalized these complex rules and massively boosted performance. When testing a 3-billion parameter Llama model on safety and toxicity classification, the base model scored 30.7%. After using OPCD to internalize the safety prompt, its accuracy spiked to 83.1%. On medical question answering, the same model improved from 59.4% to 76.3%.One of the key challenges of fine-tuning models is catastrophic forgetting, where the model becomes too focused on the fine-tune task and worse at general tasks. The researchers tracked out-of-distribution performance to test for this tunnel vision. When they distilled strict safety rules into a model, they immediately tested its ability to answer unrelated medical questions. OPCD successfully maintained the model&#x27;s general medical knowledge, outperforming the old off-policy methods by approximately 4 percentage points. It specialized without losing its broader intelligence.Where OPCD fits — and where it doesn&#x27;tWhile OPCD is a powerful tool for internalizing static knowledge and complex rules, it does not replace all external context methods. “RAG is better when the required information is highly dynamic or involves a massive, frequently updated external database that cannot be compressed into model weights,” Ye said.For enterprise teams evaluating their pipelines, adopting OPCD does not require overhauling existing systems or investing in specialized hardware. “OPCD can be integrated into existing workflows with very little friction,” Ye said. “Any team already running standard RLVR [Reinforcement Learning from Verifiable Rewards] pipelines can adopt OPCD without major architectural changes.”In practice, the student model acts as the policy model performing rollouts, while the frozen teacher model serves as a reference providing logits. The hardware requirements are highly accessible. According to Ye, enterprise teams can reproduce the researchers&#x27; experiments using about eight A100 GPUs.The data requirements are similarly lightweight. For experiential knowledge distillation, developers only need around 30 seed examples to generate solution traces. Because the technique is applied to previously unoptimized environments, even a small amount of data yields the majority of the performance improvement. For system prompt distillation, existing optimized prompts and standard task datasets are sufficient.The researchers built their own implementation on verl, an open-source RLVR codebase, proving that the technique fits cleanly within conventional reinforcement learning frameworks. They plan to release their implementation as open source following internal reviews.The self-improving model: What comes nextLooking ahead, OPCD paves the way for genuinely self-improving models that continuously adapt to bespoke enterprise environments. Once deployed, a model can extract lessons from real-world interactions and use OPCD to progressively internalize those characteristics without requiring manual supervision or data annotation from model trainers.“This represents a fundamental paradigm shift in model improvement: the core improvements to the model would move from training time to test time,” Ye said. “Using the model—and allowing it to gather experience—would become the primary driver of its advancement.”",
-          "feed_position": 6,
-          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/39VqKEYetXDr9BMEcrx7Is/05c6a7e979f919ee2128ec81344fb2af/Context_distillation.jpg?w=300&q=30"
         }
       ],
       "featured_image": "https://s.yimg.com/os/creatr-uploaded-images/2026-02/125f8ad0-1495-11f1-bb83-dd96bb6ae2a2",
-      "popularity_score": 2015.8808363888888
+      "popularity_score": 2010.3153333333332
     },
     {
-      "id": "cluster_25",
+      "id": "cluster_24",
       "coverage": 2,
       "updated_at": "Sat, 28 Feb 2026 12:35:01 -0500",
       "title": "Sources: Israel hacked BadeSaba, a popular Iranian prayer app with 5M+ installs on Google Play, to send messages urging Iranian military personnel to defect (Wall Street Journal)",
@@ -261,7 +274,7 @@
           "title": "Sources: Israel hacked BadeSaba, a popular Iranian prayer app with 5M+ installs on Google Play, to send messages urging Iranian military personnel to defect (Wall Street Journal)",
           "standfirst": "Wall Street Journal: Sources: Israel hacked BadeSaba, a popular Iranian prayer app with 5M+ installs on Google Play, to send messages urging Iranian military personnel to defect &mdash; Israel hacked a popular Iranian prayer app to send notifications to potentially millions of phones Saturday morning urging &hellip;",
           "content": "Wall Street Journal: Sources: Israel hacked BadeSaba, a popular Iranian prayer app with 5M+ installs on Google Play, to send messages urging Iranian military personnel to defect &mdash; Israel hacked a popular Iranian prayer app to send notifications to potentially millions of phones Saturday morning urging &hellip;",
-          "feed_position": 6,
+          "feed_position": 10,
           "image_url": "http://www.techmeme.com/260228/i11.jpg"
         },
         {
@@ -276,44 +289,10 @@
         }
       ],
       "featured_image": "http://www.techmeme.com/260228/i11.jpg",
-      "popularity_score": 2014.3252808333334
+      "popularity_score": 2008.7597777777778
     },
     {
-      "id": "cluster_65",
-      "coverage": 2,
-      "updated_at": "Sat, 28 Feb 2026 02:15:02 -0500",
-      "title": "US Congressional Joint Economic Committee report: US consumers lost $20.9B nominally to identity theft from four major data broker breaches over the past decade (Dell Cameron/Wired)",
-      "neutral_headline": "Data Broker Breaches Fueled Nearly $21 Billion in Identity-Theft Losses",
-      "bullet_summary": [
-        "Reported by TechMeme, Wired Tech"
-      ],
-      "items": [
-        {
-          "source": "TechMeme",
-          "url": "http://www.techmeme.com/260228/p4#a260228p4",
-          "published_at": "Sat, 28 Feb 2026 02:15:02 -0500",
-          "title": "US Congressional Joint Economic Committee report: US consumers lost $20.9B nominally to identity theft from four major data broker breaches over the past decade (Dell Cameron/Wired)",
-          "standfirst": "Dell Cameron / Wired: US Congressional Joint Economic Committee report: US consumers lost $20.9B nominally to identity theft from four major data broker breaches over the past decade &mdash; A report copublished by WIRED sparked a probe into opt-out pages hidden by data brokers. Now congressional Democrats &hellip;",
-          "content": "Dell Cameron / Wired: US Congressional Joint Economic Committee report: US consumers lost $20.9B nominally to identity theft from four major data broker breaches over the past decade &mdash; A report copublished by WIRED sparked a probe into opt-out pages hidden by data brokers. Now congressional Democrats &hellip;",
-          "feed_position": 13,
-          "image_url": "http://www.techmeme.com/260228/i4.jpg"
-        },
-        {
-          "source": "Wired Tech",
-          "url": "https://www.wired.com/story/data-broker-breaches-fueled-dollar209-billion-in-identity-theft-losses/",
-          "published_at": "Fri, 27 Feb 2026 10:00:00 +0000",
-          "title": "Data Broker Breaches Fueled Nearly $21 Billion in Identity-Theft Losses",
-          "standfirst": "A report copublished by WIRED sparked a probe into opt-out pages hidden by data brokers. Now congressional Democrats say breaches tied to the industry have cost people tens of billions of dollars.",
-          "content": "A report copublished by WIRED sparked a probe into opt-out pages hidden by data brokers. Now congressional Democrats say breaches tied to the industry have cost people tens of billions of dollars.",
-          "feed_position": 28,
-          "image_url": "https://media.wired.com/photos/699f3b7fc95722828c3f077b/master/pass/Data-Brokers-Stop-Hiding-Opt-Out-Pages-From-Google-After-US-Senators-Probe-Security-2245425437.jpg"
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/260228/i4.jpg",
-      "popularity_score": 2003.9922252777778
-    },
-    {
-      "id": "cluster_74",
+      "id": "cluster_59",
       "coverage": 2,
       "updated_at": "Fri, 27 Feb 2026 23:00:54 +0000",
       "title": "OpenAI fires employee for using confidential info on prediction markets",
@@ -330,7 +309,7 @@
           "title": "OpenAI fires employee for using confidential info on prediction markets",
           "standfirst": "The company said such trades violates its internal company policies about using confidential information for personal gain.",
           "content": "The company said such trades violates its internal company policies about using confidential information for personal gain.",
-          "feed_position": 8
+          "feed_position": 9
         },
         {
           "source": "Wired Tech",
@@ -368,10 +347,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1904444791-1152x648.jpg",
-      "popularity_score": 353.0283363888889
+      "popularity_score": 347.4628333333333
     },
     {
-      "id": "cluster_70",
+      "id": "cluster_55",
       "coverage": 1,
       "updated_at": "Sat, 28 Feb 2026 01:26:41 +0000",
       "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
@@ -395,7 +374,7 @@
       "popularity_score": 333
     },
     {
-      "id": "cluster_71",
+      "id": "cluster_56",
       "coverage": 1,
       "updated_at": "Sat, 28 Feb 2026 00:32:24 +0000",
       "title": "The Air Force's new ICBM is nearly ready to fly, but there’s nowhere to put it",
@@ -419,7 +398,7 @@
       "popularity_score": 318
     },
     {
-      "id": "cluster_75",
+      "id": "cluster_60",
       "coverage": 1,
       "updated_at": "Fri, 27 Feb 2026 22:39:00 +0000",
       "title": "Under a Paramount-WBD merger, two struggling media giants would unite",
@@ -443,7 +422,7 @@
       "popularity_score": 293
     },
     {
-      "id": "cluster_78",
+      "id": "cluster_62",
       "coverage": 1,
       "updated_at": "Fri, 27 Feb 2026 21:27:33 +0000",
       "title": "Photons that aren't actually there influence superconductivity",
@@ -467,7 +446,7 @@
       "popularity_score": 283
     },
     {
-      "id": "cluster_87",
+      "id": "cluster_70",
       "coverage": 1,
       "updated_at": "Fri, 27 Feb 2026 19:04:23 +0000",
       "title": "The AI apocalypse is nigh in Good Luck, Have Fun, Don't Die",
@@ -491,7 +470,7 @@
       "popularity_score": 278
     },
     {
-      "id": "cluster_85",
+      "id": "cluster_68",
       "coverage": 1,
       "updated_at": "Fri, 27 Feb 2026 19:14:51 +0000",
       "title": "Whoops: US military laser strike takes down CBP drone near Mexican border",
@@ -515,7 +494,7 @@
       "popularity_score": 273
     },
     {
-      "id": "cluster_95",
+      "id": "cluster_76",
       "coverage": 1,
       "updated_at": "Fri, 27 Feb 2026 17:21:21 +0000",
       "title": "How strong is New York's \"illegal gambling\" case against Valve's loot boxes?",
@@ -539,7 +518,7 @@
       "popularity_score": 258
     },
     {
-      "id": "cluster_89",
+      "id": "cluster_72",
       "coverage": 1,
       "updated_at": "Fri, 27 Feb 2026 18:36:04 +0000",
       "title": "Hyperion author Dan Simmons dies from stroke at 77",
@@ -563,7 +542,7 @@
       "popularity_score": 250
     },
     {
-      "id": "cluster_111",
+      "id": "cluster_91",
       "coverage": 1,
       "updated_at": "Fri, 27 Feb 2026 14:19:00 +0000",
       "title": "Block lays off 40% of workforce as it goes all-in on AI tools",
@@ -587,7 +566,7 @@
       "popularity_score": 148
     },
     {
-      "id": "cluster_112",
+      "id": "cluster_92",
       "coverage": 1,
       "updated_at": "Fri, 27 Feb 2026 13:37:42 +0000",
       "title": "Apple says it has \"a big week ahead.\" Here's what we expect to see.",
@@ -611,7 +590,7 @@
       "popularity_score": 145
     },
     {
-      "id": "cluster_101",
+      "id": "cluster_82",
       "coverage": 1,
       "updated_at": "Fri, 27 Feb 2026 16:13:51 +0000",
       "title": "And the award for the most improved EV goes to... the 2026 Toyota bZ",
@@ -635,7 +614,7 @@
       "popularity_score": 139
     },
     {
-      "id": "cluster_106",
+      "id": "cluster_87",
       "coverage": 1,
       "updated_at": "Fri, 27 Feb 2026 15:13:48 +0000",
       "title": "Netflix cedes Warner Bros. Discovery to Paramount: “No longer financially attractive”",
@@ -659,7 +638,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_107",
+      "id": "cluster_88",
       "coverage": 1,
       "updated_at": "Fri, 27 Feb 2026 15:08:08 +0000",
       "title": "NASA shakes up its Artemis program to speed up lunar return",
@@ -683,7 +662,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_115",
+      "id": "cluster_95",
       "coverage": 1,
       "updated_at": "Fri, 27 Feb 2026 12:00:13 +0000",
       "title": "Rocket Report: Vulcan \"many months\" from flying; Falcon 9 extends reuse milestone",
@@ -707,31 +686,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_132",
-      "coverage": 1,
-      "updated_at": "Thu, 26 Feb 2026 23:16:46 +0000",
-      "title": "Neanderthals seemed to have a thing for modern human women",
-      "neutral_headline": "Neanderthals seemed to have a thing for modern human women",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/02/genomes-chart-the-history-of-neanderthal-modern-human-interactions/",
-          "published_at": "Thu, 26 Feb 2026 23:16:46 +0000",
-          "title": "Neanderthals seemed to have a thing for modern human women",
-          "standfirst": "\"Neanderthal deserts\" in our genomes suggest a strong pattern in matings.",
-          "content": "By now, it's firmly established that modern humans and their Neanderthal relatives met and mated as our ancestors expanded out of Africa, resulting in a substantial amount of Neanderthal DNA scattered throughout our genome. Less widely recognized is that some of the Neanderthal genomes we've seen have pieces of modern human DNA as well. Not every modern human has the same set of Neanderthal DNA, however; different people will, by chance, have inherited different fragments. But there are also some areas, termed \"Neanderthal deserts,\" where none of the Neanderthal DNA seems to have persisted. Notably, the largest Neanderthal desert is the entire X chromosome, raising questions about whether this reflects the evolutionary fitness of genes there or mating preferences. Now, three researchers at the University of Pennsylvania, Alexander Platt, Daniel N. Harris, and Sarah Tishkoff, have done the converse analysis: examining the X chromosomes of the handful of completed Neanderthal genomes we have. It turns out there's also a strong bias toward modern human sequences there, as well, and the authors interpret that as selective mating, with Neanderthal males showing a strong preference for modern human females and their descendants.Read full article Comments",
-          "feed_position": 17,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1243699616-1024x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1243699616-1024x648.jpg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_110",
+      "id": "cluster_90",
       "coverage": 1,
       "updated_at": "Fri, 27 Feb 2026 14:34:45 +0000",
       "title": "How to downgrade from macOS 26 Tahoe on a new Mac",
