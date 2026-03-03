@@ -1,8 +1,41 @@
 {
-  "updated_at": "2026-03-02T23:19:10.761Z",
+  "updated_at": "2026-03-03T04:42:05.022Z",
   "clusters": [
     {
-      "id": "cluster_21",
+      "id": "cluster_7",
+      "coverage": 2,
+      "updated_at": "Tue, 03 Mar 2026 01:53:59 +0000",
+      "title": "Cursor has reportedly surpassed $2B in annualized revenue",
+      "neutral_headline": "Cursor has reportedly surpassed $2B in annualized revenue",
+      "bullet_summary": [
+        "Reported by TechCrunch, TechMeme"
+      ],
+      "items": [
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/03/02/cursor-has-reportedly-surpassed-2b-in-annualized-revenue/",
+          "published_at": "Tue, 03 Mar 2026 01:53:59 +0000",
+          "title": "Cursor has reportedly surpassed $2B in annualized revenue",
+          "standfirst": "The four-year-old startup saw its revenue run rate double over the past three months, according to one Bloomberg source.",
+          "content": "The four-year-old startup saw its revenue run rate double over the past three months, according to one Bloomberg source.",
+          "feed_position": 0
+        },
+        {
+          "source": "TechMeme",
+          "url": "http://www.techmeme.com/260302/p39#a260302p39",
+          "published_at": "Mon, 02 Mar 2026 17:55:07 -0500",
+          "title": "Source: Cursor's annualized revenue topped $2B in February, doubling from three months earlier, and about 60% of the revenue is coming from corporate customers (Rachel Metz/Bloomberg)",
+          "standfirst": "Rachel Metz / Bloomberg: Source: Cursor's annualized revenue topped $2B in February, doubling from three months earlier, and about 60% of the revenue is coming from corporate customers &mdash; Cursor's annualized revenue topped $2 billion in February, according to a person familiar with the matter &hellip;",
+          "content": "Rachel Metz / Bloomberg: Source: Cursor's annualized revenue topped $2B in February, doubling from three months earlier, and about 60% of the revenue is coming from corporate customers &mdash; Cursor's annualized revenue topped $2 billion in February, according to a person familiar with the matter &hellip;",
+          "feed_position": 13,
+          "image_url": "http://www.techmeme.com/260302/i39.jpg"
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/260302/i39.jpg",
+      "popularity_score": 2017.1983272222221
+    },
+    {
+      "id": "cluster_34",
       "coverage": 2,
       "updated_at": "Mon, 02 Mar 2026 21:00:00 GMT",
       "title": "Intuit is betting its 40 years of small business data can outlast the SaaSpocalypse",
@@ -19,8 +52,8 @@
           "url": "https://venturebeat.com/infrastructure/intuit-is-betting-its-40-years-of-small-business-data-can-outlast-the",
           "published_at": "Mon, 02 Mar 2026 21:00:00 GMT",
           "title": "Intuit is betting its 40 years of small business data can outlast the SaaSpocalypse",
-          "standfirst": "Intuit has lost more than 40% of its market cap since the beginning of the year. It&#x27;s not alone. Many established SaaS players have seen their stock prices fall in recent months, including Adobe and IBM — the latter experiencing its most significant one-day drop (roughly $40 billion) with Anthropic&#x27;s announcement that Claude could now read, analyze and translate legacy COBOL into modern languages like Java and Python. The market has a name for it: the SaaSpocalypse.The argument from investors and market watchers: AI agents can now do bookkeeping, file taxes and reconcile accounts — without a human ever touching software. For instance, instead of a human using QuickBooks to categorize transactions, Claude Cowork can access financial data, apply tax logic and autonomously prepare documents. Rather than using TurboTax, agentic AI tools can handle complex tax logic and even file taxes. In lieu of QuickBooks, automated agents can handle multi-step bookkeeping tasks (like lining up receipts).Why investors are repricing SaaSIntuit has been among the hardest-hit, with its market capitalization now sitting at around $106 billion. The catalyst has been the emergence of fully agentic, no-code AI assistants like Claude Cowork and open-source tools like OpenClaw, whose founder was recently acqui-hired by OpenAI. Fears are that these cheaper service-as-a-service offerings (or service-as-software, or results-as-a-service, depending on who you ask) will upend pay-per-seat subscriptions; whereas traditional SaaS delivers a tool (software) for users to complete a task, service-as-a-service delivers a fully-automated outcome.For instance, Anthropic&#x27;s Cowork platform includes finance capabilities that allow the agent to read financial files and turn them into structured models, tables and reports. “The advantage is that I am abstracting away the complexity of my business operations,” said Brian Jackson, principal research director at Info-Tech Research Group (who prefers to call it \"service-as-software\"). “To hear about a model where you only pay when you get the outcome that you want, that&#x27;s very appealing.”This emerging capability is in line with past technological advancements, he pointed out: IT departments used to be in charge of running infrastructure, but cloud computing came along to abstract away that management. Then, SaaS tools emerged to orchestrate the application layer. Now users manage their work — inputting data, filling out forms, creating analytics dashboards — within SaaS apps. “So the next step is automated intelligence,” Jackson said. “Instead of having people do those things, we&#x27;ll just have AI do them.” Essentially, it could become a headless system without a UI; users simply let it run and don’t think about it. This new concept comes at a time when enterprises are becoming fed up with the SaaS business model, he noted. Lock-in is frustrating, fees continue to go up, seats expand, and “it becomes this unwieldy operating cost,” Jackson said. “And it&#x27;s not always guaranteed to drive value, it doesn&#x27;t guarantee ROI at all.”Why Intuit got hit the hardestIntuit, which was founded in 1983, now serves around 100 million customers with a suite of products that, in addition to QuickBooks and TurboTax, include Mailchimp and Credit Karma. But these core offerings are now considered low-hanging fruit for AI, potentially endangering the company whose revenue model relies heavily on per-seat/per-user subscriptions.Intuit&#x27;s CEO Sasan Goodarzi has recently shrugged off SaaSpocalypse claims, calling data the “most important moat” in a Semafor interview. Marianna Tessel, EVP and GM for Intuit&#x27;s small business group, takes the same stance. Yes, Claude Cowork and similar agentic tools are “robust” tools, she noted, but Intuit has “persistent” and “durable” advantages. Notably: First-party data. Customers generate various types of data on Intuit’s systems, whether it’s by creating an invoice, importing ledgers or performing various finance projects. Then there’s third-party data, which is generated through Intuit’s connections with 24,000-plus banks, e-commerce sites and other entities, Tessel pointed out. AI agents simply do not have access to this “vastness” of data, she contended. Further, Intuit knows how to organize and use data, such as stitching together information across customer segments to provide market snapshots. “We understand this data, we know how to turn it into action,” Tessel argued. She also doubled down on Intuit’s deep understanding of its customers. Rather than a chatbot that can process and act on numbers and figures, “we know what small businesses face,” she said, whether it’s their concerns around bookkeeping and payroll, or their struggles with hiring. “We&#x27;ve been in business for over 40 years,” Tessel noted. “We have a lot of know-how that is very specific.”Other SaaS companies stand staunchly behind this argument. Jon Aniano, Zendesk’s SVP of product and CRM applications, pointed out that his company serves 80,000 customers and deeply understands their needs. “We actually see [general purpose agentic tools] at a disadvantage because they&#x27;ve gotta go customer by customer and learn things that we&#x27;ve learned over the course of 20 years,” he said at a recent VentureBeat event. The data moat argument does hold up, noted Info-Tech’s Jackson. He also pointed out that, realistically, the SaaS market is projected to grow at a “pretty good clip” in the years ahead. “Could that change very quickly? It&#x27;s possible, but it&#x27;s unlikely,” he said. Also, SaaS is so entrenched in modern business, and pivoting to something entirely new can be a challenge. Even disruptive and compelling technologies like AI can take time to deploy at scale because enterprises have to recraft their workflows, Jackson noted. “You have workers in place. You have departments in place. It just takes effort and time to change the processes and the expectations around these things,” he said, although “the appetite will definitely be there.”How Intuit is betting on what agents can&#x27;t replicate To get ahead of this, Intuit recently signed a multi-year partnership with Anthropic to bring AI agents to mid-market businesses. Using Anthropic&#x27;s Claude Agent SDK on the Intuit platform, enterprises will be able to build and customize agents. On the other end, Intuit&#x27;s tools can be surfaced directly inside Anthropic products such as Cowork, Claude for Enterprise, and Claude.ai through Model Context Protocol (MCP) integrations with TurboTax, Credit Karma, QuickBooks and Mailchimp.This builds on Intuit’s previous rollout of Intuit Intelligence, which features specialized AI agents for sales, tax, payroll, accounting and project management. Users can query and interact with their financial data in natural language, automate tasks and generate dynamic reports or KPI scorecards. “They have the data, they have the interface, and now they&#x27;re introducing themselves as an orchestration layer,” Jackson said of moves like this by large SaaS players. “We can be the place where you build your agents and manage them.”To this point, Tessel calls Intuit “a well-run company” that can react with speed. Her team keeps up with orchestration advancements, reads academic papers and is “constantly learning” about new technologies. “We’re on it,” she said.”Ultimately, companies must be “awake and aware right now,” she emphasized. As she put it: “What&#x27;s the pivot of the day? How many times did you pivot? Are you experimenting?”Zendesk’s Aniano agreed that there are “cool new ways of developing software,” and acknowledged that he “lives” 90 to 120 minutes of his day inside Claude Code. Companies that can make the “mental shift” to building software in new ways can create a level playing field between incumbents and startups. One thing that&#x27;ll be interesting to see is how quickly SaaS providers offer MCP plugins or build their own within their software suites, Jackson noted. “How good will these SaaS providers be at supporting AI interoperability?” he said. “And what ways will they try to create friction or make it harder for enterprises to abandon their interface?”",
-          "content": "Intuit has lost more than 40% of its market cap since the beginning of the year. It&#x27;s not alone. Many established SaaS players have seen their stock prices fall in recent months, including Adobe and IBM — the latter experiencing its most significant one-day drop (roughly $40 billion) with Anthropic&#x27;s announcement that Claude could now read, analyze and translate legacy COBOL into modern languages like Java and Python. The market has a name for it: the SaaSpocalypse.The argument from investors and market watchers: AI agents can now do bookkeeping, file taxes and reconcile accounts — without a human ever touching software. For instance, instead of a human using QuickBooks to categorize transactions, Claude Cowork can access financial data, apply tax logic and autonomously prepare documents. Rather than using TurboTax, agentic AI tools can handle complex tax logic and even file taxes. In lieu of QuickBooks, automated agents can handle multi-step bookkeeping tasks (like lining up receipts).Why investors are repricing SaaSIntuit has been among the hardest-hit, with its market capitalization now sitting at around $106 billion. The catalyst has been the emergence of fully agentic, no-code AI assistants like Claude Cowork and open-source tools like OpenClaw, whose founder was recently acqui-hired by OpenAI. Fears are that these cheaper service-as-a-service offerings (or service-as-software, or results-as-a-service, depending on who you ask) will upend pay-per-seat subscriptions; whereas traditional SaaS delivers a tool (software) for users to complete a task, service-as-a-service delivers a fully-automated outcome.For instance, Anthropic&#x27;s Cowork platform includes finance capabilities that allow the agent to read financial files and turn them into structured models, tables and reports. “The advantage is that I am abstracting away the complexity of my business operations,” said Brian Jackson, principal research director at Info-Tech Research Group (who prefers to call it \"service-as-software\"). “To hear about a model where you only pay when you get the outcome that you want, that&#x27;s very appealing.”This emerging capability is in line with past technological advancements, he pointed out: IT departments used to be in charge of running infrastructure, but cloud computing came along to abstract away that management. Then, SaaS tools emerged to orchestrate the application layer. Now users manage their work — inputting data, filling out forms, creating analytics dashboards — within SaaS apps. “So the next step is automated intelligence,” Jackson said. “Instead of having people do those things, we&#x27;ll just have AI do them.” Essentially, it could become a headless system without a UI; users simply let it run and don’t think about it. This new concept comes at a time when enterprises are becoming fed up with the SaaS business model, he noted. Lock-in is frustrating, fees continue to go up, seats expand, and “it becomes this unwieldy operating cost,” Jackson said. “And it&#x27;s not always guaranteed to drive value, it doesn&#x27;t guarantee ROI at all.”Why Intuit got hit the hardestIntuit, which was founded in 1983, now serves around 100 million customers with a suite of products that, in addition to QuickBooks and TurboTax, include Mailchimp and Credit Karma. But these core offerings are now considered low-hanging fruit for AI, potentially endangering the company whose revenue model relies heavily on per-seat/per-user subscriptions.Intuit&#x27;s CEO Sasan Goodarzi has recently shrugged off SaaSpocalypse claims, calling data the “most important moat” in a Semafor interview. Marianna Tessel, EVP and GM for Intuit&#x27;s small business group, takes the same stance. Yes, Claude Cowork and similar agentic tools are “robust” tools, she noted, but Intuit has “persistent” and “durable” advantages. Notably: First-party data. Customers generate various types of data on Intuit’s systems, whether it’s by creating an invoice, importing ledgers or performing various finance projects. Then there’s third-party data, which is generated through Intuit’s connections with 24,000-plus banks, e-commerce sites and other entities, Tessel pointed out. AI agents simply do not have access to this “vastness” of data, she contended. Further, Intuit knows how to organize and use data, such as stitching together information across customer segments to provide market snapshots. “We understand this data, we know how to turn it into action,” Tessel argued. She also doubled down on Intuit’s deep understanding of its customers. Rather than a chatbot that can process and act on numbers and figures, “we know what small businesses face,” she said, whether it’s their concerns around bookkeeping and payroll, or their struggles with hiring. “We&#x27;ve been in business for over 40 years,” Tessel noted. “We have a lot of know-how that is very specific.”Other SaaS companies stand staunchly behind this argument. Jon Aniano, Zendesk’s SVP of product and CRM applications, pointed out that his company serves 80,000 customers and deeply understands their needs. “We actually see [general purpose agentic tools] at a disadvantage because they&#x27;ve gotta go customer by customer and learn things that we&#x27;ve learned over the course of 20 years,” he said at a recent VentureBeat event. The data moat argument does hold up, noted Info-Tech’s Jackson. He also pointed out that, realistically, the SaaS market is projected to grow at a “pretty good clip” in the years ahead. “Could that change very quickly? It&#x27;s possible, but it&#x27;s unlikely,” he said. Also, SaaS is so entrenched in modern business, and pivoting to something entirely new can be a challenge. Even disruptive and compelling technologies like AI can take time to deploy at scale because enterprises have to recraft their workflows, Jackson noted. “You have workers in place. You have departments in place. It just takes effort and time to change the processes and the expectations around these things,” he said, although “the appetite will definitely be there.”How Intuit is betting on what agents can&#x27;t replicate To get ahead of this, Intuit recently signed a multi-year partnership with Anthropic to bring AI agents to mid-market businesses. Using Anthropic&#x27;s Claude Agent SDK on the Intuit platform, enterprises will be able to build and customize agents. On the other end, Intuit&#x27;s tools can be surfaced directly inside Anthropic products such as Cowork, Claude for Enterprise, and Claude.ai through Model Context Protocol (MCP) integrations with TurboTax, Credit Karma, QuickBooks and Mailchimp.This builds on Intuit’s previous rollout of Intuit Intelligence, which features specialized AI agents for sales, tax, payroll, accounting and project management. Users can query and interact with their financial data in natural language, automate tasks and generate dynamic reports or KPI scorecards. “They have the data, they have the interface, and now they&#x27;re introducing themselves as an orchestration layer,” Jackson said of moves like this by large SaaS players. “We can be the place where you build your agents and manage them.”To this point, Tessel calls Intuit “a well-run company” that can react with speed. Her team keeps up with orchestration advancements, reads academic papers and is “constantly learning” about new technologies. “We’re on it,” she said.”Ultimately, companies must be “awake and aware right now,” she emphasized. As she put it: “What&#x27;s the pivot of the day? How many times did you pivot? Are you experimenting?”Zendesk’s Aniano agreed that there are “cool new ways of developing software,” and acknowledged that he “lives” 90 to 120 minutes of his day inside Claude Code. Companies that can make the “mental shift” to building software in new ways can create a level playing field between incumbents and startups. One thing that&#x27;ll be interesting to see is how quickly SaaS providers offer MCP plugins or build their own within their software suites, Jackson noted. “How good will these SaaS providers be at supporting AI interoperability?” he said. “And what ways will they try to create friction or make it harder for enterprises to abandon their interface?”",
+          "standfirst": "Intuit has lost around a third of its market cap since the beginning of the year. It&#x27;s not alone. Many established SaaS players have seen their stock prices fall in recent months, including Adobe and IBM — the latter experiencing its most significant one-day drop (roughly $40 billion) with Anthropic&#x27;s announcement that Claude could now read, analyze and translate legacy COBOL into modern languages like Java and Python. The market has a name for it: the SaaSpocalypse.The argument from investors and market watchers: AI agents can now do bookkeeping, file taxes and reconcile accounts — without a human ever touching software. For instance, instead of a human using QuickBooks to categorize transactions, Claude Cowork can access financial data, apply tax logic and autonomously prepare documents. Rather than using TurboTax, agentic AI tools can handle complex tax logic and even file taxes. In lieu of QuickBooks, automated agents can handle multi-step bookkeeping tasks (like lining up receipts).Why investors are repricing SaaSIntuit has been among the hardest-hit, with its market capitalization now sitting at around $114 billion.The catalyst has been the emergence of fully agentic, no-code AI assistants like Claude Cowork and open-source tools like OpenClaw, whose founder was recently acqui-hired by OpenAI. Fears are that these cheaper service-as-a-service offerings (or service-as-software, or results-as-a-service, depending on who you ask) will upend pay-per-seat subscriptions; whereas traditional SaaS delivers a tool (software) for users to complete a task, service-as-a-service delivers a fully-automated outcome.For instance, Anthropic&#x27;s Cowork platform includes finance capabilities that allow the agent to read financial files and turn them into structured models, tables and reports. “The advantage is that I am abstracting away the complexity of my business operations,” said Brian Jackson, principal research director at Info-Tech Research Group (who prefers to call it \"service-as-software\"). “To hear about a model where you only pay when you get the outcome that you want, that&#x27;s very appealing.”This emerging capability is in line with past technological advancements, he pointed out: IT departments used to be in charge of running infrastructure, but cloud computing came along to abstract away that management. Then, SaaS tools emerged to orchestrate the application layer. Now users manage their work — inputting data, filling out forms, creating analytics dashboards — within SaaS apps. “So the next step is automated intelligence,” Jackson said. “Instead of having people do those things, we&#x27;ll just have AI do them.” Essentially, it could become a headless system without a UI; users simply let it run and don’t think about it. This new concept comes at a time when enterprises are becoming fed up with the SaaS business model, he noted. Lock-in is frustrating, fees continue to go up, seats expand, and “it becomes this unwieldy operating cost,” Jackson said. “And it&#x27;s not always guaranteed to drive value, it doesn&#x27;t guarantee ROI at all.”Why Intuit got hit the hardestIntuit, which was founded in 1983, now serves around 100 million customers with a suite of products that, in addition to QuickBooks and TurboTax, include Mailchimp and Credit Karma. But these core offerings are now considered low-hanging fruit for AI, potentially endangering the company whose revenue model relies heavily on per-seat/per-user subscriptions.Intuit&#x27;s CEO Sasan Goodarzi has recently shrugged off SaaSpocalypse claims, calling data the “most important moat” in a Semafor interview. Marianna Tessel, EVP and GM for Intuit&#x27;s small business group, takes the same stance. Yes, Claude Cowork and similar agentic tools are “robust” tools, she noted, but Intuit has “persistent” and “durable” advantages. Notably: First-party data. Customers generate various types of data on Intuit’s systems, whether it’s by creating an invoice, importing ledgers or performing various finance projects. Then there’s third-party data, which is generated through Intuit’s connections with 24,000-plus banks, e-commerce sites and other entities, Tessel pointed out. AI agents simply do not have access to this “vastness” of data, she contended. Further, Intuit knows how to organize and use data, such as stitching together information across customer segments to provide market snapshots. “We understand this data, we know how to turn it into action,” Tessel argued. She also doubled down on Intuit’s deep understanding of its customers. Rather than a chatbot that can process and act on numbers and figures, “we know what small businesses face,” she said, whether it’s their concerns around bookkeeping and payroll, or their struggles with hiring. “We&#x27;ve been in business for over 40 years,” Tessel noted. “We have a lot of know-how that is very specific.”Other SaaS companies stand staunchly behind this argument. Jon Aniano, Zendesk’s SVP of product and CRM applications, pointed out that his company serves 80,000 customers and deeply understands their needs. “We actually see [general purpose agentic tools] at a disadvantage because they&#x27;ve gotta go customer by customer and learn things that we&#x27;ve learned over the course of 20 years,” he said at a recent VentureBeat event. The data moat argument does hold up, noted Info-Tech’s Jackson. He also pointed out that, realistically, the SaaS market is projected to grow at a “pretty good clip” in the years ahead. “Could that change very quickly? It&#x27;s possible, but it&#x27;s unlikely,” he said. Also, SaaS is so entrenched in modern business, and pivoting to something entirely new can be a challenge. Even disruptive and compelling technologies like AI can take time to deploy at scale because enterprises have to recraft their workflows, Jackson noted. “You have workers in place. You have departments in place. It just takes effort and time to change the processes and the expectations around these things,” he said, although “the appetite will definitely be there.”How Intuit is betting on what agents can&#x27;t replicate To get ahead of this, Intuit recently signed a multi-year partnership with Anthropic to bring AI agents to mid-market businesses. Using Anthropic&#x27;s Claude Agent SDK on the Intuit platform, enterprises will be able to build and customize agents. On the other end, Intuit&#x27;s tools can be surfaced directly inside Anthropic products such as Cowork, Claude for Enterprise, and Claude.ai through Model Context Protocol (MCP) integrations with TurboTax, Credit Karma, QuickBooks and Mailchimp.This builds on Intuit’s previous rollout of Intuit Intelligence, which features specialized AI agents for sales, tax, payroll, accounting and project management. Users can query and interact with their financial data in natural language, automate tasks and generate dynamic reports or KPI scorecards. “They have the data, they have the interface, and now they&#x27;re introducing themselves as an orchestration layer,” Jackson said of moves like this by large SaaS players. “We can be the place where you build your agents and manage them.”To this point, Tessel calls Intuit “a well-run company” that can react with speed. Her team keeps up with orchestration advancements, reads academic papers and is “constantly learning” about new technologies. “We’re on it,” she said.”Ultimately, companies must be “awake and aware right now,” she emphasized. As she put it: “What&#x27;s the pivot of the day? How many times did you pivot? Are you experimenting?”Zendesk’s Aniano agreed that there are “cool new ways of developing software,” and acknowledged that he “lives” 90 to 120 minutes of his day inside Claude Code. Companies that can make the “mental shift” to building software in new ways can create a level playing field between incumbents and startups. One thing that&#x27;ll be interesting to see is how quickly SaaS providers offer MCP plugins or build their own within their software suites, Jackson noted. “How good will these SaaS providers be at supporting AI interoperability?” he said. “And what ways will they try to create friction or make it harder for enterprises to abandon their interface?”Editor&#x27;s note: This article has been updated to reflect Intuit&#x27;s current market cap decline of approximately 33% year-to-date.",
+          "content": "Intuit has lost around a third of its market cap since the beginning of the year. It&#x27;s not alone. Many established SaaS players have seen their stock prices fall in recent months, including Adobe and IBM — the latter experiencing its most significant one-day drop (roughly $40 billion) with Anthropic&#x27;s announcement that Claude could now read, analyze and translate legacy COBOL into modern languages like Java and Python. The market has a name for it: the SaaSpocalypse.The argument from investors and market watchers: AI agents can now do bookkeeping, file taxes and reconcile accounts — without a human ever touching software. For instance, instead of a human using QuickBooks to categorize transactions, Claude Cowork can access financial data, apply tax logic and autonomously prepare documents. Rather than using TurboTax, agentic AI tools can handle complex tax logic and even file taxes. In lieu of QuickBooks, automated agents can handle multi-step bookkeeping tasks (like lining up receipts).Why investors are repricing SaaSIntuit has been among the hardest-hit, with its market capitalization now sitting at around $114 billion.The catalyst has been the emergence of fully agentic, no-code AI assistants like Claude Cowork and open-source tools like OpenClaw, whose founder was recently acqui-hired by OpenAI. Fears are that these cheaper service-as-a-service offerings (or service-as-software, or results-as-a-service, depending on who you ask) will upend pay-per-seat subscriptions; whereas traditional SaaS delivers a tool (software) for users to complete a task, service-as-a-service delivers a fully-automated outcome.For instance, Anthropic&#x27;s Cowork platform includes finance capabilities that allow the agent to read financial files and turn them into structured models, tables and reports. “The advantage is that I am abstracting away the complexity of my business operations,” said Brian Jackson, principal research director at Info-Tech Research Group (who prefers to call it \"service-as-software\"). “To hear about a model where you only pay when you get the outcome that you want, that&#x27;s very appealing.”This emerging capability is in line with past technological advancements, he pointed out: IT departments used to be in charge of running infrastructure, but cloud computing came along to abstract away that management. Then, SaaS tools emerged to orchestrate the application layer. Now users manage their work — inputting data, filling out forms, creating analytics dashboards — within SaaS apps. “So the next step is automated intelligence,” Jackson said. “Instead of having people do those things, we&#x27;ll just have AI do them.” Essentially, it could become a headless system without a UI; users simply let it run and don’t think about it. This new concept comes at a time when enterprises are becoming fed up with the SaaS business model, he noted. Lock-in is frustrating, fees continue to go up, seats expand, and “it becomes this unwieldy operating cost,” Jackson said. “And it&#x27;s not always guaranteed to drive value, it doesn&#x27;t guarantee ROI at all.”Why Intuit got hit the hardestIntuit, which was founded in 1983, now serves around 100 million customers with a suite of products that, in addition to QuickBooks and TurboTax, include Mailchimp and Credit Karma. But these core offerings are now considered low-hanging fruit for AI, potentially endangering the company whose revenue model relies heavily on per-seat/per-user subscriptions.Intuit&#x27;s CEO Sasan Goodarzi has recently shrugged off SaaSpocalypse claims, calling data the “most important moat” in a Semafor interview. Marianna Tessel, EVP and GM for Intuit&#x27;s small business group, takes the same stance. Yes, Claude Cowork and similar agentic tools are “robust” tools, she noted, but Intuit has “persistent” and “durable” advantages. Notably: First-party data. Customers generate various types of data on Intuit’s systems, whether it’s by creating an invoice, importing ledgers or performing various finance projects. Then there’s third-party data, which is generated through Intuit’s connections with 24,000-plus banks, e-commerce sites and other entities, Tessel pointed out. AI agents simply do not have access to this “vastness” of data, she contended. Further, Intuit knows how to organize and use data, such as stitching together information across customer segments to provide market snapshots. “We understand this data, we know how to turn it into action,” Tessel argued. She also doubled down on Intuit’s deep understanding of its customers. Rather than a chatbot that can process and act on numbers and figures, “we know what small businesses face,” she said, whether it’s their concerns around bookkeeping and payroll, or their struggles with hiring. “We&#x27;ve been in business for over 40 years,” Tessel noted. “We have a lot of know-how that is very specific.”Other SaaS companies stand staunchly behind this argument. Jon Aniano, Zendesk’s SVP of product and CRM applications, pointed out that his company serves 80,000 customers and deeply understands their needs. “We actually see [general purpose agentic tools] at a disadvantage because they&#x27;ve gotta go customer by customer and learn things that we&#x27;ve learned over the course of 20 years,” he said at a recent VentureBeat event. The data moat argument does hold up, noted Info-Tech’s Jackson. He also pointed out that, realistically, the SaaS market is projected to grow at a “pretty good clip” in the years ahead. “Could that change very quickly? It&#x27;s possible, but it&#x27;s unlikely,” he said. Also, SaaS is so entrenched in modern business, and pivoting to something entirely new can be a challenge. Even disruptive and compelling technologies like AI can take time to deploy at scale because enterprises have to recraft their workflows, Jackson noted. “You have workers in place. You have departments in place. It just takes effort and time to change the processes and the expectations around these things,” he said, although “the appetite will definitely be there.”How Intuit is betting on what agents can&#x27;t replicate To get ahead of this, Intuit recently signed a multi-year partnership with Anthropic to bring AI agents to mid-market businesses. Using Anthropic&#x27;s Claude Agent SDK on the Intuit platform, enterprises will be able to build and customize agents. On the other end, Intuit&#x27;s tools can be surfaced directly inside Anthropic products such as Cowork, Claude for Enterprise, and Claude.ai through Model Context Protocol (MCP) integrations with TurboTax, Credit Karma, QuickBooks and Mailchimp.This builds on Intuit’s previous rollout of Intuit Intelligence, which features specialized AI agents for sales, tax, payroll, accounting and project management. Users can query and interact with their financial data in natural language, automate tasks and generate dynamic reports or KPI scorecards. “They have the data, they have the interface, and now they&#x27;re introducing themselves as an orchestration layer,” Jackson said of moves like this by large SaaS players. “We can be the place where you build your agents and manage them.”To this point, Tessel calls Intuit “a well-run company” that can react with speed. Her team keeps up with orchestration advancements, reads academic papers and is “constantly learning” about new technologies. “We’re on it,” she said.”Ultimately, companies must be “awake and aware right now,” she emphasized. As she put it: “What&#x27;s the pivot of the day? How many times did you pivot? Are you experimenting?”Zendesk’s Aniano agreed that there are “cool new ways of developing software,” and acknowledged that he “lives” 90 to 120 minutes of his day inside Claude Code. Companies that can make the “mental shift” to building software in new ways can create a level playing field between incumbents and startups. One thing that&#x27;ll be interesting to see is how quickly SaaS providers offer MCP plugins or build their own within their software suites, Jackson noted. “How good will these SaaS providers be at supporting AI interoperability?” he said. “And what ways will they try to create friction or make it harder for enterprises to abandon their interface?”Editor&#x27;s note: This article has been updated to reflect Intuit&#x27;s current market cap decline of approximately 33% year-to-date.",
           "feed_position": 0,
           "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6rlm4w3OTWpmO2GUL0d2aJ/41543179ef08d089795f7ed3d94a9aa3/SaaS.png?w=300&q=30"
         },
@@ -259,44 +292,10 @@
         }
       ],
       "featured_image": "https://images.ctfassets.net/jdtwqhzvc2n1/6rlm4w3OTWpmO2GUL0d2aJ/41543179ef08d089795f7ed3d94a9aa3/SaaS.png?w=300&q=30",
-      "popularity_score": 2017.6803441666666
+      "popularity_score": 2012.298605
     },
     {
-      "id": "cluster_47",
-      "coverage": 2,
-      "updated_at": "2026-03-02T12:58:05-05:00",
-      "title": "AI-generated art can&#8217;t be copyrighted after Supreme Court declines to review the rule",
-      "neutral_headline": "AI-generated art can&#8217;t be copyrighted after Supreme Court declines...",
-      "bullet_summary": [
-        "The US Supreme Court has declined to hear a case over whether AI-generated art can obtain a copyright, as reported earlier by Reuters",
-        "The Monday decision comes after Stephen Thaler, a computer scientist from Missouri, appealed a court's decision to uphold a ruling that found AI-generated art can't be copyrighted"
-      ],
-      "items": [
-        {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright",
-          "published_at": "2026-03-02T12:58:05-05:00",
-          "title": "AI-generated art can&#8217;t be copyrighted after Supreme Court declines to review the rule",
-          "standfirst": "The US Supreme Court has declined to hear a case over whether AI-generated art can obtain a copyright, as reported earlier by Reuters. The Monday decision comes after Stephen Thaler, a computer scientist from Missouri, appealed a court's decision to uphold a ruling that found AI-generated art can't be copyrighted. In 2019, the US Copyright [&#8230;]",
-          "content": "The US Supreme Court has declined to hear a case over whether AI-generated art can obtain a copyright, as reported earlier by Reuters. The Monday decision comes after Stephen Thaler, a computer scientist from Missouri, appealed a court's decision to uphold a ruling that found AI-generated art can't be copyrighted. In 2019, the US Copyright Office rejected Thaler's request to copyright an image, called A Recent Entrance to Paradise, on behalf of an algorithm he created. The Copyright Office reviewed the decision in 2022 and determined that the image doesn't include \"human authorship,\" disqualifying it from copyright protection. After Thale … Read the full story at The Verge.",
-          "feed_position": 7
-        },
-        {
-          "source": "TechMeme",
-          "url": "http://www.techmeme.com/260302/p27#a260302p27",
-          "published_at": "Mon, 02 Mar 2026 10:40:02 -0500",
-          "title": "SCOTUS declines to hear a dispute over copyrights for AI-generated material, in a case where a computer scientist was denied a copyright for AI-generated art (Blake Brittain/Reuters)",
-          "standfirst": "Blake Brittain / Reuters: SCOTUS declines to hear a dispute over copyrights for AI-generated material, in a case where a computer scientist was denied a copyright for AI-generated art &mdash; The U.S. Supreme Court declined on Monday to take up the issue of whether art generated by artificial intelligence &hellip;",
-          "content": "Blake Brittain / Reuters: SCOTUS declines to hear a dispute over copyrights for AI-generated material, in a case where a computer scientist was denied a copyright for AI-generated art &mdash; The U.S. Supreme Court declined on Monday to take up the issue of whether art generated by artificial intelligence &hellip;",
-          "feed_position": 13,
-          "image_url": "http://www.techmeme.com/260302/i27.jpg"
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/260302/i27.jpg",
-      "popularity_score": 2014.6483997222222
-    },
-    {
-      "id": "cluster_74",
+      "id": "cluster_79",
       "coverage": 2,
       "updated_at": "Mon, 02 Mar 2026 14:58:04 GMT",
       "title": "Apple's new M4 iPad Air is here - and it's twice as fast as your old M1 model",
@@ -321,17 +320,17 @@
           "title": "Apple bakes in AI smarts into its new $599 iPhone 17e",
           "standfirst": "The base model comes with 256 GB of storage, which Apple says is twice the entry storage from the previous generation at the same starting price.",
           "content": "The base model comes with 256 GB of storage, which Apple says is twice the entry storage from the previous generation at the same starting price.",
-          "feed_position": 12
+          "feed_position": 15
         }
       ],
-      "popularity_score": 2011.6481219444445
+      "popularity_score": 2006.2663827777778
     },
     {
-      "id": "cluster_10",
+      "id": "cluster_26",
       "coverage": 1,
       "updated_at": "Mon, 02 Mar 2026 22:27:52 +0000",
-      "title": "Oops: South Korean cops lost $5M in seized crypto after leaking wallet password",
-      "neutral_headline": "Oops: South Korean cops lost $5M in seized crypto after leaking wallet password",
+      "title": "Clueless cops post seized crypto wallet password. $5M quickly stolen.",
+      "neutral_headline": "Clueless cops post seized crypto wallet password. $5M quickly stolen.",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -340,7 +339,7 @@
           "source": "Ars Technica",
           "url": "https://arstechnica.com/tech-policy/2026/03/oops-south-korean-cops-lost-5m-in-seized-crypto-after-leaking-wallet-password/",
           "published_at": "Mon, 02 Mar 2026 22:27:52 +0000",
-          "title": "Oops: South Korean cops lost $5M in seized crypto after leaking wallet password",
+          "title": "Clueless cops post seized crypto wallet password. $5M quickly stolen.",
           "standfirst": "South Korean police deeply apologized for preventable loss of seized funds.",
           "content": "Soon after South Korean police posted a press release boasting about seizing $5.6 million worth of cryptocurrency from 124 wealthy tax evaders, cops realized that they had mistakenly posted images that made it possible for a thief to quickly steal most of the seized assets. Eventually, the press release was removed, but not before it was grabbed by local media outlets and tech publications covering the theft. Bleeping Computer shared a screenshot of the retracted images, which showed a handwritten note next to a Ledger device that's used as a so-called \"cold wallet\" to store crypto out of reach of online threats. Clearly legible in the photo, the note contained a complete mnemonic recovery phrase that anyone can use as a master key to move assets off the cold wallet to a new wallet without any additional PIN or permissions required.Read full article Comments",
           "feed_position": 0,
@@ -348,10 +347,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1251331351-1152x648.jpg",
-      "popularity_score": 360.1447886111111
+      "popularity_score": 354.76304944444445
     },
     {
-      "id": "cluster_45",
+      "id": "cluster_54",
       "coverage": 1,
       "updated_at": "Mon, 02 Mar 2026 18:19:03 +0000",
       "title": "Charter gets FCC permission to buy Cox and become largest ISP in the US",
@@ -372,10 +371,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/cox-truck-1152x648-1772475039.jpg",
-      "popularity_score": 337.99784416666665
+      "popularity_score": 332.616105
     },
     {
-      "id": "cluster_72",
+      "id": "cluster_77",
       "coverage": 1,
       "updated_at": "Mon, 02 Mar 2026 15:06:00 +0000",
       "title": "$599 M4 iPad Air is a lot like the old one, but with a substantial RAM boost",
@@ -396,10 +395,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/ipad-air-m4-1152x648.jpg",
-      "popularity_score": 329.7803441666667
+      "popularity_score": 324.398605
     },
     {
-      "id": "cluster_65",
+      "id": "cluster_71",
       "coverage": 1,
       "updated_at": "Mon, 02 Mar 2026 15:34:42 +0000",
       "title": "Iowa county adopts strict zoning rules for data centers, but residents still worry",
@@ -420,10 +419,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/iowadatacenter-1152x648.jpg",
-      "popularity_score": 325.2586775
+      "popularity_score": 319.8769383333333
     },
     {
-      "id": "cluster_77",
+      "id": "cluster_82",
       "coverage": 1,
       "updated_at": "Mon, 02 Mar 2026 14:34:52 +0000",
       "title": "Apple's new iPhone 17e has an A19 chip, MagSafe, and 256GB of storage for $599",
@@ -444,10 +443,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/Apple-iPhone-17e-family-lineup-260302-1152x648-1772463997.jpg",
-      "popularity_score": 306.26145527777777
+      "popularity_score": 300.8797161111111
     },
     {
-      "id": "cluster_75",
+      "id": "cluster_80",
       "coverage": 1,
       "updated_at": "Mon, 02 Mar 2026 14:45:05 +0000",
       "title": "Research roundup: Six cool science stories we almost missed",
@@ -468,10 +467,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/blackhole-1152x648.jpg",
-      "popularity_score": 304.4317330555556
+      "popularity_score": 299.0499938888889
     },
     {
-      "id": "cluster_81",
+      "id": "cluster_86",
       "coverage": 1,
       "updated_at": "Mon, 02 Mar 2026 14:00:01 +0000",
       "title": "It's almost a station wagon: The 2026 Subaru Trailseeker, driven",
@@ -492,10 +491,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/2026_Subaru_Trailerseeker_16-1152x648.jpg",
-      "popularity_score": 298.68062194444445
+      "popularity_score": 293.29888277777775
     },
     {
-      "id": "cluster_85",
+      "id": "cluster_90",
       "coverage": 1,
       "updated_at": "Mon, 02 Mar 2026 13:58:30 +0000",
       "title": "Former NASA chief turned ULA lobbyist seeks law to limit SpaceX funding",
@@ -516,10 +515,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/KSC-20200119-PH-KLS01_0182medium-1152x648.jpg",
-      "popularity_score": 281.6553441666667
+      "popularity_score": 276.273605
     },
     {
-      "id": "cluster_98",
+      "id": "cluster_103",
       "coverage": 1,
       "updated_at": "Mon, 02 Mar 2026 08:00:29 +0000",
       "title": "AMD Ryzen AI 400 chips will bring newer CPUs, GPUs, and NPUs to AM5 desktops",
@@ -540,10 +539,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/ryzen-ai-400-desktop-1152x648.jpg",
-      "popularity_score": 262.68839972222224
+      "popularity_score": 258
     },
     {
-      "id": "cluster_88",
+      "id": "cluster_93",
       "coverage": 1,
       "updated_at": "Mon, 02 Mar 2026 12:00:01 +0000",
       "title": "Trump FCC's equal-time crackdown doesn't apply equally—or at all—to talk radio",
@@ -564,10 +563,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/stephen-colbert-with-talarico-1152x648-1772225883.jpg",
-      "popularity_score": 261.68062194444445
+      "popularity_score": 256.29888277777775
     },
     {
-      "id": "cluster_111",
+      "id": "cluster_113",
       "coverage": 1,
       "updated_at": "Sun, 01 Mar 2026 12:07:22 +0000",
       "title": "The strange animals that control their body heat",
