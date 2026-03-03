@@ -1,17 +1,61 @@
 {
   "clinical": {
-    "updated_at": "2026-03-03T04:41:52.983Z",
+    "updated_at": "2026-03-03T11:26:19.259Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-03-03T04:41:52.984Z",
+    "updated_at": "2026-03-03T11:26:19.259Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-03-03T04:41:56.583Z",
+    "updated_at": "2026-03-03T11:26:21.899Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Tue, 03 Mar 2026 10:00:00 GMT",
+        "title": "Inside Health",
+        "neutral_headline": "Inside Health",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.co.uk/sounds/play/m002s4cx?at_medium=RSS&at_campaign=rss",
+            "published_at": "Tue, 03 Mar 2026 10:00:00 GMT",
+            "title": "Inside Health",
+            "standfirst": "James investigates penis fillers, where hyaluronic acid is injected to increase girth.",
+            "content": "James investigates penis fillers, where hyaluronic acid is injected to increase girth.",
+            "feed_position": 48,
+            "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1r8h6.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1r8h6.jpg"
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Tue, 03 Mar 2026 07:30:32 GMT",
+        "title": "Lucy Letby case expert witness was under fitness-to-practise investigation during trial",
+        "neutral_headline": "Lucy Letby case expert witness was under...",
+        "bullet_summary": [
+          "Reported by Guardian Health"
+        ],
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/uk-news/2026/mar/03/lucy-letby-case-expert-witness-peter-hindmarsh-was-under-fitness-to-practise-investigation-during-trial",
+            "published_at": "Tue, 03 Mar 2026 07:30:32 GMT",
+            "title": "Lucy Letby case expert witness was under fitness-to-practise investigation during trial",
+            "standfirst": "Exclusive: Jury was never told about inquiry into key prosecution witness Peter Hindmarsh, which looked into allegations including of harm to patientsA doctor who gave crucial expert evidence about insulin poisoning for the prosecution of the nurse Lucy Letby was under investigation by the medical regulator at the time due to serious concerns about his fitness to practise.The General Medical Council (GMC) opened an investigation into concerns about Prof Peter Hindmarsh, including that he had harmed patients, on the first day he gave evidence at Letby’s trial in late 2022. Continue reading...",
+            "content": "Exclusive: Jury was never told about inquiry into key prosecution witness Peter Hindmarsh, which looked into allegations including of harm to patientsA doctor who gave crucial expert evidence about insulin poisoning for the prosecution of the nurse Lucy Letby was under investigation by the medical regulator at the time due to serious concerns about his fitness to practise.The General Medical Council (GMC) opened an investigation into concerns about Prof Peter Hindmarsh, including that he had harmed patients, on the first day he gave evidence at Letby’s trial in late 2022. Continue reading...",
+            "feed_position": 0
+          }
+        ]
+      },
+      {
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Tue, 03 Mar 2026 00:01:23 GMT",
         "title": "Weight-loss drugs could prevent fatal complications from heart attacks, UK study finds",
@@ -27,12 +71,12 @@
             "title": "Weight-loss drugs could prevent fatal complications from heart attacks, UK study finds",
             "standfirst": "Latest research based on animal model trials shows GLP-1 drugs may prevent problem of ‘no-reflow’ in recoveryWeight-loss drugs could help people who have had a heart attack avoid suffering potentially fatal complications afterwards, research has found.Drugs such as Ozempic and Wegovy reduce the risk of the tissue damage that affects up to half of the 100,000 people a year in the UK who suffer a heart attack, according to the study. Continue reading...",
             "content": "Latest research based on animal model trials shows GLP-1 drugs may prevent problem of ‘no-reflow’ in recoveryWeight-loss drugs could help people who have had a heart attack avoid suffering potentially fatal complications afterwards, research has found.Drugs such as Ozempic and Wegovy reduce the risk of the tissue damage that affects up to half of the 100,000 people a year in the UK who suffer a heart attack, according to the study. Continue reading...",
-            "feed_position": 0
+            "feed_position": 1
           }
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Mon, 02 Mar 2026 23:30:22 GMT",
         "title": "Quarter of healthy years lost to breast cancer are due to lifestyle factors, research finds",
@@ -48,12 +92,12 @@
             "title": "Quarter of healthy years lost to breast cancer are due to lifestyle factors, research finds",
             "standfirst": "Largest study of its kind suggests high red meat consumption has biggest impact, followed by smokingMore than a quarter of healthy years lost to breast cancer are due to lifestyle factors such as red meat intake and smoking, according to the largest study of its kind.The study, published in the Lancet Oncology, used data from population-based cancer registries to produce a comprehensive analysis of breast cancer and its risk factors. Continue reading...",
             "content": "Largest study of its kind suggests high red meat consumption has biggest impact, followed by smokingMore than a quarter of healthy years lost to breast cancer are due to lifestyle factors such as red meat intake and smoking, according to the largest study of its kind.The study, published in the Lancet Oncology, used data from population-based cancer registries to produce a comprehensive analysis of breast cancer and its risk factors. Continue reading...",
-            "feed_position": 1
+            "feed_position": 2
           }
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Mon, 02 Mar 2026 17:31:31 GMT",
         "title": "What the Baftas N-word controversy revealed about disability and race | Letters",
@@ -69,12 +113,12 @@
             "title": "What the Baftas N-word controversy revealed about disability and race | Letters",
             "standfirst": "Readers on the Tourette syndrome campaigner John Davidson’s tic during the awards ceremony and the aftermathI don’t think anger should be aimed at the BBC for broadcasting the N-word (I was at the Baftas – and while hearing the N-word was unsettling, all anger should be aimed at the BBC, 25 February). As the mother of a mixed-race teenager with Tourette syndrome, I cannot express how sad I am that taking offence at a tic has been justified.My son’s education has been derailed – a teacher took offence at a tic (eye rolling) and he was so humiliated that he left the school. Controversially, I disagree that the N-word should have been edited out in the BBC broadcast. We need to understand the implications of finding someone’s disability offensive. Continue reading...",
             "content": "Readers on the Tourette syndrome campaigner John Davidson’s tic during the awards ceremony and the aftermathI don’t think anger should be aimed at the BBC for broadcasting the N-word (I was at the Baftas – and while hearing the N-word was unsettling, all anger should be aimed at the BBC, 25 February). As the mother of a mixed-race teenager with Tourette syndrome, I cannot express how sad I am that taking offence at a tic has been justified.My son’s education has been derailed – a teacher took offence at a tic (eye rolling) and he was so humiliated that he left the school. Controversially, I disagree that the N-word should have been edited out in the BBC broadcast. We need to understand the implications of finding someone’s disability offensive. Continue reading...",
-            "feed_position": 2
+            "feed_position": 3
           }
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Mon, 02 Mar 2026 15:54:15 GMT",
         "title": "Saturday Night Live Bafta sketch branded ‘horrific’ by leading Tourette syndrome charity",
@@ -90,12 +134,12 @@
             "title": "Saturday Night Live Bafta sketch branded ‘horrific’ by leading Tourette syndrome charity",
             "standfirst": "Sketch featured parodies of JK Rowling, Bill Cosby and Mel Gibson saying controversial remarks were due to TSSaturday Night Live is under fire for a sketch that poked fun at the Bafta N-word incident, with a leading Tourette syndrome (TS) charity calling it “horrific.”Filmed in the style of an informational public service announcement, the segment featured SNL cast members as public figures explaining that their controversial comments were because of TS. The sketch was cut for time on Saturday night’s NBC show but was uploaded to YouTube shortly after. Continue reading...",
             "content": "Sketch featured parodies of JK Rowling, Bill Cosby and Mel Gibson saying controversial remarks were due to TSSaturday Night Live is under fire for a sketch that poked fun at the Bafta N-word incident, with a leading Tourette syndrome (TS) charity calling it “horrific.”Filmed in the style of an informational public service announcement, the segment featured SNL cast members as public figures explaining that their controversial comments were because of TS. The sketch was cut for time on Saturday night’s NBC show but was uploaded to YouTube shortly after. Continue reading...",
-            "feed_position": 3
+            "feed_position": 4
           }
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Mon, 02 Mar 2026 15:42:43 GMT",
         "title": "Why a good night's sleep starts in the morning",
@@ -118,7 +162,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c77/live/81b20720-1632-11f1-9120-a910fc22c6ac.jpg"
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Mon, 02 Mar 2026 13:25:36 GMT",
         "title": "UK surgeon cleared of antisemitism criticises GMC’s plan to challenge ruling",
@@ -134,12 +178,12 @@
             "title": "UK surgeon cleared of antisemitism criticises GMC’s plan to challenge ruling",
             "standfirst": "Dr Ghassan Abu-Sittah accuses regulator of seeking ‘politically acceptable’ outcome after allegations dismissedA surgeon who was cleared by a tribunal of alleged antisemitism and support for terrorism has accused his regulator of seeking a “politically acceptable” outcome after it announced it would appeal against the decision to the high court.Dr Ghassan Abu-Sittah, who gave testimony to the international criminal court on Israel’s assault on Gaza and is the rector of the University of Glasgow, was cleared of misconduct by the Medical Practitioners Tribunal Service (MPTS) in January. Continue reading...",
             "content": "Dr Ghassan Abu-Sittah accuses regulator of seeking ‘politically acceptable’ outcome after allegations dismissedA surgeon who was cleared by a tribunal of alleged antisemitism and support for terrorism has accused his regulator of seeking a “politically acceptable” outcome after it announced it would appeal against the decision to the high court.Dr Ghassan Abu-Sittah, who gave testimony to the international criminal court on Israel’s assault on Gaza and is the rector of the University of Glasgow, was cleared of misconduct by the Medical Practitioners Tribunal Service (MPTS) in January. Continue reading...",
-            "feed_position": 4
+            "feed_position": 5
           }
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Mon, 02 Mar 2026 13:15:10 GMT",
         "title": "Jailed for losing a pregnancy: how progress on El Salvador’s harsh anti-abortion law is unravelling",
@@ -155,12 +199,12 @@
             "title": "Jailed for losing a pregnancy: how progress on El Salvador’s harsh anti-abortion law is unravelling",
             "standfirst": "Years of campaigning led to the release of 81 women imprisoned under the country’s strict reproductive laws, but the suspension of civil rights by President Nayib Bukele is fuelling a new wave of criminalisationHer ordeal began with stomach cramps; 19 years old and training to be a nurse, she knew something was wrong. At the hospital she waited for hours in the emergency department. She had suffered an obstetric emergency.Under El Salvador’s legal framework, emergencies including miscarriages and stillbirths place women under criminal suspicion. She lost the baby and doctors alerted the police. She was arrested and handcuffed. Continue reading...",
             "content": "Years of campaigning led to the release of 81 women imprisoned under the country’s strict reproductive laws, but the suspension of civil rights by President Nayib Bukele is fuelling a new wave of criminalisationHer ordeal began with stomach cramps; 19 years old and training to be a nurse, she knew something was wrong. At the hospital she waited for hours in the emergency department. She had suffered an obstetric emergency.Under El Salvador’s legal framework, emergencies including miscarriages and stillbirths place women under criminal suspicion. She lost the baby and doctors alerted the police. She was arrested and handcuffed. Continue reading...",
-            "feed_position": 5
+            "feed_position": 6
           }
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Mon, 02 Mar 2026 11:00:08 GMT",
         "title": "As measles spreads in South Carolina, RFK Jr’s allies work to gut vaccine laws",
@@ -177,12 +221,12 @@
             "title": "As measles spreads in South Carolina, RFK Jr’s allies work to gut vaccine laws",
             "standfirst": "Activists who dispute safety of vaccines are pushing to limit immunization requirements in schoolsAs South Carolina grapples with a measles outbreak that has infected nearly 1,000 people, groups with ties to the US health secretary, Robert F Kennedy Jr, are pushing to eliminate immunization requirements that protect children.Activists are targeting vaccine mandates in states trying to tamp down measles as communities across the country struggle to stop the worst spread of the illness since the early 1990s. The Guardian found anti-vaccine groups are encouraging their followers to organize opposition to vaccine mandates in more than 20 states, including at least six with current measles outbreaks. Continue reading...",
             "content": "Activists who dispute safety of vaccines are pushing to limit immunization requirements in schoolsAs South Carolina grapples with a measles outbreak that has infected nearly 1,000 people, groups with ties to the US health secretary, Robert F Kennedy Jr, are pushing to eliminate immunization requirements that protect children.Activists are targeting vaccine mandates in states trying to tamp down measles as communities across the country struggle to stop the worst spread of the illness since the early 1990s. The Guardian found anti-vaccine groups are encouraging their followers to organize opposition to vaccine mandates in more than 20 states, including at least six with current measles outbreaks. Continue reading...",
-            "feed_position": 6
+            "feed_position": 7
           }
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Mon, 02 Mar 2026 10:00:06 GMT",
         "title": "The pet I’ll never forget: Harvey, the most human of cats who helped me through grief and illness",
@@ -199,12 +243,12 @@
             "title": "The pet I’ll never forget: Harvey, the most human of cats who helped me through grief and illness",
             "standfirst": "He could use door handles and steal catnip from the kitchen cupboards. And, when I became very unwell, he would pace around me like a doctor on call Harvey came into our lives during a year of loss. It was 2004, and my grandmother had just died, quickly followed by our beloved cat Skeet (Manx English for “nosy”). With the family thrown into mourning, the house became eerily quiet and still, and my mother was grieving.I was only 11, and did not know how to take care of her, but I did know that we needed the chaos and joy of a new cat. We found Harvey at the local cattery on the Isle of Man: he sat squeezed at the back of his pen, looking curiously at us with enormous, owl-like eyes. My mother smiled for the first time in months. We knew he was the cat for us. Continue reading...",
             "content": "He could use door handles and steal catnip from the kitchen cupboards. And, when I became very unwell, he would pace around me like a doctor on call Harvey came into our lives during a year of loss. It was 2004, and my grandmother had just died, quickly followed by our beloved cat Skeet (Manx English for “nosy”). With the family thrown into mourning, the house became eerily quiet and still, and my mother was grieving.I was only 11, and did not know how to take care of her, but I did know that we needed the chaos and joy of a new cat. We found Harvey at the local cattery on the Isle of Man: he sat squeezed at the back of his pen, looking curiously at us with enormous, owl-like eyes. My mother smiled for the first time in months. We knew he was the cat for us. Continue reading...",
-            "feed_position": 7
+            "feed_position": 8
           }
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Mon, 02 Mar 2026 06:49:12 GMT",
         "title": "'Doctors said my excruciating period pain was anxiety'",
@@ -227,7 +271,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7e8/live/937ce360-1238-11f1-8cd0-fb461ac7fcc1.jpg"
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Mon, 02 Mar 2026 06:27:59 GMT",
         "title": "BBC investigation finds 50,000 people waited over 24 hours in A&E corridor care",
@@ -250,7 +294,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/918d/live/a1ca59a0-13d9-11f1-91d0-352863d13d72.png"
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Mon, 02 Mar 2026 06:12:36 GMT",
         "title": "Wild spaces for butterflies to be created in Glasgow",
@@ -273,7 +317,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7476/live/ab0dad90-13fd-11f1-8e3a-e7cecfbdc12f.jpg"
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Sun, 01 Mar 2026 23:00:53 GMT",
         "title": "Three in four women unaware menopause can trigger new mental illness, poll finds",
@@ -289,12 +333,12 @@
             "title": "Three in four women unaware menopause can trigger new mental illness, poll finds",
             "standfirst": "Royal College of Psychiatrists says impact on mental health often overlooked and calls for improvements in careNearly three-quarters of UK women do not know menopause can trigger a new mental illness, polling shows.This lack of understanding is so acute that the Royal College of Psychiatrists has launched its first targeted “position statement” to raise awareness about menopause and mental health. Continue reading...",
             "content": "Royal College of Psychiatrists says impact on mental health often overlooked and calls for improvements in careNearly three-quarters of UK women do not know menopause can trigger a new mental illness, polling shows.This lack of understanding is so acute that the Royal College of Psychiatrists has launched its first targeted “position statement” to raise awareness about menopause and mental health. Continue reading...",
-            "feed_position": 8
+            "feed_position": 9
           }
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Sun, 01 Mar 2026 16:59:39 GMT",
         "title": "The decline in healthy life expectancy in Britain should shock us all | Letters",
@@ -310,12 +354,12 @@
             "title": "The decline in healthy life expectancy in Britain should shock us all | Letters",
             "standfirst": "Alan Walker and Ian Garner respond to the news that healthy life expectancy of both women and men has fallenThe decline in healthy life expectancy (HLE) is so momentous it should have ejected the former prince from the front page (Female healthy life expectancy falls three years, print edition, 20 February). The shocking fall of three years for women and two years for men, in just three years, reveals the cumulative impact of the Tory/Liberal Democrat austerity programme and the gross mismanagement of the pandemic.In contrast to the lowest HLE since these figures were first estimated (2011-13), Swedish HLE has continued to rise and is an average of five years higher than the UK’s. It is blindingly obvious that unless the government urgently prioritises extending HLE, it cannot hope to stem the flow of older workers out of the labour market.Alan WalkerEmeritus professor of social policy and social gerontology, University of Sheffield Continue reading...",
             "content": "Alan Walker and Ian Garner respond to the news that healthy life expectancy of both women and men has fallenThe decline in healthy life expectancy (HLE) is so momentous it should have ejected the former prince from the front page (Female healthy life expectancy falls three years, print edition, 20 February). The shocking fall of three years for women and two years for men, in just three years, reveals the cumulative impact of the Tory/Liberal Democrat austerity programme and the gross mismanagement of the pandemic.In contrast to the lowest HLE since these figures were first estimated (2011-13), Swedish HLE has continued to rise and is an average of five years higher than the UK’s. It is blindingly obvious that unless the government urgently prioritises extending HLE, it cannot hope to stem the flow of older workers out of the labour market.Alan WalkerEmeritus professor of social policy and social gerontology, University of Sheffield Continue reading...",
-            "feed_position": 9
+            "feed_position": 10
           }
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Sun, 01 Mar 2026 16:59:19 GMT",
         "title": "Spotting a peacenik by the newspaper they read | Brief letters",
@@ -331,12 +375,12 @@
             "title": "Spotting a peacenik by the newspaper they read | Brief letters",
             "standfirst": "Guardian policing | Going commando | Underwear shrinkage | Talking to strangers | Leg stoma bagsSome years ago, my sons travelled with Aston Villa supporters going to Wolves. A young policeman picked them out at the railway station along with others to be shepherded to the ground. But an older sergeant advised the constable: “Not those two – that one’s got a Guardian under his arm.” How’s that for peacenik recognition? Non-bearded, they weren’t even wearing sandals.David Drew Birmingham• There’s a simple solution for those concerned with running their washing machine at 60C to wash underwear or risking contamination (Letters, 24 February) – take the military option and go commando.Dr Bob Aron Ilkley, West Yorkshire Continue reading...",
             "content": "Guardian policing | Going commando | Underwear shrinkage | Talking to strangers | Leg stoma bagsSome years ago, my sons travelled with Aston Villa supporters going to Wolves. A young policeman picked them out at the railway station along with others to be shepherded to the ground. But an older sergeant advised the constable: “Not those two – that one’s got a Guardian under his arm.” How’s that for peacenik recognition? Non-bearded, they weren’t even wearing sandals.David Drew Birmingham• There’s a simple solution for those concerned with running their washing machine at 60C to wash underwear or risking contamination (Letters, 24 February) – take the military option and go commando.Dr Bob Aron Ilkley, West Yorkshire Continue reading...",
-            "feed_position": 10
+            "feed_position": 11
           }
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Sun, 01 Mar 2026 15:02:10 GMT",
         "title": "UK health official recused from puberty blockers trial after bias claims",
@@ -352,12 +396,12 @@
             "title": "UK health official recused from puberty blockers trial after bias claims",
             "standfirst": "MHRA says Prof Jacob George will no longer be involved after gender-critical social media posts from last yearA health official who reportedly intervened to pause a clinical trial on the use of puberty blockers has been removed from any further involvement due to accusations of bias.Prof Jacob George, who was appointed chief medical and scientific officer at the Medicines and Healthcare products Regulatory Agency (MHRA) in January, raised concerns that led to the Pathways trial being put on hold by the government, according to the Sunday Times. Continue reading...",
             "content": "MHRA says Prof Jacob George will no longer be involved after gender-critical social media posts from last yearA health official who reportedly intervened to pause a clinical trial on the use of puberty blockers has been removed from any further involvement due to accusations of bias.Prof Jacob George, who was appointed chief medical and scientific officer at the Medicines and Healthcare products Regulatory Agency (MHRA) in January, raised concerns that led to the Pathways trial being put on hold by the government, according to the Sunday Times. Continue reading...",
-            "feed_position": 11
+            "feed_position": 12
           }
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Sun, 01 Mar 2026 12:00:39 GMT",
         "title": "Touch, sound and style: how London fashion week is opening up to visually impaired guests – photo essay",
@@ -373,12 +417,12 @@
             "title": "Touch, sound and style: how London fashion week is opening up to visually impaired guests – photo essay",
             "standfirst": "From live audio descriptions to fabric swatch booklets, designers including Chet Lo are rethinking the catwalk experience for blind and low-vision clothes-lovers ‘If you put your hands out and run your fingers along this skirt, you’ll feel that there are soft feathers appliquéd on to it,” says the fashion designer Chet Lo. “The skirt is emerald green in colour with black panels on the side and it is designed to be very fitted on the body.” Lo is speaking to a group of six guests ahead of his London fashion week show, offering them a sneak preview of his new collection that will shortly be unveiled on the catwalk.Chet Lo shows his Night Market collection at the Mandarin Oriental hotel at London fashion week Continue reading...",
             "content": "From live audio descriptions to fabric swatch booklets, designers including Chet Lo are rethinking the catwalk experience for blind and low-vision clothes-lovers ‘If you put your hands out and run your fingers along this skirt, you’ll feel that there are soft feathers appliquéd on to it,” says the fashion designer Chet Lo. “The skirt is emerald green in colour with black panels on the side and it is designed to be very fitted on the body.” Lo is speaking to a group of six guests ahead of his London fashion week show, offering them a sneak preview of his new collection that will shortly be unveiled on the catwalk.Chet Lo shows his Night Market collection at the Mandarin Oriental hotel at London fashion week Continue reading...",
-            "feed_position": 12
+            "feed_position": 13
           }
         ]
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Sun, 01 Mar 2026 11:58:13 GMT",
         "title": "Young trees planted to expand temperate rainforest",
@@ -399,57 +443,11 @@
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2594/live/de8442c0-132a-11f1-8080-b36026ca95b4.jpg"
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Sun, 01 Mar 2026 09:25:25 GMT",
-        "title": "Could a huge data centre revitalise Ayrshire - or ruin it?",
-        "neutral_headline": "Could a huge data centre revitalise Ayrshire - or ruin it",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/c2d1ny161yyo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Sun, 01 Mar 2026 09:25:25 GMT",
-            "title": "Could a huge data centre revitalise Ayrshire - or ruin it?",
-            "standfirst": "Controversial proposals to turn land near HMP Kilmarnock into a technology hub are being advanced by energy company ILI Group.",
-            "content": "Controversial proposals to turn land near HMP Kilmarnock into a technology hub are being advanced by energy company ILI Group.",
-            "feed_position": 17,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e22/live/756a0770-13d9-11f1-801d-ed3cff6bf876.png"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e22/live/756a0770-13d9-11f1-801d-ed3cff6bf876.png"
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Sun, 01 Mar 2026 07:13:27 GMT",
-        "title": "How are flooding and storms affecting wildlife?",
-        "neutral_headline": "How are flooding and storms affecting wildlife",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/czx1zq0xj00o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Sun, 01 Mar 2026 07:13:27 GMT",
-            "title": "How are flooding and storms affecting wildlife?",
-            "standfirst": "Recent rain and flooding across Devon and Cornwall is impacting wildlife and their habitats.",
-            "content": "Recent rain and flooding across Devon and Cornwall is impacting wildlife and their habitats.",
-            "feed_position": 9,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b693/live/b964f030-0e3d-11f1-8705-e59653a64488.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b693/live/b964f030-0e3d-11f1-8705-e59653a64488.jpg"
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-03-03T04:41:56.583Z",
+    "updated_at": "2026-03-03T11:26:21.899Z",
     "clusters": []
   }
 }
