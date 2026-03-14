@@ -1,17 +1,64 @@
 {
   "clinical": {
-    "updated_at": "2026-03-14T04:27:53.517Z",
+    "updated_at": "2026-03-14T07:30:41.641Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-03-14T04:27:53.517Z",
+    "updated_at": "2026-03-14T07:30:41.641Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-03-14T04:28:02.803Z",
+    "updated_at": "2026-03-14T07:30:49.641Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Sat, 14 Mar 2026 07:23:02 GMT",
+        "title": "How reintroducing beavers is changing our landscape",
+        "neutral_headline": "How reintroducing beavers is changing our landscape",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/cn5ggx7xkpyo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sat, 14 Mar 2026 07:23:02 GMT",
+            "title": "How reintroducing beavers is changing our landscape",
+            "standfirst": "Four pairs of beavers were released into the Par and Fowey river catchment in February.",
+            "content": "Four pairs of beavers were released into the Par and Fowey river catchment in February.",
+            "feed_position": 6,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad3d/live/1bd8e7b0-193f-11f1-aa25-55dd10ec078f.png"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad3d/live/1bd8e7b0-193f-11f1-aa25-55dd10ec078f.png"
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Sat, 14 Mar 2026 07:19:55 GMT",
+        "title": "'Carnage' unleashed on sleeping town when river hit 18-times normal level",
+        "neutral_headline": "'Carnage' unleashed on sleeping town when river hit 18-times normal level",
+        "bullet_summary": [
+          "Storm Claudia devastated residents in Monmouth, with many still living with the damage",
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/c5ykkvn6pqgo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sat, 14 Mar 2026 07:19:55 GMT",
+            "title": "'Carnage' unleashed on sleeping town when river hit 18-times normal level",
+            "standfirst": "Storm Claudia devastated residents in Monmouth, with many still living with the damage.",
+            "content": "Storm Claudia devastated residents in Monmouth, with many still living with the damage.",
+            "feed_position": 16,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd02/live/a6549c90-1f25-11f1-b048-c9424b2cf5fd.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd02/live/a6549c90-1f25-11f1-b048-c9424b2cf5fd.jpg"
+      },
+      {
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Sat, 14 Mar 2026 02:33:11 GMT",
         "title": "'Like a trap you can't escape': The women who regret being mothers",
@@ -34,31 +81,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f8a/live/bfceb770-1e3d-11f1-801d-ed3cff6bf876.jpg"
       },
       {
-        "id": "cluster_1",
-        "coverage": 1,
-        "updated_at": "Fri, 13 Mar 2026 22:58:13 GMT",
-        "title": "'Carnage' unleashed on sleeping town when river hit 18-times normal level",
-        "neutral_headline": "'Carnage' unleashed on sleeping town when river hit 18-times normal level",
-        "bullet_summary": [
-          "Storm Claudia devastated residents in Monmouth, with many still living with the damage",
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/c5ykkvn6pqgo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Fri, 13 Mar 2026 22:58:13 GMT",
-            "title": "'Carnage' unleashed on sleeping town when river hit 18-times normal level",
-            "standfirst": "Storm Claudia devastated residents in Monmouth, with many still living with the damage.",
-            "content": "Storm Claudia devastated residents in Monmouth, with many still living with the damage.",
-            "feed_position": 16,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd02/live/a6549c90-1f25-11f1-b048-c9424b2cf5fd.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd02/live/a6549c90-1f25-11f1-b048-c9424b2cf5fd.jpg"
-      },
-      {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Fri, 13 Mar 2026 19:09:48 GMT",
         "title": "Austrian glaciers disintegrating due to climate change, say scientists",
@@ -81,7 +104,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e386/live/a4275090-1f0a-11f1-87bd-bb650a6d53bc.jpg"
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Fri, 13 Mar 2026 17:32:26 GMT",
         "title": "Casey’s review of adult social care offers hope | Letters",
@@ -102,7 +125,7 @@
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Fri, 13 Mar 2026 16:53:09 GMT",
         "title": "Woman found out she had terminal brain cancer after suitcase fell on her head",
@@ -125,7 +148,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d51d/live/ac5bb620-1e29-11f1-b048-c9424b2cf5fd.jpg"
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Fri, 13 Mar 2026 16:37:42 GMT",
         "title": "Oil giant forced to pay £6m after major spill",
@@ -141,14 +164,14 @@
             "title": "Oil giant forced to pay £6m after major spill",
             "standfirst": "A major incident was declared when a leak occurred at a pipeline operated by gas company Perenco.",
             "content": "A major incident was declared when a leak occurred at a pipeline operated by gas company Perenco.",
-            "feed_position": 6,
+            "feed_position": 7,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f50/live/5e691a90-1ee0-11f1-a54d-ddcb0c2f34df.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f50/live/5e691a90-1ee0-11f1-a54d-ddcb0c2f34df.jpg"
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Fri, 13 Mar 2026 13:46:22 GMT",
         "title": "3G pitch given approval despite pollution fears",
@@ -164,14 +187,14 @@
             "title": "3G pitch given approval despite pollution fears",
             "standfirst": "A charity is worried about microplastics but a council says the plans follow environmental guidance.",
             "content": "A charity is worried about microplastics but a council says the plans follow environmental guidance.",
-            "feed_position": 7,
+            "feed_position": 8,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecdf/live/0c768d70-fe20-11f0-a8b8-bdd2c5f9bcad.png"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecdf/live/0c768d70-fe20-11f0-a8b8-bdd2c5f9bcad.png"
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Fri, 13 Mar 2026 12:42:20 GMT",
         "title": "When does the Nasa Moon mission launch and who are the Artemis II crew?",
@@ -194,7 +217,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a00/live/e35f0660-ed44-11f0-8cc8-8329494b82ad.png"
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Fri, 13 Mar 2026 12:00:48 GMT",
         "title": "Trump policies set to increase rates of lung disease and death, study finds",
@@ -215,7 +238,7 @@
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Fri, 13 Mar 2026 11:14:05 GMT",
         "title": "Out of the blue? How the colour of light could be used to treat mental illness",
@@ -236,7 +259,7 @@
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Fri, 13 Mar 2026 10:56:07 GMT",
         "title": "'My hotel bill is £12,000': British holidaymakers stranded by Iran war",
@@ -259,7 +282,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6c8/live/da28eb80-1e39-11f1-9120-a910fc22c6ac.jpg"
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Fri, 13 Mar 2026 09:10:53 GMT",
         "title": "AI toys for children misread emotions and respond inappropriately, researchers warn",
@@ -283,7 +306,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb66/live/c3116580-1e20-11f1-8c74-957f793ca681.jpg"
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Fri, 13 Mar 2026 09:00:45 GMT",
         "title": "Patients face long journeys for medicines as pharmacies cut weekend hours",
@@ -304,7 +327,7 @@
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Fri, 13 Mar 2026 09:00:44 GMT",
         "title": "‘Massive boost of serotonin!’: How a dose of nature is treating mental illness",
@@ -326,7 +349,7 @@
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Fri, 13 Mar 2026 06:22:13 GMT",
         "title": "Woman with rare blood feels 'honoured' to donate",
@@ -349,7 +372,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f55b/live/8dcfcbc0-1edc-11f1-b048-c9424b2cf5fd.jpg"
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Thu, 12 Mar 2026 21:21:11 GMT",
         "title": "Artemis II: Nasa targets early April for Moon mission",
@@ -372,7 +395,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0242/live/f5220620-1ece-11f1-801d-ed3cff6bf876.jpg"
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Thu, 12 Mar 2026 21:00:00 GMT",
         "title": "BBC Inside Science",
@@ -395,7 +418,7 @@
         "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Thu, 12 Mar 2026 17:15:40 GMT",
         "title": "GPs tell BBC they've NEVER refused sick note for mental health",
@@ -428,7 +451,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51be/live/461f7c70-1e33-11f1-b048-c9424b2cf5fd.jpg"
       },
       {
-        "id": "cluster_18",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Thu, 12 Mar 2026 17:03:40 GMT",
         "title": "Change energy use to reduce pollution and protect our health | Letters",
@@ -447,32 +470,11 @@
             "feed_position": 5
           }
         ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Thu, 12 Mar 2026 17:03:27 GMT",
-        "title": "Antibiotics need coordinated G7 investment | Letter",
-        "neutral_headline": "Antibiotics need coordinated G7 investment | Letter",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/business/2026/mar/12/antibiotics-need-coordinated-g7-investment",
-            "published_at": "Thu, 12 Mar 2026 17:03:27 GMT",
-            "title": "Antibiotics need coordinated G7 investment | Letter",
-            "standfirst": "Grace Hampson on ways to address the worryingly thin pipeline of new effective drugsRecent coverage of the pipeline of new antibiotics (Pipeline of new drugs to fight superbugs is ‘worryingly thin’, experts warn, 11 March) is a timely reminder that antimicrobial resistance is one our most urgent health crises. The reason the pipeline is so thin is a fundamental market failure.One of the most logical ways to protect antibiotics is to limit their use to the most essential cases, but this means fewer antibiotics sold. If revenues are limited, companies have less incentive to invest in developing and manufacturing new antibiotics. This is where policy intervention is crucial. Continue reading...",
-            "content": "Grace Hampson on ways to address the worryingly thin pipeline of new effective drugsRecent coverage of the pipeline of new antibiotics (Pipeline of new drugs to fight superbugs is ‘worryingly thin’, experts warn, 11 March) is a timely reminder that antimicrobial resistance is one our most urgent health crises. The reason the pipeline is so thin is a fundamental market failure.One of the most logical ways to protect antibiotics is to limit their use to the most essential cases, but this means fewer antibiotics sold. If revenues are limited, companies have less incentive to invest in developing and manufacturing new antibiotics. This is where policy intervention is crucial. Continue reading...",
-            "feed_position": 6
-          }
-        ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-03-14T04:28:02.803Z",
+    "updated_at": "2026-03-14T07:30:49.641Z",
     "clusters": []
   }
 }
