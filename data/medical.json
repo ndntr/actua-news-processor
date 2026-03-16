@@ -1,17 +1,40 @@
 {
   "clinical": {
-    "updated_at": "2026-03-15T23:21:41.455Z",
+    "updated_at": "2026-03-16T05:09:56.078Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-03-15T23:21:41.455Z",
+    "updated_at": "2026-03-16T05:09:56.078Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-03-15T23:21:44.262Z",
+    "updated_at": "2026-03-16T05:10:02.727Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Mon, 16 Mar 2026 00:35:08 GMT",
+        "title": "People turn to private health care to beat NHS waits, says watchdog",
+        "neutral_headline": "People turn to private health care to beat NHS waits, says watchdog",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/cn4892wnv2zo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 16 Mar 2026 00:35:08 GMT",
+            "title": "People turn to private health care to beat NHS waits, says watchdog",
+            "standfirst": "The patient watchdog warns of two-tier service as polling shows numbers paying for care is on the rise.",
+            "content": "The patient watchdog warns of two-tier service as polling shows numbers paying for care is on the rise.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4390/live/634fe100-1f9a-11f1-925c-7976235b6684.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4390/live/634fe100-1f9a-11f1-925c-7976235b6684.jpg"
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 22:50:04 GMT",
         "title": "Two dead and 11 seriously ill in meningitis outbreak at University of Kent",
@@ -32,7 +55,7 @@
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 22:30:02 GMT",
         "title": "Sharp rise in young Britons saying ill health is reason they are jobless, study finds",
@@ -54,7 +77,7 @@
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 21:00:34 GMT",
         "title": "Restraining and sedating dementia patients ‘routine’ in hospitals in England, study finds",
@@ -75,7 +98,7 @@
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 18:00:31 GMT",
         "title": "Decriminalising abortion: how could the House of Lords amend the legislation?",
@@ -96,7 +119,7 @@
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 18:00:30 GMT",
         "title": "Vulnerable women in England still being arrested over suspected illegal abortions",
@@ -117,7 +140,7 @@
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 17:25:29 GMT",
         "title": "The Guardian view on weight-loss jabs and addiction: there is too much moralising about these remarkable medicines | Editorial",
@@ -138,7 +161,7 @@
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 14:00:35 GMT",
         "title": "How a ‘vacuum cleaner turned the other way’ became a popular solution to snoring disorders",
@@ -159,7 +182,7 @@
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 14:00:28 GMT",
         "title": "Hustle culture is destroying our clients. It’s time they let their impossible standards crash to the ground | Gaynor Parkin and Dave Winsborough",
@@ -180,7 +203,7 @@
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 14:00:27 GMT",
         "title": "‘I’ve been living under a shadow for 13 years’: life with prostate cancer",
@@ -201,7 +224,7 @@
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 13:57:37 GMT",
         "title": "Wyoming’s new six-week abortion ban prompts lawsuit",
@@ -222,7 +245,7 @@
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 13:40:15 GMT",
         "title": "'I have four months left to preserve my fertility'",
@@ -238,14 +261,14 @@
             "title": "'I have four months left to preserve my fertility'",
             "standfirst": "Iona Hall is freezing her eggs after surgery for endometriosis left her reserves \"critically low\".",
             "content": "Iona Hall is freezing her eggs after surgery for endometriosis left her reserves \"critically low\".",
-            "feed_position": 33,
+            "feed_position": 34,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22d0/live/da5dd770-2058-11f1-b048-c9424b2cf5fd.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22d0/live/da5dd770-2058-11f1-b048-c9424b2cf5fd.jpg"
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 12:00:24 GMT",
         "title": "From childhood to midlife and beyond: how to handle anxiety at every age",
@@ -267,7 +290,7 @@
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 10:41:30 GMT",
         "title": "Police-style powers to tackle fly-tippers being considered",
@@ -290,7 +313,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/286d/live/c26c9210-2025-11f1-9120-a910fc22c6ac.jpg"
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 07:32:42 GMT",
         "title": "Funding for green community initiatives",
@@ -313,7 +336,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da87/live/603e4cd0-1bcc-11f1-964c-87b629a369ca.png"
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 07:30:24 GMT",
         "title": "The astronaut who took one giant leap for Manx-kind",
@@ -336,7 +359,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4591/live/895205a0-1ef9-11f1-8cb7-433d6fa8d367.jpg"
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 06:19:57 GMT",
         "title": "Major hedgerow restoration project begins on farm",
@@ -359,7 +382,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7772/live/231f2550-1f04-11f1-87bd-bb650a6d53bc.png"
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 06:00:16 GMT",
         "title": "The one thing everyone gets wrong about feminism",
@@ -380,7 +403,7 @@
         ]
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 00:01:21 GMT",
         "title": "Sculpting jaws, giving scores: Inside the world of looksmaxxing",
@@ -396,14 +419,14 @@
             "title": "Sculpting jaws, giving scores: Inside the world of looksmaxxing",
             "standfirst": "Growing numbers of young men are going to great lengths to achieve what they see as the perfect face.",
             "content": "Growing numbers of young men are going to great lengths to achieve what they see as the perfect face.",
-            "feed_position": 38,
+            "feed_position": 39,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c02/live/23d953e0-1fd0-11f1-801d-ed3cff6bf876.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c02/live/23d953e0-1fd0-11f1-801d-ed3cff6bf876.jpg"
       },
       {
-        "id": "cluster_18",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Sat, 14 Mar 2026 15:34:29 GMT",
         "title": "Israeli strike kills 12 healthcare workers in southern Lebanon",
@@ -423,33 +446,11 @@
             "feed_position": 12
           }
         ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Sat, 14 Mar 2026 12:00:19 GMT",
-        "title": "Fetuses likely have more ‘forever chemicals’ in blood than thought – report",
-        "neutral_headline": "Fetuses likely have more ‘forever chemicals’ in blood than thought – report",
-        "bullet_summary": [
-          "However, thousands of Pfas exist, and a new Mount Sinai study tested 120 umbilical blood cord samples that were previously found to contain up to four compounds",
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2026/mar/14/fetuses-pfas-forever-chemicals",
-            "published_at": "Sat, 14 Mar 2026 12:00:19 GMT",
-            "title": "Fetuses likely have more ‘forever chemicals’ in blood than thought – report",
-            "standfirst": "US test of 120 umbilical blood cord samples identified 42 Pfas compounds, which do not naturally break downSign up for the Breaking News US email to get newsletter alerts in your inboxNew peer-reviewed research shows fetuses likely have much higher levels of Pfas “forever chemicals” in their blood than previously thought.Testing of umbilical cord blood typically looks for a small number of common Pfas compounds, like Pfoa and Pfos. However, thousands of Pfas exist, and a new Mount Sinai study tested 120 umbilical blood cord samples that were previously found to contain up to four compounds. Continue reading...",
-            "content": "US test of 120 umbilical blood cord samples identified 42 Pfas compounds, which do not naturally break downSign up for the Breaking News US email to get newsletter alerts in your inboxNew peer-reviewed research shows fetuses likely have much higher levels of Pfas “forever chemicals” in their blood than previously thought.Testing of umbilical cord blood typically looks for a small number of common Pfas compounds, like Pfoa and Pfos. However, thousands of Pfas exist, and a new Mount Sinai study tested 120 umbilical blood cord samples that were previously found to contain up to four compounds. Continue reading...",
-            "feed_position": 13
-          }
-        ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-03-15T23:21:44.262Z",
+    "updated_at": "2026-03-16T05:10:02.727Z",
     "clusters": []
   }
 }
