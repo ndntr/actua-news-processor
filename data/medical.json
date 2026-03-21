@@ -1,17 +1,40 @@
 {
   "clinical": {
-    "updated_at": "2026-03-21T19:18:31.556Z",
+    "updated_at": "2026-03-21T23:17:56.721Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-03-21T19:18:31.556Z",
+    "updated_at": "2026-03-21T23:17:56.721Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-03-21T19:18:34.359Z",
+    "updated_at": "2026-03-21T23:17:58.338Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Sat, 21 Mar 2026 21:43:59 GMT",
+        "title": "I spent five months in a mother and baby mental health unit - here's what I want mums to know",
+        "neutral_headline": "I spent five months in a mother and baby mental health unit - here's...",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/c5yve15lvgko?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sat, 21 Mar 2026 21:43:59 GMT",
+            "title": "I spent five months in a mother and baby mental health unit - here's what I want mums to know",
+            "standfirst": "Sofii Lewis was diagnosed with postpartum psychosis tendencies and OCD after giving birth.",
+            "content": "Sofii Lewis was diagnosed with postpartum psychosis tendencies and OCD after giving birth.",
+            "feed_position": 35,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7f2/live/a265b950-1edc-11f1-aedd-0da0e866b1f3.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7f2/live/a265b950-1edc-11f1-aedd-0da0e866b1f3.jpg"
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Sat, 21 Mar 2026 17:00:57 GMT",
         "title": "‘Thank God they’re still alive’: Kaiser therapists claim its new screening system puts patients at higher risk by delaying their care",
@@ -33,7 +56,7 @@
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Sat, 21 Mar 2026 10:00:49 GMT",
         "title": "Trump is eager to disclose details on others’ health – but not his own",
@@ -54,7 +77,7 @@
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Sat, 21 Mar 2026 09:50:45 GMT",
         "title": "Five questions that still need answering about the meningitis outbreak",
@@ -87,7 +110,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b935/live/67574430-2497-11f1-934f-036468834728.jpg"
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Sat, 21 Mar 2026 08:00:47 GMT",
         "title": "Infertility: at a time when we need the right words, others are unable to find them | Nuala McGovern",
@@ -108,7 +131,7 @@
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Sat, 21 Mar 2026 06:00:45 GMT",
         "title": "‘Something I’ve never felt since Covid. It was scarier’: the shock and pain of Kent’s meningitis outbreak",
@@ -129,7 +152,7 @@
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Fri, 20 Mar 2026 19:15:09 GMT",
         "title": "Meningitis B: Your questions answered",
@@ -152,7 +175,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca78/live/4d3200a0-248c-11f1-a79a-77e93010d956.jpg"
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Fri, 20 Mar 2026 18:30:30 GMT",
         "title": "The Guardian view on meningitis in Kent: we must not take public health systems for granted | Editorial",
@@ -174,7 +197,7 @@
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Fri, 20 Mar 2026 17:58:08 GMT",
         "title": "Experts consider expanding meningitis vaccine eligibility after Kent outbreak",
@@ -195,7 +218,7 @@
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Fri, 20 Mar 2026 17:40:02 GMT",
         "title": "Thousands get meningitis vaccine as experts wait to see outbreak peak",
@@ -218,7 +241,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14d1/live/a7a89990-2464-11f1-a2c1-39d16ad974aa.jpg"
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Fri, 20 Mar 2026 17:13:34 GMT",
         "title": "Eid moon spotters pass skills to next generation",
@@ -241,7 +264,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae56/live/bf062d70-2476-11f1-b187-ed35b97acec8.jpg"
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Fri, 20 Mar 2026 16:46:41 GMT",
         "title": "World's longest coastal path opens in England",
@@ -264,7 +287,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b25e/live/d76b1d00-2479-11f1-b297-95b0a0a8331e.jpg"
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Fri, 20 Mar 2026 16:32:43 GMT",
         "title": "Nasa's Artemis Moon rocket rolls back to pad for possible April launch",
@@ -287,7 +310,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc66/live/e81b0480-247e-11f1-934f-036468834728.jpg"
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Fri, 20 Mar 2026 16:31:06 GMT",
         "title": "'I feel so grateful to be alive,' Kent University meningitis survivor says",
@@ -310,7 +333,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/303f/live/5cde23d0-247d-11f1-a79a-77e93010d956.jpg"
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Fri, 20 Mar 2026 16:26:23 GMT",
         "title": "Influencers are drinking shots of olive oil and lemon juice. Should you?",
@@ -331,7 +354,7 @@
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Fri, 20 Mar 2026 15:41:42 GMT",
         "title": "Ambulance delays during power cut possibly contributed to man’s death, coroner rules",
@@ -353,7 +376,7 @@
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Fri, 20 Mar 2026 15:14:07 GMT",
         "title": "MP raises question in Parliament over fish deaths",
@@ -376,7 +399,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb81/live/9c83f660-23db-11f1-8afd-2d0cf3dc7503.jpg"
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Fri, 20 Mar 2026 14:51:52 GMT",
         "title": "Second company plans Shetland rocket launch this year",
@@ -399,7 +422,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3e1/live/64c25200-2456-11f1-9ef2-69d6b0d0d019.jpg"
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Fri, 20 Mar 2026 14:00:24 GMT",
         "title": "‘It all feels very natural’: Britain’s sauna boom heats up as people seek warmth of human connection",
@@ -421,7 +444,7 @@
         ]
       },
       {
-        "id": "cluster_18",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Fri, 20 Mar 2026 13:40:37 GMT",
         "title": "US health department investigates 13 states that require insurance plans to cover abortion",
@@ -449,34 +472,11 @@
             "feed_position": 11
           }
         ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Fri, 20 Mar 2026 12:36:00 GMT",
-        "title": "Kent meningitis outbreak may have peaked as UKHSA reports slowdown in cases",
-        "neutral_headline": "Kent meningitis outbreak may have peaked as UKHSA reports slowdown in cases",
-        "bullet_summary": [
-          "The UK Health and Security Agency said that as of 12",
-          "30pm on Thursday, there were 18 confirmed and 11 probable cases of meningitis linked to the Kent outbreak, taking the total number of people with the disease to 29",
-          "Of the confirmed cases, 13 were meningitis B"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2026/mar/20/kent-meningitis-outbreak-may-have-peaked",
-            "published_at": "Fri, 20 Mar 2026 12:36:00 GMT",
-            "title": "Kent meningitis outbreak may have peaked as UKHSA reports slowdown in cases",
-            "standfirst": "Experts continue to analyse strain of MenB to understand whether it has become more likely to spread or cause diseaseThe Kent meningitis outbreak may have reached its peak after only two new cases were reported by officials on Friday.The UK Health and Security Agency said that as of 12.30pm on Thursday, there were 18 confirmed and 11 probable cases of meningitis linked to the Kent outbreak, taking the total number of people with the disease to 29. Of the confirmed cases, 13 were meningitis B. Continue reading...",
-            "content": "Experts continue to analyse strain of MenB to understand whether it has become more likely to spread or cause diseaseThe Kent meningitis outbreak may have reached its peak after only two new cases were reported by officials on Friday.The UK Health and Security Agency said that as of 12.30pm on Thursday, there were 18 confirmed and 11 probable cases of meningitis linked to the Kent outbreak, taking the total number of people with the disease to 29. Of the confirmed cases, 13 were meningitis B. Continue reading...",
-            "feed_position": 10
-          }
-        ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-03-21T19:18:34.360Z",
+    "updated_at": "2026-03-21T23:17:58.338Z",
     "clusters": []
   }
 }
