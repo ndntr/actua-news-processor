@@ -1,17 +1,63 @@
 {
   "clinical": {
-    "updated_at": "2026-03-28T04:48:37.896Z",
+    "updated_at": "2026-03-28T07:39:42.177Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-03-28T04:48:37.896Z",
+    "updated_at": "2026-03-28T07:39:42.178Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-03-28T04:48:47.456Z",
+    "updated_at": "2026-03-28T07:39:44.522Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Sat, 28 Mar 2026 07:13:53 GMT",
+        "title": "Exclusion zone set up to protect endangered birds",
+        "neutral_headline": "Exclusion zone set up to protect endangered birds",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/cwykd8dlv9yo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sat, 28 Mar 2026 07:13:53 GMT",
+            "title": "Exclusion zone set up to protect endangered birds",
+            "standfirst": "An area for nesting birds on the Isle of Man has been cordoned off to protect endangered species.",
+            "content": "An area for nesting birds on the Isle of Man has been cordoned off to protect endangered species.",
+            "feed_position": 6,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f07/live/68277b00-2901-11f1-be8b-2136d1c912ba.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f07/live/68277b00-2901-11f1-be8b-2136d1c912ba.jpg"
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Sat, 28 Mar 2026 00:15:07 GMT",
+        "title": "Are UK students at risk of more deadly meningitis outbreaks?",
+        "neutral_headline": "Are UK students at risk of more deadly meningitis outbreaks",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/c93eqvxydzqo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sat, 28 Mar 2026 00:15:07 GMT",
+            "title": "Are UK students at risk of more deadly meningitis outbreaks?",
+            "standfirst": "The worst seems to be over, but questions remain about why this happened and whether it could happen again.",
+            "content": "The worst seems to be over, but questions remain about why this happened and whether it could happen again.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7c8/live/632d9f00-2a3a-11f1-8e06-4f542a88d870.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7c8/live/632d9f00-2a3a-11f1-8e06-4f542a88d870.jpg"
+      },
+      {
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Fri, 27 Mar 2026 18:15:51 GMT",
         "title": "Screen time for under-fives should be limited to one hour a day, parents told",
@@ -27,14 +73,14 @@
             "title": "Screen time for under-fives should be limited to one hour a day, parents told",
             "standfirst": "New government guidance also suggests children under-two should not be watching screens alone.",
             "content": "New government guidance also suggests children under-two should not be watching screens alone.",
-            "feed_position": 1,
+            "feed_position": 2,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2173/live/dfb962c0-29a4-11f1-934f-036468834728.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2173/live/dfb962c0-29a4-11f1-934f-036468834728.jpg"
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Fri, 27 Mar 2026 17:37:19 GMT",
         "title": "Conversations about infertility are hard, but essential | Letters",
@@ -55,7 +101,7 @@
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Fri, 27 Mar 2026 16:29:38 GMT",
         "title": "Polio virus detected in London days before ministers cut global eradication funding",
@@ -77,7 +123,7 @@
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Fri, 27 Mar 2026 12:38:08 GMT",
         "title": "The first colour photo of Earth from the Moon",
@@ -100,7 +146,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9540/live/b5ded7a0-29d1-11f1-934f-036468834728.jpg"
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Fri, 27 Mar 2026 09:45:38 GMT",
         "title": "How Cornwall is helping Nasa's deep space mission",
@@ -123,7 +169,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3a4/live/70167570-2918-11f1-babf-516204a6f1ce.jpg"
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Fri, 27 Mar 2026 06:20:54 GMT",
         "title": "Released beavers settle after year of ups and downs",
@@ -139,14 +185,14 @@
             "title": "Released beavers settle after year of ups and downs",
             "standfirst": "The BBC speaks to conservationists a year after beavers were released at a nature reserve in Dorset.",
             "content": "The BBC speaks to conservationists a year after beavers were released at a nature reserve in Dorset.",
-            "feed_position": 6,
+            "feed_position": 7,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27ff/live/16b38df0-2865-11f1-b297-95b0a0a8331e.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27ff/live/16b38df0-2865-11f1-b297-95b0a0a8331e.jpg"
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Fri, 27 Mar 2026 06:04:08 GMT",
         "title": "Our daughter battled Meningitis B despite being vaccinated in 'very rare' case",
@@ -162,14 +208,14 @@
             "title": "Our daughter battled Meningitis B despite being vaccinated in 'very rare' case",
             "standfirst": "After Noa-Rose became critically ill, the four-year-old spent two weeks fighting for her life.",
             "content": "After Noa-Rose became critically ill, the four-year-old spent two weeks fighting for her life.",
-            "feed_position": 0,
+            "feed_position": 1,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3792/live/505bec90-29bf-11f1-952c-77491ff53aff.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3792/live/505bec90-29bf-11f1-952c-77491ff53aff.jpg"
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Thu, 26 Mar 2026 22:38:33 GMT",
         "title": "Trump’s Maha agenda stalled as top CDC and surgeon general roles sit empty",
@@ -190,7 +236,7 @@
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Thu, 26 Mar 2026 21:00:00 GMT",
         "title": "BBC Inside Science",
@@ -213,7 +259,7 @@
         "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Thu, 26 Mar 2026 20:14:20 GMT",
         "title": "NHS bosses say resident doctors’ strike will cause ‘maximum harm’",
@@ -234,7 +280,7 @@
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Thu, 26 Mar 2026 18:50:38 GMT",
         "title": "The Guardian view on a recovering NHS: public confidence has risen, but not enough | Editorial",
@@ -256,7 +302,7 @@
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Thu, 26 Mar 2026 18:35:38 GMT",
         "title": "Weekly quiz: What sneaky snack was this bird of prey seen carrying?",
@@ -272,14 +318,14 @@
             "title": "Weekly quiz: What sneaky snack was this bird of prey seen carrying?",
             "standfirst": "How much attention did you pay to what happened in the world over the past seven days?",
             "content": "How much attention did you pay to what happened in the world over the past seven days?",
-            "feed_position": 7,
+            "feed_position": 8,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf4c/live/e9b9d650-2932-11f1-a79a-77e93010d956.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf4c/live/e9b9d650-2932-11f1-a79a-77e93010d956.jpg"
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Thu, 26 Mar 2026 18:03:09 GMT",
         "title": "Owner blocks 'Rainham volcano' fix, council says",
@@ -295,14 +341,14 @@
             "title": "Owner blocks 'Rainham volcano' fix, council says",
             "standfirst": "Repeated fires at Arnolds Field in Launders Lane, Rainham, have plagued residents for years.",
             "content": "Repeated fires at Arnolds Field in Launders Lane, Rainham, have plagued residents for years.",
-            "feed_position": 8,
+            "feed_position": 9,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b8c/live/16bce050-f2fd-11f0-b385-5f48925de19a.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b8c/live/16bce050-f2fd-11f0-b385-5f48925de19a.jpg"
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Thu, 26 Mar 2026 18:00:48 GMT",
         "title": "UK politics: Trump says UK’s aircraft carriers are just ‘toys’ – as it happened",
@@ -323,7 +369,7 @@
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Thu, 26 Mar 2026 16:48:44 GMT",
         "title": "When family ties become a dreadful burden | Letters",
@@ -344,7 +390,7 @@
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Thu, 26 Mar 2026 16:48:25 GMT",
         "title": "Coming across a terrible dilemma | Brief letters",
@@ -365,7 +411,7 @@
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Thu, 26 Mar 2026 15:00:14 GMT",
         "title": "Trail hunt ban moves closer as consultation begins",
@@ -388,7 +434,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9e1/live/51be9ad0-2904-11f1-8d7b-c7ea0e92917e.jpg"
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Thu, 26 Mar 2026 11:01:54 GMT",
         "title": "When is Nasa's Moon mission launch and what will Artemis do?",
@@ -409,56 +455,11 @@
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a00/live/e35f0660-ed44-11f0-8cc8-8329494b82ad.png"
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Thu, 26 Mar 2026 10:13:19 GMT",
-        "title": "England sewage spills nearly halved in 2025 due mostly to drier weather",
-        "neutral_headline": "England sewage spills nearly halved in 2025 due mostly to drier weather",
-        "bullet_summary": [
-          "Water companies said the country was also seeing the effect of greater infrastructure investment",
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/cwyjp2d3x12o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Thu, 26 Mar 2026 10:13:19 GMT",
-            "title": "England sewage spills nearly halved in 2025 due mostly to drier weather",
-            "standfirst": "Water companies said the country was also seeing the effect of greater infrastructure investment.",
-            "content": "Water companies said the country was also seeing the effect of greater infrastructure investment.",
-            "feed_position": 1,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1f3/live/22324530-2884-11f1-bf1c-c383e8ebb346.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1f3/live/22324530-2884-11f1-bf1c-c383e8ebb346.jpg"
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Thu, 26 Mar 2026 10:00:34 GMT",
-        "title": "Marriage over, €100,000 down the drain: the AI users whose lives were wrecked by delusion",
-        "neutral_headline": "Marriage over, €100,000 down the drain: the AI users whose...",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion",
-            "published_at": "Thu, 26 Mar 2026 10:00:34 GMT",
-            "title": "Marriage over, €100,000 down the drain: the AI users whose lives were wrecked by delusion",
-            "standfirst": "One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced his sentient friend would make him a fortune. He’s just one of many people who lost control after an AI encounterTowards the end of 2024, Dennis Biesma decided to check out ChatGPT. The Amsterdam-based IT consultant had just ended a contract early. “I had some time, so I thought: let’s have a look at this new technology everyone is talking about,” he says. “Very quickly, I became fascinated.”Biesma has asked himself why he was vulnerable to what came next. He was nearing 50. His adult daughter had left home, his wife went out to work and, in his field, the shift since Covid to working from home had left him feeling “a little isolated”. He smoked a bit of cannabis some evenings to “chill”, but had done so for years with no ill effects. He had never experienced a mental illness. Yet within months of downloading ChatGPT, Biesma had sunk €100,000 (about £83,000) into a business startup based on a delusion, been hospitalised three times and tried to kill himself. Continue reading...",
-            "content": "One minute, Dennis Biesma was playing with a chatbot; the next, he was convinced his sentient friend would make him a fortune. He’s just one of many people who lost control after an AI encounterTowards the end of 2024, Dennis Biesma decided to check out ChatGPT. The Amsterdam-based IT consultant had just ended a contract early. “I had some time, so I thought: let’s have a look at this new technology everyone is talking about,” he says. “Very quickly, I became fascinated.”Biesma has asked himself why he was vulnerable to what came next. He was nearing 50. His adult daughter had left home, his wife went out to work and, in his field, the shift since Covid to working from home had left him feeling “a little isolated”. He smoked a bit of cannabis some evenings to “chill”, but had done so for years with no ill effects. He had never experienced a mental illness. Yet within months of downloading ChatGPT, Biesma had sunk €100,000 (about £83,000) into a business startup based on a delusion, been hospitalised three times and tried to kill himself. Continue reading...",
-            "feed_position": 8
-          }
-        ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-03-28T04:48:47.456Z",
+    "updated_at": "2026-03-28T07:39:44.522Z",
     "clusters": []
   }
 }
