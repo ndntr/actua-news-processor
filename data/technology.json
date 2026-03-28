@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-03-27T23:25:39.688Z",
+  "updated_at": "2026-03-28T04:48:51.609Z",
   "clusters": [
     {
-      "id": "cluster_23",
+      "id": "cluster_30",
       "coverage": 3,
       "updated_at": "Fri, 27 Mar 2026 21:17:37 +0000",
       "title": "Mark Zuckerberg offered to 'help' Elon Musk with DOGE in 2025",
@@ -184,120 +184,48 @@
           "standfirst": "Meta didn't consult its Oversight Board last year when it announced sweeping policy changes to content moderation and a rollback of third-party fact checking in the United States in favor of Community Notes. But the company did ask the board for advice on how to expand the crowd-sourced fact checks to other countries.Now the Oversight Board is publishing its advice to Meta. In a 15,000-word policy advisory opinion, the group urged Meta to be cautious with an international rollout, warning that an expansion of the program could \"pose significant human rights risks and contribute to tangible harms\" if safeguards are not put in place. The board, notably, was asked to weigh in on a fairly narrow set of questions, including how it should evaluate whether to withhold the feature in certain countries. Meta \"respectfully\" asked the Oversight Board to avoid \"general\" critiques about the system, which it has said is modeled after X.In its opinion, the Oversight Board said that Community Notes \"could enhance users’ freedom of expression and improve online discourse\" with enough safeguard. But it recommended Meta withhold the feature in countries with \"high polarization,\" as well as countries in the midst of a crisis or \"protracted conflict.\" The board also said that Meta should avoid countries with a history of organized disinformation networks, because the notes may be more easily manipulated in such places, and countries with \"linguistic complexity\" that Meta may be ill-equipped to understand. Depending on how you interpret that advice, that could exclude quite a few countries, though the board stopped short of making country-specific recommendations. Still, it raises questions about how closely Meta will follow the suggested guidelines. For example, the United States could be considered a country with \"high polarization.\" (Community Notes has been live in the US for more than a year.)While the Oversight Board was careful to say it \"neither endorses nor opposes\" an expansion of Community Notes, it did discuss Meta's approach to fact checking, noting that its partnerships with outside fact-checking organizations are still largely in place outside of the US. And the opinion cautions against ending these relationships, noting that research into Community Notes on X shows that authors writing notes often rely on work done by professional fact checkers.\"Community Notes and fact checking are not mutually exclusive,\" Oversight Board member Paolo Carozza tells Engadget. \"One doesn't have to replace or substitute for the other, they can coexist. And in some situations, there are really important reasons for them to coexist. The board really deliberately stayed away from any kind of suggestion that the introduction of Community Notes ought to result in the removal or ending of fact checking.\"This article originally appeared on Engadget at https://www.engadget.com/social-media/oversight-board-tells-meta-expanding-community-notes-outside-of-us-poses-significant-risks-100000213.html?src=rss",
           "content": "Meta didn't consult its Oversight Board last year when it announced sweeping policy changes to content moderation and a rollback of third-party fact checking in the United States in favor of Community Notes. But the company did ask the board for advice on how to expand the crowd-sourced fact checks to other countries.Now the Oversight Board is publishing its advice to Meta. In a 15,000-word policy advisory opinion, the group urged Meta to be cautious with an international rollout, warning that an expansion of the program could \"pose significant human rights risks and contribute to tangible harms\" if safeguards are not put in place. The board, notably, was asked to weigh in on a fairly narrow set of questions, including how it should evaluate whether to withhold the feature in certain countries. Meta \"respectfully\" asked the Oversight Board to avoid \"general\" critiques about the system, which it has said is modeled after X.In its opinion, the Oversight Board said that Community Notes \"could enhance users’ freedom of expression and improve online discourse\" with enough safeguard. But it recommended Meta withhold the feature in countries with \"high polarization,\" as well as countries in the midst of a crisis or \"protracted conflict.\" The board also said that Meta should avoid countries with a history of organized disinformation networks, because the notes may be more easily manipulated in such places, and countries with \"linguistic complexity\" that Meta may be ill-equipped to understand. Depending on how you interpret that advice, that could exclude quite a few countries, though the board stopped short of making country-specific recommendations. Still, it raises questions about how closely Meta will follow the suggested guidelines. For example, the United States could be considered a country with \"high polarization.\" (Community Notes has been live in the US for more than a year.)While the Oversight Board was careful to say it \"neither endorses nor opposes\" an expansion of Community Notes, it did discuss Meta's approach to fact checking, noting that its partnerships with outside fact-checking organizations are still largely in place outside of the US. And the opinion cautions against ending these relationships, noting that research into Community Notes on X shows that authors writing notes often rely on work done by professional fact checkers.\"Community Notes and fact checking are not mutually exclusive,\" Oversight Board member Paolo Carozza tells Engadget. \"One doesn't have to replace or substitute for the other, they can coexist. And in some situations, there are really important reasons for them to coexist. The board really deliberately stayed away from any kind of suggestion that the introduction of Community Notes ought to result in the removal or ending of fact checking.\"This article originally appeared on Engadget at https://www.engadget.com/social-media/oversight-board-tells-meta-expanding-community-notes-outside-of-us-poses-significant-risks-100000213.html?src=rss",
           "feed_position": 41
-        },
-        {
-          "source": "VentureBeat",
-          "url": "https://venturebeat.com/orchestration/the-consequential-ai-work-that-actually-moves-the-needle-for-enterprises",
-          "published_at": "Thu, 26 Mar 2026 04:00:00 GMT",
-          "title": "The consequential AI work that actually moves the needle for enterprises",
-          "standfirst": "Presented by OutSystems After two years of flashy AI demos, rushed agent prototypes, and breathless predictions, enterprise technology leaders are striking a more pragmatic tone in 2026. In a recent webinar hosted by OutSystems, a panel of software executives and enterprise practitioners made the case that the most consequential AI work happening now is focused on the practical matters of governance, orchestration, and iteration, along with integrating agents into the systems they&#x27;ve spent decades building.Enterprise leaders are increasingly focused on fundamentals. The priority is using new AI technologies to accelerate productivity, improve delivery, and produce measurable business results.Three elements shape this work:The move from AI agent prototypes to agentic systems that deliver measurable ROI in productionThe growing role of enterprise platforms in governing, orchestrating, and scaling AI agents safelyThe rise of the generalist developer and enterprise architect as the most valuable technical profiles in an era of AI-generated codeAgainst this backdrop, the panel discussed governance frameworks, the economics of enterprise AI, and the limits of large language models without orchestration. The conversation ultimately turned to how leading organizations are building multi-agent systems grounded in existing enterprise data and workflows.Agents in the real world Enabling agents to work in production across the enterprise is best accomplished with a unified platform that handles development, iteration, and deployment. And that&#x27;swhere capabilities like the Agent Workbench in the OutSystems platform matter, said Rajkiran Vajreshwari, senior manager of app development at Thermo Fisher Scientific. It provides the infrastructure to learn, iterate, and govern agents at scale.His team at Thermo Fisher has moved away from single-task AI assistants in customer service to building a coordinated team of specialized agents using the workbench. When a support case arrives, a triage assistant classifies the request and dynamically routes it to the right specialist agent, whether that’s an intent and priority agent, a product context agent, a troubleshooting agent, or a compliance agent.\"We don’t have to think about what will work and how. It’s all pre-built,\" he explained. \"Each agent has a narrow role and clear guardrails. They stay accurate and auditable.”Governing the risks of shadow AIA new category of risk emerges when AI makes it possible for anyone in a company to generate production-level code without IT oversight. Basically, this is ungoverned shadow AI. These homegrown products are prone to hallucinations, data leakage, policy violations, model drift, and agents taking actions that were never formally approved.To get ahead of the risk, leading organizations need to do three things, said Luis Blando, CPTO of OutSystems. \"Give users guardrails. They’re going to use AI whether you like it or not. Companies that seem to be getting ahead are using AI to govern AI across their full portfolio,” he explained. “That is the difference between shadow AI chaos and enterprise-grade scale.”Eric Kavanagh, CEO of The Bloor Group, noted that governance requires a layered set of disciplines that includes securing data, monitoring models for drift, and making deliberate choices about where AI connects to existing business processes.“Companies don’t have to be manually creating these controls,\" he added. \"A lot of those guardrails and levers are baked in to platforms like OutSystems.”Why the real orchestration challenge is models vs. platformsMuch of the early excitement around enterprise AI focused on selecting the right large language model. Now the harder challenge, and far more durable source of value, is orchestration. This includes routing tasks, coordinating workflows, governing execution, and integrating AI into existing enterprise systems.Scott Finkle, VP of development at McConkey Auction Group, noted that LLMs, however impressive, are pieces of complex workflows, not final solutions. Organizations should be ready to hot-swap between Gemini, ChatGPT, Claude, and whatever emerges next without having to rebuild the agentic system around it. A platform with orchestration capabilities makes that possible. It manages the lifecycle, provides visibility, and ensures processes execute reliably, even as AI handles the reasoning layer on top.“The AI and the models change, the workflows can change, but the orchestration remains the same,\" Finkle said. \"That’s how we’re going to extract value out of AI.”The economics of enterprise AI investingSecurity, compliance, governance, and platform-level AI capabilities will all command greater investment in 2026, particularly as AI moves into core workflows like finance and supply chain. Enterprises should favor incremental wins rather than expect big, immediate gains.“We’re focusing on base hits,\" Finkle said. \"The way it counts is by getting something into production and having it make an impact. Big investments in pilot projects that don’t make it into production don’t save any money. It’s not going to happen overnight, but over time I think we’ll see tremendous savings.”There&#x27;s still a split in how enterprises are approaching AI transformation. Some start from scratch and reimagine every process. Others, especially those with billions of dollars in existing infrastructure depreciating in-house, want AI to integrate with their systems. They want agentic systems to reuse data, APIs, and proven processes while speeding up delivery. The agent platform approach serves both camps, but particularly the latter. Organizations can deploy agents where they add clear value while preserving the integrity of established, deterministic workflows.The rise of the enterprise architect and the generalist developerAs AI accelerates code generation, bottlenecks in software delivery are dissolving. In its place is a premium on systems thinking. This is the ability to understand the broader enterprise architecture, decompose complex business problems, and reason about how AI integrates with existing infrastructure. Kavanagh pointed to enterprise architects specifically as the professionals best positioned to capitalize on this moment.“We’re entering a very interesting age of the generalist,\" he explained. \"The better you know your enterprise architecture and your business architecture and how those things align, the better off you’re going to be. ”“The result is faster delivery with fewer interruptions and fewer bugs,\" Kavanaugh said. \"You can focus on the non-repetitive tasks. It’s a benefit to the developer, to the business, and to the whole IT organization.”Catch the entire webinar here.Sponsored articles are content produced by a company that is either paying for the post or has a business relationship with VentureBeat, and they’re always clearly marked. For more information, contact sales@venturebeat.com.",
-          "content": "Presented by OutSystems After two years of flashy AI demos, rushed agent prototypes, and breathless predictions, enterprise technology leaders are striking a more pragmatic tone in 2026. In a recent webinar hosted by OutSystems, a panel of software executives and enterprise practitioners made the case that the most consequential AI work happening now is focused on the practical matters of governance, orchestration, and iteration, along with integrating agents into the systems they&#x27;ve spent decades building.Enterprise leaders are increasingly focused on fundamentals. The priority is using new AI technologies to accelerate productivity, improve delivery, and produce measurable business results.Three elements shape this work:The move from AI agent prototypes to agentic systems that deliver measurable ROI in productionThe growing role of enterprise platforms in governing, orchestrating, and scaling AI agents safelyThe rise of the generalist developer and enterprise architect as the most valuable technical profiles in an era of AI-generated codeAgainst this backdrop, the panel discussed governance frameworks, the economics of enterprise AI, and the limits of large language models without orchestration. The conversation ultimately turned to how leading organizations are building multi-agent systems grounded in existing enterprise data and workflows.Agents in the real world Enabling agents to work in production across the enterprise is best accomplished with a unified platform that handles development, iteration, and deployment. And that&#x27;swhere capabilities like the Agent Workbench in the OutSystems platform matter, said Rajkiran Vajreshwari, senior manager of app development at Thermo Fisher Scientific. It provides the infrastructure to learn, iterate, and govern agents at scale.His team at Thermo Fisher has moved away from single-task AI assistants in customer service to building a coordinated team of specialized agents using the workbench. When a support case arrives, a triage assistant classifies the request and dynamically routes it to the right specialist agent, whether that’s an intent and priority agent, a product context agent, a troubleshooting agent, or a compliance agent.\"We don’t have to think about what will work and how. It’s all pre-built,\" he explained. \"Each agent has a narrow role and clear guardrails. They stay accurate and auditable.”Governing the risks of shadow AIA new category of risk emerges when AI makes it possible for anyone in a company to generate production-level code without IT oversight. Basically, this is ungoverned shadow AI. These homegrown products are prone to hallucinations, data leakage, policy violations, model drift, and agents taking actions that were never formally approved.To get ahead of the risk, leading organizations need to do three things, said Luis Blando, CPTO of OutSystems. \"Give users guardrails. They’re going to use AI whether you like it or not. Companies that seem to be getting ahead are using AI to govern AI across their full portfolio,” he explained. “That is the difference between shadow AI chaos and enterprise-grade scale.”Eric Kavanagh, CEO of The Bloor Group, noted that governance requires a layered set of disciplines that includes securing data, monitoring models for drift, and making deliberate choices about where AI connects to existing business processes.“Companies don’t have to be manually creating these controls,\" he added. \"A lot of those guardrails and levers are baked in to platforms like OutSystems.”Why the real orchestration challenge is models vs. platformsMuch of the early excitement around enterprise AI focused on selecting the right large language model. Now the harder challenge, and far more durable source of value, is orchestration. This includes routing tasks, coordinating workflows, governing execution, and integrating AI into existing enterprise systems.Scott Finkle, VP of development at McConkey Auction Group, noted that LLMs, however impressive, are pieces of complex workflows, not final solutions. Organizations should be ready to hot-swap between Gemini, ChatGPT, Claude, and whatever emerges next without having to rebuild the agentic system around it. A platform with orchestration capabilities makes that possible. It manages the lifecycle, provides visibility, and ensures processes execute reliably, even as AI handles the reasoning layer on top.“The AI and the models change, the workflows can change, but the orchestration remains the same,\" Finkle said. \"That’s how we’re going to extract value out of AI.”The economics of enterprise AI investingSecurity, compliance, governance, and platform-level AI capabilities will all command greater investment in 2026, particularly as AI moves into core workflows like finance and supply chain. Enterprises should favor incremental wins rather than expect big, immediate gains.“We’re focusing on base hits,\" Finkle said. \"The way it counts is by getting something into production and having it make an impact. Big investments in pilot projects that don’t make it into production don’t save any money. It’s not going to happen overnight, but over time I think we’ll see tremendous savings.”There&#x27;s still a split in how enterprises are approaching AI transformation. Some start from scratch and reimagine every process. Others, especially those with billions of dollars in existing infrastructure depreciating in-house, want AI to integrate with their systems. They want agentic systems to reuse data, APIs, and proven processes while speeding up delivery. The agent platform approach serves both camps, but particularly the latter. Organizations can deploy agents where they add clear value while preserving the integrity of established, deterministic workflows.The rise of the enterprise architect and the generalist developerAs AI accelerates code generation, bottlenecks in software delivery are dissolving. In its place is a premium on systems thinking. This is the ability to understand the broader enterprise architecture, decompose complex business problems, and reason about how AI integrates with existing infrastructure. Kavanagh pointed to enterprise architects specifically as the professionals best positioned to capitalize on this moment.“We’re entering a very interesting age of the generalist,\" he explained. \"The better you know your enterprise architecture and your business architecture and how those things align, the better off you’re going to be. ”“The result is faster delivery with fewer interruptions and fewer bugs,\" Kavanaugh said. \"You can focus on the non-repetitive tasks. It’s a benefit to the developer, to the business, and to the whole IT organization.”Catch the entire webinar here.Sponsored articles are content produced by a company that is either paying for the post or has a business relationship with VentureBeat, and they’re always clearly marked. For more information, contact sales@venturebeat.com.",
-          "feed_position": 3,
-          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1vZsMKA4KPgbILWUlfD82K/9e8ea836e3d32d244af59cdeabad8c68/AdobeStock_914441797.jpeg?w=300&q=30"
         }
       ],
       "featured_image": "https://images.ctfassets.net/jdtwqhzvc2n1/40eJYlM7bcrX8EkzGjnaGC/90a1dcf4bc30b684f2ee9a899fef7f7e/LLM_attention_optimization.jpg?w=300&q=30",
-      "popularity_score": 3017.86592
+      "popularity_score": 3012.4792752777776
     },
     {
-      "id": "cluster_43",
-      "coverage": 3,
-      "updated_at": "Fri, 27 Mar 2026 14:40:03 -0400",
-      "title": "The FBI confirms Iran-linked Handala breached Kash Patel's personal email but says the data accessed was \"historical in nature\" and involves no government info (TechCrunch)",
-      "neutral_headline": "DOJ confirms FBI Director Kash Patel’s personal email was hacked",
+      "id": "cluster_7",
+      "coverage": 2,
+      "updated_at": "Fri, 27 Mar 2026 19:45:00 -0400",
+      "title": "NeurIPS reverses a policy change that would have banned papers from researchers at any entity under US sanctions, after backlash from Chinese researchers (Eduardo Baptista/Reuters)",
+      "neutral_headline": "AI Research Is Getting Harder to Separate From Geopolitics",
       "bullet_summary": [
-        "Handala, a pro-Iranian hacking group allegedly working for Iran’s government, published emails it said were taken from the Gmail account of FBI director Kash Patel",
-        "Reported by TechMeme, Ars Technica, TechCrunch"
+        "A policy change announced by NeurIPS, the world’s leading AI research conference, drew widespread backlash from Chinese researchers this week and then was quickly reversed",
+        "Reported by TechMeme, Wired Tech"
       ],
       "items": [
         {
           "source": "TechMeme",
-          "url": "http://www.techmeme.com/260327/p16#a260327p16",
-          "published_at": "Fri, 27 Mar 2026 14:40:03 -0400",
-          "title": "The FBI confirms Iran-linked Handala breached Kash Patel's personal email but says the data accessed was \"historical in nature\" and involves no government info (TechCrunch)",
-          "standfirst": "TechCrunch: The FBI confirms Iran-linked Handala breached Kash Patel's personal email but says the data accessed was &ldquo;historical in nature&rdquo; and involves no government info &mdash; Lorenzo Franceschi-Bicchierai Zack Whittaker &mdash; A hacking group backed by the Iranian government dubbed &ldquo;Handala&rdquo; &hellip;",
-          "content": "TechCrunch: The FBI confirms Iran-linked Handala breached Kash Patel's personal email but says the data accessed was &ldquo;historical in nature&rdquo; and involves no government info &mdash; Lorenzo Franceschi-Bicchierai Zack Whittaker &mdash; A hacking group backed by the Iranian government dubbed &ldquo;Handala&rdquo; &hellip;",
-          "feed_position": 10,
-          "image_url": "http://www.techmeme.com/260327/i16.jpg"
-        },
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/",
-          "published_at": "Fri, 27 Mar 2026 16:24:05 +0000",
-          "title": "DOJ confirms FBI Director Kash Patel’s personal email was hacked",
-          "standfirst": "Hackers claimed the attack was retaliation after Patel vowed to \"hunt\" them.",
-          "content": "Iran-linked hackers successfully broke into FBI Director Kash Patel's personal email, the Department of Justice confirmed to Reuters on Friday. Reuters could not authenticate the leaked emails themselves but noted that the Gmail address matched an email account \"linked to Patel in previous data breaches ⁠preserved by the dark web intelligence firm District 4 Labs.\" The DOJ suggested the emails appeared to be authentic. On their website, the Handala Hack Team boasted that Patel \"will now find his name among the list of successfully hacked victims.\" The hacker group taunted Patel by sharing photos of him sniffing cigars and holding up a jug of rum, along with other documents that Reuters reported were from 2010 to 2019.Read full article Comments",
-          "feed_position": 6,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2266689842-1024x648.jpg"
-        },
-        {
-          "source": "TechMeme",
-          "url": "http://www.techmeme.com/260327/p12#a260327p12",
-          "published_at": "Fri, 27 Mar 2026 11:50:59 -0400",
-          "title": "Iran-linked hacker group Handala Hack Team claims the breach of FBI Director Kash Patel's personal email and publishes some documents online (Reuters)",
-          "standfirst": "Reuters: Iran-linked hacker group Handala Hack Team claims the breach of FBI Director Kash Patel's personal email and publishes some documents online &mdash; Iran-linked hackers have publicly claimed the breach of FBI Director Kash Patel's personal inbox, publishing photographs of the director and his purported resume to the internet.",
-          "content": "Reuters: Iran-linked hacker group Handala Hack Team claims the breach of FBI Director Kash Patel's personal email and publishes some documents online &mdash; Iran-linked hackers have publicly claimed the breach of FBI Director Kash Patel's personal inbox, publishing photographs of the director and his purported resume to the internet.",
-          "feed_position": 14,
-          "image_url": "http://www.techmeme.com/260327/i12.jpg"
-        },
-        {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/03/27/iranian-hackers-claim-breach-of-fbi-director-kash-patels-personal-email-account/",
-          "published_at": "Fri, 27 Mar 2026 15:39:07 +0000",
-          "title": "Iranian hackers claim breach of FBI director Kash Patel&#8217;s personal email account",
-          "standfirst": "Handala, a pro-Iranian hacking group allegedly working for Iran’s government, published emails it said were taken from the Gmail account of FBI director Kash Patel.",
-          "content": "Handala, a pro-Iranian hacking group allegedly working for Iran’s government, published emails it said were taken from the Gmail account of FBI director Kash Patel.",
-          "feed_position": 6
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/260327/i16.jpg",
-      "popularity_score": 3015.239808888889
-    },
-    {
-      "id": "cluster_77",
-      "coverage": 3,
-      "updated_at": "Fri, 27 Mar 2026 13:16:40 +0000",
-      "title": "Senators want US energy information agency to monitor data center electricity usage",
-      "neutral_headline": "Data centers get ready — the Senate wants to see your power bills",
-      "bullet_summary": [
-        "Reported by Ars Technica, TechCrunch, Wired Tech"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/03/senators-want-us-energy-information-agency-to-monitor-data-center-electricity-usage/",
-          "published_at": "Fri, 27 Mar 2026 13:16:40 +0000",
-          "title": "Senators want US energy information agency to monitor data center electricity usage",
-          "standfirst": "In a letter, senators press for mandated annual electricity disclosure for data centers.",
-          "content": "Democratic Senator Elizabeth Warren and Republican Senator Josh Hawley are urging the US’s central energy information agency to provide better information on how much electricity data centers actually use. In a joint letter sent to the Energy Information Administration Thursday morning, seen by WIRED, Hawley and Warren press the agency to publicly collect “comprehensive, annual energy-use disclosures” on data centers. This information, they write, is “essential for accurate grid planning and will support policymaking to prevent large companies from increasing electricity costs for American families.” As the data center boom spreads across the country, there have been widespread worries from voters about how their massive energy needs may increase consumers’ electric bills; this concern helped shape some midterm elections in data-center-heavy states, including Virginia and Georgia. Last month, Hawley cosponsored a bill with Democratic Senator Richard Blumenthal that would require data centers to supply their own power sources in order to protect consumers. Earlier this month, Donald Trump convened a group of executives from Big Tech companies at the White House to sign a nonbinding (and toothless) agreement pledging to pay for their own power for data centers.Read full article Comments",
-          "feed_position": 11,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2019/04/GettyImages-1139755656-1152x648.jpg"
-        },
-        {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/",
-          "published_at": "Thu, 26 Mar 2026 18:23:31 +0000",
-          "title": "Data centers get ready — the Senate wants to see your power bills",
-          "standfirst": "Senators Josh Hawley and Elizabeth Warren want the Energy Information Administration to gather more details about how data centers use power — and how that affects the grid.",
-          "content": "Senators Josh Hawley and Elizabeth Warren want the Energy Information Administration to gather more details about how data centers use power — and how that affects the grid.",
-          "feed_position": 18
+          "url": "http://www.techmeme.com/260327/p27#a260327p27",
+          "published_at": "Fri, 27 Mar 2026 19:45:00 -0400",
+          "title": "NeurIPS reverses a policy change that would have banned papers from researchers at any entity under US sanctions, after backlash from Chinese researchers (Eduardo Baptista/Reuters)",
+          "standfirst": "Eduardo Baptista / Reuters: NeurIPS reverses a policy change that would have banned papers from researchers at any entity under US sanctions, after backlash from Chinese researchers &mdash; A leading artificial intelligence conference on Friday reversed a policy change that would have banned papers from researchers &hellip;",
+          "content": "Eduardo Baptista / Reuters: NeurIPS reverses a policy change that would have banned papers from researchers at any entity under US sanctions, after backlash from Chinese researchers &mdash; A leading artificial intelligence conference on Friday reversed a policy change that would have banned papers from researchers &hellip;",
+          "feed_position": 5,
+          "image_url": "http://www.techmeme.com/260327/i27.jpg"
         },
         {
           "source": "Wired Tech",
-          "url": "https://www.wired.com/story/senators-demand-to-know-how-much-energy-data-centers-use/",
-          "published_at": "Thu, 26 Mar 2026 12:00:00 +0000",
-          "title": "Senators Demand to Know How Much Energy Data Centers Use",
-          "standfirst": "In a letter sent Thursday morning, Elizabeth Warren and Josh Hawley press the Energy Information Agency to mandate annual electricity disclosure for data centers.",
-          "content": "In a letter sent Thursday morning, Elizabeth Warren and Josh Hawley press the Energy Information Agency to mandate annual electricity disclosure for data centers.",
-          "feed_position": 33,
-          "image_url": "https://media.wired.com/photos/69c421794ff31d9d83686f80/master/pass/Elizabeth-Warren-Josh-Hawley-Demand-EIA-Start-Monitoring-How-Much-Energy-Data-Centers-Use-Science-2255930687.jpg"
+          "url": "https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/",
+          "published_at": "Fri, 27 Mar 2026 21:46:39 +0000",
+          "title": "AI Research Is Getting Harder to Separate From Geopolitics",
+          "standfirst": "A policy change announced by NeurIPS, the world’s leading AI research conference, drew widespread backlash from Chinese researchers this week and then was quickly reversed.",
+          "content": "A policy change announced by NeurIPS, the world’s leading AI research conference, drew widespread backlash from Chinese researchers this week and then was quickly reversed.",
+          "feed_position": 0,
+          "image_url": "https://media.wired.com/photos/69c6b7c2b1e88611bd972d9a/master/pass/Made-In-China-AI-Research-Is-Starting-to-Split-Along-Geopolitical-Lines-Business-2246178146.jpg"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2019/04/GettyImages-1139755656-1152x648.jpg",
-      "popularity_score": 3009.850086666667
+      "featured_image": "http://www.techmeme.com/260327/i27.jpg",
+      "popularity_score": 2014.9356641666666
     },
     {
-      "id": "cluster_0",
+      "id": "cluster_8",
       "coverage": 2,
       "updated_at": "Fri, 27 Mar 2026 19:05:00 -0400",
       "title": "Sony Japan temporarily suspends fulfillment of orders for nearly all of its CFexpress and SD memory card product lines due to solid state memory shortages (Jaron Schneider/PetaPixel)",
@@ -314,7 +242,7 @@
           "title": "Sony Japan temporarily suspends fulfillment of orders for nearly all of its CFexpress and SD memory card product lines due to solid state memory shortages (Jaron Schneider/PetaPixel)",
           "standfirst": "Jaron Schneider / PetaPixel: Sony Japan temporarily suspends fulfillment of orders for nearly all of its CFexpress and SD memory card product lines due to solid state memory shortages &mdash; The global shortage of solid state memory has claimed its first photographic victim, as Sony has announced that it is suspending fulfillment &hellip;",
           "content": "Jaron Schneider / PetaPixel: Sony Japan temporarily suspends fulfillment of orders for nearly all of its CFexpress and SD memory card product lines due to solid state memory shortages &mdash; The global shortage of solid state memory has claimed its first photographic victim, as Sony has announced that it is suspending fulfillment &hellip;",
-          "feed_position": 0,
+          "feed_position": 6,
           "image_url": "http://www.techmeme.com/260327/i26.jpg"
         },
         {
@@ -328,10 +256,10 @@
         }
       ],
       "featured_image": "http://www.techmeme.com/260327/i26.jpg",
-      "popularity_score": 2019.6556422222222
+      "popularity_score": 2014.2689975
     },
     {
-      "id": "cluster_51",
+      "id": "cluster_55",
       "coverage": 2,
       "updated_at": "Fri, 27 Mar 2026 17:53:27 GMT",
       "title": "The best phone deals from T-Mobile, Verizon, AT&T and other carriers right now",
@@ -356,15 +284,83 @@
           "title": "Which E-Readers I'd Recommend Buying in Amazon's Spring Sale",
           "standfirst": "Amazon's Spring Sale has multiple of our favorite e-readers discounted, including one that's now under $100.",
           "content": "Amazon's Spring Sale has multiple of our favorite e-readers discounted, including one that's now under $100.",
-          "feed_position": 27,
+          "feed_position": 26,
           "image_url": "https://media.wired.com/photos/69c48b0a086bd8701941544f/master/pass/Our-Favorite-E-Readers-Are-On-Sale-Right-Now.jpg"
         }
       ],
       "featured_image": "https://media.wired.com/photos/69c48b0a086bd8701941544f/master/pass/Our-Favorite-E-Readers-Are-On-Sale-Right-Now.jpg",
-      "popularity_score": 2014.4631422222221
+      "popularity_score": 2009.0764975
     },
     {
-      "id": "cluster_12",
+      "id": "cluster_63",
+      "coverage": 2,
+      "updated_at": "Fri, 27 Mar 2026 16:24:05 +0000",
+      "title": "DOJ confirms FBI Director Kash Patel’s personal email was hacked",
+      "neutral_headline": "DOJ confirms FBI Director Kash Patel’s personal email was hacked",
+      "bullet_summary": [
+        "Handala, a pro-Iranian hacking group allegedly working for Iran’s government, published emails it said were taken from the Gmail account of FBI director Kash Patel",
+        "Reported by Ars Technica, TechCrunch"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/",
+          "published_at": "Fri, 27 Mar 2026 16:24:05 +0000",
+          "title": "DOJ confirms FBI Director Kash Patel’s personal email was hacked",
+          "standfirst": "Hackers claimed the attack was retaliation after Patel vowed to \"hunt\" them.",
+          "content": "Iran-linked hackers successfully broke into FBI Director Kash Patel's personal email, the Department of Justice confirmed to Reuters on Friday. Reuters could not authenticate the leaked emails themselves but noted that the Gmail address matched an email account \"linked to Patel in previous data breaches ⁠preserved by the dark web intelligence firm District 4 Labs.\" The DOJ suggested the emails appeared to be authentic. On their website, the Handala Hack Team boasted that Patel \"will now find his name among the list of successfully hacked victims.\" The hacker group taunted Patel by sharing photos of him sniffing cigars and holding up a jug of rum, along with other documents that Reuters reported were from 2010 to 2019.Read full article Comments",
+          "feed_position": 6,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2266689842-1024x648.jpg"
+        },
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/03/27/iranian-hackers-claim-breach-of-fbi-director-kash-patels-personal-email-account/",
+          "published_at": "Fri, 27 Mar 2026 15:39:07 +0000",
+          "title": "Iranian hackers claim breach of FBI director Kash Patel&#8217;s personal email account",
+          "standfirst": "Handala, a pro-Iranian hacking group allegedly working for Iran’s government, published emails it said were taken from the Gmail account of FBI director Kash Patel.",
+          "content": "Handala, a pro-Iranian hacking group allegedly working for Iran’s government, published emails it said were taken from the Gmail account of FBI director Kash Patel.",
+          "feed_position": 8
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2266689842-1024x648.jpg",
+      "popularity_score": 2007.5870530555555
+    },
+    {
+      "id": "cluster_80",
+      "coverage": 2,
+      "updated_at": "Fri, 27 Mar 2026 13:16:40 +0000",
+      "title": "Senators want US energy information agency to monitor data center electricity usage",
+      "neutral_headline": "Senators Demand to Know How Much Energy Data Centers Use",
+      "bullet_summary": [
+        "Reported by Ars Technica, Wired Tech"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/03/senators-want-us-energy-information-agency-to-monitor-data-center-electricity-usage/",
+          "published_at": "Fri, 27 Mar 2026 13:16:40 +0000",
+          "title": "Senators want US energy information agency to monitor data center electricity usage",
+          "standfirst": "In a letter, senators press for mandated annual electricity disclosure for data centers.",
+          "content": "Democratic Senator Elizabeth Warren and Republican Senator Josh Hawley are urging the US’s central energy information agency to provide better information on how much electricity data centers actually use. In a joint letter sent to the Energy Information Administration Thursday morning, seen by WIRED, Hawley and Warren press the agency to publicly collect “comprehensive, annual energy-use disclosures” on data centers. This information, they write, is “essential for accurate grid planning and will support policymaking to prevent large companies from increasing electricity costs for American families.” As the data center boom spreads across the country, there have been widespread worries from voters about how their massive energy needs may increase consumers’ electric bills; this concern helped shape some midterm elections in data-center-heavy states, including Virginia and Georgia. Last month, Hawley cosponsored a bill with Democratic Senator Richard Blumenthal that would require data centers to supply their own power sources in order to protect consumers. Earlier this month, Donald Trump convened a group of executives from Big Tech companies at the White House to sign a nonbinding (and toothless) agreement pledging to pay for their own power for data centers.Read full article Comments",
+          "feed_position": 11,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2019/04/GettyImages-1139755656-1152x648.jpg"
+        },
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/senators-demand-to-know-how-much-energy-data-centers-use/",
+          "published_at": "Thu, 26 Mar 2026 12:00:00 +0000",
+          "title": "Senators Demand to Know How Much Energy Data Centers Use",
+          "standfirst": "In a letter sent Thursday morning, Elizabeth Warren and Josh Hawley press the Energy Information Agency to mandate annual electricity disclosure for data centers.",
+          "content": "In a letter sent Thursday morning, Elizabeth Warren and Josh Hawley press the Energy Information Agency to mandate annual electricity disclosure for data centers.",
+          "feed_position": 32,
+          "image_url": "https://media.wired.com/photos/69c421794ff31d9d83686f80/master/pass/Elizabeth-Warren-Josh-Hawley-Demand-EIA-Start-Monitoring-How-Much-Energy-Data-Centers-Use-Science-2255930687.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2019/04/GettyImages-1139755656-1152x648.jpg",
+      "popularity_score": 2004.4634419444444
+    },
+    {
+      "id": "cluster_20",
       "coverage": 1,
       "updated_at": "Fri, 27 Mar 2026 21:53:45 +0000",
       "title": "With new plugins feature, OpenAI officially takes Codex beyond coding",
@@ -385,10 +381,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/codex-plugins-1152x648.jpg",
-      "popularity_score": 356.46814222222224
+      "popularity_score": 351.0814975
     },
     {
-      "id": "cluster_7",
+      "id": "cluster_15",
       "coverage": 1,
       "updated_at": "Fri, 27 Mar 2026 22:09:00 +0000",
       "title": "Playing Wolfenstein 3D with one hand in 2026",
@@ -409,10 +405,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/wofl3d-1.jpg",
-      "popularity_score": 348.7223088888889
+      "popularity_score": 343.3356641666667
     },
     {
-      "id": "cluster_18",
+      "id": "cluster_25",
       "coverage": 1,
       "updated_at": "Fri, 27 Mar 2026 21:43:00 +0000",
       "title": "Outbreak linked to raw cheese grows; 9 cases total, one with kidney failure",
@@ -433,10 +429,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/RAW-FARM-Raw-Cheddar-Cheese-Label.png",
-      "popularity_score": 346.28897555555557
+      "popularity_score": 340.90233083333334
     },
     {
-      "id": "cluster_24",
+      "id": "cluster_31",
       "coverage": 1,
       "updated_at": "Fri, 27 Mar 2026 21:10:25 +0000",
       "title": "Judge irate as defendant joins by Zoom while driving—then lies about it",
@@ -457,10 +453,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1407642057-1152x648-1774644559.jpg",
-      "popularity_score": 320.74592
+      "popularity_score": 315.3592752777778
     },
     {
-      "id": "cluster_30",
+      "id": "cluster_37",
       "coverage": 1,
       "updated_at": "Fri, 27 Mar 2026 20:31:21 +0000",
       "title": "AV1’s open, royalty-free promise in question as Dolby sues Snapchat over codec",
@@ -481,10 +477,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2259062605-1024x648.jpg",
-      "popularity_score": 310.0948088888889
+      "popularity_score": 304.7081641666667
     },
     {
-      "id": "cluster_34",
+      "id": "cluster_41",
       "coverage": 1,
       "updated_at": "Fri, 27 Mar 2026 19:49:18 +0000",
       "title": "Hegseth, Trump had no authority to order Anthropic to be blacklisted, judge says",
@@ -505,10 +501,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2267370596-1024x648.jpg",
-      "popularity_score": 299.3939755555556
+      "popularity_score": 294.00733083333336
     },
     {
-      "id": "cluster_61",
+      "id": "cluster_64",
       "coverage": 1,
       "updated_at": "Fri, 27 Mar 2026 15:57:40 +0000",
       "title": "Sony is raising PlayStation 5 prices again, this time by between $100 and $150",
@@ -529,10 +525,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/ps-logo-1152x648.jpg",
-      "popularity_score": 290.53342
+      "popularity_score": 285.1467752777778
     },
     {
-      "id": "cluster_64",
+      "id": "cluster_67",
       "coverage": 1,
       "updated_at": "Fri, 27 Mar 2026 15:42:35 +0000",
       "title": "No one is happy with NASA's new idea for private space stations",
@@ -553,10 +549,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/core-module-1152x648-1774629991.jpg",
-      "popularity_score": 273.2820311111111
+      "popularity_score": 267.8953863888889
     },
     {
-      "id": "cluster_69",
+      "id": "cluster_72",
       "coverage": 1,
       "updated_at": "Fri, 27 Mar 2026 14:47:03 +0000",
       "title": "Apple pulls the plug on its high-priced, oft-neglected Mac Pro desktop",
@@ -577,10 +573,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/Mac-Pro-main-view-scaled-1-1152x648-1774591771.jpg",
-      "popularity_score": 266.35647555555556
+      "popularity_score": 260.96983083333333
     },
     {
-      "id": "cluster_115",
+      "id": "cluster_118",
       "coverage": 1,
       "updated_at": "Thu, 26 Mar 2026 20:30:48 +0000",
       "title": "Netflix raises prices for every subscription tier by up to 12.5 percent",
@@ -604,7 +600,7 @@
       "popularity_score": 154
     },
     {
-      "id": "cluster_72",
+      "id": "cluster_75",
       "coverage": 1,
       "updated_at": "Fri, 27 Mar 2026 13:53:18 +0000",
       "title": "Rivian and VW Group complete winter testing of new zonal architecture",
@@ -625,34 +621,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/B2026CW00095-1152x648.jpg",
-      "popularity_score": 148.46064222222222
+      "popularity_score": 143.0739975
     },
     {
-      "id": "cluster_80",
-      "coverage": 1,
-      "updated_at": "Fri, 27 Mar 2026 12:35:40 +0000",
-      "title": "Rocket Report: Russia reopens gateway to ISS; Cape Canaveral hosts missile test",
-      "neutral_headline": "Rocket Report: Russia reopens gateway to ISS; Cape Canaveral hosts missile test",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/03/rocket-report-russian-megaconstellation-takes-off-isar-preps-for-second-launch/",
-          "published_at": "Fri, 27 Mar 2026 12:35:40 +0000",
-          "title": "Rocket Report: Russia reopens gateway to ISS; Cape Canaveral hosts missile test",
-          "standfirst": "The US Space Force might move additional payloads off of ULA's grounded Vulcan rocket.",
-          "content": "Welcome to Edition 8.35 of the Rocket Report! The headlines this week are again dominated by the big changes afoot in NASA's exploration program, with the announcement of a Moon base and a nuclear-powered rocket to Mars. The shakeups come as the agency is just a week away from launching Artemis II, a circumlunar flight carrying a crew of four around the Moon. The Ars space team will be writing extensively about this mission in the days ahead, and we may skip the Rocket Report next week to focus on our Artemis II coverage. As always, we welcome reader submissions. If you don't want to miss an issue, please subscribe using the box below (the form will not appear on AMP-enabled versions of the site). Each report will include information on small-, medium-, and heavy-lift rockets, as well as a quick look ahead at the next three launches on the calendar. NASA announces nuclear rocket demo. NASA's announcement Tuesday that it will \"pause\" work on a lunar space station and focus on building a surface base on the Moon was no big surprise to anyone paying attention to the Trump administration’s space policy. But what should NASA do with hardware already built for the Gateway outpost? NASA spent close to $4.5 billion on developing a human-tended complex in orbit around the Moon since the Gateway program’s official start in 2019. There are pieces of the station undergoing construction and testing in factories scattered around the world. The centerpiece of Gateway, called the Power and Propulsion Element, is closest to being ready for launch. NASA’s rejigged exploration roadmap, revealed Tuesday in an all-day event at NASA headquarters in Washington, calls for repurposing the core module for a nuclear-electric propulsion demonstration in deep space, Ars reports.Read full article Comments",
-          "feed_position": 13,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/soyuzprogms33-1152x648-1774582700.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/soyuzprogms33-1152x648-1774582700.jpg",
-      "popularity_score": 147.16675333333333
-    },
-    {
-      "id": "cluster_111",
+      "id": "cluster_114",
       "coverage": 1,
       "updated_at": "Thu, 26 Mar 2026 21:04:31 +0000",
       "title": "Internet Yiff Machine: We hacked 93GB of \"anonymous\" crime tips",
@@ -676,31 +648,31 @@
       "popularity_score": 143
     },
     {
-      "id": "cluster_79",
+      "id": "cluster_83",
       "coverage": 1,
-      "updated_at": "Fri, 27 Mar 2026 12:44:12 +0000",
-      "title": "AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip",
-      "neutral_headline": "AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip",
+      "updated_at": "Fri, 27 Mar 2026 12:35:40 +0000",
+      "title": "Rocket Report: Russia reopens gateway to ISS; Cape Canaveral hosts missile test",
+      "neutral_headline": "Rocket Report: Russia reopens gateway to ISS; Cape Canaveral hosts missile test",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/",
-          "published_at": "Fri, 27 Mar 2026 12:44:12 +0000",
-          "title": "AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip",
-          "standfirst": "Both of the chip's CPU dies will include 64MB of extra cache stacked beneath.",
-          "content": "For about four years now, AMD has offered special \"X3D\" variants of its high-end desktop processors with an extra 64MB of L3 cache attached, an addition that disproportionately benefits games. AMD calls this \"3D V-Cache\" because it stacks the cache directly on top of (for Ryzen 5000 and 7000) or beneath (for Ryzen 9000) the CPU die. The 12- and 16-core Ryzen chips have their CPU cores split between two silicon chiplets, which has historically made the 7900X3D, 7950X3D, 9900X3D, and 9950X3D a bit weird. One of their two CPU chiplets has the 64MB of 3D V-Cache attached, and one does not. AMD relies on its driver software to make sure that software that benefits from the extra cache is run on the V-Cache-enabled CPU cores, which usually works well but is occasionally error-prone. Enter the Ryzen 9 9950X3D2 Dual Edition, a mouthful of a chip that includes 64MB of 3D V-Cache on both processor dies, without the hybrid arrangement that has defined the other chips up until now. This gives the chip a grand total of 208MB of cache—16MB of L2 cache, the 32MB of L3 cache built into each of the two CPU dies (for a total of 64MB), and then another 64MB chunk of 3D V-Cache per die. In total, AMD says the new chip should be as much as 10 percent faster than the 9950X3D in games and other apps that benefit from the extra cache.Read full article Comments",
-          "feed_position": 12,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/9950x3d2-1152x648.jpeg"
+          "url": "https://arstechnica.com/space/2026/03/rocket-report-russian-megaconstellation-takes-off-isar-preps-for-second-launch/",
+          "published_at": "Fri, 27 Mar 2026 12:35:40 +0000",
+          "title": "Rocket Report: Russia reopens gateway to ISS; Cape Canaveral hosts missile test",
+          "standfirst": "The US Space Force might move additional payloads off of ULA's grounded Vulcan rocket.",
+          "content": "Welcome to Edition 8.35 of the Rocket Report! The headlines this week are again dominated by the big changes afoot in NASA's exploration program, with the announcement of a Moon base and a nuclear-powered rocket to Mars. The shakeups come as the agency is just a week away from launching Artemis II, a circumlunar flight carrying a crew of four around the Moon. The Ars space team will be writing extensively about this mission in the days ahead, and we may skip the Rocket Report next week to focus on our Artemis II coverage. As always, we welcome reader submissions. If you don't want to miss an issue, please subscribe using the box below (the form will not appear on AMP-enabled versions of the site). Each report will include information on small-, medium-, and heavy-lift rockets, as well as a quick look ahead at the next three launches on the calendar. NASA announces nuclear rocket demo. NASA's announcement Tuesday that it will \"pause\" work on a lunar space station and focus on building a surface base on the Moon was no big surprise to anyone paying attention to the Trump administration’s space policy. But what should NASA do with hardware already built for the Gateway outpost? NASA spent close to $4.5 billion on developing a human-tended complex in orbit around the Moon since the Gateway program’s official start in 2019. There are pieces of the station undergoing construction and testing in factories scattered around the world. The centerpiece of Gateway, called the Power and Propulsion Element, is closest to being ready for launch. NASA’s rejigged exploration roadmap, revealed Tuesday in an all-day event at NASA headquarters in Washington, calls for repurposing the core module for a nuclear-electric propulsion demonstration in deep space, Ars reports.Read full article Comments",
+          "feed_position": 13,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/soyuzprogms33-1152x648-1774582700.jpg"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/9950x3d2-1152x648.jpeg",
-      "popularity_score": 142.30897555555555
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/soyuzprogms33-1152x648-1774582700.jpg",
+      "popularity_score": 141.7801086111111
     },
     {
-      "id": "cluster_119",
+      "id": "cluster_122",
       "coverage": 1,
       "updated_at": "Thu, 26 Mar 2026 19:06:12 +0000",
       "title": "You've got $20,000 to spend on an EV: Here are some options",
@@ -724,7 +696,31 @@
       "popularity_score": 139
     },
     {
-      "id": "cluster_106",
+      "id": "cluster_82",
+      "coverage": 1,
+      "updated_at": "Fri, 27 Mar 2026 12:44:12 +0000",
+      "title": "AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip",
+      "neutral_headline": "AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/",
+          "published_at": "Fri, 27 Mar 2026 12:44:12 +0000",
+          "title": "AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip",
+          "standfirst": "Both of the chip's CPU dies will include 64MB of extra cache stacked beneath.",
+          "content": "For about four years now, AMD has offered special \"X3D\" variants of its high-end desktop processors with an extra 64MB of L3 cache attached, an addition that disproportionately benefits games. AMD calls this \"3D V-Cache\" because it stacks the cache directly on top of (for Ryzen 5000 and 7000) or beneath (for Ryzen 9000) the CPU die. The 12- and 16-core Ryzen chips have their CPU cores split between two silicon chiplets, which has historically made the 7900X3D, 7950X3D, 9900X3D, and 9950X3D a bit weird. One of their two CPU chiplets has the 64MB of 3D V-Cache attached, and one does not. AMD relies on its driver software to make sure that software that benefits from the extra cache is run on the V-Cache-enabled CPU cores, which usually works well but is occasionally error-prone. Enter the Ryzen 9 9950X3D2 Dual Edition, a mouthful of a chip that includes 64MB of 3D V-Cache on both processor dies, without the hybrid arrangement that has defined the other chips up until now. This gives the chip a grand total of 208MB of cache—16MB of L2 cache, the 32MB of L3 cache built into each of the two CPU dies (for a total of 64MB), and then another 64MB chunk of 3D V-Cache per die. In total, AMD says the new chip should be as much as 10 percent faster than the 9950X3D in games and other apps that benefit from the extra cache.Read full article Comments",
+          "feed_position": 12,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/9950x3d2-1152x648.jpeg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/9950x3d2-1152x648.jpeg",
+      "popularity_score": 136.92233083333332
+    },
+    {
+      "id": "cluster_109",
       "coverage": 1,
       "updated_at": "Thu, 26 Mar 2026 21:50:26 +0000",
       "title": "Elon Musk loses big in court; X boycott perfectly legal",
@@ -748,7 +744,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_109",
+      "id": "cluster_112",
       "coverage": 1,
       "updated_at": "Thu, 26 Mar 2026 21:27:16 +0000",
       "title": "Spotify seeks $300M from Anna's Archive, which ignores all court proceedings",
@@ -772,7 +768,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_112",
+      "id": "cluster_115",
       "coverage": 1,
       "updated_at": "Thu, 26 Mar 2026 20:46:09 +0000",
       "title": "As RFK Jr.’s anti-vaccine ways turn toxic to GOP, CDC director is hard to find",
