@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-03-29T23:25:31.874Z",
+  "updated_at": "2026-03-30T05:18:14.458Z",
   "clusters": [
     {
-      "id": "cluster_2",
+      "id": "cluster_16",
       "coverage": 3,
       "updated_at": "2026-03-29T17:44:41-04:00",
       "title": "Bluesky’s new app is an AI for customizing your feed",
@@ -18,7 +18,7 @@
           "title": "Bluesky’s new app is an AI for customizing your feed",
           "standfirst": "The latest app from the team behind Bluesky is Attie, an AI assistant that lets you build your own algorithm. At the Atmosphere conference, Bluesky's former CEO, Jay Graber, and CTO Paul Frazee, unveiled Attie, which is powered by Anthropic's Claude and built on top of Bluesky's underlying AT Protocol (atproto). Attie allows users to [&#8230;]",
           "content": "The latest app from the team behind Bluesky is Attie, an AI assistant that lets you build your own algorithm. At the Atmosphere conference, Bluesky's former CEO, Jay Graber, and CTO Paul Frazee, unveiled Attie, which is powered by Anthropic's Claude and built on top of Bluesky's underlying AT Protocol (atproto). Attie allows users to create custom feeds using natural language. For example, you could ask for \"posts about folklore, mythology, and traditional music, especially Celtic traditions.\" To start these custom feeds will be confined to a standalone Attie app. But the plan is to make them available in Bluesky and other atproto apps. … Read the full story at The Verge.",
-          "feed_position": 0
+          "feed_position": 1
         },
         {
           "source": "TechMeme",
@@ -27,7 +27,7 @@
           "title": "Bluesky's CEO talks about Attie, a new agentic social app built on Bluesky's AT Protocol that uses Claude and lets users build custom feeds (Sarah Perez/TechCrunch)",
           "standfirst": "Sarah Perez / TechCrunch: Bluesky's CEO talks about Attie, a new agentic social app built on Bluesky's AT Protocol that uses Claude and lets users build custom feeds &mdash; The team from Bluesky has built another app &mdash; and this time, it's not a social network, but an AI assistant that allows you to design your own algorithm &hellip;",
           "content": "Sarah Perez / TechCrunch: Bluesky's CEO talks about Attie, a new agentic social app built on Bluesky's AT Protocol that uses Claude and lets users build custom feeds &mdash; The team from Bluesky has built another app &mdash; and this time, it's not a social network, but an AI assistant that allows you to design your own algorithm &hellip;",
-          "feed_position": 2,
+          "feed_position": 9,
           "image_url": "http://www.techmeme.com/260329/i7.jpg"
         },
         {
@@ -37,14 +37,14 @@
           "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
           "standfirst": "Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
           "content": "Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
-          "feed_position": 6
+          "feed_position": 7
         }
       ],
       "featured_image": "http://www.techmeme.com/260329/i7.jpg",
-      "popularity_score": 3018.3192016666667
+      "popularity_score": 3012.440706111111
     },
     {
-      "id": "cluster_14",
+      "id": "cluster_28",
       "coverage": 2,
       "updated_at": "Sun, 29 Mar 2026 16:00:00 GMT",
       "title": "When product managers ship code: AI just broke the software org chart",
@@ -97,10 +97,10 @@
         }
       ],
       "featured_image": "https://images.ctfassets.net/jdtwqhzvc2n1/H7LvPAXDoKpIKf67inh3M/627c264db2858d68eb459af3b0228f2f/Coders.png?w=300&q=30",
-      "popularity_score": 2012.5744794444445
+      "popularity_score": 2006.6959838888888
     },
     {
-      "id": "cluster_22",
+      "id": "cluster_36",
       "coverage": 1,
       "updated_at": "Sun, 29 Mar 2026 11:35:10 +0000",
       "title": "Pints meet prop bets: Polymarket’s “Situation Room” pop-up bar in DC",
@@ -121,34 +121,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/image-2-1152x648.jpeg",
-      "popularity_score": 341.16059055555553
+      "popularity_score": 335.282095
     },
     {
-      "id": "cluster_23",
-      "coverage": 1,
-      "updated_at": "Sun, 29 Mar 2026 11:01:46 +0000",
-      "title": "Polygraphs have major flaws. Are there better options?",
-      "neutral_headline": "Polygraphs have major flaws. Are there better options",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/03/polygraphs-have-major-flaws-are-there-better-options/",
-          "published_at": "Sun, 29 Mar 2026 11:01:46 +0000",
-          "title": "Polygraphs have major flaws. Are there better options?",
-          "standfirst": "Research proceeds on alternatives, but some doubt whether true lie detection is possible.",
-          "content": "When George W. Maschke applied to work for the FBI in 1994, he had already held a security clearance for over 11 years. The government had deemed him trustworthy through his career in the Army. But soon, a machine and a man would not come to the same conclusion. His application to be a special agent had passed initial muster. And so, in the spring of 1995, according to his account, he found himself sitting across from an FBI polygraph examiner, answering questions about his life and loyalties. He told the truth, he said in an interview with Undark. But in a blog post on his website, he recalled the examiner told him that the polygraph machine—which measured some of Maschke’s physiological responses—indicated that he was being deceptive about keeping classified information secret, and about his contacts with foreign intelligence agencies.Read full article Comments",
-          "feed_position": 1,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/liedetector-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/liedetector-1152x648.jpg",
-      "popularity_score": 330.6039238888889
-    },
-    {
-      "id": "cluster_66",
+      "id": "cluster_69",
       "coverage": 1,
       "updated_at": "Sat, 28 Mar 2026 12:30:43 +0000",
       "title": "Explanation for why we don't see two-foot-long dragonflies anymore fails",
@@ -172,7 +148,31 @@
       "popularity_score": 328
     },
     {
-      "id": "cluster_68",
+      "id": "cluster_37",
+      "coverage": 1,
+      "updated_at": "Sun, 29 Mar 2026 11:01:46 +0000",
+      "title": "Polygraphs have major flaws. Are there better options?",
+      "neutral_headline": "Polygraphs have major flaws. Are there better options",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/03/polygraphs-have-major-flaws-are-there-better-options/",
+          "published_at": "Sun, 29 Mar 2026 11:01:46 +0000",
+          "title": "Polygraphs have major flaws. Are there better options?",
+          "standfirst": "Research proceeds on alternatives, but some doubt whether true lie detection is possible.",
+          "content": "When George W. Maschke applied to work for the FBI in 1994, he had already held a security clearance for over 11 years. The government had deemed him trustworthy through his career in the Army. But soon, a machine and a man would not come to the same conclusion. His application to be a special agent had passed initial muster. And so, in the spring of 1995, according to his account, he found himself sitting across from an FBI polygraph examiner, answering questions about his life and loyalties. He told the truth, he said in an interview with Undark. But in a blog post on his website, he recalled the examiner told him that the polygraph machine—which measured some of Maschke’s physiological responses—indicated that he was being deceptive about keeping classified information secret, and about his contacts with foreign intelligence agencies.Read full article Comments",
+          "feed_position": 1,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/liedetector-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/liedetector-1152x648.jpg",
+      "popularity_score": 324.72542833333335
+    },
+    {
+      "id": "cluster_71",
       "coverage": 1,
       "updated_at": "Sat, 28 Mar 2026 12:00:31 +0000",
       "title": "Causality optional? Testing the \"indefinite causal order\" superposition",
@@ -196,7 +196,7 @@
       "popularity_score": 308
     },
     {
-      "id": "cluster_71",
+      "id": "cluster_74",
       "coverage": 1,
       "updated_at": "Sat, 28 Mar 2026 11:15:35 +0000",
       "title": "How new fishing tech can reduce bycatch of turtles and other creatures",
