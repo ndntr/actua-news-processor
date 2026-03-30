@@ -1,33 +1,58 @@
 {
-  "updated_at": "2026-03-30T05:18:14.458Z",
+  "updated_at": "2026-03-30T08:18:14.775Z",
   "clusters": [
     {
-      "id": "cluster_16",
-      "coverage": 3,
-      "updated_at": "2026-03-29T17:44:41-04:00",
-      "title": "Bluesky’s new app is an AI for customizing your feed",
-      "neutral_headline": "Bluesky’s new app is an AI for customizing your feed",
+      "id": "cluster_2",
+      "coverage": 2,
+      "updated_at": "Mon, 30 Mar 2026 01:20:06 -0400",
+      "title": "Emails, texts, and NTSB reports show Waymo and an Austin school district struggled for months to train robotaxis to stop for school buses as required by law (Aarian Marshall/Wired)",
+      "neutral_headline": "A School District Tried to Help Train Waymos to Stop for School Buses. It Didn’t Work",
       "bullet_summary": [
-        "Reported by The Verge, TechMeme, TechCrunch"
+        "Reported by TechMeme, Wired Tech"
       ],
       "items": [
         {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds",
-          "published_at": "2026-03-29T17:44:41-04:00",
-          "title": "Bluesky’s new app is an AI for customizing your feed",
-          "standfirst": "The latest app from the team behind Bluesky is Attie, an AI assistant that lets you build your own algorithm. At the Atmosphere conference, Bluesky's former CEO, Jay Graber, and CTO Paul Frazee, unveiled Attie, which is powered by Anthropic's Claude and built on top of Bluesky's underlying AT Protocol (atproto). Attie allows users to [&#8230;]",
-          "content": "The latest app from the team behind Bluesky is Attie, an AI assistant that lets you build your own algorithm. At the Atmosphere conference, Bluesky's former CEO, Jay Graber, and CTO Paul Frazee, unveiled Attie, which is powered by Anthropic's Claude and built on top of Bluesky's underlying AT Protocol (atproto). Attie allows users to create custom feeds using natural language. For example, you could ask for \"posts about folklore, mythology, and traditional music, especially Celtic traditions.\" To start these custom feeds will be confined to a standalone Attie app. But the plan is to make them available in Bluesky and other atproto apps. … Read the full story at The Verge.",
-          "feed_position": 1
+          "source": "TechMeme",
+          "url": "http://www.techmeme.com/260330/p3#a260330p3",
+          "published_at": "Mon, 30 Mar 2026 01:20:06 -0400",
+          "title": "Emails, texts, and NTSB reports show Waymo and an Austin school district struggled for months to train robotaxis to stop for school buses as required by law (Aarian Marshall/Wired)",
+          "standfirst": "Aarian Marshall / Wired: Emails, texts, and NTSB reports show Waymo and an Austin school district struggled for months to train robotaxis to stop for school buses as required by law &mdash; The incidents in Austin raise questions about how self-driving cars &ldquo;learn&rdquo; and adapt to their surroundings.",
+          "content": "Aarian Marshall / Wired: Emails, texts, and NTSB reports show Waymo and an Austin school district struggled for months to train robotaxis to stop for school buses as required by law &mdash; The incidents in Austin raise questions about how self-driving cars &ldquo;learn&rdquo; and adapt to their surroundings.",
+          "feed_position": 2,
+          "image_url": "http://www.techmeme.com/260330/i3.jpg"
         },
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/a-school-district-tried-to-help-train-waymos-to-stop-for-school-buses-it-didnt-work/",
+          "published_at": "Sun, 29 Mar 2026 11:00:00 +0000",
+          "title": "A School District Tried to Help Train Waymos to Stop for School Buses. It Didn’t Work",
+          "standfirst": "The incidents in Austin raise questions about how self-driving cars “learn” and adapt to their surroundings.",
+          "content": "The incidents in Austin raise questions about how self-driving cars “learn” and adapt to their surroundings.",
+          "feed_position": 1,
+          "image_url": "https://media.wired.com/photos/69c41990d449365b26bdb7c5/master/pass/gear_waymo_bus_GettyImages-2149191988.jpg"
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/260330/i3.jpg",
+      "popularity_score": 2017.0308958333333
+    },
+    {
+      "id": "cluster_28",
+      "coverage": 2,
+      "updated_at": "Sun, 29 Mar 2026 12:45:01 -0400",
+      "title": "Bluesky CEO Toni Schneider talks about Attie, a new agentic social app built on Bluesky's AT Protocol that uses Claude and lets users build custom feeds (Sarah Perez/TechCrunch)",
+      "neutral_headline": "Bluesky leans into AI with Attie, an app for building custom feeds",
+      "bullet_summary": [
+        "Reported by TechMeme, TechCrunch"
+      ],
+      "items": [
         {
           "source": "TechMeme",
           "url": "http://www.techmeme.com/260329/p7#a260329p7",
           "published_at": "Sun, 29 Mar 2026 12:45:01 -0400",
-          "title": "Bluesky's CEO talks about Attie, a new agentic social app built on Bluesky's AT Protocol that uses Claude and lets users build custom feeds (Sarah Perez/TechCrunch)",
-          "standfirst": "Sarah Perez / TechCrunch: Bluesky's CEO talks about Attie, a new agentic social app built on Bluesky's AT Protocol that uses Claude and lets users build custom feeds &mdash; The team from Bluesky has built another app &mdash; and this time, it's not a social network, but an AI assistant that allows you to design your own algorithm &hellip;",
-          "content": "Sarah Perez / TechCrunch: Bluesky's CEO talks about Attie, a new agentic social app built on Bluesky's AT Protocol that uses Claude and lets users build custom feeds &mdash; The team from Bluesky has built another app &mdash; and this time, it's not a social network, but an AI assistant that allows you to design your own algorithm &hellip;",
-          "feed_position": 9,
+          "title": "Bluesky CEO Toni Schneider talks about Attie, a new agentic social app built on Bluesky's AT Protocol that uses Claude and lets users build custom feeds (Sarah Perez/TechCrunch)",
+          "standfirst": "Sarah Perez / TechCrunch: Bluesky CEO Toni Schneider talks about Attie, a new agentic social app built on Bluesky's AT Protocol that uses Claude and lets users build custom feeds &mdash; The team from Bluesky has built another app &mdash; and this time, it's not a social network, but an AI assistant that allows you to design &hellip;",
+          "content": "Sarah Perez / TechCrunch: Bluesky CEO Toni Schneider talks about Attie, a new agentic social app built on Bluesky's AT Protocol that uses Claude and lets users build custom feeds &mdash; The team from Bluesky has built another app &mdash; and this time, it's not a social network, but an AI assistant that allows you to design &hellip;",
+          "feed_position": 12,
           "image_url": "http://www.techmeme.com/260329/i7.jpg"
         },
         {
@@ -41,10 +66,10 @@
         }
       ],
       "featured_image": "http://www.techmeme.com/260329/i7.jpg",
-      "popularity_score": 3012.440706111111
+      "popularity_score": 2004.4461736111111
     },
     {
-      "id": "cluster_28",
+      "id": "cluster_33",
       "coverage": 2,
       "updated_at": "Sun, 29 Mar 2026 16:00:00 GMT",
       "title": "When product managers ship code: AI just broke the software org chart",
@@ -97,10 +122,10 @@
         }
       ],
       "featured_image": "https://images.ctfassets.net/jdtwqhzvc2n1/H7LvPAXDoKpIKf67inh3M/627c264db2858d68eb459af3b0228f2f/Coders.png?w=300&q=30",
-      "popularity_score": 2006.6959838888888
+      "popularity_score": 2003.6958958333332
     },
     {
-      "id": "cluster_36",
+      "id": "cluster_41",
       "coverage": 1,
       "updated_at": "Sun, 29 Mar 2026 11:35:10 +0000",
       "title": "Pints meet prop bets: Polymarket’s “Situation Room” pop-up bar in DC",
@@ -121,10 +146,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/image-2-1152x648.jpeg",
-      "popularity_score": 335.282095
+      "popularity_score": 333
     },
     {
-      "id": "cluster_69",
+      "id": "cluster_68",
       "coverage": 1,
       "updated_at": "Sat, 28 Mar 2026 12:30:43 +0000",
       "title": "Explanation for why we don't see two-foot-long dragonflies anymore fails",
@@ -148,7 +173,7 @@
       "popularity_score": 328
     },
     {
-      "id": "cluster_37",
+      "id": "cluster_42",
       "coverage": 1,
       "updated_at": "Sun, 29 Mar 2026 11:01:46 +0000",
       "title": "Polygraphs have major flaws. Are there better options?",
@@ -169,10 +194,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/liedetector-1152x648.jpg",
-      "popularity_score": 324.72542833333335
+      "popularity_score": 323
     },
     {
-      "id": "cluster_71",
+      "id": "cluster_70",
       "coverage": 1,
       "updated_at": "Sat, 28 Mar 2026 12:00:31 +0000",
       "title": "Causality optional? Testing the \"indefinite causal order\" superposition",
@@ -196,7 +221,7 @@
       "popularity_score": 308
     },
     {
-      "id": "cluster_74",
+      "id": "cluster_73",
       "coverage": 1,
       "updated_at": "Sat, 28 Mar 2026 11:15:35 +0000",
       "title": "How new fishing tech can reduce bycatch of turtles and other creatures",
