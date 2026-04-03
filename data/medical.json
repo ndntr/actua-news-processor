@@ -1,17 +1,63 @@
 {
   "clinical": {
-    "updated_at": "2026-04-03T07:58:11.868Z",
+    "updated_at": "2026-04-03T11:32:31.943Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-04-03T07:58:11.869Z",
+    "updated_at": "2026-04-03T11:32:31.943Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-04-03T07:58:14.904Z",
+    "updated_at": "2026-04-03T11:32:34.803Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Fri, 03 Apr 2026 11:12:28 GMT",
+        "title": "Artemis II leaves Earth's orbit on track for far side of the Moon",
+        "neutral_headline": "Artemis II leaves Earth's orbit on track for far side of the Moon",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Fri, 03 Apr 2026 11:12:28 GMT",
+            "title": "Artemis II leaves Earth's orbit on track for far side of the Moon",
+            "standfirst": "The mission's last, big push on its lunar journey takes humans out of the Earth's orbit for the first time since 1972.",
+            "content": "The mission's last, big push on its lunar journey takes humans out of the Earth's orbit for the first time since 1972.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7508/live/8e8b1a70-2f0c-11f1-ba11-cba8df57c4f4.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7508/live/8e8b1a70-2f0c-11f1-ba11-cba8df57c4f4.jpg"
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Fri, 03 Apr 2026 08:54:34 GMT",
+        "title": "Plan to bring more beavers back takes step forward",
+        "neutral_headline": "Plan to bring more beavers back takes step forward",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/cly0zxmj818o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Fri, 03 Apr 2026 08:54:34 GMT",
+            "title": "Plan to bring more beavers back takes step forward",
+            "standfirst": "Forestry England wants to hear from local landowners to identify 20 potential release sites.",
+            "content": "Forestry England wants to hear from local landowners to identify 20 potential release sites.",
+            "feed_position": 9,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9227/live/126db1f0-2e7b-11f1-b255-5fce3082108e.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9227/live/126db1f0-2e7b-11f1-b255-5fce3082108e.jpg"
+      },
+      {
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Fri, 03 Apr 2026 07:46:57 GMT",
         "title": "Artemis II crew share first words from space",
@@ -27,14 +73,14 @@
             "title": "Artemis II crew share first words from space",
             "standfirst": "The team completes a critical engine burn that will propel the spacecraft to the far side of the Moon.",
             "content": "The team completes a critical engine burn that will propel the spacecraft to the far side of the Moon.",
-            "feed_position": 14,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/130d/live/7e667bd0-2f2f-11f1-a79a-77e93010d956.png"
+            "feed_position": 15,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/306d/live/04c1d3e0-2f40-11f1-a79a-77e93010d956.png"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/130d/live/7e667bd0-2f2f-11f1-a79a-77e93010d956.png"
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/306d/live/04c1d3e0-2f40-11f1-a79a-77e93010d956.png"
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Fri, 03 Apr 2026 07:07:48 GMT",
         "title": "'Trust us, you look amazing': Artemis II astronauts speak from space",
@@ -50,14 +96,14 @@
             "title": "'Trust us, you look amazing': Artemis II astronauts speak from space",
             "standfirst": "The crew on board the Artemis II spoke by video link, sharing messages for their families and experiences of the trip so far.",
             "content": "The crew on board the Artemis II spoke by video link, sharing messages for their families and experiences of the trip so far.",
-            "feed_position": 6,
+            "feed_position": 1,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee93/live/962c62b0-2f26-11f1-934f-036468834728.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee93/live/962c62b0-2f26-11f1-934f-036468834728.jpg"
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Fri, 03 Apr 2026 06:35:09 GMT",
         "title": "Jersey scraps phase-out of petrol and diesel cars",
@@ -73,14 +119,14 @@
             "title": "Jersey scraps phase-out of petrol and diesel cars",
             "standfirst": "Environment Minister Steve Luce says the plan did not have public backing.",
             "content": "Environment Minister Steve Luce says the plan did not have public backing.",
-            "feed_position": 9,
+            "feed_position": 10,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d774/live/26b88030-2e90-11f1-bf7c-65962cff9746.png"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d774/live/26b88030-2e90-11f1-bf7c-65962cff9746.png"
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Fri, 03 Apr 2026 06:34:10 GMT",
         "title": "Students learn more about nature in new programme",
@@ -96,14 +142,14 @@
             "title": "Students learn more about nature in new programme",
             "standfirst": "Children from Le Rocquier are working with GROW Jersey to see how they can protect the environment.",
             "content": "Children from Le Rocquier are working with GROW Jersey to see how they can protect the environment.",
-            "feed_position": 10,
+            "feed_position": 11,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50ab/live/657f6ba0-2dc6-11f1-b5b8-bdb2c7a76bf2.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50ab/live/657f6ba0-2dc6-11f1-b5b8-bdb2c7a76bf2.jpg"
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Fri, 03 Apr 2026 06:31:59 GMT",
         "title": "Project prevents Guernsey extinction of rare flower",
@@ -119,14 +165,14 @@
             "title": "Project prevents Guernsey extinction of rare flower",
             "standfirst": "A project has successfully propagated the rare flower from the island's last wild population.",
             "content": "A project has successfully propagated the rare flower from the island's last wild population.",
-            "feed_position": 11,
+            "feed_position": 12,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1896/live/096e4ed0-2de9-11f1-934f-036468834728.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1896/live/096e4ed0-2de9-11f1-934f-036468834728.jpg"
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Fri, 03 Apr 2026 05:25:00 GMT",
         "title": "Men's group hopes to ease strain on NHS services",
@@ -149,7 +195,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cec7/live/6b9a1540-293d-11f1-a79a-77e93010d956.jpg"
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Fri, 03 Apr 2026 04:00:43 GMT",
         "title": "NHS rehabilitation care staff shortage fails stroke patients, say health leaders",
@@ -170,30 +216,7 @@
         ]
       },
       {
-        "id": "cluster_7",
-        "coverage": 1,
-        "updated_at": "Fri, 03 Apr 2026 03:35:28 GMT",
-        "title": "Artemis II blasts ever closer to the far side of the Moon",
-        "neutral_headline": "Artemis II blasts ever closer to the far side of the Moon",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Fri, 03 Apr 2026 03:35:28 GMT",
-            "title": "Artemis II blasts ever closer to the far side of the Moon",
-            "standfirst": "The mission's last, big push on its lunar journey takes humans out of the Earth's orbit for the first time since 1972.",
-            "content": "The mission's last, big push on its lunar journey takes humans out of the Earth's orbit for the first time since 1972.",
-            "feed_position": 16,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7508/live/8e8b1a70-2f0c-11f1-ba11-cba8df57c4f4.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7508/live/8e8b1a70-2f0c-11f1-ba11-cba8df57c4f4.jpg"
-      },
-      {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Thu, 02 Apr 2026 20:00:00 GMT",
         "title": "BBC Inside Science",
@@ -216,7 +239,7 @@
         "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Thu, 02 Apr 2026 19:27:18 GMT",
         "title": "UK drug exports to US spared tariffs under deal critics say will cost NHS billions",
@@ -237,7 +260,7 @@
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Thu, 02 Apr 2026 19:02:15 GMT",
         "title": "Why isn't Artemis II landing on the Moon?",
@@ -253,14 +276,14 @@
             "title": "Why isn't Artemis II landing on the Moon?",
             "standfirst": "The US is aiming to be the first country to land humans on the lunar surface again by 2028 - so what's this mission for?",
             "content": "The US is aiming to be the first country to land humans on the lunar surface again by 2028 - so what's this mission for?",
-            "feed_position": 8,
+            "feed_position": 2,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d72/live/93cb1130-2ec5-11f1-b297-95b0a0a8331e.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d72/live/93cb1130-2ec5-11f1-b297-95b0a0a8331e.jpg"
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Thu, 02 Apr 2026 17:52:28 GMT",
         "title": "CDC temporarily halts testing for several infectious diseases amid staffing shortages",
@@ -281,7 +304,7 @@
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Thu, 02 Apr 2026 15:54:27 GMT",
         "title": "Screen time guidance does not go far enough | Letters",
@@ -302,7 +325,7 @@
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Thu, 02 Apr 2026 15:53:47 GMT",
         "title": "Prince William praises £20m milestone for Bowelbabe fund",
@@ -325,7 +348,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbda/live/ae6bd910-2e9e-11f1-90b9-6ffcd881a7dc.png"
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Thu, 02 Apr 2026 15:51:27 GMT",
         "title": "Overthinking is rarely an advantage | Letter",
@@ -346,7 +369,7 @@
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Thu, 02 Apr 2026 15:46:42 GMT",
         "title": "Review finds 250 patients need repeat bone scans",
@@ -369,7 +392,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9dc/live/64be9270-fbd9-11ee-b213-6be513e08689.jpg"
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Thu, 02 Apr 2026 15:31:32 GMT",
         "title": "Scientists excited to receive first Artemis signal",
@@ -390,29 +413,6 @@
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e0a/live/63715140-2e78-11f1-8dc4-7bd9501845f2.jpg"
-      },
-      {
-        "id": "cluster_17",
-        "coverage": 1,
-        "updated_at": "Thu, 02 Apr 2026 14:22:07 GMT",
-        "title": "High above Earth, Artemis II crew prepare to thrust on to the Moon",
-        "neutral_headline": "High above Earth, Artemis II crew prepare to thrust on to the Moon",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/c75kr702z75o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Thu, 02 Apr 2026 14:22:07 GMT",
-            "title": "High above Earth, Artemis II crew prepare to thrust on to the Moon",
-            "standfirst": "After a spectacular launch the astronauts are preparing for a high-stakes engine burn out of Earth's orbit.",
-            "content": "After a spectacular launch the astronauts are preparing for a high-stakes engine burn out of Earth's orbit.",
-            "feed_position": 1,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a118/live/39b6bd20-2e98-11f1-b297-95b0a0a8331e.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a118/live/39b6bd20-2e98-11f1-b297-95b0a0a8331e.jpg"
       },
       {
         "id": "cluster_18",
@@ -454,7 +454,7 @@
             "title": "Water and wildlife return to farmland ponds",
             "standfirst": "Two restored ponds on the Hertfordshire-Essex border see recovery, including breeding newts.",
             "content": "Two restored ponds on the Hertfordshire-Essex border see recovery, including breeding newts.",
-            "feed_position": 12,
+            "feed_position": 13,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9552/live/faebd7f0-2e8e-11f1-bf7c-65962cff9746.jpg"
           }
         ],
@@ -463,7 +463,7 @@
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-04-03T07:58:14.904Z",
+    "updated_at": "2026-04-03T11:32:34.803Z",
     "clusters": []
   }
 }
