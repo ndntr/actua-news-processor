@@ -1,17 +1,50 @@
 {
   "clinical": {
-    "updated_at": "2026-04-04T19:26:07.927Z",
+    "updated_at": "2026-04-04T23:24:25.410Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-04-04T19:26:07.927Z",
+    "updated_at": "2026-04-04T23:24:25.410Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-04-04T19:26:11.409Z",
+    "updated_at": "2026-04-04T23:24:27.815Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Sat, 04 Apr 2026 22:45:08 GMT",
+        "title": "'Something we have never seen before': Artemis II crew describe far side of Moon",
+        "neutral_headline": "'Something we have never seen before': Artemis II crew describe far side of Moon",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/videos/ce3d5gkd2geo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sat, 04 Apr 2026 22:45:08 GMT",
+            "title": "'Something we have never seen before': Artemis II crew describe far side of Moon",
+            "standfirst": "Astronauts on Artemis II have entered the third day of their mission around the far side of the Moon and back again.",
+            "content": "Astronauts on Artemis II have entered the third day of their mission around the far side of the Moon and back again.",
+            "feed_position": 14,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f88a/live/01804880-3074-11f1-b608-c51f8a3bd27b.jpg"
+          },
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/videos/cvgev9w1874o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sat, 04 Apr 2026 09:36:18 GMT",
+            "title": "What's happening next in the Artemis II mission?",
+            "standfirst": "Artemis II is now on a looping path that will carry the crew around the far side of the Moon and back again.",
+            "content": "Artemis II is now on a looping path that will carry the crew around the far side of the Moon and back again.",
+            "feed_position": 15,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d60/live/c55679d0-3003-11f1-b297-95b0a0a8331e.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f88a/live/01804880-3074-11f1-b608-c51f8a3bd27b.jpg"
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Sat, 04 Apr 2026 16:00:25 GMT",
         "title": "Medicines watchdog to investigate UK peptide clinics over health claims",
@@ -41,7 +74,7 @@
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Sat, 04 Apr 2026 11:00:21 GMT",
         "title": "New Covid variant BA.3.2 detected across US, but experts urge vigilance over alarm",
@@ -63,7 +96,7 @@
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Sat, 04 Apr 2026 10:00:19 GMT",
         "title": "Unions privately voice misgivings over BMA pay demands and doctors’ strikes",
@@ -82,29 +115,6 @@
             "feed_position": 3
           }
         ]
-      },
-      {
-        "id": "cluster_3",
-        "coverage": 1,
-        "updated_at": "Sat, 04 Apr 2026 09:36:18 GMT",
-        "title": "What's happening next in the Artemis II mission?",
-        "neutral_headline": "What's happening next in the Artemis II mission",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/videos/cvgev9w1874o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Sat, 04 Apr 2026 09:36:18 GMT",
-            "title": "What's happening next in the Artemis II mission?",
-            "standfirst": "Artemis II is now on a looping path that will carry the crew around the far side of the Moon and back again.",
-            "content": "Artemis II is now on a looping path that will carry the crew around the far side of the Moon and back again.",
-            "feed_position": 14,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d60/live/c55679d0-3003-11f1-b297-95b0a0a8331e.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d60/live/c55679d0-3003-11f1-b297-95b0a0a8331e.jpg"
       },
       {
         "id": "cluster_4",
@@ -169,7 +179,7 @@
             "title": "Call for citizen scientists to collect space dust",
             "standfirst": "Resident are urged to join a cosmic quest for micrometeorites from space landing in their gutters.",
             "content": "Resident are urged to join a cosmic quest for micrometeorites from space landing in their gutters.",
-            "feed_position": 16,
+            "feed_position": 17,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4072/live/0ca74c00-2de4-11f1-9c68-d3b327b335eb.jpg"
           }
         ],
@@ -259,7 +269,7 @@
             "title": "Watch: Artemis II's journey so far as it leaves Earth orbit... in 85 seconds",
             "standfirst": "The crew will not land on the Moon on this current mission, though Nasa is preparing for a potential lunar landing by 2028.",
             "content": "The crew will not land on the Moon on this current mission, though Nasa is preparing for a potential lunar landing by 2028.",
-            "feed_position": 17,
+            "feed_position": 18,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de7b/live/9b57e270-2f60-11f1-934f-036468834728.jpg"
           },
           {
@@ -322,29 +332,6 @@
       {
         "id": "cluster_13",
         "coverage": 1,
-        "updated_at": "Fri, 03 Apr 2026 12:03:43 GMT",
-        "title": "Pop-up planetarium brings cosmos to city",
-        "neutral_headline": "Pop-up planetarium brings cosmos to city",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/c98kw2x684jo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Fri, 03 Apr 2026 12:03:43 GMT",
-            "title": "Pop-up planetarium brings cosmos to city",
-            "standfirst": "People can learn about the night sky in a new attraction at Hull's Queen Victoria Square.",
-            "content": "People can learn about the night sky in a new attraction at Hull's Queen Victoria Square.",
-            "feed_position": 18,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de92/live/1d9446c0-2f4d-11f1-b471-73a11a0c1806.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de92/live/1d9446c0-2f4d-11f1-b471-73a11a0c1806.jpg"
-      },
-      {
-        "id": "cluster_14",
-        "coverage": 1,
         "updated_at": "Fri, 03 Apr 2026 07:07:48 GMT",
         "title": "'Trust us, you look amazing': Artemis II astronauts speak from space",
         "neutral_headline": "'Trust us, you look ': Artemis II astronauts speak from space",
@@ -366,7 +353,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee93/live/962c62b0-2f26-11f1-934f-036468834728.jpg"
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Fri, 03 Apr 2026 06:35:09 GMT",
         "title": "Jersey scraps phase-out of petrol and diesel cars",
@@ -389,7 +376,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d774/live/26b88030-2e90-11f1-bf7c-65962cff9746.png"
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Fri, 03 Apr 2026 06:34:10 GMT",
         "title": "Students learn more about nature in new programme",
@@ -412,7 +399,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50ab/live/657f6ba0-2dc6-11f1-b5b8-bdb2c7a76bf2.jpg"
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Fri, 03 Apr 2026 05:25:00 GMT",
         "title": "Men's group hopes to ease strain on NHS services",
@@ -435,7 +422,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cec7/live/6b9a1540-293d-11f1-a79a-77e93010d956.jpg"
       },
       {
-        "id": "cluster_18",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Fri, 03 Apr 2026 04:00:43 GMT",
         "title": "NHS rehabilitation care staff shortage fails stroke patients, say health leaders",
@@ -454,34 +441,11 @@
             "feed_position": 6
           }
         ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Thu, 02 Apr 2026 20:00:00 GMT",
-        "title": "BBC Inside Science",
-        "neutral_headline": "BBC Inside Science",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/sounds/play/w3ct977d?at_medium=RSS&at_campaign=rss",
-            "published_at": "Thu, 02 Apr 2026 20:00:00 GMT",
-            "title": "BBC Inside Science",
-            "standfirst": "Why men have nipples and how gravity slingshots work; your science questions answered.",
-            "content": "Why men have nipples and how gravity slingshots work; your science questions answered.",
-            "feed_position": 24,
-            "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-04-04T19:26:11.409Z",
+    "updated_at": "2026-04-04T23:24:27.815Z",
     "clusters": []
   }
 }
