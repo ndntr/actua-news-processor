@@ -1,17 +1,130 @@
 {
   "clinical": {
-    "updated_at": "2026-04-13T08:58:13.752Z",
+    "updated_at": "2026-04-13T11:58:44.751Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-04-13T08:58:13.752Z",
+    "updated_at": "2026-04-13T11:58:44.752Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-04-13T08:58:21.877Z",
+    "updated_at": "2026-04-13T11:58:45.827Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Mon, 13 Apr 2026 11:45:48 GMT",
+        "title": "Footage captures meteor flying across the sky",
+        "neutral_headline": "Footage captures meteor flying across the sky",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/videos/clyxzz0egjdo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 13 Apr 2026 11:45:48 GMT",
+            "title": "Footage captures meteor flying across the sky",
+            "standfirst": "Footage appears to capture a meteor from various angles across East Yorkshire and Lincolnshire.",
+            "content": "Footage appears to capture a meteor from various angles across East Yorkshire and Lincolnshire.",
+            "feed_position": 12,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a059/live/aba4ed30-372b-11f1-9d5c-8ba507d7dbde.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a059/live/aba4ed30-372b-11f1-9d5c-8ba507d7dbde.jpg"
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Mon, 13 Apr 2026 10:55:48 GMT",
+        "title": "Are spider bites on the rise in England?",
+        "neutral_headline": "Are spider bites on the rise in England",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/cwyvg1jyry0o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 13 Apr 2026 10:55:48 GMT",
+            "title": "Are spider bites on the rise in England?",
+            "standfirst": "Experts say noble false widow spiders could be to blame for an increase in bites being treated in hospital.",
+            "content": "Experts say noble false widow spiders could be to blame for an increase in bites being treated in hospital.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0541/live/cc6a60b0-3724-11f1-9d5c-8ba507d7dbde.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0541/live/cc6a60b0-3724-11f1-9d5c-8ba507d7dbde.jpg"
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Mon, 13 Apr 2026 10:39:58 GMT",
+        "title": "Nurse wins settlement in trans pronouns dispute",
+        "neutral_headline": "Nurse wins settlement in trans pronouns dispute",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/cx2vlxdnnpqo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 13 Apr 2026 10:39:58 GMT",
+            "title": "Nurse wins settlement in trans pronouns dispute",
+            "standfirst": "Melle was racially abused by a transgender woman at a hospital after she addressed them as \"Mr\".",
+            "content": "Melle was racially abused by a transgender woman at a hospital after she addressed them as \"Mr\".",
+            "feed_position": 1,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3212/live/c29db3a0-f635-11f0-96f3-adbdcf1a389c.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3212/live/c29db3a0-f635-11f0-96f3-adbdcf1a389c.jpg"
+      },
+      {
+        "id": "cluster_3",
+        "coverage": 1,
+        "updated_at": "Mon, 13 Apr 2026 09:46:28 GMT",
+        "title": "Streeting denies changing pay deal for resident doctors",
+        "neutral_headline": "Streeting denies changing pay deal for resident doctors",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/cddqn72l1n9o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 13 Apr 2026 09:46:28 GMT",
+            "title": "Streeting denies changing pay deal for resident doctors",
+            "standfirst": "The Health Secretary says his \"door is open\" for more talks to resolve the long-running dispute.",
+            "content": "The Health Secretary says his \"door is open\" for more talks to resolve the long-running dispute.",
+            "feed_position": 2,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1698/live/d22e2ab0-365f-11f1-abac-374b30aeab76.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1698/live/d22e2ab0-365f-11f1-abac-374b30aeab76.jpg"
+      },
+      {
+        "id": "cluster_4",
+        "coverage": 1,
+        "updated_at": "Mon, 13 Apr 2026 09:00:43 GMT",
+        "title": "AI to predict how bowel cancer patients will respond to new NHS drug",
+        "neutral_headline": "AI to predict how bowel cancer patients will respond to new NHS drug",
+        "bullet_summary": [
+          "Reported by Guardian Health"
+        ],
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/society/2026/apr/13/ai-bowel-cancer-patients-nhs-drug",
+            "published_at": "Mon, 13 Apr 2026 09:00:43 GMT",
+            "title": "AI to predict how bowel cancer patients will respond to new NHS drug",
+            "standfirst": "PhenMap tool could spare thousands of patients from treatment that would be ineffective for themA new AI-driven way of identifying how patients with advanced bowel cancer will respond to a drug that was recently introduced by the NHS has been announced.Researchers at London’s Institute of Cancer Research and the RCSI University of Medicine and Health Sciences in Dublin have developed the method with the goal of sparing potentially thousands of patients from being given drugs that would be ineffective in fighting their cancers. Continue reading...",
+            "content": "PhenMap tool could spare thousands of patients from treatment that would be ineffective for themA new AI-driven way of identifying how patients with advanced bowel cancer will respond to a drug that was recently introduced by the NHS has been announced.Researchers at London’s Institute of Cancer Research and the RCSI University of Medicine and Health Sciences in Dublin have developed the method with the goal of sparing potentially thousands of patients from being given drugs that would be ineffective in fighting their cancers. Continue reading...",
+            "feed_position": 0
+          }
+        ]
+      },
+      {
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Mon, 13 Apr 2026 08:36:55 GMT",
         "title": "Deep-fried food banned in new plans for school dinners",
@@ -27,14 +140,14 @@
             "title": "Deep-fried food banned in new plans for school dinners",
             "standfirst": "Schools are being told to cut down on sugary desserts, and provide more vegetables and whole grains.",
             "content": "Schools are being told to cut down on sugary desserts, and provide more vegetables and whole grains.",
-            "feed_position": 2,
+            "feed_position": 4,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3914/live/ff412930-34ed-11f1-be84-6f37fe66395b.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3914/live/ff412930-34ed-11f1-be84-6f37fe66395b.jpg"
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Mon, 13 Apr 2026 05:16:17 GMT",
         "title": "Charity plans to release wild beavers into rivers",
@@ -57,7 +170,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d11/live/d6c23dd0-3517-11f1-879d-1b2f5c3919b8.png"
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Mon, 13 Apr 2026 05:14:23 GMT",
         "title": "Floating wetlands plan to boost coastal ecosystems",
@@ -80,7 +193,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e3b/live/2fd5fd50-34ee-11f1-879d-1b2f5c3919b8.png"
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Mon, 13 Apr 2026 05:00:37 GMT",
         "title": "Private firms providing services to NHS made £1.6bn profit in two years, research finds",
@@ -96,12 +209,12 @@
             "title": "Private firms providing services to NHS made £1.6bn profit in two years, research finds",
             "standfirst": "Exclusive: MPs say profit-making levels in England are ‘scandalous’ and call for cap on amount private companies can make from NHSPrivate firms providing services to the NHS including healthcare and consultancy have made £1.6bn in profits over the last two years, research reveals.The findings – on the basis of contracts worth £12bn – have prompted claims of “scandalous” profiteering, concern that the health service is being “taken for a ride” and calls for ministers to impose a cap on maximum profit levels.£2bn of the £12bn of contracts went to firms with owners based outside the UK.£533m of that £2bn went to companies owned by people living in tax havens such as Jersey and the Cayman Islands.Firms, especially those owned by private equity outfits, used £353m of their £12bn NHS income to pay interest on debts. Continue reading...",
             "content": "Exclusive: MPs say profit-making levels in England are ‘scandalous’ and call for cap on amount private companies can make from NHSPrivate firms providing services to the NHS including healthcare and consultancy have made £1.6bn in profits over the last two years, research reveals.The findings – on the basis of contracts worth £12bn – have prompted claims of “scandalous” profiteering, concern that the health service is being “taken for a ride” and calls for ministers to impose a cap on maximum profit levels.£2bn of the £12bn of contracts went to firms with owners based outside the UK.£533m of that £2bn went to companies owned by people living in tax havens such as Jersey and the Cayman Islands.Firms, especially those owned by private equity outfits, used £353m of their £12bn NHS income to pay interest on debts. Continue reading...",
-            "feed_position": 0
+            "feed_position": 1
           }
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Mon, 13 Apr 2026 04:00:37 GMT",
         "title": "‘I just want to feel like me again’: the women still waiting for breast reconstruction years after lockdown",
@@ -117,12 +230,12 @@
             "title": "‘I just want to feel like me again’: the women still waiting for breast reconstruction years after lockdown",
             "standfirst": "At the height of Covid, hundreds of cancer patients had mastectomies without the reconstruction that would normally accompany them. They would eventually get the surgery, they were told – but for many that promise feels more meaningless by the dayEvery time she lifts her arms to get dressed or hang out her washing, Julie Ford gets a painful reminder of one of the most terrifying experiences of her life. At 7am one day in April 2021, she had gone into hospital, alone and wearing a mask, to have her right breast and lymph nodes removed in a bid to stop breast cancer from spreading. Later that day, still groggy from the anaesthetic, in pain and with surgical drains hanging from both sides of her chest, she had staggered to the door with the help of two nurses. She was eased into a friend’s car and driven home to fend for herself.While Julie’s breast had been removed, it was not reconstructed. Usually, both procedures are carried out in the same operation. But as reconstruction using tissue from the patient’s abdomen is a complex, eight-hour procedure requiring a large surgical team, it was considered “non-essential” and paused by most NHS trusts during the Covid-19 pandemic. Continue reading...",
             "content": "At the height of Covid, hundreds of cancer patients had mastectomies without the reconstruction that would normally accompany them. They would eventually get the surgery, they were told – but for many that promise feels more meaningless by the dayEvery time she lifts her arms to get dressed or hang out her washing, Julie Ford gets a painful reminder of one of the most terrifying experiences of her life. At 7am one day in April 2021, she had gone into hospital, alone and wearing a mask, to have her right breast and lymph nodes removed in a bid to stop breast cancer from spreading. Later that day, still groggy from the anaesthetic, in pain and with surgical drains hanging from both sides of her chest, she had staggered to the door with the help of two nurses. She was eased into a friend’s car and driven home to fend for herself.While Julie’s breast had been removed, it was not reconstructed. Usually, both procedures are carried out in the same operation. But as reconstruction using tissue from the patient’s abdomen is a complex, eight-hour procedure requiring a large surgical team, it was considered “non-essential” and paused by most NHS trusts during the Covid-19 pandemic. Continue reading...",
-            "feed_position": 1
+            "feed_position": 2
           }
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Sun, 12 Apr 2026 21:30:27 GMT",
         "title": "Fried nuggets and steamed sponges off menu in school food overhaul in England",
@@ -138,12 +251,12 @@
             "title": "Fried nuggets and steamed sponges off menu in school food overhaul in England",
             "standfirst": "Campaigners welcome first update of school food standards in 13 years, which aims to help lower obesity ratesThe government is to announce an overhaul to school food standards in England that will lead to calorific classics such as fish and chips and steamed sponges being banned.The new rules of the first major update to school food standards in 13 years will apply from September. They are part of efforts to lower the rates of childhood obesity, with data for 2024 released by the NHS in January showing that 24% of nursery and primary school children were overweight or living with obesity. Continue reading...",
             "content": "Campaigners welcome first update of school food standards in 13 years, which aims to help lower obesity ratesThe government is to announce an overhaul to school food standards in England that will lead to calorific classics such as fish and chips and steamed sponges being banned.The new rules of the first major update to school food standards in 13 years will apply from September. They are part of efforts to lower the rates of childhood obesity, with data for 2024 released by the NHS in January showing that 24% of nursery and primary school children were overweight or living with obesity. Continue reading...",
-            "feed_position": 2
+            "feed_position": 3
           }
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Sun, 12 Apr 2026 17:50:20 GMT",
         "title": "'It's a special thing to be on Planet Earth': Nasa's Artemis crew welcomed home",
@@ -159,7 +272,7 @@
             "title": "'It's a special thing to be on Planet Earth': Nasa's Artemis crew welcomed home",
             "standfirst": "The four astronauts who flew in Nasa's Artemis II mission around the moon have been welcomed home.",
             "content": "The four astronauts who flew in Nasa's Artemis II mission around the moon have been welcomed home.",
-            "feed_position": 12,
+            "feed_position": 13,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5053/live/b1b78f20-3695-11f1-8606-05fe34b06e1b.jpg"
           },
           {
@@ -169,14 +282,14 @@
             "title": "'It's a special thing to be on Planet Earth': Artemis crew welcomed home in Houston",
             "standfirst": "The four astronauts flew around the Moon in a nine-day voyage that took them further from Earth than any humans in history.",
             "content": "The four astronauts flew around the Moon in a nine-day voyage that took them further from Earth than any humans in history.",
-            "feed_position": 15,
+            "feed_position": 16,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c463/live/31af4090-35f3-11f1-8606-05fe34b06e1b.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5053/live/b1b78f20-3695-11f1-8606-05fe34b06e1b.jpg"
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Sun, 12 Apr 2026 15:55:42 GMT",
         "title": "Votes for populist parties in May elections will put NHS at risk, Streeting says",
@@ -193,12 +306,12 @@
             "title": "Votes for populist parties in May elections will put NHS at risk, Streeting says",
             "standfirst": "Exclusive: Health secretary warns of dangers of protest vote as he pitches NHS as key elections battlegroundVoters in May’s local and devolved elections risk putting the NHS in jeopardy if they vote for populist parties, Wes Streeting has said, as he sought to make the health service a key battleground.“The founding principles of the NHS are at greater threat than at any time since the NHS was founded in 1948,” the health secretary said. Continue reading...",
             "content": "Exclusive: Health secretary warns of dangers of protest vote as he pitches NHS as key elections battlegroundVoters in May’s local and devolved elections risk putting the NHS in jeopardy if they vote for populist parties, Wes Streeting has said, as he sought to make the health service a key battleground.“The founding principles of the NHS are at greater threat than at any time since the NHS was founded in 1948,” the health secretary said. Continue reading...",
-            "feed_position": 3
+            "feed_position": 4
           }
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Sun, 12 Apr 2026 15:02:28 GMT",
         "title": "GSK reports promising early results in ovarian and womb cancer drug trial",
@@ -214,35 +327,12 @@
             "title": "GSK reports promising early results in ovarian and womb cancer drug trial",
             "standfirst": "Mo-Rez reduced or eliminated tumours in over 60% of patients and is expected to be a blockbuster drugGSK has revealed positive results for a treatment for gynaecological cancers as its chief executive, Luke Miels, seeks to speed up drug development at the group.The company said that in an early-stage trial Mocertatug Rezetecan, known as Mo-Rez, shrank or eliminated tumours in 62% of patients with ovarian cancer where chemotherapy had failed, and in 67% of those with endometrial cancer. Continue reading...",
             "content": "Mo-Rez reduced or eliminated tumours in over 60% of patients and is expected to be a blockbuster drugGSK has revealed positive results for a treatment for gynaecological cancers as its chief executive, Luke Miels, seeks to speed up drug development at the group.The company said that in an early-stage trial Mocertatug Rezetecan, known as Mo-Rez, shrank or eliminated tumours in 62% of patients with ovarian cancer where chemotherapy had failed, and in 67% of those with endometrial cancer. Continue reading...",
-            "feed_position": 4
+            "feed_position": 5
           }
         ]
       },
       {
-        "id": "cluster_9",
-        "coverage": 1,
-        "updated_at": "Sun, 12 Apr 2026 13:49:48 GMT",
-        "title": "Streeting denies changing pay deal for resident doctors",
-        "neutral_headline": "Streeting denies changing pay deal for resident doctors",
-        "bullet_summary": [
-          "Reported by BBC Health"
-        ],
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/cddqn72l1n9o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Sun, 12 Apr 2026 13:49:48 GMT",
-            "title": "Streeting denies changing pay deal for resident doctors",
-            "standfirst": "A current six-day strike in England is set to end at 06:59 on Monday.",
-            "content": "A current six-day strike in England is set to end at 06:59 on Monday.",
-            "feed_position": 0,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1698/live/d22e2ab0-365f-11f1-abac-374b30aeab76.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1698/live/d22e2ab0-365f-11f1-abac-374b30aeab76.jpg"
-      },
-      {
-        "id": "cluster_10",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Sun, 12 Apr 2026 13:00:18 GMT",
         "title": "‘It feels as if I’ve made a new best friend’: my experiment with AI journalling",
@@ -258,12 +348,12 @@
             "title": "‘It feels as if I’ve made a new best friend’: my experiment with AI journalling",
             "standfirst": "What’s it like to have a diary that talks back to you, offering comments and advice on your hopes, fears and lunch plans? I spent two months finding outEver since I was a teenager, I have kept some form of diary. These days I favour a paper one for creative brainstorming, and the Journal app on my iPad where I do a speedily typed brain dump every morning. I have always found it a great way to impose some sort of order on my random thoughts, a form of meditation.But I had never even heard of AI journalling until a Google search led me down a rabbit hole where I encountered people enthusing about two apps, Rosebud and Mindsera. It sounded as if Mindsera’s minimalist design was the best for writers. Out of curiosity, never intending to stick with it, I downloaded a free trial. Continue reading...",
             "content": "What’s it like to have a diary that talks back to you, offering comments and advice on your hopes, fears and lunch plans? I spent two months finding outEver since I was a teenager, I have kept some form of diary. These days I favour a paper one for creative brainstorming, and the Journal app on my iPad where I do a speedily typed brain dump every morning. I have always found it a great way to impose some sort of order on my random thoughts, a form of meditation.But I had never even heard of AI journalling until a Google search led me down a rabbit hole where I encountered people enthusing about two apps, Rosebud and Mindsera. It sounded as if Mindsera’s minimalist design was the best for writers. Out of curiosity, never intending to stick with it, I downloaded a free trial. Continue reading...",
-            "feed_position": 5
+            "feed_position": 6
           }
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Sun, 12 Apr 2026 12:53:49 GMT",
         "title": "Trying the physical tests Artemis crew face back on Earth",
@@ -279,14 +369,14 @@
             "title": "Trying the physical tests Artemis crew face back on Earth",
             "standfirst": "The BBC's Science editor tries the health checks Nasa carries out on its astronauts.",
             "content": "The BBC's Science editor tries the health checks Nasa carries out on its astronauts.",
-            "feed_position": 13,
+            "feed_position": 14,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/389a/live/c83ad1c0-3669-11f1-9d5c-8ba507d7dbde.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/389a/live/c83ad1c0-3669-11f1-9d5c-8ba507d7dbde.jpg"
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Sun, 12 Apr 2026 12:00:16 GMT",
         "title": "Dr TikTok: patients diagnose chronic illnesses with anonymous commenters’ help",
@@ -302,12 +392,12 @@
             "title": "Dr TikTok: patients diagnose chronic illnesses with anonymous commenters’ help",
             "standfirst": "TikTok users increasingly say the app has steered them toward diagnosing medical problems not yet identifiedMalina Lee, a 31-year-old wedding baker based in San Antonio, Texas, joined TikTok during the Covid pandemic lockdowns in 2020. Like many people at the time, she was bored and began using the platform to pass the time and advertise her business. She didn’t expect a cancer diagnosis.Four years after Lee joined the app, a commenter with the username “PickleFart” told her that her neck looked asymmetrical in a way that could suggest she had a goiter – an enlarged thyroid gland – and that she should get it checked out. The anonymous amateur clinician turned out to be right – Lee had thyroid cancer, received treatment quickly, and, less than a year later, was cancer free. Continue reading...",
             "content": "TikTok users increasingly say the app has steered them toward diagnosing medical problems not yet identifiedMalina Lee, a 31-year-old wedding baker based in San Antonio, Texas, joined TikTok during the Covid pandemic lockdowns in 2020. Like many people at the time, she was bored and began using the platform to pass the time and advertise her business. She didn’t expect a cancer diagnosis.Four years after Lee joined the app, a commenter with the username “PickleFart” told her that her neck looked asymmetrical in a way that could suggest she had a goiter – an enlarged thyroid gland – and that she should get it checked out. The anonymous amateur clinician turned out to be right – Lee had thyroid cancer, received treatment quickly, and, less than a year later, was cancer free. Continue reading...",
-            "feed_position": 6
+            "feed_position": 7
           }
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Sun, 12 Apr 2026 06:48:10 GMT",
         "title": "The doomsday seed collectors fighting to save Wales' native species",
@@ -324,13 +414,13 @@
             "standfirst": "Should the apocalypse arrive, Wales as we know it may depend on these two conservationists.",
             "content": "Should the apocalypse arrive, Wales as we know it may depend on these two conservationists.",
             "feed_position": 9,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a12/live/3e2b46f0-363b-11f1-8606-05fe34b06e1b.jpg"
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c115/live/0ac638c0-3720-11f1-872e-dbe4122cf753.jpg"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a12/live/3e2b46f0-363b-11f1-8606-05fe34b06e1b.jpg"
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c115/live/0ac638c0-3720-11f1-872e-dbe4122cf753.jpg"
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Sun, 12 Apr 2026 06:12:58 GMT",
         "title": "Women's network for mid-life wellbeing launches",
@@ -353,7 +443,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d45/live/6e1fd510-341a-11f1-9fad-db21ae1095d5.jpg"
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Sun, 12 Apr 2026 06:12:20 GMT",
         "title": "Hopes more pine martens will be born in the wild",
@@ -374,103 +464,11 @@
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/926f/live/b5c462c0-328d-11f1-9fac-89e41bab67f2.png"
-      },
-      {
-        "id": "cluster_16",
-        "coverage": 1,
-        "updated_at": "Sun, 12 Apr 2026 06:12:09 GMT",
-        "title": "'Doctors strikes' and 'paw prints in space'",
-        "neutral_headline": "'Doctors strikes' and 'paw prints in space'",
-        "bullet_summary": [
-          "Reported by BBC Health"
-        ],
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/c0krp1e7lkmo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Sun, 12 Apr 2026 06:12:09 GMT",
-            "title": "'Doctors strikes' and 'paw prints in space'",
-            "standfirst": "A round-up of stories from local newspapers and the BBC from the past week in the West of England.",
-            "content": "A round-up of stories from local newspapers and the BBC from the past week in the West of England.",
-            "feed_position": 57,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ede7/live/53554ba0-3421-11f1-aa50-fd39c44a0779.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ede7/live/53554ba0-3421-11f1-aa50-fd39c44a0779.jpg"
-      },
-      {
-        "id": "cluster_17",
-        "coverage": 1,
-        "updated_at": "Sun, 12 Apr 2026 05:17:13 GMT",
-        "title": "I was pressured into refusing a blood transfusion aged 11. The Jehovah's Witnesses' new policy changes nothing",
-        "neutral_headline": "I was pressured into refusing a blood transfusion aged 11. The...",
-        "bullet_summary": [
-          "Reported by BBC Health"
-        ],
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/czjwvpx9z8po?at_medium=RSS&at_campaign=rss",
-            "published_at": "Sun, 12 Apr 2026 05:17:13 GMT",
-            "title": "I was pressured into refusing a blood transfusion aged 11. The Jehovah's Witnesses' new policy changes nothing",
-            "standfirst": "Former followers say the organisation is still putting lives at risk, despite a policy update.",
-            "content": "Former followers say the organisation is still putting lives at risk, despite a policy update.",
-            "feed_position": 1,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85c1/live/1ef1c660-349c-11f1-879d-1b2f5c3919b8.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85c1/live/1ef1c660-349c-11f1-879d-1b2f5c3919b8.jpg"
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Sat, 11 Apr 2026 23:19:46 GMT",
-        "title": "Golden eagles' return to English skies gets government backing",
-        "neutral_headline": "Golden eagles' return to English skies gets government backing",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/cje4zlxqkqdo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Sat, 11 Apr 2026 23:19:46 GMT",
-            "title": "Golden eagles' return to English skies gets government backing",
-            "standfirst": "The birds could be reintroduced as early as next year following a £1m injection from the government.",
-            "content": "The birds could be reintroduced as early as next year following a £1m injection from the government.",
-            "feed_position": 1,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a56/live/93b50d30-3420-11f1-aa50-fd39c44a0779.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a56/live/93b50d30-3420-11f1-aa50-fd39c44a0779.jpg"
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Sat, 11 Apr 2026 23:17:07 GMT",
-        "title": "From blast off to splashdown: My days following Nasa's historic mission to the Moon",
-        "neutral_headline": "From blast off to splashdown: My days following Nasa's historic mission to the Moon",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/clyrdkxvmmpo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Sat, 11 Apr 2026 23:17:07 GMT",
-            "title": "From blast off to splashdown: My days following Nasa's historic mission to the Moon",
-            "standfirst": "BBC Science Editor Rebecca Morelle reflects on how it felt to watch history being made.",
-            "content": "BBC Science Editor Rebecca Morelle reflects on how it felt to watch history being made.",
-            "feed_position": 0,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1adb/live/db819500-35a3-11f1-bfb7-dfacb91b9fa4.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1adb/live/db819500-35a3-11f1-bfb7-dfacb91b9fa4.jpg"
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-04-13T08:58:21.878Z",
+    "updated_at": "2026-04-13T11:58:45.827Z",
     "clusters": []
   }
 }
