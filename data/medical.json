@@ -1,17 +1,40 @@
 {
   "clinical": {
-    "updated_at": "2026-04-16T05:23:27.188Z",
+    "updated_at": "2026-04-16T08:24:24.505Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-04-16T05:23:27.188Z",
+    "updated_at": "2026-04-16T08:24:24.505Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-04-16T05:23:29.039Z",
+    "updated_at": "2026-04-16T08:24:25.879Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Thu, 16 Apr 2026 08:01:52 GMT",
+        "title": "Breakthrough £90,000 Alzheimer's drugs unlikely to benefit patients, report suggests",
+        "neutral_headline": "Breakthrough £90,000 Alzheimer's drugs unlikely to benefit patients, report suggests",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/cql77wlqlx7o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 16 Apr 2026 08:01:52 GMT",
+            "title": "Breakthrough £90,000 Alzheimer's drugs unlikely to benefit patients, report suggests",
+            "standfirst": "A major review has provoked a backlash after concluding the medicines provide too little benefit to be noticed.",
+            "content": "A major review has provoked a backlash after concluding the medicines provide too little benefit to be noticed.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3aa/live/849c6fe0-38ef-11f1-af56-f16d2af863b9.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3aa/live/849c6fe0-38ef-11f1-af56-f16d2af863b9.jpg"
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Thu, 16 Apr 2026 05:13:00 GMT",
         "title": "Charity fundraises to bring back wildlife",
@@ -34,7 +57,31 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e165/live/6dabeb20-38dc-11f1-873f-c76196ac5460.jpg"
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Thu, 16 Apr 2026 05:08:07 GMT",
+        "title": "I feared my son had a brain tumour but he'd been poisoned with vitamin D",
+        "neutral_headline": "I feared my son had a brain tumour but he'd been poisoned with vitamin D",
+        "bullet_summary": [
+          "Investigations found Roo had been accidentally poisoned with a dose of vitamin D prescribed for growing pains",
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/cpwj72nzrr1o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 16 Apr 2026 05:08:07 GMT",
+            "title": "I feared my son had a brain tumour but he'd been poisoned with vitamin D",
+            "standfirst": "Investigations found Roo had been accidentally poisoned with a dose of vitamin D prescribed for growing pains.",
+            "content": "Investigations found Roo had been accidentally poisoned with a dose of vitamin D prescribed for growing pains.",
+            "feed_position": 3,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9991/live/c07337e0-3351-11f1-879d-1b2f5c3919b8.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9991/live/c07337e0-3351-11f1-879d-1b2f5c3919b8.jpg"
+      },
+      {
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Thu, 16 Apr 2026 05:07:31 GMT",
         "title": "Wellbeing garden opens to combat isolation",
@@ -50,14 +97,14 @@
             "title": "Wellbeing garden opens to combat isolation",
             "standfirst": "The outdoor area at Yarm Wellness will officially open to the public on Saturday.",
             "content": "The outdoor area at Yarm Wellness will officially open to the public on Saturday.",
-            "feed_position": 41,
+            "feed_position": 42,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc39/live/2c6fb5d0-38e9-11f1-af88-bb55454ebba2.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc39/live/2c6fb5d0-38e9-11f1-af88-bb55454ebba2.jpg"
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Thu, 16 Apr 2026 05:00:49 GMT",
         "title": "Future of the NHS, saviour of the high street? High hopes for health hub in a Barnsley shopping centre",
@@ -78,7 +125,7 @@
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Thu, 16 Apr 2026 00:00:42 GMT",
         "title": "Effect of ‘gamechanger’ Alzheimer’s drugs ‘trivial’, review concludes",
@@ -99,11 +146,11 @@
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Wed, 15 Apr 2026 23:20:22 GMT",
-        "title": "Move over wind farms: why some argue cutting costs is the best way to cut carbon",
-        "neutral_headline": "Move over wind farms: why some argue cutting costs is the best way to cut carbon",
+        "title": "Why cheap power could matter more than clean power in the push for net zero",
+        "neutral_headline": "Why cheap power could matter more than clean power in the push for net zero",
         "bullet_summary": [
           "Reported by BBC Science"
         ],
@@ -112,17 +159,17 @@
             "source": "BBC Science",
             "url": "https://www.bbc.com/news/articles/c86ey5n9vx9o?at_medium=RSS&at_campaign=rss",
             "published_at": "Wed, 15 Apr 2026 23:20:22 GMT",
-            "title": "Move over wind farms: why some argue cutting costs is the best way to cut carbon",
-            "standfirst": "From heat pumps to offshore wind, the UK’s net zero push is facing growing scrutiny. Are rising costs undermining climate goals?",
-            "content": "From heat pumps to offshore wind, the UK’s net zero push is facing growing scrutiny. Are rising costs undermining climate goals?",
+            "title": "Why cheap power could matter more than clean power in the push for net zero",
+            "standfirst": "The question of how important making our electricity clean is to going green is coming under increasing scrutiny",
+            "content": "The question of how important making our electricity clean is to going green is coming under increasing scrutiny",
             "feed_position": 30,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/205f/live/7e2f7c10-37dc-11f1-8606-05fe34b06e1b.jpg"
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5db4/live/6c5069a0-3967-11f1-9d5c-8ba507d7dbde.png"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/205f/live/7e2f7c10-37dc-11f1-8606-05fe34b06e1b.jpg"
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5db4/live/6c5069a0-3967-11f1-9d5c-8ba507d7dbde.png"
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Wed, 15 Apr 2026 23:00:41 GMT",
         "title": "People in north of England twice as likely to be killed in accidents as Londoners, report finds",
@@ -143,7 +190,7 @@
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Wed, 15 Apr 2026 17:45:22 GMT",
         "title": "Huge containers of liquid waste dumped by roadside",
@@ -166,7 +213,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7621/live/17e11b40-38e9-11f1-9d5c-8ba507d7dbde.jpg"
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Wed, 15 Apr 2026 17:29:41 GMT",
         "title": "Dr Chris asks: 'Why do so many of us have problems with our feet?'",
@@ -182,14 +229,14 @@
             "title": "Dr Chris asks: 'Why do so many of us have problems with our feet?'",
             "standfirst": "Drs Chris and Xand explore common foot problems, from bunions to verrucas, and why diseases affecting our blood vessels or nerves seem to often show up in the feet.",
             "content": "Drs Chris and Xand explore common foot problems, from bunions to verrucas, and why diseases affecting our blood vessels or nerves seem to often show up in the feet.",
-            "feed_position": 60,
+            "feed_position": 61,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe16/live/4998f620-38ea-11f1-8606-05fe34b06e1b.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe16/live/4998f620-38ea-11f1-8606-05fe34b06e1b.jpg"
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Wed, 15 Apr 2026 17:05:16 GMT",
         "title": "Strike is harming the NHS and dividing doctors | Letters",
@@ -210,7 +257,7 @@
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Wed, 15 Apr 2026 17:04:51 GMT",
         "title": "Why we washed our hands of Izal | Brief letters",
@@ -231,7 +278,7 @@
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Wed, 15 Apr 2026 16:24:38 GMT",
         "title": "Sand dredging may have greater impact on Lough Neagh",
@@ -254,7 +301,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e10/live/35d03260-769b-11ef-acda-e96fa573e779.jpg"
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Wed, 15 Apr 2026 15:29:01 GMT",
         "title": "Watch: Dashcam captures meteor soaring through sky",
@@ -277,7 +324,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca4d/live/57b91ac0-38de-11f1-9d5c-8ba507d7dbde.jpg"
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Wed, 15 Apr 2026 13:38:11 GMT",
         "title": "‘Uncharted territory’: uncertainty as US vaccine guidance falls apart under Trump",
@@ -298,7 +345,7 @@
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Wed, 15 Apr 2026 12:00:36 GMT",
         "title": "Wetter winter and warmer summer hit marine life",
@@ -315,13 +362,13 @@
             "standfirst": "Experts from Plymouth Marine Laboratory test Devon and Cornwall waters and analyse algae blooms.",
             "content": "Experts from Plymouth Marine Laboratory test Devon and Cornwall waters and analyse algae blooms.",
             "feed_position": 9,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a4f/live/dacb7c70-38b9-11f1-883f-2b010a576163.jpg"
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c614/live/05235880-fac1-11f0-87ed-0171ac45216b.jpg"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a4f/live/dacb7c70-38b9-11f1-883f-2b010a576163.jpg"
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c614/live/05235880-fac1-11f0-87ed-0171ac45216b.jpg"
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Wed, 15 Apr 2026 10:01:48 GMT",
         "title": "'I'm not being listened to' - new health plan launched as women say they are still ignored",
@@ -337,14 +384,14 @@
             "title": "'I'm not being listened to' - new health plan launched as women say they are still ignored",
             "standfirst": "New plans to improve healthcare for women and girls have been set out, but will they change anything?",
             "content": "New plans to improve healthcare for women and girls have been set out, but will they change anything?",
-            "feed_position": 1,
+            "feed_position": 4,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d27b/live/1d9e7ca0-3824-11f1-9d5c-8ba507d7dbde.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d27b/live/1d9e7ca0-3824-11f1-9d5c-8ba507d7dbde.jpg"
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Wed, 15 Apr 2026 09:00:04 GMT",
         "title": "‘I was peeing blood constantly’: my ketamine hell – and what made me stop",
@@ -365,7 +412,7 @@
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Wed, 15 Apr 2026 05:57:53 GMT",
         "title": "A cold could kill my daughter - hospital visits feel like a death sentence",
@@ -381,14 +428,14 @@
             "title": "A cold could kill my daughter - hospital visits feel like a death sentence",
             "standfirst": "Rebecca Quayle, who has terminal cancer, has had to wait in A&E with people coughing and taking Covid tests.",
             "content": "Rebecca Quayle, who has terminal cancer, has had to wait in A&E with people coughing and taking Covid tests.",
-            "feed_position": 2,
+            "feed_position": 5,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/921a/live/69e7cd20-38ae-11f1-b3ad-57205c387169.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/921a/live/69e7cd20-38ae-11f1-b3ad-57205c387169.jpg"
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Wed, 15 Apr 2026 05:12:38 GMT",
         "title": "Interstellar A&E: The Scottish doctor of space medicine",
@@ -409,57 +456,11 @@
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1d2/live/08d70430-34b5-11f1-a676-6ff4dfb1e8ec.jpg"
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Wed, 15 Apr 2026 05:04:11 GMT",
-        "title": "UK butterflies declining after 50 years of data",
-        "neutral_headline": "UK butterflies declining after 50 years of data",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/cddq51v7nygo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Wed, 15 Apr 2026 05:04:11 GMT",
-            "title": "UK butterflies declining after 50 years of data",
-            "standfirst": "Volunteers led by Dorset-based Butterfly Conservation have gathered more than 44m records.",
-            "content": "Volunteers led by Dorset-based Butterfly Conservation have gathered more than 44m records.",
-            "feed_position": 10,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c98/live/09536d10-34ea-11f1-bce2-613d63bea84f.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c98/live/09536d10-34ea-11f1-bce2-613d63bea84f.jpg"
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Tue, 14 Apr 2026 23:54:08 GMT",
-        "title": "Don't feel like exercising? Maybe it's the wrong time of day for you",
-        "neutral_headline": "Don't feel like exercising? Maybe it's the wrong time of day for you",
-        "bullet_summary": [
-          "Reported by BBC Health"
-        ],
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/cd6lzpxwx50o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Tue, 14 Apr 2026 23:54:08 GMT",
-            "title": "Don't feel like exercising? Maybe it's the wrong time of day for you",
-            "standfirst": "Time your workout to your body clock, health researchers advise based on latest evidence.",
-            "content": "Time your workout to your body clock, health researchers advise based on latest evidence.",
-            "feed_position": 0,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a42/live/4927a770-38ce-11f1-8606-05fe34b06e1b.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a42/live/4927a770-38ce-11f1-8606-05fe34b06e1b.jpg"
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-04-16T05:23:29.039Z",
+    "updated_at": "2026-04-16T08:24:25.879Z",
     "clusters": []
   }
 }
