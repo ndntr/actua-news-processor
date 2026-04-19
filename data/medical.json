@@ -1,17 +1,63 @@
 {
   "clinical": {
-    "updated_at": "2026-04-19T19:36:21.613Z",
+    "updated_at": "2026-04-19T23:29:05.587Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-04-19T19:36:21.613Z",
+    "updated_at": "2026-04-19T23:29:05.587Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-04-19T19:36:24.004Z",
+    "updated_at": "2026-04-19T23:29:07.568Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Sun, 19 Apr 2026 23:00:05 GMT",
+        "title": "Health visitors call for limits on 'impossible' 1,000-family caseloads",
+        "neutral_headline": "Health visitors call for limits on 'impossible' 1,000-family caseloads",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/ce8lp0pz3y9o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sun, 19 Apr 2026 23:00:05 GMT",
+            "title": "Health visitors call for limits on 'impossible' 1,000-family caseloads",
+            "standfirst": "BBC analysis shows the number of health visitors in England has almost halved in the last 10 years.",
+            "content": "BBC analysis shows the number of health visitors in England has almost halved in the last 10 years.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/984d/live/c42d7810-39a4-11f1-990c-ebf66a8167aa.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/984d/live/c42d7810-39a4-11f1-990c-ebf66a8167aa.jpg"
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Sun, 19 Apr 2026 20:42:34 GMT",
+        "title": "Fears for more than 1,000 toads after reservoir drained by water company",
+        "neutral_headline": "Fears for more than 1,000 toads after reservoir drained by water company",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/c8ejjd86p73o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sun, 19 Apr 2026 20:42:34 GMT",
+            "title": "Fears for more than 1,000 toads after reservoir drained by water company",
+            "standfirst": "Volunteers who helped more than 1,500 toads cross a busy road to a breeding ground fear they have died.",
+            "content": "Volunteers who helped more than 1,500 toads cross a busy road to a breeding ground fear they have died.",
+            "feed_position": 6,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe76/live/6b934100-3a60-11f1-bab3-e3881342f552.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe76/live/6b934100-3a60-11f1-bab3-e3881342f552.jpg"
+      },
+      {
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Sun, 19 Apr 2026 15:44:38 GMT",
         "title": "The fight against medical misogyny has a long way to go | Letters",
@@ -32,7 +78,7 @@
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Sun, 19 Apr 2026 15:24:14 GMT",
         "title": "'We want to give a voice to Lough Neagh', singers say",
@@ -48,14 +94,14 @@
             "title": "'We want to give a voice to Lough Neagh', singers say",
             "standfirst": "Campaigners gathered at several locations around Lough Neagh to come together to 'Sing for the Lough'.",
             "content": "Campaigners gathered at several locations around Lough Neagh to come together to 'Sing for the Lough'.",
-            "feed_position": 6,
+            "feed_position": 7,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05e0/live/8bd7cc20-3c03-11f1-808b-d530aa7a4025.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05e0/live/8bd7cc20-3c03-11f1-808b-d530aa7a4025.jpg"
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Sun, 19 Apr 2026 13:00:43 GMT",
         "title": "Are you a woman who makes life easier for everyone else? Beware – you could endanger your health | Emma Beddington",
@@ -76,7 +122,7 @@
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Sun, 19 Apr 2026 09:00:37 GMT",
         "title": "Don’t knock small talk. It has the power to mend a world ripped apart by rage | Bidisha",
@@ -97,7 +143,7 @@
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Sun, 19 Apr 2026 06:44:50 GMT",
         "title": "'It would break my heart' - wind farm plans leave people divided",
@@ -113,14 +159,14 @@
             "title": "'It would break my heart' - wind farm plans leave people divided",
             "standfirst": "People have contacted BBC Your Voice about plans for onshore wind farms across Wales.",
             "content": "People have contacted BBC Your Voice about plans for onshore wind farms across Wales.",
-            "feed_position": 7,
+            "feed_position": 8,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d97/live/3851ceb0-3bb9-11f1-b909-5fca5a802d88.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d97/live/3851ceb0-3bb9-11f1-b909-5fca5a802d88.jpg"
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Sun, 19 Apr 2026 06:21:34 GMT",
         "title": "How the battle for Bempton's birds was won",
@@ -136,14 +182,14 @@
             "title": "How the battle for Bempton's birds was won",
             "standfirst": "Campaigners fought to stop day-trippers shooting thousands of birds at a time on Yorkshire's coast.",
             "content": "Campaigners fought to stop day-trippers shooting thousands of birds at a time on Yorkshire's coast.",
-            "feed_position": 8,
+            "feed_position": 9,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/295a/live/83f1e370-37fc-11f1-9200-b31cdeb07b99.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/295a/live/83f1e370-37fc-11f1-9200-b31cdeb07b99.jpg"
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Sun, 19 Apr 2026 06:00:34 GMT",
         "title": "‘Oscar of science’ awarded to team behind gene therapy that restores lost vision",
@@ -164,7 +210,7 @@
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Sat, 18 Apr 2026 23:04:43 GMT",
         "title": "Should you really trust health advice from an AI chatbot?",
@@ -180,14 +226,14 @@
             "title": "Should you really trust health advice from an AI chatbot?",
             "standfirst": "Abi has had very mixed results when asking a chatbot for guidance about her health issues.",
             "content": "Abi has had very mixed results when asking a chatbot for guidance about her health issues.",
-            "feed_position": 0,
+            "feed_position": 1,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbcd/live/93df4d00-3a6c-11f1-9368-ddaac8cf7f1d.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbcd/live/93df4d00-3a6c-11f1-9368-ddaac8cf7f1d.jpg"
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Sat, 18 Apr 2026 20:00:24 GMT",
         "title": "How Australia’s other half heals: all aboard the superyacht where rehab costs $600,000 a week",
@@ -208,7 +254,7 @@
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Sat, 18 Apr 2026 15:03:54 GMT",
         "title": "Trump announces reforms to accelerate access to psychedelic drug treatments",
@@ -229,7 +275,7 @@
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Sat, 18 Apr 2026 06:30:01 GMT",
         "title": "Artemis II Moon mission lifts children's ambitions",
@@ -252,7 +298,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86e3/live/606ff1a0-374b-11f1-bcf0-130930103dc8.jpg"
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Sat, 18 Apr 2026 06:23:57 GMT",
         "title": "Campaigners hope to save rare rainforest habitat",
@@ -268,14 +314,14 @@
             "title": "Campaigners hope to save rare rainforest habitat",
             "standfirst": "Volunteers are raising funding to continue work to restore a temperate rainforest in Cumbria.",
             "content": "Volunteers are raising funding to continue work to restore a temperate rainforest in Cumbria.",
-            "feed_position": 9,
+            "feed_position": 10,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc77/live/e804ffc0-37eb-11f1-bf98-335695df34d3.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc77/live/e804ffc0-37eb-11f1-bf98-335695df34d3.jpg"
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Fri, 17 Apr 2026 23:35:23 GMT",
         "title": "Pregnancy vaccine reduces baby hospital admissions for RSV by 80%",
@@ -291,62 +337,16 @@
             "title": "Pregnancy vaccine reduces baby hospital admissions for RSV by 80%",
             "standfirst": "A study confirms the vaccine gives excellent protection for babies against life-threatening chest infections.",
             "content": "A study confirms the vaccine gives excellent protection for babies against life-threatening chest infections.",
-            "feed_position": 1,
+            "feed_position": 2,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ad0/live/9f4a1170-3a67-11f1-88e7-17b97289f7a3.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ad0/live/9f4a1170-3a67-11f1-88e7-17b97289f7a3.jpg"
-      },
-      {
-        "id": "cluster_13",
-        "coverage": 1,
-        "updated_at": "Fri, 17 Apr 2026 23:16:33 GMT",
-        "title": "'I'm the lucky one' - more than one in three young men now live with their parents",
-        "neutral_headline": "'I'm the lucky one' - more than one in three young men now live with their parents",
-        "bullet_summary": [
-          "Reported by BBC Health"
-        ],
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/ce3578g32d0o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Fri, 17 Apr 2026 23:16:33 GMT",
-            "title": "'I'm the lucky one' - more than one in three young men now live with their parents",
-            "standfirst": "Last year, the highest proportion of men aged 20-34 were still living at home since at least 2007 as the rising cost of living takes hold.",
-            "content": "Last year, the highest proportion of men aged 20-34 were still living at home since at least 2007 as the rising cost of living takes hold.",
-            "feed_position": 2,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/468a/live/5cfbfc50-3a87-11f1-879d-1b2f5c3919b8.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/468a/live/5cfbfc50-3a87-11f1-879d-1b2f5c3919b8.jpg"
-      },
-      {
-        "id": "cluster_14",
-        "coverage": 1,
-        "updated_at": "Fri, 17 Apr 2026 19:56:52 GMT",
-        "title": "No, Kim K did not really wear this t-shirt at Coachella...",
-        "neutral_headline": "No, Kim K did not really wear this t-shirt at Coachella...",
-        "bullet_summary": [
-          "Reported by BBC Health"
-        ],
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/videos/c8jk29nkz82o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Fri, 17 Apr 2026 19:56:52 GMT",
-            "title": "No, Kim K did not really wear this t-shirt at Coachella...",
-            "standfirst": "BBC Verify breaks down how fake viral images of celebrities at Coachella are actually AI generated.",
-            "content": "BBC Verify breaks down how fake viral images of celebrities at Coachella are actually AI generated.",
-            "feed_position": 32,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a20/live/f1859e40-3a95-11f1-9d5c-8ba507d7dbde.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a20/live/f1859e40-3a95-11f1-9d5c-8ba507d7dbde.jpg"
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-04-19T19:36:24.004Z",
+    "updated_at": "2026-04-19T23:29:07.568Z",
     "clusters": []
   }
 }
