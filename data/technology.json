@@ -1,99 +1,12 @@
 {
-  "updated_at": "2026-04-21T23:29:28.866Z",
+  "updated_at": "2026-04-22T05:18:58.445Z",
   "clusters": [
     {
-      "id": "cluster_10",
+      "id": "cluster_57",
       "coverage": 3,
-      "updated_at": "Tue, 21 Apr 2026 21:40:41 +0000",
-      "title": "Mozilla: Anthropic's Mythos found 271 security vulnerabilities in Firefox 150",
-      "neutral_headline": "Mozilla: Anthropic's Mythos found 271 security vulnerabilities in Firefox 150",
-      "bullet_summary": [
-        "Reported by Ars Technica, TechMeme, Wired Tech"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/",
-          "published_at": "Tue, 21 Apr 2026 21:40:41 +0000",
-          "title": "Mozilla: Anthropic's Mythos found 271 security vulnerabilities in Firefox 150",
-          "standfirst": "CTO says new AI model is \"every bit as capable\" as world's best security researchers.",
-          "content": "Earlier this month, Anthropic said its Mythos Preview model was so good at finding cybersecurity vulnerabilities that the company was limiting its initial release to \"a limited group of critical industry partners.\" Since then, debate has raged over whether the model presages an era of turbocharged AI-aided hacking or if Anthropic is just building hype for what is a relatively normal step up on the ladder of advancing AI capabilities. Mozilla added some important data to that debate Tuesday, writing in a blog post that early access to Mythos Preview had helped it pre-identify 271 security vulnerabilities in this week's release of Firefox 150. The results were significant enough to get Firefox CTO Bobby Holley to enthuse that, in the never-ending battle between cyberattackers and cyberdefenders, \"defenders finally have a chance to win, decisively.\" \"We've rounded the curve\" Holley didn't go into detail on the severity of the hundreds of vulnerabilities that Mythos reportedly detected simply by analyzing the unreleased source code of Firefox's latest version. But by way of comparison, he noted that Anthropic's Opus 4.6 model found only 22 security-sensitive bugs when analyzing Firefox 148 last month.Read full article Comments",
-          "feed_position": 1,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2235759925-1152x648.jpg"
-        },
-        {
-          "source": "TechMeme",
-          "url": "http://www.techmeme.com/260421/p37#a260421p37",
-          "published_at": "Tue, 21 Apr 2026 15:35:01 -0400",
-          "title": "Mozilla says its Firefox 150 release includes fixes for 271 vulnerabilities identified using early access to Anthropic's Mythos Preview (Lily Hay Newman/Wired)",
-          "standfirst": "Lily Hay Newman / Wired: Mozilla says its Firefox 150 release includes fixes for 271 vulnerabilities identified using early access to Anthropic's Mythos Preview &mdash; The Firefox team doesn't think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a rocky transition.",
-          "content": "Lily Hay Newman / Wired: Mozilla says its Firefox 150 release includes fixes for 271 vulnerabilities identified using early access to Anthropic's Mythos Preview &mdash; The Firefox team doesn't think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a rocky transition.",
-          "feed_position": 12,
-          "image_url": "http://www.techmeme.com/260421/i37.jpg"
-        },
-        {
-          "source": "Wired Tech",
-          "url": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/",
-          "published_at": "Tue, 21 Apr 2026 18:30:00 +0000",
-          "title": "Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox",
-          "standfirst": "The Firefox team doesn’t think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a rocky transition.",
-          "content": "The Firefox team doesn’t think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a rocky transition.",
-          "feed_position": 2,
-          "image_url": "https://media.wired.com/photos/69e6df06b405035df7b7ce2e/master/pass/security_GettyImages-2214075816.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2235759925-1152x648.jpg",
-      "popularity_score": 3018.186703888889
-    },
-    {
-      "id": "cluster_34",
-      "coverage": 3,
-      "updated_at": "Tue, 21 Apr 2026 15:25:00 -0400",
-      "title": "ChatGPT Images 2.0 is available globally to ChatGPT and Codex users, with a more powerful version for paying subscribers; its knowledge cutoff is December 2025 (Reece Rogers/Wired)",
-      "neutral_headline": "ChatGPT&#8217;s new Images 2.0 model is surprisingly good at generating text",
-      "bullet_summary": [
-        "Reported by TechMeme, TechCrunch, Wired Tech"
-      ],
-      "items": [
-        {
-          "source": "TechMeme",
-          "url": "http://www.techmeme.com/260421/p35#a260421p35",
-          "published_at": "Tue, 21 Apr 2026 15:25:00 -0400",
-          "title": "ChatGPT Images 2.0 is available globally to ChatGPT and Codex users, with a more powerful version for paying subscribers; its knowledge cutoff is December 2025 (Reece Rogers/Wired)",
-          "standfirst": "Reece Rogers / Wired: ChatGPT Images 2.0 is available globally to ChatGPT and Codex users, with a more powerful version for paying subscribers; its knowledge cutoff is December 2025 &mdash; The ChatGPT Images 2.0 model is here. Our testing shows it's better at creating more detailed images and rendering text &hellip;",
-          "content": "Reece Rogers / Wired: ChatGPT Images 2.0 is available globally to ChatGPT and Codex users, with a more powerful version for paying subscribers; its knowledge cutoff is December 2025 &mdash; The ChatGPT Images 2.0 model is here. Our testing shows it's better at creating more detailed images and rendering text &hellip;",
-          "feed_position": 14,
-          "image_url": "http://www.techmeme.com/260421/i35.jpg"
-        },
-        {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
-          "published_at": "Tue, 21 Apr 2026 19:00:00 +0000",
-          "title": "ChatGPT&#8217;s new Images 2.0 model is surprisingly good at generating text",
-          "standfirst": "ChatGPT Images 2.0, the newest image-generation model from OpenAI, shows just how much AI capabilities have evolved over the last few years.",
-          "content": "ChatGPT Images 2.0, the newest image-generation model from OpenAI, shows just how much AI capabilities have evolved over the last few years.",
-          "feed_position": 7
-        },
-        {
-          "source": "Wired Tech",
-          "url": "https://www.wired.com/story/openai-beefs-up-chatgpts-image-generation-model/",
-          "published_at": "Tue, 21 Apr 2026 19:00:00 +0000",
-          "title": "OpenAI Beefs Up ChatGPT’s Image Generation Model",
-          "standfirst": "The ChatGPT Images 2.0 model is here. Our testing shows it’s better at creating more detailed images and rendering text, but it still struggles with languages other than English.",
-          "content": "The ChatGPT Images 2.0 model is here. Our testing shows it’s better at creating more detailed images and rendering text, but it still struggles with languages other than English.",
-          "feed_position": 1,
-          "image_url": "https://media.wired.com/photos/69e7aa26e71e88c4e31ef5d8/master/pass/GettyImages-2271722472.jpg"
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/260421/i35.jpg",
-      "popularity_score": 3015.925315
-    },
-    {
-      "id": "cluster_118",
-      "coverage": 3,
-      "updated_at": "Tue, 21 Apr 2026 01:48:37 GMT",
-      "title": "Who is John Ternus, Apple’s next CEO?",
-      "neutral_headline": "Who is John Ternus, Apple’s next CEO",
+      "updated_at": "Tue, 21 Apr 2026 18:24:49 GMT",
+      "title": "Four key takeaways from Apple’s change of leadership",
+      "neutral_headline": "Four key takeaways from Apple’s change of leadership",
       "bullet_summary": [
         "Apple’s yearly profit now tops $100bn, and in January it announced record revenue from its iPhones, boosted by renewed demand in China",
         "I love Apple with all of my being,” Cook said in a press release"
@@ -101,12 +14,21 @@
       "items": [
         {
           "source": "Guardian Tech",
+          "url": "https://www.theguardian.com/global/2026/apr/21/four-key-takeaways-from-apple-change-of-leadership",
+          "published_at": "Tue, 21 Apr 2026 18:24:49 GMT",
+          "title": "Four key takeaways from Apple’s change of leadership",
+          "standfirst": "Analysts say next boss John Ternus should diversify tech giant away from iPhones and raise its game in AIJohn Ternus takes over from Tim Cook as chief executive of Apple in September. A company insider, Ternus is moving up from his role as head of engineering to take control of the entire $4tn (£3tn) business.Apple is a vast, successful tech company and one of the most recognised brands in the world. But it faces challenges nonetheless. Here is a look at Ternus’s in-tray. Continue reading...",
+          "content": "Analysts say next boss John Ternus should diversify tech giant away from iPhones and raise its game in AIJohn Ternus takes over from Tim Cook as chief executive of Apple in September. A company insider, Ternus is moving up from his role as head of engineering to take control of the entire $4tn (£3tn) business.Apple is a vast, successful tech company and one of the most recognised brands in the world. But it faces challenges nonetheless. Here is a look at Ternus’s in-tray. Continue reading...",
+          "feed_position": 20
+        },
+        {
+          "source": "Guardian Tech",
           "url": "https://www.theguardian.com/technology/2026/apr/20/john-ternus-apple-ceo-tim-cook",
           "published_at": "Tue, 21 Apr 2026 01:48:37 GMT",
           "title": "Who is John Ternus, Apple’s next CEO?",
           "standfirst": "Hardware engineering executive is a longtime Apple insider, indicating company will continue strategy that has led to record profitsApple has announced longtime company veteran John Ternus as the next CEO of the company, succeeding the current CEO, Tim Cook, who is set to transition to executive chair of Apple’s board of directors later this year.Ternus’s term as CEO will begin on 1 September. The hardware engineering executive is a longtime Apple insider, indicating the company will stay the course that has led to record profits under Cook’s leadership. Apple’s yearly profit now tops $100bn, and in January it announced record revenue from its iPhones, boosted by renewed demand in China. Continue reading...",
           "content": "Hardware engineering executive is a longtime Apple insider, indicating company will continue strategy that has led to record profitsApple has announced longtime company veteran John Ternus as the next CEO of the company, succeeding the current CEO, Tim Cook, who is set to transition to executive chair of Apple’s board of directors later this year.Ternus’s term as CEO will begin on 1 September. The hardware engineering executive is a longtime Apple insider, indicating the company will stay the course that has led to record profits under Cook’s leadership. Apple’s yearly profit now tops $100bn, and in January it announced record revenue from its iPhones, boosted by renewed demand in China. Continue reading...",
-          "feed_position": 20
+          "feed_position": 21
         },
         {
           "source": "Guardian Tech",
@@ -139,10 +61,111 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1388205526-1152x648.jpg",
-      "popularity_score": 3000
+      "popularity_score": 3009.0973763888887
     },
     {
-      "id": "cluster_20",
+      "id": "cluster_4",
+      "coverage": 2,
+      "updated_at": "Tue, 21 Apr 2026 22:25:01 -0400",
+      "title": "How GrapheneOS lead developer Daniel Micay's legal fights with his former partner James Donaldson over CopperheadOS led to the privacy-focused tool's creation (Tiffany Ng/Wired)",
+      "neutral_headline": "They Built a Legendary Privacy Tool. Now They’re Sworn Enemies",
+      "bullet_summary": [
+        "Reported by TechMeme, Wired Tech"
+      ],
+      "items": [
+        {
+          "source": "TechMeme",
+          "url": "http://www.techmeme.com/260421/p56#a260421p56",
+          "published_at": "Tue, 21 Apr 2026 22:25:01 -0400",
+          "title": "How GrapheneOS lead developer Daniel Micay's legal fights with his former partner James Donaldson over CopperheadOS led to the privacy-focused tool's creation (Tiffany Ng/Wired)",
+          "standfirst": "Tiffany Ng / Wired: How GrapheneOS lead developer Daniel Micay's legal fights with his former partner James Donaldson over CopperheadOS led to the privacy-focused tool's creation &mdash; There's a lot of love all over the world for GrapheneOS, the gold standard of mobile security. There's very little love between the two guys at the center of its history.",
+          "content": "Tiffany Ng / Wired: How GrapheneOS lead developer Daniel Micay's legal fights with his former partner James Donaldson over CopperheadOS led to the privacy-focused tool's creation &mdash; There's a lot of love all over the world for GrapheneOS, the gold standard of mobile security. There's very little love between the two guys at the center of its history.",
+          "feed_position": 4,
+          "image_url": "http://www.techmeme.com/260421/i56.jpg"
+        },
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/they-built-privacy-tool-grapheneos-now-sworn-enemies/",
+          "published_at": "Tue, 21 Apr 2026 10:00:00 +0000",
+          "title": "They Built a Legendary Privacy Tool. Now They’re Sworn Enemies",
+          "standfirst": "There’s a lot of love all over the world for GrapheneOS, the gold standard of mobile security. There’s very little love between the two guys at the center of its history.",
+          "content": "There’s a lot of love all over the world for GrapheneOS, the gold standard of mobile security. There’s very little love between the two guys at the center of its history.",
+          "feed_position": 12,
+          "image_url": "https://media.wired.com/photos/69e295a92e2d64bf927d8ec2/master/pass/wired%20final%20featured%20illustration.jpg"
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/260421/i56.jpg",
+      "popularity_score": 2017.1007097222223
+    },
+    {
+      "id": "cluster_9",
+      "coverage": 2,
+      "updated_at": "Wed, 22 Apr 2026 00:30:45 GMT",
+      "title": "I saw Framework's new 'MacBook Pro for Linux users' and it may entice Windows fans, too",
+      "neutral_headline": "Framework's CEO on the RAM crisis and creating a \"MacBook Pro for Linux users\"",
+      "bullet_summary": [
+        "Reported by ZDNet, Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "ZDNet",
+          "url": "https://www.zdnet.com/article/framework-laptop-13-pro-macbook-pro-for-linux-users/",
+          "published_at": "Wed, 22 Apr 2026 00:30:45 GMT",
+          "title": "I saw Framework's new 'MacBook Pro for Linux users' and it may entice Windows fans, too",
+          "standfirst": "Years of user feedback have led to the new Framework Laptop 13 Pro, an ultraportable device that's both modular and premium.",
+          "content": "Years of user feedback have led to the new Framework Laptop 13 Pro, an ultraportable device that's both modular and premium.",
+          "feed_position": 2
+        },
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/04/frameworks-ceo-on-the-ram-crisis-and-creating-a-macbook-pro-for-linux-users/",
+          "published_at": "Tue, 21 Apr 2026 20:22:20 +0000",
+          "title": "Framework's CEO on the RAM crisis and creating a \"MacBook Pro for Linux users\"",
+          "standfirst": "\"We actually have slightly more Linux users than Windows users.\"",
+          "content": "We’ve seen enough product announcements from Framework at this point that today’s updates feel more or less routine. The biggest new thing is an updated motherboard with Intel’s Core Ultra Series 3 processors that can either be dropped into the existing Framework Laptop 13 or bought as part of the new Framework Laptop 13 Pro. Updated screens, keyboards, and other parts—mostly compatible with Framework’s existing laptops, mostly meant to address specific complaints about, or missing features in, those products—are also available. But the company has also decided to place more emphasis than usual on its support for Linux. The company’s teaser site for today's announcements encouraged users to “follow the white penguin,” a Linux-y reference to The Matrix (1999) (or maybe a Matrix-y reference to Linux’s mascot). Framework has always officially supported various Linux flavors on its systems, but the Laptop 13 Pro will be the first pre-built Laptop that can ship with Linux installed from the factory, and the system features Framework’s first officially Ubuntu Certified system. Framework CEO Nirav Patel is even trying to position the Laptop 13 Pro as “MacBook Pro for Linux users.”Read full article Comments",
+          "feed_position": 4,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/FW13-ProductFamily-4-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/FW13-ProductFamily-4-1152x648.jpg",
+      "popularity_score": 2015.1962652777777
+    },
+    {
+      "id": "cluster_28",
+      "coverage": 2,
+      "updated_at": "Tue, 21 Apr 2026 21:40:41 +0000",
+      "title": "Mozilla: Anthropic's Mythos found 271 security vulnerabilities in Firefox 150",
+      "neutral_headline": "Mozilla: Anthropic's Mythos found 271 security vulnerabilities in Firefox 150",
+      "bullet_summary": [
+        "Reported by Ars Technica, Wired Tech"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/",
+          "published_at": "Tue, 21 Apr 2026 21:40:41 +0000",
+          "title": "Mozilla: Anthropic's Mythos found 271 security vulnerabilities in Firefox 150",
+          "standfirst": "CTO says new AI model is \"every bit as capable\" as world's best security researchers.",
+          "content": "Earlier this month, Anthropic said its Mythos Preview model was so good at finding cybersecurity vulnerabilities that the company was limiting its initial release to \"a limited group of critical industry partners.\" Since then, debate has raged over whether the model presages an era of turbocharged AI-aided hacking or if Anthropic is just building hype for what is a relatively normal step up on the ladder of advancing AI capabilities. Mozilla added some important data to that debate Tuesday, writing in a blog post that early access to Mythos Preview had helped it pre-identify 271 security vulnerabilities in this week's release of Firefox 150. The results were significant enough to get Firefox CTO Bobby Holley to enthuse that, in the never-ending battle between cyberattackers and cyberdefenders, \"defenders finally have a chance to win, decisively.\" \"We've rounded the curve\" Holley didn't go into detail on the severity of the hundreds of vulnerabilities that Mythos reportedly detected simply by analyzing the unreleased source code of Firefox's latest version. But by way of comparison, he noted that Anthropic's Opus 4.6 model found only 22 security-sensitive bugs when analyzing Firefox 148 last month.Read full article Comments",
+          "feed_position": 1,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2235759925-1152x648.jpg"
+        },
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/",
+          "published_at": "Tue, 21 Apr 2026 18:30:00 +0000",
+          "title": "Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox",
+          "standfirst": "The Firefox team doesn’t think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a rocky transition.",
+          "content": "The Firefox team doesn’t think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a rocky transition.",
+          "feed_position": 2,
+          "image_url": "https://media.wired.com/photos/69e6df06b405035df7b7ce2e/master/pass/security_GettyImages-2214075816.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2235759925-1152x648.jpg",
+      "popularity_score": 2012.3618208333332
+    },
+    {
+      "id": "cluster_35",
       "coverage": 2,
       "updated_at": "Tue, 21 Apr 2026 20:43:18 GMT",
       "title": "Google’s new Deep Research and Deep Research Max agents can search the web and your private data",
@@ -342,77 +365,43 @@
         }
       ],
       "featured_image": "https://images.ctfassets.net/jdtwqhzvc2n1/XnHzMo0vBDWmcq26xBte3/4a3d68b62ae2c7ac004b7706cf2cebe5/nuneybits_Vector_art_of_Google_logo_morphing_into_research_grap_58bdb7e1-2ede-42c5-9881-d2674c2d9475.webp?w=300&q=30",
-      "popularity_score": 2017.230315
+      "popularity_score": 2011.4054319444444
     },
     {
-      "id": "cluster_21",
+      "id": "cluster_51",
       "coverage": 2,
-      "updated_at": "Tue, 21 Apr 2026 16:40:03 -0400",
-      "title": "The US DOJ says a former ransomware negotiator pleaded guilty to helping cybercriminals extort companies in cyberattacks in five different incidents (Lorenzo Franceschi-Bicchierai/TechCrunch)",
-      "neutral_headline": "Ransomware negotiator pleads guilty to helping ransomware gang",
+      "updated_at": "Tue, 21 Apr 2026 19:00:00 +0000",
+      "title": "ChatGPT&#8217;s new Images 2.0 model is surprisingly good at generating text",
+      "neutral_headline": "ChatGPT&#8217;s new Images 2.0 model is surprisingly good at generating text",
       "bullet_summary": [
-        "Reported by TechMeme, TechCrunch"
+        "Reported by TechCrunch, Wired Tech"
       ],
       "items": [
         {
-          "source": "TechMeme",
-          "url": "http://www.techmeme.com/260421/p42#a260421p42",
-          "published_at": "Tue, 21 Apr 2026 16:40:03 -0400",
-          "title": "The US DOJ says a former ransomware negotiator pleaded guilty to helping cybercriminals extort companies in cyberattacks in five different incidents (Lorenzo Franceschi-Bicchierai/TechCrunch)",
-          "standfirst": "Lorenzo Franceschi-Bicchierai / TechCrunch: The US DOJ says a former ransomware negotiator pleaded guilty to helping cybercriminals extort companies in cyberattacks in five different incidents &mdash; Angelo Martino, a former ransomware negotiator, has pleaded guilty to helping cybercriminals extort companies in cyberattacks.",
-          "content": "Lorenzo Franceschi-Bicchierai / TechCrunch: The US DOJ says a former ransomware negotiator pleaded guilty to helping cybercriminals extort companies in cyberattacks in five different incidents &mdash; Angelo Martino, a former ransomware negotiator, has pleaded guilty to helping cybercriminals extort companies in cyberattacks.",
-          "feed_position": 7,
-          "image_url": "http://www.techmeme.com/260421/i42.jpg"
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
+          "published_at": "Tue, 21 Apr 2026 19:00:00 +0000",
+          "title": "ChatGPT&#8217;s new Images 2.0 model is surprisingly good at generating text",
+          "standfirst": "ChatGPT Images 2.0, the newest image-generation model from OpenAI, shows just how much AI capabilities have evolved over the last few years.",
+          "content": "ChatGPT Images 2.0, the newest image-generation model from OpenAI, shows just how much AI capabilities have evolved over the last few years.",
+          "feed_position": 9
         },
         {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/04/21/ransomware-negotiator-pleads-guilty-to-helping-ransomware-gang/",
-          "published_at": "Tue, 21 Apr 2026 15:56:53 +0000",
-          "title": "Ransomware negotiator pleads guilty to helping ransomware gang",
-          "standfirst": "A former employee of a cybersecurity firm pleaded guilty to aiding ransomware criminals to maximize their profits, with the goal of taking a cut of the ransom.",
-          "content": "A former employee of a cybersecurity firm pleaded guilty to aiding ransomware criminals to maximize their profits, with the goal of taking a cut of the ransom.",
-          "feed_position": 12
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/openai-beefs-up-chatgpts-image-generation-model/",
+          "published_at": "Tue, 21 Apr 2026 19:00:00 +0000",
+          "title": "OpenAI Beefs Up ChatGPT’s Image Generation Model",
+          "standfirst": "The ChatGPT Images 2.0 model is here. Our testing shows it’s better at creating more detailed images and rendering text, but it still struggles with languages other than English.",
+          "content": "The ChatGPT Images 2.0 model is here. Our testing shows it’s better at creating more detailed images and rendering text, but it still struggles with languages other than English.",
+          "feed_position": 1,
+          "image_url": "https://media.wired.com/photos/69e7aa26e71e88c4e31ef5d8/master/pass/GettyImages-2271722472.jpg"
         }
       ],
-      "featured_image": "http://www.techmeme.com/260421/i42.jpg",
-      "popularity_score": 2017.1761483333332
+      "featured_image": "https://media.wired.com/photos/69e7aa26e71e88c4e31ef5d8/master/pass/GettyImages-2271722472.jpg",
+      "popularity_score": 2009.6837652777779
     },
     {
-      "id": "cluster_33",
-      "coverage": 2,
-      "updated_at": "Tue, 21 Apr 2026 15:30:01 -0400",
-      "title": "NeoCognition, which wants to build AI agents that self-learn like humans, emerges from stealth with a $40M seed co-led by Cambium Capital and Walden Catalyst (Marina Temkin/TechCrunch)",
-      "neutral_headline": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
-      "bullet_summary": [
-        "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain",
-        "Reported by TechMeme, TechCrunch"
-      ],
-      "items": [
-        {
-          "source": "TechMeme",
-          "url": "http://www.techmeme.com/260421/p36#a260421p36",
-          "published_at": "Tue, 21 Apr 2026 15:30:01 -0400",
-          "title": "NeoCognition, which wants to build AI agents that self-learn like humans, emerges from stealth with a $40M seed co-led by Cambium Capital and Walden Catalyst (Marina Temkin/TechCrunch)",
-          "standfirst": "Marina Temkin / TechCrunch: NeoCognition, which wants to build AI agents that self-learn like humans, emerges from stealth with a $40M seed co-led by Cambium Capital and Walden Catalyst &mdash; Investors are aggressively courting AI researchers to build startups that can make AI more reliable and efficient.",
-          "content": "Marina Temkin / TechCrunch: NeoCognition, which wants to build AI agents that self-learn like humans, emerges from stealth with a $40M seed co-led by Cambium Capital and Walden Catalyst &mdash; Investors are aggressively courting AI researchers to build startups that can make AI more reliable and efficient.",
-          "feed_position": 13,
-          "image_url": "http://www.techmeme.com/260421/i36.jpg"
-        },
-        {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
-          "published_at": "Tue, 21 Apr 2026 19:11:29 +0000",
-          "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
-          "standfirst": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain.",
-          "content": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain.",
-          "feed_position": 4
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/260421/i36.jpg",
-      "popularity_score": 2016.0089261111111
-    },
-    {
-      "id": "cluster_83",
+      "id": "cluster_93",
       "coverage": 2,
       "updated_at": "Tue, 21 Apr 2026 14:23:24 +0000",
       "title": "Loneliness in older adults can often lead to memory impairment",
@@ -443,10 +432,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/loneliness-1152x648.jpg",
-      "popularity_score": 2010.8986483333333
+      "popularity_score": 2005.0737652777777
     },
     {
-      "id": "cluster_9",
+      "id": "cluster_27",
       "coverage": 1,
       "updated_at": "Tue, 21 Apr 2026 21:57:54 +0000",
       "title": "Pentagon wants $54B for drones, more than most nations’ military budgets",
@@ -467,10 +456,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/US-military-drone-1152x648.jpeg",
-      "popularity_score": 351.47364833333336
+      "popularity_score": 345.6487652777778
     },
     {
-      "id": "cluster_12",
+      "id": "cluster_29",
       "coverage": 1,
       "updated_at": "Tue, 21 Apr 2026 21:28:27 +0000",
       "title": "Supreme Court arguments make it clear that FCC fines are \"nonbinding\"",
@@ -491,10 +480,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/getty-att-logo-1152x648.jpg",
-      "popularity_score": 330.982815
+      "popularity_score": 325.15793194444444
     },
     {
-      "id": "cluster_18",
+      "id": "cluster_33",
       "coverage": 1,
       "updated_at": "Tue, 21 Apr 2026 20:53:06 +0000",
       "title": "Silo S3 teaser hints at the wasteland's origins",
@@ -515,10 +504,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/silo-1152x648.jpg",
-      "popularity_score": 317.3936483333333
+      "popularity_score": 311.5687652777778
     },
     {
-      "id": "cluster_27",
+      "id": "cluster_38",
       "coverage": 1,
       "updated_at": "Tue, 21 Apr 2026 20:01:36 +0000",
       "title": "Florida probes ChatGPT role in mass shooting. OpenAI says bot \"not responsible.\"",
@@ -539,34 +528,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2244053447-1024x648.jpg",
-      "popularity_score": 314.535315
+      "popularity_score": 308.71043194444445
     },
     {
-      "id": "cluster_23",
-      "coverage": 1,
-      "updated_at": "Tue, 21 Apr 2026 20:22:20 +0000",
-      "title": "Framework's CEO on the RAM crisis and creating a \"MacBook Pro for Linux users\"",
-      "neutral_headline": "Framework's CEO on the RAM crisis and creating a \"MacBook Pro for Linux users\"",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/04/frameworks-ceo-on-the-ram-crisis-and-creating-a-macbook-pro-for-linux-users/",
-          "published_at": "Tue, 21 Apr 2026 20:22:20 +0000",
-          "title": "Framework's CEO on the RAM crisis and creating a \"MacBook Pro for Linux users\"",
-          "standfirst": "\"We actually have slightly more Linux users than Windows users.\"",
-          "content": "We’ve seen enough product announcements from Framework at this point that today’s updates feel more or less routine. The biggest new thing is an updated motherboard with Intel’s Core Ultra Series 3 processors that can either be dropped into the existing Framework Laptop 13 or bought as part of the new Framework Laptop 13 Pro. Updated screens, keyboards, and other parts—mostly compatible with Framework’s existing laptops, mostly meant to address specific complaints about, or missing features in, those products—are also available. But the company has also decided to place more emphasis than usual on its support for Linux. The company’s teaser site for today's announcements encouraged users to “follow the white penguin,” a Linux-y reference to The Matrix (1999) (or maybe a Matrix-y reference to Linux’s mascot). Framework has always officially supported various Linux flavors on its systems, but the Laptop 13 Pro will be the first pre-built Laptop that can ship with Linux installed from the factory, and the system features Framework’s first officially Ubuntu Certified system. Framework CEO Nirav Patel is even trying to position the Laptop 13 Pro as “MacBook Pro for Linux users.”Read full article Comments",
-          "feed_position": 4,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/FW13-ProductFamily-4-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/FW13-ProductFamily-4-1152x648.jpg",
-      "popularity_score": 309.88087055555553
-    },
-    {
-      "id": "cluster_32",
+      "id": "cluster_41",
       "coverage": 1,
       "updated_at": "Tue, 21 Apr 2026 19:30:52 +0000",
       "title": "Report: Meta will train AI agents by tracking employees' mouse, keyboard use",
@@ -587,10 +552,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1788348389-1152x648.jpg",
-      "popularity_score": 304.0230927777778
+      "popularity_score": 298.1982097222222
     },
     {
-      "id": "cluster_48",
+      "id": "cluster_58",
       "coverage": 1,
       "updated_at": "Tue, 21 Apr 2026 18:18:27 +0000",
       "title": "Microsoft removes Call of Duty from Game Pass, lowers subscription pricing",
@@ -611,10 +576,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/codxbox-1152x648.jpg",
-      "popularity_score": 289.81614833333333
+      "popularity_score": 283.99126527777776
     },
     {
-      "id": "cluster_50",
+      "id": "cluster_59",
       "coverage": 1,
       "updated_at": "Tue, 21 Apr 2026 18:15:15 +0000",
       "title": "Framework Laptop 13 Pro is a major overhaul for the modular, upgradeable laptop",
@@ -635,10 +600,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/FW13-Pro-Teardown-1152x648.jpg",
-      "popularity_score": 267.762815
+      "popularity_score": 261.9379319444445
     },
     {
-      "id": "cluster_51",
+      "id": "cluster_60",
       "coverage": 1,
       "updated_at": "Tue, 21 Apr 2026 18:15:03 +0000",
       "title": "Framework Laptop 16 upgrades make it look less like an unfinished prototype",
@@ -659,10 +624,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/eGPU_Install_02-1152x648.jpg",
-      "popularity_score": 257.75948166666666
+      "popularity_score": 251.9345986111111
     },
     {
-      "id": "cluster_54",
+      "id": "cluster_63",
       "coverage": 1,
       "updated_at": "Tue, 21 Apr 2026 18:06:06 +0000",
       "title": "Internal emails show how Amazon raises prices across the Internet, lawsuit says",
@@ -683,10 +648,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2205524235-1152x648.jpg",
-      "popularity_score": 162.610315
+      "popularity_score": 156.78543194444444
     },
     {
-      "id": "cluster_81",
+      "id": "cluster_91",
       "coverage": 1,
       "updated_at": "Tue, 21 Apr 2026 14:45:36 +0000",
       "title": "AMD Ryzen 9 9950X3D2 Dual Edition review: Tons of cache for tons of dollars",
@@ -707,10 +672,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/IMG_7697-1152x648.jpeg",
-      "popularity_score": 155.26864833333335
+      "popularity_score": 149.44376527777777
     },
     {
-      "id": "cluster_82",
+      "id": "cluster_92",
       "coverage": 1,
       "updated_at": "Tue, 21 Apr 2026 14:24:09 +0000",
       "title": "What's the deal with spacesuits for the Moon? Will they be ready in time?",
@@ -731,106 +696,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/AxEVA_Brooks_TVACTesting_20251110_6698_AxEdit-1152x648.jpg",
-      "popularity_score": 151.91114833333333
+      "popularity_score": 146.08626527777778
     },
     {
-      "id": "cluster_100",
-      "coverage": 1,
-      "updated_at": "Tue, 21 Apr 2026 11:00:16 +0000",
-      "title": "Global growth in solar \"the largest ever observed for any source\"",
-      "neutral_headline": "Global growth in solar \"the largest ever observed for any source\"",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/04/global-growth-in-solar-the-largest-ever-observed-for-any-source/",
-          "published_at": "Tue, 21 Apr 2026 11:00:16 +0000",
-          "title": "Global growth in solar \"the largest ever observed for any source\"",
-          "standfirst": "The International Energy Agency says we've entered the Age of Electricity.",
-          "content": "On Monday, the International Energy Agency released its analysis of the energy trends of 2025, covering the entire globe. It confirms and extends the primary conclusion of a more limited analysis by the International Renewable Energy Agency: 2025 was the first year of solar's dominance. Increased solar production was a key reason the growth of carbon-free energy sources outpaced rising demand. Coupled with a massive growth in battery storage and relatively stagnant fossil fuel use, the year has led the IEA to declare that \"the world has entered the Age of Electricity.\" Electrons for everyone The IEA report covers energy use, including the electrical grid, transportation, home heating, and other forms of consumption. As such, it can track how some of those uses are shifting, as electric vehicles displace some gasoline use and heat pumps replace gas and oil heating. It also saw a more global trend: The demand for electricity grew at twice the rate of overall energy demand. All of these went into the conclusion that we're starting the Age of Electricity.Read full article Comments",
-          "feed_position": 17,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1322960375-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1322960375-1152x648.jpg",
-      "popularity_score": 146.51309277777779
-    },
-    {
-      "id": "cluster_65",
-      "coverage": 1,
-      "updated_at": "Tue, 21 Apr 2026 17:00:04 +0000",
-      "title": "Anthropic gets $5B investment from Amazon, will use it to buy Amazon chips",
-      "neutral_headline": "Anthropic gets $5B investment from Amazon, will use it to buy Amazon chips",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/04/anthropic-gets-5b-investment-from-amazon-will-use-it-to-buy-amazon-chips/",
-          "published_at": "Tue, 21 Apr 2026 17:00:04 +0000",
-          "title": "Anthropic gets $5B investment from Amazon, will use it to buy Amazon chips",
-          "standfirst": "Anthropic secures 5 gigawatts of Amazon’s custom silicon as Claude demand soars.",
-          "content": "Amazon has significantly boosted its multibillion-dollar bet on Claude developer Anthropic by investing an additional $5 billion—enabling Anthropic to eventually secure up to 5 gigawatts' worth of AI chips from Amazon to help train and run its popular Claude AI models. Amazon is already one of Anthropic’s largest investors, having previously invested $8 billion in the AI startup. The latest move brings Amazon’s immediate investment up to $13 billion, and the companies have agreed to the possibility of Amazon committing another $20 billion in the future if the partnership achieves certain commercial milestones, according to Wall Street Journal reporting. The large cash infusion and prospect of obtaining more computing resources come at a crucial time for Anthropic, given the massive surge in paid subscriptions for Claude-related services early this year. That demand spike and strain on the existing cloud compute infrastructure supporting Claude have contributed to performance issues and even occasional outages for thousands of Claude users.Read full article Comments",
-          "feed_position": 11,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Amazon-AWS-trainium-3-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Amazon-AWS-trainium-3-1152x648.jpg",
-      "popularity_score": 146.50975944444446
-    },
-    {
-      "id": "cluster_80",
-      "coverage": 1,
-      "updated_at": "Tue, 21 Apr 2026 15:01:43 +0000",
-      "title": "CATL's new LFP battery can charge from 10 to 98% in less than 7 minutes",
-      "neutral_headline": "CATL's new LFP battery can charge from 10 to 98% in less than 7 minutes",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/04/catls-new-lfp-battery-can-charge-from-10-to-98-in-less-than-7-minutes/",
-          "published_at": "Tue, 21 Apr 2026 15:01:43 +0000",
-          "title": "CATL's new LFP battery can charge from 10 to 98% in less than 7 minutes",
-          "standfirst": "The self-heating Shenxing battery still performs even in Arctic temperatures.",
-          "content": "As prophesied by more than a few analysts along the years, China's full-hearted embrace of electric vehicles has paid dividends. Starting with also-rans that required joint ventures with Western automakers, Chinese OEMs now make world-leading EVs crammed full of smartphone-like features that we're told are the best thing since sliced bread. I remain skeptical about that for now, but I don't need to be convinced about the advanced state of Chinese EV powertrain technology. For instance, earlier today, the battery giant CATL unveiled an impressive new lithium-iron phosphate battery at a tech event in China. The third-generation Shenxing battery is CATL's answer to BYD's recently announced Blade Battery 2.0, and like BYD, CATL has focused on improving a couple of big pain points. One is charging speed. Humans have long been conditioned to expect pumping an energy-dense liquid fuel into a vehicle to be quick. Batteries, meanwhile, can have non-linear charge curves depending on cell chemistry, and they behave differently at different temperatures and starting states of charge. OEMs like Hyundai and Porsche have 800 V nickel manganese cobalt battery packs that can charge from 10 to 80 percent in as little as 18 minutes. But according to a report in CarNewsChina, CATL's Shenxing 3.0 is nearly five times faster.Read full article Comments",
-          "feed_position": 12,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2255429919-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2255429919-1152x648.jpg",
-      "popularity_score": 144.53725944444443
-    },
-    {
-      "id": "cluster_96",
-      "coverage": 1,
-      "updated_at": "Tue, 21 Apr 2026 12:35:20 +0000",
-      "title": "Contrary to popular superstition, AES 128 is just fine in a post-quantum world",
-      "neutral_headline": "Contrary to popular superstition, AES 128 is just fine in a post-quantum world",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/04/contrary-to-popular-superstition-aes-128-is-just-fine-in-a-post-quantum-world/",
-          "published_at": "Tue, 21 Apr 2026 12:35:20 +0000",
-          "title": "Contrary to popular superstition, AES 128 is just fine in a post-quantum world",
-          "standfirst": "A stubborn misconception is hampering the already hard work of quantum readiness.",
-          "content": "With growing focus on the existential threat quantum computing poses to some of the most crucial and widely used forms of encryption, cryptography engineer Filippo Valsorda wants to make one thing absolutely clear: Contrary to popular mythology that refuses to die, AES 128 is perfectly fine in a post-quantum world. AES 128 is the most widely used variety of the Advanced Encryption Standard, a block cipher suite formally adopted by NIST in 2001. While the specification allows 192- and 256-bit key sizes, AES 128 was widely considered to be the preferred one because it meets the sweet spot between computational resources required to use it and the security it offers. With no known vulnerabilities in its 30-year history, a brute-force attack is the only known way to break it. With 2128 or 3.4 x 1038 possible key combinations, such an attack would take about 9 billion years using the entire bitcoin mining resources as of 2026. It boils down to parallelization Over the past decade, something interesting happened to all that public confidence. Amateur cryptographers and mathematicians twisted a series of equations known as Grover’s algorithm to declare the death of AES 128 once a cryptographically relevant quantum computer (CRQC) came into being. They said a CRQC would halve the effective strength to just 264, a small enough supply that—if true—would allow the same bitcoin mining resources to brute force it in less than a second (the comparison is purely for illustration purposes; a CRQC almost certainly couldn’t run like clusters of bitcoin ASICs and more importantly couldn’t parallelize the workload as the amateurs assume).Read full article Comments",
-          "feed_position": 16,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/quantum-encryption-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/quantum-encryption-1152x648.jpg",
-      "popularity_score": 142.09753722222223
-    },
-    {
-      "id": "cluster_117",
+      "id": "cluster_122",
       "coverage": 1,
       "updated_at": "Tue, 21 Apr 2026 02:27:52 +0000",
       "title": "Pentagon pulls the plug on one of the military's most troubled space programs",
@@ -852,6 +721,102 @@
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GPS_schriever-1152x648.jpg",
       "popularity_score": 141
+    },
+    {
+      "id": "cluster_107",
+      "coverage": 1,
+      "updated_at": "Tue, 21 Apr 2026 11:00:16 +0000",
+      "title": "Global growth in solar \"the largest ever observed for any source\"",
+      "neutral_headline": "Global growth in solar \"the largest ever observed for any source\"",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/04/global-growth-in-solar-the-largest-ever-observed-for-any-source/",
+          "published_at": "Tue, 21 Apr 2026 11:00:16 +0000",
+          "title": "Global growth in solar \"the largest ever observed for any source\"",
+          "standfirst": "The International Energy Agency says we've entered the Age of Electricity.",
+          "content": "On Monday, the International Energy Agency released its analysis of the energy trends of 2025, covering the entire globe. It confirms and extends the primary conclusion of a more limited analysis by the International Renewable Energy Agency: 2025 was the first year of solar's dominance. Increased solar production was a key reason the growth of carbon-free energy sources outpaced rising demand. Coupled with a massive growth in battery storage and relatively stagnant fossil fuel use, the year has led the IEA to declare that \"the world has entered the Age of Electricity.\" Electrons for everyone The IEA report covers energy use, including the electrical grid, transportation, home heating, and other forms of consumption. As such, it can track how some of those uses are shifting, as electric vehicles displace some gasoline use and heat pumps replace gas and oil heating. It also saw a more global trend: The demand for electricity grew at twice the rate of overall energy demand. All of these went into the conclusion that we're starting the Age of Electricity.Read full article Comments",
+          "feed_position": 17,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1322960375-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1322960375-1152x648.jpg",
+      "popularity_score": 140.6882097222222
+    },
+    {
+      "id": "cluster_74",
+      "coverage": 1,
+      "updated_at": "Tue, 21 Apr 2026 17:00:04 +0000",
+      "title": "Anthropic gets $5B investment from Amazon, will use it to buy Amazon chips",
+      "neutral_headline": "Anthropic gets $5B investment from Amazon, will use it to buy Amazon chips",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/04/anthropic-gets-5b-investment-from-amazon-will-use-it-to-buy-amazon-chips/",
+          "published_at": "Tue, 21 Apr 2026 17:00:04 +0000",
+          "title": "Anthropic gets $5B investment from Amazon, will use it to buy Amazon chips",
+          "standfirst": "Anthropic secures 5 gigawatts of Amazon’s custom silicon as Claude demand soars.",
+          "content": "Amazon has significantly boosted its multibillion-dollar bet on Claude developer Anthropic by investing an additional $5 billion—enabling Anthropic to eventually secure up to 5 gigawatts' worth of AI chips from Amazon to help train and run its popular Claude AI models. Amazon is already one of Anthropic’s largest investors, having previously invested $8 billion in the AI startup. The latest move brings Amazon’s immediate investment up to $13 billion, and the companies have agreed to the possibility of Amazon committing another $20 billion in the future if the partnership achieves certain commercial milestones, according to Wall Street Journal reporting. The large cash infusion and prospect of obtaining more computing resources come at a crucial time for Anthropic, given the massive surge in paid subscriptions for Claude-related services early this year. That demand spike and strain on the existing cloud compute infrastructure supporting Claude have contributed to performance issues and even occasional outages for thousands of Claude users.Read full article Comments",
+          "feed_position": 11,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Amazon-AWS-trainium-3-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Amazon-AWS-trainium-3-1152x648.jpg",
+      "popularity_score": 140.68487638888888
+    },
+    {
+      "id": "cluster_90",
+      "coverage": 1,
+      "updated_at": "Tue, 21 Apr 2026 15:01:43 +0000",
+      "title": "CATL's new LFP battery can charge from 10 to 98% in less than 7 minutes",
+      "neutral_headline": "CATL's new LFP battery can charge from 10 to 98% in less than 7 minutes",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/cars/2026/04/catls-new-lfp-battery-can-charge-from-10-to-98-in-less-than-7-minutes/",
+          "published_at": "Tue, 21 Apr 2026 15:01:43 +0000",
+          "title": "CATL's new LFP battery can charge from 10 to 98% in less than 7 minutes",
+          "standfirst": "The self-heating Shenxing battery still performs even in Arctic temperatures.",
+          "content": "As prophesied by more than a few analysts along the years, China's full-hearted embrace of electric vehicles has paid dividends. Starting with also-rans that required joint ventures with Western automakers, Chinese OEMs now make world-leading EVs crammed full of smartphone-like features that we're told are the best thing since sliced bread. I remain skeptical about that for now, but I don't need to be convinced about the advanced state of Chinese EV powertrain technology. For instance, earlier today, the battery giant CATL unveiled an impressive new lithium-iron phosphate battery at a tech event in China. The third-generation Shenxing battery is CATL's answer to BYD's recently announced Blade Battery 2.0, and like BYD, CATL has focused on improving a couple of big pain points. One is charging speed. Humans have long been conditioned to expect pumping an energy-dense liquid fuel into a vehicle to be quick. Batteries, meanwhile, can have non-linear charge curves depending on cell chemistry, and they behave differently at different temperatures and starting states of charge. OEMs like Hyundai and Porsche have 800 V nickel manganese cobalt battery packs that can charge from 10 to 80 percent in as little as 18 minutes. But according to a report in CarNewsChina, CATL's Shenxing 3.0 is nearly five times faster.Read full article Comments",
+          "feed_position": 12,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2255429919-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2255429919-1152x648.jpg",
+      "popularity_score": 138.71237638888888
+    },
+    {
+      "id": "cluster_103",
+      "coverage": 1,
+      "updated_at": "Tue, 21 Apr 2026 12:35:20 +0000",
+      "title": "Contrary to popular superstition, AES 128 is just fine in a post-quantum world",
+      "neutral_headline": "Contrary to popular superstition, AES 128 is just fine in a post-quantum world",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/04/contrary-to-popular-superstition-aes-128-is-just-fine-in-a-post-quantum-world/",
+          "published_at": "Tue, 21 Apr 2026 12:35:20 +0000",
+          "title": "Contrary to popular superstition, AES 128 is just fine in a post-quantum world",
+          "standfirst": "A stubborn misconception is hampering the already hard work of quantum readiness.",
+          "content": "With growing focus on the existential threat quantum computing poses to some of the most crucial and widely used forms of encryption, cryptography engineer Filippo Valsorda wants to make one thing absolutely clear: Contrary to popular mythology that refuses to die, AES 128 is perfectly fine in a post-quantum world. AES 128 is the most widely used variety of the Advanced Encryption Standard, a block cipher suite formally adopted by NIST in 2001. While the specification allows 192- and 256-bit key sizes, AES 128 was widely considered to be the preferred one because it meets the sweet spot between computational resources required to use it and the security it offers. With no known vulnerabilities in its 30-year history, a brute-force attack is the only known way to break it. With 2128 or 3.4 x 1038 possible key combinations, such an attack would take about 9 billion years using the entire bitcoin mining resources as of 2026. It boils down to parallelization Over the past decade, something interesting happened to all that public confidence. Amateur cryptographers and mathematicians twisted a series of equations known as Grover’s algorithm to declare the death of AES 128 once a cryptographically relevant quantum computer (CRQC) came into being. They said a CRQC would halve the effective strength to just 264, a small enough supply that—if true—would allow the same bitcoin mining resources to brute force it in less than a second (the comparison is purely for illustration purposes; a CRQC almost certainly couldn’t run like clusters of bitcoin ASICs and more importantly couldn’t parallelize the workload as the amateurs assume).Read full article Comments",
+          "feed_position": 16,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/quantum-encryption-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/quantum-encryption-1152x648.jpg",
+      "popularity_score": 136.27265416666665
     }
   ]
 }
