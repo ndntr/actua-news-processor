@@ -1,17 +1,17 @@
 {
   "clinical": {
-    "updated_at": "2026-04-22T08:26:19.772Z",
+    "updated_at": "2026-04-22T11:54:46.399Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-04-22T08:26:19.772Z",
+    "updated_at": "2026-04-22T11:54:46.399Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-04-22T08:26:22.759Z",
+    "updated_at": "2026-04-22T11:54:53.941Z",
     "clusters": [
       {
-        "id": "cluster_9",
+        "id": "cluster_13",
         "coverage": 2,
         "updated_at": "Tue, 21 Apr 2026 18:38:36 GMT",
         "title": "Bill banning people born after 2008 from buying tobacco clears UK parliament",
@@ -27,7 +27,7 @@
             "title": "Bill banning people born after 2008 from buying tobacco clears UK parliament",
             "standfirst": "Ministers hope tobacco and vapes bill, which will become law next week, will create a ‘smoke-free generation’A bill banning anyone born after 2008 from buying tobacco in the UK has completed its progress through parliament in a move that ministers hope will create a “smoke-free generation”.Under the tobacco and vapes bill anyone born on or after 1 January 2009 will never be able to be legally sold tobacco across the UK, in an effort to save lives and reduce the burden on the NHS. Continue reading...",
             "content": "Ministers hope tobacco and vapes bill, which will become law next week, will create a ‘smoke-free generation’A bill banning anyone born after 2008 from buying tobacco in the UK has completed its progress through parliament in a move that ministers hope will create a “smoke-free generation”.Under the tobacco and vapes bill anyone born on or after 1 January 2009 will never be able to be legally sold tobacco across the UK, in an effort to save lives and reduce the burden on the NHS. Continue reading...",
-            "feed_position": 1
+            "feed_position": 3
           },
           {
             "source": "BBC Health",
@@ -36,7 +36,7 @@
             "title": "Smoking ban for people born after 2008 in the UK agreed",
             "standfirst": "The \"landmark\" legislation aims to stop anyone born after 1 January 2009 from taking up smoking to create a smoke-free generation.",
             "content": "The \"landmark\" legislation aims to stop anyone born after 1 January 2009 from taking up smoking to create a smoke-free generation.",
-            "feed_position": 0,
+            "feed_position": 2,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9e8/live/fa4b0cd0-3d70-11f1-b55d-0f258dce1735.jpg"
           }
         ],
@@ -44,6 +44,95 @@
       },
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Wed, 22 Apr 2026 11:03:26 GMT",
+        "title": "How contagious is measles and what are the symptoms?",
+        "neutral_headline": "How contagious is measles and what are the symptoms",
+        "bullet_summary": [
+          "But as of April 2026, Utah officials have reported a total of 602 measles cases in the state",
+          "Reported by Guardian Health"
+        ],
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/wellness/2025/may/02/measles-symptoms-vaccine-outbreak",
+            "published_at": "Wed, 22 Apr 2026 11:03:26 GMT",
+            "title": "How contagious is measles and what are the symptoms?",
+            "standfirst": "The Utah outbreak is just the latest in a series across the US. Experts explain what you need to know about the virusDon’t let a billionaire’s algorithm control what you read. Download our free app to get trusted reportingTwenty-six years ago, the US eliminated the measles virus. Measles is extremely contagious, and sporadic cases and outbreaks are expected.But as of April 2026, Utah officials have reported a total of 602 measles cases in the state. Of those infected, 85% were not vaccinated against the virus. Continue reading...",
+            "content": "The Utah outbreak is just the latest in a series across the US. Experts explain what you need to know about the virusDon’t let a billionaire’s algorithm control what you read. Download our free app to get trusted reportingTwenty-six years ago, the US eliminated the measles virus. Measles is extremely contagious, and sporadic cases and outbreaks are expected.But as of April 2026, Utah officials have reported a total of 602 measles cases in the state. Of those infected, 85% were not vaccinated against the virus. Continue reading...",
+            "feed_position": 0
+          }
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Wed, 22 Apr 2026 10:41:51 GMT",
+        "title": "Hay fever misery does last longer - here is how to cope",
+        "neutral_headline": "Hay fever misery does last longer - here is how to cope",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/cqj8kk0z0l5o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Wed, 22 Apr 2026 10:41:51 GMT",
+            "title": "Hay fever misery does last longer - here is how to cope",
+            "standfirst": "Symptoms are lasting for up to two weeks longer than in the 1990s, according to a major report - so what can you do about the pollen bomb?",
+            "content": "Symptoms are lasting for up to two weeks longer than in the 1990s, according to a major report - so what can you do about the pollen bomb?",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a38b/live/8d648210-3e31-11f1-9a72-9fbb6d1baa1e.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a38b/live/8d648210-3e31-11f1-9a72-9fbb6d1baa1e.jpg"
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Wed, 22 Apr 2026 10:00:24 GMT",
+        "title": "Nearly half of US children are breathing dangerous levels of air pollution, report warns",
+        "neutral_headline": "Nearly half of US children are breathing dangerous levels...",
+        "bullet_summary": [
+          "Reported by Guardian Health"
+        ],
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/us-news/2026/apr/22/air-pollution-report-dangerous-levels-children",
+            "published_at": "Wed, 22 Apr 2026 10:00:24 GMT",
+            "title": "Nearly half of US children are breathing dangerous levels of air pollution, report warns",
+            "standfirst": "American Lung Association report comes amid Trump EPA’s expansive rollback of environmental protections Nearly half of children in the United States are breathing dangerous levels of air pollution, according to a new report, as experts warned Donald Trump’s expansive rollback of protections will make the situation worse.The 27th annual air quality report from the American Lung Association (ALA) released on Wednesday evaluates pollution across the country by grading levels of ground-level ozone – also known as smog – as well as year-round and short-term spikes in particle pollution, commonly referred to as soot. The report analyzed quality-assured data collected between 2022 and 2024. Continue reading...",
+            "content": "American Lung Association report comes amid Trump EPA’s expansive rollback of environmental protections Nearly half of children in the United States are breathing dangerous levels of air pollution, according to a new report, as experts warned Donald Trump’s expansive rollback of protections will make the situation worse.The 27th annual air quality report from the American Lung Association (ALA) released on Wednesday evaluates pollution across the country by grading levels of ground-level ozone – also known as smog – as well as year-round and short-term spikes in particle pollution, commonly referred to as soot. The report analyzed quality-assured data collected between 2022 and 2024. Continue reading...",
+            "feed_position": 1
+          }
+        ]
+      },
+      {
+        "id": "cluster_3",
+        "coverage": 1,
+        "updated_at": "Wed, 22 Apr 2026 09:28:29 GMT",
+        "title": "Is the calisthenics trend inclusive enough for women?",
+        "neutral_headline": "Is the calisthenics trend inclusive enough for women",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/videos/cq8wj7v049go?at_medium=RSS&at_campaign=rss",
+            "published_at": "Wed, 22 Apr 2026 09:28:29 GMT",
+            "title": "Is the calisthenics trend inclusive enough for women?",
+            "standfirst": "Sport England have recorded a 12% increase in women taking part in gym-based fitness",
+            "content": "Sport England have recorded a 12% increase in women taking part in gym-based fitness",
+            "feed_position": 61,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8af/live/3b9f4170-3e29-11f1-b55d-0f258dce1735.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8af/live/3b9f4170-3e29-11f1-b55d-0f258dce1735.jpg"
+      },
+      {
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Wed, 22 Apr 2026 08:11:13 GMT",
         "title": "Fall prevention services in your area",
@@ -59,14 +148,14 @@
             "title": "Fall prevention services in your area",
             "standfirst": "Fall prevention services in your area",
             "content": "Fall prevention services in your area",
-            "feed_position": 61,
+            "feed_position": 62,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5557/live/66be3e30-3e22-11f1-b55d-0f258dce1735.png"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5557/live/66be3e30-3e22-11f1-b55d-0f258dce1735.png"
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Wed, 22 Apr 2026 05:15:26 GMT",
         "title": "Charity offers to boost river conservation funds",
@@ -89,7 +178,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a789/live/958bad20-3d90-11f1-92be-b5fcda70efcc.png"
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Wed, 22 Apr 2026 05:14:25 GMT",
         "title": "Project to protect 'lost' spider gets funding boost",
@@ -112,7 +201,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c105/live/172ce3e0-3d72-11f1-903b-f1312705e0c9.jpg"
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Wed, 22 Apr 2026 05:11:12 GMT",
         "title": "Woman who unlocked the secrets of the stars honoured",
@@ -135,7 +224,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f619/live/169b0350-3da2-11f1-b377-d7765ac78768.jpg"
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Wed, 22 Apr 2026 05:06:09 GMT",
         "title": "The mission to get 100 women to walk on the Moon - without leaving Earth",
@@ -158,7 +247,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9655/live/17f585a0-3e23-11f1-ac78-2112837ce2aa.jpg"
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Wed, 22 Apr 2026 04:00:08 GMT",
         "title": "Pollen season in UK and mainland Europe extended by climate breakdown",
@@ -174,12 +263,12 @@
             "title": "Pollen season in UK and mainland Europe extended by climate breakdown",
             "standfirst": "Research finds global heating has already lengthened the pollen season in addition to worsening heatwaves and droughtsClimate breakdown has extended the pollen season in the UK and mainland Europe by between one and two weeks since the 1990s, a study has found, adding itchy eyes and runny noses to the harm wrought by fossil fuel pollution.The finding may be less dramatic than the floods and wildfires typically associated with a warming planet but represents a “huge” increase in the combined suffering of tens of millions of people, the researchers say. Continue reading...",
             "content": "Research finds global heating has already lengthened the pollen season in addition to worsening heatwaves and droughtsClimate breakdown has extended the pollen season in the UK and mainland Europe by between one and two weeks since the 1990s, a study has found, adding itchy eyes and runny noses to the harm wrought by fossil fuel pollution.The finding may be less dramatic than the floods and wildfires typically associated with a warming planet but represents a “huge” increase in the combined suffering of tens of millions of people, the researchers say. Continue reading...",
-            "feed_position": 0
+            "feed_position": 2
           }
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Tue, 21 Apr 2026 23:00:08 GMT",
         "title": "Bird flu vaccine trial against potential pandemic strain begins",
@@ -195,14 +284,14 @@
             "title": "Bird flu vaccine trial against potential pandemic strain begins",
             "standfirst": "The jab targets the H5N1 flu strain which has caused devastating infections in bird populations worldwide, but has yet to spread between humans.",
             "content": "The jab targets the H5N1 flu strain which has caused devastating infections in bird populations worldwide, but has yet to spread between humans.",
-            "feed_position": 47,
+            "feed_position": 1,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e51/live/21b43310-3da2-11f1-b377-d7765ac78768.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e51/live/21b43310-3da2-11f1-b377-d7765ac78768.jpg"
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Tue, 21 Apr 2026 21:46:48 GMT",
         "title": "One of UK's rarest flies returns to Cairngorms thanks to jam jars",
@@ -225,7 +314,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f6a/live/90452980-3d91-11f1-92be-b5fcda70efcc.jpg"
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Tue, 21 Apr 2026 19:07:29 GMT",
         "title": "Council 'will listen' to weedkiller objections",
@@ -248,7 +337,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7683/live/4b0e2fd0-3db2-11f1-9c18-89f6fb4b00a8.jpg"
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Tue, 21 Apr 2026 17:08:04 GMT",
         "title": "Areas getting 'beaver ready' for possible release",
@@ -271,7 +360,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61ea/live/32b6e7c0-3da2-11f1-b377-d7765ac78768.jpg"
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Tue, 21 Apr 2026 15:00:52 GMT",
         "title": "Ketamine, psychedelics, GHB: is the US falling out of love with cocaine?",
@@ -287,12 +376,12 @@
             "title": "Ketamine, psychedelics, GHB: is the US falling out of love with cocaine?",
             "standfirst": "Use of the illicit drug has plummeted in recent years among gen Zers, compared with their parents’ generationEver since cocaine first emerged as a popular party drug via the shores of Miami in the early 1970s, use of the stimulant has been inextricably entwined with the very essence of capitalist excess and what it is to be American: brash, bombastic and brazen.The wide-scale use of cocaine in the US has left a trail of destruction in its wake, largely thanks to the illegal nature of the trade and the resultant US government policy of a “war on drugs”. Continue reading...",
             "content": "Use of the illicit drug has plummeted in recent years among gen Zers, compared with their parents’ generationEver since cocaine first emerged as a popular party drug via the shores of Miami in the early 1970s, use of the stimulant has been inextricably entwined with the very essence of capitalist excess and what it is to be American: brash, bombastic and brazen.The wide-scale use of cocaine in the US has left a trail of destruction in its wake, largely thanks to the illegal nature of the trade and the resultant US government policy of a “war on drugs”. Continue reading...",
-            "feed_position": 2
+            "feed_position": 4
           }
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Tue, 21 Apr 2026 14:54:58 GMT",
         "title": "US military service members will no longer be required to get annual flu shot",
@@ -308,12 +397,12 @@
             "title": "US military service members will no longer be required to get annual flu shot",
             "standfirst": "Defense secretary Pete Hegseth makes announcement and calls military’s flu vaccine mandate ‘broad’ and ‘not rational’Members of the US armed services will no longer be required to have an annual flu vaccination shot under a new policy announced Tuesday by Pete Hegseth, the US defense secretary.In a video statement posted to social media, Hegseth described the mandate as “overly broad” and “not rational” and the decision to drop the vaccine requirement as “seizing this moment to discard any absurd overreaching mandates that only weaken our war fighting capabilities”. Continue reading...",
             "content": "Defense secretary Pete Hegseth makes announcement and calls military’s flu vaccine mandate ‘broad’ and ‘not rational’Members of the US armed services will no longer be required to have an annual flu vaccination shot under a new policy announced Tuesday by Pete Hegseth, the US defense secretary.In a video statement posted to social media, Hegseth described the mandate as “overly broad” and “not rational” and the decision to drop the vaccine requirement as “seizing this moment to discard any absurd overreaching mandates that only weaken our war fighting capabilities”. Continue reading...",
-            "feed_position": 3
+            "feed_position": 5
           }
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Tue, 21 Apr 2026 13:14:32 GMT",
         "title": "Rogue sperm donor who says he's fathered 180 children won't be on child's birth certificate",
@@ -329,14 +418,14 @@
             "title": "Rogue sperm donor who says he's fathered 180 children won't be on child's birth certificate",
             "standfirst": "The child's mother and her partner say they never wanted Robert Albon to play any part in the child's life.",
             "content": "The child's mother and her partner say they never wanted Robert Albon to play any part in the child's life.",
-            "feed_position": 1,
+            "feed_position": 3,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f226/live/4eeacf20-00e8-11f1-86f0-a753a1cb9eea.png"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f226/live/4eeacf20-00e8-11f1-86f0-a753a1cb9eea.png"
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Tue, 21 Apr 2026 13:00:50 GMT",
         "title": "What really controls our appetite – hunger, stress or habit?",
@@ -352,12 +441,12 @@
             "title": "What really controls our appetite – hunger, stress or habit?",
             "standfirst": "Knowing the difference between hunger and appetite, and understanding the sensory cues behind them, can help us make better decisions about what we eatImagine you’re in a meeting room when someone brings out the biscuits – a packet of Jammie Dodgers, perhaps, or a nice little plate of custard creams. Maybe you want one and maybe you don’t, but the chances are the people around you are all responding differently: someone will grab a couple straight away, someone else will eat one without seeming to notice, another will barely be aware the biscuits exist, and someone will spend the whole meeting wanting one but not taking it. Our appetites and responses to food vary wildly – but what’s going on behind the scenes to govern them? And has modern food somehow hijacked the process? Grab a biscuit (or don’t) and settle in.“First, it’s important to distinguish between hunger and appetite,” says Giles Yeo, a professor of molecular neuroendocrinology at the University of Cambridge and the author of Why Calories Don’t Count. “Hunger is a feeling – it’s what happens in the run-up to you deciding you need to eat something. Appetite is everything that surrounds why we eat – including hunger, fullness and reward, or how you actually feel when you eat. Those three sensations all use completely different parts of the brain, but they all work together.” Continue reading...",
             "content": "Knowing the difference between hunger and appetite, and understanding the sensory cues behind them, can help us make better decisions about what we eatImagine you’re in a meeting room when someone brings out the biscuits – a packet of Jammie Dodgers, perhaps, or a nice little plate of custard creams. Maybe you want one and maybe you don’t, but the chances are the people around you are all responding differently: someone will grab a couple straight away, someone else will eat one without seeming to notice, another will barely be aware the biscuits exist, and someone will spend the whole meeting wanting one but not taking it. Our appetites and responses to food vary wildly – but what’s going on behind the scenes to govern them? And has modern food somehow hijacked the process? Grab a biscuit (or don’t) and settle in.“First, it’s important to distinguish between hunger and appetite,” says Giles Yeo, a professor of molecular neuroendocrinology at the University of Cambridge and the author of Why Calories Don’t Count. “Hunger is a feeling – it’s what happens in the run-up to you deciding you need to eat something. Appetite is everything that surrounds why we eat – including hunger, fullness and reward, or how you actually feel when you eat. Those three sensations all use completely different parts of the brain, but they all work together.” Continue reading...",
-            "feed_position": 4
+            "feed_position": 6
           }
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Tue, 21 Apr 2026 12:55:10 GMT",
         "title": "How to spot the peak of the Lyrid meteor shower",
@@ -378,104 +467,11 @@
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f616/live/e2af5b80-3d7f-11f1-bfda-3be022b870c2.jpg"
-      },
-      {
-        "id": "cluster_16",
-        "coverage": 1,
-        "updated_at": "Tue, 21 Apr 2026 11:53:27 GMT",
-        "title": "Electricity bills targeted in planned shakeup to energy pricing",
-        "neutral_headline": "Electricity bills targeted in planned shakeup to energy pricing",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/c79jg43vd8no?at_medium=RSS&at_campaign=rss",
-            "published_at": "Tue, 21 Apr 2026 11:53:27 GMT",
-            "title": "Electricity bills targeted in planned shakeup to energy pricing",
-            "standfirst": "The war in the Middle East has brought renewed attention to Britain's vulnerability to energy price shocks.",
-            "content": "The war in the Middle East has brought renewed attention to Britain's vulnerability to energy price shocks.",
-            "feed_position": 0,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4498/live/b0c3db60-3d5b-11f1-8606-05fe34b06e1b.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4498/live/b0c3db60-3d5b-11f1-8606-05fe34b06e1b.jpg"
-      },
-      {
-        "id": "cluster_17",
-        "coverage": 1,
-        "updated_at": "Tue, 21 Apr 2026 05:18:38 GMT",
-        "title": "Maternity boss 'confident' as unit reopens",
-        "neutral_headline": "Maternity boss 'confident' as unit reopens",
-        "bullet_summary": [
-          "Reported by BBC Health"
-        ],
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/c74vd1y7q04o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Tue, 21 Apr 2026 05:18:38 GMT",
-            "title": "Maternity boss 'confident' as unit reopens",
-            "standfirst": "Staff say they have addressed concerns over staffing, equipment and learning from serious incidents.",
-            "content": "Staff say they have addressed concerns over staffing, equipment and learning from serious incidents.",
-            "feed_position": 37,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd5e/live/d0606820-3997-11f1-beab-29de4b5cb0de.png"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd5e/live/d0606820-3997-11f1-beab-29de4b5cb0de.png"
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Tue, 21 Apr 2026 05:17:51 GMT",
-        "title": "'Why is the NHS funding students if it can't give them jobs?' Anger over recruitment freeze",
-        "neutral_headline": "'Why is the NHS funding students if it can't give them...",
-        "bullet_summary": [
-          "Reported by BBC Health"
-        ],
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/c2488mn4r4po?at_medium=RSS&at_campaign=rss",
-            "published_at": "Tue, 21 Apr 2026 05:17:51 GMT",
-            "title": "'Why is the NHS funding students if it can't give them jobs?' Anger over recruitment freeze",
-            "standfirst": "Dozens of midwifery, physiotherapy and nursing students contact BBC over fears they won't get jobs.",
-            "content": "Dozens of midwifery, physiotherapy and nursing students contact BBC over fears they won't get jobs.",
-            "feed_position": 7,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2758/live/5c1cac50-3d5a-11f1-a7f7-c90fc0a93ea1.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2758/live/5c1cac50-3d5a-11f1-a7f7-c90fc0a93ea1.jpg"
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Mon, 20 Apr 2026 19:56:11 GMT",
-        "title": "Blue Origin rocket grounded after satellite 'mishap'",
-        "neutral_headline": "Blue Origin rocket grounded after satellite 'mishap'",
-        "bullet_summary": [
-          "The firm founded by Amazon billionaire Jeff Bezos is investigating the failed launch",
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/cjr9vwz48npo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Mon, 20 Apr 2026 19:56:11 GMT",
-            "title": "Blue Origin rocket grounded after satellite 'mishap'",
-            "standfirst": "The firm founded by Amazon billionaire Jeff Bezos is investigating the failed launch.",
-            "content": "The firm founded by Amazon billionaire Jeff Bezos is investigating the failed launch.",
-            "feed_position": 15,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8600/live/da78ea80-3ce9-11f1-861e-13bf35e4cbcb.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8600/live/da78ea80-3ce9-11f1-861e-13bf35e4cbcb.jpg"
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-04-22T08:26:22.759Z",
+    "updated_at": "2026-04-22T11:54:53.942Z",
     "clusters": []
   }
 }
