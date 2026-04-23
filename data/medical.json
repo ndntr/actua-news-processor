@@ -1,17 +1,40 @@
 {
   "clinical": {
-    "updated_at": "2026-04-23T20:02:03.742Z",
+    "updated_at": "2026-04-23T23:38:05.982Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-04-23T20:02:03.742Z",
+    "updated_at": "2026-04-23T23:38:05.982Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-04-23T20:02:10.491Z",
+    "updated_at": "2026-04-23T23:38:08.285Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Thu, 23 Apr 2026 20:00:00 GMT",
+        "title": "BBC Inside Science",
+        "neutral_headline": "BBC Inside Science",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/sounds/play/w3ct977h?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 23 Apr 2026 20:00:00 GMT",
+            "title": "BBC Inside Science",
+            "standfirst": "Creating and manufacturing a novel vaccine capable of combatting bird flu.",
+            "content": "Creating and manufacturing a novel vaccine capable of combatting bird flu.",
+            "feed_position": 28,
+            "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Thu, 23 Apr 2026 18:34:23 GMT",
         "title": "Baby died after NHS trust failed to warn mother of ‘unsafe’ home birth, coroner finds",
@@ -32,7 +55,7 @@
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Thu, 23 Apr 2026 18:04:39 GMT",
         "title": "Meet the 19-metre octopus that prowled the ancient seas",
@@ -55,7 +78,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dc5/live/3f63f340-3f29-11f1-844f-4784438e41b5.jpg"
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Thu, 23 Apr 2026 17:38:28 GMT",
         "title": "The surprising health benefit that could be in your pint",
@@ -88,7 +111,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0432/live/5f80e300-3f28-11f1-ac78-2112837ce2aa.jpg"
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Thu, 23 Apr 2026 17:11:59 GMT",
         "title": "Doing a Mandelson when you’re caught short | Letter",
@@ -109,7 +132,7 @@
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Thu, 23 Apr 2026 16:54:43 GMT",
         "title": "What is the UK Biobank project and what are the privacy concerns around it?",
@@ -128,29 +151,6 @@
             "feed_position": 3
           }
         ]
-      },
-      {
-        "id": "cluster_5",
-        "coverage": 1,
-        "updated_at": "Thu, 23 Apr 2026 16:00:00 GMT",
-        "title": "BBC Inside Science",
-        "neutral_headline": "BBC Inside Science",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/sounds/play/w3ct977h?at_medium=RSS&at_campaign=rss",
-            "published_at": "Thu, 23 Apr 2026 16:00:00 GMT",
-            "title": "BBC Inside Science",
-            "standfirst": "Creating and manufacturing a novel vaccine capable of combatting bird flu.",
-            "content": "Creating and manufacturing a novel vaccine capable of combatting bird flu.",
-            "feed_position": 28,
-            "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
       },
       {
         "id": "cluster_6",
@@ -477,7 +477,7 @@
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-04-23T20:02:10.491Z",
+    "updated_at": "2026-04-23T23:38:08.285Z",
     "clusters": []
   }
 }
