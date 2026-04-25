@@ -1,17 +1,40 @@
 {
   "clinical": {
-    "updated_at": "2026-04-25T19:39:16.479Z",
+    "updated_at": "2026-04-25T23:30:35.816Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-04-25T19:39:16.479Z",
+    "updated_at": "2026-04-25T23:30:35.816Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-04-25T19:39:22.566Z",
+    "updated_at": "2026-04-25T23:30:43.087Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Sat, 25 Apr 2026 23:01:46 GMT",
+        "title": "A 17th Century 'supercomputer' once owned by Indian royalty heads for auction",
+        "neutral_headline": "A 17th Century 'supercomputer' once owned by Indian royalty heads for auction",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/c8x7kw9lp8do?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sat, 25 Apr 2026 23:01:46 GMT",
+            "title": "A 17th Century 'supercomputer' once owned by Indian royalty heads for auction",
+            "standfirst": "The astrolabe - or astronomical computer - is possibly the largest in existence and has never been exhibited before.",
+            "content": "The astrolabe - or astronomical computer - is possibly the largest in existence and has never been exhibited before.",
+            "feed_position": 18,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4f9/live/f53b6250-3e0e-11f1-b55d-0f258dce1735.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4f9/live/f53b6250-3e0e-11f1-b55d-0f258dce1735.jpg"
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Sat, 25 Apr 2026 18:23:45 GMT",
         "title": "Watch: How one orangutan braved new bridge to unite his split community",
@@ -34,7 +57,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5987/live/f6c53a30-40cd-11f1-b55d-0f258dce1735.jpg"
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Sat, 25 Apr 2026 09:00:40 GMT",
         "title": "Even without social media, phones have a subtle, damaging effect on our mental health | Devi Sridhar",
@@ -55,7 +78,7 @@
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Sat, 25 Apr 2026 06:27:47 GMT",
         "title": "Where, when and how can you get involved in IOM wildlife week?",
@@ -76,29 +99,6 @@
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcae/live/1355cdc0-3fef-11f1-b7e9-5d346a313b73.jpg"
-      },
-      {
-        "id": "cluster_3",
-        "coverage": 1,
-        "updated_at": "Sat, 25 Apr 2026 01:18:33 GMT",
-        "title": "The viral manifesto of 'anti-woke' tech boss with NHS and defence contracts",
-        "neutral_headline": "The viral manifesto of 'anti-woke' tech boss with NHS and defence contracts",
-        "bullet_summary": [
-          "Reported by BBC Health"
-        ],
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/c4gjkj7975po?at_medium=RSS&at_campaign=rss",
-            "published_at": "Sat, 25 Apr 2026 01:18:33 GMT",
-            "title": "The viral manifesto of 'anti-woke' tech boss with NHS and defence contracts",
-            "standfirst": "The boss of the controversial tech company with UK government contracts published a 22-point plan on the future of the West.",
-            "content": "The boss of the controversial tech company with UK government contracts published a 22-point plan on the future of the West.",
-            "feed_position": 27,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61d7/live/ab8ccad0-3d8d-11f1-92be-b5fcda70efcc.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61d7/live/ab8ccad0-3d8d-11f1-92be-b5fcda70efcc.jpg"
       },
       {
         "id": "cluster_4",
@@ -410,34 +410,11 @@
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4eae/live/3b52ac60-3f0b-11f1-9aab-c976736c58b1.jpg"
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Thu, 23 Apr 2026 20:00:00 GMT",
-        "title": "BBC Inside Science",
-        "neutral_headline": "BBC Inside Science",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/sounds/play/w3ct977h?at_medium=RSS&at_campaign=rss",
-            "published_at": "Thu, 23 Apr 2026 20:00:00 GMT",
-            "title": "BBC Inside Science",
-            "standfirst": "Creating and manufacturing a novel vaccine capable of combatting bird flu.",
-            "content": "Creating and manufacturing a novel vaccine capable of combatting bird flu.",
-            "feed_position": 28,
-            "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-04-25T19:39:22.566Z",
+    "updated_at": "2026-04-25T23:30:43.087Z",
     "clusters": []
   }
 }
