@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-27T23:44:39.789Z",
+  "updated_at": "2026-04-28T05:52:01.338Z",
   "clusters": [
     {
-      "id": "cluster_3",
+      "id": "cluster_28",
       "coverage": 2,
       "updated_at": "Mon, 27 Apr 2026 22:27:00 GMT",
       "title": "Microsoft and OpenAI gut their exclusive deal, freeing OpenAI to sell on AWS and Google Cloud",
@@ -83,124 +83,13 @@
           "content": "The stochastic challengeTraditional software is predictable: Input A plus function B always equals output C. This determinism allows engineers to develop robust tests. On the other hand, generative AI is stochastic and unpredictable. The exact same prompt often yields different results on Monday versus Tuesday, breaking the traditional unit testing that engineers know and love.To ship enterprise-ready AI, engineers cannot rely on mere “vibe checks” that pass today but fail when customers use the product. Product builders need to adopt a new infrastructure layer: The AI Evaluation Stack.This framework is informed by my extensive experience shipping AI products for Fortune 500 enterprise customers in high-stakes industries, where “hallucination” is not funny — it’s a huge compliance risk.Defining the AI evaluation paradigmTraditional software tests are binary assertions (pass/fail). While some AI evals use binary asserts, many evaluate on a gradient. An eval is not a single script; it is a structured pipeline of assertions — ranging from strict code syntax to nuanced semantic checks — that verify the AI system’s intended function.The taxonomy of evaluation checksTo build a robust, cost-effective pipeline, asserts must be separated into two distinct architectural layers:Layer 1: Deterministic assertionsA surprisingly large share of production AI failures aren&#x27;t semantic \"hallucinations\" — they are basic syntax and routing failures. Deterministic assertions serve as the pipeline&#x27;s first gate, using traditional code and regex to validate structural integrity.Instead of asking if a response is \"helpful,\" these assertions ask strict, binary questions:Did the model generate the correct JSON key/value schema?Did it invoke the correct tool call with the required arguments?Did it successfully slot-fill a valid GUID or email address?// Example: Layer 1 Deterministic Tool Call Assertion{ \"test_scenario\": \"User asks to look up an account\", \"assertion_type\": \"schema_validation\", \"expected_action\": \"Call API: get_customer_record\", \"actual_ai_output\": \"I found the customer.\", \"eval_result\": \"FAIL - AI hallucinated conversational text instead of generating the required API payload.\"}In the example above, the test failed instantly because the model generated conversational text instead of the required tool call payload.Architecturally, deterministic assertions must be the first layer of the stack, operating on a computationally inexpensive \"fail-fast\" principle. If a downstream API requires a specific schema, a malformed JSON string is a fatal error. By failing the evaluation immediately at this layer, engineering teams prevent the pipeline from triggering expensive semantic checks (Layer 2) or wasting valuable human review time (Layer 3).Layer 2: Model-based assertionsWhen deterministic assertions pass, the pipeline must evaluate semantic quality. Because natural language is fluid, traditional code cannot easily assert if a response is \"helpful\" or \"empathetic.\" This introduces model-based evaluation, commonly referred to as \"LLM-as-a-Judge” or “LLM-Judge.\"While using one non-deterministic system to evaluate another seems counterintuitive, it is an exceptionally powerful architectural pattern for use cases requiring nuance. It is virtually impossible to write a reliable regex to verify if a response is \"actionable\" or \"polite.\" While human reviewers excel at this nuance, they cannot scale to evaluate tens of thousands of CI/CD test cases. Thus, the LLM-as-a-Judge becomes the scalable proxy for human discernment.3 critical inputs for model-based assertionsHowever, model-based assertions only yield reliable data when the LLM-as-a-Judge is provisioned with three critical inputs:A state-of-the-art reasoning model: The Judge must possess superior reasoning capabilities compared to the production model. If your app runs on a smaller, faster model for latency, the judge must be a frontier reasoning model to approximate human-level discernment.A strict assessment rubric: Vague evaluation prompts (\"Rate how good this answer is\") yield noisy, stochastic evaluations. A robust rubric explicitly defines the gradients of failure and success. (For example, a \"Helpfulness\" rubric should define Score 1 as an irrelevant refusal, Score 2 as addressing the prompt but lacking actionable steps, and Score 3 as providing actionable next steps strictly within context.)Ground truth (golden outputs): While the rubric provides the rules, a human-vetted \"expected answer\" acts as the answer key. When the LLM-Judge can compare the production model&#x27;s output against a verified Golden Output, its scoring reliability increases dramatically.Architecture: The offline vs online pipelineA robust evaluation architecture requires two complementary pipelines. The online pipeline monitors post-deployment telemetry, while the offline pipeline provides the foundational baseline and deterministic constraints required to evaluate stochastic models safely.The offline evaluation pipelineThe offline pipeline&#x27;s primary objective is regression testing — identifying failures, drift, and latency before production. Deploying an enterprise LLM feature without a gating offline evaluation suite is an architectural anti-pattern; it is the equivalent of merging uncompiled code into a main branch.Process1. Curating the golden datasetThe offline lifecycle begins by curating a \"golden dataset\" — a static, version-controlled repository of 200 to 500 test cases representing the AI&#x27;s full operational envelope. Each case pairs an exact input payload with an expected \"golden output\" (ground truth).Crucially, this dataset must reflect expected real-world traffic distributions. While most cases cover standard \"happy-path\" interactions, engineers must systematically incorporate edge cases, jailbreaks, and adversarial inputs. Evaluating \"refusal capabilities\" under stress remains a strict compliance requirement.Example test case payload (standard tool use):Input: \"Schedule a 30-minute follow-up meeting with the client for next Tuesday at 10 a.m.\"Expected output (golden): The system successfully invokes the schedule_meeting tool with the correct JSON payload: {\"duration_minutes\": 30, \"day\": \"Tuesday\", \"time\": \"10 AM\", \"attendee\": \"client_email\"}.While manually curating hundreds of edge cases is tedious, the process can be accelerated with synthetic data generation pipelines that use a specialized LLM to produce diverse TSV/CSV test payloads. However, relying entirely on AI-generated test cases introduces the risk of data contamination and bias. A human-in-the-loop (HITL) architecture is mandatory at this stage; domain experts must manually review, edit, and validate the synthetic dataset to ensure it accurately reflects real-world user intent and enterprise policy before it is committed to the repository.2. Defining the evaluation criteriaOnce the dataset is curated, engineers must design the evaluation criteria to compute a composite score for each model output. A robust architecture achieves this by assigning weighted points across a hybrid of Layer 1 (deterministic) and Layer 2 (model-based) asserts.Consider an AI agent executing a \"send email\" tool. An evaluation framework might utilize a 10-point scoring system:Layer 1: Deterministic asserts (6 points): Did the agent invoke the correct tool? (2 pts). Did it produce a valid JSON object? (2 pts). Does the JSON strictly adhere to the expected schema? (2 pts).Layer 2: Model-based asserts (4 points): (Note: Semantic rubrics must be highly use-case specific). Does the subject line reflect user intent? (1 pt). Does the email body match expected outputs without hallucination? (1 pt). Were CC/BCC fields leveraged accurately? (1 pt). Was the appropriate priority flag inferred? (1 pt).To understand why the LLM-Judge awarded these points, the engineer must prompt the judge to supply its reasoning for each score. This is crucial for debugging failures.The passing threshold and short-circuit logic In this example, an 8/10 passing threshold requires 8 points for success. Crucially, the evaluation pipeline must enforce strict short-circuit evaluation (fail-fast logic). If the model fails any deterministic assertion — such as generating a malformed JSON schema — the system must instantly fail the entire test case (0/10). There is zero architectural value in invoking an expensive LLM-Judge to assess the semantic \"politeness\" of an email if the underlying API call is structurally broken.3. Executing the pipeline and aggregating signalsUsing an evaluation infrastructure of choice, the system executes the offline pipeline — typically integrated as a blocking CI/CD step during a pull request. The infrastructure iterates through the golden dataset, injecting each test payload into the production model, capturing the output, and executing defined assertions against it.Each output is scored against the passing threshold. Once batch execution is complete, results are aggregated into an overall pass rate. For enterprise-grade applications, the baseline pass rate must typically exceed 95%, scaling to 99%-plus for strict compliance or high-risk domains.4. Assessment, iteration, and alignmentBased on aggregated failure data, engineering teams conduct a root-cause analysis of failing test cases. This assessment drives iterative updates to core components: refining system prompts, modifying tool descriptions, augmenting knowledge sources, or adjusting hyperparameters (like temperature or top-p). Continuous optimization remains best practice even after achieving a 95% pass rate.Crucially, any system modification necessitates a full regression test. Because LLMs are inherently non-deterministic, an update intended to fix one specific edge case can easily cause unforeseen degradations in other areas. The entire offline pipeline must be rerun to validate that the update improved quality without introducing regressions.The online evaluation pipelineWhile the offline pipeline acts as a strict pre-deployment gatekeeper, the online pipeline is the post-deployment telemetry system. Its objective is to monitor real-world behavior, capturing emergent edge cases, and quantifying model drift. Architects must instrument applications to capture five distinct categories of telemetry:1. Explicit user signalsDirect, deterministic feedback indicating model performance:Thumbs up/down: Disproportionate negative feedback is the most immediate leading indicator of system degradation, directing immediate engineering investigation.Verbatim in-app feedback: Systematically parsing written comments identifies novel failure modes to integrate back into the offline \"golden dataset.\"2. Implicit behavioral signalsBehavioral telemetry reveals silent failures where users give up without explicit feedback:Regeneration and retry rates: High frequencies of retries indicate the initial output failed to resolve user intent.Apology rate: Programmatically scanning for heuristic triggers (\"I’m sorry\") detects degraded capabilities or broken tool routing.Refusal rate: Artificially high refusal rates (\"I can’t do that\") indicate over-calibrated safety filters rejecting benign user queries.3. Production deterministic asserts (synchronous)Because deterministic code checks execute in milliseconds, teams can seamlessly reuse Layer 1 offline asserts (schema conformity, tool validity) to synchronously evaluate 100% of production traffic. Logging these pass/fail rates instantly detects anomalous spikes in malformed outputs — the earliest warning sign of silent model drift or provider-side API changes.4. Production LLM-as-a-Judge (asynchronous)If strict data privacy agreements (DPAs) permit logging user inputs, teams can deploy model-based asserts. Architecturally, production LLM-Judges must never execute synchronously on the critical path, which doubles latency and compute costs. Instead, a background LLM-Judge asynchronously samples a fraction (5%) of daily sessions, grading outputs against the offline rubric to generate a continuous quality dashboard.Engineering the feedback loop (the “flywheel”)Evaluation pipelines are not \"set-it-and-forget-it\" infrastructure. Without continuous updates, static datasets suffer from \"rot\" (concept drift) as user behavior evolves and customers discover novel use cases.For example, an HR chatbot might boast a pristine 99% offline pass rate for standard payroll questions. However, if the company suddenly announces a new equity plan, users will immediately begin prompting the AI about vesting schedules — a domain entirely missing from the offline evaluations.To make the system smarter over time, engineers must architect a closed feedback loop that mines production telemetry for continuous improvement.The continuous improvement workflow:Capture: A user triggers an explicit negative signal (a \"thumbs down\") or an implicit behavioral flag in production.Triage: The specific session log is automatically flagged and routed for human review.Root-cause analysis: A domain expert investigates the failure, identifies the gap, and updates the AI system to successfully handle similar requests.Dataset augmentation: The novel user input, paired with the newly corrected expected output, is appended to the offline Golden Dataset alongside several synthetic variations.Regression testing: The model is continuously re-evaluated against this newly discovered edge case in all future runs.Building an evaluation pipeline without monitoring production logs and updating datasets is fundamentally insufficient. Users are unpredictable. Evaluating on stale data creates a dangerous illusion: High offline pass rates masking a rapidly degrading real-world experience.Conclusion: The new “definition of done”In the era of generative AI, a feature or product is no longer \"done\" simply because the code compiles and the prompt returns a coherent response. It is only done when a rigorous, automated evaluation pipeline is deployed and stable — and when the model consistently passes against both a curated golden dataset and newly discovered production edge cases.This guide has equipped you with a comprehensive blueprint for building that reality. From architecting offline regression pipelines and online telemetry to the continuous feedback flywheel and navigating enterprise anti-patterns, you now have the structural foundation required to deploy AI systems with greater confidence.Now, it is your turn. Share this framework with your engineering, product, and legal teams to establish a unified, cross-functional standard for AI quality in your organization. Stop guessing whether your models are degrading in production, and start measuring.Derah Onuorah is a Microsoft senior product manager.",
           "feed_position": 5,
           "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4IEiKF5i3wgiKwmJw8UOtf/8a415ee33ad42c0cb72ceb0aec1155dc/u7277289442_AI_robots_with_hardhats._An_office_setting._They__5df79da3-f7e2-43fa-a9cb-8d27ca6939c9_2.png?w=300&q=30"
-        },
-        {
-          "source": "VentureBeat",
-          "url": "https://venturebeat.com/technology/ai-synthetic-audiences-are-already-here-and-poised-to-upend-the-consulting-industry",
-          "published_at": "Sun, 26 Apr 2026 04:00:00 GMT",
-          "title": "AI synthetic audiences are already here and poised to upend the consulting industry",
-          "standfirst": "There is a war brewing between AI and consulting. Akin to an armies slow march towards the castle, a new technology is coming to dethrone the expert guessers of Mckinsey, Nielsen, Gartner, Publicis and the rest. Any consulting that involves analyzing people (think all of marketing, research, polling, etc.) will have to reckon with the technology of “synthetic audiences”.Synthetic audiences aim to generate digital versions of people that can then be surveyed almost instantly and affordably, but not as accurately. Think Tamagochi but with people. By prompting AI with information about a person, we ask AI to get in their shoes, simulate the thoughts, behaviors, priorities and decisions of real world humans. We can also invent non-specific placeholder people or personas and survey them as though they are real. Various firms have already fielded products in these domains, including startups Electric Twin, Artificial Societies, and Aaru, and even the century-old Dentsu.What used to take 4 months to survey people, plus two months to create a nice PowerPoint presentation of findings at a total cost of thousands or even tens of thousands, now takes two minutes and costs only a few dollars. It may seem like I’ve picked my winner. But in this war of tribes, I’m a Romeo, caught between the two warring houses. I work for a large incumbent in this space. From 2023-2025 while working at the London headquarters of WPP, I built similar tools for numerous Fortune 500’s and advised many New York University researchers on the subject. Companies like WPP with head counts and revenues that rival the populations and GDP’s of small European nations need startups for their speed and high margins, while startups need our distribution.My advice has always been for unity between these tribes. Considering WPP is partnering with numerous startups, is working tirelessly in building our own tools and building deep connections with hyper scalers, it’s possible I mislead you with the war analogy. This may be a love story after all. But destiny’s bottle of poison is in our hands. These next few years are pivotal and formative.The future will ultimately be determined by the buyers of these studies. Fortune 500’s, with the largest appetite for market research, often hesitate to include synthetic audiences in their diet. The first question I’m asked in any pitch is \"will AI steal my data?\" I find this question to be an emotional response. It seems to me like most AI fears are remnants of a 2022 LinkedIn post that burrowed itself into our collective consciousness.I generally respond to this question with another: “Do you use Microsoft Teams?” The answer is often \"yes.\" Almost every enterprise stores sensitive data in a cloud service that Google Amazon or Microsoft provides. These are the same companies that provide enterprise AI services, which state in their terms and conditions that they won’t train models with your data. Now, believing this statement is optional, but for that matter believing is voluntary for all things.Criticisms of accuracy on the other hand, are harder to dispute. The famed venture capital firm Andreessen-Horowitz (a16z) titled its analysis of this budding tech scene as “Faster, smarter, cheaper”. As the hopeful mediator in this war, I agree synthetic research is faster and cheaper, but is it smarter? Not sure. A seminal paper from Stanford by Park et al. established a benchmark in 2024 proving that AI can simulate human responses to surveys with an average of 85% accuracy. In fact for certain portions of the general social survey, they replicated answers with more than 90% accuracy. When the model is provided relevant information and is given rich context (like a mini biography of the person) it can guess their actions and thoughts very accurately.But no prediction can be 100% accurate. A future where human propensities are modeled even better than humans can express their own desires is a possibility. Maybe we’ll live in a future where the movie Minority Report becomes reality. However, this future is too distant to warrant the attention of a business reader and is better suited for Tom Cruise and Steven Spielberg.What is more interesting to me is what this technology can do at lower accuracies. In my private tests, I’ve seen that with very simple information about a person, such as their age, neighborhood and gender, certain behaviors can be modeled with 72% accuracy. An argument can be made that these are easy-to-make predictions. Predicting whether a married person will have children is low stakes. This can’t completely replace the unique insight of a strategist. However, considering how elusive it is to understand and model people. A solution that’s better than random and so attainable poses to make an impact.Think about the immense scale. The human mind works with a small range of values. We understand when something is twice as fast but we can’t comprehend when something is 175,200 times faster. All of a sudden a journey that took several days becomes becomes several hours, bridges get built, gas stations, entire industries are started. When improvement isn’t marginal but exponential, it has positive externalities that are impossible to predict even by this article.What I suggest for all of us is to eat the popcorn and watch the show. No matter what happens, it’ll be fun.",
-          "content": "There is a war brewing between AI and consulting. Akin to an armies slow march towards the castle, a new technology is coming to dethrone the expert guessers of Mckinsey, Nielsen, Gartner, Publicis and the rest. Any consulting that involves analyzing people (think all of marketing, research, polling, etc.) will have to reckon with the technology of “synthetic audiences”.Synthetic audiences aim to generate digital versions of people that can then be surveyed almost instantly and affordably, but not as accurately. Think Tamagochi but with people. By prompting AI with information about a person, we ask AI to get in their shoes, simulate the thoughts, behaviors, priorities and decisions of real world humans. We can also invent non-specific placeholder people or personas and survey them as though they are real. Various firms have already fielded products in these domains, including startups Electric Twin, Artificial Societies, and Aaru, and even the century-old Dentsu.What used to take 4 months to survey people, plus two months to create a nice PowerPoint presentation of findings at a total cost of thousands or even tens of thousands, now takes two minutes and costs only a few dollars. It may seem like I’ve picked my winner. But in this war of tribes, I’m a Romeo, caught between the two warring houses. I work for a large incumbent in this space. From 2023-2025 while working at the London headquarters of WPP, I built similar tools for numerous Fortune 500’s and advised many New York University researchers on the subject. Companies like WPP with head counts and revenues that rival the populations and GDP’s of small European nations need startups for their speed and high margins, while startups need our distribution.My advice has always been for unity between these tribes. Considering WPP is partnering with numerous startups, is working tirelessly in building our own tools and building deep connections with hyper scalers, it’s possible I mislead you with the war analogy. This may be a love story after all. But destiny’s bottle of poison is in our hands. These next few years are pivotal and formative.The future will ultimately be determined by the buyers of these studies. Fortune 500’s, with the largest appetite for market research, often hesitate to include synthetic audiences in their diet. The first question I’m asked in any pitch is \"will AI steal my data?\" I find this question to be an emotional response. It seems to me like most AI fears are remnants of a 2022 LinkedIn post that burrowed itself into our collective consciousness.I generally respond to this question with another: “Do you use Microsoft Teams?” The answer is often \"yes.\" Almost every enterprise stores sensitive data in a cloud service that Google Amazon or Microsoft provides. These are the same companies that provide enterprise AI services, which state in their terms and conditions that they won’t train models with your data. Now, believing this statement is optional, but for that matter believing is voluntary for all things.Criticisms of accuracy on the other hand, are harder to dispute. The famed venture capital firm Andreessen-Horowitz (a16z) titled its analysis of this budding tech scene as “Faster, smarter, cheaper”. As the hopeful mediator in this war, I agree synthetic research is faster and cheaper, but is it smarter? Not sure. A seminal paper from Stanford by Park et al. established a benchmark in 2024 proving that AI can simulate human responses to surveys with an average of 85% accuracy. In fact for certain portions of the general social survey, they replicated answers with more than 90% accuracy. When the model is provided relevant information and is given rich context (like a mini biography of the person) it can guess their actions and thoughts very accurately.But no prediction can be 100% accurate. A future where human propensities are modeled even better than humans can express their own desires is a possibility. Maybe we’ll live in a future where the movie Minority Report becomes reality. However, this future is too distant to warrant the attention of a business reader and is better suited for Tom Cruise and Steven Spielberg.What is more interesting to me is what this technology can do at lower accuracies. In my private tests, I’ve seen that with very simple information about a person, such as their age, neighborhood and gender, certain behaviors can be modeled with 72% accuracy. An argument can be made that these are easy-to-make predictions. Predicting whether a married person will have children is low stakes. This can’t completely replace the unique insight of a strategist. However, considering how elusive it is to understand and model people. A solution that’s better than random and so attainable poses to make an impact.Think about the immense scale. The human mind works with a small range of values. We understand when something is twice as fast but we can’t comprehend when something is 175,200 times faster. All of a sudden a journey that took several days becomes becomes several hours, bridges get built, gas stations, entire industries are started. When improvement isn’t marginal but exponential, it has positive externalities that are impossible to predict even by this article.What I suggest for all of us is to eat the popcorn and watch the show. No matter what happens, it’ll be fun.",
-          "feed_position": 6,
-          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4AZSXEMtdtnPgmv3m8XzM6/e9cc92137da39bed7cf07a278ffa2775/Carl_Franzen_graphic_novel_style_intricate_line_drawing_first_f1777103-36c6-4343-90ce-11883e004271_2.png?w=300&q=30"
         }
       ],
       "featured_image": "https://images.ctfassets.net/jdtwqhzvc2n1/jWKnXQb73xGvnR0cJtCMe/ca8184c4104cbce09237472623645351/nuneybits_Vector_art_of_burning_contract_85754b2d-d02d-451f-9cd4-db57975ec2dc.webp?w=300&q=30",
-      "popularity_score": 2018.7056141666667
+      "popularity_score": 2012.5829616666667
     },
     {
-      "id": "cluster_5",
-      "coverage": 2,
-      "updated_at": "Mon, 27 Apr 2026 18:00:37 -0400",
-      "title": "Renders based on photos of Samsung's upcoming smart glasses, expected to launch later this year, show a design nearly identical to Ray-Ban Meta glasses (Alexander Maxham/Android Headlines)",
-      "neutral_headline": "Samsung&#8217;s first smart glasses have leaked",
-      "bullet_summary": [
-        "The glasses, which could be announced at Google I/O next month, are code-named \"Jinju\" and will reportedly cost between $379 and $499, on par with the display-free Ray-Ban Meta Gen 2",
-        "They'll reportedly include a Qualcomm [&#8230;]"
-      ],
-      "items": [
-        {
-          "source": "TechMeme",
-          "url": "http://www.techmeme.com/260427/p38#a260427p38",
-          "published_at": "Mon, 27 Apr 2026 18:00:37 -0400",
-          "title": "Renders based on photos of Samsung's upcoming smart glasses, expected to launch later this year, show a design nearly identical to Ray-Ban Meta glasses (Alexander Maxham/Android Headlines)",
-          "standfirst": "Alexander Maxham / Android Headlines: Renders based on photos of Samsung's upcoming smart glasses, expected to launch later this year, show a design nearly identical to Ray-Ban Meta glasses &mdash; Add Android Headlines as a preferred source on Google &mdash; Samsung's next Android XR product is reportedly a pair of smart glasses codenamed &hellip;",
-          "content": "Alexander Maxham / Android Headlines: Renders based on photos of Samsung's upcoming smart glasses, expected to launch later this year, show a design nearly identical to Ray-Ban Meta glasses &mdash; Add Android Headlines as a preferred source on Google &mdash; Samsung's next Android XR product is reportedly a pair of smart glasses codenamed &hellip;",
-          "feed_position": 4,
-          "image_url": "http://www.techmeme.com/260427/i38.jpg"
-        },
-        {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/gadgets/919189/samsung-galaxy-glasses-leaked-images",
-          "published_at": "2026-04-27T12:25:51-04:00",
-          "title": "Samsung&#8217;s first smart glasses have leaked",
-          "standfirst": "The upcoming Samsung Galaxy Glasses look nearly identical to Meta's Ray-Ban smart glasses in leaked images from Android Headlines. The glasses, which could be announced at Google I/O next month, are code-named \"Jinju\" and will reportedly cost between $379 and $499, on par with the display-free Ray-Ban Meta Gen 2. They'll reportedly include a Qualcomm [&#8230;]",
-          "content": "The upcoming Samsung Galaxy Glasses look nearly identical to Meta's Ray-Ban smart glasses in leaked images from Android Headlines. The glasses, which could be announced at Google I/O next month, are code-named \"Jinju\" and will reportedly cost between $379 and $499, on par with the display-free Ray-Ban Meta Gen 2. They'll reportedly include a Qualcomm Snapdragon AR1 processor, a 12-megapixel Sony IMX681 camera, a 155mAh battery, and bone conduction speakers; however, this pair won't have a built-in display. Samsung is reportedly saving a micro-LED display for a more premium pair of glasses, code-named \"Haean,\" which it plans to launch in 20 … Read the full story at The Verge.",
-          "feed_position": 8
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/260427/i38.jpg",
-      "popularity_score": 2018.2658919444445
-    },
-    {
-      "id": "cluster_10",
-      "coverage": 2,
-      "updated_at": "Mon, 27 Apr 2026 16:40:02 -0400",
-      "title": "Elon Musk boosts an X post by Ronan Farrow promoting his New Yorker article on Sam Altman's alleged deceptions, as Musk's lawsuit against OpenAI heads to trial (Wired)",
-      "neutral_headline": "Elon Musk Boosts New Yorker’s Sam Altman Exposé on X as Trial Begins",
-      "bullet_summary": [
-        "Reported by TechMeme, Wired Tech"
-      ],
-      "items": [
-        {
-          "source": "TechMeme",
-          "url": "http://www.techmeme.com/260427/p36#a260427p36",
-          "published_at": "Mon, 27 Apr 2026 16:40:02 -0400",
-          "title": "Elon Musk boosts an X post by Ronan Farrow promoting his New Yorker article on Sam Altman's alleged deceptions, as Musk's lawsuit against OpenAI heads to trial (Wired)",
-          "standfirst": "Wired: Elon Musk boosts an X post by Ronan Farrow promoting his New Yorker article on Sam Altman's alleged deceptions, as Musk's lawsuit against OpenAI heads to trial &mdash; The move comes as the trial for Elon Musk's lawsuit against OpenAI kicks off in federal court in Oakland.",
-          "content": "Wired: Elon Musk boosts an X post by Ronan Farrow promoting his New Yorker article on Sam Altman's alleged deceptions, as Musk's lawsuit against OpenAI heads to trial &mdash; The move comes as the trial for Elon Musk's lawsuit against OpenAI kicks off in federal court in Oakland.",
-          "feed_position": 6,
-          "image_url": "http://www.techmeme.com/260427/i36.jpg"
-        },
-        {
-          "source": "Wired Tech",
-          "url": "https://www.wired.com/story/elon-musk-boost-new-yorker-article-sam-altman-x/",
-          "published_at": "Mon, 27 Apr 2026 20:08:51 +0000",
-          "title": "Elon Musk Boosts New Yorker’s Sam Altman Exposé on X as Trial Begins",
-          "standfirst": "The move comes as the trial for Elon Musk’s lawsuit against OpenAI kicks off in federal court in Oakland.",
-          "content": "The move comes as the trial for Elon Musk’s lawsuit against OpenAI kicks off in federal court in Oakland.",
-          "feed_position": 1,
-          "image_url": "https://media.wired.com/photos/69efb98c62f06e966778ac07/master/pass/GettyImages-491588398.jpg"
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/260427/i36.jpg",
-      "popularity_score": 2016.922836388889
-    },
-    {
-      "id": "cluster_26",
-      "coverage": 2,
-      "updated_at": "2026-04-27T14:17:12-04:00",
-      "title": "Google employees ask Sundar Pichai to say no to classified military AI use",
-      "neutral_headline": "Google employees ask Sundar Pichai to say no to classified military AI use",
-      "bullet_summary": [
-        "Reported by The Verge, TechMeme"
-      ],
-      "items": [
-        {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter",
-          "published_at": "2026-04-27T14:17:12-04:00",
-          "title": "Google employees ask Sundar Pichai to say no to classified military AI use",
-          "standfirst": "Over 600 Google employees signed a letter to CEO Sundar Pichai demanding that Google block the Pentagon from using its AI models for classified purposes, reports the The Washington Post. Its organizers claim many of the signers work in Google's DeepMind AI lab, and include more than 20 principals, directors, and vice presidents. According to [&#8230;]",
-          "content": "Google CEO Sundar Pichai arrives for the inauguration of President Donald Trump. | Getty Images Over 600 Google employees signed a letter to CEO Sundar Pichai demanding that Google block the Pentagon from using its AI models for classified purposes, reports the The Washington Post. Its organizers claim many of the signers work in Google's DeepMind AI lab, and include more than 20 principals, directors, and vice presidents. According to the Post, the letter says that \"The only way to guarantee that Google does not become associated with such harms is to reject any classified workloads. Otherwise, such uses may occur without our knowledge or the power to stop them.\" Anthropic is currently in a legal battle with the Pentagon over being … Read the full story at The Verge.",
-          "feed_position": 2
-        },
-        {
-          "source": "TechMeme",
-          "url": "http://www.techmeme.com/260427/p31#a260427p31",
-          "published_at": "Mon, 27 Apr 2026 12:35:01 -0400",
-          "title": "More than 600 Google employees, including many from DeepMind, sign a letter to Sundar Pichai demanding he bar the DOD from using Google's AI for classified work (Gerrit De Vynck/Washington Post)",
-          "standfirst": "Gerrit De Vynck / Washington Post: More than 600 Google employees, including many from DeepMind, sign a letter to Sundar Pichai demanding he bar the DOD from using Google's AI for classified work &mdash; &ldquo;We want to see AI benefit humanity; not to see it being used in inhumane or extremely harmful ways,&rdquo; Google employees wrote. &mdash; Summary",
-          "content": "Gerrit De Vynck / Washington Post: More than 600 Google employees, including many from DeepMind, sign a letter to Sundar Pichai demanding he bar the DOD from using Google's AI for classified work &mdash; &ldquo;We want to see AI benefit humanity; not to see it being used in inhumane or extremely harmful ways,&rdquo; Google employees wrote. &mdash; Summary",
-          "feed_position": 11,
-          "image_url": "http://www.techmeme.com/260427/i31.jpg"
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/260427/i31.jpg",
-      "popularity_score": 2014.5422808333333
-    },
-    {
-      "id": "cluster_14",
+      "id": "cluster_35",
       "coverage": 1,
       "updated_at": "Mon, 27 Apr 2026 20:10:11 +0000",
       "title": "OpenAI ends its exclusive partnership with Microsoft",
@@ -216,15 +105,39 @@
           "title": "OpenAI ends its exclusive partnership with Microsoft",
           "standfirst": "Amended agreement clears the way for OpenAI models to run on Amazon Bedrock.",
           "content": "Since Microsoft invested $1 billion in OpenAI in 2019, the exclusive partnership between the two firms has been one of the strongest and most consequential in the AI industry. Today, though, OpenAI and Microsoft jointly announced an amended agreement that will allow the company to go beyond Microsoft's Azure and \"serve all its products to customers across any cloud provider.\" The announcement clarifies that Microsoft will continue to have a license for OpenAI's IP and models through 2032 and that Azure will remain the \"primary cloud partner\" for OpenAI during that time (should Microsoft continue to be able to honor that). But Microsoft's license \"will now be non-exclusive,\" the announcement reads, letting OpenAI make its models available through other major cloud providers going forward. While OpenAI will continue to make the same 20 percent revenue share payments to Microsoft under the amended deal, that total payment will now be limited to an unspecified cap and is only guaranteed to run through 2030. Importantly, that revenue share is now \"independent of OpenAI’s technology progress,\" an apparent reference to the infamous \"AGI clause\" in the original partnership that would have scrapped the exclusivity deal if and when OpenAI achieved the hard-to-gauge benchmark of artificial general intelligence.Read full article Comments",
-          "feed_position": 2,
+          "feed_position": 3,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/GettyImages-2153474326-1024x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/GettyImages-2153474326-1024x648.jpg",
-      "popularity_score": 364.42533638888887
+      "popularity_score": 348.3026838888889
     },
     {
-      "id": "cluster_9",
+      "id": "cluster_25",
+      "coverage": 1,
+      "updated_at": "Tue, 28 Apr 2026 00:14:09 +0000",
+      "title": "Put it in pencil: NASA's Artemis III mission will launch no earlier than late 2027",
+      "neutral_headline": "Put it in pencil: NASA's Artemis III mission will launch no earlier than late 2027",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/04/put-it-in-pencil-nasas-artemis-iii-mission-will-launch-no-earlier-than-late-2027/",
+          "published_at": "Tue, 28 Apr 2026 00:14:09 +0000",
+          "title": "Put it in pencil: NASA's Artemis III mission will launch no earlier than late 2027",
+          "standfirst": "SpaceX and Blue Origin tell NASA their lunar landers will be ready for Artemis III in late 2027.",
+          "content": "NASA Administrator Jared Isaacman told lawmakers on Monday that SpaceX and Blue Origin, the agency's two lunar lander contractors, say they could have their spacecraft ready for the next Artemis mission in Earth orbit in late 2027, somewhat later than NASA's previous schedule. This mission, Artemis III, will not fly to the Moon. Instead, NASA will launch an Orion capsule with a team of astronauts to rendezvous and potentially dock with one or both landers in Earth orbit. The details of the Artemis III flight plan remain under review, with key questions about the orbit's altitude and the configuration of the Space Launch System rocket still unanswered. A mission to low-Earth orbit, just a few hundred miles in altitude, may not require NASA to use up an SLS upper stage that is already built and in storage, saving the unit for the following Artemis mission to attempt a landing on the Moon. A launch into a higher orbit would require the upper stage, but it would allow NASA to perform tests in an environment more similar to the Moon. NASA is buying a new commercial upper stage, the Centaur V from United Launch Alliance, to pair with the SLS rocket after flying the last of the rocket's existing upper stages.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/jsc2023e076235-1-1152x648-1777333909.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/jsc2023e076235-1-1152x648-1777333909.jpg",
+      "popularity_score": 347.368795
+    },
+    {
+      "id": "cluster_31",
       "coverage": 1,
       "updated_at": "Mon, 27 Apr 2026 20:45:18 +0000",
       "title": "Musk and Altman face off in trial that will determine OpenAI's future",
@@ -240,15 +153,15 @@
           "title": "Musk and Altman face off in trial that will determine OpenAI's future",
           "standfirst": "Musk’s shifting stance on AI dangers may complicate trial over OpenAI’s mission.",
           "content": "A hotly anticipated trial starts this week, where Elon Musk will attempt to prove that OpenAI, under Sam Altman, has abandoned its mission to remain a nonprofit in order to ensure that artificial intelligence serves humanity, and not just billionaires. Many view the lawsuit as a grudge match between Musk—who left OpenAI after serving as an early major donor and advisor—and Altman—who currently runs OpenAI, despite insiders' allegedly growing distrust in his commitment to the dominant AI firm's mission. But the lawsuit is about much more than a couple billionaires' big egos. The outcome could radically change the AI landscape, impacting how OpenAI runs and what resources the firm will have to uphold its mission. If Musk wins, OpenAI's hopes of growing a for-profit arm that can fund the nonprofit could be dashed. Additionally, Brockman and Altman could be dropped as officers, and Altman risks losing his seat on OpenAI's board.Read full article Comments",
-          "feed_position": 1,
+          "feed_position": 2,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/elon-and-sam-are-bffs-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/elon-and-sam-are-bffs-1152x648.jpg",
-      "popularity_score": 355.01061416666664
+      "popularity_score": 338.8879616666667
     },
     {
-      "id": "cluster_7",
+      "id": "cluster_29",
       "coverage": 1,
       "updated_at": "Mon, 27 Apr 2026 21:04:03 +0000",
       "title": "Open source package with 1 million monthly downloads stole user credentials",
@@ -264,15 +177,15 @@
           "title": "Open source package with 1 million monthly downloads stole user credentials",
           "standfirst": "If you're one of millions using element-data, it's time to check for compromise.",
           "content": "Open source software with more than 1 million monthly downloads was compromised after a threat actor exploited a vulnerability in the developers’ account workflow that gave access to its signing keys and other sensitive information. On Friday, unknown attackers exploited the vulnerability to push a new version of element-data, a command-line interface that helps users monitor performance and anomalies in machine-learning systems. When run, the malicious package scoured systems for sensitive data, including user profiles, warehouse credentials, cloud provider keys, API tokens, and SSH keys, developers said. The malicious version was tagged as 0.23.3 and was published to the developers’ Python Package Index and Docker image accounts. It was removed about 12 hours later, on Saturday. Elementary Cloud, the Elementary dbt package, and all other CLI versions weren't affected. Assume compromise “Users who installed 0.23.3, or who pulled and ran the affected Docker image, should assume that any credentials accessible to the environment where it ran may have been exposed,” the developers wrote.Read full article Comments",
-          "feed_position": 0,
+          "feed_position": 1,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/browser-security-threat-1152x627.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/browser-security-threat-1152x627.jpg",
-      "popularity_score": 350.32311416666664
+      "popularity_score": 334.2004616666667
     },
     {
-      "id": "cluster_16",
+      "id": "cluster_37",
       "coverage": 1,
       "updated_at": "Mon, 27 Apr 2026 20:03:49 +0000",
       "title": "EU tells Google to open up AI on Android; Google says that's \"unwarranted intervention\"",
@@ -288,15 +201,15 @@
           "title": "EU tells Google to open up AI on Android; Google says that's \"unwarranted intervention\"",
           "standfirst": "Gemini gets preferential treatment on Android, but maybe not for long (in Europe).",
           "content": "In January, the European Commission began an initial investigation, known as a specification proceeding, into how Google has implemented AI in the Android operating system. The results are in, and the EU says Android needs to be more open, which is not surprising. Meanwhile, Google says this amounts to \"unwarranted intervention,\" which is equally unsurprising. Regardless of Google's characterization of the investigation, the commission may force Google to make Android AI changes this summer. This action stems from the continent's Digital Markets Act (DMA), a sweeping law that designates seven dominant technology companies as \"gatekeepers\" that are subject to greater regulation to ensure fair competition. Google has consistently spoken against the regulations imposed under the DMA, but it and the other gatekeepers have been subject to the law for several years now, and there's little chance the commission backs away from it. The issue before the commission currently is the built-in advantage for Gemini on Android. When you turn on any Google-powered Android phone, Gemini is already there and gets special treatment at the system level. The European Commission is taking aim at the lack of features available to third-party AI services. The commission believes that there are too many experiences on Android that only work with Google's Gemini AI, and as a gatekeeper, Google must change that.Read full article Comments",
-          "feed_position": 3,
+          "feed_position": 4,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-1152x648.jpg",
-      "popularity_score": 346.3192252777778
+      "popularity_score": 330.19657277777776
     },
     {
-      "id": "cluster_17",
+      "id": "cluster_38",
       "coverage": 1,
       "updated_at": "Mon, 27 Apr 2026 19:45:06 +0000",
       "title": "With new patch design, the Crew-13 astronauts clearly aren't superstitious",
@@ -312,15 +225,15 @@
           "title": "With new patch design, the Crew-13 astronauts clearly aren't superstitious",
           "standfirst": "Houston, we have another \"13.\"",
           "content": "NASA has assigned its first crew to launch on a mission \"13\" since Apollo 13 \"had a problem\" on the way to the Moon 56 years ago. Jessica Watkins and Luke Delaney with NASA, Joshua Kutryk with the Canadian Space Agency, and Roscosmos cosmonaut Sergey Teteryatnikov will lift off for the International Space Station as Crew-13 on a SpaceX Dragon spacecraft in mid-September. The four will serve as members of the station's Expedition 75 and 76 crews, before returning to Earth about five months later. \"This flight is the 13th crew rotation with SpaceX,\" NASA's announcement read. \"The crew will conduct scientific investigations and technology demonstrations to help prepare humans for future exploration missions to the moon and Mars, and benefit people on Earth.\"Read full article Comments",
-          "feed_position": 4,
+          "feed_position": 5,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/news-042526a-lg-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/news-042526a-lg-1152x648.jpg",
-      "popularity_score": 309.0072808333333
+      "popularity_score": 292.88462833333335
     },
     {
-      "id": "cluster_24",
+      "id": "cluster_45",
       "coverage": 1,
       "updated_at": "Mon, 27 Apr 2026 18:30:14 +0000",
       "title": "\"Super ZSNES\" is a stab at a modern SNES emulator from the original developers",
@@ -336,15 +249,15 @@
           "title": "\"Super ZSNES\" is a stab at a modern SNES emulator from the original developers",
           "standfirst": "Upgrades to SNES graphics and sound go way beyond the typical screen filtering.",
           "content": "Aficionados of game console emulator history will almost certainly be familiar with ZSNES, an MS-DOS-based (and, later, Windows-based) emulator for the Super Nintendo Entertainment System that originally launched back in 1997. Originally written in x86 assembly code, it was known best for its performance on low-end PCs and was capable of running some games at full speed on chips as slow as a 233 MHz Pentium II, though it usually did so at the expense of emulation accuracy. ZSNES developed rapidly (alongside the contemporary, competing Snes9x project) throughout the late ’90s and early 2000s. Updates slowed after the original creators left the project, and new releases ceased entirely around 2007. But a successor to ZSNES has arrived. The project's original creators (who go by the handles zsKnight and _Demo_) have returned 19 years later with a new follow-up project called \"Super ZSNES,\" an SNES emulator that emphasizes audio-visual upgrades to those aging ’90s-era Super Nintendo games. The only more surprising emulator news would be if NESticle somehow rose from the dead.Read full article Comments",
-          "feed_position": 5,
+          "feed_position": 6,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/super-zsnes-1152x648.png"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/super-zsnes-1152x648.png",
-      "popularity_score": 303.75950305555557
+      "popularity_score": 287.63685055555555
     },
     {
-      "id": "cluster_28",
+      "id": "cluster_49",
       "coverage": 1,
       "updated_at": "Mon, 27 Apr 2026 18:12:04 +0000",
       "title": "China kills Meta’s acquisition of Manus as US-China AI rivalry deepens",
@@ -361,15 +274,15 @@
           "title": "China kills Meta’s acquisition of Manus as US-China AI rivalry deepens",
           "standfirst": "The unwinding of Meta’s deal shows how tech founders struggle to cut China ties.",
           "content": "China has blocked US tech giant Meta’s acquisition of the AI company Manus that was founded by Chinese tech entrepreneurs. That development indicates how difficult it has become for US and Chinese tech companies to strike and sustain such deals as government authorities on both sides take an increasingly hard line amid the deepening US-China AI rivalry. The Chinese government formally asked Meta to unwind the acquisition on April 27 after deciding to ban foreign investment in Manus based on national security concerns. It had already spent months officially scrutinizing Meta’s $2 billion acquisition of Manus that took place in December 2025—Chinese regulators announced they were reviewing the deal in January 2026 and instructed the two Manus cofounders to not leave China while the investigation was ongoing, according to The Wall Street Journal. Manus burst onto the scene in March 2025 with its “general AI agent,” designed to help users with tasks such as searching real estate sites for a new home or booking airline tickets and hotels for an international trip. The Manus AI agent is an “agentic wrapper” or “agentic harness” that enables an underlying AI model—in this case, Anthropic’s Claude 3.7 Sonnet—to take actions to carry out user requests. But Manus actually incorporates multiple AI agents to perform and verify tasks, including a planner agent that assigns tasks and an executor agent that can browse and interact with websites, create spreadsheets, use various software tools, and even code new applications.Read full article Comments",
-          "feed_position": 6,
+          "feed_position": 7,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Meta-and-Manus-logos-1024x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Meta-and-Manus-logos-1024x648.jpg",
-      "popularity_score": 302.45672527777776
+      "popularity_score": 286.3340727777778
     },
     {
-      "id": "cluster_31",
+      "id": "cluster_51",
       "coverage": 1,
       "updated_at": "Mon, 27 Apr 2026 18:00:35 +0000",
       "title": "Study: Infrasound likely a key factor in alleged hauntings",
@@ -385,15 +298,15 @@
           "title": "Study: Infrasound likely a key factor in alleged hauntings",
           "standfirst": "Low-frequency infrasound (below 20 Hz) can raise cortisol levels in saliva and increase irritability.",
           "content": "The next time you walk into a purportedly \"haunted\" house and sense a ghostly presence, consider that those feelings might be due to vibrating pipes, mechanical or climate control systems, rumbling from traffic, or wind turbines, rather than anything paranormal. That's the conclusion of a new paper published in the journal Frontiers in Behavioral Neuroscience. All of those are sources of infrasound. Scientists have long sought to find logical explanations for alleged hauntings. In 2003, for instance, University of Hertfordshire psychologist Richard Wiseman conducted two studies that investigated the psychological mechanisms underlying supposed \"ghostly\" activity. Subjects walked around Hampton Court Palace in Surrey, England, and the South Bridge Vaults in Edinburgh, Scotland—both with reputations for manifesting unusual phenomena—and reported back on which places at those sites they sensed such phenomena. The subjects reported more odd experiences in places rumored to be haunted, regardless of whether the subjects were aware of those rumors or not. Those areas did, however, feature variances in local magnetic fields, humidity, and lighting levels, suggesting that such sensations are simply people responding to normal environmental factors. Wiseman hypothesized that stronger magnetic fields may affect the brain, similar to how electrical stimulation of the angular gyrus can make one feel as if there is another person standing behind, mimicking one's movements.Read full article Comments",
-          "feed_position": 7,
+          "feed_position": 8,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/infrasound2-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/infrasound2-1152x648.jpg",
-      "popularity_score": 277.2653363888889
+      "popularity_score": 261.1426838888889
     },
     {
-      "id": "cluster_33",
+      "id": "cluster_53",
       "coverage": 1,
       "updated_at": "Mon, 27 Apr 2026 17:36:33 +0000",
       "title": "Steam Controller: The Ars Technica review",
@@ -409,39 +322,15 @@
           "title": "Steam Controller: The Ars Technica review",
           "standfirst": "Valve's new hardware is solid but might not justify its $99 price.",
           "content": "Since time immemorial, serious PC gamers have proselytized about the superiority of mouse and keyboard control schemes over the more input-limited handheld controllers used by most console gamers (and others). In recent years, though, many PC gamers have started keeping a spare Xbox controller (or similar) nearby for the increasing number of PC games designed primarily or exclusively with thumbsticks and buttons in mind. Valve's upcoming Steam Controller (not to be confused with the 2015 controller of the same name) is the Steam maker's effort to replace those controllers with something more explicitly designed for the PC, and for the upcoming Steam Machine. After spending a few weeks with the controller, though, we're not quite sure it sets itself apart from the competition enough to justify its high $99 asking price. The rear buttons are pretty perfectly positioned for your middle and ring fingers to rest comfortably. Credit: Kyle Orland There's a nice lip on the shoulder trigger to prevent your finger from sliding off the back. Credit: Kyle Orland The face buttons on the Steam Controller are suitably springy and responsive. Credit: Kyle Orland Baseline quality From the first time you hold a Steam Controller in your hands, it's clear that this is a well-made piece of hardware. There's a sturdy build quality to all the pieces that makes the controller feel solid in the hand, with just enough heft to feel substantial without being too heavy.Read full article Comments",
-          "feed_position": 8,
+          "feed_position": 9,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/sc8-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/sc8-1152x648.jpg",
-      "popularity_score": 274.8647808333333
+      "popularity_score": 258.7421283333333
     },
     {
-      "id": "cluster_57",
-      "coverage": 1,
-      "updated_at": "Mon, 27 Apr 2026 15:04:00 +0000",
-      "title": "National Science Board eviscerated; Trump admin fires all 22 members",
-      "neutral_headline": "National Science Board eviscerated; Trump admin fires all 22 members",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/04/national-science-board-eviscerated-trump-admin-fires-all-22-members/",
-          "published_at": "Mon, 27 Apr 2026 15:04:00 +0000",
-          "title": "National Science Board eviscerated; Trump admin fires all 22 members",
-          "standfirst": "Members had planned to release report that US is ceding scientific ground to China.",
-          "content": "All 22 members of the National Science Board were terminated by the Trump administration via a terse email on Friday. The administration has provided no explanation for purging the board, which helps steer the National Science Foundation and acts as an independent advisory body for the president and Congress on scientific and engineering issues, providing reports throughout the year. The ousters represent another severe blow to the NSF and the overall scientific enterprise in America. Members received a two-sentence email saying that, \"On behalf of President Donald J. Trump,\" their positions were \"terminated, effective immediately.\"Read full article Comments",
-          "feed_position": 9,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2221489911-1152x648-1753287237.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2221489911-1152x648-1753287237.jpg",
-      "popularity_score": 260.3222808333333
-    },
-    {
-      "id": "cluster_66",
+      "id": "cluster_80",
       "coverage": 1,
       "updated_at": "Mon, 27 Apr 2026 14:02:43 +0000",
       "title": "Gateway manufacturer finally acknowledges issue, fails to mention \"corrosion\"",
@@ -457,15 +346,15 @@
           "title": "Gateway manufacturer finally acknowledges issue, fails to mention \"corrosion\"",
           "standfirst": "\"At this time, further comments would be premature.\"",
           "content": "One of the more intriguing space stories in a while broke last week when NASA Administrator Jared Isaacman said during a congressional hearing that the two habitation modules built for the Lunar Gateway had been corroded. The immediate response to these comments on Wednesday before a House committee from some space industry observers was doubt—Isaacman, they said, must be lying. However, the primary contractor for the Habitation and Logistics Outpost, Northrop Grumman, soon acknowledged there was a manufacturing irregularity. On Friday, the European Space Agency, providing the other habitation module (I-HAB), acknowledged that there had been \"corrosion\" observed.Read full article Comments",
-          "feed_position": 11,
+          "feed_position": 12,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/halo-module-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/halo-module-1152x648.jpg",
-      "popularity_score": 158.30089194444446
+      "popularity_score": 152.17823944444444
     },
     {
-      "id": "cluster_83",
+      "id": "cluster_97",
       "coverage": 1,
       "updated_at": "Mon, 27 Apr 2026 10:45:31 +0000",
       "title": "Meet the players who lost big money on Peter Molyneux’s failed Legacy",
@@ -481,15 +370,15 @@
           "title": "Meet the players who lost big money on Peter Molyneux’s failed Legacy",
           "standfirst": "After millions in NFT sales, the hyped “play to earn” game was effectively dead in weeks.",
           "content": "This week, players are being asked to pay $25 for early access to Masters of Albion, a god game throwback that legendary designer Peter Molyneux (Populous, Dungeon Keeper, Black and White) says will be the last game he ever works on. But the players who poured roughly $54 million in cryptocurrency into Molyneux’s previous game, Legacy, say they're still bitter about getting swept up in Molyneux’s broken promises of a best-in-class economic simulation and the opportunity for “play to earn” riches. Legacy players who spoke to Ars Technica described pre-purchasing thousands of dollars' worth of NFTs, in some cases, to buy into the crypto-fueled vision offered by Molyneux, his development studio 22cans, and publisher Gala Games. Those players said the Legacy they got was a pale shadow of what was promised, with a broken-by-design economic system that caused players to abandon the game en masse within a couple of weeks of its 2023 launch. Despite the game's almost total failure as a going concern, though, Legacy rode the crest of the crypto hype wave to pre-sold economic success that Molyneux said “[gave] us the money to fund Masters of Albion,\" in a 2024 interview. \"That's what we used the majority of the money for…”Read full article Comments",
-          "feed_position": 12,
+          "feed_position": 13,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/milhouse-nft-pog-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/milhouse-nft-pog-1152x648.jpg",
-      "popularity_score": 155.01422527777777
+      "popularity_score": 148.89157277777778
     },
     {
-      "id": "cluster_64",
+      "id": "cluster_78",
       "coverage": 1,
       "updated_at": "Mon, 27 Apr 2026 14:12:41 +0000",
       "title": "Next El Niño could be tipping point for a hotter climate",
@@ -505,15 +394,15 @@
           "title": "Next El Niño could be tipping point for a hotter climate",
           "standfirst": "Pacific heat pulse is temporary, but scientists warn that its climate impacts are not.",
           "content": "The Pacific Ocean is a giant climate cauldron, with a powerful heat engine that affects storms, fisheries, and rainfall patterns half a world away, and scientists are watching closely to see if it’s about to boil over. Their projections suggest the tropical Pacific is simmering toward a strong El Niño, the warm phase of an ocean-atmosphere cycle that can intensify and shift those impacts. In a world already superheated by greenhouse gases, a strong El Niño during the next 12 to 18 months could permanently push the planet’s average annual temperature past the 1.5 degrees Celsius warming threshold enshrined in scientific documents and political agreements as a turning point for potentially irreversible climate impacts.Read full article Comments",
-          "feed_position": 10,
+          "feed_position": 11,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/amazondust-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/amazondust-1152x648.jpg",
-      "popularity_score": 151.46700305555555
+      "popularity_score": 145.34435055555556
     },
     {
-      "id": "cluster_102",
+      "id": "cluster_115",
       "coverage": 1,
       "updated_at": "Sun, 26 Apr 2026 17:20:55 +0000",
       "title": "Prime Video drops full trailer for Spider-Noir",
@@ -529,7 +418,7 @@
           "title": "Prime Video drops full trailer for Spider-Noir",
           "standfirst": "It's \"a detective story, but the detective happens to also have spider powers”—EP Chris Miller.",
           "content": "If your spider-sense is tingling, perhaps it's because Prime Video released the official full trailer for its upcoming live action series, Spider-Noir, at CCXPMX26 in Mexico City over the weekend. As it did with the first teaser back in February, the streaming platform released the trailer in two formats: one in black and white (above)—very Raymond Chandler-esque—and another in color (below), which the showrunners are calling “True Hue.” As previously reported, Marvel Comics created its “noir” line in 2009, reinterpreting familiar Marvel characters in an alternate universe, usually set during the Great Depression in the US. A version of the Spider-Noir character, voiced by Cage, briefly appeared in the animated masterpieces Spider-Man: Into the Spider-Verse (2018) and Across the Spider-Verse (2023). (He is set to reprise that role in the upcoming Beyond the Spider-Verse.) Co-showrunner (with Steve Lightfoot) Oren Uziel is a film noir fan, so that Marvel series naturally appealed to him. The live-action series is still set in 1930s New York, but the spidery superhero is not Peter Parker. (Uziel thought the Parker character was too associated with a boyish high school type, which didn’t really fit the noir vibe.) So Cage is playing Ben Reilly, a hard-boiled PI with a secret superhero identity, The Spider. Per the official premise: “Spider-Noir tells the story of Ben Reilly (Nicolas Cage), a seasoned, down on his luck private investigator in 1930s New York, who is forced to grapple with his past life, following a deeply personal tragedy, as the city’s one and only superhero.”Read full article Comments",
-          "feed_position": 14,
+          "feed_position": 15,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/spidey1-1152x648.jpg"
         }
       ],
@@ -537,7 +426,31 @@
       "popularity_score": 145
     },
     {
-      "id": "cluster_99",
+      "id": "cluster_72",
+      "coverage": 1,
+      "updated_at": "Mon, 27 Apr 2026 15:04:00 +0000",
+      "title": "National Science Board eviscerated; Trump admin fires all 22 members",
+      "neutral_headline": "National Science Board eviscerated; Trump admin fires all 22 members",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/04/national-science-board-eviscerated-trump-admin-fires-all-22-members/",
+          "published_at": "Mon, 27 Apr 2026 15:04:00 +0000",
+          "title": "National Science Board eviscerated; Trump admin fires all 22 members",
+          "standfirst": "Members had planned to release report that US is ceding scientific ground to China.",
+          "content": "All 22 members of the National Science Board were terminated by the Trump administration via a terse email on Friday. The administration has provided no explanation for purging the board, which helps steer the National Science Foundation and acts as an independent advisory body for the president and Congress on scientific and engineering issues, providing reports throughout the year. The ousters represent another severe blow to the NSF and the overall scientific enterprise in America. Members received a two-sentence email saying that, \"On behalf of President Donald J. Trump,\" their positions were \"terminated, effective immediately.\"Read full article Comments",
+          "feed_position": 10,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2221489911-1152x648-1753287237.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2221489911-1152x648-1753287237.jpg",
+      "popularity_score": 144.19962833333332
+    },
+    {
+      "id": "cluster_113",
       "coverage": 1,
       "updated_at": "Sun, 26 Apr 2026 19:52:22 +0000",
       "title": "Strange New Worlds S4 teaser strikes a more serious tone",
@@ -553,7 +466,7 @@
           "title": "Strange New Worlds S4 teaser strikes a more serious tone",
           "standfirst": "\"I have ever been prone to seek adventure and to investigate where wiser men would have left well enough alone.\"",
           "content": ". Paramount+ unveiled a new teaser for the upcoming fourth season of Star Trek: Strange New Worlds at CCXP in Mexico City over the weekend. (Some spoilers for prior seasons below.) The third season of Strange New Worlds was admittedly a bit uneven, with serious plot lines mixed in with some downright silly ones that divided fans. Arguably the most significant moment was bidding farewell to Melanie Scrofano's Marie Batel, Pike's (Anson Mount) love interest. Her parting gift to Pike: an illusory alternate life where she and Pike got to grow old together. So expect Pike to be dealing with her loss in the upcoming season, among other challenges.Read full article Comments",
-          "feed_position": 13,
+          "feed_position": 14,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/trekkie1-1152x648.jpg"
         }
       ],
@@ -561,7 +474,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_111",
+      "id": "cluster_120",
       "coverage": 1,
       "updated_at": "Sun, 26 Apr 2026 11:09:29 +0000",
       "title": "New robotic control software avoids jamming their joints",
@@ -577,7 +490,7 @@
           "title": "New robotic control software avoids jamming their joints",
           "standfirst": "Software lets robots learn from each other even if they have different hardware.",
           "content": "Switching from one smartphone to another is mostly a smooth procedure. You log into your accounts and your apps, preferences, and contacts should sync to the new hardware. But in the world of robotics, swapping an old robotic arm for a newer model has meant setting everything up from scratch. To fix that, a team of researchers at the Swiss École Polytechnique Fédérale de Lausanne (EPFL) has developed what they call Kinematic Intelligence, a framework that makes switching robots work more like switching smartphones. They describe their system in a recent Science Robotics paper. Demonstrating skills For years, roboticists have been working on getting robots to learn from demonstration—teaching them new skills by showing them what to do, rather than writing lines of code. The idea is to remotely control or physically guide the robot's arm to teach it a task like wiping a table, stacking boxes, or welding a car component. The problem is that most of these taught skills end up tied to the specific robot the training was done with.Read full article Comments",
-          "feed_position": 15,
+          "feed_position": 16,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1455924520-1152x648.jpg"
         }
       ],
