@@ -1,93 +1,8 @@
 {
-  "updated_at": "2026-04-30T20:05:39.551Z",
+  "updated_at": "2026-04-30T23:44:11.033Z",
   "clusters": [
     {
-      "id": "cluster_25",
-      "coverage": 4,
-      "updated_at": "Thu, 30 Apr 2026 14:30:01 -0400",
-      "title": "Musk v. Altman: when asked whether xAI has distilled OpenAI models, Elon Musk says the claim is \"partly\" true (Wired)",
-      "neutral_headline": "Elon Musk confirms xAI used OpenAI’s models to train Grok",
-      "bullet_summary": [
-        "Reported by TechMeme, The Verge, TechCrunch and others"
-      ],
-      "items": [
-        {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/260430/p43#a260430p43",
-          "published_at": "Thu, 30 Apr 2026 14:30:01 -0400",
-          "title": "Musk v. Altman: when asked whether xAI has distilled OpenAI models, Elon Musk says the claim is \"partly\" true (Wired)",
-          "standfirst": "Wired: Musk v. Altman: when asked whether xAI has distilled OpenAI models, Elon Musk says the claim is &ldquo;partly&rdquo; true &mdash; While answering questions under oath, Musk argued it's standard practice for AI labs to use their competitors' models. &mdash; While testifying on Thursday in federal court &hellip;",
-          "content": "Wired: Musk v. Altman: when asked whether xAI has distilled OpenAI models, Elon Musk says the claim is &ldquo;partly&rdquo; true &mdash; While answering questions under oath, Musk argued it's standard practice for AI labs to use their competitors' models. &mdash; While testifying on Thursday in federal court &hellip;",
-          "feed_position": 4,
-          "image_url": "http://www.techmeme.com/260430/i43.jpg"
-        },
-        {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/921546/elon-musk-xai-openai-trial-model-distillation",
-          "published_at": "2026-04-30T14:16:57-04:00",
-          "title": "Elon Musk confirms xAI used OpenAI’s models to train Grok",
-          "standfirst": "In a federal courtroom in California on Thursday, Elon Musk testified that his own AI startup, xAI, has used OpenAI's models to improve its own. The matter at question is model distillation, a common industry practice by which one larger AI model acts as a \"teacher\" of sorts to pass on knowledge to a smaller [&#8230;]",
-          "content": "In a federal courtroom in California on Thursday, Elon Musk testified that his own AI startup, xAI, has used OpenAI's models to improve its own. The matter at question is model distillation, a common industry practice by which one larger AI model acts as a \"teacher\" of sorts to pass on knowledge to a smaller AI model, the \"student.\" Although it's often used legitimately within companies using one of their own AI models to train another, it's also a practice that's sometimes used by smaller AI labs to try to get their models to mimic the performance of a larger competitor's model. Asked on the stand whether he knew what model distillation … Read the full story at The Verge.",
-          "feed_position": 7
-        },
-        {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
-          "published_at": "Thu, 30 Apr 2026 18:03:57 +0000",
-          "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
-          "standfirst": "\"Distillation\" is a hot topic as frontier labs try to prevent smaller competitors from copying their models.",
-          "content": "\"Distillation\" is a hot topic as frontier labs try to prevent smaller competitors from copying their models.",
-          "feed_position": 5
-        },
-        {
-          "source": "Wired Tech",
-          "url": "https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/",
-          "published_at": "Thu, 30 Apr 2026 17:41:14 +0000",
-          "title": "Elon Musk Seemingly Admits xAI Has Used OpenAI’s Models to Train Its Own",
-          "standfirst": "While answering questions under oath, Musk argued it’s standard practice for AI labs to use their competitors’ models.",
-          "content": "While answering questions under oath, Musk argued it’s standard practice for AI labs to use their competitors’ models.",
-          "feed_position": 3,
-          "image_url": "https://media.wired.com/photos/69f3848c17e0528daa0ec80c/master/pass/Musk-Admits-to-Partly-Distilling-OpenAI-Models-Business-2273133893.jpg"
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/260430/i43.jpg",
-      "popularity_score": 4018.4059580555554
-    },
-    {
-      "id": "cluster_5",
-      "coverage": 2,
-      "updated_at": "Thu, 30 Apr 2026 19:48:57 +0000",
-      "title": "You can now choose which games use Quick Resume on Xbox",
-      "neutral_headline": "You can now choose which games use Quick Resume on Xbox",
-      "bullet_summary": [
-        "Reported by Engadget, The Verge"
-      ],
-      "items": [
-        {
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2161516/you-can-now-choose-which-games-use-quick-resume-on-xbox/",
-          "published_at": "Thu, 30 Apr 2026 19:48:57 +0000",
-          "title": "You can now choose which games use Quick Resume on Xbox",
-          "standfirst": "The option is part of a collection of updates Microsoft is making to consoles and the Xbox PC app.",
-          "content": "The option is part of a collection of updates Microsoft is making to consoles and the Xbox PC app.",
-          "feed_position": 0,
-          "image_url": "https://www.engadget.com/img/gallery/you-can-now-choose-which-games-use-quick-resume-on-xbox/l-intro-1777578458.jpg"
-        },
-        {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/games/921504/xbox-update-quick-resume-disable",
-          "published_at": "2026-04-30T13:51:26-04:00",
-          "title": "Xbox owners can now disable Quick Resume for specific games",
-          "standfirst": "Microsoft has released a new Xbox update that adds a bunch of new features, including the ability to disable Quick Resume for individual games. Quick Resume, which lets you swap between your games with minimal wait time, is one of the best features on the Xbox Series X / S consoles. But it can also [&#8230;]",
-          "content": "Microsoft has released a new Xbox update that adds a bunch of new features, including the ability to disable Quick Resume for individual games. Quick Resume, which lets you swap between your games with minimal wait time, is one of the best features on the Xbox Series X / S consoles. But it can also run into unexpected issues with multiplayer games or titles that require a constant internet connection. \"We've heard your feedback around performance after long periods of inactivity or with games that rely heavily on online connections,\" Microsoft says. With Thursday's update, Microsoft also lets you make up to ten groups on their Home scree … Read the full story at The Verge.",
-          "feed_position": 8
-        }
-      ],
-      "featured_image": "https://www.engadget.com/img/gallery/you-can-now-choose-which-games-use-quick-resume-on-xbox/l-intro-1777578458.jpg",
-      "popularity_score": 2019.721513611111
-    },
-    {
-      "id": "cluster_13",
+      "id": "cluster_38",
       "coverage": 2,
       "updated_at": "Thu, 30 Apr 2026 15:10:14 -0400",
       "title": "Google is rolling out Gemini to cars that have Google built in, replacing Google Assistant, starting with English in the US (Jess Weatherbed/The Verge)",
@@ -103,7 +18,7 @@
           "title": "Google is rolling out Gemini to cars that have Google built in, replacing Google Assistant, starting with English in the US (Jess Weatherbed/The Verge)",
           "standfirst": "Jess Weatherbed / The Verge: Google is rolling out Gemini to cars that have Google built in, replacing Google Assistant, starting with English in the US &mdash; &#65279;The current Google Assistant is being replaced with a smarter, more conversational upgrade. &hellip; Google is preparing to update vehicles that have Google built-in with its Gemini AI assistant.",
           "content": "Jess Weatherbed / The Verge: Google is rolling out Gemini to cars that have Google built in, replacing Google Assistant, starting with English in the US &mdash; &#65279;The current Google Assistant is being replaced with a smarter, more conversational upgrade. &hellip; Google is preparing to update vehicles that have Google built-in with its Gemini AI assistant.",
-          "feed_position": 2,
+          "feed_position": 14,
           "image_url": "http://www.techmeme.com/260430/i45.jpg"
         },
         {
@@ -113,82 +28,192 @@
           "title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles",
           "standfirst": "The move signals Google’s push to bring more advanced, conversational AI into the driving experience.",
           "content": "The move signals Google’s push to bring more advanced, conversational AI into the driving experience.",
-          "feed_position": 7
+          "feed_position": 10
         }
       ],
       "featured_image": "http://www.techmeme.com/260430/i45.jpg",
-      "popularity_score": 2019.0762358333334
+      "popularity_score": 2015.4341575
     },
     {
-      "id": "cluster_35",
+      "id": "cluster_50",
       "coverage": 2,
-      "updated_at": "Thu, 30 Apr 2026 17:43:10 +0000",
-      "title": "Senate Judiciary Committee unanimously approves AI chatbot age verification",
-      "neutral_headline": "Senate Judiciary Committee unanimously approves AI chatbot age verification",
+      "updated_at": "Thu, 30 Apr 2026 18:03:57 +0000",
+      "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
+      "neutral_headline": "Elon Musk testifies that xAI trained Grok on OpenAI models",
       "bullet_summary": [
-        "Reported by Engadget, TechMeme"
+        "Reported by TechCrunch, Wired Tech"
       ],
       "items": [
         {
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2161370/senate-judiciary-committee-unanimously-approves-ai-chatbot-age-verification/",
-          "published_at": "Thu, 30 Apr 2026 17:43:10 +0000",
-          "title": "Senate Judiciary Committee unanimously approves AI chatbot age verification",
-          "standfirst": "It's a rare moment of working across the aisle.",
-          "content": "It's a rare moment of working across the aisle.",
-          "feed_position": 6,
-          "image_url": "https://www.engadget.com/img/gallery/senate-judiciary-committee-unanimously-approves-ai-chatbot-age-verification/l-intro-1777570879.jpg"
-        },
-        {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/260430/p37#a260430p37",
-          "published_at": "Thu, 30 Apr 2026 12:30:01 -0400",
-          "title": "The US Senate Judiciary Committee unanimously endorses a bipartisan child safety bill requiring AI companies like OpenAI and Meta to implement age verification (Emily Birnbaum/Bloomberg)",
-          "standfirst": "Emily Birnbaum / Bloomberg: The US Senate Judiciary Committee unanimously endorses a bipartisan child safety bill requiring AI companies like OpenAI and Meta to implement age verification &mdash; A powerful Senate committee backed legislation to require OpenAI, Meta Platforms Inc. and other artificial intelligence companies &hellip;",
-          "content": "Emily Birnbaum / Bloomberg: The US Senate Judiciary Committee unanimously endorses a bipartisan child safety bill requiring AI companies like OpenAI and Meta to implement age verification &mdash; A powerful Senate committee backed legislation to require OpenAI, Meta Platforms Inc. and other artificial intelligence companies &hellip;",
-          "feed_position": 10,
-          "image_url": "http://www.techmeme.com/260430/i37.jpg"
-        }
-      ],
-      "featured_image": "https://www.engadget.com/img/gallery/senate-judiciary-committee-unanimously-approves-ai-chatbot-age-verification/l-intro-1777570879.jpg",
-      "popularity_score": 2017.6251247222222
-    },
-    {
-      "id": "cluster_47",
-      "coverage": 2,
-      "updated_at": "Thu, 30 Apr 2026 13:05:01 -0400",
-      "title": "Live Updates: Elon Musk Faces Contentious Questions at OpenAI Trial (New York Times)",
-      "neutral_headline": "How Elon Musk Squeezed OpenAI: They ‘Are Gonna Want to Kill Me’",
-      "bullet_summary": [
-        "Reported by TechMeme, Wired Tech"
-      ],
-      "items": [
-        {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/260430/p38#a260430p38",
-          "published_at": "Thu, 30 Apr 2026 13:05:01 -0400",
-          "title": "Live Updates: Elon Musk Faces Contentious Questions at OpenAI Trial (New York Times)",
-          "standfirst": "New York Times: Live Updates: Elon Musk Faces Contentious Questions at OpenAI Trial &mdash; On his third day of testimony, Elon Musk is being cross-examined by lawyers from OpenAI and Microsoft. His answers on the stand grew testy on Wednesday. &mdash; Here's the latest. &mdash; Elon Musk is on the stand for his third &hellip;",
-          "content": "New York Times: Live Updates: Elon Musk Faces Contentious Questions at OpenAI Trial &mdash; On his third day of testimony, Elon Musk is being cross-examined by lawyers from OpenAI and Microsoft. His answers on the stand grew testy on Wednesday. &mdash; Here's the latest. &mdash; Elon Musk is on the stand for his third &hellip;",
-          "feed_position": 9,
-          "image_url": "http://www.techmeme.com/260430/i38.jpg"
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
+          "published_at": "Thu, 30 Apr 2026 18:03:57 +0000",
+          "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
+          "standfirst": "\"Distillation\" is a hot topic as frontier labs try to prevent smaller competitors from copying their models.",
+          "content": "\"Distillation\" is a hot topic as frontier labs try to prevent smaller competitors from copying their models.",
+          "feed_position": 8
         },
         {
           "source": "Wired Tech",
-          "url": "https://www.wired.com/story/model-behavior-elon-musk-cross-examined-sam-altman/",
-          "published_at": "Wed, 29 Apr 2026 23:41:51 +0000",
-          "title": "How Elon Musk Squeezed OpenAI: They ‘Are Gonna Want to Kill Me’",
-          "standfirst": "Tensions flared on the third day of trial in Musk v. Altman as OpenAI’s lawyers cross-examined Musk.",
-          "content": "Tensions flared on the third day of trial in Musk v. Altman as OpenAI’s lawyers cross-examined Musk.",
-          "feed_position": 20,
-          "image_url": "https://media.wired.com/photos/69f2443b51254f9508013a9a/master/pass/Model-Behavior-Musk-Grilled-by-OpenAI-Lawyers-Business.jpg"
+          "url": "https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/",
+          "published_at": "Thu, 30 Apr 2026 17:41:14 +0000",
+          "title": "Elon Musk Seemingly Admits xAI Has Used OpenAI’s Models to Train Its Own",
+          "standfirst": "While answering questions under oath, Musk argued it’s standard practice for AI labs to use their competitors’ models.",
+          "content": "While answering questions under oath, Musk argued it’s standard practice for AI labs to use their competitors’ models.",
+          "feed_position": 4,
+          "image_url": "https://media.wired.com/photos/69f3848c17e0528daa0ec80c/master/pass/Musk-Admits-to-Partly-Distilling-OpenAI-Models-Business-2273133893.jpg"
         }
       ],
-      "featured_image": "http://www.techmeme.com/260430/i38.jpg",
-      "popularity_score": 2016.989291388889
+      "featured_image": "https://media.wired.com/photos/69f3848c17e0528daa0ec80c/master/pass/Musk-Admits-to-Partly-Distilling-OpenAI-Models-Business-2273133893.jpg",
+      "popularity_score": 2014.3294352777777
     },
     {
-      "id": "cluster_12",
+      "id": "cluster_7",
+      "coverage": 1,
+      "updated_at": "Thu, 30 Apr 2026 21:53:48 +0000",
+      "title": "US falls below Ukraine in press freedom as global autocracy takes hold",
+      "neutral_headline": "US falls below Ukraine in press freedom as global autocracy takes hold",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/04/us-falls-below-ukraine-in-press-freedom-as-global-autocracy-takes-hold/",
+          "published_at": "Thu, 30 Apr 2026 21:53:48 +0000",
+          "title": "US falls below Ukraine in press freedom as global autocracy takes hold",
+          "standfirst": "\"In 25 years, the average score... has never been so low.\"",
+          "content": "From watching too much Nordic noir, I have learned the key lessons to Scandinavian safety: Stay out of the deep woods, avoid all \"rustic villagers,\" flee every solstice or equinox ritual, and run screaming from any creature (human or otherwise) wearing antlers in the wrong anatomical location. But assuming you can avoid pagan magic and the \"old gods,\" Nordic countries do well on many other measures of human development. In the most recent World Happiness Report, for example, Finland tops the list while Iceland, Denmark, Sweden, and Norway are all in the top six. (Costa Rica is the non-Nordic exception here, taking the fourth spot.) These countries are also near the top in global average life expectancy.Read full article Comments",
+          "feed_position": 1,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2178705928-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2178705928-1152x648.jpg",
+      "popularity_score": 356.1602686111111
+    },
+    {
+      "id": "cluster_9",
+      "coverage": 1,
+      "updated_at": "Thu, 30 Apr 2026 21:35:02 +0000",
+      "title": "Russia cloaks launch schedule after spaceport falls in Ukraine's sights",
+      "neutral_headline": "Russia cloaks launch schedule after spaceport falls in Ukraine's sights",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/04/russian-cloaks-launch-schedule-after-spaceport-falls-in-ukraines-sights/",
+          "published_at": "Thu, 30 Apr 2026 21:35:02 +0000",
+          "title": "Russia cloaks launch schedule after spaceport falls in Ukraine's sights",
+          "standfirst": "\"We had serious inbound attempts to the cosmodrome that day.\"",
+          "content": "If you believe official Russian reports, the country's northern spaceport has come under attack from drones on multiple occasions in the last few months. The drones did not succeed in striking the spaceport, but the attempted attacks come as Russia ramps up activity at Plesetsk Cosmodrome to deploy a new constellation of Internet and data relay satellites akin to SpaceX's Starlink, a space-based network underpinning much of Ukraine's military communications infrastructure. Plesetsk is a military base located in Russia's Arkhangelsk region, some 500 miles north of Moscow. The Russian space agency's first acknowledgment of an attempted drone attack at Plesetsk came a few weeks ago, when the head of Roscosmos, the Russian state corporation for civilian spaceflight, met with Russian President Vladimir Putin in the Kremlin.Read full article Comments",
+          "feed_position": 2,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/soyuz_plesetsk_pre1-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/soyuz_plesetsk_pre1-1152x648.jpg",
+      "popularity_score": 353.8474908333333
+    },
+    {
+      "id": "cluster_6",
+      "coverage": 1,
+      "updated_at": "Thu, 30 Apr 2026 22:09:36 +0000",
+      "title": "Trump nominates Fox News doctor to be the next surgeon general",
+      "neutral_headline": "Trump nominates Fox News doctor to be the next surgeon general",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/04/trump-nominates-fox-news-doctor-to-be-the-next-surgeon-general/",
+          "published_at": "Thu, 30 Apr 2026 22:09:36 +0000",
+          "title": "Trump nominates Fox News doctor to be the next surgeon general",
+          "standfirst": "Trump lashes out at Cassidy while announcing his new nomination.",
+          "content": "In a series of social media posts Thursday, President Trump withdrew his nomination of Make America Health Again influencer Casey Means to be surgeon general, lashed out at Sen. Bill Cassidy (R-La.) for Means' stalled nomination in the Senate, then announced a new nominee: Nicole B. Saphier, a breast radiologist at Memorial Sloan Kettering Cancer Center, a Fox News contributor, and founder of an herbal supplement company who has questioned vaccines. Trump's abandonment of Means comes as no surprise. The nomination of the Stanford University-trained doctor has been stalled in the Senate since her February confirmation hearing before the Senate Health, Education, Labor, and Pensions (HELP) Committee, which Cassidy chairs. Afterward, it became clear that several Republican lawmakers, including Cassidy, had reservations about her nomination. Doubts about Means Specifically, concerns centered around her vaccine views and qualifications. Although she has a medical degree, she dropped out of her medical residency and does not hold an active license, which means, if confirmed, she would serve as the country's top doctor without being able to practice medicine. During her hearing, she largely tried to skirt questions about vaccines, avoiding explicitly recommending lifesaving shots or contradicting the views of anti-vaccine Health Secretary Robert F. Kennedy Jr.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2188445138-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2188445138-1152x648.jpg",
+      "popularity_score": 351.42360194444444
+    },
+    {
+      "id": "cluster_13",
+      "coverage": 1,
+      "updated_at": "Thu, 30 Apr 2026 21:11:51 +0000",
+      "title": "Elon Musk's 7 biggest stumbles on the stand at OpenAI trial",
+      "neutral_headline": "Elon Musk's 7 biggest stumbles on the stand at OpenAI trial",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/04/elon-musks-7-biggest-stumbles-on-the-stand-at-openai-trial/",
+          "published_at": "Thu, 30 Apr 2026 21:11:51 +0000",
+          "title": "Elon Musk's 7 biggest stumbles on the stand at OpenAI trial",
+          "standfirst": "Elon Musk spent three days testifying as the first witness in his trial against OpenAI.",
+          "content": "Elon Musk seems tired and cranky. On Thursday, he took the stand for the third day in a four-week trial stemming from his lawsuit alleging that OpenAI abandoned its mission and should be blocked from taking the company public later this year. If Musk plays his cards right, Sam Altman could be ousted and OpenAI would remain a nonprofit forever. But Musk stumbled at least seven times in ways that possibly put his chances at winning in jeopardy. Most notable, 1) OpenAI's lawyer managed to get him to make several concessions over his own lawyer's objections. 2) He also lost a fight to keep xAI's safety record off the table, calling his reputation as a supposed AI savior defending OpenAI's mission into question. 3) He repeatedly appeared dishonest, as OpenAI's lawyer showed documents contradicting his testimony. And he twice appeared disingenuous, 4) first when confronted with calling OpenAI's safety team \"jackasses,\" 5) and then again when admitting that he didn't know what \"safety cards\" are, even though his own AI firm issues them. Perhaps most embarrassing, 6) he testified that he never loses his temper before raising his voice at OpenAI's lawyer. And finally, 7) his lawyers failed to keep his ties to Donald Trump off the record, with the judge agreeing to hear discussions that might further discredit Musk's testimony. Musk faced Altman while testifying Since he was called as the trial's first witness, Musk has spent more than seven hours over the past two days testifying that OpenAI made a \"fool\" out of him. He repeatedly claimed that OpenAI executives \"stole a charity\" after accepting $38 million in donations. Musk insists he was conned into giving \"free funding\" to start a nonprofit that Altman supposedly always intended to turn into an $800 billion company—not for the benefit of humanity, but to enrich Altman and his co-conspirators.Read full article Comments",
+          "feed_position": 3,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2273014098-1024x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2273014098-1024x648.jpg",
+      "popularity_score": 335.46110194444447
+    },
+    {
+      "id": "cluster_22",
+      "coverage": 1,
+      "updated_at": "Thu, 30 Apr 2026 20:20:48 +0000",
+      "title": "The most severe Linux threat to surface in years catches the world flat-footed",
+      "neutral_headline": "The most severe Linux threat to surface in years catches the world flat-footed",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/",
+          "published_at": "Thu, 30 Apr 2026 20:20:48 +0000",
+          "title": "The most severe Linux threat to surface in years catches the world flat-footed",
+          "standfirst": "CopyFail threatens multi-tenant servers, CI/CD work flows, Kubernetes containers, and more.",
+          "content": "Publicly released exploit code for an effectively unpatched vulnerability that gives root access to virtually all releases of Linux is setting off alarm bells as defenders scramble to ward off severe compromises inside data centers and on personal devices. The vulnerability and exploit code that exploits it were released Wednesday evening by researchers from security firm Theori, five weeks after privately disclosing it to the Linux kernel security team. The team patched the vulnerability in versions 7.0, 6.19.12, 6.18.12, 6.12.85, 6.6.137, 6.1.170, 5.15.204, and 5.10.254) but few of the Linux distributions had incorporated those fixes at the time the exploit was released. A single script hacks all distros The critical flaw, tracked as CVE-2026-31431 and the name CopyFail, is a local privilege escalation, a vulnerability class that allows unprivileged users to elevate themselves to administrators. CopyFail is particularly severe because it can be exploited with a single piece of exploit code—released in Wednesday’s disclosure—that works across all vulnerable distributions with no modification. With that, an attacker can, among other things, hack multi-tenant systems, break out of containers based on Kubernetes or other frameworks, and create malicious pull requests that pipe the exploit code through CI/CD work flows.Read full article Comments",
+          "feed_position": 4,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg",
+      "popularity_score": 315.6102686111111
+    },
+    {
+      "id": "cluster_28",
+      "coverage": 1,
+      "updated_at": "Thu, 30 Apr 2026 19:55:18 +0000",
+      "title": "Meta cuts contractors who reported seeing Ray-Ban Meta users have sex",
+      "neutral_headline": "Meta cuts contractors who reported seeing Ray-Ban Meta users have sex",
+      "bullet_summary": [
+        "Meta said the Kenyan workers didn't \"meet our standards",
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/04/meta-cuts-contractors-who-reported-seeing-ray-ban-meta-users-have-sex/",
+          "published_at": "Thu, 30 Apr 2026 19:55:18 +0000",
+          "title": "Meta cuts contractors who reported seeing Ray-Ban Meta users have sex",
+          "standfirst": "Meta said the Kenyan workers didn't \"meet our standards.\"",
+          "content": "In February, numerous workers from a company that Meta contracted to perform data annotation for Ray-Ban Meta reported viewing sensitive, embarrassing, and seemingly private footage recorded by the smart glasses. About two months later, Meta ended its contract with the firm. According to a BBC report today, “less than two months” after a report from Swedish newspapers Svenska Dagbladet and Göteborgs-Posten and Kenya-based freelance journalist Naipanoi Lepapa came out featuring Sama workers complaining about watching explicit footage shot from Ray-Ban Metas, “Meta ended its contract with Sama.” Sama is a Kenya-headquartered firm that Meta contracted to perform data annotation work, including working with video, image, and speech annotation for Meta’s AI systems for Ray-Ban Metas. Sama claims that Meta's cancellation of the contract affected 1,108 workers.Read full article Comments",
+          "feed_position": 5,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/unnamed-874x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/unnamed-874x648.jpg",
+      "popularity_score": 299.1852686111111
+    },
+    {
+      "id": "cluster_37",
       "coverage": 1,
       "updated_at": "Thu, 30 Apr 2026 19:12:26 +0000",
       "title": "Blue Origin certainly has ambitious launch targets for New Glenn",
@@ -204,15 +229,15 @@
           "title": "Blue Origin certainly has ambitious launch targets for New Glenn",
           "standfirst": "If Blue Origin wants to launch New Glenn 100 times a year, we're here for it.",
           "content": "Earlier this week, Blue Origin posted a job opportunity for a \"senior manager\" to oversee tank fabrication for \"Quattro,\" and the description contained some intriguing information. \"As part of a hardworking team of specialists, technicians, and engineers you will be the Senior Manager of Gen 2.0 Tank Fabrication, and will own the production execution of the most structurally complex and schedule-critical subsystem on the vehicle—the propellant tank,\" the job posting states. Quattro is the company's nickname for a more powerful upper stage for the New Glenn rocket, which will feature four BE-3U engines instead of the two currently powering the booster. Blue Origin revealed plans for this more powerful variant of New Glenn, 9x4 (nine first stage engines, and four upper stage engines), last November.Read full article Comments",
-          "feed_position": 1,
+          "feed_position": 7,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/new-glenn-9x4-1-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/new-glenn-9x4-1-1152x648.jpg",
-      "popularity_score": 357.1129025
+      "popularity_score": 293.47082416666666
     },
     {
-      "id": "cluster_16",
+      "id": "cluster_41",
       "coverage": 1,
       "updated_at": "Thu, 30 Apr 2026 19:02:10 +0000",
       "title": "Stranded traveler gets more than he bargained for in Resident Evil teaser",
@@ -227,41 +252,16 @@
           "published_at": "Thu, 30 Apr 2026 19:02:10 +0000",
           "title": "Stranded traveler gets more than he bargained for in Resident Evil teaser",
           "standfirst": "Fresh off the Oscar-winning Weapons, director Zach Cregger has his own vision for the gaming franchise.",
-          "content": "The Resident Evil film franchise has grossed over $1.2 billion worldwide since the first film debuted in 2002, but an attempt to reboot it a few years ago floundered. Sony Pictures is trying again, this time tapping Zach Cregger—who wrote, produced, and directed last year's Oscar-winning horror hit Weapons—for the project. The studio showed the first teaser for Cregger's Resident Evil during CinemaCon and just released it to the public. When the first Resident Evil game debuted in 1996, it was an immediate commercial and critical success, spawning several sequel games, comics, novels, and a very lucrative film franchise directed by Paul W.S. Anderson and starring Milla Jovovich. But those films were only loosely based on the games, keeping a few primary characters and the basic concept, but little else. Reviews were mixed, despite the films' massive box office success. Work on the first reboot started in 2017, eventually producing 2021's Resident Evil: Welcome to Raccoon City. Director Roberts Johannes wanted to bring a very different tone to his film. He wanted to stay closer to the Resident Evil and Resident Evil 2 games—even employing the same fixed angles of Spencer Mansion in the first game. Alas, Welcome to Raccoon City was critically panned and had a disappointing box office showing, grossing just $42 million globally against its $25 million budget. The studio nixed its plans for a direct sequel, and a 2022 Netflix series was also cancelled after a less-than-stellar first season.Read full article Comments",
-          "feed_position": 2,
+          "content": "The Resident Evil film franchise has grossed over $1.2 billion worldwide since the first film debuted in 2002, but an attempt to reboot it a few years ago floundered. Sony Pictures is trying again, this time tapping Zach Cregger—who wrote, produced, and directed last year's Oscar-winning horror hit Weapons—for the project. The studio showed the first teaser for Cregger's Resident Evil during CinemaCon and just released it to the wider public. When the first Resident Evil game debuted in 1996, it was an immediate commercial and critical success, spawning several sequel games, comics, novels, and a very lucrative film franchise directed by Paul W.S. Anderson and starring Milla Jovovich. But those films were only loosely based on the games, keeping a few primary characters and the basic concept, but little else. Reviews were mixed, despite the films' massive box office success. Work on the first reboot started in 2017, eventually producing 2021's Resident Evil: Welcome to Raccoon City. Director Roberts Johannes wanted to bring a very different tone to his film. He wanted to stay closer to the Resident Evil and Resident Evil 2 games—even employing the same fixed angles of Spencer Mansion in the first game. Alas, Welcome to Raccoon City was critically panned and had a disappointing box office showing, grossing just $42 million globally against its $25 million budget. The studio nixed its plans for a direct sequel, and a 2022 Netflix series was also canceled after a less-than-stellar first season.Read full article Comments",
+          "feed_position": 8,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/evil1-1152x648-1777574518.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/evil1-1152x648-1777574518.jpg",
-      "popularity_score": 352.9417913888889
+      "popularity_score": 289.29971305555557
     },
     {
-      "id": "cluster_3",
-      "coverage": 1,
-      "updated_at": "Thu, 30 Apr 2026 19:55:18 +0000",
-      "title": "Meta cuts contractors who reported seeing Ray-Ban Meta users have sex",
-      "neutral_headline": "Meta cuts contractors who reported seeing Ray-Ban Meta users have sex",
-      "bullet_summary": [
-        "Meta said the Kenyan workers didn't \"meet our standards",
-        "Reported by Ars Technica Main"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica Main",
-          "url": "https://arstechnica.com/gadgets/2026/04/meta-cuts-contractors-who-reported-seeing-ray-ban-meta-users-have-sex/",
-          "published_at": "Thu, 30 Apr 2026 19:55:18 +0000",
-          "title": "Meta cuts contractors who reported seeing Ray-Ban Meta users have sex",
-          "standfirst": "Meta said the Kenyan workers didn't \"meet our standards.\"",
-          "content": "In February, numerous workers from a company that Meta contracted to perform data annotation for Ray-Ban Meta reported viewing sensitive, embarrassing, and seemingly private footage recorded by the smart glasses. About two months later, Meta ended its contract with the firm. According to a BBC report today, “less than two months” after a report from Swedish newspapers Svenska Dagbladet and Göteborgs-Posten and Kenya-based freelance journalist Naipanoi Lepapa came out featuring Sama workers complaining about watching explicit footage shot from Ray-Ban Metas, “Meta ended its contract with Sama.” Sama is a Kenya-headquartered firm that Meta contracted to perform data annotation work, including working with video, image, and speech annotation for Meta’s AI systems for Ray-Ban Metas. Sama claims that Meta's cancellation of the contract affected 1,108 workers.Read full article Comments",
-          "feed_position": 0,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/unnamed-874x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/unnamed-874x648.jpg",
-      "popularity_score": 352.82734694444446
-    },
-    {
-      "id": "cluster_8",
+      "id": "cluster_33",
       "coverage": 1,
       "updated_at": "Thu, 30 Apr 2026 19:34:15 +0000",
       "title": "Researchers try to cut the genetic code from 20 to 19 amino acids",
@@ -277,15 +277,15 @@
           "title": "Researchers try to cut the genetic code from 20 to 19 amino acids",
           "standfirst": "Using AI tools, the team reworked part of the ribosome to need one less amino acid.",
           "content": "The genetic code is central to life. With minor variations, everything uses the same sets of three DNA bases to encode the same 20 amino acids. We have discovered no major exceptions to this, leading researchers to conclude that this code probably dated back to the last common ancestor of all life on Earth. But there has been a lot of informed speculation about how that genetic code initially evolved. Most hypotheses suggest that earlier forms of life had partial genetic codes and used fewer than 20 amino acids. To test these hypotheses, a team from Columbia and Harvard decided to see if they could get rid of one of the 20 currently in use. And, as a first attempt, they engineered a portion of the ribosome that worked without using an otherwise essential amino acid: isoleucine. Changing the code First off, why would you do this? Most work in the field has focused on altering the genetic code in ways that are useful, such as using more than 20 amino acids to enable interesting chemistry.Read full article Comments",
-          "feed_position": 0,
+          "feed_position": 6,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2251354672-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2251354672-1152x648.jpg",
-      "popularity_score": 352.4765136111111
+      "popularity_score": 288.8344352777778
     },
     {
-      "id": "cluster_34",
+      "id": "cluster_54",
       "coverage": 1,
       "updated_at": "Thu, 30 Apr 2026 17:47:17 +0000",
       "title": "Beijing bans drone sales even as rest of world buys Chinese drones",
@@ -301,87 +301,15 @@
           "title": "Beijing bans drone sales even as rest of world buys Chinese drones",
           "standfirst": "Beijing's citywide ban restricts the sale, transport, and storage of drones.",
           "content": "China’s new clampdown on drone sales and even the storage of drone components within the capital of Beijing stands out in a country that effectively built the global market for affordable commercial drones. The unprecedented citywide rules taking effect on May 1 come as authorities tighten drone regulations across the country and enforce flight restrictions more strictly. Chinese officials are refining drone regulations because “enforcement and rules have been uneven or unclear,” said Lizzi C. Lee, a fellow on the Chinese economy at the Asia Society Policy Institute’s Center for China Analysis in New York City. Now it appears that Beijing officials are “experimenting with a more comprehensive, front-end approach” by implementing the citywide ban on drone sales and rentals—not to mention restricting the storage of drones and drone components within the city. “What’s pretty notable here is that this is not just about regulating use but also about controlling the entire lifecycle—sales, transport, and storage—of drones,” Lee told Ars. “That’s a much more preventive, system-level approach to eliminating unauthorized drone activity rather than just policing them after the fact.”Read full article Comments",
-          "feed_position": 3,
+          "feed_position": 9,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2265042408-1024x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2265042408-1024x648.jpg",
-      "popularity_score": 326.69373583333333
+      "popularity_score": 263.0516575
     },
     {
-      "id": "cluster_61",
-      "coverage": 1,
-      "updated_at": "Thu, 30 Apr 2026 15:37:41 +0000",
-      "title": "In motorsport, there's nowhere to hide as AI becomes new CFD tool",
-      "neutral_headline": "In motorsport, there's nowhere to hide as AI becomes new CFD tool",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/04/in-motorsport-theres-nowhere-to-hide-as-ai-becomes-new-cfd-tool/",
-          "published_at": "Thu, 30 Apr 2026 15:37:41 +0000",
-          "title": "In motorsport, there's nowhere to hide as AI becomes new CFD tool",
-          "standfirst": "AI finds value in motorsport, multiplying limited computational fluid dynamics resources.",
-          "content": "Since the introduction of wings to racing cars halfway through the 1960s, airflow has been everything in racing. Until that point, the focus was on making a car as slippery as possible; less drag meant more top speed on the straights. Then designers like Jim Hall at Chaparral and Colin Chapman at Lotus realized they could use the air to push the car onto the track, increasing grip and allowing it to go faster through the corners. Things haven't been the same since. Finding aerodynamic downforce started as something of a dark art. The use of wind tunnels to simulate its effect on scale models of cars was in its infancy, so teams were mostly limited to expensive and sometimes dangerous track testing. But wind tunnels can run day and night, rain or shine, and you can't crash a car or injure a driver (or worse) in the process. Wind tunnel work became even more important when F1 began restricting on-track testing to help teams cut budgets. Consequently, teams would do as much work with models as possible before validating the results during the limited test sessions they were allowed. Computational fluid dynamics (CFD) simulation came next. In racing, everyone is looking for an advantage over their competitors, and it was finally possible to model, with some fidelity, the effect of airflow on a virtual model of a car. Not only were CFD sims cheaper than wind tunnel time, but they were also much faster at iterating. Early design work is now done in silico before being validated with scale models in a wind tunnel, as most series—including Formula 1, the World Endurance Championship, Formula E, and NASCAR—have tightly restricted on-track testing.Read full article Comments",
-          "feed_position": 5,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/LMP2-concept-car-rendering-for-IBM-AI-physics-model-01-credit-Dallara-1152x648.png"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/LMP2-concept-car-rendering-for-IBM-AI-physics-model-01-credit-Dallara-1152x648.png",
-      "popularity_score": 310.5337358333333
-    },
-    {
-      "id": "cluster_52",
-      "coverage": 1,
-      "updated_at": "Thu, 30 Apr 2026 16:20:45 +0000",
-      "title": "RFK Jr. appeals ruling that wiped out his vaccine advisory panel",
-      "neutral_headline": "RFK Jr. appeals ruling that wiped out his vaccine advisory panel",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/health/2026/04/rfk-jr-appeals-ruling-that-wiped-out-his-vaccine-advisory-panel/",
-          "published_at": "Thu, 30 Apr 2026 16:20:45 +0000",
-          "title": "RFK Jr. appeals ruling that wiped out his vaccine advisory panel",
-          "standfirst": "There was uncertainty about whether Kennedy would fight or simply try an end run.",
-          "content": "After some uncertainty—and a little drama—the Trump administration is appealing a ruling by a judge last month that temporarily halted anti-vaccine changes Health Secretary Robert F. Kennedy had implemented at the Centers for Disease Control and Prevention. Those changes include filling a key vaccine advisory panel with dubious anti-vaccine allies and unilaterally slashing childhood vaccine recommendations. On March 16, US District Judge Brian Murphy issued a temporary injunction on those changes, essentially blocking the appointment of Kennedy's advisors, nullifying all votes they made on federal vaccine policy, and undoing the changes to the CDC childhood vaccination schedule. Murphy ruled that Kennedy's advisors were unqualified, and their appointment and the changes to vaccine recommendations violated federal procedures. The ruling stems from a case brought against Kennedy and the Department of Health and Human Services (HHS) by the American Academy of Pediatrics (AAP). Prior to the ruling, lawyers for the government argued that Kennedy's actions were \"unreviewable\" and his authority was such that he could advise Americans to actively inject themselves with measles virus rather than the vaccine if he wanted. Murphy rejected that argument in his ruling and found the AAP would likely succeed with their claim that Kennedy's changes were illegal.Read full article Comments",
-          "feed_position": 4,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-2221878046-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-2221878046-1152x648.jpg",
-      "popularity_score": 309.25151361111114
-    },
-    {
-      "id": "cluster_72",
-      "coverage": 1,
-      "updated_at": "Thu, 30 Apr 2026 14:20:29 +0000",
-      "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
-      "neutral_headline": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
-          "published_at": "Thu, 30 Apr 2026 14:20:29 +0000",
-          "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
-          "standfirst": "Old 86-DOS source code dates back to the time before Microsoft bought it.",
-          "content": "Several times in the last couple of decades, Microsoft has released source code for the original MS-DOS operating system that kicked off its decades-long dominance of consumer PCs. This week, the company has reached further back than ever, releasing \"the earliest DOS source code discovered to date\" along with other documentation and notes from its developer. Today's source release is so old that it predates the MS-DOS branding, and it includes \"sources to the 86-DOS 1.00 kernel, several development snapshots of the PC-DOS 1.00 kernel, and some well-known utilities such as CHKDSK,\" write Microsoft's Stacey Haffner and Scott Hanselman in their co-authored post about the release. To understand the context, here's a very brief history of what would become MS-DOS: Programmer Tim Paterson originally created 86-DOS (previously known as QDOS, for \"quick and dirty operating system\") for an Intel 8086-based computer kit sold by Seattle Computer Products. Microsoft, on the hook to provide an operating system for the still-in-development IBM PC 5150, licensed 86-DOS and hired Paterson to continue developing it, later buying the rights to 86-DOS outright. Microsoft then licensed this operating system to IBM as PC-DOS while retaining the ability to sell the operating system to other companies. The version sold by Microsoft was called MS-DOS, and the proliferation of third-party IBM PC clones over the '80s and '90s made it the version of the operating system that most people ended up using.Read full article Comments",
-          "feed_position": 6,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/86-DOS-artifact-and-IBM-PC-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/86-DOS-artifact-and-IBM-PC-1152x648.jpg",
-      "popularity_score": 299.2470691666667
-    },
-    {
-      "id": "cluster_89",
+      "id": "cluster_97",
       "coverage": 1,
       "updated_at": "Thu, 30 Apr 2026 11:00:31 +0000",
       "title": "The hidden cost of Google's AI defaults and the illusion of choice",
@@ -397,63 +325,63 @@
           "title": "The hidden cost of Google's AI defaults and the illusion of choice",
           "standfirst": "Google says it respects user privacy in AI, but the reality is not so black and white.",
           "content": "Many people are hoping—nay, praying—that the potential AI bubble will burst soon. But to hear Google tell it, generative AI is the future, and the company's products have to change to keep up with the technical reality. As a result, Gemini is seeping into every nook and cranny of the Google ecosystem. Generative AI feeds on data, and Google has a lot of your data in products like Gmail and Drive. What does that mean for your privacy, and what happens if you don't want Gemini peeking over your shoulder? Well, it's kind of a mess. The amount of data Gemini retains depends on how you access the AI, and opting out of data collection can mean running straight into so-called \"dark patterns,\" UI elements that work against the user's interest.Read full article Comments",
-          "feed_position": 9,
+          "feed_position": 15,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-3-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-3-1152x648.jpg",
-      "popularity_score": 280.9142913888889
+      "popularity_score": 167.27221305555557
     },
     {
-      "id": "cluster_77",
+      "id": "cluster_75",
       "coverage": 1,
-      "updated_at": "Thu, 30 Apr 2026 13:16:04 +0000",
-      "title": "More than half of all Polymarket \"long shot\" bets on military action pay off",
-      "neutral_headline": "More than half of all Polymarket \"long shot\" bets on military action pay off",
+      "updated_at": "Thu, 30 Apr 2026 15:37:41 +0000",
+      "title": "In motorsport, there's nowhere to hide as AI becomes new CFD tool",
+      "neutral_headline": "In motorsport, there's nowhere to hide as AI becomes new CFD tool",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/04/more-than-half-of-all-long-shot-bets-on-polymarket-pay-off/",
-          "published_at": "Thu, 30 Apr 2026 13:16:04 +0000",
-          "title": "More than half of all Polymarket \"long shot\" bets on military action pay off",
-          "standfirst": "Sensitive information and the prediction markets can be a winning combination.",
-          "content": "More than half of “long-shot” bets on military action made on Polymarket are successful, according to a new report that suggests prediction markets could pose a bigger threat than previously recognized to the security of sensitive information. Analysis by the Anti-Corruption Data Collective, a non-profit research and advocacy group, found that long-shot bets—defined as wagers of $2,500 or more at odds of 35 percent or less—on the platform had an average win rate of around 52 percent in markets on military and defense actions. That compares with a win rate of 25 percent across all politics-focused markets and just 14 percent for all markets on the platform as a whole.Read full article Comments",
-          "feed_position": 7,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/polymarket-1152x648.jpg"
+          "url": "https://arstechnica.com/cars/2026/04/in-motorsport-theres-nowhere-to-hide-as-ai-becomes-new-cfd-tool/",
+          "published_at": "Thu, 30 Apr 2026 15:37:41 +0000",
+          "title": "In motorsport, there's nowhere to hide as AI becomes new CFD tool",
+          "standfirst": "AI finds value in motorsport, multiplying limited computational fluid dynamics resources.",
+          "content": "Since the introduction of wings to racing cars halfway through the 1960s, airflow has been everything in racing. Until that point, the focus was on making a car as slippery as possible; less drag meant more top speed on the straights. Then designers like Jim Hall at Chaparral and Colin Chapman at Lotus realized they could use the air to push the car onto the track, increasing grip and allowing it to go faster through the corners. Things haven't been the same since. Finding aerodynamic downforce started as something of a dark art. The use of wind tunnels to simulate its effect on scale models of cars was in its infancy, so teams were mostly limited to expensive and sometimes dangerous track testing. But wind tunnels can run day and night, rain or shine, and you can't crash a car or injure a driver (or worse) in the process. Wind tunnel work became even more important when F1 began restricting on-track testing to help teams cut budgets. Consequently, teams would do as much work with models as possible before validating the results during the limited test sessions they were allowed. Computational fluid dynamics (CFD) simulation came next. In racing, everyone is looking for an advantage over their competitors, and it was finally possible to model, with some fidelity, the effect of airflow on a virtual model of a car. Not only were CFD sims cheaper than wind tunnel time, but they were also much faster at iterating. Early design work is now done in silico before being validated with scale models in a wind tunnel, as most series—including Formula 1, the World Endurance Championship, Formula E, and NASCAR—have tightly restricted on-track testing.Read full article Comments",
+          "feed_position": 11,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/LMP2-concept-car-rendering-for-IBM-AI-physics-model-01-credit-Dallara-1152x648.png"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/polymarket-1152x648.jpg",
-      "popularity_score": 276.17345805555556
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/LMP2-concept-car-rendering-for-IBM-AI-physics-model-01-credit-Dallara-1152x648.png",
+      "popularity_score": 156.8916575
     },
     {
-      "id": "cluster_88",
+      "id": "cluster_84",
       "coverage": 1,
-      "updated_at": "Thu, 30 Apr 2026 11:15:43 +0000",
-      "title": "Florida Republicans reject plan to weaken childhood vaccine requirements",
-      "neutral_headline": "Florida Republicans reject plan to weaken childhood vaccine requirements",
+      "updated_at": "Thu, 30 Apr 2026 14:20:29 +0000",
+      "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
+      "neutral_headline": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/health/2026/04/gop-led-florida-house-junks-desantis-plan-to-ease-vaccine-mandates/",
-          "published_at": "Thu, 30 Apr 2026 11:15:43 +0000",
-          "title": "Florida Republicans reject plan to weaken childhood vaccine requirements",
-          "standfirst": "DeSantis had called for a special session to take up the proposed changes.",
-          "content": "Florida Governor Ron DeSantis' plans to upend childhood vaccination requirements continues to be thwarted by his fellow Republicans. Just minutes into a special session on Tuesday, Florida House Speaker Daniel Perez announced that the Republican-led chamber would not take up a proposal from DeSantis to allow children to opt out of certain school vaccination requirements. The move effectively killed the proposal, which had been backed by the Senate. Perez, a father from Miami with three young children, said he was concerned by the idea of \"children being in school without measles and mumps and polio and chickenpox vaccines that have been working for decades,\" according to The New York Times, which reported from the State Capitol. \"That was something that I was uncomfortable with.\"Read full article Comments",
-          "feed_position": 8,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-1488044820-1024x648.jpg"
+          "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
+          "published_at": "Thu, 30 Apr 2026 14:20:29 +0000",
+          "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
+          "standfirst": "Old 86-DOS source code dates back to the time before Microsoft bought it.",
+          "content": "Several times in the last couple of decades, Microsoft has released source code for the original MS-DOS operating system that kicked off its decades-long dominance of consumer PCs. This week, the company has reached further back than ever, releasing \"the earliest DOS source code discovered to date\" along with other documentation and notes from its developer. Today's source release is so old that it predates the MS-DOS branding, and it includes \"sources to the 86-DOS 1.00 kernel, several development snapshots of the PC-DOS 1.00 kernel, and some well-known utilities such as CHKDSK,\" write Microsoft's Stacey Haffner and Scott Hanselman in their co-authored post about the release. To understand the context, here's a very brief history of what would become MS-DOS: Programmer Tim Paterson originally created 86-DOS (previously known as QDOS, for \"quick and dirty operating system\") for an Intel 8086-based computer kit sold by Seattle Computer Products. Microsoft, on the hook to provide an operating system for the still-in-development IBM PC 5150, licensed 86-DOS and hired Paterson to continue developing it, later buying the rights to 86-DOS outright. Microsoft then licensed this operating system to IBM as PC-DOS while retaining the ability to sell the operating system to other companies. The version sold by Microsoft was called MS-DOS, and the proliferation of third-party IBM PC clones over the '80s and '90s made it the version of the operating system that most people ended up using.Read full article Comments",
+          "feed_position": 12,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/86-DOS-artifact-and-IBM-PC-1152x648.jpg"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-1488044820-1024x648.jpg",
-      "popularity_score": 264.16762472222223
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/86-DOS-artifact-and-IBM-PC-1152x648.jpg",
+      "popularity_score": 155.60499083333335
     },
     {
-      "id": "cluster_115",
+      "id": "cluster_122",
       "coverage": 1,
       "updated_at": "Wed, 29 Apr 2026 19:00:58 +0000",
       "title": "OpenAI Codex system prompt includes explicit directive to \"never talk about goblins\"",
@@ -469,7 +397,7 @@
           "title": "OpenAI Codex system prompt includes explicit directive to \"never talk about goblins\"",
           "standfirst": "Directions also include system instructions to act like \"you have a vivid inner life.\"",
           "content": "The system prompt for OpenAI's Codex CLI contains a perplexing and repeated warning for the most recent GPT model to \"never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures unless it is absolutely and unambiguously relevant to the user's query.\" The explicit operational warning was made public last week as part of the latest open source code for Codex CLI that OpenAI posted on GitHub. The prohibition is repeated twice in a 3,500-plus word set of \"base instructions\" for the recently released GPT-5.5, alongside more anodyne reminders not to \"use emojis or em dashes unless explicitly instructed\" and to \"never use destructive commands like 'git reset --hard' or 'git checkout --' unless the user has clearly asked for that operation.\" Separate system prompt instructions for earlier models contained in the same JSON file do not contain the specific prohibition against mentioning goblins and other creatures, suggesting OpenAI is fighting a new problem that has popped up in its latest model release. Anecdotal evidence on social media shows some users complaining about GPT's penchant for focusing on goblins in completely unrelated conversations in recent days.Read full article Comments",
-          "feed_position": 11,
+          "feed_position": 17,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-935113346-1152x648.jpg"
         }
       ],
@@ -477,7 +405,7 @@
       "popularity_score": 154
     },
     {
-      "id": "cluster_117",
+      "id": "cluster_124",
       "coverage": 1,
       "updated_at": "Wed, 29 Apr 2026 18:02:20 +0000",
       "title": "Howdy's dated $3/month ad-free streaming service said to have 1M subscribers",
@@ -493,7 +421,7 @@
           "title": "Howdy's dated $3/month ad-free streaming service said to have 1M subscribers",
           "standfirst": "Most are keeping their subscriptions after signing up, too, research firm says.",
           "content": "Six months after its launch, research firm Antenna estimates that the Howdy streaming service has more than 1 million subscribers. Roku debuted Howdy in August. The subscription video-on-demand (SVOD) service is $3 per month and doesn't have commercials. In an announcement today, Antenna estimated that almost 300,000 people signed up for Howdy in August and that the service gained 100,000 subscribers in each subsequent month.Read full article Comments",
-          "feed_position": 12,
+          "feed_position": 18,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Raw-Deal-e1777484088809-1152x648.jpg"
         }
       ],
@@ -501,79 +429,79 @@
       "popularity_score": 148
     },
     {
-      "id": "cluster_131",
+      "id": "cluster_68",
       "coverage": 1,
-      "updated_at": "Wed, 29 Apr 2026 14:00:19 +0000",
-      "title": "Attempt to repeal Colorado's right-to-repair law fails",
-      "neutral_headline": "Attempt to repeal Colorado's right-to-repair law fails",
+      "updated_at": "Thu, 30 Apr 2026 16:20:45 +0000",
+      "title": "RFK Jr. appeals ruling that wiped out his vaccine advisory panel",
+      "neutral_headline": "RFK Jr. appeals ruling that wiped out his vaccine advisory panel",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/04/attempt-to-repeal-colorados-right-to-repair-law-fails/",
-          "published_at": "Wed, 29 Apr 2026 14:00:19 +0000",
-          "title": "Attempt to repeal Colorado's right-to-repair law fails",
-          "standfirst": "Manufacturers backed effort to repeal the law but ultimately failed.",
-          "content": "A controversial bill in Colorado that would have undone some repair protections in the state has failed. The bill had been the target of right-to-repair advocates, who saw it as a bellwether for how tech companies might try to undo repair legislation more broadly in the US. Colorado’s landmark 2024 repair law, the Consumer Right to Repair Digital Electronic Equipment, went into effect in January 2026 and ensured access to tools and documentation people needed to modify and fix digital electronics such as phones, computers, and Wi-Fi routers. The new bill, SB26-090, would have carved out an exception to those repair protections for “critical infrastructure,” a loosely defined term that repair advocates worried could be applied to just about any technology. SB26-090 was introduced during a Colorado Senate hearing on April 2 and was supported by lobbying efforts from companies such as Cisco and IBM. It passed that hearing unanimously. The bill then passed in the Colorado Senate on April 16. On Monday evening, the bill was discussed in a long, delayed hearing in the Colorado House’s State, Civic, Military, and Veterans Affairs Committee. Dozens of supporters and detractors gave public comments. Finally, the bill was shot down in a 7-to-4 vote and classified as postponed indefinitely.Read full article Comments",
-          "feed_position": 18,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/phonerepair-1152x648.jpg"
+          "url": "https://arstechnica.com/health/2026/04/rfk-jr-appeals-ruling-that-wiped-out-his-vaccine-advisory-panel/",
+          "published_at": "Thu, 30 Apr 2026 16:20:45 +0000",
+          "title": "RFK Jr. appeals ruling that wiped out his vaccine advisory panel",
+          "standfirst": "There was uncertainty about whether Kennedy would fight or simply try an end run.",
+          "content": "After some uncertainty—and a little drama—the Trump administration is appealing a ruling by a judge last month that temporarily halted anti-vaccine changes Health Secretary Robert F. Kennedy had implemented at the Centers for Disease Control and Prevention. Those changes include filling a key vaccine advisory panel with dubious anti-vaccine allies and unilaterally slashing childhood vaccine recommendations. On March 16, US District Judge Brian Murphy issued a temporary injunction on those changes, essentially blocking the appointment of Kennedy's advisors, nullifying all votes they made on federal vaccine policy, and undoing the changes to the CDC childhood vaccination schedule. Murphy ruled that Kennedy's advisors were unqualified, and their appointment and the changes to vaccine recommendations violated federal procedures. The ruling stems from a case brought against Kennedy and the Department of Health and Human Services (HHS) by the American Academy of Pediatrics (AAP). Prior to the ruling, lawyers for the government argued that Kennedy's actions were \"unreviewable\" and his authority was such that he could advise Americans to actively inject themselves with measles virus rather than the vaccine if he wanted. Murphy rejected that argument in his ruling and found the AAP would likely succeed with their claim that Kennedy's changes were illegal.Read full article Comments",
+          "feed_position": 10,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-2221878046-1152x648.jpg"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/phonerepair-1152x648.jpg",
-      "popularity_score": 148
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-2221878046-1152x648.jpg",
+      "popularity_score": 145.60943527777778
     },
     {
-      "id": "cluster_122",
+      "id": "cluster_89",
       "coverage": 1,
-      "updated_at": "Wed, 29 Apr 2026 16:55:58 +0000",
-      "title": "Motorola reveals 2026 Razr lineup with modest upgrades and higher prices",
-      "neutral_headline": "Motorola reveals 2026 Razr lineup with modest upgrades and higher prices",
+      "updated_at": "Thu, 30 Apr 2026 13:16:04 +0000",
+      "title": "More than half of all Polymarket \"long shot\" bets on military action pay off",
+      "neutral_headline": "More than half of all Polymarket \"long shot\" bets on military action pay off",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/04/motorola-reveals-2026-razr-lineup-with-modest-upgrades-and-higher-prices/",
-          "published_at": "Wed, 29 Apr 2026 16:55:58 +0000",
-          "title": "Motorola reveals 2026 Razr lineup with modest upgrades and higher prices",
-          "standfirst": "Motorola's foldable lineup is bigger and more spendy than ever.",
-          "content": "Motorola is crazy about foldables. With each passing year, the company has beefed up its folding phone lineup, and in 2026, there will be four devices launching on May 21. At the top end is the company's first tablet-style foldable, the Razr Fold. Below that, Motorola will again offer three flip-style foldables: the Razr Ultra, Razr+, and Razr. These phones get a few modest upgrades over last year's phones, along with price increases. Motorola is unfortunately not immune to the rising cost of components. Specs at a glance: 2026 Motorola Razr series Razr 2026 ($800) Razr+ 2026 ($1,100) Razr Ultra 2026 ($1,500) Razr Fold ($1,900) SoC MediaTek Dimensity 7450X Snapdragon 8s Gen 3 Snapdragon 8 Elite \"Pro\" Snapdragon 8 Elite Gen 5 Memory 8GB 12GB 16GB 16GB Storage 128GB 256GB 512GB 512GB Display External: 3.6-inch 1056 x 1066 OLED, 90 Hz, 1700 nits; Internal: 6.9-inch 1080 x 2640 OLED, 120 Hz, 3000 nits External: 4-inch 1272 x 1080 OLED, 165 Hz, 2400 nits; Internal: 6.9-inch 1080 x 2640 OLED, 165 Hz, 3000 nits External: 4-inch 1272 x 1080 OLED, 165 Hz, 3000 nits; Internal: 7-inch 1224 x 2992 OLED, 165 Hz, 5000 nits External: 6.6-inch 2520 x 1080 pOLED, 165 Hz, 6000 nits; Internal: 8.1-inch 2484 x 2232 LTPO OLED, 120 Hz, 6,200 nits Cameras 50 MP wide, f/1.7; 50 MP ultrawide, f/2.0; 32 MP selfie, f/2.4 50 MP wide, f/1.8; 50 MP ultrawide, f/2.0; 32 MP selfie, f/2.4 50 MP wide, f/1.8; 50 MP ultrawide, f/2.0; 50 MP selfie, f/2.0 50 MP wide, F/1.6; 50 MP ultrawide with Macro, f/2.2; 50 MP 3x telephoto; 32 MP outer selfie, f/2.4; 20 MP inner selfie, f/2.4 Software Android 16 Android 16 Android 16 Android 16 Battery 4800 mAh, up to 30 W wired charging, wireless charging 4500 mAh, up to 45 W wired charging, wireless charging 5,000 mAh, up to 68 W wired, wireless charging 6000 mAh, up to 80 W wired charging, 50 W wireless charging Connectivity Sub-6 GHz 5G Sub-6 GHz 5G Sub-6 GHz 5G Sub-6 GHz 5G Measurements Open: 171.30 × 73.99 × 7.25 mm Closed: 88.08 × 73.99 × 15.85 mm, 188g Open: 171.42 × 73.99 × 7.09 mm Closed: 88.09 × 73.99 × 15.32 mm, 189g Open: 171.48 × 73.99 × 7.19 mm Closed: 88.12 × 73.99 × 15.69 mm, 199g Open: 160 height × 144.4 width × 4.55 depth (mm); Closed: 160 height × 73.6 width × 9.89 depth (mm), 243g Colors Hematite, Violet Ice, Sporting Green, Bright White Mountain View Orient Blue, Cocoa Blackened Blue, Lily White The Razr Fold represents a big step for Moto. Its foldable flip phones have revived the Razr name and offered a good alternative to Samsung's Z Flip line, but people buying foldables are generally more interested in the large format. As prices at the lower end of the spectrum ratchet up, there's less and less distance between premium flip phones and bigger foldables. At $1,900, the Razr Fold is not a cheap phone, but it's roughly in line with the pricing of 2025 foldables (right between Google and Samsung). Given the current state of things, that's a small win for 512GB of storage and 16GB of RAM. Moto's first big foldable is almost here. Credit: Motorola Motorola is not reinventing the wheel with the Fold, so you can expect a device that looks and feels similar to other big foldables like the Pixel 10 Pro Fold. It's about the same size as Google's foldable but slightly thinner and lighter. Samsung's Z Fold 7, however, is much thinner and lighter. Motorola does have the advantage of stylus input, which Samsung has dropped from its foldables. The Moto Stylus will launch at $99 alongside the Razr Fold on May 21.Read full article Comments",
-          "feed_position": 15,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/motorola-razr-ultra-2026_-Lifestyle-Imagery_0223-1152x648.jpg"
+          "url": "https://arstechnica.com/tech-policy/2026/04/more-than-half-of-all-long-shot-bets-on-polymarket-pay-off/",
+          "published_at": "Thu, 30 Apr 2026 13:16:04 +0000",
+          "title": "More than half of all Polymarket \"long shot\" bets on military action pay off",
+          "standfirst": "Sensitive information and the prediction markets can be a winning combination.",
+          "content": "More than half of “long-shot” bets on military action made on Polymarket are successful, according to a new report that suggests prediction markets could pose a bigger threat than previously recognized to the security of sensitive information. Analysis by the Anti-Corruption Data Collective, a non-profit research and advocacy group, found that long-shot bets—defined as wagers of $2,500 or more at odds of 35 percent or less—on the platform had an average win rate of around 52 percent in markets on military and defense actions. That compares with a win rate of 25 percent across all politics-focused markets and just 14 percent for all markets on the platform as a whole.Read full article Comments",
+          "feed_position": 13,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/polymarket-1152x648.jpg"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/motorola-razr-ultra-2026_-Lifestyle-Imagery_0223-1152x648.jpg",
-      "popularity_score": 139
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/polymarket-1152x648.jpg",
+      "popularity_score": 142.53137972222223
     },
     {
-      "id": "cluster_132",
+      "id": "cluster_96",
       "coverage": 1,
-      "updated_at": "Wed, 29 Apr 2026 12:39:52 +0000",
-      "title": "A Falcon 9 rocket will hit the Moon this summer at seven times the speed of sound",
-      "neutral_headline": "A Falcon 9 rocket will hit the Moon this summer at seven times the speed of sound",
+      "updated_at": "Thu, 30 Apr 2026 11:15:43 +0000",
+      "title": "Florida Republicans reject plan to weaken childhood vaccine requirements",
+      "neutral_headline": "Florida Republicans reject plan to weaken childhood vaccine requirements",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/04/a-falcon-9-upper-stage-will-strike-the-moon-in-august/",
-          "published_at": "Wed, 29 Apr 2026 12:39:52 +0000",
-          "title": "A Falcon 9 rocket will hit the Moon this summer at seven times the speed of sound",
-          "standfirst": "The object will be traveling at 2.43 km a second, or 5,400 mph, upon impact.",
-          "content": "Astronomers say the upper stage of a Falcon 9 rocket that launched in early 2025 will strike the Moon later this summer, likely on the near side of the Moon. Bill Gray, who writes the widely used Project Pluto software to track near-Earth objects, has published a comprehensive report on the impact expected to occur at 2:44 am ET (06:44 UTC) on August 5. The Falcon 9 rocket's upper stage is 13.8 meters (45 feet) tall and has a 3.7-meter (12 feet) diameter. Since the Moon has no atmosphere, it will strike the lunar surface intact. Although the Moon will be visible to the eastern half of the US and Canada, and in much of South America, Gray said he believes the impact will probably be too faint to be seen by Earth-based telescopes.Read full article Comments",
-          "feed_position": 19,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Firefly_i_Space_outside39mound_DSC_1723_desktop_463a0c9a28-1152x648.jpg"
+          "url": "https://arstechnica.com/health/2026/04/gop-led-florida-house-junks-desantis-plan-to-ease-vaccine-mandates/",
+          "published_at": "Thu, 30 Apr 2026 11:15:43 +0000",
+          "title": "Florida Republicans reject plan to weaken childhood vaccine requirements",
+          "standfirst": "DeSantis had called for a special session to take up the proposed changes.",
+          "content": "Florida Governor Ron DeSantis' plans to upend childhood vaccination requirements continues to be thwarted by his fellow Republicans. Just minutes into a special session on Tuesday, Florida House Speaker Daniel Perez announced that the Republican-led chamber would not take up a proposal from DeSantis to allow children to opt out of certain school vaccination requirements. The move effectively killed the proposal, which had been backed by the Senate. Perez, a father from Miami with three young children, said he was concerned by the idea of \"children being in school without measles and mumps and polio and chickenpox vaccines that have been working for decades,\" according to The New York Times, which reported from the State Capitol. \"That was something that I was uncomfortable with.\"Read full article Comments",
+          "feed_position": 14,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-1488044820-1024x648.jpg"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Firefly_i_Space_outside39mound_DSC_1723_desktop_463a0c9a28-1152x648.jpg",
-      "popularity_score": 139
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-1488044820-1024x648.jpg",
+      "popularity_score": 140.5255463888889
     },
     {
-      "id": "cluster_114",
+      "id": "cluster_121",
       "coverage": 1,
       "updated_at": "Wed, 29 Apr 2026 19:14:44 +0000",
       "title": "ABC can beat Trump FCC's license threat if owner Disney is willing to fight",
@@ -589,7 +517,7 @@
           "title": "ABC can beat Trump FCC's license threat if owner Disney is willing to fight",
           "standfirst": "Broadcast license renewals are \"all but automatic\" due to 1996 change in US law.",
           "content": "Disney will have the law on its side in its fight against the unusual broadcast license review ordered yesterday by the Federal Communications Commission, legal experts say. In 1996, Congress made it a lot harder for the FCC to take away a broadcast license, even when it's up for renewal. \"Since the NAB [National Association of Broadcasters] got an amendment in the 1996 Telecommunications Act, denying renewal to a broadcaster faces an almost insurmountable burden,\" Andrew Jay Schwartzman, senior counselor of the Benton Institute for Broadband & Society, told Ars this week. The Telecommunications Act of 1996 was a major update to the Communications Act, the 1934 law that established the FCC and provides the agency with its legal authority.Read full article Comments",
-          "feed_position": 10,
+          "feed_position": 16,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/trump-carr-1152x648-1734382746.jpg"
         }
       ],
@@ -597,7 +525,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_118",
+      "id": "cluster_125",
       "coverage": 1,
       "updated_at": "Wed, 29 Apr 2026 17:52:52 +0000",
       "title": "New Sam Bankman-Fried trial would be huge waste of court’s time, judge says",
@@ -613,83 +541,11 @@
           "title": "New Sam Bankman-Fried trial would be huge waste of court’s time, judge says",
           "standfirst": "FTX fraudster came out as Republican, then tried to claim Biden's DOJ targeted him.",
           "content": "In an order denying Sam Bankman-Fried's request for a new trial, a judge accused the disgraced FTX founder of wasting precious court resources on wild conspiracies. To the judge, the motion seemed like a last-ditch attempt to give himself a MAGA makeover that the Trump administration absolutely wasn't buying. Bankman-Fried was sentenced to 25 years in prison in 2024 for \"masterminding one of the largest financial frauds in American history,\" US District Judge Lewis Kaplan wrote in his order. He was convicted on all charges, including wire fraud, conspiracy to commit securities fraud, commodities fraud, and money laundering. There is already an appeal pending in another court, the judge noted. But Bankman-Fried filed a separate motion for a new trial, claiming that there were \"newly discovered\" witnesses and evidence that might have helped his defense, if Joe Biden's Department of Justice hadn't intimidated them into refusing to testify or, in one case, lying on the stand. He also asked for a new judge, wanting Kaplan to recuse himself.Read full article Comments",
-          "feed_position": 13,
+          "feed_position": 19,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1258714334-1024x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1258714334-1024x648.jpg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_119",
-      "coverage": 1,
-      "updated_at": "Wed, 29 Apr 2026 17:27:53 +0000",
-      "title": "Drone strikes on data centers spook Big Tech, halting Middle East projects",
-      "neutral_headline": "Drone strikes on data centers spook Big Tech, halting Middle East projects",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/04/data-center-developer-pauses-middle-east-projects-after-war-damage/",
-          "published_at": "Wed, 29 Apr 2026 17:27:53 +0000",
-          "title": "Drone strikes on data centers spook Big Tech, halting Middle East projects",
-          "standfirst": "Uninsurable war damage is forcing tech companies to rethink Middle East plans.",
-          "content": "A data center developer has paused all Middle East project investments after one of its facilities was damaged by an Iranian missile or drone attack. The decision comes as the Iran war is forcing Silicon Valley investors and tech companies to rethink a trillion-dollar plan to build more AI and cloud data centers in Gulf countries. The damaged data center is owned by Pure Data Centre Group, a London-based company that is operating or developing more than 1 gigawatt of data center capacity across Europe, the Middle East, and Asia. “No one’s going to run into a burning building, so to speak,” Pure DC CEO Gary Wojtaszek told CNBC. “No one’s going to put in new additional capital at scale to do anything until everything settles down.\" Data center developers are already eating the costs of uninsurable war damage from the conflict, which began with a US-Israeli attack on Iran on February 28. Iran primarily responded by attacking shipping to shut down the Strait of Hormuz trade corridor along with striking US military bases and energy infrastructure across the Gulf region.Read full article Comments",
-          "feed_position": 14,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2244357858-1024x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2244357858-1024x648.jpg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_124",
-      "coverage": 1,
-      "updated_at": "Wed, 29 Apr 2026 16:06:28 +0000",
-      "title": "Nvidia fixes the 8GB RAM problem with one of its GPUs—if you can pay for it",
-      "neutral_headline": "Nvidia fixes the 8GB RAM problem with one of its GPUs—if you can pay for it",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/04/nvidia-fixes-the-8gb-ram-problem-with-one-of-its-gpus-if-you-can-pay-for-it/",
-          "published_at": "Wed, 29 Apr 2026 16:06:28 +0000",
-          "title": "Nvidia fixes the 8GB RAM problem with one of its GPUs—if you can pay for it",
-          "standfirst": "Framework charges nearly double for the 12GB version of the mobile RTX 5070.",
-          "content": "Whether you're a gamer trying to play recent AAA titles at high resolutions and maxed-out settings or an AI enthusiast trying to run models locally, we've reached the point where a GPU with 8GB of video memory is a pretty limiting bottleneck. But because of ongoing memory shortages and price spikes, it's also a uniquely bad time for GPU makers to attempt to fix this problem—rumors suggested that a RAM-boosting mid-generation \"Super\" refresh for Nvidia's RTX 50-series GPUs was quietly delayed or canceled earlier this year, at least in part because of memory costs. One of Nvidia's GPUs is getting a RAM upgrade, according to an announcement the company buried at the bottom of a blog post about a routine Game Ready driver update. The laptop version of the GeForce RTX 5070 is getting a bump from 8GB to 12GB of GDDR7, a 50 percent increase that should reduce some performance bottlenecks and generally future-proof the GPU. Otherwise, the 12GB version of the mobile RTX 5070 is the same as the 8GB version. The RAM is still connected to the GPU with a 128-bit memory interface, and the GPU still has 4,608 CUDA cores. The mobile 5070 uses the same GB206 silicon die as the desktop RTX 5060 instead of the larger, more powerful GB205 die in the desktop version of the RTX 5070, meaning that despite the RAM increase, the desktop version remains a much more powerful GPU.Read full article Comments",
-          "feed_position": 16,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/geforce-rtx-50-series-laptop-hero-af360-p@2x-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/geforce-rtx-50-series-laptop-hero-af360-p@2x-1152x648.jpg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_127",
-      "coverage": 1,
-      "updated_at": "Wed, 29 Apr 2026 15:55:55 +0000",
-      "title": "Professional school grads from diverse classes get higher salaries",
-      "neutral_headline": "Professional school grads from diverse classes get higher salaries",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/04/professional-school-grads-from-diverse-classes-get-higher-salaries/",
-          "published_at": "Wed, 29 Apr 2026 15:55:55 +0000",
-          "title": "Professional school grads from diverse classes get higher salaries",
-          "standfirst": "Study authors say courts should reconsider rulings in light of this new evidence.",
-          "content": "Even before the Trump administration went to war against DEI and attempts to address historical discrimination, diversity efforts in the US were controversial. A pivotal moment came in 2023, when the Supreme Court ruled that race-based affirmative action programs violated the Constitution. The decision partly rested on universities' inability to clearly measure the benefits of diverse student bodies and the lack of defined standards to determine when equity had been achieved and such programs should end. A new paper highlights the uncertainty. \"Learning theory argues that racial diversity promotes student learning, which should increase salaries,\" its authors write. \"However, well-documented racial wage discrimination indicates that higher racial diversity should decrease salaries.\" But the authors—Debanjan Mitra, Peter Golder, and Mariya Topchy—have developed a metric suggesting that graduates benefit financially if they graduate with a diverse peer group. The researchers argue that this evidence should be sufficient to prompt courts to reconsider earlier rulings.Read full article Comments",
-          "feed_position": 17,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1374727807-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1374727807-1152x648.jpg",
       "popularity_score": 133
     }
   ]
