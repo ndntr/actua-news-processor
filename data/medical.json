@@ -1,17 +1,38 @@
 {
   "clinical": {
-    "updated_at": "2026-05-01T23:43:31.471Z",
+    "updated_at": "2026-05-02T05:30:03.067Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-05-01T23:43:31.471Z",
+    "updated_at": "2026-05-02T05:30:03.068Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-05-01T23:43:33.850Z",
+    "updated_at": "2026-05-02T05:30:05.889Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Sat, 02 May 2026 01:12:39 GMT",
+        "title": "US appeals court blocks mail-order access to abortion drugs",
+        "neutral_headline": "US appeals court blocks mail-order access to abortion drugs",
+        "bullet_summary": [
+          "Reported by Guardian Health"
+        ],
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/world/2026/may/01/us-court-blocks-mail-order-abortion-drugs-mifepristone",
+            "published_at": "Sat, 02 May 2026 01:12:39 GMT",
+            "title": "US appeals court blocks mail-order access to abortion drugs",
+            "standfirst": "Abortion rights supporters say ruling most sweeping threat to access since supreme court overturned Roe in 2022Access to mifepristone, the FDA-approved medication used to end pregnancy, could become severely limited following a ruling from US appeals court on Friday, which temporarily blocked the drug from being dispensed through the mail.The decision is for now the most sweeping threat to abortion access since the supreme court rolled back abortion rights in 2022, said Kelly Baden, vice-president at the Guttmacher Institute, an abortion rights advocacy group. Continue reading...",
+            "content": "Abortion rights supporters say ruling most sweeping threat to access since supreme court overturned Roe in 2022Access to mifepristone, the FDA-approved medication used to end pregnancy, could become severely limited following a ruling from US appeals court on Friday, which temporarily blocked the drug from being dispensed through the mail.The decision is for now the most sweeping threat to abortion access since the supreme court rolled back abortion rights in 2022, said Kelly Baden, vice-president at the Guttmacher Institute, an abortion rights advocacy group. Continue reading...",
+            "feed_position": 0
+          }
+        ]
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Fri, 01 May 2026 23:01:44 GMT",
         "title": "Is this the real face of Anne Boleyn?",
@@ -32,27 +53,6 @@
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a10d/live/39742840-4575-11f1-ac78-2112837ce2aa.jpg"
-      },
-      {
-        "id": "cluster_1",
-        "coverage": 1,
-        "updated_at": "Fri, 01 May 2026 21:56:21 GMT",
-        "title": "US court blocks mail-order access to abortion drugs, for now",
-        "neutral_headline": "US court blocks mail-order access to abortion drugs, for now",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/world/2026/may/01/us-court-blocks-mail-order-abortion-drugs-mifepristone",
-            "published_at": "Fri, 01 May 2026 21:56:21 GMT",
-            "title": "US court blocks mail-order access to abortion drugs, for now",
-            "standfirst": "New Orleans court temporarily suspended Biden-era rule allowing mifepristone to be dispensed through the mailA US appeals court on Friday temporarily blocked a federal rule allowing the abortion drug mifepristone to be dispensed through the mail, significantly curtailing access to the drug nationwide and particularly in states that have banned abortion.A panel of the fifth US circuit court of appeals in New Orleans said the state of Louisiana was likely to prevail in its challenge to the 2023 rule adopted by Democratic former president Joe Biden’s administration. Continue reading...",
-            "content": "New Orleans court temporarily suspended Biden-era rule allowing mifepristone to be dispensed through the mailA US appeals court on Friday temporarily blocked a federal rule allowing the abortion drug mifepristone to be dispensed through the mail, significantly curtailing access to the drug nationwide and particularly in states that have banned abortion.A panel of the fifth US circuit court of appeals in New Orleans said the state of Louisiana was likely to prevail in its challenge to the 2023 rule adopted by Democratic former president Joe Biden’s administration. Continue reading...",
-            "feed_position": 0
-          }
-        ]
       },
       {
         "id": "cluster_2",
@@ -476,7 +476,7 @@
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-05-01T23:43:33.850Z",
+    "updated_at": "2026-05-02T05:30:05.889Z",
     "clusters": []
   }
 }
