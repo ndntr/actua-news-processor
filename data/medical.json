@@ -1,17 +1,62 @@
 {
   "clinical": {
-    "updated_at": "2026-05-05T20:02:05.412Z",
+    "updated_at": "2026-05-05T23:41:20.715Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-05-05T20:02:05.412Z",
+    "updated_at": "2026-05-05T23:41:20.715Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-05-05T20:02:07.448Z",
+    "updated_at": "2026-05-05T23:41:29.027Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Tue, 05 May 2026 23:06:14 GMT",
+        "title": "Cruise ship with hantavirus outbreak to sail to Canary Islands",
+        "neutral_headline": "Cruise ship with hantavirus outbreak to sail to Canary Islands",
+        "bullet_summary": [
+          "Spain's health ministry said the MV Hondius is expected to arrive within three to four days",
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/ce8pypvjx1ko?at_medium=RSS&at_campaign=rss",
+            "published_at": "Tue, 05 May 2026 23:06:14 GMT",
+            "title": "Cruise ship with hantavirus outbreak to sail to Canary Islands",
+            "standfirst": "Spain's health ministry said the MV Hondius is expected to arrive within three to four days.",
+            "content": "Spain's health ministry said the MV Hondius is expected to arrive within three to four days.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4548/live/388b7610-48cf-11f1-bd52-e755d604ece4.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4548/live/388b7610-48cf-11f1-bd52-e755d604ece4.jpg"
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Tue, 05 May 2026 23:01:52 GMT",
+        "title": "Black people in England twice as likely to suffer stroke as white counterparts",
+        "neutral_headline": "Black people in England twice as likely to suffer stroke as white counterparts",
+        "bullet_summary": [
+          "Reported by Guardian Health"
+        ],
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/society/2026/may/06/black-people-twice-likely-stroke-white-england-study",
+            "published_at": "Tue, 05 May 2026 23:01:52 GMT",
+            "title": "Black people in England twice as likely to suffer stroke as white counterparts",
+            "standfirst": "In-depth study also reveals patients from black African and Caribbean backgrounds are less likely to receive timely carePeople from black backgrounds in England are twice as likely to experience strokes as their white counterparts, while also being less likely to receive timely care, according to the largest study of its kind.The study, conducted by researchers at King’s College London and presented at the European Stroke Organisation conference, analysed 30 years of stroke incidents from the South London Stroke Register, one of the longest-running population-based stroke registers in the world. Continue reading...",
+            "content": "In-depth study also reveals patients from black African and Caribbean backgrounds are less likely to receive timely carePeople from black backgrounds in England are twice as likely to experience strokes as their white counterparts, while also being less likely to receive timely care, according to the largest study of its kind.The study, conducted by researchers at King’s College London and presented at the European Stroke Organisation conference, analysed 30 years of stroke incidents from the South London Stroke Register, one of the longest-running population-based stroke registers in the world. Continue reading...",
+            "feed_position": 0
+          }
+        ]
+      },
+      {
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Tue, 05 May 2026 16:38:50 GMT",
         "title": "Hantavirus may have spread between passengers on cruise ship, WHO says",
@@ -28,14 +73,14 @@
             "title": "Hantavirus may have spread between passengers on cruise ship, WHO says",
             "standfirst": "Two cases of the virus, which rarely spreads between humans, have been confirmed on the ship, and three people have died.",
             "content": "Two cases of the virus, which rarely spreads between humans, have been confirmed on the ship, and three people have died.",
-            "feed_position": 0,
+            "feed_position": 1,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6224/live/70793b40-489b-11f1-ac78-2112837ce2aa.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6224/live/70793b40-489b-11f1-ac78-2112837ce2aa.jpg"
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Tue, 05 May 2026 16:19:31 GMT",
         "title": "Dr Punam's red flags to look out for in your health",
@@ -58,7 +103,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14a1/live/cade07d0-489d-11f1-b55d-0f258dce1735.png"
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Tue, 05 May 2026 15:40:36 GMT",
         "title": "Cruise passengers tell of life on board stranded ship after hantavirus outbreak",
@@ -74,14 +119,14 @@
             "title": "Cruise passengers tell of life on board stranded ship after hantavirus outbreak",
             "standfirst": "While passengers onboard the MV Hondius say the situation is calm, they face days at sea as officials warn the disease may have spread.",
             "content": "While passengers onboard the MV Hondius say the situation is calm, they face days at sea as officials warn the disease may have spread.",
-            "feed_position": 1,
+            "feed_position": 2,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f9b/live/7ba14d30-489d-11f1-9d2b-c9f441ed383e.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f9b/live/7ba14d30-489d-11f1-9d2b-c9f441ed383e.jpg"
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Tue, 05 May 2026 15:00:42 GMT",
         "title": "Single dose of magic mushroom psychedelic can cause anatomical brain changes, study finds",
@@ -98,12 +143,12 @@
             "title": "Single dose of magic mushroom psychedelic can cause anatomical brain changes, study finds",
             "standfirst": "Participants took 25mg of psilocybin, reporting deeper psychological insight and better wellbeing a month laterA single dose of psilocybin, the active ingredient in magic mushrooms, can induce anatomical changes in the brain, according to research among people who took the psychedelic compound for the first time.Scientists spotted apparent changes in the brain’s structure which were still apparent a month after healthy volunteers took the drug. If confirmed, they may help explain the therapeutic effects that psychedelics can have on anxiety, depression and addiction, researchers said. Continue reading...",
             "content": "Participants took 25mg of psilocybin, reporting deeper psychological insight and better wellbeing a month laterA single dose of psilocybin, the active ingredient in magic mushrooms, can induce anatomical changes in the brain, according to research among people who took the psychedelic compound for the first time.Scientists spotted apparent changes in the brain’s structure which were still apparent a month after healthy volunteers took the drug. If confirmed, they may help explain the therapeutic effects that psychedelics can have on anxiety, depression and addiction, researchers said. Continue reading...",
-            "feed_position": 0
+            "feed_position": 1
           }
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Tue, 05 May 2026 14:51:38 GMT",
         "title": "How should we talk about our emotions?",
@@ -126,7 +171,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70a7/live/23cede90-488b-11f1-b55d-0f258dce1735.jpg"
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Tue, 05 May 2026 14:15:08 GMT",
         "title": "Ann Barrett obituary",
@@ -142,12 +187,12 @@
             "title": "Ann Barrett obituary",
             "standfirst": "Oncologist and authority on paediatric radiotherapy who championed a multidisciplinary, holistic approachIn 1968, when Ann Barrett qualified in medicine, the fast-changing specialty of oncology was a magnet for young doctors as new drugs and technology were beginning to nudge up survival rates. In her distinguished 40-year oncology career, Barrett, who has died aged 83, played a key part in improving cancer outcomes, particularly for children, becoming a world authority on paediatric radiotherapy.As chair of radiation oncology first at the University of Glasgow and then at the University of East Anglia, she was highly influential in the profession with more than 150 published academic papers. She had a significant impact on student education and was a leading contributor to several textbooks that are still “go-to” classics, including Practical Radiotherapy Planning (1985, now in its fifth edition, 2023), and Cancer in Children: Clinical Management (1975, now in its seventh edition, as the Oxford Textbook of Cancer in Children, 2020). Continue reading...",
             "content": "Oncologist and authority on paediatric radiotherapy who championed a multidisciplinary, holistic approachIn 1968, when Ann Barrett qualified in medicine, the fast-changing specialty of oncology was a magnet for young doctors as new drugs and technology were beginning to nudge up survival rates. In her distinguished 40-year oncology career, Barrett, who has died aged 83, played a key part in improving cancer outcomes, particularly for children, becoming a world authority on paediatric radiotherapy.As chair of radiation oncology first at the University of Glasgow and then at the University of East Anglia, she was highly influential in the profession with more than 150 published academic papers. She had a significant impact on student education and was a leading contributor to several textbooks that are still “go-to” classics, including Practical Radiotherapy Planning (1985, now in its fifth edition, 2023), and Cancer in Children: Clinical Management (1975, now in its seventh edition, as the Oxford Textbook of Cancer in Children, 2020). Continue reading...",
-            "feed_position": 1
+            "feed_position": 2
           }
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Tue, 05 May 2026 13:34:58 GMT",
         "title": "World ‘unprepared’ for next pandemic as countries fail to agree on sharing information, tests and vaccines",
@@ -163,12 +208,12 @@
             "title": "World ‘unprepared’ for next pandemic as countries fail to agree on sharing information, tests and vaccines",
             "standfirst": "Finalisation of pact governing global response to disease outbreaks delayed as talks on how to share benefits stallA key deadline to finalise a global pandemic treaty has been missed by negotiators, prompting warnings that the world remains unprepared for the next major disease outbreak.Countries have been trying to agree how they should share information on pathogens, such as bacteria or viruses, that could cause pandemics – and what access to any resulting vaccines, tests and treatments they should be guaranteed in return. Continue reading...",
             "content": "Finalisation of pact governing global response to disease outbreaks delayed as talks on how to share benefits stallA key deadline to finalise a global pandemic treaty has been missed by negotiators, prompting warnings that the world remains unprepared for the next major disease outbreak.Countries have been trying to agree how they should share information on pathogens, such as bacteria or viruses, that could cause pandemics – and what access to any resulting vaccines, tests and treatments they should be guaranteed in return. Continue reading...",
-            "feed_position": 2
+            "feed_position": 3
           }
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Tue, 05 May 2026 12:00:39 GMT",
         "title": "Abortion pills are saving women’s lives. The right is trying to eliminate them | Moira Donegan",
@@ -184,12 +229,12 @@
             "title": "Abortion pills are saving women’s lives. The right is trying to eliminate them | Moira Donegan",
             "standfirst": "The supreme court has kicked the can down the road after a federal court sought to ban the mailing of mifepristoneAn event that ruined lives, degraded the citizenship of hundreds of millions, and permanently lowered the status of American women came and went four years ago, and American politics seems to have largely moved on. When the supreme court overturned Roe v Wade in 2022’s Dobbs decision, it fulfilled a decades-long project of the American right and made real a nightmare for women’s health and equality that feminists had dreaded for a generation. In the months that followed, protests were sporadic and largely moot: popular will, it had long become clear, had little bearing on abortion policy. Women began giving birth to babies they did not want, and dropping out of school and work to care for them – wasting their talents and abandoning their dreams. A flurry of court cases negotiating the impact of the court’s ruling in states across the country made abortion legal, then illegal, then legal again, then illegal again, with women’s ability to control their own lives flickering on and off like a dying lightbulb. Clinics that had served communities for years shut their doors, the world they had helped to build now extinguished by the justices. The new abortion bans are written in such draconian and expansive language that there are often no exceptions for rape or incest and only narrow, inscrutable legal permission for the life of the mother. Because of these bans, women died. Their names blazed across the headlines for a few days, then faded.The fact is that just four years after Dobbs, abortion has receded from the headlines and from the attention of many American voters. Part of this is because of legal reality: voter referendums on abortion, in states where they were possible, were mostly successful in protecting the right to choose, and those campaigns raised money and awareness about the issue. But that strategy was quickly exhausted; just about every state where a referendum on abortion rights is legally possible has now had one. And it is partly due, too, to the peculiar discursive invisibility of misogyny in American political life. Though we have perhaps never seen a moment when male identity and male grievance have been wielded to greater political effect, feminism is at a comparative nadir. The country is used to seeing women be made to suffer because they are women. America saw the violence that Dobbs did to women’s dignity, dreams and health, and it largely shrugged its shoulders.Moira Donegan is a Guardian US columnist Continue reading...",
             "content": "The supreme court has kicked the can down the road after a federal court sought to ban the mailing of mifepristoneAn event that ruined lives, degraded the citizenship of hundreds of millions, and permanently lowered the status of American women came and went four years ago, and American politics seems to have largely moved on. When the supreme court overturned Roe v Wade in 2022’s Dobbs decision, it fulfilled a decades-long project of the American right and made real a nightmare for women’s health and equality that feminists had dreaded for a generation. In the months that followed, protests were sporadic and largely moot: popular will, it had long become clear, had little bearing on abortion policy. Women began giving birth to babies they did not want, and dropping out of school and work to care for them – wasting their talents and abandoning their dreams. A flurry of court cases negotiating the impact of the court’s ruling in states across the country made abortion legal, then illegal, then legal again, then illegal again, with women’s ability to control their own lives flickering on and off like a dying lightbulb. Clinics that had served communities for years shut their doors, the world they had helped to build now extinguished by the justices. The new abortion bans are written in such draconian and expansive language that there are often no exceptions for rape or incest and only narrow, inscrutable legal permission for the life of the mother. Because of these bans, women died. Their names blazed across the headlines for a few days, then faded.The fact is that just four years after Dobbs, abortion has receded from the headlines and from the attention of many American voters. Part of this is because of legal reality: voter referendums on abortion, in states where they were possible, were mostly successful in protecting the right to choose, and those campaigns raised money and awareness about the issue. But that strategy was quickly exhausted; just about every state where a referendum on abortion rights is legally possible has now had one. And it is partly due, too, to the peculiar discursive invisibility of misogyny in American political life. Though we have perhaps never seen a moment when male identity and male grievance have been wielded to greater political effect, feminism is at a comparative nadir. The country is used to seeing women be made to suffer because they are women. America saw the violence that Dobbs did to women’s dignity, dreams and health, and it largely shrugged its shoulders.Moira Donegan is a Guardian US columnist Continue reading...",
-            "feed_position": 3
+            "feed_position": 4
           }
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Tue, 05 May 2026 11:00:27 GMT",
         "title": "Slow Alzheimer’s diagnoses ‘mean UK patients missing out on experimental treatments’",
@@ -205,12 +250,12 @@
             "title": "Slow Alzheimer’s diagnoses ‘mean UK patients missing out on experimental treatments’",
             "standfirst": "Alzheimer’s Research UK says patients at risk of being left behind as lack of formal or accurate diagnoses closes door to trialsPeople with Alzheimer’s disease are missing out on experimental treatments because they are not diagnosed early or accurately enough to be enrolled in clinical trials, a UK charity has said.Trials of Alzheimer’s drugs reached a record high this year, according to data published on Tuesday, but Alzheimer’s Research UK said too few UK patients were taking part because their diagnoses were delayed or were not specific enough. Continue reading...",
             "content": "Alzheimer’s Research UK says patients at risk of being left behind as lack of formal or accurate diagnoses closes door to trialsPeople with Alzheimer’s disease are missing out on experimental treatments because they are not diagnosed early or accurately enough to be enrolled in clinical trials, a UK charity has said.Trials of Alzheimer’s drugs reached a record high this year, according to data published on Tuesday, but Alzheimer’s Research UK said too few UK patients were taking part because their diagnoses were delayed or were not specific enough. Continue reading...",
-            "feed_position": 4
+            "feed_position": 5
           }
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Tue, 05 May 2026 07:00:46 GMT",
         "title": "A game-changer for good health? Scientists believe ‘we are when we eat’ | Devi Sridhar",
@@ -226,12 +271,12 @@
             "title": "A game-changer for good health? Scientists believe ‘we are when we eat’ | Devi Sridhar",
             "standfirst": "Decades of advice on what to eat and what not to might have been missing one key ingredient, according to new researchReduce your calories. Eat more vegetables. Limit soft drinks and junk foods. For years, even decades, this has been the advice for those wanting a healthy body weight, lower blood pressure and better markers of metabolic health. Most weight-loss advice has focused on either what to eat (and what to avoid), or how much to eat. Think of dietary pyramids produced by government agencies, calories on food packaging and meals, and typical nutritional advice.It’s all true, to a certain extent: it’s obviously better to eat a healthier, nutritionally balanced diet, and yes, lower body weight is broadly linked to reducing calories. But this type of approach can be hard to sustain. Even as a personal trainer who knows what I “should” be eating according to government dietary advice and has heard too much about calorie deficits, I take a slightly different approach to food. I think we need to bring nuance and a balanced approach to food and what we eat.Prof Devi Sridhar is chair of global public health at the University of Edinburgh, and the author of How Not to Die (Too Soon) Continue reading...",
             "content": "Decades of advice on what to eat and what not to might have been missing one key ingredient, according to new researchReduce your calories. Eat more vegetables. Limit soft drinks and junk foods. For years, even decades, this has been the advice for those wanting a healthy body weight, lower blood pressure and better markers of metabolic health. Most weight-loss advice has focused on either what to eat (and what to avoid), or how much to eat. Think of dietary pyramids produced by government agencies, calories on food packaging and meals, and typical nutritional advice.It’s all true, to a certain extent: it’s obviously better to eat a healthier, nutritionally balanced diet, and yes, lower body weight is broadly linked to reducing calories. But this type of approach can be hard to sustain. Even as a personal trainer who knows what I “should” be eating according to government dietary advice and has heard too much about calorie deficits, I take a slightly different approach to food. I think we need to bring nuance and a balanced approach to food and what we eat.Prof Devi Sridhar is chair of global public health at the University of Edinburgh, and the author of How Not to Die (Too Soon) Continue reading...",
-            "feed_position": 5
+            "feed_position": 6
           }
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Tue, 05 May 2026 05:14:33 GMT",
         "title": "Companies pay out to charity after slurry incidents",
@@ -254,7 +299,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2150/live/0df5adc0-4579-11f1-86ec-5992fe9627d8.png"
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Tue, 05 May 2026 05:09:08 GMT",
         "title": "'I went undercover to expose dangerous advice given to parents'",
@@ -277,7 +322,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56ff/live/7fefb540-47d8-11f1-bd52-e755d604ece4.jpg"
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Tue, 05 May 2026 05:04:30 GMT",
         "title": "Wildlife park welcomes three male Asiatic lions",
@@ -300,7 +345,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9510/live/a360b860-47df-11f1-90ad-2ff82eec9d15.png"
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Mon, 04 May 2026 19:46:49 GMT",
         "title": "US appeals court blocks mail-order access to abortion drugs",
@@ -316,7 +361,7 @@
             "title": "US appeals court blocks mail-order access to abortion drugs",
             "standfirst": "Abortion rights supporters say ruling is most sweeping threat to access since supreme court overturned Roe in 2022Access to mifepristone, the FDA-approved medication used to end pregnancy, could become severely limited following a ruling from a US appeals court on Friday, which temporarily blocked the drug from being dispensed through the mail.The decision is for now the most sweeping threat to abortion access since the supreme court rolled back abortion rights in 2022, said Kelly Baden, vice-president at the Guttmacher Institute, an abortion rights advocacy group. Continue reading...",
             "content": "Abortion rights supporters say ruling is most sweeping threat to access since supreme court overturned Roe in 2022Access to mifepristone, the FDA-approved medication used to end pregnancy, could become severely limited following a ruling from a US appeals court on Friday, which temporarily blocked the drug from being dispensed through the mail.The decision is for now the most sweeping threat to abortion access since the supreme court rolled back abortion rights in 2022, said Kelly Baden, vice-president at the Guttmacher Institute, an abortion rights advocacy group. Continue reading...",
-            "feed_position": 6
+            "feed_position": 7
           },
           {
             "source": "Guardian Health",
@@ -325,12 +370,12 @@
             "title": "US supreme court temporarily restores access to mail-order abortion pills",
             "standfirst": "Order signed by Samuel Alito blocks ruling that prevented providers from prescribing mifepristone through the mailThe US supreme court has temporarily reinstated nationwide access to mifepristone, blocking a ruling that threatened to upend accessibility of an abortion pill involved in nearly two-thirds of pregnancy terminations across the country.On Monday, Justice Samuel Alito signed an order pausing a fifth US circuit court of appeals ruling that had imposed new limits on the drug. That decision, issued on Friday, called on preventing abortion providers from prescribing mifepristone through the mail. Continue reading...",
             "content": "Order signed by Samuel Alito blocks ruling that prevented providers from prescribing mifepristone through the mailThe US supreme court has temporarily reinstated nationwide access to mifepristone, blocking a ruling that threatened to upend accessibility of an abortion pill involved in nearly two-thirds of pregnancy terminations across the country.On Monday, Justice Samuel Alito signed an order pausing a fifth US circuit court of appeals ruling that had imposed new limits on the drug. That decision, issued on Friday, called on preventing abortion providers from prescribing mifepristone through the mail. Continue reading...",
-            "feed_position": 7
+            "feed_position": 8
           }
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Mon, 04 May 2026 15:56:51 GMT",
         "title": "Parliament must heed public opinion on assisted dying | Letters",
@@ -346,12 +391,12 @@
             "title": "Parliament must heed public opinion on assisted dying | Letters",
             "standfirst": "Danielle Hamm on the important perspectives that emerged from England’s first citizens’ jury. Plus letters from Libby Sallnow and Richard Smith, and Dr Pamela FisherThe Nuffield Council on Bioethics is an independent research and policy centre that aims to put ethics at the centre of decision-making about bioscience and health so that we all benefit. We agree that public views should be central to the debate on assisted dying (Editorial, 29 April). This is why we commissioned England’s first citizens’ jury on assisted dying in 2024, which produced rich and independent evidence about what the English public think about assisted dying, and the ethical, social and practical considerations that underpin their views.Over eight weeks, 30 jurors – who were reflective of the demographic makeup of the English population – spent a total of 24 hours hearing evidence from experts, engaging with perspectives from all sides of the debate, and deliberating in groups. Continue reading...",
             "content": "Danielle Hamm on the important perspectives that emerged from England’s first citizens’ jury. Plus letters from Libby Sallnow and Richard Smith, and Dr Pamela FisherThe Nuffield Council on Bioethics is an independent research and policy centre that aims to put ethics at the centre of decision-making about bioscience and health so that we all benefit. We agree that public views should be central to the debate on assisted dying (Editorial, 29 April). This is why we commissioned England’s first citizens’ jury on assisted dying in 2024, which produced rich and independent evidence about what the English public think about assisted dying, and the ethical, social and practical considerations that underpin their views.Over eight weeks, 30 jurors – who were reflective of the demographic makeup of the English population – spent a total of 24 hours hearing evidence from experts, engaging with perspectives from all sides of the debate, and deliberating in groups. Continue reading...",
-            "feed_position": 8
+            "feed_position": 9
           }
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Mon, 04 May 2026 15:55:18 GMT",
         "title": "Women with perinatal OCD are still being failed | Letter",
@@ -367,12 +412,12 @@
             "title": "Women with perinatal OCD are still being failed | Letter",
             "standfirst": "Screening at the six-week check and signposting to services could prevent suffering and save lives, write Fiona Challacombe, Diana Wilson and Maria BavettaWe were glad that the story of Kimberley Nixon was highlighted in your article and commend her openness about the devastating nature of perinatal OCD (‘This is so taboo’: Kimberley Nixon on the hell of perinatal OCD – and how she survived it, 28 April). Experiencing vivid unwanted intrusive thoughts, images and urges of accidentally or deliberately harming your infant can be hugely distressing, isolating and often misunderstood. Intrusions and compulsions can take, or indeed steal, hours a day, and can make women feel as if they are the worst mothers possible.In severe cases, women can feel that ending their lives is the only course of action. We have been activists and researchers in perinatal OCD for 20 years and are aware of the issues of lack of recognition, misdiagnosis, inappropriate safeguarding procedures being activated and difficulties in accessing effective therapy. Continue reading...",
             "content": "Screening at the six-week check and signposting to services could prevent suffering and save lives, write Fiona Challacombe, Diana Wilson and Maria BavettaWe were glad that the story of Kimberley Nixon was highlighted in your article and commend her openness about the devastating nature of perinatal OCD (‘This is so taboo’: Kimberley Nixon on the hell of perinatal OCD – and how she survived it, 28 April). Experiencing vivid unwanted intrusive thoughts, images and urges of accidentally or deliberately harming your infant can be hugely distressing, isolating and often misunderstood. Intrusions and compulsions can take, or indeed steal, hours a day, and can make women feel as if they are the worst mothers possible.In severe cases, women can feel that ending their lives is the only course of action. We have been activists and researchers in perinatal OCD for 20 years and are aware of the issues of lack of recognition, misdiagnosis, inappropriate safeguarding procedures being activated and difficulties in accessing effective therapy. Continue reading...",
-            "feed_position": 9
+            "feed_position": 10
           }
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Mon, 04 May 2026 15:00:27 GMT",
         "title": "Sometimes less is more. Next time you see your doctor ask about ‘de-prescribing’ | Ranjana Srivastava",
@@ -388,12 +433,12 @@
             "title": "Sometimes less is more. Next time you see your doctor ask about ‘de-prescribing’ | Ranjana Srivastava",
             "standfirst": "A supervised process of stopping medications that are no longer needed is something everyone should know about“I thought I was never supposed to come off these tablets!” my patient exclaims.“Except when you no longer need them,” I say. Continue reading...",
             "content": "A supervised process of stopping medications that are no longer needed is something everyone should know about“I thought I was never supposed to come off these tablets!” my patient exclaims.“Except when you no longer need them,” I say. Continue reading...",
-            "feed_position": 10
+            "feed_position": 11
           }
         ]
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Mon, 04 May 2026 14:00:24 GMT",
         "title": "Man produces sperm from testicular tissue frozen as a child in breakthrough trial",
@@ -409,56 +454,14 @@
             "title": "Man produces sperm from testicular tissue frozen as a child in breakthrough trial",
             "standfirst": "Exclusive: Sperm re-transplant offers hope that boys left infertile by chemotherapy could have biological children one dayIn a groundbreaking fertility trial, a man whose testicular tissue was frozen before he underwent chemotherapy as a child to be re-transplanted 16 years later has been able to produce sperm.It is the first time a transplant of cryopreserved prepubertal testicular tissue has been demonstrated to restore sperm production in an adult patient. The 27-year-old man had the sample frozen when he was 10, before undergoing potent chemotherapy as part of treatment for sickle cell disease. Continue reading...",
             "content": "Exclusive: Sperm re-transplant offers hope that boys left infertile by chemotherapy could have biological children one dayIn a groundbreaking fertility trial, a man whose testicular tissue was frozen before he underwent chemotherapy as a child to be re-transplanted 16 years later has been able to produce sperm.It is the first time a transplant of cryopreserved prepubertal testicular tissue has been demonstrated to restore sperm production in an adult patient. The 27-year-old man had the sample frozen when he was 10, before undergoing potent chemotherapy as part of treatment for sickle cell disease. Continue reading...",
-            "feed_position": 11
-          }
-        ]
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Mon, 04 May 2026 13:00:24 GMT",
-        "title": "Kirsty, 11, seeks more Kirstys to help raise money for brain tumour research",
-        "neutral_headline": "Kirsty, 11, seeks more Kirstys to help raise money for brain tumour research",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/uk-news/2026/may/04/kirsty-cancer-fundraising-kent-paediatric-brain-tumour",
-            "published_at": "Mon, 04 May 2026 13:00:24 GMT",
-            "title": "Kirsty, 11, seeks more Kirstys to help raise money for brain tumour research",
-            "standfirst": "Kent schoolgirl tracks down 10,000 namesakes as part of campaign – but non-Kirstys are welcome to donate tooCalling all Kirstys! A schoolgirl from Tunbridge Wells in Kent is seeking people who share her name to help raise money for research into paediatric brain tumours like the one for which she is being treated.Kirsty Waugh, who turns 12 on Monday, has already persuaded more than 10,000 Kirstys, Kirsties, Kersties and assorted other variants to plot their locations on a map that shows Kirstys can be found everywhere from Colombia to Malaysia, and even at the Rothera research station in Antarctica. Continue reading...",
-            "content": "Kent schoolgirl tracks down 10,000 namesakes as part of campaign – but non-Kirstys are welcome to donate tooCalling all Kirstys! A schoolgirl from Tunbridge Wells in Kent is seeking people who share her name to help raise money for research into paediatric brain tumours like the one for which she is being treated.Kirsty Waugh, who turns 12 on Monday, has already persuaded more than 10,000 Kirstys, Kirsties, Kersties and assorted other variants to plot their locations on a map that shows Kirstys can be found everywhere from Colombia to Malaysia, and even at the Rothera research station in Antarctica. Continue reading...",
             "feed_position": 12
-          }
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Mon, 04 May 2026 12:33:03 GMT",
-        "title": "Should you worry about napping?",
-        "neutral_headline": "Should you worry about napping",
-        "bullet_summary": [
-          "Reported by BBC Health"
-        ],
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/videos/cq8pqn9yllyo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Mon, 04 May 2026 12:33:03 GMT",
-            "title": "Should you worry about napping?",
-            "standfirst": "Dr Aziza explains why napping could be a sign of a bigger issue",
-            "content": "Dr Aziza explains why napping could be a sign of a bigger issue",
-            "feed_position": 50
           }
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-05-05T20:02:07.448Z",
+    "updated_at": "2026-05-05T23:41:29.027Z",
     "clusters": []
   }
 }
