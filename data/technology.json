@@ -1,8 +1,83 @@
 {
-  "updated_at": "2026-05-05T09:03:59.101Z",
+  "updated_at": "2026-05-05T11:55:21.738Z",
   "clusters": [
     {
-      "id": "cluster_91",
+      "id": "cluster_17",
+      "coverage": 3,
+      "updated_at": "2026-05-05T06:08:33-04:00",
+      "title": "Google DeepMind workers are unionizing over AI military contracts",
+      "neutral_headline": "Google DeepMind workers are unionizing over AI military contracts",
+      "bullet_summary": [
+        "Reported by The Verge, TechMeme, Guardian Tech"
+      ],
+      "items": [
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/923918/google-deepmind-union-bid-ai-military-israel",
+          "published_at": "2026-05-05T06:08:33-04:00",
+          "title": "Google DeepMind workers are unionizing over AI military contracts",
+          "standfirst": "Staffers at Google DeepMind's headquarters have voted to unionize in an effort to prevent the AI firm's technology from being used by Israel and the US military. In a letter to Google management on Tuesday, employees requested that the Communication Workers Union (CWU) and Unite the Union be recognized as joint representatives, with 98 percent [&#8230;]",
+          "content": "Staffers at Google DeepMind's headquarters have voted to unionize in an effort to prevent the AI firm's technology from being used by Israel and the US military. In a letter to Google management on Tuesday, employees requested that the Communication Workers Union (CWU) and Unite the Union be recognized as joint representatives, with 98 percent of CWU members at DeepMind voting in support of the move. \"We don't want our AI models complicit in violations of international law, but they already are aiding Israel's genocide of Palestinians,\" an unnamed DeepMind employee said in a statement shared by the CWU. \"Even if our work is only used for ad … Read the full story at The Verge.",
+          "feed_position": 1
+        },
+        {
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/260505/p6#a260505p6",
+          "published_at": "Tue, 05 May 2026 05:55:00 -0400",
+          "title": "Letter: UK-based Google DeepMind workers voted to unionize with the Communication Workers Union and Unite in April, representing 1K+ staff, amid the US DOD deal (Alice Speri/The Guardian)",
+          "standfirst": "Alice Speri / The Guardian: Letter: UK-based Google DeepMind workers voted to unionize with the Communication Workers Union and Unite in April, representing 1K+ staff, amid the US DOD deal &mdash; Exclusive: Worker pointed to Iran war and Pentagon's Anthropic feud as indications the department is &lsquo;not a responsible partner&rsquo;",
+          "content": "Alice Speri / The Guardian: Letter: UK-based Google DeepMind workers voted to unionize with the Communication Workers Union and Unite in April, representing 1K+ staff, amid the US DOD deal &mdash; Exclusive: Worker pointed to Iran war and Pentagon's Anthropic feud as indications the department is &lsquo;not a responsible partner&rsquo;",
+          "feed_position": 11,
+          "image_url": "http://www.techmeme.com/260505/i6.jpg"
+        },
+        {
+          "source": "Guardian Tech",
+          "url": "https://www.theguardian.com/us-news/2026/may/04/google-deepmind-uk-workers-union",
+          "published_at": "Tue, 05 May 2026 05:05:42 GMT",
+          "title": "Google DeepMind workers in UK vote to unionize amid deal with US military",
+          "standfirst": "Exclusive: Worker pointed to Iran war and Pentagon’s Anthropic feud as indications the department is ‘not a responsible partner’Workers developing Google’s artificial intelligence products in the UK have voted to unionize, in part out of concerns about a deal between the company and the US military that was announced last week.In a letter slated to go to management on Tuesday and shared exclusively with the Guardian, workers at Google DeepMind, the company’s AI research laboratory, requested recognition of the Communication Workers Union and Unite the Union as joint representatives of the lab’s UK-based staff. Continue reading...",
+          "content": "Exclusive: Worker pointed to Iran war and Pentagon’s Anthropic feud as indications the department is ‘not a responsible partner’Workers developing Google’s artificial intelligence products in the UK have voted to unionize, in part out of concerns about a deal between the company and the US military that was announced last week.In a letter slated to go to management on Tuesday and shared exclusively with the Guardian, workers at Google DeepMind, the company’s AI research laboratory, requested recognition of the Communication Workers Union and Unite the Union as joint representatives of the lab’s UK-based staff. Continue reading...",
+          "feed_position": 0
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/260505/i6.jpg",
+      "popularity_score": 3018.219795277778
+    },
+    {
+      "id": "cluster_6",
+      "coverage": 2,
+      "updated_at": "Tue, 05 May 2026 07:20:06 -0400",
+      "title": "Meta is using AI on Facebook and Instagram to detect under-13 users by analyzing bone structure, height, and visual cues, but says it's \"not facial recognition\" (Emma Roth/The Verge)",
+      "neutral_headline": "Facebook and Instagram are using AI bone structure analysis...",
+      "bullet_summary": [
+        "Reported by TechMeme, The Verge"
+      ],
+      "items": [
+        {
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/260505/p13#a260505p13",
+          "published_at": "Tue, 05 May 2026 07:20:06 -0400",
+          "title": "Meta is using AI on Facebook and Instagram to detect under-13 users by analyzing bone structure, height, and visual cues, but says it's \"not facial recognition\" (Emma Roth/The Verge)",
+          "standfirst": "Emma Roth / The Verge: Meta is using AI on Facebook and Instagram to detect under-13 users by analyzing bone structure, height, and visual cues, but says it's &ldquo;not facial recognition&rdquo; &mdash; &lsquo;We want to be clear: this is not facial recognition,&rsquo; Facebook says. &hellip; Facebook and Instagram have a new way to detect &hellip;",
+          "content": "Emma Roth / The Verge: Meta is using AI on Facebook and Instagram to detect under-13 users by analyzing bone structure, height, and visual cues, but says it's &ldquo;not facial recognition&rdquo; &mdash; &lsquo;We want to be clear: this is not facial recognition,&rsquo; Facebook says. &hellip; Facebook and Instagram have a new way to detect &hellip;",
+          "feed_position": 4,
+          "image_url": "http://www.techmeme.com/260505/i13.jpg"
+        },
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/923564/facebook-instagram-teen-accounts-ai-bone-analysis",
+          "published_at": "2026-05-05T07:00:00-04:00",
+          "title": "Facebook and Instagram are using AI bone structure analysis to identify photos of kids",
+          "standfirst": "Facebook and Instagram have a new way to detect and remove users under 13: AI bone structure analysis. In a blog post on Tuesday, Meta - Facebook and Instagram's parent company - says its AI system will scan photos and videos posted to its platforms for \"general themes and visual cues,\" including height and bone [&#8230;]",
+          "content": "Facebook and Instagram have a new way to detect and remove users under 13: AI bone structure analysis. In a blog post on Tuesday, Meta - Facebook and Instagram's parent company - says its AI system will scan photos and videos posted to its platforms for \"general themes and visual cues,\" including height and bone structure. \"We want to be clear: this is not facial recognition,\" Meta says in the blog post, adding that it \"does not identify the specific person in the image.\" This system is part of Meta's efforts to keep kids under 13 off its platforms, and will also analyze posts, comments, bios, and captions to search for \"contextual clues\" t … Read the full story at The Verge.",
+          "feed_position": 0
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/260505/i13.jpg",
+      "popularity_score": 2019.4122952777777
+    },
+    {
+      "id": "cluster_100",
       "coverage": 2,
       "updated_at": "Mon, 04 May 2026 14:13:53 +0000",
       "title": "Amazon opens up its global logistics network to all businesses",
@@ -27,15 +102,39 @@
           "title": "Amazon opens up its logistics networks to any business",
           "standfirst": "The first to sign up are P&G, 3M, Lands' End and American Eagle.",
           "content": "The first to sign up are P&G, 3M, Lands' End and American Eagle.",
-          "feed_position": 9,
+          "feed_position": 10,
           "image_url": "https://www.engadget.com/img/gallery/amazon-opens-up-its-logistics-networks-to-any-business/l-intro-1777894288.jpg"
         }
       ],
       "featured_image": "https://www.engadget.com/img/gallery/amazon-opens-up-its-logistics-networks-to-any-business/l-intro-1777894288.jpg",
-      "popularity_score": 2001.1649719444445
+      "popularity_score": 2000
     },
     {
-      "id": "cluster_38",
+      "id": "cluster_5",
+      "coverage": 1,
+      "updated_at": "Tue, 05 May 2026 11:20:08 +0000",
+      "title": "Why Reddit blocked my daily visit to its mobile website",
+      "neutral_headline": "Why Reddit blocked my daily visit to its mobile website",
+      "bullet_summary": [
+        "Reported by Ars Technica Main"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica Main",
+          "url": "https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website/",
+          "published_at": "Tue, 05 May 2026 11:20:08 +0000",
+          "title": "Why Reddit blocked my daily visit to its mobile website",
+          "standfirst": "Reddit REALLY wants you to use its app.",
+          "content": "I've recently developed a daily habit—perhaps one I should cut back on—of visiting several subreddits to keep up on things like audio production and the Russian invasion of Ukraine. But I was surprised this weekend to suddenly find myself cut off; Reddit simply would not let me visit the site on my mobile phone. Instead, a new overlay popped up, saying, \"Get the app to keep using Reddit.\" There was no way to skip, bypass, or close the overlay. It did not provide any instructions or alternatives for continuing to use the mobile web version. What it did offer was a large button I could press to get the app. If I did so, the overlay told me, I would be able to \"search better\" and \"personalize your feed\"—two things I don't care to do.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2194614711-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2194614711-1152x648.jpg",
+      "popularity_score": 367.4128508333333
+    },
+    {
+      "id": "cluster_54",
       "coverage": 1,
       "updated_at": "Mon, 04 May 2026 21:38:37 +0000",
       "title": "\"Notepad++ for Mac\" release is disavowed by the creator of the original",
@@ -56,10 +155,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Screenshot-2026-05-04-at-4.50.42-PM-1152x648-1777928517.png",
-      "popularity_score": 341.5771941666667
+      "popularity_score": 338.72090638888886
     },
     {
-      "id": "cluster_54",
+      "id": "cluster_67",
       "coverage": 1,
       "updated_at": "Mon, 04 May 2026 19:03:39 +0000",
       "title": "Influential study touting ChatGPT in education retracted over red flags",
@@ -80,10 +179,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2235760397-1152x648.jpg",
-      "popularity_score": 333.9944163888889
+      "popularity_score": 331.1381283333333
     },
     {
-      "id": "cluster_50",
+      "id": "cluster_63",
       "coverage": 1,
       "updated_at": "Mon, 04 May 2026 19:45:57 +0000",
       "title": "Canadian election databases use \"canary traps\"—and they work",
@@ -104,10 +203,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-626440930-1152x648-1777922464.jpg",
-      "popularity_score": 329.6994163888889
+      "popularity_score": 326.8431283333333
     },
     {
-      "id": "cluster_62",
+      "id": "cluster_74",
       "coverage": 1,
       "updated_at": "Mon, 04 May 2026 17:57:46 +0000",
       "title": "GameStop offers $56 billion for eBay, struggles to explain how it'll pay for it",
@@ -128,10 +227,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/gamestop-store-1152x648-1777915631.jpg",
-      "popularity_score": 322.89636083333335
+      "popularity_score": 320.04007277777777
     },
     {
-      "id": "cluster_65",
+      "id": "cluster_77",
       "coverage": 1,
       "updated_at": "Mon, 04 May 2026 17:47:05 +0000",
       "title": "F1 in Miami: That's what it looks like when an upgrade works",
@@ -152,10 +251,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2274048573-1152x648.jpg",
-      "popularity_score": 297.7183052777778
+      "popularity_score": 294.8620172222222
     },
     {
-      "id": "cluster_86",
+      "id": "cluster_95",
       "coverage": 1,
       "updated_at": "Mon, 04 May 2026 15:05:58 +0000",
       "title": "Musk’s “World War III” threat in Twitter lawsuit haunts him at OpenAI trial",
@@ -176,10 +275,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2273259145-1024x648.jpg",
-      "popularity_score": 290.0330275
+      "popularity_score": 288
     },
     {
-      "id": "cluster_79",
+      "id": "cluster_89",
       "coverage": 1,
       "updated_at": "Mon, 04 May 2026 16:26:49 +0000",
       "title": "AMD is adding HDMI 2.1 support for Linux. That's good news for the Steam Machine.",
@@ -200,10 +299,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/valve-steam-machine-desktop-1-1152x648.jpeg",
-      "popularity_score": 286.38052749999997
+      "popularity_score": 283.52423944444445
     },
     {
-      "id": "cluster_88",
+      "id": "cluster_97",
       "coverage": 1,
       "updated_at": "Mon, 04 May 2026 14:55:48 +0000",
       "title": "Mac mini starting price goes up to $799, may be hard to get for \"months\"",
@@ -224,10 +323,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/IMG_0159-1152x648.jpeg",
-      "popularity_score": 264.8635830555556
+      "popularity_score": 263
     },
     {
-      "id": "cluster_98",
+      "id": "cluster_106",
       "coverage": 1,
       "updated_at": "Mon, 04 May 2026 13:23:22 +0000",
       "title": "Trump administration cites national security in stalling 165 wind farms",
@@ -248,10 +347,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2019/03/4991007667_eeca19cf67_b.jpg",
-      "popularity_score": 263.3230275
+      "popularity_score": 263
     },
     {
-      "id": "cluster_99",
+      "id": "cluster_107",
       "coverage": 1,
       "updated_at": "Mon, 04 May 2026 13:12:26 +0000",
       "title": "MIT's virtual violin offers luthiers a new design tool",
@@ -272,10 +371,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2021/09/stradTOP-1152x648-1777837031.jpg",
-      "popularity_score": 243.1408052777778
+      "popularity_score": 243
     },
     {
-      "id": "cluster_104",
+      "id": "cluster_112",
       "coverage": 1,
       "updated_at": "Mon, 04 May 2026 11:00:31 +0000",
       "title": "Toyota built a $10 billion private utopia—what’s going on in there?",
