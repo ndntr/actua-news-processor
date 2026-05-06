@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-05T23:41:24.163Z",
+  "updated_at": "2026-05-06T05:50:44.083Z",
   "clusters": [
     {
-      "id": "cluster_21",
+      "id": "cluster_46",
       "coverage": 3,
       "updated_at": "Tue, 05 May 2026 20:58:56 +0000",
       "title": "Character.AI sued over chatbot that claims to be a real doctor with a license",
@@ -39,14 +39,14 @@
           "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
           "standfirst": "According to Pennsylvania's filing, a Character.AI chatbot presented itself as a licensed psychiatrist during a state investigation, and also fabricated a serial number for its state medical license.",
           "content": "According to Pennsylvania's filing, a Character.AI chatbot presented itself as a licensed psychiatrist during a state investigation, and also fabricated a serial number for its state medical license.",
-          "feed_position": 9
+          "feed_position": 11
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/robot-hand-stethoscope-1152x648-1778013526.jpg",
-      "popularity_score": 3017.292177222222
+      "popularity_score": 3011.136643611111
     },
     {
-      "id": "cluster_22",
+      "id": "cluster_47",
       "coverage": 3,
       "updated_at": "Tue, 05 May 2026 20:56:41 +0000",
       "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
@@ -63,7 +63,7 @@
           "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
           "standfirst": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks.",
           "content": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks.",
-          "feed_position": 4
+          "feed_position": 6
         },
         {
           "source": "The Verge",
@@ -86,44 +86,10 @@
         }
       ],
       "featured_image": "https://www.engadget.com/img/gallery/apple-intelligence-will-reportedly-let-you-choose-third-party-ai-models-in-ios-27/l-intro-1778009823.jpg",
-      "popularity_score": 3017.254677222222
+      "popularity_score": 3011.0991436111112
     },
     {
-      "id": "cluster_9",
-      "coverage": 2,
-      "updated_at": "Tue, 05 May 2026 18:00:38 -0400",
-      "title": "Kaspersky says Daemon Tools, a widely used app for mounting disk images, has been backdoored in a monthlong compromise that has pushed malicious updates (Dan Goodin/Ars Technica)",
-      "neutral_headline": "Widely used Daemon Tools disk app backdoored in monthlong supply-chain attack",
-      "bullet_summary": [
-        "Reported by TechMeme, Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/260505/p53#a260505p53",
-          "published_at": "Tue, 05 May 2026 18:00:38 -0400",
-          "title": "Kaspersky says Daemon Tools, a widely used app for mounting disk images, has been backdoored in a monthlong compromise that has pushed malicious updates (Dan Goodin/Ars Technica)",
-          "standfirst": "Dan Goodin / Ars Technica: Kaspersky says Daemon Tools, a widely used app for mounting disk images, has been backdoored in a monthlong compromise that has pushed malicious updates &mdash; Daemon Tools, a widely used app for mounting disk images, has been backdoored in a monthlong compromise that has pushed malicious updates &hellip;",
-          "content": "Dan Goodin / Ars Technica: Kaspersky says Daemon Tools, a widely used app for mounting disk images, has been backdoored in a monthlong compromise that has pushed malicious updates &mdash; Daemon Tools, a widely used app for mounting disk images, has been backdoored in a monthlong compromise that has pushed malicious updates &hellip;",
-          "feed_position": 2,
-          "image_url": "http://www.techmeme.com/260505/i53.jpg"
-        },
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/05/widely-used-daemon-tools-disk-app-backdoored-in-monthlong-supply-chain-attack/",
-          "published_at": "Tue, 05 May 2026 19:46:15 +0000",
-          "title": "Widely used Daemon Tools disk app backdoored in monthlong supply-chain attack",
-          "standfirst": "Daemon Tools users: It's time to check your machines for stealthy infections, stat.",
-          "content": "Daemon Tools, a widely used app for mounting disk images, has been backdoored in a monthlong compromise that has pushed malicious updates from the servers of its developer, researchers said Tuesday. Kaspersky, the security firm reporting the supply-chain attack, said it began on April 8 and remained active as of the time its post went live. Installers that are signed by the developer’s official digital certificate and downloaded from its website infect Daemon Tools executables, causing the malware to run at boot time. Kaspersky didn’t explicitly say so, but based on technical details, the infected versions appear to be only those that run on Windows. Versions 12.5.0.2421 through 12.5.0.2434 are affected. Neither Kaspersky nor developer AVB could be contacted immediately for additional details. Hard to defend against Infected versions contain an initial payload that collects MAC addresses, hostnames, DNS domain names, running processes, installed software, and system locales. The malware sends them to an attacker-controlled server. Thousands of machines in more than 100 countries were targeted. Out of the many machines infected, about 12 of them, belonging to retail, scientific, government, and manufacturing organizations, have received a follow-on payload—an indication that the supply-chain attack targets select groups.Read full article Comments",
-          "feed_position": 3,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-1230467668-1152x648.jpg"
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/260505/i53.jpg",
-      "popularity_score": 2018.3205105555555
-    },
-    {
-      "id": "cluster_10",
+      "id": "cluster_39",
       "coverage": 2,
       "updated_at": "Tue, 05 May 2026 21:51:45 +0000",
       "title": "Apple will pay $250 million for failing to deliver its AI-powered Siri on time",
@@ -153,53 +119,10 @@
         }
       ],
       "featured_image": "https://www.engadget.com/img/gallery/apple-will-pay-250-million-for-failing-to-deliver-its-ai-powered-siri-on-time/l-intro-1778017785.jpg",
-      "popularity_score": 2018.172455
+      "popularity_score": 2012.016921388889
     },
     {
-      "id": "cluster_27",
-      "coverage": 2,
-      "updated_at": "Tue, 05 May 2026 16:15:00 -0400",
-      "title": "Xbox CEO Asha Sharma says Xbox \"will begin winding down Copilot on mobile and will stop development of Copilot on console\" as part of a strategic shift (Jay Peters/The Verge)",
-      "neutral_headline": "Microsoft gives up on Xbox Copilot AI",
-      "bullet_summary": [
-        "Xbox is \"winding down Copilot on mobile\" and \"will stop development of Copilot on console,\" new Xbox CEO Asha Sharma announced on Tuesday",
-        "Reported by TechMeme, The Verge"
-      ],
-      "items": [
-        {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/260505/p43#a260505p43",
-          "published_at": "Tue, 05 May 2026 16:15:00 -0400",
-          "title": "Xbox CEO Asha Sharma says Xbox \"will begin winding down Copilot on mobile and will stop development of Copilot on console\" as part of a strategic shift (Jay Peters/The Verge)",
-          "standfirst": "Jay Peters / The Verge: Xbox CEO Asha Sharma says Xbox &ldquo;will begin winding down Copilot on mobile and will stop development of Copilot on console&rdquo; as part of a strategic shift &mdash; &#65279;New Xbox CEO Asha Sharma continues to make her mark. &hellip; Xbox is &ldquo;winding down Copilot on mobile&rdquo; and &hellip;",
-          "content": "Jay Peters / The Verge: Xbox CEO Asha Sharma says Xbox &ldquo;will begin winding down Copilot on mobile and will stop development of Copilot on console&rdquo; as part of a strategic shift &mdash; &#65279;New Xbox CEO Asha Sharma continues to make her mark. &hellip; Xbox is &ldquo;winding down Copilot on mobile&rdquo; and &hellip;",
-          "feed_position": 12,
-          "image_url": "http://www.techmeme.com/260505/i43.jpg"
-        },
-        {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/games/924551/microsoft-xbox-ceo-copilot-ai-asha-sharma",
-          "published_at": "2026-05-05T15:54:37-04:00",
-          "title": "Microsoft gives up on Xbox Copilot AI",
-          "standfirst": "Xbox is \"winding down Copilot on mobile\" and \"will stop development of Copilot on console,\" new Xbox CEO Asha Sharma announced on Tuesday. The move follows Sharma's reorganization of the Xbox platform team earlier on Tuesday, which added executives from Microsoft's CoreAI team - where Sharma worked before taking over Xbox - to the Xbox [&#8230;]",
-          "content": "Xbox is \"winding down Copilot on mobile\" and \"will stop development of Copilot on console,\" new Xbox CEO Asha Sharma announced on Tuesday. The move follows Sharma's reorganization of the Xbox platform team earlier on Tuesday, which added executives from Microsoft's CoreAI team - where Sharma worked before taking over Xbox - to the Xbox side of the company. Sharma, on X: Xbox needs to move faster, deepen our connection with the community, and address friction for both players and developers. Today, we promoted leaders who helped build Xbox, while also bringing in new voices to help push us forward. This balance is important as we get th … Read the full story at The Verge.",
-          "feed_position": 2
-        },
-        {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/news/923908/microsoft-xbox-reorg-platform-changes",
-          "published_at": "2026-05-05T12:46:39-04:00",
-          "title": "Microsoft’s new Xbox shake-up is all about platform changes",
-          "standfirst": "Microsoft's new Xbox chief, Asha Sharma, has spent the past couple of months making her mark on the Xbox organization. After focusing on highly requested Xbox console features, reducing the price of Game Pass, and moving Microsoft Gaming back to Xbox, Sharma is reorganizing the Xbox platform team at Microsoft today. The changes will see [&#8230;]",
-          "content": "Microsoft's new Xbox chief, Asha Sharma, has spent the past couple of months making her mark on the Xbox organization. After focusing on highly requested Xbox console features, reducing the price of Game Pass, and moving Microsoft Gaming back to Xbox, Sharma is reorganizing the Xbox platform team at Microsoft today. The changes will see some veterans depart, promotions, and new faces with more technical expertise to help the Xbox platform team. Jared Palmer, who used to work with Sharma in Microsoft's CoreAI division, is joining Xbox as VP of engineering and a technical adviser to Sharma. In a memo to Xbox employees, seen by The Verge, Shar … Read the full story at The Verge.",
-          "feed_position": 8
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/260505/i43.jpg",
-      "popularity_score": 2016.559955
-    },
-    {
-      "id": "cluster_76",
+      "id": "cluster_98",
       "coverage": 2,
       "updated_at": "Tue, 05 May 2026 14:02:19 +0000",
       "title": "DHS abuses 1930s customs law in attempt to get data on Canadian from Google",
@@ -225,15 +148,15 @@
           "title": "DHS Demanded Google Surrender Data on Canadian’s Activity, Location Over Anti-ICE Posts",
           "standfirst": "Using a 1930s trade law, Homeland Security targeted the man—who hasn’t entered the US in more than a decade—following posts on X condemning the killings of Renee Good and Alex Pretti.",
           "content": "Using a 1930s trade law, Homeland Security targeted the man—who hasn’t entered the US in more than a decade—following posts on X condemning the killings of Renee Good and Alex Pretti.",
-          "feed_position": 29,
+          "feed_position": 41,
           "image_url": "https://media.wired.com/photos/69f3b2974c4a83683f43ca9b/master/pass/Security_DHSDemandedLocationData_1080x1080_02.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/iceagent-1152x648.jpg",
-      "popularity_score": 2010.348566111111
+      "popularity_score": 2004.1930325
     },
     {
-      "id": "cluster_83",
+      "id": "cluster_103",
       "coverage": 2,
       "updated_at": "Tue, 05 May 2026 11:59:20 +0000",
       "title": "Google DeepMind Workers Vote to Unionize Over Military AI Deals",
@@ -249,7 +172,7 @@
           "title": "Google DeepMind Workers Vote to Unionize Over Military AI Deals",
           "standfirst": "UK staff of Google’s AI research lab hope to block the use of the company’s artificial intelligence models in military settings.",
           "content": "UK staff of Google’s AI research lab hope to block the use of the company’s artificial intelligence models in military settings.",
-          "feed_position": 5,
+          "feed_position": 17,
           "image_url": "https://media.wired.com/photos/69f9c20f546a456d51b2640c/master/pass/GettyImages-2177657481.jpg"
         },
         {
@@ -263,10 +186,10 @@
         }
       ],
       "featured_image": "https://media.wired.com/photos/69f9c20f546a456d51b2640c/master/pass/GettyImages-2177657481.jpg",
-      "popularity_score": 2008.298843888889
+      "popularity_score": 2002.1433102777778
     },
     {
-      "id": "cluster_8",
+      "id": "cluster_38",
       "coverage": 1,
       "updated_at": "Tue, 05 May 2026 22:28:12 +0000",
       "title": "OpenAI president forced to read his personal diary entries to jury",
@@ -287,10 +210,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/greg-brockman-is-you-taking-notes-on-criminal-conspiracy-1152x648.jpg",
-      "popularity_score": 366.779955
+      "popularity_score": 360.6244213888889
     },
     {
-      "id": "cluster_13",
+      "id": "cluster_41",
       "coverage": 1,
       "updated_at": "Tue, 05 May 2026 21:41:32 +0000",
       "title": "Silicon Valley bets $200M on AI data centers floating in the ocean",
@@ -311,10 +234,34 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Panthalassa-ocean-computing-node-with-multiple-people-1152x648.jpg",
-      "popularity_score": 356.0021772222222
+      "popularity_score": 349.8466436111111
     },
     {
-      "id": "cluster_32",
+      "id": "cluster_54",
+      "coverage": 1,
+      "updated_at": "Tue, 05 May 2026 19:46:15 +0000",
+      "title": "Widely used Daemon Tools disk app backdoored in monthlong supply-chain attack",
+      "neutral_headline": "Widely used Daemon Tools disk app backdoored in monthlong supply-chain attack",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/05/widely-used-daemon-tools-disk-app-backdoored-in-monthlong-supply-chain-attack/",
+          "published_at": "Tue, 05 May 2026 19:46:15 +0000",
+          "title": "Widely used Daemon Tools disk app backdoored in monthlong supply-chain attack",
+          "standfirst": "Daemon Tools users: It's time to check your machines for stealthy infections, stat.",
+          "content": "Daemon Tools, a widely used app for mounting disk images, has been backdoored in a monthlong compromise that has pushed malicious updates from the servers of its developer, researchers said Tuesday. Kaspersky, the security firm reporting the supply-chain attack, said it began on April 8 and remained active as of the time its post went live. Installers that are signed by the developer’s official digital certificate and downloaded from its website infect Daemon Tools executables, causing the malware to run at boot time. Kaspersky didn’t explicitly say so, but based on technical details, the infected versions appear to be only those that run on Windows. Versions 12.5.0.2421 through 12.5.0.2434 are affected. Neither Kaspersky nor developer AVB could be contacted immediately for additional details. Hard to defend against Infected versions contain an initial payload that collects MAC addresses, hostnames, DNS domain names, running processes, installed software, and system locales. The malware sends them to an attacker-controlled server. Thousands of machines in more than 100 countries were targeted. Out of the many machines infected, about 12 of them, belonging to retail, scientific, government, and manufacturing organizations, have received a follow-on payload—an indication that the supply-chain attack targets select groups.Read full article Comments",
+          "feed_position": 3,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-1230467668-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-1230467668-1152x648.jpg",
+      "popularity_score": 327.92525472222223
+    },
+    {
+      "id": "cluster_55",
       "coverage": 1,
       "updated_at": "Tue, 05 May 2026 19:32:38 +0000",
       "title": "RFK Jr. plans to curb antidepressants, which he falsely compares to heroin",
@@ -335,10 +282,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2268348621-1152x648.jpg",
-      "popularity_score": 308.8538438888889
+      "popularity_score": 302.69831027777775
     },
     {
-      "id": "cluster_46",
+      "id": "cluster_68",
       "coverage": 1,
       "updated_at": "Tue, 05 May 2026 17:17:25 +0000",
       "title": "Google Home gets upgraded Gemini voice assistant and new camera controls",
@@ -359,10 +306,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Google-Gemini-Home-1-1152x648.jpg",
-      "popularity_score": 308.60023277777776
+      "popularity_score": 302.4446991666667
     },
     {
-      "id": "cluster_48",
+      "id": "cluster_70",
       "coverage": 1,
       "updated_at": "Tue, 05 May 2026 17:07:32 +0000",
       "title": "Trump SEC lets Musk settle $150 million Twitter lawsuit for $1.5 million",
@@ -383,10 +330,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/elon-musk-twitter-speech-juggle-1152x648.jpg",
-      "popularity_score": 286.43551055555554
+      "popularity_score": 280.27997694444446
     },
     {
-      "id": "cluster_62",
+      "id": "cluster_84",
       "coverage": 1,
       "updated_at": "Tue, 05 May 2026 15:39:21 +0000",
       "title": "How do you design a $30,000 electric pickup? Inside Ford's skunkworks.",
@@ -407,10 +354,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/EVDC_HighVoltage_2-1152x648.jpg",
-      "popularity_score": 280.9657883333333
+      "popularity_score": 274.8102547222222
     },
     {
-      "id": "cluster_67",
+      "id": "cluster_89",
       "coverage": 1,
       "updated_at": "Tue, 05 May 2026 15:20:24 +0000",
       "title": "Charlize Theron is a bewitching Circe in Odyssey trailer",
@@ -431,10 +378,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/homer1-1152x648-1777991220.jpg",
-      "popularity_score": 279.649955
+      "popularity_score": 273.4944213888889
     },
     {
-      "id": "cluster_70",
+      "id": "cluster_92",
       "coverage": 1,
       "updated_at": "Tue, 05 May 2026 15:09:58 +0000",
       "title": "Musk's Europe gamble: Will others follow the Dutch and approve FSD?",
@@ -455,10 +402,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2233586805-1152x648.jpg",
-      "popularity_score": 254.47606611111112
+      "popularity_score": 248.3205325
     },
     {
-      "id": "cluster_85",
+      "id": "cluster_105",
       "coverage": 1,
       "updated_at": "Tue, 05 May 2026 11:20:08 +0000",
       "title": "Why Reddit blocked my daily visit to its mobile website",
@@ -479,10 +426,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2194614711-1152x648.jpg",
-      "popularity_score": 155.64551055555555
+      "popularity_score": 149.48997694444444
     },
     {
-      "id": "cluster_119",
+      "id": "cluster_136",
       "coverage": 1,
       "updated_at": "Mon, 04 May 2026 19:03:39 +0000",
       "title": "Influential study touting ChatGPT in education retracted over red flags",
@@ -506,7 +453,7 @@
       "popularity_score": 148
     },
     {
-      "id": "cluster_121",
+      "id": "cluster_137",
       "coverage": 1,
       "updated_at": "Mon, 04 May 2026 17:57:46 +0000",
       "title": "GameStop offers $56 billion for eBay, struggles to explain how it'll pay for it",
@@ -530,7 +477,7 @@
       "popularity_score": 148
     },
     {
-      "id": "cluster_127",
+      "id": "cluster_143",
       "coverage": 1,
       "updated_at": "Mon, 04 May 2026 15:05:58 +0000",
       "title": "Musk’s “World War III” threat in Twitter lawsuit haunts him at OpenAI trial",
@@ -554,7 +501,7 @@
       "popularity_score": 148
     },
     {
-      "id": "cluster_111",
+      "id": "cluster_130",
       "coverage": 1,
       "updated_at": "Mon, 04 May 2026 21:38:37 +0000",
       "title": "\"Notepad++ for Mac\" release is disavowed by the creator of the original",
@@ -578,7 +525,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_117",
+      "id": "cluster_134",
       "coverage": 1,
       "updated_at": "Mon, 04 May 2026 19:45:57 +0000",
       "title": "Canadian election databases use \"canary traps\"—and they work",
@@ -602,7 +549,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_122",
+      "id": "cluster_138",
       "coverage": 1,
       "updated_at": "Mon, 04 May 2026 17:47:05 +0000",
       "title": "F1 in Miami: That's what it looks like when an upgrade works",
@@ -626,7 +573,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_124",
+      "id": "cluster_140",
       "coverage": 1,
       "updated_at": "Mon, 04 May 2026 16:26:49 +0000",
       "title": "AMD is adding HDMI 2.1 support for Linux. That's good news for the Steam Machine.",
@@ -650,7 +597,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_128",
+      "id": "cluster_144",
       "coverage": 1,
       "updated_at": "Mon, 04 May 2026 14:55:48 +0000",
       "title": "Mac mini starting price goes up to $799, may be hard to get for \"months\"",
