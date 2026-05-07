@@ -1,17 +1,40 @@
 {
   "clinical": {
-    "updated_at": "2026-05-07T20:08:09.108Z",
+    "updated_at": "2026-05-07T23:46:56.135Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-05-07T20:08:09.108Z",
+    "updated_at": "2026-05-07T23:46:56.135Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-05-07T20:08:11.735Z",
+    "updated_at": "2026-05-07T23:46:58.266Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Thu, 07 May 2026 23:03:04 GMT",
+        "title": "How sunburn inspired a new way to store energy",
+        "neutral_headline": "How sunburn inspired a new way to store energy",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/c62l9gnx775o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 07 May 2026 23:03:04 GMT",
+            "title": "How sunburn inspired a new way to store energy",
+            "standfirst": "Molecules that can capture heat could be a useful technology to decarbonise heating.",
+            "content": "Molecules that can capture heat could be a useful technology to decarbonise heating.",
+            "feed_position": 23,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ebd/live/fd224ab0-3d5a-11f1-9d5c-8ba507d7dbde.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ebd/live/fd224ab0-3d5a-11f1-9d5c-8ba507d7dbde.jpg"
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Thu, 07 May 2026 20:00:00 GMT",
         "title": "BBC Inside Science",
@@ -34,7 +57,7 @@
         "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Thu, 07 May 2026 19:20:55 GMT",
         "title": "Two Britons evacuated from hantavirus-hit ship ‘improving’ in hospital",
@@ -103,7 +126,7 @@
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Thu, 07 May 2026 18:03:38 GMT",
         "title": "Hantavirus: Your questions answered",
@@ -126,7 +149,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14a1/live/fac2fcb0-4a39-11f1-ac78-2112837ce2aa.jpg"
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Thu, 07 May 2026 16:35:10 GMT",
         "title": "Affordable fresh food is the recipe for a healthy Britain | Letter",
@@ -147,7 +170,7 @@
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Thu, 07 May 2026 16:09:48 GMT",
         "title": "Mo Farah urges against possible £120m cut to school sports in England",
@@ -168,7 +191,7 @@
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Thu, 07 May 2026 15:01:07 GMT",
         "title": "How worried should we be about hantavirus?",
@@ -191,7 +214,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b327/live/76b6ee00-4a38-11f1-b55d-0f258dce1735.jpg"
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Thu, 07 May 2026 14:46:56 GMT",
         "title": "Hantavirus: WHO chief says public health risk is low",
@@ -214,7 +237,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f66/live/7eb9b800-4a22-11f1-ac78-2112837ce2aa.jpg"
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Thu, 07 May 2026 14:00:37 GMT",
         "title": "Susan Collins reveals medical condition but says her job as senator is unaffected",
@@ -235,7 +258,7 @@
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Thu, 07 May 2026 13:57:43 GMT",
         "title": "Hantavirus survivor says sickness was like 'hell on earth'",
@@ -258,7 +281,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e38/live/2dd6cba0-4a1b-11f1-a7ce-b934bcb15ff4.jpg"
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Thu, 07 May 2026 13:40:33 GMT",
         "title": "When does snoring become a problem?",
@@ -281,7 +304,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e80e/live/55181d30-4a0d-11f1-ac78-2112837ce2aa.jpg"
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Thu, 07 May 2026 13:33:00 GMT",
         "title": "Anaemia and the new dementia link",
@@ -304,7 +327,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9579/live/e2317a80-4a18-11f1-ac78-2112837ce2aa.png"
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Thu, 07 May 2026 13:15:20 GMT",
         "title": "Doctors’ union drops opposition to Cass review of NHS gender healthcare",
@@ -325,7 +348,7 @@
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Thu, 07 May 2026 13:00:50 GMT",
         "title": "‘People should be talking about it’: moves to curtail vaccine information obscures important science, doctors say",
@@ -347,7 +370,7 @@
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Thu, 07 May 2026 13:00:50 GMT",
         "title": "How to save a life: paramedics on emergency first aid – from cardiac arrest to burns to seizures",
@@ -368,7 +391,7 @@
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Thu, 07 May 2026 11:05:53 GMT",
         "title": "Parents in Wales urged to ‘be vigilant’ about hand-washing amid hepatitis A outbreak",
@@ -390,7 +413,7 @@
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Thu, 07 May 2026 09:40:24 GMT",
         "title": "Hantavirus-hit cruise ship on way to Canary Islands after three evacuated",
@@ -413,7 +436,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fa8/live/9080e1e0-49e5-11f1-9921-0be54b6c608a.jpg"
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Thu, 07 May 2026 05:10:07 GMT",
         "title": "Endangered eel population boost hopes",
@@ -436,7 +459,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ff3/live/a3676010-4948-11f1-861c-270dbba6d6ae.jpg"
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Thu, 07 May 2026 05:06:26 GMT",
         "title": "Drivers 'chucking stuff out of windows' blamed as litter on 99% of main roads",
@@ -460,7 +483,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37a0/live/0cb10a70-4887-11f1-bcab-efc229dd9518.jpg"
       },
       {
-        "id": "cluster_18",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Thu, 07 May 2026 04:16:41 GMT",
         "title": "What is hantavirus and how does it spread?",
@@ -492,32 +515,11 @@
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9b6/live/e5da45c0-477c-11f1-b55d-0f258dce1735.jpg"
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Thu, 07 May 2026 04:00:38 GMT",
-        "title": "Do women need to exercise differently from men – and ease up on cardio after 40?",
-        "neutral_headline": "Do women need to exercise differently from men – and ease up on cardio after 40",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/lifeandstyle/2026/may/07/do-women-need-to-exercise-differently-from-men-and-ease-up-on-cardio-after-40",
-            "published_at": "Thu, 07 May 2026 04:00:38 GMT",
-            "title": "Do women need to exercise differently from men – and ease up on cardio after 40?",
-            "standfirst": "A lot of fitness advice is based on research into people who don’t have periods, give birth or go through menopause. How much of it should be modified – or even thrown out?I can’t remember when I first became aware of the phrase: “Women are not small men.” But once I’d heard it, I started hearing it everywhere. Fitness types on social media kept alluding to it. Friends would talk excitedly about the new strain of female-specific exercise research, which was smashing the template we had all held dear for years. And the originator of the phrase, Dr Stacy Sims, was suddenly on every podcast you cared to name. A highly credentialed sports scientist with a huge social media following, she’s hard to avoid, if your algorithms skew vaguely towards self-optimisation content.While her stance remains divisive in the sports science world, it has the kind of splashy, audacious quality that mainstream exercise advice does not. As a result, it has taken hold in a big way. You might say that Stacy Sims is to women’s exercise what Dr Chris van Tulleken is to ultra-processed foods: changing the conversation almost single-handedly while undaunted by any pushback. Continue reading...",
-            "content": "A lot of fitness advice is based on research into people who don’t have periods, give birth or go through menopause. How much of it should be modified – or even thrown out?I can’t remember when I first became aware of the phrase: “Women are not small men.” But once I’d heard it, I started hearing it everywhere. Fitness types on social media kept alluding to it. Friends would talk excitedly about the new strain of female-specific exercise research, which was smashing the template we had all held dear for years. And the originator of the phrase, Dr Stacy Sims, was suddenly on every podcast you cared to name. A highly credentialed sports scientist with a huge social media following, she’s hard to avoid, if your algorithms skew vaguely towards self-optimisation content.While her stance remains divisive in the sports science world, it has the kind of splashy, audacious quality that mainstream exercise advice does not. As a result, it has taken hold in a big way. You might say that Stacy Sims is to women’s exercise what Dr Chris van Tulleken is to ultra-processed foods: changing the conversation almost single-handedly while undaunted by any pushback. Continue reading...",
-            "feed_position": 12
-          }
-        ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-05-07T20:08:11.735Z",
+    "updated_at": "2026-05-07T23:46:58.266Z",
     "clusters": []
   }
 }
