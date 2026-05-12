@@ -1,52 +1,51 @@
 {
-  "updated_at": "2026-05-11T23:51:26.033Z",
+  "updated_at": "2026-05-12T06:07:29.014Z",
   "clusters": [
     {
-      "id": "cluster_22",
+      "id": "cluster_14",
       "coverage": 3,
-      "updated_at": "Mon, 11 May 2026 15:15:04 -0400",
-      "title": "Google's TIG says it likely thwarted the use of an AI-generated zero-day in a \"mass exploitation event\" and tools like OpenClaw are being used to find exploits (Samantha Subin/CNBC)",
-      "neutral_headline": "Google announces its first-ever discovery of a zero-day exploit made with AI",
+      "updated_at": "Tue, 12 May 2026 01:07:37 +0000",
+      "title": "Daybreak is OpenAI's response to Anthropic's Claude Mythos",
+      "neutral_headline": "Daybreak is OpenAI's response to Anthropic's Claude Mythos",
       "bullet_summary": [
-        "The Google Threat Intelligence Group said its proactive measures stopped a \"mass exploitation event",
-        "Reported by TechMeme, Engadget, The Verge"
+        "Reported by Engadget, The Verge, TechMeme"
       ],
       "items": [
         {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/260511/p33#a260511p33",
-          "published_at": "Mon, 11 May 2026 15:15:04 -0400",
-          "title": "Google's TIG says it likely thwarted the use of an AI-generated zero-day in a \"mass exploitation event\" and tools like OpenClaw are being used to find exploits (Samantha Subin/CNBC)",
-          "standfirst": "Samantha Subin / CNBC: Google's TIG says it likely thwarted the use of an AI-generated zero-day in a &ldquo;mass exploitation event&rdquo; and tools like OpenClaw are being used to find exploits &mdash; Google's Threat Intelligence Group said in a report on Monday that it thwarted an effort by hackers &hellip;",
-          "content": "Samantha Subin / CNBC: Google's TIG says it likely thwarted the use of an AI-generated zero-day in a &ldquo;mass exploitation event&rdquo; and tools like OpenClaw are being used to find exploits &mdash; Google's Threat Intelligence Group said in a report on Monday that it thwarted an effort by hackers &hellip;",
-          "feed_position": 8,
-          "image_url": "http://www.techmeme.com/260511/i33.jpg"
-        },
-        {
           "source": "Engadget",
-          "url": "https://www.engadget.com/2170002/google-announces-its-first-ever-discovery-of-a-zero-day-exploit-made-with-ai/",
-          "published_at": "Mon, 11 May 2026 18:11:07 +0000",
-          "title": "Google announces its first-ever discovery of a zero-day exploit made with AI",
-          "standfirst": "The Google Threat Intelligence Group said its proactive measures stopped a \"mass exploitation event.\"",
-          "content": "The Google Threat Intelligence Group said its proactive measures stopped a \"mass exploitation event.\"",
-          "feed_position": 3,
-          "image_url": "https://www.engadget.com/img/gallery/google-announces-its-first-ever-discovery-of-a-zero-day-exploit-made-with-ai/l-intro-1778522994.jpg"
+          "url": "https://www.engadget.com/2170410/daybreak-openai-cybersecurity-initiative/",
+          "published_at": "Tue, 12 May 2026 01:07:37 +0000",
+          "title": "Daybreak is OpenAI's response to Anthropic's Claude Mythos",
+          "standfirst": "OpenAI has launched a cybersecurity initiative called Daybreak, powered by GPT-5.5 and Codex Security.",
+          "content": "OpenAI has launched a cybersecurity initiative called Daybreak, powered by GPT-5.5 and Codex Security.",
+          "feed_position": 2,
+          "image_url": "https://www.engadget.com/img/gallery/daybreak-is-openais-response-to-anthropics-claude-mythos/l-intro-1778547896.jpg"
         },
         {
           "source": "The Verge",
-          "url": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
-          "published_at": "2026-05-11T12:09:42-04:00",
-          "title": "Google stopped a zero-day hack that it says was developed with AI",
-          "standfirst": "For the first time, Google says it has spotted and stopped a zero-day exploit developed with AI. According to a report from Google Threat Intelligence Group (GTIG), \"prominent cyber crime threat actors\" were planning to use the vulnerability for a \"mass exploitation event\" that would have allowed them to bypass two-factor authentication on an unnamed [&#8230;]",
-          "content": "For the first time, Google says it has spotted and stopped a zero-day exploit developed with AI. According to a report from Google Threat Intelligence Group (GTIG), \"prominent cyber crime threat actors\" were planning to use the vulnerability for a \"mass exploitation event\" that would have allowed them to bypass two-factor authentication on an unnamed \"open-source, web-based system administration tool.\" Google's researchers found hints in the Python script used for the exploit that indicated help from AI, like a \"hallucinated CVSS score\" and \"structured, textbook\" formatting consistent with LLM training data. The exploit takes advantage of … Read the full story at The Verge.",
-          "feed_position": 7
+          "url": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
+          "published_at": "2026-05-11T19:05:01-04:00",
+          "title": "OpenAI just released its answer to Claude Mythos",
+          "standfirst": "OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create a threat model based on an organization's code and focus on possible attack paths, validate likely vulnerabilities, and then automate the detection of the higher [&#8230;]",
+          "content": "OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create a threat model based on an organization's code and focus on possible attack paths, validate likely vulnerabilities, and then automate the detection of the higher risk ones. Its launch comes just over a month after rival Anthropic announced Claude Mythos, a security-focused AI model it claimed was too dangerous to publicly release and only shared privately as a part of its own initiative, dubbed Project Glasswing. Still, that didn't stop at leas … Read the full story at The Verge.",
+          "feed_position": 1
+        },
+        {
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/260511/p40#a260511p40",
+          "published_at": "Mon, 11 May 2026 19:00:00 -0400",
+          "title": "OpenAI launches Daybreak, a cybersecurity initiative integrating AI models and Codex Security to help organizations patch vulnerabilities (Alexey Shabanov/TestingCatalog AI News)",
+          "standfirst": "Alexey Shabanov / TestingCatalog AI News: OpenAI launches Daybreak, a cybersecurity initiative integrating AI models and Codex Security to help organizations patch vulnerabilities &mdash; OpenAI launches Daybreak, a cybersecurity initiative integrating AI models and Codex Security to help organizations patch vulnerabilities.",
+          "content": "Alexey Shabanov / TestingCatalog AI News: OpenAI launches Daybreak, a cybersecurity initiative integrating AI models and Codex Security to help organizations patch vulnerabilities &mdash; OpenAI launches Daybreak, a cybersecurity initiative integrating AI models and Codex Security to help organizations patch vulnerabilities.",
+          "feed_position": 9,
+          "image_url": "http://www.techmeme.com/260511/i40.jpg"
         }
       ],
-      "featured_image": "http://www.techmeme.com/260511/i33.jpg",
-      "popularity_score": 3015.393879722222
+      "featured_image": "https://www.engadget.com/img/gallery/daybreak-is-openais-response-to-anthropics-claude-mythos/l-intro-1778547896.jpg",
+      "popularity_score": 3015.0022183333335
     },
     {
-      "id": "cluster_28",
+      "id": "cluster_42",
       "coverage": 3,
       "updated_at": "Mon, 11 May 2026 18:20:49 +0000",
       "title": "iOS end-to-end encrypted RCS messaging begins rolling today in beta",
@@ -62,7 +61,7 @@
           "title": "iOS end-to-end encrypted RCS messaging begins rolling today in beta",
           "standfirst": "Look for the new lock icon in your Android chats.",
           "content": "Look for the new lock icon in your Android chats.",
-          "feed_position": 2,
+          "feed_position": 5,
           "image_url": "https://www.engadget.com/img/gallery/ios-end-to-end-encrypted-rcs-messaging-begins-rolling-today-in-beta/l-intro-1778523583.jpg"
         },
         {
@@ -72,7 +71,7 @@
           "title": "Apple brings encrypted RCS chats to iPhone",
           "standfirst": "Apple now lets you have encrypted RCS conversations with Android users through the Messages app on iOS. As part of iOS 26.5, which was released on Monday, Apple added support for end-to-end encrypted RCS messaging in beta, meaning that Apple and Google can't see your messages while they're sent. With iOS 26.5, you'll see a [&#8230;]",
           "content": "Apple now lets you have encrypted RCS conversations with Android users through the Messages app on iOS. As part of iOS 26.5, which was released on Monday, Apple added support for end-to-end encrypted RCS messaging in beta, meaning that Apple and Google can't see your messages while they're sent. With iOS 26.5, you'll see a lock icon and a small \"Encrypted\" message at the top of the chat to note when you're having an encrypted conversation with an Android user and are on a carrier that supports the feature. Apple says that encryption will be on by default and \"will be automatically enabled over time for new and existing RCS conversations.\" … Read the full story at The Verge.",
-          "feed_position": 5
+          "feed_position": 6
         },
         {
           "source": "Wired Tech",
@@ -81,114 +80,82 @@
           "title": "Update Your iPhone Now for Better Encrypted Messaging With Android",
           "standfirst": "As part of the iOS 26.5 update, Apple’s Messages app can now encrypt texts between some iPhone and Android smartphones.",
           "content": "As part of the iOS 26.5 update, Apple’s Messages app can now encrypt texts between some iPhone and Android smartphones.",
-          "feed_position": 4,
+          "feed_position": 18,
           "image_url": "https://media.wired.com/photos/6a01dea3da06cc87ccc8dc34/master/pass/GettyImages-2235659080.jpg"
         }
       ],
       "featured_image": "https://www.engadget.com/img/gallery/ios-end-to-end-encrypted-rcs-messaging-begins-rolling-today-in-beta/l-intro-1778523583.jpg",
-      "popularity_score": 3014.4897130555555
+      "popularity_score": 3008.2222183333333
     },
     {
-      "id": "cluster_1",
+      "id": "cluster_18",
       "coverage": 2,
-      "updated_at": "2026-05-11T19:05:01-04:00",
-      "title": "OpenAI just released its answer to Claude Mythos",
-      "neutral_headline": "OpenAI just released its answer to Claude Mythos",
-      "bullet_summary": [
-        "Reported by The Verge, TechMeme"
-      ],
-      "items": [
-        {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
-          "published_at": "2026-05-11T19:05:01-04:00",
-          "title": "OpenAI just released its answer to Claude Mythos",
-          "standfirst": "OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create a threat model based on an organization's code and focus on possible attack paths, validate likely vulnerabilities, and then automate the detection of the higher [&#8230;]",
-          "content": "OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create a threat model based on an organization's code and focus on possible attack paths, validate likely vulnerabilities, and then automate the detection of the higher risk ones. Its launch comes just over a month after rival Anthropic announced Claude Mythos, a security-focused AI model it claimed was too dangerous to publicly release and only shared privately as a part of its own initiative, dubbed Project Glasswing. Still, that didn't stop at leas … Read the full story at The Verge.",
-          "feed_position": 0
-        },
-        {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/260511/p40#a260511p40",
-          "published_at": "Mon, 11 May 2026 19:00:00 -0400",
-          "title": "OpenAI launches Daybreak, a cybersecurity initiative integrating AI models and Codex Security to help organizations patch vulnerabilities (Alexey Shabanov/TestingCatalog AI News)",
-          "standfirst": "Alexey Shabanov / TestingCatalog AI News: OpenAI launches Daybreak, a cybersecurity initiative integrating AI models and Codex Security to help organizations patch vulnerabilities &mdash; OpenAI launches Daybreak, a cybersecurity initiative integrating AI models and Codex Security to help organizations patch vulnerabilities.",
-          "content": "Alexey Shabanov / TestingCatalog AI News: OpenAI launches Daybreak, a cybersecurity initiative integrating AI models and Codex Security to help organizations patch vulnerabilities &mdash; OpenAI launches Daybreak, a cybersecurity initiative integrating AI models and Codex Security to help organizations patch vulnerabilities.",
-          "feed_position": 1,
-          "image_url": "http://www.techmeme.com/260511/i40.jpg"
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/260511/i40.jpg",
-      "popularity_score": 2019.2263797222222
-    },
-    {
-      "id": "cluster_33",
-      "coverage": 2,
-      "updated_at": "Mon, 11 May 2026 17:38:32 +0000",
-      "title": "Daniel Ek-backed defense tech Helsing to raise $1.2B at $18B valuation",
-      "neutral_headline": "Daniel Ek-backed defense tech Helsing to raise $1.2B at $18B valuation",
+      "updated_at": "Tue, 12 May 2026 00:09:01 +0000",
+      "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
+      "neutral_headline": "Riding an AI rally, Robinhood preps second retail venture IPO",
       "bullet_summary": [
         "Reported by TechCrunch, TechMeme"
       ],
       "items": [
         {
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/05/11/daniel-ek-backed-defense-tech-helsing-to-raise-1-2b-at-18b-valuation/",
-          "published_at": "Mon, 11 May 2026 17:38:32 +0000",
-          "title": "Daniel Ek-backed defense tech Helsing to raise $1.2B at $18B valuation",
-          "standfirst": "Five-year old European military drone startup Helsing is close to raising another monster round.",
-          "content": "Five-year old European military drone startup Helsing is close to raising another monster round.",
-          "feed_position": 2
+          "url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
+          "published_at": "Tue, 12 May 2026 00:09:01 +0000",
+          "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
+          "standfirst": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
+          "content": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
+          "feed_position": 1
         },
         {
           "source": "TechMeme",
-          "url": "https://www.techmeme.com/260511/p28#a260511p28",
-          "published_at": "Mon, 11 May 2026 12:40:01 -0400",
-          "title": "Sources: German defense tech startup Helsing is set to raise $1.2B led by Dragoneer and Lightspeed at a valuation of about $18B, up from $14B in June 2025 (Financial Times)",
-          "standfirst": "Financial Times: Sources: German defense tech startup Helsing is set to raise $1.2B led by Dragoneer and Lightspeed at a valuation of about $18B, up from $14B in June 2025 &mdash; German company backed by Spotify's Daniel Ek set to raise $1.2bn in latest funding round &mdash; Helsing, the German defence technology group backed &hellip;",
-          "content": "Financial Times: Sources: German defense tech startup Helsing is set to raise $1.2B led by Dragoneer and Lightspeed at a valuation of about $18B, up from $14B in June 2025 &mdash; German company backed by Spotify's Daniel Ek set to raise $1.2bn in latest funding round &mdash; Helsing, the German defence technology group backed &hellip;",
-          "feed_position": 13,
-          "image_url": "http://www.techmeme.com/260511/i28.jpg"
+          "url": "https://www.techmeme.com/260511/p38#a260511p38",
+          "published_at": "Mon, 11 May 2026 18:35:01 -0400",
+          "title": "Robinhood confidentially filed for its second publicly traded venture fund, Robinhood Venture Fund II, focusing on early-stage and growth-stage startups (Lucinda Shen/Axios)",
+          "standfirst": "Lucinda Shen / Axios: Robinhood confidentially filed for its second publicly traded venture fund, Robinhood Venture Fund II, focusing on early-stage and growth-stage startups &mdash; Robinhood has filed confidentially for its second publicly traded venture fund, roughly two months after taking its first one to market, Axios Pro has learned.",
+          "content": "Lucinda Shen / Axios: Robinhood confidentially filed for its second publicly traded venture fund, Robinhood Venture Fund II, focusing on early-stage and growth-stage startups &mdash; Robinhood has filed confidentially for its second publicly traded venture fund, roughly two months after taking its first one to market, Axios Pro has learned.",
+          "feed_position": 11,
+          "image_url": "http://www.techmeme.com/260511/i38.jpg"
         }
       ],
-      "featured_image": "http://www.techmeme.com/260511/i28.jpg",
-      "popularity_score": 2013.7849908333333
+      "featured_image": "http://www.techmeme.com/260511/i38.jpg",
+      "popularity_score": 2014.0255516666666
     },
     {
-      "id": "cluster_40",
+      "id": "cluster_44",
       "coverage": 2,
-      "updated_at": "2026-05-11T13:04:22-04:00",
-      "title": "Texas sues Netflix for advertising &#8216;bait and switch&#8217; and spying",
-      "neutral_headline": "Texas sues Netflix for advertising &#8216;bait and switch&#8217; and spying",
+      "updated_at": "Mon, 11 May 2026 18:11:07 +0000",
+      "title": "Google announces its first-ever discovery of a zero-day exploit made with AI",
+      "neutral_headline": "Google announces its first-ever discovery of a zero-day exploit made with AI",
       "bullet_summary": [
-        "Reported by The Verge, TechMeme"
+        "The Google Threat Intelligence Group said its proactive measures stopped a \"mass exploitation event",
+        "Reported by Engadget, The Verge"
       ],
       "items": [
         {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/streaming/928071/texas-netflix-lawsuit-privacy",
-          "published_at": "2026-05-11T13:04:22-04:00",
-          "title": "Texas sues Netflix for advertising &#8216;bait and switch&#8217; and spying",
-          "standfirst": "Texas Attorney General Ken Paxton has filed a lawsuit against Netflix, accusing the company of turning its back on its promise to remain ad-free and safe for kids. The lawsuit, filed on Monday, claims Netflix has \"opened Texans' data for inspection by the same Big Ad Tech community it once criticized for exploiting users in [&#8230;]",
-          "content": "Texas Attorney General Ken Paxton has filed a lawsuit against Netflix, accusing the company of turning its back on its promise to remain ad-free and safe for kids. The lawsuit, filed on Monday, claims Netflix has \"opened Texans' data for inspection by the same Big Ad Tech community it once criticized for exploiting users in this same way.\" In the lawsuit, Paxton claims Netflix drove up subscriptions by promoting its platform as an \"escape from Big Tech surveillance.\" But that changed when Netflix introduced an ad-supported streaming plan in 2022, something co-founder Reed Hastings promised not to do. Its move into digital advertising allowe … Read the full story at The Verge.",
-          "feed_position": 6
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2170002/google-announces-its-first-ever-discovery-of-a-zero-day-exploit-made-with-ai/",
+          "published_at": "Mon, 11 May 2026 18:11:07 +0000",
+          "title": "Google announces its first-ever discovery of a zero-day exploit made with AI",
+          "standfirst": "The Google Threat Intelligence Group said its proactive measures stopped a \"mass exploitation event.\"",
+          "content": "The Google Threat Intelligence Group said its proactive measures stopped a \"mass exploitation event.\"",
+          "feed_position": 6,
+          "image_url": "https://www.engadget.com/img/gallery/google-announces-its-first-ever-discovery-of-a-zero-day-exploit-made-with-ai/l-intro-1778522994.jpg"
         },
         {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/260511/p29#a260511p29",
-          "published_at": "Mon, 11 May 2026 12:45:02 -0400",
-          "title": "Texas AG Ken Paxton sues Netflix for allegedly spying on consumers by collecting their data without consent, and designing its platform to be addictive (Jonathan Stempel/Reuters)",
-          "standfirst": "Jonathan Stempel / Reuters: Texas AG Ken Paxton sues Netflix for allegedly spying on consumers by collecting their data without consent, and designing its platform to be addictive &mdash; Netflix (NFLX.O) was sued on Monday by Texas Attorney General Ken Paxton, who accused the streaming company of spying on consumers &hellip;",
-          "content": "Jonathan Stempel / Reuters: Texas AG Ken Paxton sues Netflix for allegedly spying on consumers by collecting their data without consent, and designing its platform to be addictive &mdash; Netflix (NFLX.O) was sued on Monday by Texas Attorney General Ken Paxton, who accused the streaming company of spying on consumers &hellip;",
-          "feed_position": 12,
-          "image_url": "http://www.techmeme.com/260511/i29.jpg"
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
+          "published_at": "2026-05-11T12:09:42-04:00",
+          "title": "Google stopped a zero-day hack that it says was developed with AI",
+          "standfirst": "For the first time, Google says it has spotted and stopped a zero-day exploit developed with AI. According to a report from Google Threat Intelligence Group (GTIG), \"prominent cyber crime threat actors\" were planning to use the vulnerability for a \"mass exploitation event\" that would have allowed them to bypass two-factor authentication on an unnamed [&#8230;]",
+          "content": "For the first time, Google says it has spotted and stopped a zero-day exploit developed with AI. According to a report from Google Threat Intelligence Group (GTIG), \"prominent cyber crime threat actors\" were planning to use the vulnerability for a \"mass exploitation event\" that would have allowed them to bypass two-factor authentication on an unnamed \"open-source, web-based system administration tool.\" Google's researchers found hints in the Python script used for the exploit that indicated help from AI, like a \"hallucinated CVSS score\" and \"structured, textbook\" formatting consistent with LLM training data. The exploit takes advantage of … Read the full story at The Verge.",
+          "feed_position": 8
         }
       ],
-      "featured_image": "http://www.techmeme.com/260511/i29.jpg",
-      "popularity_score": 2013.215546388889
+      "featured_image": "https://www.engadget.com/img/gallery/google-announces-its-first-ever-discovery-of-a-zero-day-exploit-made-with-ai/l-intro-1778522994.jpg",
+      "popularity_score": 2008.0605516666667
     },
     {
-      "id": "cluster_50",
+      "id": "cluster_62",
       "coverage": 2,
       "updated_at": "Mon, 11 May 2026 15:29:16 +0000",
       "title": "Pirates are already playing Forza Horizon 6 days before its launch",
@@ -214,15 +181,15 @@
           "title": "Forza Horizon 6 has leaked a week ahead of launch",
           "standfirst": "Unencrypted files were downloaded from Steam and shared by pirates.",
           "content": "Unencrypted files were downloaded from Steam and shared by pirates.",
-          "feed_position": 9,
+          "feed_position": 12,
           "image_url": "https://www.engadget.com/img/gallery/forza-horizon-6-has-leaked-a-week-ahead-of-launch/l-intro-1778526302.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/forza2.jpg",
-      "popularity_score": 2011.630546388889
+      "popularity_score": 2005.3630516666667
     },
     {
-      "id": "cluster_59",
+      "id": "cluster_71",
       "coverage": 2,
       "updated_at": "Mon, 11 May 2026 14:22:21 +0000",
       "title": "Discord's Nitro subscription now includes a slightly nerfed Xbox Game Pass",
@@ -238,7 +205,7 @@
           "title": "Discord's Nitro subscription now includes a slightly nerfed Xbox Game Pass",
           "standfirst": "The Nitro Rewards program also includes discounts on Logitech G and SteelSeries gear.",
           "content": "The Nitro Rewards program also includes discounts on Logitech G and SteelSeries gear.",
-          "feed_position": 7,
+          "feed_position": 10,
           "image_url": "https://www.engadget.com/img/gallery/discords-nitro-subscription-now-includes-a-slightly-nerfed-xbox-game-pass/l-intro-1778509297.jpg"
         },
         {
@@ -248,14 +215,14 @@
           "title": "Discord launches Nitro Rewards, giving subscribers access to the base tier of Xbox Game Pass for no extra cost",
           "standfirst": "Discord's Nitro Rewards program will give Nitro subscribers access to Xbox Game Pass and discounts from Logitech, SteelSeries, and other gaming brands.",
           "content": "Discord's Nitro Rewards program will give Nitro subscribers access to Xbox Game Pass and discounts from Logitech, SteelSeries, and other gaming brands.",
-          "feed_position": 9
+          "feed_position": 11
         }
       ],
       "featured_image": "https://www.engadget.com/img/gallery/discords-nitro-subscription-now-includes-a-slightly-nerfed-xbox-game-pass/l-intro-1778509297.jpg",
-      "popularity_score": 2010.5152686111112
+      "popularity_score": 2004.2477738888888
     },
     {
-      "id": "cluster_8",
+      "id": "cluster_27",
       "coverage": 1,
       "updated_at": "Mon, 11 May 2026 22:28:19 +0000",
       "title": "Linux bitten by second severe vulnerability in as many weeks",
@@ -276,10 +243,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
-      "popularity_score": 357.61471305555557
+      "popularity_score": 351.34721833333333
     },
     {
-      "id": "cluster_12",
+      "id": "cluster_31",
       "coverage": 1,
       "updated_at": "Mon, 11 May 2026 22:01:57 +0000",
       "title": "Audi has a new Q9 flagship coming soon: Here's its interior",
@@ -300,10 +267,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/A260907_large-1-1152x648.jpg",
-      "popularity_score": 341.1752686111111
+      "popularity_score": 334.90777388888887
     },
     {
-      "id": "cluster_15",
+      "id": "cluster_33",
       "coverage": 1,
       "updated_at": "Mon, 11 May 2026 20:48:33 +0000",
       "title": "After banning foreign routers, FCC says existing ones can get updates until 2029",
@@ -324,10 +291,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/eero-wi-fi-router-1152x648-1778529597.jpg",
-      "popularity_score": 329.9519352777778
+      "popularity_score": 323.68444055555557
     },
     {
-      "id": "cluster_29",
+      "id": "cluster_43",
       "coverage": 1,
       "updated_at": "Mon, 11 May 2026 18:12:43 +0000",
       "title": "Passengers from hantavirus ship arrive in US; 3 people in biocontainment",
@@ -348,10 +315,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2275145416-1152x648.jpg",
-      "popularity_score": 322.3547130555556
+      "popularity_score": 316.08721833333334
     },
     {
-      "id": "cluster_17",
+      "id": "cluster_35",
       "coverage": 1,
       "updated_at": "Mon, 11 May 2026 20:37:00 +0000",
       "title": "Data center guzzled 30 million gallons of water and nobody noticed for months",
@@ -372,10 +339,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2191236730-1152x648.jpg",
-      "popularity_score": 319.75943527777775
+      "popularity_score": 313.4919405555556
     },
     {
-      "id": "cluster_31",
+      "id": "cluster_46",
       "coverage": 1,
       "updated_at": "Mon, 11 May 2026 17:55:34 +0000",
       "title": "Starlink shuts down its GPS-style cheat code. Researchers may unlock it anyway.",
@@ -396,10 +363,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2240006305-1024x648.jpg",
-      "popularity_score": 297.0688797222222
+      "popularity_score": 290.801385
     },
     {
-      "id": "cluster_36",
+      "id": "cluster_50",
       "coverage": 1,
       "updated_at": "Mon, 11 May 2026 17:20:39 +0000",
       "title": "iOS, macOS, and iPadOS 26.5 updates arrive with encrypted RCS messaging and more",
@@ -420,10 +387,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/apple-os-beta-26-2025-1152x648-1750706565.jpeg",
-      "popularity_score": 286.4869352777778
+      "popularity_score": 280.21944055555554
     },
     {
-      "id": "cluster_38",
+      "id": "cluster_52",
       "coverage": 1,
       "updated_at": "Mon, 11 May 2026 17:15:16 +0000",
       "title": "Samsung made a “mockery” of Dua Lipa by putting her picture on TV boxes, lawsuit says",
@@ -444,10 +411,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/unnamed-1-1152x648.jpg",
-      "popularity_score": 276.39721305555554
+      "popularity_score": 270.12971833333336
     },
     {
-      "id": "cluster_53",
+      "id": "cluster_65",
       "coverage": 1,
       "updated_at": "Mon, 11 May 2026 15:20:09 +0000",
       "title": "F1 set for another engine tweak in 2027, and what's this about V8s?",
@@ -468,10 +435,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-130014339-1-1152x648.jpg",
-      "popularity_score": 254.47860194444445
+      "popularity_score": 248.2111072222222
     },
     {
-      "id": "cluster_75",
+      "id": "cluster_86",
       "coverage": 1,
       "updated_at": "Mon, 11 May 2026 11:00:33 +0000",
       "title": "Sony's failed war against Internet piracy may doom other copyright lawsuits",
@@ -492,10 +459,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/thomas-and-sotomayor-1152x648-1778188334.jpg",
-      "popularity_score": 155.15193527777777
+      "popularity_score": 148.88444055555556
     },
     {
-      "id": "cluster_62",
+      "id": "cluster_74",
       "coverage": 1,
       "updated_at": "Mon, 11 May 2026 13:53:24 +0000",
       "title": "A promising Indian launch startup nears its first orbital test flight",
@@ -516,10 +483,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1449559103-1024x648.jpg",
-      "popularity_score": 148.03276861111112
+      "popularity_score": 141.76527388888888
     },
     {
-      "id": "cluster_102",
+      "id": "cluster_109",
       "coverage": 1,
       "updated_at": "Sun, 10 May 2026 11:00:53 +0000",
       "title": "Huge landslide created a 500-meter-high tsunami in a major tourist area",
@@ -543,7 +510,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_100",
+      "id": "cluster_108",
       "coverage": 1,
       "updated_at": "Sun, 10 May 2026 11:15:44 +0000",
       "title": "Do you take after your dad’s RNA?",
