@@ -1,17 +1,61 @@
 {
   "clinical": {
-    "updated_at": "2026-05-13T06:20:24.580Z",
+    "updated_at": "2026-05-13T09:37:41.365Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-05-13T06:20:24.580Z",
+    "updated_at": "2026-05-13T09:37:41.365Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-05-13T06:20:34.212Z",
+    "updated_at": "2026-05-13T09:37:43.165Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Wed, 13 May 2026 08:36:54 GMT",
+        "title": "How are countries responding to hantavirus?",
+        "neutral_headline": "How are countries responding to hantavirus",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/c4g8318v4yzo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Wed, 13 May 2026 08:36:54 GMT",
+            "title": "How are countries responding to hantavirus?",
+            "standfirst": "The UK, US and EU are asking all citizens returning home from the virus-hit MV Hondius to self-isolate for about six weeks.",
+            "content": "The UK, US and EU are asking all citizens returning home from the virus-hit MV Hondius to self-isolate for about six weeks.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af91/live/3f1a7440-4e29-11f1-b55d-0f258dce1735.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af91/live/3f1a7440-4e29-11f1-b55d-0f258dce1735.jpg"
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Wed, 13 May 2026 08:28:19 GMT",
+        "title": "Watch Morning Live here",
+        "neutral_headline": "Watch Morning Live here",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/videos/c9d30yxd2jjo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Wed, 13 May 2026 08:28:19 GMT",
+            "title": "Watch Morning Live here",
+            "standfirst": "Watch Morning Live here",
+            "content": "Watch Morning Live here",
+            "feed_position": 47
+          }
+        ]
+      },
+      {
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Wed, 13 May 2026 06:17:55 GMT",
         "title": "Patients of retired dentist warned of bloodborne viruses, including HIV",
@@ -27,14 +71,14 @@
             "title": "Patients of retired dentist warned of bloodborne viruses, including HIV",
             "standfirst": "Authorities urged patients to get tested due to \"poor infection control practices\" at the Australian clinic.",
             "content": "Authorities urged patients to get tested due to \"poor infection control practices\" at the Australian clinic.",
-            "feed_position": 0,
+            "feed_position": 1,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8d3/live/f8b494b0-4e8f-11f1-b092-4797e4fbbf94.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8d3/live/f8b494b0-4e8f-11f1-b092-4797e4fbbf94.jpg"
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Wed, 13 May 2026 05:23:31 GMT",
         "title": "Fen Cottage granted Grade II listed status",
@@ -57,7 +101,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3237/live/2ba47770-4dee-11f1-9cc8-93479330ab4b.jpg"
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Wed, 13 May 2026 05:02:07 GMT",
         "title": "Watch: Presenter flies in to host air quality special",
@@ -80,7 +124,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f37/live/11fabcf0-4e19-11f1-ac78-2112837ce2aa.jpg"
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Wed, 13 May 2026 05:01:19 GMT",
         "title": "How air pollution is being monitored",
@@ -103,7 +147,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1791/live/954f59f0-4e03-11f1-aa37-6b8846c2f74e.jpg"
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Wed, 13 May 2026 05:00:20 GMT",
         "title": "On Monday morning it was a busy South Sudan hospital. By Tuesday night it was a bombed-out shell",
@@ -124,7 +168,7 @@
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Wed, 13 May 2026 05:00:08 GMT",
         "title": "White-tailed eagles to be released in Exmoor despite farmer warnings",
@@ -141,13 +185,13 @@
             "standfirst": "Some farmers fear the reintroduction of the UK's biggest bird of prey will threaten their livestock.",
             "content": "Some farmers fear the reintroduction of the UK's biggest bird of prey will threaten their livestock.",
             "feed_position": 0,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51a1/live/e70ba040-4e13-11f1-bd2e-5b25b00aa23c.jpg"
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7da9/live/42e47c80-4e95-11f1-bd52-e755d604ece4.jpg"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51a1/live/e70ba040-4e13-11f1-bd2e-5b25b00aa23c.jpg"
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7da9/live/42e47c80-4e95-11f1-bd52-e755d604ece4.jpg"
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Wed, 13 May 2026 04:00:21 GMT",
         "title": "Getting children to eat their vegetables starts in the womb, researchers suggest",
@@ -168,7 +212,7 @@
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Tue, 12 May 2026 23:06:23 GMT",
         "title": "Daily pill to help keep weight off after stopping obesity jabs",
@@ -184,14 +228,14 @@
             "title": "Daily pill to help keep weight off after stopping obesity jabs",
             "standfirst": "The tablet - orforglipron - is available in the US and could soon launch in the UK.",
             "content": "The tablet - orforglipron - is available in the US and could soon launch in the UK.",
-            "feed_position": 1,
+            "feed_position": 2,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8b3/live/55c5d990-4d53-11f1-a556-3191549e7ed9.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8b3/live/55c5d990-4d53-11f1-a556-3191549e7ed9.jpg"
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Tue, 12 May 2026 23:01:13 GMT",
         "title": "Older people risk mental decline if they do long hours of caring, UK study shows",
@@ -212,7 +256,7 @@
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Tue, 12 May 2026 22:01:11 GMT",
         "title": "Capacity of lifts not kept up with UK obesity levels, study shows",
@@ -234,7 +278,7 @@
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Tue, 12 May 2026 22:01:11 GMT",
         "title": "Daily pill can help people maintain weight loss after they come off jabs, trial shows",
@@ -256,7 +300,7 @@
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Tue, 12 May 2026 21:14:19 GMT",
         "title": "Marty Makary departs FDA after clashes with Trump over fruit-flavored vapes",
@@ -277,7 +321,7 @@
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Tue, 12 May 2026 19:04:46 GMT",
         "title": "WHO head tells countries to prepare for more hantavirus cases",
@@ -298,7 +342,7 @@
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Tue, 12 May 2026 18:05:01 GMT",
         "title": "The Guardian view on public health and the arts: the all-singing, all-dancing science of ageing | Editorial",
@@ -319,7 +363,7 @@
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Tue, 12 May 2026 15:00:51 GMT",
         "title": "Sound baths are supposed to help relax and ‘soothe’ your nervous system. But do any of these claims ring true? | Antiviral",
@@ -340,7 +384,7 @@
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Tue, 12 May 2026 14:30:43 GMT",
         "title": "‘Unprecedented’ global effort gives new name to polycystic ovary syndrome – and new hope to millions of women",
@@ -379,7 +423,7 @@
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Tue, 12 May 2026 12:00:46 GMT",
         "title": "Trump’s sudden cut in substance testing is ‘going to kill people’, experts warn",
@@ -400,7 +444,7 @@
         ]
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Tue, 12 May 2026 10:13:02 GMT",
         "title": "Women-only mental health crisis house to open in town",
@@ -421,56 +465,11 @@
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b6d/live/a3448a10-4e0f-11f1-bb1c-0b281e8bc85b.jpg"
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Tue, 12 May 2026 10:01:52 GMT",
-        "title": "How worried should we be about hantavirus?",
-        "neutral_headline": "How worried should we be about hantavirus",
-        "bullet_summary": [
-          "Reported by BBC Health"
-        ],
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/c98r199e195o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Tue, 12 May 2026 10:01:52 GMT",
-            "title": "How worried should we be about hantavirus?",
-            "standfirst": "Passengers potentially exposed to hantavirus are being repatriated, so what is the risk to the wider public?",
-            "content": "Passengers potentially exposed to hantavirus are being repatriated, so what is the risk to the wider public?",
-            "feed_position": 2,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7617/live/0a92d310-4d21-11f1-894d-1b54d8c2d924.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7617/live/0a92d310-4d21-11f1-894d-1b54d8c2d924.jpg"
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Tue, 12 May 2026 10:00:53 GMT",
-        "title": "US government studies into vaccine safety are being suppressed | Robert B Shpiner",
-        "neutral_headline": "US government studies into vaccine safety are being suppressed | Robert B Shpiner",
-        "bullet_summary": [
-          "The Shingrix safety analysis confirmed the elevated but low Guillain-Barré risk that has been on the package insert for years",
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/commentisfree/2026/may/12/fda-vaccine-safety",
-            "published_at": "Tue, 12 May 2026 10:00:53 GMT",
-            "title": "US government studies into vaccine safety are being suppressed | Robert B Shpiner",
-            "standfirst": "The Food and Drug Administration commissioned the research and received the answer, but is not releasing itLast week, the New York Times and the Washington Post reported yet another troubling case of data suppression at the Food and Drug Administration (FDA). Studies of millions of vaccine recipients were completed by career scientists, peer-reviewed and accepted by working pharmacovigilance journals; after political appointees declined to sign off, they were withdrawn. The agency commissioned the work and received the answer, but is not releasing it.In October, FDA scientists were directed to withdraw two Covid-19 vaccine safety studies that had already been accepted by the journals Drug Safety and Vaccine. In February, top officials declined to sign off on submitting Shingrix safety abstracts to a major drug-safety conference. The Covid studies were not small. One examined the records of 7.5 million Medicare beneficiaries for 14 pre-specified adverse outcomes after 2023–2024 Covid-19 vaccination, using a self-controlled case-series design with follow-up of up to 90 days. Only one signal – anaphylaxis at roughly one per million Pfizer-BioNTech doses – exceeded statistical noise. A second examined 4.2 million recipients aged six months to 64 years for more than a dozen outcomes; it identified the rare febrile-seizure and myocarditis signals already on the label. The Shingrix safety analysis confirmed the elevated but low Guillain-Barré risk that has been on the package insert for years.Robert B Shpiner is a clinical professor of medicine (pulmonary and critical care) and associate professor of neurosurgery (neurocritical care) at the David Geffen School of Medicine at UCLA, where he has practiced critical care for more than 40 years Continue reading...",
-            "content": "The Food and Drug Administration commissioned the research and received the answer, but is not releasing itLast week, the New York Times and the Washington Post reported yet another troubling case of data suppression at the Food and Drug Administration (FDA). Studies of millions of vaccine recipients were completed by career scientists, peer-reviewed and accepted by working pharmacovigilance journals; after political appointees declined to sign off, they were withdrawn. The agency commissioned the work and received the answer, but is not releasing it.In October, FDA scientists were directed to withdraw two Covid-19 vaccine safety studies that had already been accepted by the journals Drug Safety and Vaccine. In February, top officials declined to sign off on submitting Shingrix safety abstracts to a major drug-safety conference. The Covid studies were not small. One examined the records of 7.5 million Medicare beneficiaries for 14 pre-specified adverse outcomes after 2023–2024 Covid-19 vaccination, using a self-controlled case-series design with follow-up of up to 90 days. Only one signal – anaphylaxis at roughly one per million Pfizer-BioNTech doses – exceeded statistical noise. A second examined 4.2 million recipients aged six months to 64 years for more than a dozen outcomes; it identified the rare febrile-seizure and myocarditis signals already on the label. The Shingrix safety analysis confirmed the elevated but low Guillain-Barré risk that has been on the package insert for years.Robert B Shpiner is a clinical professor of medicine (pulmonary and critical care) and associate professor of neurosurgery (neurocritical care) at the David Geffen School of Medicine at UCLA, where he has practiced critical care for more than 40 years Continue reading...",
-            "feed_position": 11
-          }
-        ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-05-13T06:20:34.212Z",
+    "updated_at": "2026-05-13T09:37:43.165Z",
     "clusters": []
   }
 }
