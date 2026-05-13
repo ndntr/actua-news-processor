@@ -1,17 +1,88 @@
 {
   "clinical": {
-    "updated_at": "2026-05-13T09:37:41.365Z",
+    "updated_at": "2026-05-13T13:06:49.922Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-05-13T09:37:41.365Z",
+    "updated_at": "2026-05-13T13:06:49.922Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-05-13T09:37:43.165Z",
+    "updated_at": "2026-05-13T13:06:59.151Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Wed, 13 May 2026 11:16:06 GMT",
+        "title": "'Alarming-looking' caterpillar webs in park 'harmless'",
+        "neutral_headline": "'Alarming-looking' caterpillar webs in park 'harmless'",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/c5yx7ljr7yzo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Wed, 13 May 2026 11:16:06 GMT",
+            "title": "'Alarming-looking' caterpillar webs in park 'harmless'",
+            "standfirst": "Butterfly Conservation says while the effect of the webs \"can look alarming\", they protect against predators.",
+            "content": "Butterfly Conservation says while the effect of the webs \"can look alarming\", they protect against predators.",
+            "feed_position": 13,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f873/live/c1040a20-4ec4-11f1-9226-1f41f7d44e1f.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f873/live/c1040a20-4ec4-11f1-9226-1f41f7d44e1f.jpg"
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Wed, 13 May 2026 10:57:35 GMT",
+        "title": "Posh sandwich has more salt than nearly five cheeseburgers",
+        "neutral_headline": "Posh sandwich has more salt than nearly five cheeseburgers",
+        "bullet_summary": [
+          "Action on Salt & Sugar said people should not be exposed to a \"hidden health risk every time they buy lunch\"",
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/c4g4l54g2ppo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Wed, 13 May 2026 10:57:35 GMT",
+            "title": "Posh sandwich has more salt than nearly five cheeseburgers",
+            "standfirst": "Action on Salt & Sugar said people should not be exposed to a \"hidden health risk every time they buy lunch\".",
+            "content": "Action on Salt & Sugar said people should not be exposed to a \"hidden health risk every time they buy lunch\".",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7632/live/437a1180-4eb0-11f1-a4e8-2309d38aa073.png"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7632/live/437a1180-4eb0-11f1-a4e8-2309d38aa073.png"
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Wed, 13 May 2026 10:37:30 GMT",
+        "title": "MPs call for sunbed advertising ban to help prevent skin cancer",
+        "neutral_headline": "MPs call for sunbed advertising ban to help prevent skin cancer",
+        "bullet_summary": [
+          "A report by a cross-party group of MPs has found the majority of skin cancer cases are preventable",
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/c142g8567xko?at_medium=RSS&at_campaign=rss",
+            "published_at": "Wed, 13 May 2026 10:37:30 GMT",
+            "title": "MPs call for sunbed advertising ban to help prevent skin cancer",
+            "standfirst": "A report by a cross-party group of MPs has found the majority of skin cancer cases are preventable.",
+            "content": "A report by a cross-party group of MPs has found the majority of skin cancer cases are preventable.",
+            "feed_position": 1,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb31/live/60aa58e0-4ec0-11f1-ac78-2112837ce2aa.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb31/live/60aa58e0-4ec0-11f1-ac78-2112837ce2aa.jpg"
+      },
+      {
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Wed, 13 May 2026 08:36:54 GMT",
         "title": "How are countries responding to hantavirus?",
@@ -27,14 +98,14 @@
             "title": "How are countries responding to hantavirus?",
             "standfirst": "The UK, US and EU are asking all citizens returning home from the virus-hit MV Hondius to self-isolate for about six weeks.",
             "content": "The UK, US and EU are asking all citizens returning home from the virus-hit MV Hondius to self-isolate for about six weeks.",
-            "feed_position": 0,
+            "feed_position": 2,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af91/live/3f1a7440-4e29-11f1-b55d-0f258dce1735.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af91/live/3f1a7440-4e29-11f1-b55d-0f258dce1735.jpg"
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Wed, 13 May 2026 08:28:19 GMT",
         "title": "Watch Morning Live here",
@@ -55,11 +126,11 @@
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Wed, 13 May 2026 06:17:55 GMT",
-        "title": "Patients of retired dentist warned of bloodborne viruses, including HIV",
-        "neutral_headline": "Patients of retired dentist warned of bloodborne viruses, including HIV",
+        "title": "Sydney dentist's patients warned of viruses including HIV",
+        "neutral_headline": "Sydney dentist's patients warned of viruses including HIV",
         "bullet_summary": [
           "Reported by BBC Health"
         ],
@@ -68,17 +139,17 @@
             "source": "BBC Health",
             "url": "https://www.bbc.com/news/articles/cvgzegw72jlo?at_medium=RSS&at_campaign=rss",
             "published_at": "Wed, 13 May 2026 06:17:55 GMT",
-            "title": "Patients of retired dentist warned of bloodborne viruses, including HIV",
+            "title": "Sydney dentist's patients warned of viruses including HIV",
             "standfirst": "Authorities urged patients to get tested due to \"poor infection control practices\" at the Australian clinic.",
             "content": "Authorities urged patients to get tested due to \"poor infection control practices\" at the Australian clinic.",
-            "feed_position": 1,
+            "feed_position": 3,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8d3/live/f8b494b0-4e8f-11f1-b092-4797e4fbbf94.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8d3/live/f8b494b0-4e8f-11f1-b092-4797e4fbbf94.jpg"
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Wed, 13 May 2026 05:23:31 GMT",
         "title": "Fen Cottage granted Grade II listed status",
@@ -94,14 +165,14 @@
             "title": "Fen Cottage granted Grade II listed status",
             "standfirst": "Historic England says the cottage is \"a rare record\" of how people depended on their surroundings.",
             "content": "Historic England says the cottage is \"a rare record\" of how people depended on their surroundings.",
-            "feed_position": 13,
+            "feed_position": 14,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3237/live/2ba47770-4dee-11f1-9cc8-93479330ab4b.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3237/live/2ba47770-4dee-11f1-9cc8-93479330ab4b.jpg"
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Wed, 13 May 2026 05:02:07 GMT",
         "title": "Watch: Presenter flies in to host air quality special",
@@ -117,14 +188,14 @@
             "title": "Watch: Presenter flies in to host air quality special",
             "standfirst": "Environment correspondent Jon Cuthill paraglides into position ahead of a BBC South special.",
             "content": "Environment correspondent Jon Cuthill paraglides into position ahead of a BBC South special.",
-            "feed_position": 14,
+            "feed_position": 15,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f37/live/11fabcf0-4e19-11f1-ac78-2112837ce2aa.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f37/live/11fabcf0-4e19-11f1-ac78-2112837ce2aa.jpg"
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Wed, 13 May 2026 05:01:19 GMT",
         "title": "How air pollution is being monitored",
@@ -140,35 +211,14 @@
             "title": "How air pollution is being monitored",
             "standfirst": "The main source of pollution is local emissions, created by things like traffic and manufacturing.",
             "content": "The main source of pollution is local emissions, created by things like traffic and manufacturing.",
-            "feed_position": 15,
+            "feed_position": 16,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1791/live/954f59f0-4e03-11f1-aa37-6b8846c2f74e.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1791/live/954f59f0-4e03-11f1-aa37-6b8846c2f74e.jpg"
       },
       {
-        "id": "cluster_6",
-        "coverage": 1,
-        "updated_at": "Wed, 13 May 2026 05:00:20 GMT",
-        "title": "On Monday morning it was a busy South Sudan hospital. By Tuesday night it was a bombed-out shell",
-        "neutral_headline": "On Monday morning it was a busy South Sudan hospital. By Tuesday...",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/global-development/2026/may/13/south-sudan-hospital-msf-bombed-healthcare-attacks-jonglei",
-            "published_at": "Wed, 13 May 2026 05:00:20 GMT",
-            "title": "On Monday morning it was a busy South Sudan hospital. By Tuesday night it was a bombed-out shell",
-            "standfirst": "Exclusive: An 80-bed MSF facility was bombed, burned and looted as civil conflict grows. The Guardian visited to witness first-hand the impact of the ‘trend of violence’ against healthcare in the countryThe single-engine Cessna Caravan is flying over Nyirol county, in South Sudan’s Jonglei state. Its five passengers stare intently at the landscape streaking past below as the plane approaches the town of Lankien. On this hot day in late April, a team from Médecins Sans Frontières (MSF) is back for the first time since shutting down their hospital there, 10 weeks earlier.They know what had happened shortly after the hospital’s closure: a bomb was dropped on it by a government plane on 3 February, followed by a ground invasion that turned Lankien into a ghost town. But discovering the level of destruction first-hand is shocking, even to humanitarians accustomed to war zones. Continue reading...",
-            "content": "Exclusive: An 80-bed MSF facility was bombed, burned and looted as civil conflict grows. The Guardian visited to witness first-hand the impact of the ‘trend of violence’ against healthcare in the countryThe single-engine Cessna Caravan is flying over Nyirol county, in South Sudan’s Jonglei state. Its five passengers stare intently at the landscape streaking past below as the plane approaches the town of Lankien. On this hot day in late April, a team from Médecins Sans Frontières (MSF) is back for the first time since shutting down their hospital there, 10 weeks earlier.They know what had happened shortly after the hospital’s closure: a bomb was dropped on it by a government plane on 3 February, followed by a ground invasion that turned Lankien into a ghost town. But discovering the level of destruction first-hand is shocking, even to humanitarians accustomed to war zones. Continue reading...",
-            "feed_position": 1
-          }
-        ]
-      },
-      {
-        "id": "cluster_7",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Wed, 13 May 2026 05:00:08 GMT",
         "title": "White-tailed eagles to be released in Exmoor despite farmer warnings",
@@ -191,28 +241,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7da9/live/42e47c80-4e95-11f1-bd52-e755d604ece4.jpg"
       },
       {
-        "id": "cluster_8",
-        "coverage": 1,
-        "updated_at": "Wed, 13 May 2026 04:00:21 GMT",
-        "title": "Getting children to eat their vegetables starts in the womb, researchers suggest",
-        "neutral_headline": "Getting children to eat their vegetables starts in the womb, researchers suggest",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2026/may/13/children-eat-vegetables-starts-in-womb-researchers-suggest",
-            "published_at": "Wed, 13 May 2026 04:00:21 GMT",
-            "title": "Getting children to eat their vegetables starts in the womb, researchers suggest",
-            "standfirst": "Rather than bribery, or hiding carrots under ketchup, the key may be to expose foetuses to healthy flavoursIt is an age-old battle with small children that most parents will recognise: please, please, eat your vegetables.Some will read them books with titles such as The Boy Who Loved Broccoli. Others have been known to smother veg in tomato ketchup, or mix avocado and fruit with Greek yoghurt and call it icecream. Or resort to plain bribery. Continue reading...",
-            "content": "Rather than bribery, or hiding carrots under ketchup, the key may be to expose foetuses to healthy flavoursIt is an age-old battle with small children that most parents will recognise: please, please, eat your vegetables.Some will read them books with titles such as The Boy Who Loved Broccoli. Others have been known to smother veg in tomato ketchup, or mix avocado and fruit with Greek yoghurt and call it icecream. Or resort to plain bribery. Continue reading...",
-            "feed_position": 0
-          }
-        ]
-      },
-      {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Tue, 12 May 2026 23:06:23 GMT",
         "title": "Daily pill to help keep weight off after stopping obesity jabs",
@@ -228,223 +257,14 @@
             "title": "Daily pill to help keep weight off after stopping obesity jabs",
             "standfirst": "The tablet - orforglipron - is available in the US and could soon launch in the UK.",
             "content": "The tablet - orforglipron - is available in the US and could soon launch in the UK.",
-            "feed_position": 2,
+            "feed_position": 4,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8b3/live/55c5d990-4d53-11f1-a556-3191549e7ed9.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8b3/live/55c5d990-4d53-11f1-a556-3191549e7ed9.jpg"
       },
       {
-        "id": "cluster_10",
-        "coverage": 1,
-        "updated_at": "Tue, 12 May 2026 23:01:13 GMT",
-        "title": "Older people risk mental decline if they do long hours of caring, UK study shows",
-        "neutral_headline": "Older people risk mental decline if they do long hours of caring, UK study shows",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2026/may/13/older-people-risk-mental-decline-if-they-do-long-hours-of-caring-uk-study-shows",
-            "published_at": "Tue, 12 May 2026 23:01:13 GMT",
-            "title": "Older people risk mental decline if they do long hours of caring, UK study shows",
-            "standfirst": "Researchers find 50+ hours a week can be detrimental to health but lighter responsibilities have positive effectThe stresses and strains of caring for someone for 50 hours or more a week leads to “accelerated cognitive decline” in middle-aged and older people, research shows.However, providing care for only five to nine hours a week has the opposite effect, boosting brain health so much that the benefits last until older age. Continue reading...",
-            "content": "Researchers find 50+ hours a week can be detrimental to health but lighter responsibilities have positive effectThe stresses and strains of caring for someone for 50 hours or more a week leads to “accelerated cognitive decline” in middle-aged and older people, research shows.However, providing care for only five to nine hours a week has the opposite effect, boosting brain health so much that the benefits last until older age. Continue reading...",
-            "feed_position": 2
-          }
-        ]
-      },
-      {
         "id": "cluster_11",
-        "coverage": 1,
-        "updated_at": "Tue, 12 May 2026 22:01:11 GMT",
-        "title": "Capacity of lifts not kept up with UK obesity levels, study shows",
-        "neutral_headline": "Capacity of lifts not kept up with UK obesity levels, study shows",
-        "bullet_summary": [
-          "A study of maximum capacity in elevators in the UK and mainland Europe found lifts have not kept up with increasing obesity levels, raising concerns about safety and equity",
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2026/may/12/capacity-lifts-elevators-weight-limits-obesity-safety-equity",
-            "published_at": "Tue, 12 May 2026 22:01:11 GMT",
-            "title": "Capacity of lifts not kept up with UK obesity levels, study shows",
-            "standfirst": "Research on weight limits of elevators made in UK and Europe 1972-2004 raises concerns over safety and equityLifts are no longer big enough to fit the UK’s larger citizens, according to researchers.A study of maximum capacity in elevators in the UK and mainland Europe found lifts have not kept up with increasing obesity levels, raising concerns about safety and equity. Continue reading...",
-            "content": "Research on weight limits of elevators made in UK and Europe 1972-2004 raises concerns over safety and equityLifts are no longer big enough to fit the UK’s larger citizens, according to researchers.A study of maximum capacity in elevators in the UK and mainland Europe found lifts have not kept up with increasing obesity levels, raising concerns about safety and equity. Continue reading...",
-            "feed_position": 3
-          }
-        ]
-      },
-      {
-        "id": "cluster_12",
-        "coverage": 1,
-        "updated_at": "Tue, 12 May 2026 22:01:11 GMT",
-        "title": "Daily pill can help people maintain weight loss after they come off jabs, trial shows",
-        "neutral_headline": "Daily pill can help people maintain weight loss after they come off jabs, trial shows",
-        "bullet_summary": [
-          "The researchers said orforglipron could help prevent more than 200 diseases associated with obesity and could be prescribed to prevent lower levels of overweight tipping into obesity",
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/science/2026/may/12/daily-orforglipron-pill-can-help-people-maintain-weight-loss-after-they-come-off-jabs-trial-shows",
-            "published_at": "Tue, 12 May 2026 22:01:11 GMT",
-            "title": "Daily pill can help people maintain weight loss after they come off jabs, trial shows",
-            "standfirst": "Data shows orforglipron could in future avoid need to take other long-term medications for diseases associated with obesityA daily pill could help people keep weight off and stop them needing other long-term medications, scientists behind landmark new trial data have suggested.The researchers said orforglipron could help prevent more than 200 diseases associated with obesity and could be prescribed to prevent lower levels of overweight tipping into obesity. Continue reading...",
-            "content": "Data shows orforglipron could in future avoid need to take other long-term medications for diseases associated with obesityA daily pill could help people keep weight off and stop them needing other long-term medications, scientists behind landmark new trial data have suggested.The researchers said orforglipron could help prevent more than 200 diseases associated with obesity and could be prescribed to prevent lower levels of overweight tipping into obesity. Continue reading...",
-            "feed_position": 4
-          }
-        ]
-      },
-      {
-        "id": "cluster_13",
-        "coverage": 1,
-        "updated_at": "Tue, 12 May 2026 21:14:19 GMT",
-        "title": "Marty Makary departs FDA after clashes with Trump over fruit-flavored vapes",
-        "neutral_headline": "Marty Makary departs FDA after clashes with Trump over fruit-flavored vapes",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/us-news/2026/may/12/marty-makary-fda-trump-administration",
-            "published_at": "Tue, 12 May 2026 21:14:19 GMT",
-            "title": "Marty Makary departs FDA after clashes with Trump over fruit-flavored vapes",
-            "standfirst": "Kyle Diamantas, a top official at the agency, will replace Makary and serve as acting FDA commissionerSign up for the Breaking News US newsletter emailMarty Makary resigned from his position as commissioner of the US Food and Drug Administration (FDA) on Tuesday, concluding a 13-month tenure at the regulatory agency that frequently drew the ire of the White House, Congress, industry and the public, Donald Trump confirmed on Tuesday.Kyle Diamantas, who previously worked as the top food official at the agency setting the strategic direction and operations for food policy in the US, will be Makary’s acting replacement. Trump called Diamantas a “very talented person” in a Truth Social post confirming he’d be Makary’s temporary replacement. Continue reading...",
-            "content": "Kyle Diamantas, a top official at the agency, will replace Makary and serve as acting FDA commissionerSign up for the Breaking News US newsletter emailMarty Makary resigned from his position as commissioner of the US Food and Drug Administration (FDA) on Tuesday, concluding a 13-month tenure at the regulatory agency that frequently drew the ire of the White House, Congress, industry and the public, Donald Trump confirmed on Tuesday.Kyle Diamantas, who previously worked as the top food official at the agency setting the strategic direction and operations for food policy in the US, will be Makary’s acting replacement. Trump called Diamantas a “very talented person” in a Truth Social post confirming he’d be Makary’s temporary replacement. Continue reading...",
-            "feed_position": 5
-          }
-        ]
-      },
-      {
-        "id": "cluster_14",
-        "coverage": 1,
-        "updated_at": "Tue, 12 May 2026 19:04:46 GMT",
-        "title": "WHO head tells countries to prepare for more hantavirus cases",
-        "neutral_headline": "WHO head tells countries to prepare for more hantavirus cases",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/world/2026/may/12/who-head-warns-countries-prepare-more-hantavirus-cases",
-            "published_at": "Tue, 12 May 2026 19:04:46 GMT",
-            "title": "WHO head tells countries to prepare for more hantavirus cases",
-            "standfirst": "Health officials in Paris say French woman who contracted disease on MV Hondius is on ventilator in intensive careThe head of the World Health Organization has told countries to prepare for more hantavirus cases as authorities in Paris said a French woman who contracted the virus onboard the MV Hondius had the most severe form of the disease and had been put on a ventilator.Tedros Adhanom Ghebreyesus thanked Spain for the “compassion and solidarity” it had shown by taking in the stricken cruise ship and urged authorities to follow the WHO’s advice and recommendations, which include a 42-day quarantine and constant monitoring of high-risk contacts. Continue reading...",
-            "content": "Health officials in Paris say French woman who contracted disease on MV Hondius is on ventilator in intensive careThe head of the World Health Organization has told countries to prepare for more hantavirus cases as authorities in Paris said a French woman who contracted the virus onboard the MV Hondius had the most severe form of the disease and had been put on a ventilator.Tedros Adhanom Ghebreyesus thanked Spain for the “compassion and solidarity” it had shown by taking in the stricken cruise ship and urged authorities to follow the WHO’s advice and recommendations, which include a 42-day quarantine and constant monitoring of high-risk contacts. Continue reading...",
-            "feed_position": 6
-          }
-        ]
-      },
-      {
-        "id": "cluster_15",
-        "coverage": 1,
-        "updated_at": "Tue, 12 May 2026 18:05:01 GMT",
-        "title": "The Guardian view on public health and the arts: the all-singing, all-dancing science of ageing | Editorial",
-        "neutral_headline": "The Guardian view on public health and the arts: the all-singing,...",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/commentisfree/2026/may/12/the-guardian-view-on-public-health-and-the-arts-the-all-singing-all-dancing-science-of-ageing",
-            "published_at": "Tue, 12 May 2026 18:05:01 GMT",
-            "title": "The Guardian view on public health and the arts: the all-singing, all-dancing science of ageing | Editorial",
-            "standfirst": "New research showing that a rich cultural life brings brings similar benefits to exercise shows human creativity in a new lightIs it really news that the arts are good for you? On one level, the findings of a new study about the health benefits of engaging with music, dance and other artistic endeavours confirm what many of us feel instinctively that we already know. Creativity enhances life. That’s why people admire and cherish it, in others and – if they have the confidence – in themselves.But the results of one of the first attempts by researchers to quantify this benefit are fascinating all the same. The study, from a group of scientists at University College London, working with blood samples and survey data from the UK Household Longitudinal Study, showed that people who participated regularly in the arts aged more slowly than those who did not.Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...",
-            "content": "New research showing that a rich cultural life brings brings similar benefits to exercise shows human creativity in a new lightIs it really news that the arts are good for you? On one level, the findings of a new study about the health benefits of engaging with music, dance and other artistic endeavours confirm what many of us feel instinctively that we already know. Creativity enhances life. That’s why people admire and cherish it, in others and – if they have the confidence – in themselves.But the results of one of the first attempts by researchers to quantify this benefit are fascinating all the same. The study, from a group of scientists at University College London, working with blood samples and survey data from the UK Household Longitudinal Study, showed that people who participated regularly in the arts aged more slowly than those who did not.Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...",
-            "feed_position": 7
-          }
-        ]
-      },
-      {
-        "id": "cluster_16",
-        "coverage": 1,
-        "updated_at": "Tue, 12 May 2026 15:00:51 GMT",
-        "title": "Sound baths are supposed to help relax and ‘soothe’ your nervous system. But do any of these claims ring true? | Antiviral",
-        "neutral_headline": "Sound baths are supposed to help relax and ‘soothe’ your nervous system. But do any...",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/commentisfree/2026/may/12/sound-bath-what-is-it-does-it-work-music-meditation-relaxation-nervous-system-science",
-            "published_at": "Tue, 12 May 2026 15:00:51 GMT",
-            "title": "Sound baths are supposed to help relax and ‘soothe’ your nervous system. But do any of these claims ring true? | Antiviral",
-            "standfirst": "Social media is awash with clips of people paying to be ‘bathed’ in sound. But what’s the science behind the practice?Read more in the Antiviral seriesI, for one, am partial to a bath: what’s not to love about a dim room, candles and nary an electronic device in sight?But a wellness trend that has emerged in recent years makes soaking in tepid water seem quaint: increasingly, people are paying to be “bathed” in sound. Continue reading...",
-            "content": "Social media is awash with clips of people paying to be ‘bathed’ in sound. But what’s the science behind the practice?Read more in the Antiviral seriesI, for one, am partial to a bath: what’s not to love about a dim room, candles and nary an electronic device in sight?But a wellness trend that has emerged in recent years makes soaking in tepid water seem quaint: increasingly, people are paying to be “bathed” in sound. Continue reading...",
-            "feed_position": 8
-          }
-        ]
-      },
-      {
-        "id": "cluster_17",
-        "coverage": 1,
-        "updated_at": "Tue, 12 May 2026 14:30:43 GMT",
-        "title": "‘Unprecedented’ global effort gives new name to polycystic ovary syndrome – and new hope to millions of women",
-        "neutral_headline": "‘I still want to scream’: the loneliness and confusion of living with PMOS",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/ng-interactive/2026/may/12/polycystic-ovary-syndrome-pcos-new-name-polyendocrine-metabolic-ovarian-syndrome-pmos",
-            "published_at": "Tue, 12 May 2026 14:30:43 GMT",
-            "title": "‘Unprecedented’ global effort gives new name to polycystic ovary syndrome – and new hope to millions of women",
-            "standfirst": "Decades-long campaign powered by patient perspectives results in switch from PCOS – a name that caused confusion and undue suffering – to PMOS• What is PCOS, what are the symptoms and treatment, and why is it being renamed PMOS?• ‘I still want to scream’: the loneliness and confusion of living with PMOSAfter more than a decade of global consultation, polycystic ovary syndrome (PCOS) – a condition that affects one in eight women – has been renamed.The hormonal disorder, estimated to affect 170 million women worldwide, will now be known as polyendocrine metabolic ovarian syndrome (PMOS). Continue reading...",
-            "content": "Decades-long campaign powered by patient perspectives results in switch from PCOS – a name that caused confusion and undue suffering – to PMOS• What is PCOS, what are the symptoms and treatment, and why is it being renamed PMOS?• ‘I still want to scream’: the loneliness and confusion of living with PMOSAfter more than a decade of global consultation, polycystic ovary syndrome (PCOS) – a condition that affects one in eight women – has been renamed.The hormonal disorder, estimated to affect 170 million women worldwide, will now be known as polyendocrine metabolic ovarian syndrome (PMOS). Continue reading...",
-            "feed_position": 9
-          },
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2026/may/12/reader-experiences-pcos-pmos-polyendocrine-metabolic-ovarian-syndrome",
-            "published_at": "Tue, 12 May 2026 09:00:45 GMT",
-            "title": "‘I still want to scream’: the loneliness and confusion of living with PMOS",
-            "standfirst": "As polycystic ovary syndrome, or PCOS, is renamed polyendocrine metabolic ovarian syndrome in an attempt to improve treatment and remove stigma, readers speak about the condition and their struggles to get help• ‘Unprecedented’ global effort gives new name to polycystic ovary syndrome – and new hope to millions of women• What is PCOS, what are the symptoms and treatment, and why is it being renamed PMOS?The name polycystic ovary syndrome (PCOS) needed to change. It was inaccurate and it was worsening outcomes for people with the condition.It fuelled misconceptions that it is primarily a gynaecological condition, without enough focus on the whole-body effects across cardio-metabolic, mental, skin and reproductive health.I was diagnosed at 14. They could tell just by looking at me: the makeup of my body, the extra hair, especially on my face (this has been the bane of my life) and the weird periods. They gave me [hormonal medication] Dianette, which I stopped taking after a while due to feeling awful, and told me I’d have unpredictable periods, and that I might struggle with fertility one day.This felt scary but far away at the time, but in hindsight it was hideously simplistic and gave me no knowledge on insulin resistance, the hormonal implications, the impact of stress or the dangers down the road. Continue reading...",
-            "content": "As polycystic ovary syndrome, or PCOS, is renamed polyendocrine metabolic ovarian syndrome in an attempt to improve treatment and remove stigma, readers speak about the condition and their struggles to get help• ‘Unprecedented’ global effort gives new name to polycystic ovary syndrome – and new hope to millions of women• What is PCOS, what are the symptoms and treatment, and why is it being renamed PMOS?The name polycystic ovary syndrome (PCOS) needed to change. It was inaccurate and it was worsening outcomes for people with the condition.It fuelled misconceptions that it is primarily a gynaecological condition, without enough focus on the whole-body effects across cardio-metabolic, mental, skin and reproductive health.I was diagnosed at 14. They could tell just by looking at me: the makeup of my body, the extra hair, especially on my face (this has been the bane of my life) and the weird periods. They gave me [hormonal medication] Dianette, which I stopped taking after a while due to feeling awful, and told me I’d have unpredictable periods, and that I might struggle with fertility one day.This felt scary but far away at the time, but in hindsight it was hideously simplistic and gave me no knowledge on insulin resistance, the hormonal implications, the impact of stress or the dangers down the road. Continue reading...",
-            "feed_position": 12
-          },
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2026/may/12/polycystic-ovary-syndrome-pcos-pmos-symptoms-meaning-treatment-causes-risk-factors-new-name-explained",
-            "published_at": "Tue, 12 May 2026 09:00:44 GMT",
-            "title": "What is PCOS, what are the symptoms and treatment, and why is it being renamed PMOS?",
-            "standfirst": "Polycystic ovary syndrome is being relabelled polyendocrine metabolic ovarian syndrome to correct the misconception that it is solely a gynaecological disease that creates ovarian cysts. Here’s what you need to know about the condition• ‘Unprecedented’ global effort gives new name to polycystic ovary syndrome – and new hope to millions of women• ‘I still want to scream’: the loneliness and confusion of living with PMOSWith polycystic ovary syndrome (PCOS) now being rebadged as polyendocrine metabolic ovarian syndrome (PMOS), we take a look at the condition and explore why experts have decided it is time for a new name. Continue reading...",
-            "content": "Polycystic ovary syndrome is being relabelled polyendocrine metabolic ovarian syndrome to correct the misconception that it is solely a gynaecological disease that creates ovarian cysts. Here’s what you need to know about the condition• ‘Unprecedented’ global effort gives new name to polycystic ovary syndrome – and new hope to millions of women• ‘I still want to scream’: the loneliness and confusion of living with PMOSWith polycystic ovary syndrome (PCOS) now being rebadged as polyendocrine metabolic ovarian syndrome (PMOS), we take a look at the condition and explore why experts have decided it is time for a new name. Continue reading...",
-            "feed_position": 13
-          }
-        ]
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Tue, 12 May 2026 12:00:46 GMT",
-        "title": "Trump’s sudden cut in substance testing is ‘going to kill people’, experts warn",
-        "neutral_headline": "Trump’s sudden cut in substance testing is ‘going to kill people’, experts warn",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/us-news/2026/may/12/fentanyl-test-strips-samhsa-funding",
-            "published_at": "Tue, 12 May 2026 12:00:46 GMT",
-            "title": "Trump’s sudden cut in substance testing is ‘going to kill people’, experts warn",
-            "standfirst": "Samhsa said funding cannot be used to purchase or distribute fentanyl test strips or other drug test kitsThe Trump administration’s decision to restrict use of federal funds for fentanyl test strips, in what officials described as a “clear shift away from harm reduction”, could have fatal consequences, experts and critics have warned.The Substance Abuse and Mental Health Services Administration (Samhsa) issued an open letter in April ordering an end to the use of its funding for all substance testing strips, including fentanyl, xylazine and medetomidine, the latest novel street drug to wreak havoc across the US. Continue reading...",
-            "content": "Samhsa said funding cannot be used to purchase or distribute fentanyl test strips or other drug test kitsThe Trump administration’s decision to restrict use of federal funds for fentanyl test strips, in what officials described as a “clear shift away from harm reduction”, could have fatal consequences, experts and critics have warned.The Substance Abuse and Mental Health Services Administration (Samhsa) issued an open letter in April ordering an end to the use of its funding for all substance testing strips, including fentanyl, xylazine and medetomidine, the latest novel street drug to wreak havoc across the US. Continue reading...",
-            "feed_position": 10
-          }
-        ]
-      },
-      {
-        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Tue, 12 May 2026 10:13:02 GMT",
         "title": "Women-only mental health crisis house to open in town",
@@ -465,11 +285,104 @@
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b6d/live/a3448a10-4e0f-11f1-bb1c-0b281e8bc85b.jpg"
+      },
+      {
+        "id": "cluster_12",
+        "coverage": 1,
+        "updated_at": "Tue, 12 May 2026 10:01:52 GMT",
+        "title": "How worried should we be about hantavirus?",
+        "neutral_headline": "How worried should we be about hantavirus",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/c98r199e195o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Tue, 12 May 2026 10:01:52 GMT",
+            "title": "How worried should we be about hantavirus?",
+            "standfirst": "Passengers potentially exposed to hantavirus are being repatriated, so what is the risk to the wider public?",
+            "content": "Passengers potentially exposed to hantavirus are being repatriated, so what is the risk to the wider public?",
+            "feed_position": 5,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7617/live/0a92d310-4d21-11f1-894d-1b54d8c2d924.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7617/live/0a92d310-4d21-11f1-894d-1b54d8c2d924.jpg"
+      },
+      {
+        "id": "cluster_13",
+        "coverage": 1,
+        "updated_at": "Tue, 12 May 2026 07:59:13 GMT",
+        "title": "How is Keir Starmer getting on with his pledges to deliver change?",
+        "neutral_headline": "How is Keir Starmer getting on with his pledges to deliver change",
+        "bullet_summary": [
+          "At the end of 2024, Keir Starmer announced key government targets including on NHS waiting lists and building new homes, how is he getting on",
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/c5yx03zplkdo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Tue, 12 May 2026 07:59:13 GMT",
+            "title": "How is Keir Starmer getting on with his pledges to deliver change?",
+            "standfirst": "At the end of 2024, Keir Starmer announced key government targets including on NHS waiting lists and building new homes, how is he getting on?",
+            "content": "At the end of 2024, Keir Starmer announced key government targets including on NHS waiting lists and building new homes, how is he getting on?",
+            "feed_position": 18,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa2d/live/a7a1a150-4d0c-11f1-ac78-2112837ce2aa.png"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa2d/live/a7a1a150-4d0c-11f1-ac78-2112837ce2aa.png"
+      },
+      {
+        "id": "cluster_14",
+        "coverage": 1,
+        "updated_at": "Tue, 12 May 2026 05:22:22 GMT",
+        "title": "Renewable energy hub planned for Scottish coal museum",
+        "neutral_headline": "Renewable energy hub planned for Scottish coal museum",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/c809753gzv1o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Tue, 12 May 2026 05:22:22 GMT",
+            "title": "Renewable energy hub planned for Scottish coal museum",
+            "standfirst": "There are plans to install solar panels on the roofs of buildings at Lady Victoria Colliery at Newtongrange.",
+            "content": "There are plans to install solar panels on the roofs of buildings at Lady Victoria Colliery at Newtongrange.",
+            "feed_position": 23,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5aeb/live/fa163f40-4dd9-11f1-bd52-e755d604ece4.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5aeb/live/fa163f40-4dd9-11f1-bd52-e755d604ece4.jpg"
+      },
+      {
+        "id": "cluster_15",
+        "coverage": 1,
+        "updated_at": "Mon, 11 May 2026 17:52:44 GMT",
+        "title": "UK alcohol deaths fall for first time since Covid pandemic",
+        "neutral_headline": "UK alcohol deaths fall for first time since Covid pandemic",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/c3v2dxg79w2o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 11 May 2026 17:52:44 GMT",
+            "title": "UK alcohol deaths fall for first time since Covid pandemic",
+            "standfirst": "Experts say the “modest reduction” is “not cause for complacency”, with calls to redouble efforts to slash deaths further.",
+            "content": "Experts say the “modest reduction” is “not cause for complacency”, with calls to redouble efforts to slash deaths further.",
+            "feed_position": 6,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a815/live/7b753f80-4d50-11f1-9077-cb5f00d3274a.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a815/live/7b753f80-4d50-11f1-9077-cb5f00d3274a.jpg"
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-05-13T09:37:43.165Z",
+    "updated_at": "2026-05-13T13:06:59.151Z",
     "clusters": []
   }
 }
