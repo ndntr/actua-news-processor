@@ -1,16 +1,26 @@
 {
-  "updated_at": "2026-05-15T20:11:01.636Z",
+  "updated_at": "2026-05-15T23:48:57.630Z",
   "clusters": [
     {
-      "id": "cluster_2",
-      "coverage": 2,
-      "updated_at": "Fri, 15 May 2026 19:51:16 +0000",
-      "title": "Tesla Reveals New Details About Robotaxi Crashes—and the Humans Involved",
-      "neutral_headline": "Tesla Reveals New Details About Robotaxi Crashes—and the Humans Involved",
+      "id": "cluster_7",
+      "coverage": 3,
+      "updated_at": "Fri, 15 May 2026 21:50:50 +0000",
+      "title": "New crash data highlights the slow progress of Tesla's robotaxis",
+      "neutral_headline": "New crash data highlights the slow progress of Tesla's robotaxis",
       "bullet_summary": [
-        "Reported by Wired Tech, TechCrunch"
+        "Reported by Engadget, Wired Tech, TechCrunch"
       ],
       "items": [
+        {
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2174144/new-crash-data-highlights-the-slow-progress-of-teslas-robotaxis/",
+          "published_at": "Fri, 15 May 2026 21:50:50 +0000",
+          "title": "New crash data highlights the slow progress of Tesla's robotaxis",
+          "standfirst": "Two crashes since July 2025 involved robotaxis being driven by remote operators.",
+          "content": "Two crashes since July 2025 involved robotaxis being driven by remote operators.",
+          "feed_position": 0,
+          "image_url": "https://www.engadget.com/img/gallery/new-crash-data-highlights-the-slow-progress-of-teslas-robotaxis/l-intro-1778880656.jpg"
+        },
         {
           "source": "Wired Tech",
           "url": "https://www.wired.com/story/tesla-reveals-new-details-about-robotaxi-crashes-and-the-humans-involved/",
@@ -18,7 +28,7 @@
           "title": "Tesla Reveals New Details About Robotaxi Crashes—and the Humans Involved",
           "standfirst": "Remote operators (slowly) drove the automaker’s autonomous vehicles into a metal fence and a construction barricade, Tesla says.",
           "content": "Remote operators (slowly) drove the automaker’s autonomous vehicles into a metal fence and a construction barricade, Tesla says.",
-          "feed_position": 0,
+          "feed_position": 1,
           "image_url": "https://media.wired.com/photos/6a0765d467132e88ffa72f17/master/pass/GettyImages-2220743976.jpg"
         },
         {
@@ -28,14 +38,80 @@
           "title": "Tesla reveals two Robotaxi crashes involving teleoperators",
           "standfirst": "Newly unredacted crash reports reveal some of the troubles Tesla has had as it tries to scale its robotaxis.",
           "content": "Newly unredacted crash reports reveal some of the troubles Tesla has had as it tries to scale its robotaxis.",
-          "feed_position": 2
+          "feed_position": 4
         }
       ],
-      "featured_image": "https://media.wired.com/photos/6a0765d467132e88ffa72f17/master/pass/GettyImages-2220743976.jpg",
-      "popularity_score": 2019.6706566666667
+      "featured_image": "https://www.engadget.com/img/gallery/new-crash-data-highlights-the-slow-progress-of-teslas-robotaxis/l-intro-1778880656.jpg",
+      "popularity_score": 3018.031213888889
     },
     {
-      "id": "cluster_3",
+      "id": "cluster_1",
+      "coverage": 2,
+      "updated_at": "Fri, 15 May 2026 19:05:01 -0400",
+      "title": "YouTube expands its AI likeness detection program to users over the age of 18, after rolling it out to select creators, politicians, journalists, and others (Mia Sato/The Verge)",
+      "neutral_headline": "YouTube is expanding its AI deepfake detection tool to all adult users",
+      "bullet_summary": [
+        "Reported by TechMeme, The Verge"
+      ],
+      "items": [
+        {
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/260515/p31#a260515p31",
+          "published_at": "Fri, 15 May 2026 19:05:01 -0400",
+          "title": "YouTube expands its AI likeness detection program to users over the age of 18, after rolling it out to select creators, politicians, journalists, and others (Mia Sato/The Verge)",
+          "standfirst": "Mia Sato / The Verge: YouTube expands its AI likeness detection program to users over the age of 18, after rolling it out to select creators, politicians, journalists, and others &mdash; Likeness detection, which scans YouTube for facial matches, will now be available to anyone 18 years or older with a YouTube account.",
+          "content": "Mia Sato / The Verge: YouTube expands its AI likeness detection program to users over the age of 18, after rolling it out to select creators, politicians, journalists, and others &mdash; Likeness detection, which scans YouTube for facial matches, will now be available to anyone 18 years or older with a YouTube account.",
+          "feed_position": 0,
+          "image_url": "http://www.techmeme.com/260515/i31.jpg"
+        },
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
+          "published_at": "2026-05-15T18:25:00-04:00",
+          "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
+          "standfirst": "YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves. The likeness detection feature uses a selfie-style scan of a person's face to monitor YouTube for lookalikes. If there is a match, YouTube alerts [&#8230;]",
+          "content": "YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves. The likeness detection feature uses a selfie-style scan of a person's face to monitor YouTube for lookalikes. If there is a match, YouTube alerts the user; the person then has the option to request that YouTube remove the content. YouTube has said in the past that it has found the number of removal requests to be \"very small.\" YouTube began testing the feature with content creators, and then expanded it to government officials, politicians, journalists, and fina … Read the full story at The Verge.",
+          "feed_position": 1
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/260515/i31.jpg",
+      "popularity_score": 2019.2676027777777
+    },
+    {
+      "id": "cluster_16",
+      "coverage": 2,
+      "updated_at": "2026-05-15T16:38:19-04:00",
+      "title": "ArXiv will ban researchers who upload papers full of AI slop",
+      "neutral_headline": "ArXiv will ban researchers who upload papers full of AI slop",
+      "bullet_summary": [
+        "Reported by The Verge, TechMeme"
+      ],
+      "items": [
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
+          "published_at": "2026-05-15T16:38:19-04:00",
+          "title": "ArXiv will ban researchers who upload papers full of AI slop",
+          "standfirst": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has \"incontrovertible evidence that the authors did not check the results of LLM generation,\" such as hallucinated references or \"meta-comments\" left by an LLM, authors will be [&#8230;]",
+          "content": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has \"incontrovertible evidence that the authors did not check the results of LLM generation,\" such as hallucinated references or \"meta-comments\" left by an LLM, authors will be banned from ArXiv for a year, according to Thomas Dietterich, ArXiv's section chair of its computer science section. Future ArXiv submissions will also have to be accepted at \"a reputable peer-reviewed venue.\" Here's what he said on X: Attention @arxiv authors: Our Code of Conduct states that by signing your name … Read the full story at The Verge.",
+          "feed_position": 3
+        },
+        {
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/260515/p20#a260515p20",
+          "published_at": "Fri, 15 May 2026 14:10:12 -0400",
+          "title": "ArXiv, the repository of preprint academic research, says it will ban authors for a year if their papers have \"incontrovertible evidence\" of AI-generated work (Samantha Cole/404 Media)",
+          "standfirst": "Samantha Cole / 404 Media: ArXiv, the repository of preprint academic research, says it will ban authors for a year if their papers have &ldquo;incontrovertible evidence&rdquo; of AI-generated work &mdash; The change comes as arXiv and others struggle to manage an influx of AI-generated materials masquerading as rigorous science.",
+          "content": "Samantha Cole / 404 Media: ArXiv, the repository of preprint academic research, says it will ban authors for a year if their papers have &ldquo;incontrovertible evidence&rdquo; of AI-generated work &mdash; The change comes as arXiv and others struggle to manage an influx of AI-generated materials masquerading as rigorous science.",
+          "feed_position": 11,
+          "image_url": "http://www.techmeme.com/260515/i20.jpg"
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/260515/i20.jpg",
+      "popularity_score": 2016.8226027777778
+    },
+    {
+      "id": "cluster_24",
       "coverage": 2,
       "updated_at": "Fri, 15 May 2026 19:48:53 +0000",
       "title": "California lawmakers are working on a bill to preserve access to online games",
@@ -51,7 +127,7 @@
           "title": "California lawmakers are working on a bill to preserve access to online games",
           "standfirst": "Game preservation group Stop Killing Games advised on the bill.",
           "content": "Game preservation group Stop Killing Games advised on the bill.",
-          "feed_position": 0,
+          "feed_position": 1,
           "image_url": "https://www.engadget.com/img/gallery/california-lawmakers-are-working-on-a-bill-to-preserve-access-to-online-games/l-intro-1778874276.jpg"
         },
         {
@@ -61,15 +137,15 @@
           "title": "Bill to block publishers from killing online games advances in California",
           "standfirst": "Publishers would have to offer \"independent\" play patch or refunds after server shutdowns.",
           "content": "A bill focused on maintaining long-term playable access to online games has passed out of the California Assembly's appropriations committee, setting up a floor vote by the full legislative body. The advancement is a major win for Stop Killing Games' grassroots game preservation movement and comes over the objections of industry lobbyists at the Entertainment Software Association. California's Protect Our Games Act, as currently written, would require digital game publishers who cut off support for an online game to either provide a full refund to players or offer an updated version of the game \"that enables its continued use independent of services controlled by the operator.\" The act would also require publishers to notify players 60 days before the cessation of \"services necessary for the ordinary use of the digital game.\" As currently amended, the act would not apply to completely free games and games offered \"solely for the duration of [a] subscription. Any other game offered for sale in California on or after January 1, 2027, would be subject to the law if it passes.Read full article Comments",
-          "feed_position": 6,
+          "feed_position": 12,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/skg.jpg"
         }
       ],
       "featured_image": "https://www.engadget.com/img/gallery/california-lawmakers-are-working-on-a-bill-to-preserve-access-to-online-games/l-intro-1778874276.jpg",
-      "popularity_score": 2019.6309344444444
+      "popularity_score": 2015.998713888889
     },
     {
-      "id": "cluster_13",
+      "id": "cluster_34",
       "coverage": 2,
       "updated_at": "Fri, 15 May 2026 18:30:45 GMT",
       "title": "The best early Memorial Day laptop deals: Save on Apple, Dell, Lenovo, and more",
@@ -85,7 +161,7 @@
           "title": "The best early Memorial Day laptop deals: Save on Apple, Dell, Lenovo, and more",
           "standfirst": "I've rounded up the best laptop deals live right now so you don't have to.",
           "content": "I've rounded up the best laptop deals live right now so you don't have to.",
-          "feed_position": 1
+          "feed_position": 2
         },
         {
           "source": "ZDNet",
@@ -94,7 +170,7 @@
           "title": "I found the best early Memorial Day phones deals: Save big on Samsung, Google, Apple and more",
           "standfirst": "For Memorial Day, I've rounded up the best smartphone deals. Discounts are already live, so now is a great time to save.",
           "content": "For Memorial Day, I've rounded up the best smartphone deals. Discounts are already live, so now is a great time to save.",
-          "feed_position": 3
+          "feed_position": 4
         },
         {
           "source": "ZDNet",
@@ -103,7 +179,7 @@
           "title": "I found the best early Memorial Day outdoor deals: Lawn mowers, power banks, and more",
           "standfirst": "You can already find great Memorial Day deals on everything you need to upgrade your outdoor space.",
           "content": "You can already find great Memorial Day deals on everything you need to upgrade your outdoor space.",
-          "feed_position": 5
+          "feed_position": 6
         },
         {
           "source": "Wired Tech",
@@ -112,7 +188,7 @@
           "title": "Best Early Memorial Day Deals: Garmin, Birdfy, Breville (2026)",
           "standfirst": "Memorial Day isn’t until May 26, but sales on our favorite gear have already started.",
           "content": "Memorial Day isn’t until May 26, but sales on our favorite gear have already started.",
-          "feed_position": 5,
+          "feed_position": 6,
           "image_url": "https://media.wired.com/photos/6a0630da049286fc056c44c0/master/pass/Memorial%20Day%20Deals%20Early%20top%20art%20052026%20SOURCE%20Amazon.jpg"
         },
         {
@@ -122,7 +198,7 @@
           "title": "Home Depot and Lowe's have power tool deals for up to $400 off ahead of Memorial Day",
           "standfirst": "Save big on everything you need for DIY projects and home repairs with these Memorial Day deals on tools from DeWalt, Milwaukee, and more.",
           "content": "Save big on everything you need for DIY projects and home repairs with these Memorial Day deals on tools from DeWalt, Milwaukee, and more.",
-          "feed_position": 16
+          "feed_position": 17
         },
         {
           "source": "Wired Tech",
@@ -131,15 +207,15 @@
           "title": "Best Early Memorial Day Mattress Deals: Helix, Saatva (2026)",
           "standfirst": "It’s one of the best times of the year to buy a mattress, and deals on our favorite models have already started.",
           "content": "It’s one of the best times of the year to buy a mattress, and deals on our favorite models have already started.",
-          "feed_position": 32,
+          "feed_position": 33,
           "image_url": "https://media.wired.com/photos/6a0603633f6b307a9138c247/master/pass/Best%20Memorial%20Day%20Mattress%20Deals%20SOURCE%20MyGreenMattress%20Birch%20Naturepedic.jpg"
         }
       ],
       "featured_image": "https://media.wired.com/photos/6a0630da049286fc056c44c0/master/pass/Memorial%20Day%20Deals%20Early%20top%20art%20052026%20SOURCE%20Amazon.jpg",
-      "popularity_score": 2018.3287122222223
+      "popularity_score": 2014.6964916666666
     },
     {
-      "id": "cluster_22",
+      "id": "cluster_42",
       "coverage": 2,
       "updated_at": "Fri, 15 May 2026 13:33:56 -0400",
       "title": "OpenAI memo: Greg Brockman says he will lead product strategy as part of a reorg, folding ChatGPT, Codex, and developer-facing API into one core product team (Maxwell Zeff/Wired)",
@@ -155,7 +231,7 @@
           "title": "OpenAI memo: Greg Brockman says he will lead product strategy as part of a reorg, folding ChatGPT, Codex, and developer-facing API into one core product team (Maxwell Zeff/Wired)",
           "standfirst": "Maxwell Zeff / Wired: OpenAI memo: Greg Brockman says he will lead product strategy as part of a reorg, folding ChatGPT, Codex, and developer-facing API into one core product team &mdash; OpenAI is once again reorganizing its executive ranks as part of its effort to unify ChatGPT and Codex into one core product experience.",
           "content": "Maxwell Zeff / Wired: OpenAI memo: Greg Brockman says he will lead product strategy as part of a reorg, folding ChatGPT, Codex, and developer-facing API into one core product team &mdash; OpenAI is once again reorganizing its executive ranks as part of its effort to unify ChatGPT and Codex into one core product experience.",
-          "feed_position": 5,
+          "feed_position": 12,
           "image_url": "http://www.techmeme.com/260515/i19.jpg"
         },
         {
@@ -165,15 +241,15 @@
           "title": "Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shake-Up",
           "standfirst": "OpenAI is once again reorganizing its executive ranks as part of its effort to unify ChatGPT and Codex into one core product experience.",
           "content": "OpenAI is once again reorganizing its executive ranks as part of its effort to unify ChatGPT and Codex into one core product experience.",
-          "feed_position": 2,
+          "feed_position": 3,
           "image_url": "https://media.wired.com/photos/6a074b744504eb478c5455df/master/pass/OpenAI-ReOrg-Business-AP-26120551910145.jpg"
         }
       ],
       "featured_image": "http://www.techmeme.com/260515/i19.jpg",
-      "popularity_score": 2017.3817677777777
+      "popularity_score": 2013.7495472222222
     },
     {
-      "id": "cluster_33",
+      "id": "cluster_52",
       "coverage": 2,
       "updated_at": "Fri, 15 May 2026 12:15:01 -0400",
       "title": "OpenAI debuts personal finance tools for US ChatGPT Pro users, partnering with Plaid to give access to 12K+ financial institutions to analyze spending and more (Ivan Mehta/TechCrunch)",
@@ -189,7 +265,7 @@
           "title": "OpenAI debuts personal finance tools for US ChatGPT Pro users, partnering with Plaid to give access to 12K+ financial institutions to analyze spending and more (Ivan Mehta/TechCrunch)",
           "standfirst": "Ivan Mehta / TechCrunch: OpenAI debuts personal finance tools for US ChatGPT Pro users, partnering with Plaid to give access to 12K+ financial institutions to analyze spending and more &mdash; On Friday, OpenAI launched a new set of personal finance tools in preview for ChatGPT Pro subscribers in the U.S. &hellip;",
           "content": "Ivan Mehta / TechCrunch: OpenAI debuts personal finance tools for US ChatGPT Pro users, partnering with Plaid to give access to 12K+ financial institutions to analyze spending and more &mdash; On Friday, OpenAI launched a new set of personal finance tools in preview for ChatGPT Pro subscribers in the U.S. &hellip;",
-          "feed_position": 7,
+          "feed_position": 14,
           "image_url": "http://www.techmeme.com/260515/i17.jpg"
         },
         {
@@ -199,47 +275,14 @@
           "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
           "standfirst": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
           "content": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
-          "feed_position": 3
+          "feed_position": 5
         }
       ],
       "featured_image": "http://www.techmeme.com/260515/i17.jpg",
-      "popularity_score": 2016.06649
+      "popularity_score": 2012.4342694444445
     },
     {
-      "id": "cluster_34",
-      "coverage": 2,
-      "updated_at": "Fri, 15 May 2026 16:01:43 +0000",
-      "title": "ChatGPT will offer personalized financial advice (if you connect your bank account)",
-      "neutral_headline": "OpenAI now wants ChatGPT to access your bank accounts",
-      "bullet_summary": [
-        "Reported by Engadget, The Verge"
-      ],
-      "items": [
-        {
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2173768/chatgpt-will-offer-personalized-financial-advice-if-you-connect-your-bank-account/",
-          "published_at": "Fri, 15 May 2026 16:01:43 +0000",
-          "title": "ChatGPT will offer personalized financial advice (if you connect your bank account)",
-          "standfirst": "ChatGPT's new Plaid integration allows it pull information from more than 12,000 financial institutions.",
-          "content": "ChatGPT's new Plaid integration allows it pull information from more than 12,000 financial institutions.",
-          "feed_position": 4,
-          "image_url": "https://www.engadget.com/img/gallery/chatgpt-will-offer-personalized-financial-advice-if-you-connect-your-bank-account/l-intro-1778860854.jpg"
-        },
-        {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection",
-          "published_at": "2026-05-15T12:00:00-04:00",
-          "title": "OpenAI now wants ChatGPT to access your bank accounts",
-          "standfirst": "Your trust in AI is about to be put to the test: OpenAI will soon let you give the chatbot direct access to your bank accounts. The new feature announced in preview today will allow users to \"securely connect\" ChatGPT with Plaid - the bank-to-app bridging platform used by 12,000 financial institutions, including Schwab, Fidelity, [&#8230;]",
-          "content": "ChatGPT will even know how much credit card debt you have. | Image: OpenAI Your trust in AI is about to be put to the test: OpenAI will soon let you give the chatbot direct access to your bank accounts. The new feature announced in preview today will allow users to \"securely connect\" ChatGPT with Plaid - the bank-to-app bridging platform used by 12,000 financial institutions, including Schwab, Fidelity, Chase, Capital One, and more. \"More than 200 million people are already going to ChatGPT every month with finance questions - from budgeting to tips on how to cut back on spending,\" OpenAI said in its announcement. \"Now, users can securely connect their financial accounts with Plaid to get the full view of their fi … Read the full story at The Verge.",
-          "feed_position": 6
-        }
-      ],
-      "featured_image": "https://www.engadget.com/img/gallery/chatgpt-will-offer-personalized-financial-advice-if-you-connect-your-bank-account/l-intro-1778860854.jpg",
-      "popularity_score": 2015.8448233333334
-    },
-    {
-      "id": "cluster_57",
+      "id": "cluster_70",
       "coverage": 2,
       "updated_at": "Fri, 15 May 2026 13:00:00 GMT",
       "title": "Bose Lifestyle Ultra Speaker vs. Sonos Era 100: I compared both models, and here's the winner",
@@ -255,7 +298,7 @@
           "title": "Bose Lifestyle Ultra Speaker vs. Sonos Era 100: I compared both models, and here's the winner",
           "standfirst": "Smart speakers are all the rage, and Bose's newcomer is a worthy competitor to the established Sonos.",
           "content": "Smart speakers are all the rage, and Bose's newcomer is a worthy competitor to the established Sonos.",
-          "feed_position": 7
+          "feed_position": 8
         },
         {
           "source": "ZDNet",
@@ -264,7 +307,7 @@
           "title": "I tested Bose's new smart speaker beside my Sonos Era 100 - it was better in several ways",
           "standfirst": "Months after sunsetting the SoundTouch lineup, Bose's Lifestyle Ultra proves that it can still make versatile and great-sounding speaker.",
           "content": "Months after sunsetting the SoundTouch lineup, Bose's Lifestyle Ultra proves that it can still make versatile and great-sounding speaker.",
-          "feed_position": 10
+          "feed_position": 11
         },
         {
           "source": "Engadget",
@@ -273,15 +316,159 @@
           "title": "Bose Lifestyle Ultra Speaker review: Versatile home audio that comes with caveats",
           "standfirst": "Perhaps Bose's latest speaker is better as part of a larger system.",
           "content": "Perhaps Bose's latest speaker is better as part of a larger system.",
-          "feed_position": 10,
+          "feed_position": 11,
           "image_url": "https://www.engadget.com/img/gallery/bose-lifestyle-ultra-speaker-review-versatile-home-audio-that-comes-with-caveats/l-intro-1778845449.jpg"
         }
       ],
       "featured_image": "https://www.engadget.com/img/gallery/bose-lifestyle-ultra-speaker-review-versatile-home-audio-that-comes-with-caveats/l-intro-1778845449.jpg",
-      "popularity_score": 2012.8162122222222
+      "popularity_score": 2009.1839916666668
+    },
+    {
+      "id": "cluster_4",
+      "coverage": 1,
+      "updated_at": "Fri, 15 May 2026 22:19:12 +0000",
+      "title": "Russia pressures university students to become wartime drone pilots",
+      "neutral_headline": "Russia pressures university students to become wartime drone pilots",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/05/russia-pressures-university-students-to-become-wartime-drone-pilots/",
+          "published_at": "Fri, 15 May 2026 22:19:12 +0000",
+          "title": "Russia pressures university students to become wartime drone pilots",
+          "standfirst": "Universities promise no frontline duty and perks if students enlist in military.",
+          "content": "Russian universities are promising free tuition and up to $70,000 to students who are willing to serve as drone pilots in the Russian military for a year—all while claiming students can avoid the risk of frontline combat duty in Ukraine. But there has already been one confirmed battlefield death and possibly more among the new cadre of student drone pilots. That specific recruitment offer appeared on pamphlets distributed at Bauman Moscow State Technical University, according to Bloomberg. Other universities have dangled incentives such as tax holidays, loan forgiveness, and sometimes free land. The independent magazine Groza counted at least 270 Russian academic institutions promoting military contracts to their students in the fifth year of the war that began with Russia’s full-scale invasion of Ukraine in February 2022. This new wave of recruitment is targeting a population of approximately 2 million men attending Russian universities, including gamers and students with technical skills that could make them suitable trainees as drone pilots, according to Bloomberg. Russia’s Defense Ministry has specifically called for drone pilot recruits with expertise in flying drones, model aircraft, electronics, and radio engineering, with computer skills also being desirable, NBC News reported.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Russian-drone-operator-1024x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Russian-drone-operator-1024x648.jpg",
+      "popularity_score": 351.50399166666665
+    },
+    {
+      "id": "cluster_6",
+      "coverage": 1,
+      "updated_at": "Fri, 15 May 2026 21:51:24 +0000",
+      "title": "Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval",
+      "neutral_headline": "Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/",
+          "published_at": "Fri, 15 May 2026 21:51:24 +0000",
+          "title": "Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval",
+          "standfirst": "Lawyers accused of rushing historic settlement to seize $320 million in fees.",
+          "content": "After several authors and class members raised objections to Anthropic's $1.5 billion settlement over its widespread book piracy to train AI, a federal judge has delayed final approvals of the settlement. On Thursday, US District Judge Araceli Martinez-Olguin declined to rubber-stamp what's regarded as the largest copyright settlement in US history. Instead, she wanted to better understand why some class members were objecting and opting out of the settlement. So, she asked authors to address key concerns of objectors, who argued that lawyers' compensation was way too high and payments to class members were a \"pittance.\" Ars reviewed several objections to the settlement, as well as letters from objectors who claimed that the authors' legal team was trying to unfairly shut them out from voicing concerns.Read full article Comments",
+          "feed_position": 1,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1675604392-1152x648-1778878573.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1675604392-1152x648-1778878573.jpg",
+      "popularity_score": 341.04065833333334
     },
     {
       "id": "cluster_8",
+      "coverage": 1,
+      "updated_at": "Fri, 15 May 2026 21:31:53 +0000",
+      "title": "US hantavirus case was false positive; outbreak cases drop from 11 to 10",
+      "neutral_headline": "US hantavirus case was false positive; outbreak cases drop from 11 to 10",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/05/us-hantavirus-case-was-false-positive-outbreak-cases-drop-from-11-to-10/",
+          "published_at": "Fri, 15 May 2026 21:31:53 +0000",
+          "title": "US hantavirus case was false positive; outbreak cases drop from 11 to 10",
+          "standfirst": "WHO announced today that the operation to safely transfer passengers is complete.",
+          "content": "In a press briefing Friday, officials for the World Health Organization announced that the case count of the hantavirus outbreak on the cruise ship MV Hondius in the South Atlantic has shrunk from 11 cases to 10 after a previously reported US case was found to be a false positive. That US case was originally reported by US health officials as \"mildly positive,\" and the WHO had considered it \"inconclusive,\" but still counted in the outbreak as a case in the agency's May 13 outbreak report and in a briefing on May 14. The inconclusive case was in Dr. Stephen Kornfeld, an American doctor aboard the ship who helped respond to the outbreak after the ship's doctor became ill. In an interview with CNN earlier this week, Kornfeld explained that he and others on board had taken nasal swabs early in May, before evacuation, and those swabs were sent for PCR testing in the Netherlands. Two labs in the Netherlands processed Kornfeld's swabs; one lab reported a negative result, and the other reported a faint positive.Read full article Comments",
+          "feed_position": 2,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2275667937-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2275667937-1152x648.jpg",
+      "popularity_score": 330.71538055555556
+    },
+    {
+      "id": "cluster_9",
+      "coverage": 1,
+      "updated_at": "Fri, 15 May 2026 21:17:19 +0000",
+      "title": "Review: Good Omens finale sticks the landing",
+      "neutral_headline": "Review: Good Omens finale sticks the landing",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/culture/2026/05/review-chaotically-uneven-good-omens-finale-still-conjures-up-old-magic/",
+          "published_at": "Fri, 15 May 2026 21:17:19 +0000",
+          "title": "Review: Good Omens finale sticks the landing",
+          "standfirst": "Truncated third season feels rushed, but also gives us a fitting end to a love story for the ages.",
+          "content": "It's been a three-year wait, but Prime Video finally released the series finale for Good Omens: a 90-minute single episode that sought to wrap everything up in a neat little bow. Verdict: Truncating the final season so drastically definitely hurts the first half of the series finale, which feels chaotic and rushed. But once that stupendous on-screen chemistry between co-stars David Tennant and Michael Sheen kicks back in, the old magic shines through, strong as ever, giving us a fitting end to this beloved comic saga. (Spoilers below for all seasons.) Here's a brief recap, since it's been a minute since the S2 finale. The series is based on the original 1990 novel by Neil Gaiman and the late Terry Pratchett. Good Omens is the story of an angel, Aziraphale (Sheen), and a demon, Crowley (Tennant), who gradually become friends over the millennia and team up to avert Armageddon. Season 2 found Aziraphale and Crowley getting back to normal, when the archangel Gabriel (Jon Hamm) turned up unexpectedly at the door of Aziraphale’s bookshop with no memory of who he was or how he got there. The duo had to evade the combined forces of Heaven and Hell to solve the mystery of what happened to Gabriel and why.Read full article Comments",
+          "feed_position": 3,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/goodomens4-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/goodomens4-1152x648.jpg",
+      "popularity_score": 328.47260277777775
+    },
+    {
+      "id": "cluster_17",
+      "coverage": 1,
+      "updated_at": "Fri, 15 May 2026 20:36:05 +0000",
+      "title": "Solar power production undercut by coal pollution",
+      "neutral_headline": "Solar power production undercut by coal pollution",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/05/solar-power-production-undercut-by-coal-pollution/",
+          "published_at": "Fri, 15 May 2026 20:36:05 +0000",
+          "title": "Solar power production undercut by coal pollution",
+          "standfirst": "Each year, some of the power solar could have produced is blocked by aerosols.",
+          "content": "Coal is by far the most polluting fuel that we use. It produces the most carbon emissions per unit of energy, and impurities in the coal produce a lot of sulfur dioxide aerosols, as well as nitrous and nitrogen oxides. Then there’s the coal ash that’s left behind, which typically contains a lot of toxic metals. The health benefits of displacing coal power are typically estimated to be well above the costs of the new generating equipment. But a new study suggests that the problems with coal-derived pollution go beyond health; it interferes with other power sources. Researchers have found that aerosols, both natural and human-derived, significantly reduce the power we could be getting from solar panels, to the tune of hundreds of terawatts a year. And a lot of those aerosols come from burning coal. A big impact The new work, done by a team in the UK, is based on a new global inventory of solar facilities. This started with known inventories of solar facilities, and was supplemented with AI-analyzed satellite imagery and crowdsourced records of locations. Satellite images were then used to determine the size of these facilities, and location-tagged weather data could then be used to estimate their power production.Read full article Comments",
+          "feed_position": 4,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1317714747-1024x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1317714747-1024x648.jpg",
+      "popularity_score": 306.78538055555555
+    },
+    {
+      "id": "cluster_21",
+      "coverage": 1,
+      "updated_at": "Fri, 15 May 2026 20:16:24 +0000",
+      "title": "Weather-monitoring firm hangs dark cloud over customers’ heads by forcing new app",
+      "neutral_headline": "Weather-monitoring firm hangs dark cloud over customers’ heads by forcing new app",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/05/weather-monitoring-firm-hangs-dark-cloud-over-customers-heads-by-forcing-new-app/",
+          "published_at": "Fri, 15 May 2026 20:16:24 +0000",
+          "title": "Weather-monitoring firm hangs dark cloud over customers’ heads by forcing new app",
+          "standfirst": "Newer AcuRite Now app lacks some features but has a subscription option.",
+          "content": "Weather-monitoring company AcuRite is forcing device owners to use a new companion app on May 30, frustrating some long-time customers. AcuRite, which sells devices such as weather stations, indoor thermometers, and rain gauges, began emailing customers last month that they’d soon have to control their devices with the AcuRite Now iOS and Android app. AcuRite first launched the app in June 2025 to control a new weather station, the AcuRite Optimus. However, owners of AcuRite devices had still been able to use the My AcuRite app, which launched in 2016. Soon, however, My AcuRite will no longer be available, making AcuRite Now the only official app for controlling AcuRite devices. The website for the My AcuRite app currently reads:Read full article Comments",
+          "feed_position": 5,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/acurite-optimus-1152x648-1778873721.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/acurite-optimus-1152x648-1778873721.jpg",
+      "popularity_score": 294.457325
+    },
+    {
+      "id": "cluster_29",
       "coverage": 1,
       "updated_at": "Fri, 15 May 2026 18:51:43 +0000",
       "title": "Ebola outbreak with uncommon strain erupts in Congo and Uganda; 65 deaths",
@@ -298,15 +485,15 @@
           "title": "Ebola outbreak with uncommon strain erupts in Congo and Uganda; 65 deaths",
           "standfirst": "WHO learned of potential cases May 5; US CDC said it just heard about it yesterday.",
           "content": "The Africa Centres for Disease Control and Prevention on Friday confirmed an Ebola outbreak in the Northeastern Ituri province of the Democratic Republic of the Congo. Officials in Uganda subsequently reported that the deadly hemorrhagic disease had spilled over the border, with one \"imported\" confirmed case identified in Kampala, the capital. So far, the DRC has reported 246 suspected cases and 65 deaths, mainly in the Mongwalu and Rwampara health zones. Although it is now just being reported, the outbreak already ranks around the 10th largest Ebola outbreak to date. This marks the 17th Ebola outbreak in the DRC since the virus was discovered in 1976. But unlike almost all of the country's past Ebola outbreaks, preliminary laboratory results suggest that the current outbreak is not caused by the Zaire Ebola virus strain. Further genetic sequencing is ongoing today to determine the strain causing the illnesses.Read full article Comments",
-          "feed_position": 1,
+          "feed_position": 7,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1017727088-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1017727088-1152x648.jpg",
-      "popularity_score": 356.67815666666667
+      "popularity_score": 293.04593611111113
     },
     {
-      "id": "cluster_7",
+      "id": "cluster_28",
       "coverage": 1,
       "updated_at": "Fri, 15 May 2026 19:11:48 +0000",
       "title": "Three's a party: US, China, and now Russia are on the prowl in GEO",
@@ -322,15 +509,15 @@
           "title": "Three's a party: US, China, and now Russia are on the prowl in GEO",
           "standfirst": "Instead of running silent and deep, most satellites easily stand out against the blackness of space.",
           "content": "The world's leading space powers desperately want to know what the others are up to high above the equator. For more than a decade, the US military has operated a fleet of \"inspector\" satellites designed to sidle up to other spacecraft in geosynchronous orbit and take pictures. China started launching its satellites for a similar mission in 2018. Ars has written about these activities in geosynchronous orbit (GEO) before, but the last few months have seen a couple of interesting developments. First, Russia has now joined the fray with the recent arrival of its own suspected inspector (or attack) satellite in GEO. Second, the US Space Force is poised to order more—perhaps many more—reconnaissance satellites of its own to send into the geosynchronous belt. GEO is special. The laws of orbital mechanics mean a satellite in this type of orbit, some 22,000 miles (36,000 kilometers) over the equator, moves around the Earth at the same rate as the planet's rotation, causing it to hover over the same location. Commercial and military-owned geosynchronous satellites typically spend years in the same location, or slot, to provide communications services to users.Read full article Comments",
-          "feed_position": 0,
+          "feed_position": 6,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/usa325_kosmos2589_vis1-1152x648-1778871135.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/usa325_kosmos2589_vis1-1152x648-1778871135.jpg",
-      "popularity_score": 352.0128788888889
+      "popularity_score": 288.3806583333333
     },
     {
-      "id": "cluster_17",
+      "id": "cluster_38",
       "coverage": 1,
       "updated_at": "Fri, 15 May 2026 18:13:33 +0000",
       "title": "OpenAI feels “burned” by Apple’s crappy ChatGPT integration, insiders say",
@@ -346,15 +533,15 @@
           "title": "OpenAI feels “burned” by Apple’s crappy ChatGPT integration, insiders say",
           "standfirst": "Judge orders Apple to give Musk internal messages discussing secretive ChatGPT deal.",
           "content": "OpenAI is reportedly exploring legal options after Apple's ChatGPT integration into its products didn't live up to the AI firm's expectations. When the deal was announced, Apple likened features linking Siri to ChatGPT to its now-infamous deal embedding Google search in the Safari browser, insiders granted anonymity to discuss the \"strained\" partnership told Bloomberg. And the promise of that excited OpenAI, which expected the deal \"could generate billions of dollars per year in subscriptions,\" an OpenAI executive granted anonymity to discuss the partnership told Bloomberg. Instead, OpenAI suspects Apple intentionally failed to promote the integration and fears that the deal may have damaged the ChatGPT brand, sources said.Read full article Comments",
-          "feed_position": 3,
+          "feed_position": 9,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2156972504-1024x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2156972504-1024x648.jpg",
-      "popularity_score": 348.04204555555555
+      "popularity_score": 284.409825
     },
     {
-      "id": "cluster_14",
+      "id": "cluster_35",
       "coverage": 1,
       "updated_at": "Fri, 15 May 2026 18:25:53 +0000",
       "title": "Send the arXiv AI-generated slop, get a yearlong vacation from submissions",
@@ -370,135 +557,15 @@
           "title": "Send the arXiv AI-generated slop, get a yearlong vacation from submissions",
           "standfirst": "One of the site's moderators described the new policy on social media.",
           "content": "AI-generated slop has shown up everywhere, including in the peer-reviewed literature. Fake citations, unedited prompt responses, and nonsensical diagrams have all slipped past editors and peer reviewers, and it's not always clear if there are any consequences for the people responsible. Now, it appears that a number of scientific fields will be enforcing rules against AI-generated problems even before peer review or journals get involved. One of the people involved in the physics and astronomy preprint server arXiv used a social media thread to announce that any inappropriate AI-produced content submitted to the server will result in a one-year ban and a permanent requirement that future publications undergo peer review before the arXiv will host them. Thomas Dietterich, in addition to being an emeritus professor at Oregon State University, is heavily involved with arXiv, serving on its editorial advisory council and on its moderation team. So he's in a good position to understand the organization's policies, although we have also reached out to arXiv leadership for confirmation, but have not yet received a response.Read full article Comments",
-          "feed_position": 2,
+          "feed_position": 8,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg",
-      "popularity_score": 346.2476011111111
+      "popularity_score": 282.61538055555553
     },
     {
-      "id": "cluster_19",
-      "coverage": 1,
-      "updated_at": "Fri, 15 May 2026 17:55:55 +0000",
-      "title": "Volkswagen shows its first electric GTI; there's no chance of US sales",
-      "neutral_headline": "Volkswagen shows its first electric GTI; there's no chance of US sales",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/05/how-the-other-half-lives-vw-shows-off-electric-polo-gti-for-europe/",
-          "published_at": "Fri, 15 May 2026 17:55:55 +0000",
-          "title": "Volkswagen shows its first electric GTI; there's no chance of US sales",
-          "standfirst": "The ID. Polo GTI takes plenty of inspiration from the original Golf GTI of 1976.",
-          "content": "When Volkswagen introduced the first Golf GTI in Europe in 1976, it might not have been the first hot hatchback, but it quickly became the gold standard version. Unlike in America, where big cars were cheap and fuel even cheaper, small European streets and even smaller car-buying budgets necessitated vehicles a little more economical in both size and fuel consumption. Small, front-wheel-drive hatchbacks were the answer, but they weren't particularly exciting. The GTI changed that perception with a more powerful engine, sharper handling, and subtle styling tweaks, creating a recipe for the next 50 years. And today, VW showed off its first electric GTI. While the new EV might be inspired by the original Golf GTI, it's one segment smaller than the current Golf—meet the VW ID. Polo GTI. VW has given some of its ID EVs GTX branding until now, but this is the first to get the GTI badge. Like the 1976 original, the new car has front-wheel drive, but the ID. Polo GTI's electric motor generates 222 hp (166 kW)—just over twice the output of the 1.6 L engine in the old car. There's a 52 kWh battery pack that provides a WLTP range estimate of 236 miles (424 km), with DC fast charging up to 105 kW with a 10–80 percent charge time of 24 minutes.Read full article Comments",
-          "feed_position": 4,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/DB2026AU00468_large-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/DB2026AU00468_large-1152x648.jpg",
-      "popularity_score": 316.74815666666666
-    },
-    {
-      "id": "cluster_25",
-      "coverage": 1,
-      "updated_at": "Fri, 15 May 2026 17:06:59 +0000",
-      "title": "Making cement from a different type of rock could clean up emissions",
-      "neutral_headline": "Making cement from a different type of rock could clean up emissions",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/05/running-the-numbers-on-a-zero-emission-way-to-make-cement/",
-          "published_at": "Fri, 15 May 2026 17:06:59 +0000",
-          "title": "Making cement from a different type of rock could clean up emissions",
-          "standfirst": "Limestone might not be the only source for Portland cement.",
-          "content": "Cement production alone currently accounts for about 8 percent of global CO2 emissions, so considerable effort is going into lowering that number. Efficiency can be increased, and energy sources can be swapped for cleaner ones, but a stubborn reality remains: The byproduct of turning limestone into lime during cement production releases CO2 gas. These “direct process emissions” are actually slightly larger than the emissions from burning fuel to heat the kilns and drive this process. A new paper in Communications Sustainability suggests a route to eliminating direct process emissions by removing a bedrock assumption. What if we don’t have to use limestone cement? Get out of Portland The material we call “Portland cement” was developed in the 1800s. It simply requires heating limestone (calcium carbonate) and adding something like clay or coal ash. This gives you the calcium oxide (lime) you’re after but also releases the CO2 that results when you pull an oxygen atom from carbonate.Read full article Comments",
-          "feed_position": 5,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/brimstone_basalt_cement-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/brimstone_basalt_cement-1152x648.jpg",
-      "popularity_score": 299.9326011111111
-    },
-    {
-      "id": "cluster_35",
-      "coverage": 1,
-      "updated_at": "Fri, 15 May 2026 15:56:33 +0000",
-      "title": "Honda shows off new hybrids for America as it absorbs $9 billion EV loss",
-      "neutral_headline": "Honda shows off new hybrids for America as it absorbs $9 billion EV loss",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/05/honda-shows-off-new-hybrids-for-america-as-it-absorbs-9-billion-ev-loss/",
-          "published_at": "Fri, 15 May 2026 15:56:33 +0000",
-          "title": "Honda shows off new hybrids for America as it absorbs $9 billion EV loss",
-          "standfirst": "The automaker marked its first annual loss in more than 70 years.",
-          "content": "After US government policies wrecked the country's electric vehicle market, automakers have been scrambling to adapt. The loss of federal clean vehicle tax incentives and funding for charging infrastructure, combined with capricious tariffs, has resulted in a 28 percent drop in EV sales for the first three months of the year. That's a far cry from just a few years ago, when optimism abounded and a strong commitment to an EV-heavy portfolio translated into a higher share price. As those commitments are abandoned, there's a financial price to pay, including more than $9 billion of write-downs for Honda, which made its first operating loss in the company's history. Honda's first move was to cancel a trio of EVs it planned to build in Ohio, along with another pair of EVs planned as part of a joint venture with Sony. Yesterday, in Tokyo, Honda CEO Toshihiro Mibe held a press conference to announce the automaker's plan to rebuild its business in the wake of these changes.Read full article Comments",
-          "feed_position": 7,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Honda-Hybrid-Sedan-Prototype-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Honda-Hybrid-Sedan-Prototype-1152x648.jpg",
-      "popularity_score": 284.75871222222224
-    },
-    {
-      "id": "cluster_42",
-      "coverage": 1,
-      "updated_at": "Fri, 15 May 2026 15:07:14 +0000",
-      "title": "Casimir force co-opted to generate free energy, midichlorians not included",
-      "neutral_headline": "Casimir force co-opted to generate free energy, midichlorians not included",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/05/casimir-force-co-opted-to-generate-free-energy-midichlorians-not-included/",
-          "published_at": "Fri, 15 May 2026 15:07:14 +0000",
-          "title": "Casimir force co-opted to generate free energy, midichlorians not included",
-          "standfirst": "The vacuum giveth, the vacuum taketh, but the vacuum doesn’t let you taketh.",
-          "content": "This week, a company called Casimir Inc. emerged from “stealth mode” to announce that it had raised significant funding from venture capitalists willing to roll the dice on free energy. That’s right: a startup has gotten serious backing to develop sources of perpetual free energy. The people behind this fantastic new energy generator also brought us the wildly successful WTF thruster EM-drive that could supposedly directly convert electricity into a propulsive force. (Its one practical application was in the show Salvation, where it was treated with the same detailed attention to physical laws as Galaxy Quest’s Omega-13.) With that success, who are we to be skeptical?Read full article Comments",
-          "feed_position": 8,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2019/10/unicorn-rainbow-slinky-1152x648-1778853445.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2019/10/unicorn-rainbow-slinky-1152x648-1778853445.jpg",
-      "popularity_score": 267.9367677777778
-    },
-    {
-      "id": "cluster_46",
-      "coverage": 1,
-      "updated_at": "Fri, 15 May 2026 14:24:31 +0000",
-      "title": "Rocket Report: Cowboy up for data centers in LEO; Russia's new ICBM actually works",
-      "neutral_headline": "Rocket Report: Cowboy up for data centers in LEO; Russia's new ICBM actually works",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/05/rocket-report-russia-claims-success-with-new-icbm-spaceplane-deja-vu-in-europe/",
-          "published_at": "Fri, 15 May 2026 14:24:31 +0000",
-          "title": "Rocket Report: Cowboy up for data centers in LEO; Russia's new ICBM actually works",
-          "standfirst": "SpaceX's upgraded Starship is set to launch on its first test flight as soon as Tuesday, May 19.",
-          "content": "Welcome to Edition 8.41 of the Rocket Report! The stories of the world's two most powerful rockets are now intertwined. Hardware for NASA's third Space Launch System rocket is coming together at Kennedy Space Center in Florida, while SpaceX is readying its first upgraded Starship Version 3 rocket for liftoff from Starbase, Texas. The readiness of each vehicle, along with Blue Origin's New Glenn rocket and Blue Moon lander, will go a long way toward determining the schedule and content of NASA's Artemis III mission in low-Earth orbit. We discuss those plans in this week's Rocket Report. As always, we welcome reader submissions. If you don't want to miss an issue, please subscribe using the box below (the form will not appear on AMP-enabled versions of the site). Each report will include information on small-, medium-, and heavy-lift rockets, as well as a quick look ahead at the next three launches on the calendar. An Indian startup nears its first launch. After the Indian government opened a pathway in 2020 for private industry to build and launch its own rockets, one Indian startup is nearing the pad with its first orbital rocket, Ars reports. The most promising Indian launch company, Skyroot Aerospace, says its Vikram-1 launch vehicle could take flight within the next couple of months. And with a recent $60 million fundraising round valuing the firm at $1.1 billion, the company is poised to accelerate its commercial launch efforts.Read full article Comments",
-          "feed_position": 9,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2276173925-1152x648-1778825433.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2276173925-1152x648-1778825433.jpg",
-      "popularity_score": 257.22482333333335
-    },
-    {
-      "id": "cluster_52",
+      "id": "cluster_66",
       "coverage": 1,
       "updated_at": "Fri, 15 May 2026 13:51:04 +0000",
       "title": "Pennsylvanians use town hall meeting to rail against data center boom",
@@ -514,39 +581,135 @@
           "title": "Pennsylvanians use town hall meeting to rail against data center boom",
           "standfirst": "“This is a public trust and transparency issue.”",
           "content": "The latest example of burgeoning opposition to rapid data-center development in Pennsylvania came at a town hall meeting overflowing with frustration about how the state is managing the surge. As about 225 people watched, more than 20 speakers in the two-hour online forum late Wednesday spoke about resistance to an industry they blame for rising electricity prices, heavy water use, noise pollution and rural industrialization. Gov. Josh Shapiro, who has tried to thread the needle of welcoming data centers while proposing some guardrails, was a frequent target. “This is a public trust and transparency issue,” said Jennifer Dusart, a small business owner and resident of Mechanicsburg, near the state capital. “Too many Americans are finding out about these projects after decisions have been made. We have been bulldozed over, and when citizens have raised concerns, they are often dismissed as uninformed, emotional or anti-progress.”Read full article Comments",
-          "feed_position": 11,
+          "feed_position": 17,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/projectboson-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/projectboson-1152x648.jpg",
-      "popularity_score": 161.66732333333334
+      "popularity_score": 158.03510277777778
     },
     {
-      "id": "cluster_124",
+      "id": "cluster_39",
       "coverage": 1,
-      "updated_at": "Thu, 14 May 2026 18:45:01 +0000",
-      "title": "Judge probes whether Musk settlement with Trump admin is tainted by corruption",
-      "neutral_headline": "Judge probes whether Musk settlement with Trump admin is tainted by corruption",
+      "updated_at": "Fri, 15 May 2026 17:55:55 +0000",
+      "title": "Volkswagen shows its first electric GTI; there's no chance of US sales",
+      "neutral_headline": "Volkswagen shows its first electric GTI; there's no chance of US sales",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/05/judge-probes-whether-musk-settlement-with-trump-admin-is-tainted-by-corruption/",
-          "published_at": "Thu, 14 May 2026 18:45:01 +0000",
-          "title": "Judge probes whether Musk settlement with Trump admin is tainted by corruption",
-          "standfirst": "Trump admin wants to let Musk pay $1.5M fine to settle $150 million Twitter suit.",
-          "content": "A federal judge reportedly said she will not rubber-stamp a settlement between Elon Musk and the Securities and Exchange Commission, saying the deal raises red flags and needs scrutiny over whether Musk is getting special treatment from the Trump administration. As we reported last week, the Trump administration agreed to let Musk pay a $1.5 million fine to settle a lawsuit that originally sought at least $150 million. In 2022, before buying Twitter outright, Musk purchased a 9 percent stake in the social network and failed to disclose it within 10 days as required under US law. The SEC lawsuit filed during the Biden administration said the late disclosure allowed Musk to keep buying shares at artificially low prices and underpay shareholders by at least $150 million. Under the settlement with the SEC, a trust in Musk’s name would pay a $1.5 million civil penalty to the government and not admit that Musk committed any violation. The deal requires court approval, and Judge Sparkle Sooknanan expressed skepticism at a hearing yesterday in US District Court for the District of Columbia.Read full article Comments",
-          "feed_position": 19,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/getty-twitter-x-1152x648.jpg"
+          "url": "https://arstechnica.com/cars/2026/05/how-the-other-half-lives-vw-shows-off-electric-polo-gti-for-europe/",
+          "published_at": "Fri, 15 May 2026 17:55:55 +0000",
+          "title": "Volkswagen shows its first electric GTI; there's no chance of US sales",
+          "standfirst": "The ID. Polo GTI takes plenty of inspiration from the original Golf GTI of 1976.",
+          "content": "When Volkswagen introduced the first Golf GTI in Europe in 1976, it might not have been the first hot hatchback, but it quickly became the gold standard version. Unlike in America, where big cars were cheap and fuel even cheaper, small European streets and even smaller car-buying budgets necessitated vehicles a little more economical in both size and fuel consumption. Small, front-wheel-drive hatchbacks were the answer, but they weren't particularly exciting. The GTI changed that perception with a more powerful engine, sharper handling, and subtle styling tweaks, creating a recipe for the next 50 years. And today, VW showed off its first electric GTI. While the new EV might be inspired by the original Golf GTI, it's one segment smaller than the current Golf—meet the VW ID. Polo GTI. VW has given some of its ID EVs GTX branding until now, but this is the first to get the GTI badge. Like the 1976 original, the new car has front-wheel drive, but the ID. Polo GTI's electric motor generates 222 hp (166 kW)—just over twice the output of the 1.6 L engine in the old car. There's a 52 kWh battery pack that provides a WLTP range estimate of 236 miles (424 km), with DC fast charging up to 105 kW with a 10–80 percent charge time of 24 minutes.Read full article Comments",
+          "feed_position": 10,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/DB2026AU00468_large-1152x648.jpg"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/getty-twitter-x-1152x648.jpg",
-      "popularity_score": 148
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/DB2026AU00468_large-1152x648.jpg",
+      "popularity_score": 153.11593611111113
     },
     {
-      "id": "cluster_47",
+      "id": "cluster_54",
+      "coverage": 1,
+      "updated_at": "Fri, 15 May 2026 15:56:33 +0000",
+      "title": "Honda shows off new hybrids for America as it absorbs $9 billion EV loss",
+      "neutral_headline": "Honda shows off new hybrids for America as it absorbs $9 billion EV loss",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/cars/2026/05/honda-shows-off-new-hybrids-for-america-as-it-absorbs-9-billion-ev-loss/",
+          "published_at": "Fri, 15 May 2026 15:56:33 +0000",
+          "title": "Honda shows off new hybrids for America as it absorbs $9 billion EV loss",
+          "standfirst": "The automaker marked its first annual loss in more than 70 years.",
+          "content": "After US government policies wrecked the country's electric vehicle market, automakers have been scrambling to adapt. The loss of federal clean vehicle tax incentives and funding for charging infrastructure, combined with capricious tariffs, has resulted in a 28 percent drop in EV sales for the first three months of the year. That's a far cry from just a few years ago, when optimism abounded and a strong commitment to an EV-heavy portfolio translated into a higher share price. As those commitments are abandoned, there's a financial price to pay, including more than $9 billion of write-downs for Honda, which made its first operating loss in the company's history. Honda's first move was to cancel a trio of EVs it planned to build in Ohio, along with another pair of EVs planned as part of a joint venture with Sony. Yesterday, in Tokyo, Honda CEO Toshihiro Mibe held a press conference to announce the automaker's plan to rebuild its business in the wake of these changes.Read full article Comments",
+          "feed_position": 13,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Honda-Hybrid-Sedan-Prototype-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Honda-Hybrid-Sedan-Prototype-1152x648.jpg",
+      "popularity_score": 151.12649166666665
+    },
+    {
+      "id": "cluster_45",
+      "coverage": 1,
+      "updated_at": "Fri, 15 May 2026 17:06:59 +0000",
+      "title": "Making cement from a different type of rock could clean up emissions",
+      "neutral_headline": "Making cement from a different type of rock could clean up emissions",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/05/running-the-numbers-on-a-zero-emission-way-to-make-cement/",
+          "published_at": "Fri, 15 May 2026 17:06:59 +0000",
+          "title": "Making cement from a different type of rock could clean up emissions",
+          "standfirst": "Limestone might not be the only source for Portland cement.",
+          "content": "Cement production alone currently accounts for about 8 percent of global CO2 emissions, so considerable effort is going into lowering that number. Efficiency can be increased, and energy sources can be swapped for cleaner ones, but a stubborn reality remains: The byproduct of turning limestone into lime during cement production releases CO2 gas. These “direct process emissions” are actually slightly larger than the emissions from burning fuel to heat the kilns and drive this process. A new paper in Communications Sustainability suggests a route to eliminating direct process emissions by removing a bedrock assumption. What if we don’t have to use limestone cement? Get out of Portland The material we call “Portland cement” was developed in the 1800s. It simply requires heating limestone (calcium carbonate) and adding something like clay or coal ash. This gives you the calcium oxide (lime) you’re after but also releases the CO2 that results when you pull an oxygen atom from carbonate.Read full article Comments",
+          "feed_position": 11,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/brimstone_basalt_cement-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/brimstone_basalt_cement-1152x648.jpg",
+      "popularity_score": 146.30038055555556
+    },
+    {
+      "id": "cluster_59",
+      "coverage": 1,
+      "updated_at": "Fri, 15 May 2026 15:07:14 +0000",
+      "title": "Casimir force co-opted to generate free energy, midichlorians not included",
+      "neutral_headline": "Casimir force co-opted to generate free energy, midichlorians not included",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/05/casimir-force-co-opted-to-generate-free-energy-midichlorians-not-included/",
+          "published_at": "Fri, 15 May 2026 15:07:14 +0000",
+          "title": "Casimir force co-opted to generate free energy, midichlorians not included",
+          "standfirst": "The vacuum giveth, the vacuum taketh, but the vacuum doesn’t let you taketh.",
+          "content": "This week, a company called Casimir Inc. emerged from “stealth mode” to announce that it had raised significant funding from venture capitalists willing to roll the dice on free energy. That’s right: a startup has gotten serious backing to develop sources of perpetual free energy. The people behind this fantastic new energy generator also brought us the wildly successful WTF thruster EM-drive that could supposedly directly convert electricity into a propulsive force. (Its one practical application was in the show Salvation, where it was treated with the same detailed attention to physical laws as Galaxy Quest’s Omega-13.) With that success, who are we to be skeptical?Read full article Comments",
+          "feed_position": 14,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2019/10/unicorn-rainbow-slinky-1152x648-1778853445.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2019/10/unicorn-rainbow-slinky-1152x648-1778853445.jpg",
+      "popularity_score": 144.30454722222223
+    },
+    {
+      "id": "cluster_62",
+      "coverage": 1,
+      "updated_at": "Fri, 15 May 2026 14:24:31 +0000",
+      "title": "Rocket Report: Cowboy up for data centers in LEO; Russia's new ICBM actually works",
+      "neutral_headline": "Rocket Report: Cowboy up for data centers in LEO; Russia's new ICBM actually works",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/05/rocket-report-russia-claims-success-with-new-icbm-spaceplane-deja-vu-in-europe/",
+          "published_at": "Fri, 15 May 2026 14:24:31 +0000",
+          "title": "Rocket Report: Cowboy up for data centers in LEO; Russia's new ICBM actually works",
+          "standfirst": "SpaceX's upgraded Starship is set to launch on its first test flight as soon as Tuesday, May 19.",
+          "content": "Welcome to Edition 8.41 of the Rocket Report! The stories of the world's two most powerful rockets are now intertwined. Hardware for NASA's third Space Launch System rocket is coming together at Kennedy Space Center in Florida, while SpaceX is readying its first upgraded Starship Version 3 rocket for liftoff from Starbase, Texas. The readiness of each vehicle, along with Blue Origin's New Glenn rocket and Blue Moon lander, will go a long way toward determining the schedule and content of NASA's Artemis III mission in low-Earth orbit. We discuss those plans in this week's Rocket Report. As always, we welcome reader submissions. If you don't want to miss an issue, please subscribe using the box below (the form will not appear on AMP-enabled versions of the site). Each report will include information on small-, medium-, and heavy-lift rockets, as well as a quick look ahead at the next three launches on the calendar. An Indian startup nears its first launch. After the Indian government opened a pathway in 2020 for private industry to build and launch its own rockets, one Indian startup is nearing the pad with its first orbital rocket, Ars reports. The most promising Indian launch company, Skyroot Aerospace, says its Vikram-1 launch vehicle could take flight within the next couple of months. And with a recent $60 million fundraising round valuing the firm at $1.1 billion, the company is poised to accelerate its commercial launch efforts.Read full article Comments",
+          "feed_position": 15,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2276173925-1152x648-1778825433.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2276173925-1152x648-1778825433.jpg",
+      "popularity_score": 143.59260277777778
+    },
+    {
+      "id": "cluster_63",
       "coverage": 1,
       "updated_at": "Fri, 15 May 2026 14:01:23 +0000",
       "title": "Routine vaccines may cut dementia risk—experts have startling hypothesis on how",
@@ -562,15 +725,15 @@
           "title": "Routine vaccines may cut dementia risk—experts have startling hypothesis on how",
           "standfirst": "Vaccines may be training a part of our immune system long thought to be untrainable.",
           "content": "More and more routine vaccines are being linked to lower risks of dementia. Shots against seasonal flu, RSV, tetanus, diphtheria, and pertussis (Tdap), pneumococcal infections, hepatitis A and B, and typhoid have all been linked to lower risks. And one of the strongest connections is from vaccination against shingles, with more data supporting the link still coming in. But as the evidence mounts, scientists continue to puzzle over the pleasant surprise—how are vaccines that target specific pathogens inadvertently shielding our minds from deterioration? A burgeoning hypothesis offers a brow-raising possibility: The shots may be protecting our noggins by training the part of our immune system that had long been considered untrainable. If the idea holds up, it could generate a deeper understanding of fundamental aspects of our immune systems while opening new avenues to treating or preventing dementia. It could also add another dimension to the benefits of vaccines, which already save millions of lives worldwide. Trained immunity It's well understood how vaccines work generally; they're designed to prime our immune systems against specific pathogens. Vaccines present either defanged pathogens or distinctive fragments of them to specialized immune cells—namely, T cells and antibody-producing B cells—that can then learn to identify those microbial enemies.Read full article Comments",
-          "feed_position": 10,
+          "feed_position": 16,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-693360432-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-693360432-1152x648.jpg",
-      "popularity_score": 146.83926777777776
+      "popularity_score": 143.20704722222223
     },
     {
-      "id": "cluster_72",
+      "id": "cluster_81",
       "coverage": 1,
       "updated_at": "Fri, 15 May 2026 11:00:44 +0000",
       "title": "The perfect commuter bike? Velotric's Discover M makes its case.",
@@ -586,15 +749,15 @@
           "title": "The perfect commuter bike? Velotric's Discover M makes its case.",
           "standfirst": "A customized mid-motor and Shimano's new Cues components are a winning combination.",
           "content": "Commuter bikes don't come with the same constraints many other bikes do. Mountain bikes must glide gracefully through all sorts of abusive terrain; road bikes need to mix high performance with enough comfort to let riders stay in the saddle for hours on end. All a commuter bike needs to do is comfortably and reliably get you from A to B on typical roads with minimal fuss. So it's been surprising how rarely the commuter bikes I've tested have gotten it right. At the low end of the price scale, as you'd expect, the required compromises have a big impact on the experience. The high end addresses those shortcomings, but at prices comparable to high-end bikes from specialized categories. I've never encountered something in the middle of the two: affordable, with no compromises. But I may have just found my ideal commuter bike: the Velotric Discover M. It's comfortable, it has a great combination of components, and it comes in at just under $2,500.Read full article Comments",
-          "feed_position": 12,
+          "feed_position": 18,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/IMG_1961-1152x648-1778704646.jpeg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/IMG_1961-1152x648-1778704646.jpeg",
-      "popularity_score": 143.82843444444444
+      "popularity_score": 140.19621388888888
     },
     {
-      "id": "cluster_76",
+      "id": "cluster_85",
       "coverage": 1,
       "updated_at": "Fri, 15 May 2026 10:30:01 +0000",
       "title": "Claude Code's product lead talks usage limits, transparency, and the \"lean harness\"",
@@ -610,132 +773,12 @@
           "title": "Claude Code's product lead talks usage limits, transparency, and the \"lean harness\"",
           "standfirst": "\"We have no grand plan,\" says Anthropic's Cat Wu—but that's by design.",
           "content": "SAN FRANCISCO—Amid an ever-expanding array of surfaces, growing demand for tokens and compute, and a rapidly evolving user base, Anthropic doesn't have a long-term road map for Claude Code. However, it's betting that such a plan would be rendered moot by improvements in model capabilities and new signals from developers on how best to use it. That's the takeaway from a 30-minute conversation Ars had with Cat Wu, Anthropic's head of product for Claude Code. Last week, in a three-level car rental parking garage meticulously converted into an event space in downtown San Francisco, Anthropic put on its second annual Code with Claude developer conference. As previously reported, the single-day event included a keynote introducing new features for Managed Agents and announcing a compute deal with SpaceX. That compute deal was accompanied by a doubling of usage limits for Claude Code users on the company's Pro and Max plans—a response to a lot of user frustration about a compute crunch, especially in recent weeks.Read full article Comments",
-          "feed_position": 13,
+          "feed_position": 19,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Cat-Wu-1152x648-1778778452.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Cat-Wu-1152x648-1778778452.jpg",
-      "popularity_score": 143.31649
-    },
-    {
-      "id": "cluster_108",
-      "coverage": 1,
-      "updated_at": "Thu, 14 May 2026 21:02:53 +0000",
-      "title": "Fired hacker twins forget to end Teams recording, capture own crimes",
-      "neutral_headline": "Fired hacker twins forget to end Teams recording, capture own crimes",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/05/fired-hacker-twins-forget-to-end-teams-recording-capture-own-crimes/",
-          "published_at": "Thu, 14 May 2026 21:02:53 +0000",
-          "title": "Fired hacker twins forget to end Teams recording, capture own crimes",
-          "standfirst": "One little mystery—solved.",
-          "content": "Perhaps you remember Muneeb and Sohaib Akhter, the 34-year-old twin brothers we profiled earlier this week. Although they had the tech chops to commit years of petty crimes (like stealing airline miles), what landed them in truly serious trouble was deleting 96 US government databases in the hour after both were fired last year by the same federal IT contractor, Opexus. (Opexus had just found out that both brothers had previously been in prison for cyberfraud.) The pair come off less as cybercriminal masterminds than as galumphing galoots—that is to say, a pair of bumbling oafs who thought that asking AI how to cover their tracks was going to keep them out of federal prison. One of the minor mysteries I encountered while writing the piece was that the government had a verbatim transcript of everything the brothers said to each other during their hour-long deletion spree. The two men lived together in Arlington, Virginia, so it made sense that they might be chatting in the same room rather than by text or instant message. But how the heck had the government gotten access to the audio? Supersecret software bugging? Crazy corporate spyware running on their company laptops? FBI agent in the bushes with a microphone?Read full article Comments",
-          "feed_position": 15,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2236514491-1152x648-1778791403.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2236514491-1152x648-1778791403.jpg",
-      "popularity_score": 143
-    },
-    {
-      "id": "cluster_105",
-      "coverage": 1,
-      "updated_at": "Thu, 14 May 2026 21:32:29 +0000",
-      "title": "Men use \"vocal fry\" more than women, counter to stereotype",
-      "neutral_headline": "Men use \"vocal fry\" more than women, counter to stereotype",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/05/men-use-vocal-fry-more-than-women-counter-to-stereotype/",
-          "published_at": "Thu, 14 May 2026 21:32:29 +0000",
-          "title": "Men use \"vocal fry\" more than women, counter to stereotype",
-          "standfirst": "Study suggests \"the bias is real but socially constructed, rather than grounded in how women actually sound.\"",
-          "content": "Vocal fry, aka \"creaky voice,\" is a distinctive drop in pitch, usually at the end of sentences, associated with the speech patterns of young women in particular. Britney Spears is the go-to example of the trend, having famously used it in her 1998 smash hit, \"Hit Me Baby (One More Time),\" and she's far from the only one. But what if that popular gender-based stereotype is wrong? Jeanne Brown, a graduate student at McGill University, has found that vocal fry is actually more common in men than women, detailing her experimental findings in a talk at this week's meeting of the Acoustical Society of America in Philadelphia. Per Brown, we perceive it as more prominent in young women. Vocal fry is the lowest of the human vocal registers, the others being the modal and falsetto registers, as well as the whistle register. It's caused when the vocal cords slacken, leading to irregular vibration and an audible cracking or rattling sound as air is released in spurts. Vocal fry is characterized by very low fundamental frequencies of around 70 Hz. (The lowest end of the range of human hearing is 20 Hz.)Read full article Comments",
-          "feed_position": 14,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/vocalfry1-1-1152x648-1778713828.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/vocalfry1-1-1152x648-1778713828.jpg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_116",
-      "coverage": 1,
-      "updated_at": "Thu, 14 May 2026 19:27:50 +0000",
-      "title": "Cell phone users can't stop incriminating themselves",
-      "neutral_headline": "Cell phone users can't stop incriminating themselves",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/05/cell-phones-users-cant-stop-incriminating-themselves/",
-          "published_at": "Thu, 14 May 2026 19:27:50 +0000",
-          "title": "Cell phone users can't stop incriminating themselves",
-          "standfirst": "People confide almost everything to their phones.",
-          "content": "\"What kind of doctor was dr. pepper,\" Utah real estate agent Kouri Richins once asked a search engine. (Sadly, there was no actual Dr. Pepper.) But it was Richins' less innocuous online searches that helped a jury find her guilty of murdering her husband Eric via fentanyl overdose—and of hoping to collect life insurance policies she had opened in his name but without his knowledge. Richins was yesterday sentenced to life in prison without parole; her Internet history played a key role in the trial. A few weeks after Utah police began their investigation into Eric's March 2022 death, they seized Kouri's iPhone. Comparisons with records from her cell phone provider suggested that numerous text messages around the time of Eric's death had been deleted from the device. In addition, cell phone tower pings helped establish where Kouri had been in the days before Eric's death, which were a key piece of evidence in the state's case against her.Read full article Comments",
-          "feed_position": 16,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2250305962-1152x648-1778782227.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2250305962-1152x648-1778782227.jpg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_117",
-      "coverage": 1,
-      "updated_at": "Thu, 14 May 2026 19:17:28 +0000",
-      "title": "Energy supplier abandons Lake Tahoe residents to serve data centers",
-      "neutral_headline": "Energy supplier abandons Lake Tahoe residents to serve data centers",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/05/energy-supplier-abandons-lake-tahoe-residents-to-serve-data-centers/",
-          "published_at": "Thu, 14 May 2026 19:17:28 +0000",
-          "title": "Energy supplier abandons Lake Tahoe residents to serve data centers",
-          "standfirst": "Town’s 49,000 California residents compete with Nevada data centers for energy.",
-          "content": "The tourist and ski resort town of Lake Tahoe must scramble to find a new energy supplier by May 2027—the result of a Nevada utility company saying it needs the power capacity in part for new data centers. The resulting energy crisis impacts 49,000 California residents who live near Lake Tahoe, nestled in the Sierra Nevada mountains on the border between California and Nevada. Lake Tahoe’s local electricity provider, California-based Liberty Utilities, has been obtaining 75 percent of its power from the Nevada-based company NV Energy. But the latter has said it will stop providing power to the Lake Tahoe region by May 2027, according to extensive reporting by Fortune. Nevada's fast-growing data center development is one of the main reasons given by NV Energy for ending its energy supply agreement with Liberty, according to a Liberty filing with California regulators. Fortune highlighted data from NV Energy’s own planning documents showing that a dozen data center projects in northern Nevada could drive 5,900 megawatts of new demand by 2033.Read full article Comments",
-          "feed_position": 17,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Lake-Tahoe-town-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Lake-Tahoe-town-1152x648.jpg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_123",
-      "coverage": 1,
-      "updated_at": "Thu, 14 May 2026 18:55:54 +0000",
-      "title": "Over a year later, AMD is bringing improved FSR 4 upscaling to its older GPUs",
-      "neutral_headline": "Over a year later, AMD is bringing improved FSR 4 upscaling to its older GPUs",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/05/amd-promises-to-bring-improved-hardware-backed-fsr-4-upscaling-to-older-radeon-gpus/",
-          "published_at": "Thu, 14 May 2026 18:55:54 +0000",
-          "title": "Over a year later, AMD is bringing improved FSR 4 upscaling to its older GPUs",
-          "standfirst": "FSR 4.1 running on RDNA3 or RDNA2 GPUs may take a bigger performance hit.",
-          "content": "When AMD announced version 4 of its FidelityFX Super Resolution (FSR) graphics upscaling technology early last year, it came with strings attached: The improved hardware-backed image quality would be available only on Radeon RX 9000-series GPUs based on the RDNA4 architecture, not on any older Radeon GPUs. To date, AMD has released only a handful of 90-series graphics cards, including the RX 9070 XT, the RX 9070, the 8GB and 16GB versions of the RX 9060 XT, and an RX 9060 that's only available to PC companies rather than end users. That list notably doesn't include any integrated GPUs, such as those found in AMD-powered thin-and-light laptops or gaming handhelds like the Steam Deck and its imitators. Over a year later, AMD Computing and Graphics SVP Jack Huynh has announced that a version of FSR 4 is finally coming to older GPUs. The rollout will begin in July with RDNA3- and 3.5-based GPUs, which include the Radeon RX 7000 series, as well as integrated GPUs like the Radeon 890M and Radeon 8060S.Read full article Comments",
-          "feed_position": 18,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/IMG_0772-1152x648.jpeg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/IMG_0772-1152x648.jpeg",
-      "popularity_score": 133
+      "popularity_score": 139.68426944444445
     }
   ]
 }
