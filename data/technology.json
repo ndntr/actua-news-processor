@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-15T23:48:57.630Z",
+  "updated_at": "2026-05-16T05:47:46.891Z",
   "clusters": [
     {
-      "id": "cluster_7",
+      "id": "cluster_18",
       "coverage": 3,
       "updated_at": "Fri, 15 May 2026 21:50:50 +0000",
       "title": "New crash data highlights the slow progress of Tesla's robotaxis",
@@ -18,7 +18,7 @@
           "title": "New crash data highlights the slow progress of Tesla's robotaxis",
           "standfirst": "Two crashes since July 2025 involved robotaxis being driven by remote operators.",
           "content": "Two crashes since July 2025 involved robotaxis being driven by remote operators.",
-          "feed_position": 0,
+          "feed_position": 1,
           "image_url": "https://www.engadget.com/img/gallery/new-crash-data-highlights-the-slow-progress-of-teslas-robotaxis/l-intro-1778880656.jpg"
         },
         {
@@ -28,7 +28,7 @@
           "title": "Tesla Reveals New Details About Robotaxi Crashes—and the Humans Involved",
           "standfirst": "Remote operators (slowly) drove the automaker’s autonomous vehicles into a metal fence and a construction barricade, Tesla says.",
           "content": "Remote operators (slowly) drove the automaker’s autonomous vehicles into a metal fence and a construction barricade, Tesla says.",
-          "feed_position": 1,
+          "feed_position": 10,
           "image_url": "https://media.wired.com/photos/6a0765d467132e88ffa72f17/master/pass/GettyImages-2220743976.jpg"
         },
         {
@@ -42,10 +42,10 @@
         }
       ],
       "featured_image": "https://www.engadget.com/img/gallery/new-crash-data-highlights-the-slow-progress-of-teslas-robotaxis/l-intro-1778880656.jpg",
-      "popularity_score": 3018.031213888889
+      "popularity_score": 3012.0508636111113
     },
     {
-      "id": "cluster_1",
+      "id": "cluster_12",
       "coverage": 2,
       "updated_at": "Fri, 15 May 2026 19:05:01 -0400",
       "title": "YouTube expands its AI likeness detection program to users over the age of 18, after rolling it out to select creators, politicians, journalists, and others (Mia Sato/The Verge)",
@@ -61,7 +61,7 @@
           "title": "YouTube expands its AI likeness detection program to users over the age of 18, after rolling it out to select creators, politicians, journalists, and others (Mia Sato/The Verge)",
           "standfirst": "Mia Sato / The Verge: YouTube expands its AI likeness detection program to users over the age of 18, after rolling it out to select creators, politicians, journalists, and others &mdash; Likeness detection, which scans YouTube for facial matches, will now be available to anyone 18 years or older with a YouTube account.",
           "content": "Mia Sato / The Verge: YouTube expands its AI likeness detection program to users over the age of 18, after rolling it out to select creators, politicians, journalists, and others &mdash; Likeness detection, which scans YouTube for facial matches, will now be available to anyone 18 years or older with a YouTube account.",
-          "feed_position": 0,
+          "feed_position": 6,
           "image_url": "http://www.techmeme.com/260515/i31.jpg"
         },
         {
@@ -75,43 +75,10 @@
         }
       ],
       "featured_image": "http://www.techmeme.com/260515/i31.jpg",
-      "popularity_score": 2019.2676027777777
+      "popularity_score": 2013.2872525
     },
     {
-      "id": "cluster_16",
-      "coverage": 2,
-      "updated_at": "2026-05-15T16:38:19-04:00",
-      "title": "ArXiv will ban researchers who upload papers full of AI slop",
-      "neutral_headline": "ArXiv will ban researchers who upload papers full of AI slop",
-      "bullet_summary": [
-        "Reported by The Verge, TechMeme"
-      ],
-      "items": [
-        {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
-          "published_at": "2026-05-15T16:38:19-04:00",
-          "title": "ArXiv will ban researchers who upload papers full of AI slop",
-          "standfirst": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has \"incontrovertible evidence that the authors did not check the results of LLM generation,\" such as hallucinated references or \"meta-comments\" left by an LLM, authors will be [&#8230;]",
-          "content": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has \"incontrovertible evidence that the authors did not check the results of LLM generation,\" such as hallucinated references or \"meta-comments\" left by an LLM, authors will be banned from ArXiv for a year, according to Thomas Dietterich, ArXiv's section chair of its computer science section. Future ArXiv submissions will also have to be accepted at \"a reputable peer-reviewed venue.\" Here's what he said on X: Attention @arxiv authors: Our Code of Conduct states that by signing your name … Read the full story at The Verge.",
-          "feed_position": 3
-        },
-        {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/260515/p20#a260515p20",
-          "published_at": "Fri, 15 May 2026 14:10:12 -0400",
-          "title": "ArXiv, the repository of preprint academic research, says it will ban authors for a year if their papers have \"incontrovertible evidence\" of AI-generated work (Samantha Cole/404 Media)",
-          "standfirst": "Samantha Cole / 404 Media: ArXiv, the repository of preprint academic research, says it will ban authors for a year if their papers have &ldquo;incontrovertible evidence&rdquo; of AI-generated work &mdash; The change comes as arXiv and others struggle to manage an influx of AI-generated materials masquerading as rigorous science.",
-          "content": "Samantha Cole / 404 Media: ArXiv, the repository of preprint academic research, says it will ban authors for a year if their papers have &ldquo;incontrovertible evidence&rdquo; of AI-generated work &mdash; The change comes as arXiv and others struggle to manage an influx of AI-generated materials masquerading as rigorous science.",
-          "feed_position": 11,
-          "image_url": "http://www.techmeme.com/260515/i20.jpg"
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/260515/i20.jpg",
-      "popularity_score": 2016.8226027777778
-    },
-    {
-      "id": "cluster_24",
+      "id": "cluster_35",
       "coverage": 2,
       "updated_at": "Fri, 15 May 2026 19:48:53 +0000",
       "title": "California lawmakers are working on a bill to preserve access to online games",
@@ -127,7 +94,7 @@
           "title": "California lawmakers are working on a bill to preserve access to online games",
           "standfirst": "Game preservation group Stop Killing Games advised on the bill.",
           "content": "Game preservation group Stop Killing Games advised on the bill.",
-          "feed_position": 1,
+          "feed_position": 2,
           "image_url": "https://www.engadget.com/img/gallery/california-lawmakers-are-working-on-a-bill-to-preserve-access-to-online-games/l-intro-1778874276.jpg"
         },
         {
@@ -142,10 +109,10 @@
         }
       ],
       "featured_image": "https://www.engadget.com/img/gallery/california-lawmakers-are-working-on-a-bill-to-preserve-access-to-online-games/l-intro-1778874276.jpg",
-      "popularity_score": 2015.998713888889
+      "popularity_score": 2010.018363611111
     },
     {
-      "id": "cluster_34",
+      "id": "cluster_43",
       "coverage": 2,
       "updated_at": "Fri, 15 May 2026 18:30:45 GMT",
       "title": "The best early Memorial Day laptop deals: Save on Apple, Dell, Lenovo, and more",
@@ -188,7 +155,7 @@
           "title": "Best Early Memorial Day Deals: Garmin, Birdfy, Breville (2026)",
           "standfirst": "Memorial Day isn’t until May 26, but sales on our favorite gear have already started.",
           "content": "Memorial Day isn’t until May 26, but sales on our favorite gear have already started.",
-          "feed_position": 6,
+          "feed_position": 15,
           "image_url": "https://media.wired.com/photos/6a0630da049286fc056c44c0/master/pass/Memorial%20Day%20Deals%20Early%20top%20art%20052026%20SOURCE%20Amazon.jpg"
         },
         {
@@ -207,82 +174,15 @@
           "title": "Best Early Memorial Day Mattress Deals: Helix, Saatva (2026)",
           "standfirst": "It’s one of the best times of the year to buy a mattress, and deals on our favorite models have already started.",
           "content": "It’s one of the best times of the year to buy a mattress, and deals on our favorite models have already started.",
-          "feed_position": 33,
+          "feed_position": 42,
           "image_url": "https://media.wired.com/photos/6a0603633f6b307a9138c247/master/pass/Best%20Memorial%20Day%20Mattress%20Deals%20SOURCE%20MyGreenMattress%20Birch%20Naturepedic.jpg"
         }
       ],
       "featured_image": "https://media.wired.com/photos/6a0630da049286fc056c44c0/master/pass/Memorial%20Day%20Deals%20Early%20top%20art%20052026%20SOURCE%20Amazon.jpg",
-      "popularity_score": 2014.6964916666666
+      "popularity_score": 2008.716141388889
     },
     {
-      "id": "cluster_42",
-      "coverage": 2,
-      "updated_at": "Fri, 15 May 2026 13:33:56 -0400",
-      "title": "OpenAI memo: Greg Brockman says he will lead product strategy as part of a reorg, folding ChatGPT, Codex, and developer-facing API into one core product team (Maxwell Zeff/Wired)",
-      "neutral_headline": "Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shake-Up",
-      "bullet_summary": [
-        "Reported by TechMeme, Wired Tech"
-      ],
-      "items": [
-        {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/260515/p19#a260515p19",
-          "published_at": "Fri, 15 May 2026 13:33:56 -0400",
-          "title": "OpenAI memo: Greg Brockman says he will lead product strategy as part of a reorg, folding ChatGPT, Codex, and developer-facing API into one core product team (Maxwell Zeff/Wired)",
-          "standfirst": "Maxwell Zeff / Wired: OpenAI memo: Greg Brockman says he will lead product strategy as part of a reorg, folding ChatGPT, Codex, and developer-facing API into one core product team &mdash; OpenAI is once again reorganizing its executive ranks as part of its effort to unify ChatGPT and Codex into one core product experience.",
-          "content": "Maxwell Zeff / Wired: OpenAI memo: Greg Brockman says he will lead product strategy as part of a reorg, folding ChatGPT, Codex, and developer-facing API into one core product team &mdash; OpenAI is once again reorganizing its executive ranks as part of its effort to unify ChatGPT and Codex into one core product experience.",
-          "feed_position": 12,
-          "image_url": "http://www.techmeme.com/260515/i19.jpg"
-        },
-        {
-          "source": "Wired Tech",
-          "url": "https://www.wired.com/story/openai-reorg-greg-brockman-product/",
-          "published_at": "Fri, 15 May 2026 17:09:17 +0000",
-          "title": "Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shake-Up",
-          "standfirst": "OpenAI is once again reorganizing its executive ranks as part of its effort to unify ChatGPT and Codex into one core product experience.",
-          "content": "OpenAI is once again reorganizing its executive ranks as part of its effort to unify ChatGPT and Codex into one core product experience.",
-          "feed_position": 3,
-          "image_url": "https://media.wired.com/photos/6a074b744504eb478c5455df/master/pass/OpenAI-ReOrg-Business-AP-26120551910145.jpg"
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/260515/i19.jpg",
-      "popularity_score": 2013.7495472222222
-    },
-    {
-      "id": "cluster_52",
-      "coverage": 2,
-      "updated_at": "Fri, 15 May 2026 12:15:01 -0400",
-      "title": "OpenAI debuts personal finance tools for US ChatGPT Pro users, partnering with Plaid to give access to 12K+ financial institutions to analyze spending and more (Ivan Mehta/TechCrunch)",
-      "neutral_headline": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
-      "bullet_summary": [
-        "Reported by TechMeme, TechCrunch"
-      ],
-      "items": [
-        {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/260515/p17#a260515p17",
-          "published_at": "Fri, 15 May 2026 12:15:01 -0400",
-          "title": "OpenAI debuts personal finance tools for US ChatGPT Pro users, partnering with Plaid to give access to 12K+ financial institutions to analyze spending and more (Ivan Mehta/TechCrunch)",
-          "standfirst": "Ivan Mehta / TechCrunch: OpenAI debuts personal finance tools for US ChatGPT Pro users, partnering with Plaid to give access to 12K+ financial institutions to analyze spending and more &mdash; On Friday, OpenAI launched a new set of personal finance tools in preview for ChatGPT Pro subscribers in the U.S. &hellip;",
-          "content": "Ivan Mehta / TechCrunch: OpenAI debuts personal finance tools for US ChatGPT Pro users, partnering with Plaid to give access to 12K+ financial institutions to analyze spending and more &mdash; On Friday, OpenAI launched a new set of personal finance tools in preview for ChatGPT Pro subscribers in the U.S. &hellip;",
-          "feed_position": 14,
-          "image_url": "http://www.techmeme.com/260515/i17.jpg"
-        },
-        {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
-          "published_at": "Fri, 15 May 2026 16:00:00 +0000",
-          "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
-          "standfirst": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
-          "content": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
-          "feed_position": 5
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/260515/i17.jpg",
-      "popularity_score": 2012.4342694444445
-    },
-    {
-      "id": "cluster_70",
+      "id": "cluster_78",
       "coverage": 2,
       "updated_at": "Fri, 15 May 2026 13:00:00 GMT",
       "title": "Bose Lifestyle Ultra Speaker vs. Sonos Era 100: I compared both models, and here's the winner",
@@ -316,15 +216,15 @@
           "title": "Bose Lifestyle Ultra Speaker review: Versatile home audio that comes with caveats",
           "standfirst": "Perhaps Bose's latest speaker is better as part of a larger system.",
           "content": "Perhaps Bose's latest speaker is better as part of a larger system.",
-          "feed_position": 11,
+          "feed_position": 12,
           "image_url": "https://www.engadget.com/img/gallery/bose-lifestyle-ultra-speaker-review-versatile-home-audio-that-comes-with-caveats/l-intro-1778845449.jpg"
         }
       ],
       "featured_image": "https://www.engadget.com/img/gallery/bose-lifestyle-ultra-speaker-review-versatile-home-audio-that-comes-with-caveats/l-intro-1778845449.jpg",
-      "popularity_score": 2009.1839916666668
+      "popularity_score": 2003.2036413888889
     },
     {
-      "id": "cluster_4",
+      "id": "cluster_15",
       "coverage": 1,
       "updated_at": "Fri, 15 May 2026 22:19:12 +0000",
       "title": "Russia pressures university students to become wartime drone pilots",
@@ -345,10 +245,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Russian-drone-operator-1024x648.jpg",
-      "popularity_score": 351.50399166666665
+      "popularity_score": 345.5236413888889
     },
     {
-      "id": "cluster_6",
+      "id": "cluster_17",
       "coverage": 1,
       "updated_at": "Fri, 15 May 2026 21:51:24 +0000",
       "title": "Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval",
@@ -369,10 +269,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1675604392-1152x648-1778878573.jpg",
-      "popularity_score": 341.04065833333334
+      "popularity_score": 335.06030805555554
     },
     {
-      "id": "cluster_8",
+      "id": "cluster_19",
       "coverage": 1,
       "updated_at": "Fri, 15 May 2026 21:31:53 +0000",
       "title": "US hantavirus case was false positive; outbreak cases drop from 11 to 10",
@@ -393,10 +293,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2275667937-1152x648.jpg",
-      "popularity_score": 330.71538055555556
+      "popularity_score": 324.73503027777775
     },
     {
-      "id": "cluster_9",
+      "id": "cluster_20",
       "coverage": 1,
       "updated_at": "Fri, 15 May 2026 21:17:19 +0000",
       "title": "Review: Good Omens finale sticks the landing",
@@ -417,10 +317,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/goodomens4-1152x648.jpg",
-      "popularity_score": 328.47260277777775
+      "popularity_score": 322.4922525
     },
     {
-      "id": "cluster_17",
+      "id": "cluster_28",
       "coverage": 1,
       "updated_at": "Fri, 15 May 2026 20:36:05 +0000",
       "title": "Solar power production undercut by coal pollution",
@@ -441,10 +341,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1317714747-1024x648.jpg",
-      "popularity_score": 306.78538055555555
+      "popularity_score": 300.8050302777778
     },
     {
-      "id": "cluster_21",
+      "id": "cluster_32",
       "coverage": 1,
       "updated_at": "Fri, 15 May 2026 20:16:24 +0000",
       "title": "Weather-monitoring firm hangs dark cloud over customers’ heads by forcing new app",
@@ -465,10 +365,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/acurite-optimus-1152x648-1778873721.jpg",
-      "popularity_score": 294.457325
+      "popularity_score": 288.4769747222222
     },
     {
-      "id": "cluster_29",
+      "id": "cluster_40",
       "coverage": 1,
       "updated_at": "Fri, 15 May 2026 18:51:43 +0000",
       "title": "Ebola outbreak with uncommon strain erupts in Congo and Uganda; 65 deaths",
@@ -490,10 +390,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1017727088-1152x648.jpg",
-      "popularity_score": 293.04593611111113
+      "popularity_score": 287.06558583333333
     },
     {
-      "id": "cluster_28",
+      "id": "cluster_39",
       "coverage": 1,
       "updated_at": "Fri, 15 May 2026 19:11:48 +0000",
       "title": "Three's a party: US, China, and now Russia are on the prowl in GEO",
@@ -514,10 +414,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/usa325_kosmos2589_vis1-1152x648-1778871135.jpg",
-      "popularity_score": 288.3806583333333
+      "popularity_score": 282.40030805555557
     },
     {
-      "id": "cluster_38",
+      "id": "cluster_47",
       "coverage": 1,
       "updated_at": "Fri, 15 May 2026 18:13:33 +0000",
       "title": "OpenAI feels “burned” by Apple’s crappy ChatGPT integration, insiders say",
@@ -538,10 +438,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2156972504-1024x648.jpg",
-      "popularity_score": 284.409825
+      "popularity_score": 278.4294747222222
     },
     {
-      "id": "cluster_35",
+      "id": "cluster_44",
       "coverage": 1,
       "updated_at": "Fri, 15 May 2026 18:25:53 +0000",
       "title": "Send the arXiv AI-generated slop, get a yearlong vacation from submissions",
@@ -562,10 +462,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg",
-      "popularity_score": 282.61538055555553
+      "popularity_score": 276.6350302777778
     },
     {
-      "id": "cluster_66",
+      "id": "cluster_74",
       "coverage": 1,
       "updated_at": "Fri, 15 May 2026 13:51:04 +0000",
       "title": "Pennsylvanians use town hall meeting to rail against data center boom",
@@ -586,10 +486,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/projectboson-1152x648.jpg",
-      "popularity_score": 158.03510277777778
+      "popularity_score": 152.0547525
     },
     {
-      "id": "cluster_39",
+      "id": "cluster_48",
       "coverage": 1,
       "updated_at": "Fri, 15 May 2026 17:55:55 +0000",
       "title": "Volkswagen shows its first electric GTI; there's no chance of US sales",
@@ -610,10 +510,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/DB2026AU00468_large-1152x648.jpg",
-      "popularity_score": 153.11593611111113
+      "popularity_score": 147.13558583333332
     },
     {
-      "id": "cluster_54",
+      "id": "cluster_62",
       "coverage": 1,
       "updated_at": "Fri, 15 May 2026 15:56:33 +0000",
       "title": "Honda shows off new hybrids for America as it absorbs $9 billion EV loss",
@@ -634,10 +534,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Honda-Hybrid-Sedan-Prototype-1152x648.jpg",
-      "popularity_score": 151.12649166666665
+      "popularity_score": 145.14614138888888
     },
     {
-      "id": "cluster_45",
+      "id": "cluster_54",
       "coverage": 1,
       "updated_at": "Fri, 15 May 2026 17:06:59 +0000",
       "title": "Making cement from a different type of rock could clean up emissions",
@@ -658,10 +558,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/brimstone_basalt_cement-1152x648.jpg",
-      "popularity_score": 146.30038055555556
+      "popularity_score": 140.3200302777778
     },
     {
-      "id": "cluster_59",
+      "id": "cluster_67",
       "coverage": 1,
       "updated_at": "Fri, 15 May 2026 15:07:14 +0000",
       "title": "Casimir force co-opted to generate free energy, midichlorians not included",
@@ -682,10 +582,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2019/10/unicorn-rainbow-slinky-1152x648-1778853445.jpg",
-      "popularity_score": 144.30454722222223
+      "popularity_score": 138.32419694444445
     },
     {
-      "id": "cluster_62",
+      "id": "cluster_70",
       "coverage": 1,
       "updated_at": "Fri, 15 May 2026 14:24:31 +0000",
       "title": "Rocket Report: Cowboy up for data centers in LEO; Russia's new ICBM actually works",
@@ -706,10 +606,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2276173925-1152x648-1778825433.jpg",
-      "popularity_score": 143.59260277777778
+      "popularity_score": 137.6122525
     },
     {
-      "id": "cluster_63",
+      "id": "cluster_71",
       "coverage": 1,
       "updated_at": "Fri, 15 May 2026 14:01:23 +0000",
       "title": "Routine vaccines may cut dementia risk—experts have startling hypothesis on how",
@@ -730,10 +630,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-693360432-1152x648.jpg",
-      "popularity_score": 143.20704722222223
+      "popularity_score": 137.22669694444446
     },
     {
-      "id": "cluster_81",
+      "id": "cluster_89",
       "coverage": 1,
       "updated_at": "Fri, 15 May 2026 11:00:44 +0000",
       "title": "The perfect commuter bike? Velotric's Discover M makes its case.",
@@ -754,10 +654,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/IMG_1961-1152x648-1778704646.jpeg",
-      "popularity_score": 140.19621388888888
+      "popularity_score": 134.2158636111111
     },
     {
-      "id": "cluster_85",
+      "id": "cluster_93",
       "coverage": 1,
       "updated_at": "Fri, 15 May 2026 10:30:01 +0000",
       "title": "Claude Code's product lead talks usage limits, transparency, and the \"lean harness\"",
@@ -778,7 +678,7 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Cat-Wu-1152x648-1778778452.jpg",
-      "popularity_score": 139.68426944444445
+      "popularity_score": 133.70391916666665
     }
   ]
 }
