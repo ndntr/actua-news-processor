@@ -1,17 +1,109 @@
 {
   "clinical": {
-    "updated_at": "2026-05-20T06:42:34.430Z",
+    "updated_at": "2026-05-20T10:21:12.751Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-05-20T06:42:34.430Z",
+    "updated_at": "2026-05-20T10:21:12.751Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-05-20T06:42:36.685Z",
+    "updated_at": "2026-05-20T10:21:13.842Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Wed, 20 May 2026 09:23:43 GMT",
+        "title": "Six ways to keep your home and yourself cool in hot weather",
+        "neutral_headline": "Six ways to keep your home and yourself cool in hot weather",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/cz6gxe61p70o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Wed, 20 May 2026 09:23:43 GMT",
+            "title": "Six ways to keep your home and yourself cool in hot weather",
+            "standfirst": "Six simple things you can do to help keep your house cool when temperatures rise.",
+            "content": "Six simple things you can do to help keep your house cool when temperatures rise.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e24c/live/6818c2b0-4cff-11f0-9d3e-6149fb67e70c.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e24c/live/6818c2b0-4cff-11f0-9d3e-6149fb67e70c.jpg"
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Wed, 20 May 2026 09:14:25 GMT",
+        "title": "What to do if you think someone has heat exhaustion or heatstroke",
+        "neutral_headline": "What to do if you think someone has heat exhaustion or heatstroke",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/ckgl51jjp3jo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Wed, 20 May 2026 09:14:25 GMT",
+            "title": "What to do if you think someone has heat exhaustion or heatstroke",
+            "standfirst": "Know the signs and what to do if someone is unwell in hot weather.",
+            "content": "Know the signs and what to do if someone is unwell in hot weather.",
+            "feed_position": 18,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe17/live/a3996890-4b8c-11f0-8efc-193ffd471116.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe17/live/a3996890-4b8c-11f0-8efc-193ffd471116.jpg"
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Wed, 20 May 2026 09:13:34 GMT",
+        "title": "What does hot weather do to the body?",
+        "neutral_headline": "What does hot weather do to the body",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/cy7n6m7y6yvo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Wed, 20 May 2026 09:13:34 GMT",
+            "title": "What does hot weather do to the body?",
+            "standfirst": "Hot weather during the summer can affect anyone, but some people run a greater risk of serious harm.",
+            "content": "Hot weather during the summer can affect anyone, but some people run a greater risk of serious harm.",
+            "feed_position": 19,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31b0/live/3ac64500-4c12-11f0-9800-55e1c62425e5.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31b0/live/3ac64500-4c12-11f0-9800-55e1c62425e5.jpg"
+      },
+      {
+        "id": "cluster_3",
+        "coverage": 1,
+        "updated_at": "Wed, 20 May 2026 09:10:35 GMT",
+        "title": "What are UV levels and how can you protect yourself?",
+        "neutral_headline": "What are UV levels and how can you protect yourself",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/ckmg1572e8ko?at_medium=RSS&at_campaign=rss",
+            "published_at": "Wed, 20 May 2026 09:10:35 GMT",
+            "title": "What are UV levels and how can you protect yourself?",
+            "standfirst": "How dangerous is UV radiation and how can you protect yourself when levels are high?",
+            "content": "How dangerous is UV radiation and how can you protect yourself when levels are high?",
+            "feed_position": 23,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f361/live/c032eb60-24d2-11f0-9341-7dd5c259f730.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f361/live/c032eb60-24d2-11f0-9341-7dd5c259f730.jpg"
+      },
+      {
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Wed, 20 May 2026 06:00:28 GMT",
         "title": "Children in mental health crisis waiting up to three days in A&E for specialist bed in England",
@@ -33,7 +125,7 @@
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Wed, 20 May 2026 05:45:24 GMT",
         "title": "A moment that changed me: My diagnosis seemed like a death sentence – how have I survived for another 40 years?",
@@ -54,11 +146,11 @@
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Wed, 20 May 2026 05:33:58 GMT",
-        "title": "'Mass negligence' not to prepare for more deadly heat and flooding",
-        "neutral_headline": "'Mass negligence' not to prepare for more deadly heat and flooding",
+        "title": "'Disease-carrying mosquitoes and heat deaths if temperatures soar'",
+        "neutral_headline": "'Disease-carrying mosquitoes and heat deaths if temperatures soar'",
         "bullet_summary": [
           "Reported by BBC Science"
         ],
@@ -67,17 +159,27 @@
             "source": "BBC Science",
             "url": "https://www.bbc.com/news/articles/cm2p09yrnq7o?at_medium=RSS&at_campaign=rss",
             "published_at": "Wed, 20 May 2026 05:33:58 GMT",
-            "title": "'Mass negligence' not to prepare for more deadly heat and flooding",
+            "title": "'Disease-carrying mosquitoes and heat deaths if temperatures soar'",
             "standfirst": "Wales' new government must do more to prepare the country for climate change, says an advisory body.",
             "content": "Wales' new government must do more to prepare the country for climate change, says an advisory body.",
-            "feed_position": 23,
+            "feed_position": 24,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6512/live/9f7e6d00-5383-11f1-9eb0-d74687011ebb.jpg"
+          },
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/cm2p1j4y0kro?at_medium=RSS&at_campaign=rss",
+            "published_at": "Tue, 19 May 2026 23:40:12 GMT",
+            "title": "UK should set maximum working temperature rules, advisers say",
+            "standfirst": "Successive governments have failed to prepare the UK for extreme heat, the climate watchdog says.",
+            "content": "Successive governments have failed to prepare the UK for extreme heat, the climate watchdog says.",
+            "feed_position": 1,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/476d/live/5bad1aa0-53a0-11f1-a184-d13a0f944f44.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6512/live/9f7e6d00-5383-11f1-9eb0-d74687011ebb.jpg"
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Wed, 20 May 2026 05:20:56 GMT",
         "title": "Why Isle of Man is 'ideal' for building rainforests",
@@ -100,7 +202,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8de4/live/40c9d6f0-37f9-11f1-a445-59df4d41808f.jpg"
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Wed, 20 May 2026 05:10:39 GMT",
         "title": "'Adenomyosis may be invisible, its impact is not'",
@@ -123,7 +225,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bd1/live/077262b0-5062-11f1-b5fd-657572a40ad0.jpg"
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Wed, 20 May 2026 05:00:24 GMT",
         "title": "Plantwatch: how goat’s rue inspired super drug for everything from diabetes to obesity",
@@ -144,7 +246,7 @@
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Wed, 20 May 2026 04:59:21 GMT",
         "title": "Residents find chemicals 43k times water standard",
@@ -167,30 +269,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5649/live/463511d0-539d-11f1-b682-cf91850925ea.jpg"
       },
       {
-        "id": "cluster_7",
-        "coverage": 1,
-        "updated_at": "Tue, 19 May 2026 23:40:12 GMT",
-        "title": "UK should set maximum working temperature rules, advisers say",
-        "neutral_headline": "UK should set maximum working temperature rules, advisers say",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/cm2p1j4y0kro?at_medium=RSS&at_campaign=rss",
-            "published_at": "Tue, 19 May 2026 23:40:12 GMT",
-            "title": "UK should set maximum working temperature rules, advisers say",
-            "standfirst": "Successive governments have failed to prepare the UK for extreme heat, the climate watchdog says.",
-            "content": "Successive governments have failed to prepare the UK for extreme heat, the climate watchdog says.",
-            "feed_position": 0,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/476d/live/5bad1aa0-53a0-11f1-a184-d13a0f944f44.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/476d/live/5bad1aa0-53a0-11f1-a184-d13a0f944f44.jpg"
-      },
-      {
-        "id": "cluster_8",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Tue, 19 May 2026 23:01:16 GMT",
         "title": "Kylie Minogue announces she had second cancer diagnosis in 2021",
@@ -205,14 +284,14 @@
             "url": "https://www.theguardian.com/music/2026/may/20/kylie-minogue-announces-she-had-second-cancer-diagnosis-in-2021-netflix-documentary",
             "published_at": "Tue, 19 May 2026 23:01:16 GMT",
             "title": "Kylie Minogue announces she had second cancer diagnosis in 2021",
-            "standfirst": "In new Netflix documentary, pop superstar says she ‘got through it, again’, referring back to successful treatment for breast cancer in 2005Kylie Minogue has revealed that in early 2021 she was diagnosed with cancer for a second time, after diagnosis and successful treatment for breast cancer in 2005.The pop star discussed the previously unannounced diagnosis in a new Netflix documentary entitled Kylie, available from today. “My second cancer diagnosis was in early 2021. I was able to keep that to myself … Not like the first time,” she said, referring to her highly publicised first treatment. Continue reading...",
-            "content": "In new Netflix documentary, pop superstar says she ‘got through it, again’, referring back to successful treatment for breast cancer in 2005Kylie Minogue has revealed that in early 2021 she was diagnosed with cancer for a second time, after diagnosis and successful treatment for breast cancer in 2005.The pop star discussed the previously unannounced diagnosis in a new Netflix documentary entitled Kylie, available from today. “My second cancer diagnosis was in early 2021. I was able to keep that to myself … Not like the first time,” she said, referring to her highly publicised first treatment. Continue reading...",
+            "standfirst": "In new Netflix documentary, pop superstar says she ‘got through it, again’, referring back to successful treatment for breast cancer in 2005• TV review: Kylie – this refreshingly raw, real encounter with pop royalty will move you to tearsKylie Minogue has revealed that in early 2021 she was diagnosed with cancer for a second time, after diagnosis and successful treatment for breast cancer in 2005.The pop star discussed the previously unannounced diagnosis in a new Netflix documentary entitled Kylie, available from today. “My second cancer diagnosis was in early 2021. I was able to keep that to myself … Not like the first time,” she said, referring to her highly publicised first treatment. Continue reading...",
+            "content": "In new Netflix documentary, pop superstar says she ‘got through it, again’, referring back to successful treatment for breast cancer in 2005• TV review: Kylie – this refreshingly raw, real encounter with pop royalty will move you to tearsKylie Minogue has revealed that in early 2021 she was diagnosed with cancer for a second time, after diagnosis and successful treatment for breast cancer in 2005.The pop star discussed the previously unannounced diagnosis in a new Netflix documentary entitled Kylie, available from today. “My second cancer diagnosis was in early 2021. I was able to keep that to myself … Not like the first time,” she said, referring to her highly publicised first treatment. Continue reading...",
             "feed_position": 3
           }
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Tue, 19 May 2026 22:30:15 GMT",
         "title": "Least fit people need to do more exercise than fittest to get same benefit – study",
@@ -233,7 +312,7 @@
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Tue, 19 May 2026 19:32:22 GMT",
         "title": "Ebola outbreak may be spreading faster than first thought, WHO doctor warns",
@@ -256,7 +335,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff64/live/547a9890-536c-11f1-89a3-d1f559421220.jpg"
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Tue, 19 May 2026 18:44:54 GMT",
         "title": "Rubio criticizes WHO’s Ebola response as US continues sweeping public health cuts",
@@ -277,7 +356,7 @@
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Tue, 19 May 2026 16:00:07 GMT",
         "title": "‘People should aim to get a variety’: the pros and cons of popular protein sources",
@@ -298,7 +377,7 @@
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Tue, 19 May 2026 15:07:19 GMT",
         "title": "Potential new treatment for pre-eclampsia",
@@ -321,7 +400,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b12/live/b01847a0-52dc-11f1-b682-cf91850925ea.jpg"
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Tue, 19 May 2026 09:24:03 GMT",
         "title": "Animal park welcomes four Sumatran tiger cubs",
@@ -344,7 +423,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/445c/live/5628b8a0-52ba-11f1-8340-4151f348d713.jpg"
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Tue, 19 May 2026 09:00:06 GMT",
         "title": "‘A lot happened in my 50s’ – Daniela Nardini played Anna in This Life. Now she’s a therapist",
@@ -365,7 +444,7 @@
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Tue, 19 May 2026 07:00:04 GMT",
         "title": "NHS rollout of artificial pancreas narrows inequality in diabetes care",
@@ -384,78 +463,11 @@
             "feed_position": 8
           }
         ]
-      },
-      {
-        "id": "cluster_17",
-        "coverage": 1,
-        "updated_at": "Tue, 19 May 2026 05:38:46 GMT",
-        "title": "Plan to track for signs of endangered water vole",
-        "neutral_headline": "Plan to track for signs of endangered water vole",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/cn8p1gy1q0xo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Tue, 19 May 2026 05:38:46 GMT",
-            "title": "Plan to track for signs of endangered water vole",
-            "standfirst": "Water vole numbers nationally are in free fall, with more than 90 per cent lost since the 1970s.",
-            "content": "Water vole numbers nationally are in free fall, with more than 90 per cent lost since the 1970s.",
-            "feed_position": 16,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f2b/live/9957f010-52c8-11f1-89a3-d1f559421220.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f2b/live/9957f010-52c8-11f1-89a3-d1f559421220.jpg"
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Tue, 19 May 2026 05:16:57 GMT",
-        "title": "Europe's oldest science park could be redeveloped",
-        "neutral_headline": "Europe's oldest science park could be redeveloped",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/c8d8rddp1vqo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Tue, 19 May 2026 05:16:57 GMT",
-            "title": "Europe's oldest science park could be redeveloped",
-            "standfirst": "Cambridge Science Park submits plans which could create 20,000 jobs and new public spaces.",
-            "content": "Cambridge Science Park submits plans which could create 20,000 jobs and new public spaces.",
-            "feed_position": 1,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e7d/live/87dd6360-52b4-11f1-8340-4151f348d713.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e7d/live/87dd6360-52b4-11f1-8340-4151f348d713.jpg"
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Tue, 19 May 2026 04:00:01 GMT",
-        "title": "‘She compared her dachshund to my newborn baby’: should you be able to take your dog everywhere?",
-        "neutral_headline": "‘She compared her dachshund to my newborn baby’: should you be...",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/lifeandstyle/2026/may/19/should-you-be-able-to-take-your-dog-everywhere",
-            "published_at": "Tue, 19 May 2026 04:00:01 GMT",
-            "title": "‘She compared her dachshund to my newborn baby’: should you be able to take your dog everywhere?",
-            "standfirst": "They’re in restaurants, offices and supermarkets – there’s even a petition to let them on flights to the UK. But not everyone is happy about the growing number of dogs in public placesOut for dinner in London with her husband and two-month-old son, Gizzelle Cade noticed another woman coming into the restaurant with a pram. “It had all these little trinkets and toys,” says Cade. “I was like, wow, she put some cute little decor there.” The woman reached into the pram to get, Cade assumed, her baby – instead she pulled out a dog. Then she put an absorbent pad, the kind you use for puppy training, on the floor and placed the dachshund on it.“I was completely taken aback,” says Cade. “To see pretty much an open bathroom where I was dining with my newborn – it was insulting.” Continue reading...",
-            "content": "They’re in restaurants, offices and supermarkets – there’s even a petition to let them on flights to the UK. But not everyone is happy about the growing number of dogs in public placesOut for dinner in London with her husband and two-month-old son, Gizzelle Cade noticed another woman coming into the restaurant with a pram. “It had all these little trinkets and toys,” says Cade. “I was like, wow, she put some cute little decor there.” The woman reached into the pram to get, Cade assumed, her baby – instead she pulled out a dog. Then she put an absorbent pad, the kind you use for puppy training, on the floor and placed the dachshund on it.“I was completely taken aback,” says Cade. “To see pretty much an open bathroom where I was dining with my newborn – it was insulting.” Continue reading...",
-            "feed_position": 9
-          }
-        ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-05-20T06:42:36.685Z",
+    "updated_at": "2026-05-20T10:21:13.842Z",
     "clusters": []
   }
 }
