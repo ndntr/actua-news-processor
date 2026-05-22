@@ -1,17 +1,17 @@
 {
   "clinical": {
-    "updated_at": "2026-05-22T06:42:40.893Z",
+    "updated_at": "2026-05-22T10:19:26.009Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-05-22T06:42:40.894Z",
+    "updated_at": "2026-05-22T10:19:26.009Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-05-22T06:42:43.155Z",
+    "updated_at": "2026-05-22T10:19:28.768Z",
     "clusters": [
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 2,
         "updated_at": "Thu, 21 May 2026 23:15:18 GMT",
         "title": "Riskiest skin cancer cases hit UK record high",
@@ -27,7 +27,7 @@
             "title": "Riskiest skin cancer cases hit UK record high",
             "standfirst": "The number of melanoma skin cancer cases has risen above 20,000 a year for the first time in the UK.",
             "content": "The number of melanoma skin cancer cases has risen above 20,000 a year for the first time in the UK.",
-            "feed_position": 0,
+            "feed_position": 1,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fff/live/dd1436d0-54fb-11f1-8285-a5e1daabf896.jpg"
           },
           {
@@ -60,17 +60,40 @@
             "standfirst": "The new Sussex Butterfly Gardens will be home to thousands of butterflies for people to visit.",
             "content": "The new Sussex Butterfly Gardens will be home to thousands of butterflies for people to visit.",
             "feed_position": 13,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5824/live/1e457830-5506-11f1-8d30-bf1d1c1597c9.jpg"
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5882/live/30c777a0-55bb-11f1-b056-a558b41349e8.jpg"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5824/live/1e457830-5506-11f1-8d30-bf1d1c1597c9.jpg"
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5882/live/30c777a0-55bb-11f1-b056-a558b41349e8.jpg"
       },
       {
         "id": "cluster_1",
         "coverage": 1,
+        "updated_at": "Fri, 22 May 2026 05:05:56 GMT",
+        "title": "The tragedy of the 'invisible killer' of the young",
+        "neutral_headline": "The tragedy of the 'invisible killer' of the young",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/c4g80l73e8no?at_medium=RSS&at_campaign=rss",
+            "published_at": "Fri, 22 May 2026 05:05:56 GMT",
+            "title": "The tragedy of the 'invisible killer' of the young",
+            "standfirst": "Bereaved families are calling for a national cardiac screening programme for over-14s",
+            "content": "Bereaved families are calling for a national cardiac screening programme for over-14s",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bd4/live/21f02320-5526-11f1-8b8c-6d33e1d5abb6.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bd4/live/21f02320-5526-11f1-8b8c-6d33e1d5abb6.jpg"
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
         "updated_at": "Fri, 22 May 2026 05:01:57 GMT",
-        "title": "Glow worms and slime moulds found in Scotland's declining rainforest",
-        "neutral_headline": "Glow worms and slime moulds found in Scotland's declining rainforest",
+        "title": "Rare species found in Scotland's declining rainforest",
+        "neutral_headline": "Rare species found in Scotland's declining rainforest",
         "bullet_summary": [
           "Reported by BBC Science"
         ],
@@ -79,7 +102,7 @@
             "source": "BBC Science",
             "url": "https://www.bbc.com/news/articles/ce8pe9k304jo?at_medium=RSS&at_campaign=rss",
             "published_at": "Fri, 22 May 2026 05:01:57 GMT",
-            "title": "Glow worms and slime moulds found in Scotland's declining rainforest",
+            "title": "Rare species found in Scotland's declining rainforest",
             "standfirst": "A citizen science project is aiming to document species on the Cowal Peninsula for the first time in 50 years.",
             "content": "A citizen science project is aiming to document species on the Cowal Peninsula for the first time in 50 years.",
             "feed_position": 23,
@@ -89,7 +112,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/555b/live/3e3ed530-5517-11f1-89a3-d1f559421220.png"
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Fri, 22 May 2026 05:00:50 GMT",
         "title": "Girls who survived Southport attack meet again: ‘It was like having big sisters’",
@@ -110,7 +133,7 @@
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Thu, 21 May 2026 20:00:00 GMT",
         "title": "BBC Inside Science",
@@ -133,7 +156,7 @@
         "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Thu, 21 May 2026 18:30:20 GMT",
         "title": "Toilets and changing rooms must be used on basis of biological sex, guidance confirms",
@@ -149,14 +172,14 @@
             "title": "Toilets and changing rooms must be used on basis of biological sex, guidance confirms",
             "standfirst": "The guidance was published on Thursday following the landmark Supreme Court ruling last year.",
             "content": "The guidance was published on Thursday following the landmark Supreme Court ruling last year.",
-            "feed_position": 1,
+            "feed_position": 2,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c3e/live/366a7130-550c-11f1-89a3-d1f559421220.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c3e/live/366a7130-550c-11f1-89a3-d1f559421220.jpg"
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Thu, 21 May 2026 18:00:36 GMT",
         "title": "Risk of snakebites increasing as reptiles adapt to changing world, says study",
@@ -177,7 +200,7 @@
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Thu, 21 May 2026 16:36:49 GMT",
         "title": "How modern life is making us more stressed | Letter",
@@ -198,7 +221,7 @@
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Thu, 21 May 2026 16:36:45 GMT",
         "title": "Children should be at the forefront of our response to the climate crisis | Letter",
@@ -219,7 +242,7 @@
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Thu, 21 May 2026 15:28:27 GMT",
         "title": "How do hurricanes and typhoons form and is climate change making them stronger?",
@@ -242,7 +265,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4c3/live/e0bc3390-5524-11f1-87e7-8195a3fea8aa.jpg"
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Thu, 21 May 2026 13:28:55 GMT",
         "title": "Should you eat local yoghurt on holiday to prevent an upset stomach?",
@@ -265,7 +288,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98fc/live/318b12d0-5518-11f1-89a3-d1f559421220.jpg"
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Thu, 21 May 2026 13:12:20 GMT",
         "title": "US curbs on travelers exposed to deadly viruses may infringe rights and deter volunteers",
@@ -286,7 +309,7 @@
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Thu, 21 May 2026 13:01:11 GMT",
         "title": "'I used to be the shy kid'",
@@ -309,7 +332,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8512/live/2fb44710-5504-11f1-89a3-d1f559421220.jpg"
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Thu, 21 May 2026 12:19:15 GMT",
         "title": "Gonorrhoea and syphilis hit record levels in Europe",
@@ -325,14 +348,14 @@
             "title": "Gonorrhoea and syphilis hit record levels in Europe",
             "standfirst": "STIs have surged thanks to record cases and gaps in testing and prevention, a health agency reports.",
             "content": "STIs have surged thanks to record cases and gaps in testing and prevention, a health agency reports.",
-            "feed_position": 2,
+            "feed_position": 3,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b87f/live/33638160-192c-11f0-869a-33b652e8958c.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b87f/live/33638160-192c-11f0-869a-33b652e8958c.jpg"
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Thu, 21 May 2026 10:00:08 GMT",
         "title": "US is ‘simply choosing not to stop’ Ebola outbreak after massive public health cuts, experts say",
@@ -353,7 +376,7 @@
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Thu, 21 May 2026 09:13:52 GMT",
         "title": "Lyme disease cases in England rise by more than 20% in a year",
@@ -375,7 +398,7 @@
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Thu, 21 May 2026 09:00:07 GMT",
         "title": "Hard hats, AI and a fake pandemic: the group of former world leaders practising to save the world",
@@ -397,7 +420,7 @@
         ]
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Thu, 21 May 2026 05:02:50 GMT",
         "title": "Water campaigner cautious on using new bathing site",
@@ -420,7 +443,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef95/live/b3add180-543c-11f1-be9a-315565996c62.jpg"
       },
       {
-        "id": "cluster_18",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Thu, 21 May 2026 04:00:02 GMT",
         "title": "How often should you go to the toilet? How can you get the better of wind? Experts’ tips for a healthier gut",
@@ -439,32 +462,11 @@
             "feed_position": 9
           }
         ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Thu, 21 May 2026 04:00:01 GMT",
-        "title": "Can a name change transform PCOS outcomes for women? – podcast",
-        "neutral_headline": "Can a name change transform PCOS outcomes for women? – podcast",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/science/audio/2026/may/21/can-a-name-change-transform-pcos-outcomes-for-women-podcast",
-            "published_at": "Thu, 21 May 2026 04:00:01 GMT",
-            "title": "Can a name change transform PCOS outcomes for women? – podcast",
-            "standfirst": "After more than a decade of global consultation, polycystic ovary syndrome – which affects as many as one in eight women – has been renamed. The condition is caused by high levels of androgens, which can lead to symptoms such as excess hair, weight gain and irregular periods. To understand why campaigners wanted it renamed, and what its new name – polyendocrine metabolic ovarian syndrome (PMOS) – could mean for patients, Madeleine Finlay hears from the Guardian’s science correspondent, Nicola Davis, and Rachel, a campaigner from the charity Verity‘Unprecedented’ global effort leads to renaming of polycystic ovary syndrome – and fresh hope for millions of womenSupport the Guardian: theguardian.com/sciencepod Continue reading...",
-            "content": "After more than a decade of global consultation, polycystic ovary syndrome – which affects as many as one in eight women – has been renamed. The condition is caused by high levels of androgens, which can lead to symptoms such as excess hair, weight gain and irregular periods. To understand why campaigners wanted it renamed, and what its new name – polyendocrine metabolic ovarian syndrome (PMOS) – could mean for patients, Madeleine Finlay hears from the Guardian’s science correspondent, Nicola Davis, and Rachel, a campaigner from the charity Verity‘Unprecedented’ global effort leads to renaming of polycystic ovary syndrome – and fresh hope for millions of womenSupport the Guardian: theguardian.com/sciencepod Continue reading...",
-            "feed_position": 10
-          }
-        ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-05-22T06:42:43.155Z",
+    "updated_at": "2026-05-22T10:19:28.768Z",
     "clusters": []
   }
 }
