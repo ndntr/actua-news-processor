@@ -1,17 +1,94 @@
 {
   "clinical": {
-    "updated_at": "2026-05-26T20:50:03.409Z",
+    "updated_at": "2026-05-26T23:58:14.504Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-05-26T20:50:03.409Z",
+    "updated_at": "2026-05-26T23:58:14.505Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-05-26T20:50:07.059Z",
+    "updated_at": "2026-05-26T23:58:21.724Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Tue, 26 May 2026 22:30:10 GMT",
+        "title": "Climate crisis is accelerating antibiotic resistance across world, study says",
+        "neutral_headline": "Climate crisis is accelerating antibiotic resistance across world, study says",
+        "bullet_summary": [
+          "Reported by Guardian Health"
+        ],
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/society/2026/may/26/climate-crisis-accelerating-antibiotic-resistance-across-world-salmonella-study",
+            "published_at": "Tue, 26 May 2026 22:30:10 GMT",
+            "title": "Climate crisis is accelerating antibiotic resistance across world, study says",
+            "standfirst": "Experts say climate change linked to 10% rise in salmonella antibiotic resistance genes between 1940 and 2023The climate crisis is accelerating a global increase in antibiotic resistance that poses a serious threat to human health, experts have said as figures show a rise in salmonella antibiotic resistant genes.Antibiotic resistance is one of the fastest-growing threats to global health. It can affect people of any age in any country and already kills more than 1 million people a year, according to estimates. Continue reading...",
+            "content": "Experts say climate change linked to 10% rise in salmonella antibiotic resistance genes between 1940 and 2023The climate crisis is accelerating a global increase in antibiotic resistance that poses a serious threat to human health, experts have said as figures show a rise in salmonella antibiotic resistant genes.Antibiotic resistance is one of the fastest-growing threats to global health. It can affect people of any age in any country and already kills more than 1 million people a year, according to estimates. Continue reading...",
+            "feed_position": 1
+          }
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Tue, 26 May 2026 21:44:59 GMT",
+        "title": "Green jobs contributing £10.2bn to Scotland's economy, says CBI",
+        "neutral_headline": "Green jobs contributing £10.2bn to Scotland's economy, says CBI",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/c7599zez4rxo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Tue, 26 May 2026 21:44:59 GMT",
+            "title": "Green jobs contributing £10.2bn to Scotland's economy, says CBI",
+            "standfirst": "An industry report suggests that the net-zero economy is already established and employs more than 105,000 people.",
+            "content": "An industry report suggests that the net-zero economy is already established and employs more than 105,000 people.",
+            "feed_position": 23,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87d7/live/1dced490-5917-11f1-8d34-d7341b720fc6.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87d7/live/1dced490-5917-11f1-8d34-d7341b720fc6.jpg"
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Tue, 26 May 2026 21:21:21 GMT",
+        "title": "'My daughter went into hospital to get better - now she's dead'",
+        "neutral_headline": "'My daughter went into hospital to get better - now she's dead'",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/videos/cy4223p42vzo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Tue, 26 May 2026 21:21:21 GMT",
+            "title": "'My daughter went into hospital to get better - now she's dead'",
+            "standfirst": "Mental health patients say nobody listened to their concerns about a north-east England trust.",
+            "content": "Mental health patients say nobody listened to their concerns about a north-east England trust.",
+            "feed_position": 47,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afd2/live/3fc15360-5931-11f1-8b8c-6d33e1d5abb6.jpg"
+          },
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/c995yr1520ko?at_medium=RSS&at_campaign=rss",
+            "published_at": "Tue, 26 May 2026 21:18:44 GMT",
+            "title": "'We knew somebody would die': Teenage patients 'ignored' before fatal NHS trust failures",
+            "standfirst": "Mental health patients say nobody listened to their concerns about a north-east England trust.",
+            "content": "Mental health patients say nobody listened to their concerns about a north-east England trust.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b07/live/5feb8980-2920-11f1-a79a-77e93010d956.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afd2/live/3fc15360-5931-11f1-8b8c-6d33e1d5abb6.jpg"
+      },
+      {
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Tue, 26 May 2026 20:25:50 GMT",
         "title": "Nasa unveils next steps to build permanent Moon base",
@@ -28,13 +105,13 @@
             "standfirst": "Nasa plans to send hopping drones and roving vehicles to the Moon as part of plans for a permanent Moon base.",
             "content": "Nasa plans to send hopping drones and roving vehicles to the Moon as part of plans for a permanent Moon base.",
             "feed_position": 0,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d241/live/2a43aca0-592b-11f1-ac5a-ebb7f5c63280.jpg"
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a099/live/f5f41ba0-5944-11f1-af8d-3f91c4027c92.jpg"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d241/live/2a43aca0-592b-11f1-ac5a-ebb7f5c63280.jpg"
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a099/live/f5f41ba0-5944-11f1-af8d-3f91c4027c92.jpg"
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Tue, 26 May 2026 20:02:33 GMT",
         "title": "Watch: Nasa shows renderings for planned permanent moon base",
@@ -57,7 +134,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f35/live/ad152fc0-593d-11f1-b682-cf91850925ea.jpg"
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Tue, 26 May 2026 18:50:41 GMT",
         "title": "Trump completes annual physical after year of public attention to health issues",
@@ -73,12 +150,12 @@
             "title": "Trump completes annual physical after year of public attention to health issues",
             "standfirst": "US president, who turns 80 next month, frequently casts himself as fit but recent photos have added to questions about his healthSign up for the Breaking News US newsletter emailDonald Trump, the oldest inaugurated president in US history, completed a physical exam on Tuesday at Walter Reed national military medical center, amid questions around his health.“Everything checked out PERFECTLY,” the US president declared in a social media post. Continue reading...",
             "content": "US president, who turns 80 next month, frequently casts himself as fit but recent photos have added to questions about his healthSign up for the Breaking News US newsletter emailDonald Trump, the oldest inaugurated president in US history, completed a physical exam on Tuesday at Walter Reed national military medical center, amid questions around his health.“Everything checked out PERFECTLY,” the US president declared in a social media post. Continue reading...",
-            "feed_position": 1
+            "feed_position": 2
           }
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Tue, 26 May 2026 17:57:28 GMT",
         "title": "Why temperature records are being not only broken but smashed",
@@ -101,7 +178,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/908f/live/0f83b2e0-5924-11f1-8da3-3d26e0ea35c3.jpg"
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Tue, 26 May 2026 17:20:54 GMT",
         "title": "The Guardian view on support for youth: someone in government should grab hold of school sports | Editorial",
@@ -117,12 +194,12 @@
             "title": "The Guardian view on support for youth: someone in government should grab hold of school sports | Editorial",
             "standfirst": "With concerns about childhood obesity and screen use sky-high, cuts to primary PE are an unforced errorWith remarkably poor timing, days before closing a consultation on children’s social media use, the government announced last week that it is cutting an annual £320m sports premium for primary schools in England. A new scheme worth £193m will cover secondaries too, and resurrect a previous model whereby outside clubs and coaches play a bigger role. But primary school leaders are understandably unhappy, particularly about the haste with which this is being done.Bodies including Sport England are more supportive, unsurprisingly since their role is set to grow. There will be advantages, particularly for older pupils who do not already participate in a busy round of extracurricular activities, in having the chance to make links with outside teams or clubs. But the reduction in dedicated funding for primary-school sports seems wrong-headed at a time when childhood obesity is viewed by experts as one of biggest public health challenges facing the country, and concerns about the mental and physical impacts of screen use are sky-high.Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...",
             "content": "With concerns about childhood obesity and screen use sky-high, cuts to primary PE are an unforced errorWith remarkably poor timing, days before closing a consultation on children’s social media use, the government announced last week that it is cutting an annual £320m sports premium for primary schools in England. A new scheme worth £193m will cover secondaries too, and resurrect a previous model whereby outside clubs and coaches play a bigger role. But primary school leaders are understandably unhappy, particularly about the haste with which this is being done.Bodies including Sport England are more supportive, unsurprisingly since their role is set to grow. There will be advantages, particularly for older pupils who do not already participate in a busy round of extracurricular activities, in having the chance to make links with outside teams or clubs. But the reduction in dedicated funding for primary-school sports seems wrong-headed at a time when childhood obesity is viewed by experts as one of biggest public health challenges facing the country, and concerns about the mental and physical impacts of screen use are sky-high.Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...",
-            "feed_position": 2
+            "feed_position": 3
           }
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Tue, 26 May 2026 17:00:54 GMT",
         "title": "Inequalities in health are the result of where you’re born, live, work and grow old | Letter",
@@ -143,7 +220,7 @@
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Tue, 26 May 2026 16:40:17 GMT",
         "title": "Labour says Reform UK ‘in chaos’ as Zia Yusuf publicly tells Jenrick he’s got party’s deportation policy wrong – as it happened",
@@ -159,12 +236,12 @@
             "title": "Labour says Reform UK ‘in chaos’ as Zia Yusuf publicly tells Jenrick he’s got party’s deportation policy wrong – as it happened",
             "standfirst": "‘Robert’s answer is not Reform policy’, Yusuf said about an answer that Jenrick gave to journalists days earlierKeir Starmer has said that SNP leaders need to explain why they did not realise that Peter Murrell was stealing more than £400,000 from the party.Asked about yesterday’s court proceedings in Edinburgh, where Murrell admitting embezzling money from the party to spend on luxury goods, Starmer said:I think anybody looking at what’s happening up in Scotland will be baffled that those at the top of the SNP say they didn’t know anything about what was going on, so clearly there are questions that need to be answered. Continue reading...",
             "content": "‘Robert’s answer is not Reform policy’, Yusuf said about an answer that Jenrick gave to journalists days earlierKeir Starmer has said that SNP leaders need to explain why they did not realise that Peter Murrell was stealing more than £400,000 from the party.Asked about yesterday’s court proceedings in Edinburgh, where Murrell admitting embezzling money from the party to spend on luxury goods, Starmer said:I think anybody looking at what’s happening up in Scotland will be baffled that those at the top of the SNP say they didn’t know anything about what was going on, so clearly there are questions that need to be answered. Continue reading...",
-            "feed_position": 3
+            "feed_position": 4
           }
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Tue, 26 May 2026 15:00:02 GMT",
         "title": "Image of ‘twin babies’ used by anti-abortion activist appears to show sugar gliders",
@@ -178,14 +255,14 @@
             "url": "https://www.theguardian.com/world/2026/may/27/anti-abortion-activist-joanna-howe-twin-babies-image-likely-to-show-sugar-gliders-ntwnfb",
             "published_at": "Tue, 26 May 2026 15:00:02 GMT",
             "title": "Image of ‘twin babies’ used by anti-abortion activist appears to show sugar gliders",
-            "standfirst": "Joanna Howe says the image was sent to her by a woman ashamed of her abortion, and used it to support ‘rally for Emma and Ruth’ in favour of NSW billGet our breaking news email, free app or daily news podcastAn image posted by anti-abortion activist Joanna Howe claiming to show aborted twin girls called “Ruth and Emma” appears to be a picture of sugar gliders.The two little pink bodies are displayed on a clean white background and experts say the image does not look at all like the product of an abortion. Continue reading...",
-            "content": "Joanna Howe says the image was sent to her by a woman ashamed of her abortion, and used it to support ‘rally for Emma and Ruth’ in favour of NSW billGet our breaking news email, free app or daily news podcastAn image posted by anti-abortion activist Joanna Howe claiming to show aborted twin girls called “Ruth and Emma” appears to be a picture of sugar gliders.The two little pink bodies are displayed on a clean white background and experts say the image does not look at all like the product of an abortion. Continue reading...",
-            "feed_position": 4
+            "standfirst": "Joanna Howe says the image was sent to her by a woman ashamed of her abortion, and used it to support ‘rally for Emma and Ruth’ in favour of NSW billFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastAn image posted by anti-abortion activist Joanna Howe claiming to show aborted twin girls called “Ruth and Emma” appears to be a picture of newborn sugar gliders.The two little pink bodies are displayed on a clean white background and experts say the image does not look at all like the product of an abortion. Continue reading...",
+            "content": "Joanna Howe says the image was sent to her by a woman ashamed of her abortion, and used it to support ‘rally for Emma and Ruth’ in favour of NSW billFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastAn image posted by anti-abortion activist Joanna Howe claiming to show aborted twin girls called “Ruth and Emma” appears to be a picture of newborn sugar gliders.The two little pink bodies are displayed on a clean white background and experts say the image does not look at all like the product of an abortion. Continue reading...",
+            "feed_position": 5
           }
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Tue, 26 May 2026 12:45:44 GMT",
         "title": "Red-light masks: can they really slow ageing? – podcast",
@@ -201,12 +278,12 @@
             "title": "Red-light masks: can they really slow ageing? – podcast",
             "standfirst": "Home red-light therapy devices have exploded in popularity as masks, body wraps and mittens promise to reduce wrinkles, redness and even acne. But do the claims stack up, and what other benefits are scientists investigating? Ian Sample hears from his co-host, Madeleine Finlay, and the consultant dermatologist Dr Jonathan Kentley. Kentley explains how the potential benefits of red light were discovered, how it is thought to interact with collagen in our skin, and what science has to say about its impact on our appearanceIs it true that … red light therapy masks prevent wrinkles?Support the Guardian: theguardian.com/sciencepod Continue reading...",
             "content": "Home red-light therapy devices have exploded in popularity as masks, body wraps and mittens promise to reduce wrinkles, redness and even acne. But do the claims stack up, and what other benefits are scientists investigating? Ian Sample hears from his co-host, Madeleine Finlay, and the consultant dermatologist Dr Jonathan Kentley. Kentley explains how the potential benefits of red light were discovered, how it is thought to interact with collagen in our skin, and what science has to say about its impact on our appearanceIs it true that … red light therapy masks prevent wrinkles?Support the Guardian: theguardian.com/sciencepod Continue reading...",
-            "feed_position": 5
+            "feed_position": 6
           }
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Tue, 26 May 2026 12:00:50 GMT",
         "title": "Why Trump administration’s plan to attempt to destroy Pfas is ‘nonsensical’",
@@ -223,12 +300,12 @@
             "title": "Why Trump administration’s plan to attempt to destroy Pfas is ‘nonsensical’",
             "standfirst": "The EPA said it was cutting Biden-era regulations on Pfas in drinking water, but advocates say the move will harm public health and benefit industryA new Trump administration plan to ditch Pfas drinking water regulations and instead attempt to destroy “forever chemicals” on a wide scale tears a page from the fossil fuel industry’s carbon capture playbook, and will benefit the industry while harming public health.The US Environmental Protection Agency last week announced it is moving to kill strong Biden-era drinking water limits around four Pfas compounds, and delaying implementation for two more. It represented a blow to public health – advocates say strong limits and a dramatic cut in the production of the dangerous chemicals are imperative. Continue reading...",
             "content": "The EPA said it was cutting Biden-era regulations on Pfas in drinking water, but advocates say the move will harm public health and benefit industryA new Trump administration plan to ditch Pfas drinking water regulations and instead attempt to destroy “forever chemicals” on a wide scale tears a page from the fossil fuel industry’s carbon capture playbook, and will benefit the industry while harming public health.The US Environmental Protection Agency last week announced it is moving to kill strong Biden-era drinking water limits around four Pfas compounds, and delaying implementation for two more. It represented a blow to public health – advocates say strong limits and a dramatic cut in the production of the dangerous chemicals are imperative. Continue reading...",
-            "feed_position": 6
+            "feed_position": 7
           }
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Tue, 26 May 2026 10:17:03 GMT",
         "title": "What are UV levels and how can you protect yourself?",
@@ -251,7 +328,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8a0/live/1f4e29c0-58e4-11f1-aa85-913b08133db5.jpg"
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Tue, 26 May 2026 09:54:49 GMT",
         "title": "Fly counters help to spot signs of river pollution",
@@ -274,7 +351,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a089/live/33e533b0-56be-11f1-a46a-27799ce67605.jpg"
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Tue, 26 May 2026 09:00:51 GMT",
         "title": "I lost my beloved husband after 35 years, then my sister and my father. Here’s how I rebuilt my old happy self",
@@ -291,12 +368,12 @@
             "title": "I lost my beloved husband after 35 years, then my sister and my father. Here’s how I rebuilt my old happy self",
             "standfirst": "I tried everything from gong baths to junk food and intermittent crying as I attempted to deal with my grief. Nothing helped – until I started tuning in to what my body was telling meI didn’t think I could survive the death of my husband, Graham. We met at university when I was 18, and for 35 years we made a great team. We both worked full-time and, while I organised our many marathon and backpacking trips abroad, and pursued my ambition of becoming an author and hypnotherapist, he supported me by taking care of most of the domestic chores and DIY. When he was seconded to Bahrain for eight months in 2003, he left me a typed, two-page instruction manual explaining how to operate the dishwasher, washing machine and TV (in fairness, it wasn’t simply a matter of pressing “on”).When, in 2017, Graham was diagnosed with asbestos-related lung cancer and given between 18 months and five years to live, the shock was profound. But, once the initial terror had subsided, we made a choice: to live in hope, not fear. We vowed to make the most of whatever time Graham had left, rather than mentally rehearse or fear his death. We both continued working, travelling, running half marathons and seeing friends as much as we could. Continue reading...",
             "content": "I tried everything from gong baths to junk food and intermittent crying as I attempted to deal with my grief. Nothing helped – until I started tuning in to what my body was telling meI didn’t think I could survive the death of my husband, Graham. We met at university when I was 18, and for 35 years we made a great team. We both worked full-time and, while I organised our many marathon and backpacking trips abroad, and pursued my ambition of becoming an author and hypnotherapist, he supported me by taking care of most of the domestic chores and DIY. When he was seconded to Bahrain for eight months in 2003, he left me a typed, two-page instruction manual explaining how to operate the dishwasher, washing machine and TV (in fairness, it wasn’t simply a matter of pressing “on”).When, in 2017, Graham was diagnosed with asbestos-related lung cancer and given between 18 months and five years to live, the shock was profound. But, once the initial terror had subsided, we made a choice: to live in hope, not fear. We vowed to make the most of whatever time Graham had left, rather than mentally rehearse or fear his death. We both continued working, travelling, running half marathons and seeing friends as much as we could. Continue reading...",
-            "feed_position": 7
+            "feed_position": 8
           }
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Tue, 26 May 2026 09:00:50 GMT",
         "title": "Scientists create wearable ultrasound to continuously monitor babies in womb",
@@ -312,12 +389,12 @@
             "title": "Scientists create wearable ultrasound to continuously monitor babies in womb",
             "standfirst": "Team hope the UPatch – at present a proof-of-concept device – will aid early detection of complications and prevent stillbirthsScientists have created a wearable ultrasound patch that can continuously monitor babies in the womb, with the hope that such devices could aid the early detection of complications during pregnancy.The team behind the work say ultrasound-based techniques in place now have drawbacks: continuous monitoring of the baby’s heart rate and contractions of the womb using current methods leads to a high rate of false alarms, while the use of more conventional handheld devices for imaging is limited to a small number of scans during pregnancy, and must be carried out by a skilled operator. Continue reading...",
             "content": "Team hope the UPatch – at present a proof-of-concept device – will aid early detection of complications and prevent stillbirthsScientists have created a wearable ultrasound patch that can continuously monitor babies in the womb, with the hope that such devices could aid the early detection of complications during pregnancy.The team behind the work say ultrasound-based techniques in place now have drawbacks: continuous monitoring of the baby’s heart rate and contractions of the womb using current methods leads to a high rate of false alarms, while the use of more conventional handheld devices for imaging is limited to a small number of scans during pregnancy, and must be carried out by a skilled operator. Continue reading...",
-            "feed_position": 8
+            "feed_position": 9
           }
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Tue, 26 May 2026 07:09:38 GMT",
         "title": "Australia confirms first diphtheria death amid worst outbreak in decades",
@@ -333,14 +410,14 @@
             "title": "Australia confirms first diphtheria death amid worst outbreak in decades",
             "standfirst": "Most cases are in the Northern Territory with some also in Western Australia, South Australia and Queensland.",
             "content": "Most cases are in the Northern Territory with some also in Western Australia, South Australia and Queensland.",
-            "feed_position": 0,
+            "feed_position": 1,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0abc/live/4ec8aee0-58d1-11f1-90e2-edf2febf1e9d.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0abc/live/4ec8aee0-58d1-11f1-90e2-edf2febf1e9d.jpg"
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Tue, 26 May 2026 07:00:49 GMT",
         "title": "The curse of burnout Britain affects politicians as much as everyone else: give Carla Denyer a break | Gaby Hinsliff",
@@ -356,12 +433,12 @@
             "title": "The curse of burnout Britain affects politicians as much as everyone else: give Carla Denyer a break | Gaby Hinsliff",
             "standfirst": "The Green MP’s decision to take time out has angered some – but many more will see endemic stress and anxiety as a blight we must addressCarla Denyer is taking some time out.The Bristol Central MP and former Green party co-leader says she is suffering from burnout after trying to juggle health issues on top of the job and has been advised by her doctor to take a break. In an ideal world, most people would just wish her a swift recovery and get on with their lives, as quite a lot of MPs from normally rival parties duly did, on the grounds that you never really know what is going on under the surface of someone else’s life. But Denyer’s call for an “open conversation” about burnout has inevitably also resulted in the usual spasm of online venom, snark and angry men on radio phone-ins asking why politicians can’t handle “a few emails” without needing a lie-down when nurses and teachers just have to soldier on regardless. (Though given that mental health issues are the most common cause of days off in the NHS in England, while teachers apparently claim the highest levels of work-related stress, depression and anxiety in Britain, Denyer might be right to suggest in her statement that they’re the ones most likely to understand.) Continue reading...",
             "content": "The Green MP’s decision to take time out has angered some – but many more will see endemic stress and anxiety as a blight we must addressCarla Denyer is taking some time out.The Bristol Central MP and former Green party co-leader says she is suffering from burnout after trying to juggle health issues on top of the job and has been advised by her doctor to take a break. In an ideal world, most people would just wish her a swift recovery and get on with their lives, as quite a lot of MPs from normally rival parties duly did, on the grounds that you never really know what is going on under the surface of someone else’s life. But Denyer’s call for an “open conversation” about burnout has inevitably also resulted in the usual spasm of online venom, snark and angry men on radio phone-ins asking why politicians can’t handle “a few emails” without needing a lie-down when nurses and teachers just have to soldier on regardless. (Though given that mental health issues are the most common cause of days off in the NHS in England, while teachers apparently claim the highest levels of work-related stress, depression and anxiety in Britain, Denyer might be right to suggest in her statement that they’re the ones most likely to understand.) Continue reading...",
-            "feed_position": 9
+            "feed_position": 10
           }
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Tue, 26 May 2026 05:27:03 GMT",
         "title": "PCOS name change 'more representative of condition'",
@@ -382,78 +459,11 @@
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d4c/live/5c47a330-536f-11f1-b319-63ed6ac90e5f.jpg"
-      },
-      {
-        "id": "cluster_17",
-        "coverage": 1,
-        "updated_at": "Tue, 26 May 2026 05:10:59 GMT",
-        "title": "River will take decades to recover from 'vandalism'",
-        "neutral_headline": "River will take decades to recover from 'vandalism'",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/c1m2xnr1pmxo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Tue, 26 May 2026 05:10:59 GMT",
-            "title": "River will take decades to recover from 'vandalism'",
-            "standfirst": "An ecologist says it'll take a generation for the River Lugg in Herefordshire to recover from damage done by farmer John Price",
-            "content": "An ecologist says it'll take a generation for the River Lugg in Herefordshire to recover from damage done by farmer John Price",
-            "feed_position": 14,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a393/live/469fe620-58c2-11f1-ac98-e743c9feffc6.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a393/live/469fe620-58c2-11f1-ac98-e743c9feffc6.jpg"
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Tue, 26 May 2026 05:10:31 GMT",
-        "title": "The misconnected pipes polluting urban rivers",
-        "neutral_headline": "The misconnected pipes polluting urban rivers",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/czd2qd00j9vo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Tue, 26 May 2026 05:10:31 GMT",
-            "title": "The misconnected pipes polluting urban rivers",
-            "standfirst": "A misconnection happens when wastewater is incorrectly diverted into surface drains.",
-            "content": "A misconnection happens when wastewater is incorrectly diverted into surface drains.",
-            "feed_position": 15,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5689/live/f99c3660-55b2-11f1-b056-a558b41349e8.png"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5689/live/f99c3660-55b2-11f1-b056-a558b41349e8.png"
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Tue, 26 May 2026 04:00:44 GMT",
-        "title": "Abortion regret is a myth. Irish women don’t need laws to make them ‘reflect’ on their choices | Roe McDermott",
-        "neutral_headline": "Abortion regret is a myth. Irish women don’t need laws to make them ‘reflect’...",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/commentisfree/2026/may/26/abortion-trauma-myth-irish-women-patriarchy",
-            "published_at": "Tue, 26 May 2026 04:00:44 GMT",
-            "title": "Abortion regret is a myth. Irish women don’t need laws to make them ‘reflect’ on their choices | Roe McDermott",
-            "standfirst": "More people regret knee surgery than abortion. So why is the patriarchy still scaring us with lifelong torment?Ireland’s parliament, the Dáil, voted down a reproductive rights amendment bill this month that would have abolished the country’s mandatory three-day waiting period for access to an abortion. Supporters of the unsuccessful reform bill, tabled by the Social Democrats, argued that the delay serves no medical purpose.As the bill moved through political debate and media coverage, those defending the requirement to wait three days from the time of requesting an abortion before care can be accessed barely attempted to argue otherwise, instead structuring their opposition to reform around the idea that women cannot be trusted to know what they want. The waiting period, which is not required in most European countries, was repeatedly described as “a cooling off” period; time to “reflect”, “reconsider”, “rethink”. Supporters of the status quo spoke extensively of wanting to save women from feelings of regret. Continue reading...",
-            "content": "More people regret knee surgery than abortion. So why is the patriarchy still scaring us with lifelong torment?Ireland’s parliament, the Dáil, voted down a reproductive rights amendment bill this month that would have abolished the country’s mandatory three-day waiting period for access to an abortion. Supporters of the unsuccessful reform bill, tabled by the Social Democrats, argued that the delay serves no medical purpose.As the bill moved through political debate and media coverage, those defending the requirement to wait three days from the time of requesting an abortion before care can be accessed barely attempted to argue otherwise, instead structuring their opposition to reform around the idea that women cannot be trusted to know what they want. The waiting period, which is not required in most European countries, was repeatedly described as “a cooling off” period; time to “reflect”, “reconsider”, “rethink”. Supporters of the status quo spoke extensively of wanting to save women from feelings of regret. Continue reading...",
-            "feed_position": 10
-          }
-        ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-05-26T20:50:07.059Z",
+    "updated_at": "2026-05-26T23:58:21.724Z",
     "clusters": []
   }
 }
