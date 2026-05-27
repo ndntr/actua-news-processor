@@ -1,17 +1,17 @@
 {
   "clinical": {
-    "updated_at": "2026-05-27T20:57:54.548Z",
+    "updated_at": "2026-05-27T23:55:50.435Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-05-27T20:57:54.548Z",
+    "updated_at": "2026-05-27T23:55:50.436Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-05-27T20:57:57.796Z",
+    "updated_at": "2026-05-27T23:55:59.257Z",
     "clusters": [
       {
-        "id": "cluster_0",
+        "id": "cluster_1",
         "coverage": 2,
         "updated_at": "Wed, 27 May 2026 20:09:17 GMT",
         "title": "Resident doctors in England to stage four-day strike in June",
@@ -53,7 +53,30 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05c3/live/0e0f69b0-59e5-11f1-b67e-59b55f58b612.jpg"
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Wed, 27 May 2026 23:05:48 GMT",
+        "title": "UK's rudest chalk figure gets a glow-up to stop it fading in the rain",
+        "neutral_headline": "UK's rudest chalk figure gets a glow-up to stop it fading in the rain",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/cpvppe84lnvo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Wed, 27 May 2026 23:05:48 GMT",
+            "title": "UK's rudest chalk figure gets a glow-up to stop it fading in the rain",
+            "standfirst": "National Trust staff and volunteers will apply 17 tonnes of fresh chalk to the outline of the famous figure.",
+            "content": "National Trust staff and volunteers will apply 17 tonnes of fresh chalk to the outline of the famous figure.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/540c/live/48c18bf0-59e6-11f1-b67e-59b55f58b612.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/540c/live/48c18bf0-59e6-11f1-b67e-59b55f58b612.jpg"
+      },
+      {
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Wed, 27 May 2026 18:00:41 GMT",
         "title": "US building Ebola quarantine center in Kenya for Americans amid outbreak",
@@ -75,7 +98,7 @@
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Wed, 27 May 2026 16:45:27 GMT",
         "title": "'It's not a nice world to bring children into': Births fall to the lowest level in 50 years",
@@ -98,7 +121,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6ea/live/3b9f4af0-59d4-11f1-b682-cf91850925ea.jpg"
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Wed, 27 May 2026 16:44:01 GMT",
         "title": "'Abandoned beach litter took us two days to clear'",
@@ -121,7 +144,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f9a/live/62df4ce0-59da-11f1-9d25-fb65b8b0488d.jpg"
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Wed, 27 May 2026 16:29:35 GMT",
         "title": "Stigma around burnout must be challenged | Letters",
@@ -151,7 +174,7 @@
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Wed, 27 May 2026 14:08:50 GMT",
         "title": "Why temperature records are being not only broken but smashed",
@@ -167,14 +190,14 @@
             "title": "Why temperature records are being not only broken but smashed",
             "standfirst": "The combined effects of a heat dome and climate change have brought extreme warmth to western Europe.",
             "content": "The combined effects of a heat dome and climate change have brought extreme warmth to western Europe.",
-            "feed_position": 0,
+            "feed_position": 1,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/908f/live/0f83b2e0-5924-11f1-8da3-3d26e0ea35c3.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/908f/live/0f83b2e0-5924-11f1-8da3-3d26e0ea35c3.jpg"
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Wed, 27 May 2026 13:43:23 GMT",
         "title": "'When I was 14 I thought I was dying'",
@@ -207,7 +230,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f468/live/90d1c6e0-59d1-11f1-b682-cf91850925ea.jpg"
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Wed, 27 May 2026 11:08:02 GMT",
         "title": "'No timeline or cost' for clean-up plan of one of Europe's largest illegal dumps",
@@ -230,7 +253,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1d6/live/1794e270-59d7-11f1-a86d-8bf9558fa476.jpg"
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Wed, 27 May 2026 05:16:21 GMT",
         "title": "Green jobs contributing £10.2bn to Scotland's economy, says CBI",
@@ -246,14 +269,14 @@
             "title": "Green jobs contributing £10.2bn to Scotland's economy, says CBI",
             "standfirst": "An industry report suggests that the net-zero economy is already established and employs more than 105,000 people.",
             "content": "An industry report suggests that the net-zero economy is already established and employs more than 105,000 people.",
-            "feed_position": 24,
+            "feed_position": 25,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87d7/live/1dced490-5917-11f1-8d34-d7341b720fc6.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87d7/live/1dced490-5917-11f1-8d34-d7341b720fc6.jpg"
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Wed, 27 May 2026 04:00:15 GMT",
         "title": "Riverside land purchased to save it from development",
@@ -276,7 +299,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd22/live/0f8aea60-591a-11f1-8d34-d7341b720fc6.jpg"
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Wed, 27 May 2026 01:34:42 GMT",
         "title": "Hundreds of children die within months as measles cases soar in Bangladesh",
@@ -299,7 +322,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cba/live/604452f0-5967-11f1-8e96-b3dc9dcf44fd.jpg"
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Tue, 26 May 2026 22:30:10 GMT",
         "title": "Climate crisis is accelerating antibiotic resistance across world, study says",
@@ -320,7 +343,7 @@
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Tue, 26 May 2026 21:21:21 GMT",
         "title": "'My daughter went into hospital to get better - now she's dead'",
@@ -353,7 +376,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afd2/live/3fc15360-5931-11f1-8b8c-6d33e1d5abb6.jpg"
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Tue, 26 May 2026 20:25:50 GMT",
         "title": "Nasa unveils next steps to build permanent Moon base",
@@ -369,14 +392,14 @@
             "title": "Nasa unveils next steps to build permanent Moon base",
             "standfirst": "Nasa plans to send hopping drones and roving vehicles to the Moon as part of plans for a permanent Moon base.",
             "content": "Nasa plans to send hopping drones and roving vehicles to the Moon as part of plans for a permanent Moon base.",
-            "feed_position": 1,
+            "feed_position": 2,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a099/live/f5f41ba0-5944-11f1-af8d-3f91c4027c92.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a099/live/f5f41ba0-5944-11f1-af8d-3f91c4027c92.jpg"
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Tue, 26 May 2026 20:02:33 GMT",
         "title": "Watch: Nasa shows renderings for planned permanent moon base",
@@ -399,7 +422,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f35/live/ad152fc0-593d-11f1-b682-cf91850925ea.jpg"
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Tue, 26 May 2026 18:50:41 GMT",
         "title": "Trump completes annual physical after year of public attention to health issues",
@@ -420,7 +443,7 @@
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Tue, 26 May 2026 17:20:54 GMT",
         "title": "The Guardian view on support for youth: someone in government should grab hold of school sports | Editorial",
@@ -441,7 +464,7 @@
         ]
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Tue, 26 May 2026 17:00:54 GMT",
         "title": "Inequalities in health are the result of where you’re born, live, work and grow old | Letter",
@@ -462,7 +485,7 @@
         ]
       },
       {
-        "id": "cluster_18",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Tue, 26 May 2026 16:40:17 GMT",
         "title": "Labour says Reform UK ‘in chaos’ as Zia Yusuf publicly tells Jenrick he’s got party’s deportation policy wrong – as it happened",
@@ -481,32 +504,11 @@
             "feed_position": 7
           }
         ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Tue, 26 May 2026 15:00:02 GMT",
-        "title": "Image of ‘twin babies’ used by anti-abortion activist appears to show sugar gliders",
-        "neutral_headline": "Image of ‘twin babies’ used by anti-abortion activist appears to show sugar gliders",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/world/2026/may/27/anti-abortion-activist-joanna-howe-twin-babies-image-likely-to-show-sugar-gliders-ntwnfb",
-            "published_at": "Tue, 26 May 2026 15:00:02 GMT",
-            "title": "Image of ‘twin babies’ used by anti-abortion activist appears to show sugar gliders",
-            "standfirst": "Joanna Howe says the image was sent to her by a woman ashamed of her abortion, and used it to support ‘rally for Emma and Ruth’ in favour of NSW billFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastAn image posted by anti-abortion activist Joanna Howe claiming to show aborted twin girls called “Ruth and Emma” appears to be a picture of newborn sugar gliders.The two little pink bodies are displayed on a clean white background and experts say the image does not look at all like the product of an abortion. Continue reading...",
-            "content": "Joanna Howe says the image was sent to her by a woman ashamed of her abortion, and used it to support ‘rally for Emma and Ruth’ in favour of NSW billFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastAn image posted by anti-abortion activist Joanna Howe claiming to show aborted twin girls called “Ruth and Emma” appears to be a picture of newborn sugar gliders.The two little pink bodies are displayed on a clean white background and experts say the image does not look at all like the product of an abortion. Continue reading...",
-            "feed_position": 8
-          }
-        ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-05-27T20:57:57.796Z",
+    "updated_at": "2026-05-27T23:55:59.257Z",
     "clusters": []
   }
 }
