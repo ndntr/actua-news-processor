@@ -1,17 +1,40 @@
 {
   "clinical": {
-    "updated_at": "2026-05-27T06:57:49.347Z",
+    "updated_at": "2026-05-27T10:54:56.816Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-05-27T06:57:49.347Z",
+    "updated_at": "2026-05-27T10:54:56.816Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-05-27T06:57:52.055Z",
+    "updated_at": "2026-05-27T10:54:58.585Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Wed, 27 May 2026 08:43:19 GMT",
+        "title": "Endometriosis: 'I thought I was dying'",
+        "neutral_headline": "Endometriosis: 'I thought I was dying'",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/videos/clyp9djzvwzo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Wed, 27 May 2026 08:43:19 GMT",
+            "title": "Endometriosis: 'I thought I was dying'",
+            "standfirst": "The BBC's Ellie Colton shares her experience of living with endometriosis - and meets a scientist hoping to cut the length of time it takes to be diagnosed with a simple new test.",
+            "content": "The BBC's Ellie Colton shares her experience of living with endometriosis - and meets a scientist hoping to cut the length of time it takes to be diagnosed with a simple new test.",
+            "feed_position": 47,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24fb/live/57237cb0-59a7-11f1-b682-cf91850925ea.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24fb/live/57237cb0-59a7-11f1-b682-cf91850925ea.jpg"
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Wed, 27 May 2026 05:16:21 GMT",
         "title": "Green jobs contributing £10.2bn to Scotland's economy, says CBI",
@@ -34,7 +57,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87d7/live/1dced490-5917-11f1-8d34-d7341b720fc6.jpg"
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Wed, 27 May 2026 04:00:15 GMT",
         "title": "Riverside land purchased to save it from development",
@@ -57,7 +80,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd22/live/0f8aea60-591a-11f1-8d34-d7341b720fc6.jpg"
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Wed, 27 May 2026 01:34:42 GMT",
         "title": "Hundreds of children die within months as measles cases soar in Bangladesh",
@@ -80,7 +103,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cba/live/604452f0-5967-11f1-8e96-b3dc9dcf44fd.jpg"
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Tue, 26 May 2026 22:30:10 GMT",
         "title": "Climate crisis is accelerating antibiotic resistance across world, study says",
@@ -101,7 +124,7 @@
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Tue, 26 May 2026 21:21:21 GMT",
         "title": "'My daughter went into hospital to get better - now she's dead'",
@@ -117,7 +140,7 @@
             "title": "'My daughter went into hospital to get better - now she's dead'",
             "standfirst": "Mental health patients say nobody listened to their concerns about a north-east England trust.",
             "content": "Mental health patients say nobody listened to their concerns about a north-east England trust.",
-            "feed_position": 47,
+            "feed_position": 48,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afd2/live/3fc15360-5931-11f1-8b8c-6d33e1d5abb6.jpg"
           },
           {
@@ -134,7 +157,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afd2/live/3fc15360-5931-11f1-8b8c-6d33e1d5abb6.jpg"
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Tue, 26 May 2026 20:25:50 GMT",
         "title": "Nasa unveils next steps to build permanent Moon base",
@@ -157,7 +180,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a099/live/f5f41ba0-5944-11f1-af8d-3f91c4027c92.jpg"
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Tue, 26 May 2026 20:02:33 GMT",
         "title": "Watch: Nasa shows renderings for planned permanent moon base",
@@ -180,7 +203,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f35/live/ad152fc0-593d-11f1-b682-cf91850925ea.jpg"
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Tue, 26 May 2026 18:50:41 GMT",
         "title": "Trump completes annual physical after year of public attention to health issues",
@@ -201,7 +224,7 @@
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Tue, 26 May 2026 17:57:28 GMT",
         "title": "Why temperature records are being not only broken but smashed",
@@ -224,7 +247,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/908f/live/0f83b2e0-5924-11f1-8da3-3d26e0ea35c3.jpg"
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Tue, 26 May 2026 17:20:54 GMT",
         "title": "The Guardian view on support for youth: someone in government should grab hold of school sports | Editorial",
@@ -245,7 +268,7 @@
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Tue, 26 May 2026 17:00:54 GMT",
         "title": "Inequalities in health are the result of where you’re born, live, work and grow old | Letter",
@@ -266,7 +289,7 @@
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Tue, 26 May 2026 16:40:17 GMT",
         "title": "Labour says Reform UK ‘in chaos’ as Zia Yusuf publicly tells Jenrick he’s got party’s deportation policy wrong – as it happened",
@@ -287,7 +310,7 @@
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Tue, 26 May 2026 15:00:02 GMT",
         "title": "Image of ‘twin babies’ used by anti-abortion activist appears to show sugar gliders",
@@ -308,7 +331,7 @@
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Tue, 26 May 2026 12:45:44 GMT",
         "title": "Red-light masks: can they really slow ageing? – podcast",
@@ -329,7 +352,7 @@
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Tue, 26 May 2026 12:00:50 GMT",
         "title": "Why Trump administration’s plan to attempt to destroy Pfas is ‘nonsensical’",
@@ -351,7 +374,7 @@
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Tue, 26 May 2026 10:17:03 GMT",
         "title": "What are UV levels and how can you protect yourself?",
@@ -374,7 +397,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8a0/live/1f4e29c0-58e4-11f1-aa85-913b08133db5.jpg"
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Tue, 26 May 2026 09:54:49 GMT",
         "title": "Fly counters help to spot signs of river pollution",
@@ -397,7 +420,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a089/live/33e533b0-56be-11f1-a46a-27799ce67605.jpg"
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Tue, 26 May 2026 09:00:51 GMT",
         "title": "I lost my beloved husband after 35 years, then my sister and my father. Here’s how I rebuilt my old happy self",
@@ -419,7 +442,7 @@
         ]
       },
       {
-        "id": "cluster_18",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Tue, 26 May 2026 09:00:50 GMT",
         "title": "Scientists create wearable ultrasound to continuously monitor babies in womb",
@@ -438,34 +461,11 @@
             "feed_position": 9
           }
         ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Tue, 26 May 2026 07:09:38 GMT",
-        "title": "Australia confirms first diphtheria death amid worst outbreak in decades",
-        "neutral_headline": "Australia confirms first diphtheria death amid worst outbreak in decades",
-        "bullet_summary": [
-          "Reported by BBC Health"
-        ],
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/c759q6y26w3o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Tue, 26 May 2026 07:09:38 GMT",
-            "title": "Australia confirms first diphtheria death amid worst outbreak in decades",
-            "standfirst": "Most cases are in the Northern Territory with some also in Western Australia, South Australia and Queensland.",
-            "content": "Most cases are in the Northern Territory with some also in Western Australia, South Australia and Queensland.",
-            "feed_position": 1,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0abc/live/4ec8aee0-58d1-11f1-90e2-edf2febf1e9d.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0abc/live/4ec8aee0-58d1-11f1-90e2-edf2febf1e9d.jpg"
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-05-27T06:57:52.055Z",
+    "updated_at": "2026-05-27T10:54:58.586Z",
     "clusters": []
   }
 }
