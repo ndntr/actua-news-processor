@@ -1,17 +1,63 @@
 {
   "clinical": {
-    "updated_at": "2026-05-30T00:03:27.133Z",
+    "updated_at": "2026-05-30T06:17:56.795Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-05-30T00:03:27.133Z",
+    "updated_at": "2026-05-30T06:17:56.795Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-05-30T00:03:28.803Z",
+    "updated_at": "2026-05-30T06:18:03.462Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Sat, 30 May 2026 05:28:02 GMT",
+        "title": "Wildlife park opens hub featuring erupting volcano",
+        "neutral_headline": "Wildlife park opens hub featuring erupting volcano",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/cvgzz9ndydyo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sat, 30 May 2026 05:28:02 GMT",
+            "title": "Wildlife park opens hub featuring erupting volcano",
+            "standfirst": "The new building has two areas filled with interactive features to aid learning.",
+            "content": "The new building has two areas filled with interactive features to aid learning.",
+            "feed_position": 13,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd97/live/6d5cd150-59b8-11f1-bc99-a54398775d7f.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd97/live/6d5cd150-59b8-11f1-bc99-a54398775d7f.jpg"
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Sat, 30 May 2026 00:08:23 GMT",
+        "title": "Abolishing patient watchdog leaves NHS 'marking own homework', councils warn",
+        "neutral_headline": "Abolishing patient watchdog leaves NHS 'marking own homework', councils warn",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/cn8pn2jplg9o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sat, 30 May 2026 00:08:23 GMT",
+            "title": "Abolishing patient watchdog leaves NHS 'marking own homework', councils warn",
+            "standfirst": "The plans are part of a government bill to modernise the NHS in England, which is currently going through parliament.",
+            "content": "The plans are part of a government bill to modernise the NHS in England, which is currently going through parliament.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b8b/live/3bdbcce0-5b83-11f1-bcbb-431c39a62187.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b8b/live/3bdbcce0-5b83-11f1-bcbb-431c39a62187.jpg"
+      },
+      {
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Fri, 29 May 2026 23:00:03 GMT",
         "title": "Poor sleep linked to rising cancer risk in under-50s",
@@ -27,12 +73,12 @@
             "title": "Poor sleep linked to rising cancer risk in under-50s",
             "standfirst": "Findings add to growing efforts to explain why cancer rates are increasing among younger adults worldwidePoor sleep may be fuelling the global rise in under-50s being diagnosed with cancer, two large studies suggest.The number of younger people diagnosed with the disease has risen by almost 80% in three decades. Worldwide cases of early-onset cancer increased from 1.82m in 1990 to 3.26m in 2019, while cancer deaths among people in their 40s, 30s or younger rose by 27%. Continue reading...",
             "content": "Findings add to growing efforts to explain why cancer rates are increasing among younger adults worldwidePoor sleep may be fuelling the global rise in under-50s being diagnosed with cancer, two large studies suggest.The number of younger people diagnosed with the disease has risen by almost 80% in three decades. Worldwide cases of early-onset cancer increased from 1.82m in 1990 to 3.26m in 2019, while cancer deaths among people in their 40s, 30s or younger rose by 27%. Continue reading...",
-            "feed_position": 1
+            "feed_position": 0
           }
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Fri, 29 May 2026 19:00:58 GMT",
         "title": "Groundbreaking genomic test could spare millions of breast cancer patients chemotherapy",
@@ -48,7 +94,7 @@
             "title": "Groundbreaking genomic test could spare millions of breast cancer patients chemotherapy",
             "standfirst": "Trial suggests patients with a low test score could be treated with hormone therapy alone with near-identical outcomes‘Like Christmas’: woman’s relief after test finds she can skip chemotherapy Millions of women with breast cancer could be spared chemotherapy with a groundbreaking genomic test, according to the results of a trial that could transform healthcare guidelines worldwide.Treatment for breast cancer, the world’s most prevalent form of the disease, involves surgery to remove tumours. Chemotherapy is then usually recommended when doctors believe there is a risk the disease will return. Continue reading...",
             "content": "Trial suggests patients with a low test score could be treated with hormone therapy alone with near-identical outcomes‘Like Christmas’: woman’s relief after test finds she can skip chemotherapy Millions of women with breast cancer could be spared chemotherapy with a groundbreaking genomic test, according to the results of a trial that could transform healthcare guidelines worldwide.Treatment for breast cancer, the world’s most prevalent form of the disease, involves surgery to remove tumours. Chemotherapy is then usually recommended when doctors believe there is a risk the disease will return. Continue reading...",
-            "feed_position": 2
+            "feed_position": 1
           },
           {
             "source": "Guardian Health",
@@ -57,14 +103,14 @@
             "title": "‘Like Christmas’: woman’s relief after test finds she can skip chemotherapy",
             "standfirst": "Karen Bonham was part of successful trial for genomic test that determines which women with breast cancer can safely avoid chemotherapyGroundbreaking genomic test could spare millions of breast cancer patients chemotherapyA landmark study shows millions of women with breast cancer could skip chemotherapy thanks to a genomic test that determines who needs the treatment and who doesn’t.The randomised international trial specifically looked at whether the test could identify those patients who would not benefit from chemotherapy, and then see if they could safely avoid it. Continue reading...",
             "content": "Karen Bonham was part of successful trial for genomic test that determines which women with breast cancer can safely avoid chemotherapyGroundbreaking genomic test could spare millions of breast cancer patients chemotherapyA landmark study shows millions of women with breast cancer could skip chemotherapy thanks to a genomic test that determines who needs the treatment and who doesn’t.The randomised international trial specifically looked at whether the test could identify those patients who would not benefit from chemotherapy, and then see if they could safely avoid it. Continue reading...",
-            "feed_position": 3,
+            "feed_position": 2,
             "image_url": "https://i.guim.co.uk/img/media/229785d11d122fca136be93f76abde071b424663/2_65_453_362/master/453.jpg?width=140&quality=85&auto=format&fit=max&s=1a8357b11ed2d1af8352ed1fd7d1e750"
           }
         ],
         "featured_image": "https://i.guim.co.uk/img/media/229785d11d122fca136be93f76abde071b424663/2_65_453_362/master/453.jpg?width=140&quality=85&auto=format&fit=max&s=1a8357b11ed2d1af8352ed1fd7d1e750"
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Fri, 29 May 2026 15:53:26 GMT",
         "title": "Rare 'Blue Moon' set to light up UK skies",
@@ -87,7 +133,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcab/live/da65fae0-5b4a-11f1-a62b-2f41c7c3a318.jpg"
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Fri, 29 May 2026 15:33:22 GMT",
         "title": "‘It was too easy’: families ask how Kenneth Law enabled so many suicides",
@@ -103,12 +149,12 @@
             "title": "‘It was too easy’: families ask how Kenneth Law enabled so many suicides",
             "standfirst": "Bereaved relatives say they were ignored by authorities as they searched for answers over suicide forums and kitsCanadian man admits sending ‘suicide packets’ to hundreds of people around worldMonday would have been Aimee Walton’s 25th birthday. But in 2022, the lover of music and art from Southampton took her own life after being groomed by another user on an online forum that glorified and enabled suicide. On Friday, 3,500 miles away, the man who sold her a toxic substance pleaded guilty in a Canadian courtroom to his part in 14 other fatal poisonings.Kenneth Law, 60, is linked to at least 131 deaths worldwide, after using a collection of digital storefronts to target vulnerable youth. Investigators in the province of Ontario say Law shipped more than 1,200 packages – many containing a toxic substance – from his local post office to people in more than 40 countries; the vast majority went to the United Kingdom and the United States. Continue reading...",
             "content": "Bereaved relatives say they were ignored by authorities as they searched for answers over suicide forums and kitsCanadian man admits sending ‘suicide packets’ to hundreds of people around worldMonday would have been Aimee Walton’s 25th birthday. But in 2022, the lover of music and art from Southampton took her own life after being groomed by another user on an online forum that glorified and enabled suicide. On Friday, 3,500 miles away, the man who sold her a toxic substance pleaded guilty in a Canadian courtroom to his part in 14 other fatal poisonings.Kenneth Law, 60, is linked to at least 131 deaths worldwide, after using a collection of digital storefronts to target vulnerable youth. Investigators in the province of Ontario say Law shipped more than 1,200 packages – many containing a toxic substance – from his local post office to people in more than 40 countries; the vast majority went to the United Kingdom and the United States. Continue reading...",
-            "feed_position": 4
+            "feed_position": 3
           }
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Fri, 29 May 2026 15:25:06 GMT",
         "title": "Gethin trains to be Dr Oscar's guide runner",
@@ -131,7 +177,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89d1/live/4d079d20-5b72-11f1-b682-cf91850925ea.png"
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Fri, 29 May 2026 13:00:50 GMT",
         "title": "Why America is failing its health report card | Robert B Shpiner",
@@ -147,12 +193,12 @@
             "title": "Why America is failing its health report card | Robert B Shpiner",
             "standfirst": "Americans spend 18% of our economy on healthcare, nearly twice the average of comparable nations, for worse resultsThe Commonwealth Fund published its 2026 report card on US healthcare this week, measuring the United States against 19 other wealthy countries. It runs the most expensive system on earth, and it buys some of the worst results in the developed world. I have spent more than four decades in the medical intensive care unit at UCLA, and I do not read those numbers as statistics. I read them as the people I admit.We spend 18% of our economy on healthcare, nearly twice the average of comparable nations, and $12,649 a person, roughly 10 times what Mexico spends. For that fortune, American life expectancy peaked at 79 years, more than two years below our peers and third from the bottom of the group, above only Mexico and Turkey. Our rate of deaths that good care should have prevented is the second worst in the developed world. Only Mexico does worse. Continue reading...",
             "content": "Americans spend 18% of our economy on healthcare, nearly twice the average of comparable nations, for worse resultsThe Commonwealth Fund published its 2026 report card on US healthcare this week, measuring the United States against 19 other wealthy countries. It runs the most expensive system on earth, and it buys some of the worst results in the developed world. I have spent more than four decades in the medical intensive care unit at UCLA, and I do not read those numbers as statistics. I read them as the people I admit.We spend 18% of our economy on healthcare, nearly twice the average of comparable nations, and $12,649 a person, roughly 10 times what Mexico spends. For that fortune, American life expectancy peaked at 79 years, more than two years below our peers and third from the bottom of the group, above only Mexico and Turkey. Our rate of deaths that good care should have prevented is the second worst in the developed world. Only Mexico does worse. Continue reading...",
-            "feed_position": 5
+            "feed_position": 4
           }
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Fri, 29 May 2026 12:48:24 GMT",
         "title": "What does Blue Origin rocket mishap mean for Nasa's Moon mission?",
@@ -185,7 +231,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e36/live/1ff6faa0-5b5a-11f1-8b8c-6d33e1d5abb6.jpg"
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Fri, 29 May 2026 09:51:34 GMT",
         "title": "Ospreys hatch fourth and final egg of the season",
@@ -201,14 +247,14 @@
             "title": "Ospreys hatch fourth and final egg of the season",
             "standfirst": "Webcams show the fourth chick emerging as the mother feeds the other three with fish.",
             "content": "Webcams show the fourth chick emerging as the mother feeds the other three with fish.",
-            "feed_position": 13,
+            "feed_position": 14,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3b4/live/8a005900-5b3c-11f1-8b8c-6d33e1d5abb6.png"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3b4/live/8a005900-5b3c-11f1-8b8c-6d33e1d5abb6.png"
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Fri, 29 May 2026 09:26:11 GMT",
         "title": "Clean-up of one of Europe's largest illegal dumps 'could begin in 2028'",
@@ -224,35 +270,14 @@
             "title": "Clean-up of one of Europe's largest illegal dumps 'could begin in 2028'",
             "standfirst": "Environment Minister Andrew Muir says it could take up to five years to complete work on the Mobuoy site.",
             "content": "Environment Minister Andrew Muir says it could take up to five years to complete work on the Mobuoy site.",
-            "feed_position": 14,
+            "feed_position": 15,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d76/live/bbc101f0-5b47-11f1-a62b-2f41c7c3a318.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d76/live/bbc101f0-5b47-11f1-a62b-2f41c7c3a318.jpg"
       },
       {
-        "id": "cluster_9",
-        "coverage": 1,
-        "updated_at": "Fri, 29 May 2026 06:00:43 GMT",
-        "title": "Sunbed group in hot seat over false claims that tanned skin protects against sunburn",
-        "neutral_headline": "Sunbed group in hot seat over false claims that tanned skin protects against sunburn",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2026/may/29/sunbeds-false-claims-tanning-protects-against-sunburn-health",
-            "published_at": "Fri, 29 May 2026 06:00:43 GMT",
-            "title": "Sunbed group in hot seat over false claims that tanned skin protects against sunburn",
-            "standfirst": "Health organisations refute assertion by Sunbed Association that tanning is protective and warn it could increase risk of skin cancerThe body that represents the UK’s sunbed salons is wrongly insisting that a tan protects against sunburn, even though leading medical bodies (contacted by Full Fact) say that claim is untrue.Health organisations have challenged the accuracy of information being disseminated by the Sunbed Association, which on its website asks: “Is it true there is no such thing as a safe tan?” Continue reading...",
-            "content": "Health organisations refute assertion by Sunbed Association that tanning is protective and warn it could increase risk of skin cancerThe body that represents the UK’s sunbed salons is wrongly insisting that a tan protects against sunburn, even though leading medical bodies (contacted by Full Fact) say that claim is untrue.Health organisations have challenged the accuracy of information being disseminated by the Sunbed Association, which on its website asks: “Is it true there is no such thing as a safe tan?” Continue reading...",
-            "feed_position": 0
-          }
-        ]
-      },
-      {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Fri, 29 May 2026 06:00:43 GMT",
         "title": "Tenderness and Rage: how groups affected by HIV found power, comfort and joy in Aids activism",
@@ -268,12 +293,33 @@
             "title": "Tenderness and Rage: how groups affected by HIV found power, comfort and joy in Aids activism",
             "standfirst": "London exhibition explores how care and protest improved rights and dignity of those living with diseaseFrom photos of a mass “die-in” by Aids activists in Trafalgar Square, London, in the 1990s to plushie breasts, lips and vulvas hand-stitched by HIV-positive women, a new exhibition explores how care and protest have improved the rights and dignity of those living with the disease.The show, Tenderness and Rage, at the Wellcome Collection, London, reflects how different groups affected by HIV, including gay men, women of colour, and refugees in the UK and around the world have found power, solidarity, comfort and joy in Aids activism and support services. Continue reading...",
             "content": "London exhibition explores how care and protest improved rights and dignity of those living with diseaseFrom photos of a mass “die-in” by Aids activists in Trafalgar Square, London, in the 1990s to plushie breasts, lips and vulvas hand-stitched by HIV-positive women, a new exhibition explores how care and protest have improved the rights and dignity of those living with the disease.The show, Tenderness and Rage, at the Wellcome Collection, London, reflects how different groups affected by HIV, including gay men, women of colour, and refugees in the UK and around the world have found power, solidarity, comfort and joy in Aids activism and support services. Continue reading...",
+            "feed_position": 5
+          }
+        ]
+      },
+      {
+        "id": "cluster_12",
+        "coverage": 1,
+        "updated_at": "Fri, 29 May 2026 06:00:43 GMT",
+        "title": "Sunbed group in hot seat over false claims that tanned skin protects against sunburn",
+        "neutral_headline": "Sunbed group in hot seat over false claims that tanned skin protects against sunburn",
+        "bullet_summary": [
+          "Reported by Guardian Health"
+        ],
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/society/2026/may/29/sunbeds-false-claims-tanning-protects-against-sunburn-health",
+            "published_at": "Fri, 29 May 2026 06:00:43 GMT",
+            "title": "Sunbed group in hot seat over false claims that tanned skin protects against sunburn",
+            "standfirst": "Health organisations refute assertion by Sunbed Association that tanning is protective and warn it could increase risk of skin cancerThe body that represents the UK’s sunbed salons is wrongly insisting that a tan protects against sunburn, even though leading medical bodies (contacted by Full Fact) say that claim is untrue.Health organisations have challenged the accuracy of information being disseminated by the Sunbed Association, which on its website asks: “Is it true there is no such thing as a safe tan?” Continue reading...",
+            "content": "Health organisations refute assertion by Sunbed Association that tanning is protective and warn it could increase risk of skin cancerThe body that represents the UK’s sunbed salons is wrongly insisting that a tan protects against sunburn, even though leading medical bodies (contacted by Full Fact) say that claim is untrue.Health organisations have challenged the accuracy of information being disseminated by the Sunbed Association, which on its website asks: “Is it true there is no such thing as a safe tan?” Continue reading...",
             "feed_position": 6
           }
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Fri, 29 May 2026 05:44:22 GMT",
         "title": "Friday briefing: ​What do the cuts in aid mean for the fight against Ebola in the DRC?",
@@ -295,7 +341,7 @@
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Fri, 29 May 2026 05:11:15 GMT",
         "title": "Record numbers of Dartford warblers at nature site",
@@ -312,14 +358,14 @@
             "title": "Record numbers of Dartford warblers at nature site",
             "standfirst": "A survey of heathland birds found a record 97 pairs of Dartford Warblers at RSPB Arne in Dorset.",
             "content": "A survey of heathland birds found a record 97 pairs of Dartford Warblers at RSPB Arne in Dorset.",
-            "feed_position": 15,
+            "feed_position": 16,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/653f/live/6fc1c790-59b1-11f1-a4b7-619c279792a3.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/653f/live/6fc1c790-59b1-11f1-a4b7-619c279792a3.jpg"
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Fri, 29 May 2026 03:02:48 GMT",
         "title": "Moment Blue Origin rocket explodes during test in Florida",
@@ -353,7 +399,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7498/live/7bfb5d50-5b23-11f1-b682-cf91850925ea.jpg"
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Fri, 29 May 2026 00:00:10 GMT",
         "title": "'I forgot what it's like to be outside': Intensive care ward opens on rooftop",
@@ -386,7 +432,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5973/live/ff036cb0-5b28-11f1-8b8c-6d33e1d5abb6.jpg"
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Thu, 28 May 2026 23:36:01 GMT",
         "title": "Portugal breaks hottest May day record as Europe swelters in heatwave",
@@ -409,7 +455,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6bd/live/11b1bcb0-5ab4-11f1-89a3-d1f559421220.jpg"
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Thu, 28 May 2026 20:00:00 GMT",
         "title": "BBC Inside Science",
@@ -432,7 +478,7 @@
         "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Thu, 28 May 2026 17:05:20 GMT",
         "title": "Abortion, regret and the right to decide | Letters",
@@ -451,55 +497,11 @@
             "feed_position": 8
           }
         ]
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Thu, 28 May 2026 16:30:52 GMT",
-        "title": "Alan Milburn is right, a young generation has been betrayed. Forget Tony Blair: we must attend to this | Polly Toynbee",
-        "neutral_headline": "Alan Milburn is right, a young generation has been betrayed. Forget Tony Blair: we...",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/commentisfree/2026/may/28/alan-milburn-youth-unemployment-labour-tony-blair",
-            "published_at": "Thu, 28 May 2026 16:30:52 GMT",
-            "title": "Alan Milburn is right, a young generation has been betrayed. Forget Tony Blair: we must attend to this | Polly Toynbee",
-            "standfirst": "The new and excoriating account of the dire prospects for UK young people is a call to action. It could be the Beveridge report for our time The diagnosis is dire. Alan Milburn has published the first part of his forensic report on the lives and chances of young people, their fate after leaving school or college, the inadequacy of their health, education and pastoral care, and the reluctance of employers to hire them. This is a “moral crisis”, he says. There are now more than a million young people not in work, education or training (Neets), and Milburn expects that number to rise to 1.25 million without radical change. The government needs a “big idea”, he tells me. This should be it, “the spine, the purpose”.Perhaps he was expected only to solve the particular problem of left-behind and lost Neets. What he has delivered instead is an excoriating overview of how badly this young generation is treated altogether. A sense of shock reverberates through every well-written page. Why have children and young people had such a low priority in resources and political concern, especially since 2010? There has been institutional neglect, loss of youth and careers services, chaotic non-communication or data exchange between dislocated silos, small schemes coming and going. Milburn describes a catastrophic failure: it needs a whole “system reset” and no more “tinkering”. Continue reading...",
-            "content": "The new and excoriating account of the dire prospects for UK young people is a call to action. It could be the Beveridge report for our time The diagnosis is dire. Alan Milburn has published the first part of his forensic report on the lives and chances of young people, their fate after leaving school or college, the inadequacy of their health, education and pastoral care, and the reluctance of employers to hire them. This is a “moral crisis”, he says. There are now more than a million young people not in work, education or training (Neets), and Milburn expects that number to rise to 1.25 million without radical change. The government needs a “big idea”, he tells me. This should be it, “the spine, the purpose”.Perhaps he was expected only to solve the particular problem of left-behind and lost Neets. What he has delivered instead is an excoriating overview of how badly this young generation is treated altogether. A sense of shock reverberates through every well-written page. Why have children and young people had such a low priority in resources and political concern, especially since 2010? There has been institutional neglect, loss of youth and careers services, chaotic non-communication or data exchange between dislocated silos, small schemes coming and going. Milburn describes a catastrophic failure: it needs a whole “system reset” and no more “tinkering”. Continue reading...",
-            "feed_position": 9
-          }
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Thu, 28 May 2026 16:25:24 GMT",
-        "title": "Drag queen Pattie Gonia fights trademark lawsuit by Patagonia",
-        "neutral_headline": "Drag queen Pattie Gonia fights trademark lawsuit by Patagonia",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/cx21427lvvvo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Thu, 28 May 2026 16:25:24 GMT",
-            "title": "Drag queen Pattie Gonia fights trademark lawsuit by Patagonia",
-            "standfirst": "The outdoor apparel firm says the performer broke an agreement not to use its branding in merchandise.",
-            "content": "The outdoor apparel firm says the performer broke an agreement not to use its branding in merchandise.",
-            "feed_position": 24,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f61/live/b9e157a0-5aa6-11f1-b277-cd187c78657d.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f61/live/b9e157a0-5aa6-11f1-b277-cd187c78657d.jpg"
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-05-30T00:03:28.803Z",
+    "updated_at": "2026-05-30T06:18:03.462Z",
     "clusters": []
   }
 }
