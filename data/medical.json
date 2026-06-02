@@ -1,17 +1,17 @@
 {
   "clinical": {
-    "updated_at": "2026-06-02T00:07:47.320Z",
+    "updated_at": "2026-06-02T07:18:46.205Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-06-02T00:07:47.320Z",
+    "updated_at": "2026-06-02T07:18:46.205Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-06-02T00:07:54.433Z",
+    "updated_at": "2026-06-02T07:18:47.484Z",
     "clusters": [
       {
-        "id": "cluster_16",
+        "id": "cluster_18",
         "coverage": 2,
         "updated_at": "Mon, 01 Jun 2026 02:50:00 GMT",
         "title": "Daily pill doubles survival time for pancreatic cancer patients",
@@ -46,9 +46,55 @@
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Tue, 02 Jun 2026 05:19:45 GMT",
+        "title": "Kids collect five bags of litter left on riverbank",
+        "neutral_headline": "Kids collect five bags of litter left on riverbank",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/cdxpw282nvzo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Tue, 02 Jun 2026 05:19:45 GMT",
+            "title": "Kids collect five bags of litter left on riverbank",
+            "standfirst": "A farmer says he is having to remove litter from his fields on a daily basis.",
+            "content": "A farmer says he is having to remove litter from his fields on a daily basis.",
+            "feed_position": 13,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbf7/live/d06f0c60-5dad-11f1-b682-cf91850925ea.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbf7/live/d06f0c60-5dad-11f1-b682-cf91850925ea.jpg"
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Tue, 02 Jun 2026 05:07:52 GMT",
+        "title": "Water voles brought back to river after 20 years",
+        "neutral_headline": "Water voles brought back to river after 20 years",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/cn0p64ey292o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Tue, 02 Jun 2026 05:07:52 GMT",
+            "title": "Water voles brought back to river after 20 years",
+            "standfirst": "About 300 water voles are released in Farnham as part of a bid to restore the species to the river.",
+            "content": "About 300 water voles are released in Farnham as part of a bid to restore the species to the river.",
+            "feed_position": 14,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0fe/live/bc2d2380-5db3-11f1-8cbd-e536833a0523.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0fe/live/bc2d2380-5db3-11f1-8cbd-e536833a0523.jpg"
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
         "updated_at": "Mon, 01 Jun 2026 22:31:42 GMT",
-        "title": "'Mornings and nights no longer exist': A day in the hottest place in India",
-        "neutral_headline": "'Mornings and nights no longer exist': A day in the hottest place in India",
+        "title": "'Mornings and nights no longer exist' at 47C: A day in the hottest place in India",
+        "neutral_headline": "'Mornings and nights no longer exist' at 47C: A day in the hottest place in India",
         "bullet_summary": [
           "Reported by BBC Science"
         ],
@@ -57,7 +103,7 @@
             "source": "BBC Science",
             "url": "https://www.bbc.com/news/articles/crmp0krp98ro?at_medium=RSS&at_campaign=rss",
             "published_at": "Mon, 01 Jun 2026 22:31:42 GMT",
-            "title": "'Mornings and nights no longer exist': A day in the hottest place in India",
+            "title": "'Mornings and nights no longer exist' at 47C: A day in the hottest place in India",
             "standfirst": "What a day in India's hottest district reveals about life on the frontline of extreme heat.",
             "content": "What a day in India's hottest district reveals about life on the frontline of extreme heat.",
             "feed_position": 23,
@@ -67,7 +113,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2568/live/4a93dda0-5d99-11f1-b199-9da46582c1b0.png"
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Mon, 01 Jun 2026 17:40:19 GMT",
         "title": "'I've requested a full hysterectomy'",
@@ -90,7 +136,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b8f/live/a335be80-5ddd-11f1-8b8c-6d33e1d5abb6.jpg"
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Mon, 01 Jun 2026 17:19:30 GMT",
         "title": "Cancer is now a story of the good, the bad and the ugly – but also hope | Devi Sridhar",
@@ -112,24 +158,15 @@
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Mon, 01 Jun 2026 17:00:23 GMT",
-        "title": "‘I was getting ready to say goodbye’: cancer patient’s hope after smart drug success",
-        "neutral_headline": "‘I was getting ready to say goodbye’: cancer patient’s hope after smart drug success",
+        "title": "Smart drug that strips cancer cells of ‘invisibility cloak’ can shrink tumours by 30%, trial shows",
+        "neutral_headline": "Smart drug that strips cancer cells of ‘invisibility cloak’ can shrink...",
         "bullet_summary": [
           "Reported by Guardian Health"
         ],
         "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/science/2026/jun/01/cancer-patient-hope-after-smart-drug-trial-success",
-            "published_at": "Mon, 01 Jun 2026 17:00:23 GMT",
-            "title": "‘I was getting ready to say goodbye’: cancer patient’s hope after smart drug success",
-            "standfirst": "Pat Brogan preparing to walk his daughter down the aisle after trial of treatment designed to stop disease from hiding• Smart drug that strips cancer cells of ‘invisibility cloak’ can shrink tumours by 30%, trial showsOne of the first patients to benefit from a pioneering smart drug that appears to melt away the “invisibility cloak” that can shield cancer cells from treatment is Pat Brogan, from Cowdenbeath, Scotland.The 68-year-old, whose tumours have shrunk by almost a third, is preparing to walk his daughter down the aisle this month and holiday in Spain with his wife, Linda – milestones he once feared he would never reach. Continue reading...",
-            "content": "Pat Brogan preparing to walk his daughter down the aisle after trial of treatment designed to stop disease from hiding• Smart drug that strips cancer cells of ‘invisibility cloak’ can shrink tumours by 30%, trial showsOne of the first patients to benefit from a pioneering smart drug that appears to melt away the “invisibility cloak” that can shield cancer cells from treatment is Pat Brogan, from Cowdenbeath, Scotland.The 68-year-old, whose tumours have shrunk by almost a third, is preparing to walk his daughter down the aisle this month and holiday in Spain with his wife, Linda – milestones he once feared he would never reach. Continue reading...",
-            "feed_position": 1
-          },
           {
             "source": "Guardian Health",
             "url": "https://www.theguardian.com/society/2026/jun/01/cancer-smart-drug-cells-invisibility-cloak-shrink-tumours-trial",
@@ -137,12 +174,21 @@
             "title": "Smart drug that strips cancer cells of ‘invisibility cloak’ can shrink tumours by 30%, trial shows",
             "standfirst": "Experimental tablet produces encouraging results in patients with world’s most common forms of disease• ‘I was getting ready to say goodbye’: patient’s hope after smart drug successA smart drug that stops cancer cells “hiding” from treatment can shrink tumours by at least 30% in six of the world’s most common forms of the disease, early trial results show.While immunotherapy treatments have improved survival rates for many patients, their effectiveness can stall or fail when tumour cells hide and then spread. Continue reading...",
             "content": "Experimental tablet produces encouraging results in patients with world’s most common forms of disease• ‘I was getting ready to say goodbye’: patient’s hope after smart drug successA smart drug that stops cancer cells “hiding” from treatment can shrink tumours by at least 30% in six of the world’s most common forms of the disease, early trial results show.While immunotherapy treatments have improved survival rates for many patients, their effectiveness can stall or fail when tumour cells hide and then spread. Continue reading...",
+            "feed_position": 1
+          },
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/science/2026/jun/01/cancer-patient-hope-after-smart-drug-trial-success",
+            "published_at": "Mon, 01 Jun 2026 17:00:23 GMT",
+            "title": "‘I was getting ready to say goodbye’: cancer patient’s hope after smart drug success",
+            "standfirst": "Pat Brogan preparing to walk his daughter down the aisle after trial of treatment designed to stop disease from hiding• Smart drug that strips cancer cells of ‘invisibility cloak’ can shrink tumours by 30%, trial showsOne of the first patients to benefit from a pioneering smart drug that appears to melt away the “invisibility cloak” that can shield cancer cells from treatment is Pat Brogan, from Cowdenbeath, Scotland.The 68-year-old, whose tumours have shrunk by almost a third, is preparing to walk his daughter down the aisle this month and holiday in Spain with his wife, Linda – milestones he once feared he would never reach. Continue reading...",
+            "content": "Pat Brogan preparing to walk his daughter down the aisle after trial of treatment designed to stop disease from hiding• Smart drug that strips cancer cells of ‘invisibility cloak’ can shrink tumours by 30%, trial showsOne of the first patients to benefit from a pioneering smart drug that appears to melt away the “invisibility cloak” that can shield cancer cells from treatment is Pat Brogan, from Cowdenbeath, Scotland.The 68-year-old, whose tumours have shrunk by almost a third, is preparing to walk his daughter down the aisle this month and holiday in Spain with his wife, Linda – milestones he once feared he would never reach. Continue reading...",
             "feed_position": 2
           }
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Mon, 01 Jun 2026 16:44:56 GMT",
         "title": "Add leaf blowers to the list of antisocial garden tools | Letters",
@@ -163,7 +209,7 @@
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Mon, 01 Jun 2026 15:00:24 GMT",
         "title": "Doctors don’t know what to do about wellness influencers but we dismiss them at our peril | Ranjana Srivastava",
@@ -184,7 +230,7 @@
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Mon, 01 Jun 2026 14:56:37 GMT",
         "title": "Watch: Moment a meteor creates sonic boom over Massachusetts",
@@ -207,7 +253,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19ca/live/84fc7a50-5dc7-11f1-89a3-d1f559421220.jpg"
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Mon, 01 Jun 2026 14:33:20 GMT",
         "title": "Wildlife Park welcomes mischievous bush dogs",
@@ -223,14 +269,14 @@
             "title": "Wildlife Park welcomes mischievous bush dogs",
             "standfirst": "Four bush dogs are the newest mischievous residents at Lake District Wildlife Park.",
             "content": "Four bush dogs are the newest mischievous residents at Lake District Wildlife Park.",
-            "feed_position": 13,
+            "feed_position": 15,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b712/live/37e454c0-5dc4-11f1-89a3-d1f559421220.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b712/live/37e454c0-5dc4-11f1-89a3-d1f559421220.jpg"
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Mon, 01 Jun 2026 14:30:39 GMT",
         "title": "Three Ebola vaccines in development amid growing outbreak fears",
@@ -247,13 +293,13 @@
             "standfirst": "IAVI, Moderna and the University of Oxford are all working on new vaccines.",
             "content": "IAVI, Moderna and the University of Oxford are all working on new vaccines.",
             "feed_position": 0,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f543/live/06c00c80-5db1-11f1-8132-9508271dd882.jpg"
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a0e/live/3cb08bc0-5e25-11f1-89a3-d1f559421220.jpg"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f543/live/06c00c80-5db1-11f1-8132-9508271dd882.jpg"
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a0e/live/3cb08bc0-5e25-11f1-89a3-d1f559421220.jpg"
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Mon, 01 Jun 2026 13:02:23 GMT",
         "title": "Midwives want to make childbirth miraculous – so what went so wrong in Nottingham? | Zoe Williams",
@@ -274,7 +320,7 @@
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Mon, 01 Jun 2026 13:00:18 GMT",
         "title": "Yoga can reduce anxiety and insomnia for people living with cancer, study finds",
@@ -295,7 +341,7 @@
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Mon, 01 Jun 2026 12:00:17 GMT",
         "title": "To die with dignity: my young husband’s final wish came with a $65,000 price tag",
@@ -316,7 +362,7 @@
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Mon, 01 Jun 2026 10:44:00 GMT",
         "title": "Night sky events to watch out for this summer",
@@ -339,7 +385,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f61/live/4ed67d70-5da6-11f1-8b8c-6d33e1d5abb6.jpg"
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Mon, 01 Jun 2026 06:59:23 GMT",
         "title": "Shared NHS patient records could cut 20,000 A&E visits a year, ministers claim",
@@ -360,7 +406,7 @@
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Mon, 01 Jun 2026 05:00:08 GMT",
         "title": "Emma Barnett: We can't ignore this disease that leaves one in 10 women like me in agony",
@@ -383,7 +429,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/840f/live/8359ef10-5b70-11f1-8b8c-6d33e1d5abb6.jpg"
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Mon, 01 Jun 2026 05:00:04 GMT",
         "title": "'Don't be too kind': Maternity staff used offensive terms to refer to pregnant women",
@@ -406,7 +452,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45d5/live/cb97d1e0-5d99-11f1-b682-cf91850925ea.jpg"
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Sun, 31 May 2026 23:21:41 GMT",
         "title": "Checks reveal young women with deadly 'silent' heart risk",
@@ -427,53 +473,11 @@
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7660/live/622d26b0-5b55-11f1-a62b-2f41c7c3a318.jpg"
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Sun, 31 May 2026 15:49:47 GMT",
-        "title": "WHO calls for community cooperation to contain Ebola outbreak in DRC",
-        "neutral_headline": "WHO calls for community cooperation to contain Ebola outbreak in DRC",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/world/2026/may/31/who-calls-for-community-cooperation-to-contain-drc-ebola-outbreak",
-            "published_at": "Sun, 31 May 2026 15:49:47 GMT",
-            "title": "WHO calls for community cooperation to contain Ebola outbreak in DRC",
-            "standfirst": "Tedros Adhanom Ghebreyesus makes appeal after protests against protocols for handling victims’ bodies in Ituri provinceContaining the Ebola outbreak in the Democratic Republic of Congo requires community cooperation and is “everybody’s business”, the World Health Organization has said.Tedros Adhanom Ghebreyesus, the organisation’s director general, made the plea on Sunday during a visit to eastern Congo where some residents have protested against stringent medical protocols for handling victims’ bodies. Continue reading...",
-            "content": "Tedros Adhanom Ghebreyesus makes appeal after protests against protocols for handling victims’ bodies in Ituri provinceContaining the Ebola outbreak in the Democratic Republic of Congo requires community cooperation and is “everybody’s business”, the World Health Organization has said.Tedros Adhanom Ghebreyesus, the organisation’s director general, made the plea on Sunday during a visit to eastern Congo where some residents have protested against stringent medical protocols for handling victims’ bodies. Continue reading...",
-            "feed_position": 9
-          }
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Sun, 31 May 2026 13:00:49 GMT",
-        "title": "Women don’t need menopause tea and meno-friendly nighties. They need doctors to take them seriously | Emma Beddington",
-        "neutral_headline": "Women don’t need menopause tea and meno-friendly nighties. They need doctors to...",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/commentisfree/2026/may/31/women-dont-need-menopause-tea-and-meno-friendly-nighties-they-need-doctors-to-take-them-seriously",
-            "published_at": "Sun, 31 May 2026 13:00:49 GMT",
-            "title": "Women don’t need menopause tea and meno-friendly nighties. They need doctors to take them seriously | Emma Beddington",
-            "standfirst": "Serious health conditions are being misdiagnosed and pregnancies are missed while the internet swells with terrible advice and meno-products. Enough!Ladies! Are you tired all the time, sweaty and hot, or headachy? Do you have a range of the vague complaints (laziness, hysteria, dissolute habits, general languishing) that would have seen you committed to a 19th-century asylum? Are you lacking in joie de vivre? Maybe you’re perimenopausal!Or maybe you’re not: being tired, hot and over everything are also symptoms of simply being alive in spring 2026. That’s not what the internet wants you to believe, though: last week, experts issued a warning about the deluge of perimenopause and menopause misinformation online and the risks that can pose to women, including unwanted pregnancies and a failure to seek a diagnosis for serious health conditions.Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...",
-            "content": "Serious health conditions are being misdiagnosed and pregnancies are missed while the internet swells with terrible advice and meno-products. Enough!Ladies! Are you tired all the time, sweaty and hot, or headachy? Do you have a range of the vague complaints (laziness, hysteria, dissolute habits, general languishing) that would have seen you committed to a 19th-century asylum? Are you lacking in joie de vivre? Maybe you’re perimenopausal!Or maybe you’re not: being tired, hot and over everything are also symptoms of simply being alive in spring 2026. That’s not what the internet wants you to believe, though: last week, experts issued a warning about the deluge of perimenopause and menopause misinformation online and the risks that can pose to women, including unwanted pregnancies and a failure to seek a diagnosis for serious health conditions.Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...",
-            "feed_position": 10
-          }
-        ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-06-02T00:07:54.433Z",
+    "updated_at": "2026-06-02T07:18:47.484Z",
     "clusters": []
   }
 }
