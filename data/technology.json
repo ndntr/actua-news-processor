@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-02T21:43:37.534Z",
+  "updated_at": "2026-06-03T00:23:36.394Z",
   "clusters": [
     {
-      "id": "cluster_29",
-      "coverage": 3,
+      "id": "cluster_43",
+      "coverage": 4,
       "updated_at": "2026-06-02T14:33:42-04:00",
       "title": "Trump signs executive order to review AI models before they’re released",
       "neutral_headline": "Trump signs executive order to review AI models before they’re released",
       "bullet_summary": [
-        "Reported by The Verge, Guardian Tech, TechCrunch"
+        "Reported by The Verge, Guardian Tech, Engadget and others"
       ],
       "items": [
         {
@@ -18,7 +18,7 @@
           "title": "Trump signs executive order to review AI models before they’re released",
           "standfirst": "President Donald Trump signed an executive order Tuesday creating a \"voluntary framework\" for AI companies to share their frontier models with the federal government before they're released \"to promote secure innovation and strengthen the cybersecurity of critical infrastructure.\" The order says the US AI industry has succeeded in part \"because we refuse to stifle this [&#8230;]",
           "content": "President Donald Trump signed an executive order Tuesday creating a \"voluntary framework\" for AI companies to share their frontier models with the federal government before they're released \"to promote secure innovation and strengthen the cybersecurity of critical infrastructure.\" The order says the US AI industry has succeeded in part \"because we refuse to stifle this innovation with overly burdensome regulation,\" but that it also recognizes new AI capabilities come with security risks. Accordingly, it directs several federal agencies to come up with a framework to \"assess the advanced cyber capabilities of AI models\" before they're releas … Read the full story at The Verge.",
-          "feed_position": 4
+          "feed_position": 6
         },
         {
           "source": "Guardian Tech",
@@ -30,19 +30,30 @@
           "feed_position": 7
         },
         {
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2185845/trump-signs-scaled-back-ai-cybersecurity-order/",
+          "published_at": "Tue, 02 Jun 2026 16:32:01 +0000",
+          "title": "Trump signs scaled-back AI cybersecurity order",
+          "standfirst": "AI models can voluntarily submitted to the government for review 30 days before release under Trump's new executive order.",
+          "content": "AI models can voluntarily submitted to the government for review 30 days before release under Trump's new executive order.",
+          "feed_position": 1,
+          "image_url": "https://www.engadget.com/img/gallery/trump-signs-scaled-back-ai-cybersecurity-order/l-intro-1780430587.jpg"
+        },
+        {
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
           "published_at": "Tue, 02 Jun 2026 16:23:08 +0000",
           "title": "Trump signs narrower executive order on AI oversight after industry objections",
           "standfirst": "After industry objections, President Trump signed a revised AI executive order requiring only voluntary prerelease government reviews of advanced models.",
           "content": "After industry objections, President Trump signed a revised AI executive order requiring only voluntary prerelease government reviews of advanced models.",
-          "feed_position": 11
+          "feed_position": 13
         }
       ],
-      "popularity_score": 3016.834573888889
+      "featured_image": "https://www.engadget.com/img/gallery/trump-signs-scaled-back-ai-cybersecurity-order/l-intro-1780430587.jpg",
+      "popularity_score": 4014.168223888889
     },
     {
-      "id": "cluster_2",
+      "id": "cluster_20",
       "coverage": 2,
       "updated_at": "Tue, 02 Jun 2026 16:55:02 -0400",
       "title": "Meta is testing a Series feature, letting select creators make episodic Reels that are placed in a dedicated hub on their profile, using both old and new Reels (Aisha Malik/TechCrunch)",
@@ -58,7 +69,7 @@
           "title": "Meta is testing a Series feature, letting select creators make episodic Reels that are placed in a dedicated hub on their profile, using both old and new Reels (Aisha Malik/TechCrunch)",
           "standfirst": "Aisha Malik / TechCrunch: Meta is testing a Series feature, letting select creators make episodic Reels that are placed in a dedicated hub on their profile, using both old and new Reels &mdash; Meta is testing a new &ldquo;Series&rdquo; feature for Reels that's designed to make it easier to keep up with serialized content on Instagram and Facebook, the company told TechCrunch.",
           "content": "Aisha Malik / TechCrunch: Meta is testing a Series feature, letting select creators make episodic Reels that are placed in a dedicated hub on their profile, using both old and new Reels &mdash; Meta is testing a new &ldquo;Series&rdquo; feature for Reels that's designed to make it easier to keep up with serialized content on Instagram and Facebook, the company told TechCrunch.",
-          "feed_position": 0,
+          "feed_position": 5,
           "image_url": "http://www.techmeme.com/260602/i58.jpg"
         },
         {
@@ -68,14 +79,14 @@
           "title": "Meta tests ‘Series’ for episodic Reels on Instagram and Facebook",
           "standfirst": "Meta told TechCrunch that it's considering ways to monetize the new feature, but didn't share specifics on what that could look like.",
           "content": "Meta told TechCrunch that it's considering ways to monetize the new feature, but didn't share specifics on what that could look like.",
-          "feed_position": 16
+          "feed_position": 18
         }
       ],
       "featured_image": "http://www.techmeme.com/260602/i58.jpg",
-      "popularity_score": 2019.1901294444444
+      "popularity_score": 2016.5237794444445
     },
     {
-      "id": "cluster_10",
+      "id": "cluster_27",
       "coverage": 2,
       "updated_at": "Tue, 02 Jun 2026 16:00:52 -0400",
       "title": "Microsoft releases ASSERT, an open-source framework that lets developers generate and run AI behavior tests using natural-language descriptions (Ram Iyer/TechCrunch)",
@@ -91,7 +102,7 @@
           "title": "Microsoft releases ASSERT, an open-source framework that lets developers generate and run AI behavior tests using natural-language descriptions (Ram Iyer/TechCrunch)",
           "standfirst": "Ram Iyer / TechCrunch: Microsoft releases ASSERT, an open-source framework that lets developers generate and run AI behavior tests using natural-language descriptions &mdash; AI researchers and labs have advanced by leaps and bounds in evaluating AI models for everything from safety and compliance to sycophancy and alignment.",
           "content": "Ram Iyer / TechCrunch: Microsoft releases ASSERT, an open-source framework that lets developers generate and run AI behavior tests using natural-language descriptions &mdash; AI researchers and labs have advanced by leaps and bounds in evaluating AI models for everything from safety and compliance to sycophancy and alignment.",
-          "feed_position": 3,
+          "feed_position": 8,
           "image_url": "http://www.techmeme.com/260602/i56.jpg"
         },
         {
@@ -101,81 +112,14 @@
           "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
           "standfirst": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations.",
           "content": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations.",
-          "feed_position": 2
+          "feed_position": 4
         }
       ],
       "featured_image": "http://www.techmeme.com/260602/i56.jpg",
-      "popularity_score": 2018.2873516666666
+      "popularity_score": 2015.6210016666666
     },
     {
-      "id": "cluster_14",
-      "coverage": 2,
-      "updated_at": "Tue, 02 Jun 2026 19:38:08 +0000",
-      "title": "Dashlane says hackers stole password vaults via a 'brute force attack'",
-      "neutral_headline": "Dashlane says hackers stole password vaults via a 'brute force attack'",
-      "bullet_summary": [
-        "The password manager giant said hackers were able to \"brute-force\" its two-factor system, allowing them to access customer accounts and download their password vaults",
-        "Reported by Engadget, TechCrunch"
-      ],
-      "items": [
-        {
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2186075/dashlane-says-hackers-stole-password-vaults-via-a-brute-force-attack/",
-          "published_at": "Tue, 02 Jun 2026 19:38:08 +0000",
-          "title": "Dashlane says hackers stole password vaults via a 'brute force attack'",
-          "standfirst": "Hackers used brute forced about 20 password vaults from Dashlane.",
-          "content": "Hackers used brute forced about 20 password vaults from Dashlane.",
-          "feed_position": 13,
-          "image_url": "https://www.engadget.com/img/gallery/dashlane-says-hackers-stole-password-vaults-via-a-brute-force-attack/l-intro-1780429003.jpg"
-        },
-        {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/02/password-manager-dashlane-says-hackers-stole-some-customers-password-vaults/",
-          "published_at": "Tue, 02 Jun 2026 15:40:11 +0000",
-          "title": "Password manager Dashlane says hackers stole some customers&#8217; password vaults",
-          "standfirst": "The password manager giant said hackers were able to \"brute-force\" its two-factor system, allowing them to access customer accounts and download their password vaults.",
-          "content": "The password manager giant said hackers were able to \"brute-force\" its two-factor system, allowing them to access customer accounts and download their password vaults.",
-          "feed_position": 14
-        }
-      ],
-      "featured_image": "https://www.engadget.com/img/gallery/dashlane-says-hackers-stole-password-vaults-via-a-brute-force-attack/l-intro-1780429003.jpg",
-      "popularity_score": 2017.9084627777777
-    },
-    {
-      "id": "cluster_24",
-      "coverage": 2,
-      "updated_at": "Tue, 02 Jun 2026 19:02:21 +0000",
-      "title": "Amazon, Ring sued for alleged privacy violations from facial recognition tools",
-      "neutral_headline": "Amazon, Ring sued for alleged privacy violations from facial recognition tools",
-      "bullet_summary": [
-        "Reported by Engadget, TechCrunch"
-      ],
-      "items": [
-        {
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2186039/amazon-ring-sued-for-alleged-privacy-violations-from-facial-recognition-tools/",
-          "published_at": "Tue, 02 Jun 2026 19:02:21 +0000",
-          "title": "Amazon, Ring sued for alleged privacy violations from facial recognition tools",
-          "standfirst": "Ring is the source of a new lawsuit that claims one of its features can capture facial data from passers by without their knowledge.",
-          "content": "Ring is the source of a new lawsuit that claims one of its features can capture facial data from passers by without their knowledge.",
-          "feed_position": 19,
-          "image_url": "https://www.engadget.com/img/gallery/amazon-ring-sued-for-alleged-privacy-violations-from-facial-recognition-tools/l-intro-1780426814.jpg"
-        },
-        {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/02/amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature/",
-          "published_at": "Tue, 02 Jun 2026 17:47:28 +0000",
-          "title": "Amazon faces class action lawsuit over Ring facial-recognition feature",
-          "standfirst": "The class action lawsuit, filed in Seattle by Virginia resident Charles Sigwalt, claims that Ring's Familiar Faces feature stores images of passersby without consent.",
-          "content": "The class action lawsuit, filed in Seattle by Virginia resident Charles Sigwalt, claims that Ring's Familiar Faces feature stores images of passersby without consent.",
-          "feed_position": 9
-        }
-      ],
-      "featured_image": "https://www.engadget.com/img/gallery/amazon-ring-sued-for-alleged-privacy-violations-from-facial-recognition-tools/l-intro-1780426814.jpg",
-      "popularity_score": 2017.3120738888888
-    },
-    {
-      "id": "cluster_27",
+      "id": "cluster_41",
       "coverage": 2,
       "updated_at": "Tue, 02 Jun 2026 14:40:03 -0400",
       "title": "Microsoft debuts MAI-Thinking-1, its first advanced reasoning AI model, trained \"from the ground up on clean data, without distillation from third-party models\" (Jay Peters/The Verge)",
@@ -192,7 +136,7 @@
           "title": "Microsoft debuts MAI-Thinking-1, its first advanced reasoning AI model, trained \"from the ground up on clean data, without distillation from third-party models\" (Jay Peters/The Verge)",
           "standfirst": "Jay Peters / The Verge: Microsoft debuts MAI-Thinking-1, its first advanced reasoning AI model, trained &ldquo;from the ground up on clean data, without distillation from third-party models&rdquo; &mdash; MAI-Thinking-1 is one of seven new models announced at Build 2026. &hellip; Microsoft announced a bunch of new in-house AI models &hellip;",
           "content": "Jay Peters / The Verge: Microsoft debuts MAI-Thinking-1, its first advanced reasoning AI model, trained &ldquo;from the ground up on clean data, without distillation from third-party models&rdquo; &mdash; MAI-Thinking-1 is one of seven new models announced at Build 2026. &hellip; Microsoft announced a bunch of new in-house AI models &hellip;",
-          "feed_position": 7,
+          "feed_position": 12,
           "image_url": "http://www.techmeme.com/260602/i52.jpg"
         },
         {
@@ -202,14 +146,14 @@
           "title": "Microsoft’s first advanced reasoning AI is here",
           "standfirst": "Microsoft announced a bunch of new in-house AI models at Build 2026, including a new \"flagship\" model: MAI-Thinking-1. It's an ambitious step into model development for Microsoft, which introduced its initial in-house models last year - before then, it had relied on OpenAI's models. The two companies recently renegotiated their deal to loosen ties. According [&#8230;]",
           "content": "Microsoft announced a bunch of new in-house AI models at Build 2026, including a new \"flagship\" model: MAI-Thinking-1. It's an ambitious step into model development for Microsoft, which introduced its initial in-house models last year - before then, it had relied on OpenAI's models. The two companies recently renegotiated their deal to loosen ties. According to Microsoft, MAI-Thinking-1 is a \"medium-sized model\" that \"matches leading models\" on \"key\" software engineering benchmarks. Microsoft says the company \"trained it from the ground up on clean data, without distillation from third-party models.\" As for other models announced today, t … Read the full story at The Verge.",
-          "feed_position": 6
+          "feed_position": 8
         }
       ],
       "featured_image": "http://www.techmeme.com/260602/i52.jpg",
-      "popularity_score": 2016.9404072222221
+      "popularity_score": 2014.2740572222222
     },
     {
-      "id": "cluster_31",
+      "id": "cluster_45",
       "coverage": 2,
       "updated_at": "Tue, 02 Jun 2026 14:30:00 -0400",
       "title": "Google adds a scam-detection feature, built on RCS, to Android 12 and later that verifies whether a call is coming from the caller's actual Android smartphone (Lily Hay Newman/Wired)",
@@ -225,7 +169,7 @@
           "title": "Google adds a scam-detection feature, built on RCS, to Android 12 and later that verifies whether a call is coming from the caller's actual Android smartphone (Lily Hay Newman/Wired)",
           "standfirst": "Lily Hay Newman / Wired: Google adds a scam-detection feature, built on RCS, to Android 12 and later that verifies whether a call is coming from the caller's actual Android smartphone &mdash; Available for Android 12 and later, the anti-scam feature is baked into Google Dialer, which sends a silent &ldquo;confirmation signal&rdquo; &hellip;",
           "content": "Lily Hay Newman / Wired: Google adds a scam-detection feature, built on RCS, to Android 12 and later that verifies whether a call is coming from the caller's actual Android smartphone &mdash; Available for Android 12 and later, the anti-scam feature is baked into Google Dialer, which sends a silent &ldquo;confirmation signal&rdquo; &hellip;",
-          "feed_position": 9,
+          "feed_position": 14,
           "image_url": "http://www.techmeme.com/260602/i50.jpg"
         },
         {
@@ -235,128 +179,183 @@
           "title": "Android Is Fighting Phone Scams With a New Feature to Prove Who’s Calling",
           "standfirst": "Available for Android 12 and later, the anti-scam feature is baked into Google Dialer, which sends a silent “confirmation signal” to ensure whoever’s calling you is who they appear to be.",
           "content": "Available for Android 12 and later, the anti-scam feature is baked into Google Dialer, which sends a silent “confirmation signal” to ensure whoever’s calling you is who they appear to be.",
-          "feed_position": 2,
+          "feed_position": 3,
           "image_url": "https://media.wired.com/photos/6a1e109306c20c623706f3b2/master/pass/GettyImages-2210115053.jpg"
         }
       ],
       "featured_image": "http://www.techmeme.com/260602/i50.jpg",
-      "popularity_score": 2016.7729072222223
+      "popularity_score": 2014.1065572222221
     },
     {
-      "id": "cluster_39",
-      "coverage": 2,
-      "updated_at": "Tue, 02 Jun 2026 14:10:01 -0400",
-      "title": "Microsoft announces Scout, an always-on enterprise AI agent built on OpenClaw, appearing as a Microsoft Teams contact to automate tasks like scheduling and more (Reece Rogers/Wired)",
-      "neutral_headline": "Meet Microsoft Scout, Your AI Coworker That Never Logs Off",
-      "bullet_summary": [
-        "Reported by TechMeme, Wired Tech"
-      ],
-      "items": [
-        {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/260602/p46#a260602p46",
-          "published_at": "Tue, 02 Jun 2026 14:10:01 -0400",
-          "title": "Microsoft announces Scout, an always-on enterprise AI agent built on OpenClaw, appearing as a Microsoft Teams contact to automate tasks like scheduling and more (Reece Rogers/Wired)",
-          "standfirst": "Reece Rogers / Wired: Microsoft announces Scout, an always-on enterprise AI agent built on OpenClaw, appearing as a Microsoft Teams contact to automate tasks like scheduling and more &mdash; Microsoft's OpenClaw-style agent appears in Teams, just like a human colleague, and automates your dull office tasks.",
-          "content": "Reece Rogers / Wired: Microsoft announces Scout, an always-on enterprise AI agent built on OpenClaw, appearing as a Microsoft Teams contact to automate tasks like scheduling and more &mdash; Microsoft's OpenClaw-style agent appears in Teams, just like a human colleague, and automates your dull office tasks.",
-          "feed_position": 13,
-          "image_url": "http://www.techmeme.com/260602/i46.jpg"
-        },
-        {
-          "source": "Wired Tech",
-          "url": "https://www.wired.com/story/meet-microsoft-scout-your-ai-coworker-that-never-logs-off/",
-          "published_at": "Tue, 02 Jun 2026 18:00:00 +0000",
-          "title": "Meet Microsoft Scout, Your AI Coworker That Never Logs Off",
-          "standfirst": "Microsoft’s OpenClaw-style agent appears in Teams, just like a human colleague, and automates your dull office tasks.",
-          "content": "Microsoft’s OpenClaw-style agent appears in Teams, just like a human colleague, and automates your dull office tasks.",
-          "feed_position": 1,
-          "image_url": "https://media.wired.com/photos/6a1e1d3c70c7c8b915b99802/master/pass/Microsoft-Debuts-Scout-a-Workplace-AI-Agent-Gear.jpg"
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/260602/i46.jpg",
-      "popularity_score": 2016.4398516666668
-    },
-    {
-      "id": "cluster_42",
-      "coverage": 2,
-      "updated_at": "Tue, 02 Jun 2026 18:02:44 +0000",
-      "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
-      "neutral_headline": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
-      "bullet_summary": [
-        "Reported by TechCrunch, The Verge"
-      ],
-      "items": [
-        {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
-          "published_at": "Tue, 02 Jun 2026 18:02:44 +0000",
-          "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
-          "standfirst": "Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system.",
-          "content": "Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system.",
-          "feed_position": 5
-        },
-        {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/news/939713/microsoft-scout-assistant-openclaw",
-          "published_at": "2026-06-02T14:00:00-04:00",
-          "title": "Microsoft Scout is a new AI personal assistant built on OpenClaw",
-          "standfirst": "Much like Google, Microsoft is launching its own version of OpenClaw. Microsoft Scout is an always-on assistant that integrates into Microsoft 365 apps like Outlook, OneDrive, and Microsoft Teams, allowing businesses to assign a virtual assistant to employees to help with organizing calendars, expense reporting, email drafts, and much more. Unlike Copilot that lives inside [&#8230;]",
-          "content": "Much like Google, Microsoft is launching its own version of OpenClaw. Microsoft Scout is an always-on assistant that integrates into Microsoft 365 apps like Outlook, OneDrive, and Microsoft Teams, allowing businesses to assign a virtual assistant to employees to help with organizing calendars, expense reporting, email drafts, and much more. Unlike Copilot that lives inside Microsoft 365 apps, Microsoft Scout can see and do a lot more. \"This is a personal assistant, it's the first real personal assistant we've offered customers,\" explains Omar Shahine, corporate vice president of Microsoft Scout, in an interview with The Verge. \"I think it's … Read the full story at The Verge.",
-          "feed_position": 8
-        }
-      ],
-      "popularity_score": 2016.3184627777778
-    },
-    {
-      "id": "cluster_43",
+      "id": "cluster_8",
       "coverage": 1,
-      "updated_at": "Tue, 02 Jun 2026 18:00:46 +0000",
-      "title": "Google announces deepfake call detection for Android, new AirDrop device support",
-      "neutral_headline": "Google announces deepfake call detection for Android, new AirDrop device support",
+      "updated_at": "Tue, 02 Jun 2026 22:51:10 +0000",
+      "title": "Microsoft plans Linux tools and an RTX Spark desktop for Windows developers",
+      "neutral_headline": "Microsoft plans Linux tools and an RTX Spark desktop for Windows developers",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/06/google-announces-deepfake-call-detection-for-android-new-airdrop-device-support/",
-          "published_at": "Tue, 02 Jun 2026 18:00:46 +0000",
-          "title": "Google announces deepfake call detection for Android, new AirDrop device support",
-          "standfirst": "Google's June Android feature drop includes more scam detection, more AirDrop, and yes, more AI.",
-          "content": "We're expecting Android 17 to begin rolling out later this month, but first, Google has a batch of updates for the wider Android device ecosystem. As usual, some of the new features are limited to specific devices, and others require using Google's apps. But if you don't mind the latter, you can get automated protection from the growing threat of deepfake phone scams. According to Google, \"impersonation fraud\" is one of the most common types of financial scams. The FTC tracked almost $3 billion in losses from such scams during 2024, and the improvements in AI voice cloning tools more recently are making the schemes easier to pull off. The voice models are becoming so capable that it can be difficult to identify a fake caller even when an AI is imitating someone you talk to every day. Google's solution is an expansion of the system it debuted last month for verified financial calls. Now, a similar feature will work with anyone in your contacts. Many of the most effective deepfake scams involve spoofing a contact's number, which makes the call look more legitimate when your phone lights up. Victims of these scams are then greeted by an accurate re-creation of the person's voice spinning a yarn that involves an urgent need for cash.Read full article Comments",
-          "feed_position": 0,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-1152x648.jpg"
+          "url": "https://arstechnica.com/gadgets/2026/06/microsoft-plans-linux-tools-and-an-rtx-spark-desktop-for-windows-developers/",
+          "published_at": "Tue, 02 Jun 2026 22:51:10 +0000",
+          "title": "Microsoft plans Linux tools and an RTX Spark desktop for Windows developers",
+          "standfirst": "One hardware announcement and several software highlights from Microsoft Build.",
+          "content": "Microsoft's Build developer conference kicked off today, and as with almost everything the company has done in the last few years, Microsoft's opening keynote focused overwhelmingly on AI and other closely related technologies. There's Microsoft Scout, an OpenClaw-based \"Autopilot\" agent that can hook into Microsoft 365 data to perform tasks for users; several new AI models; an expanded preview of \"Codename MDASH,\" which is a \"multi-model agentic scanning system\" meant to detect and fix software vulnerabilities. A few of those announcements stood out to us as particularly interesting, either for esoteric technical reasons or because they seem like they may have some utility for those who aren't spending their every waking moment using generative AI tools. (Microsoft's recent efforts to make its flagship operating system faster, more reliable, more useful, and less annoying didn't really come up, but there have been plenty of other announcements on that front lately.) On the hardware front, we didn't get any updates for existing Surface devices (not counting yesterday's Surface Laptop Ultra announcement), but we did get something new: the Surface RTX Spark Dev Box is \"a compact developer PC\" built around Nvidia's new RTX Spark chip with up to 128GB of built-in memory.Read full article Comments",
+          "feed_position": 1,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/SRSDB-Desktop-1152x648.jpg"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-1152x648.jpg",
-      "popularity_score": 382.285685
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/SRSDB-Desktop-1152x648.jpg",
+      "popularity_score": 359.459335
     },
     {
       "id": "cluster_5",
       "coverage": 1,
-      "updated_at": "Tue, 02 Jun 2026 20:47:54 +0000",
-      "title": "Microsoft&#039;s Project Solara is an Android OS designed for agents instead of apps",
-      "neutral_headline": "Microsoft&#039;s Project Solara is an Android OS designed for agents instead of apps",
+      "updated_at": "Tue, 02 Jun 2026 23:05:31 +0000",
+      "title": "Male bowerbirds hope to dazzle females with bright human-made items",
+      "neutral_headline": "Male bowerbirds hope to dazzle females with bright human-made items",
       "bullet_summary": [
-        "Reported by Ars Technica Main"
+        "Reported by Ars Technica"
       ],
       "items": [
         {
-          "source": "Ars Technica Main",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/06/male-bowerbirds-prefer-colorful-human-items-to-decorate-bowers/",
+          "published_at": "Tue, 02 Jun 2026 23:05:31 +0000",
+          "title": "Male bowerbirds hope to dazzle females with bright human-made items",
+          "standfirst": "\"It’s a reminder of how human activity is changing the natural world in unanticipated ways.”",
+          "content": "Male bowerbirds are notorious for their complex mating rituals. They build intricate tunnels out of twigs—the bowers from which they get their name—and then decorate them with random colorful items gleaned from the environment. When a female of the species shows up to check out a male's fancy digs, the male tosses his shiniest objects in her direction and shows off his plumage in hopes of impressing her. According to a new paper published in the journal Royal Society Open Science by University of Exeter scientists, urbanization and the associated growing availability of brightly colored human-made items have had a significant impact on courtship display behavior in Australian male bowerbirds. There are marked differences in the choice of decorations for bowerbirds in urban versus rural environments. This might be because urban birds simply have greater access to the items than their rural counterparts, since birds in both environments show a marked preference for human items. The University of Exeter researchers monitored the bowers of 61 male great bowerbirds in two sites in Australia's northern Queensland—the rural Dreghorn Cattle Station and the urban Townsville City—during the prime breeding season (September–December 2023). Then they photographed the bower decorations in situ from above in both visible and UV light (bowerbirds can see in the UV range), using an umbrella to create diffuse lighting.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/bower1-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/bower1-1152x648.jpg",
+      "popularity_score": 351.6985016666667
+    },
+    {
+      "id": "cluster_23",
+      "coverage": 1,
+      "updated_at": "Tue, 02 Jun 2026 20:47:54 +0000",
+      "title": "Microsoft's Project Solara is an Android OS designed for agents instead of apps",
+      "neutral_headline": "Microsoft's Project Solara is an Android OS designed for agents instead of apps",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
           "url": "https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/",
           "published_at": "Tue, 02 Jun 2026 20:47:54 +0000",
-          "title": "Microsoft&#039;s Project Solara is an Android OS designed for agents instead of apps",
+          "title": "Microsoft's Project Solara is an Android OS designed for agents instead of apps",
           "standfirst": "Microsoft missed the boat on apps, so get ready for agents.",
           "content": "Microsoft has been deeply committed to the growth of generative AI technology in recent years through its now-fragmented partnership with OpenAI. At Build 2026, the company remains all-in on AI, and it's looking toward the future with a new software platform. The new Android-based OS is called Project Solara, and Microsoft says Solara is designed to run agents instead of apps. Project Solara is not something you'll have to worry about killing your apps anytime soon. It's limited to a few pieces of concept hardware and software that are awaiting the magical agents of the future. The vision is for Solara to run on myriad specialized devices with interfaces generated on the spot, and it's all powered by the explosive intelligence of models that Microsoft and others insist will soon exist. According to Microsoft, Solara is a chip-to-cloud platform intended to free agents from reliance on single interfaces. Much of Microsoft's messaging around AI is speculative and self-serving, but the company rightly points out that new computing form factors have always required specialization, and that process is complex and expensive. The shift to mobile computing, for example, tripped Microsoft up multiple times as it fell behind on app availability, security, and long-term support.Read full article Comments",
-          "feed_position": 0,
+          "feed_position": 2,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/00_Title-Page-scaled-1-1152x648.png"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/00_Title-Page-scaled-1-1152x648.png",
-      "popularity_score": 364.07124055555556
+      "popularity_score": 341.40489055555554
     },
     {
-      "id": "cluster_48",
+      "id": "cluster_38",
+      "coverage": 1,
+      "updated_at": "Tue, 02 Jun 2026 19:02:27 +0000",
+      "title": "Feds failing in bid to take a supercomputer from a climate research center",
+      "neutral_headline": "Feds failing in bid to take a supercomputer from a climate research center",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/06/judge-blocks-part-of-trump-admins-effort-to-hurt-colorado-research-center/",
+          "published_at": "Tue, 02 Jun 2026 19:02:27 +0000",
+          "title": "Feds failing in bid to take a supercomputer from a climate research center",
+          "standfirst": "The National Center for Atmospheric Research won't be losing its supercomputer.",
+          "content": "In December, the Trump administration abruptly announced it would shut down the National Center for Atmospheric Research (NCAR), a Boulder, Colorado-based facility that helps researchers perform studies of weather, climate, atmospheric chemistry, and more. The news came as a shock, given that the government had never identified serious deficiencies in the management of NCAR and its associated supercomputing center in Wyoming. Nevertheless, the government ordered the University Consortium for Atmospheric Research (UCAR), which manages NCAR on behalf of the National Science Foundation, to help it prepare to transfer the Wyoming to a different operator. UCAR sued the government and, on Monday, won a preliminary injunction that places the transfer of the facility on hold. Is that your final decision? NCAR is what is termed a \"Federally-Funded Research and Development Center\" meant to support researchers in the academic community. Rather than having its own research agenda, it provides facilities, equipment, and expertise to support projects that are too large or complex for researchers to pursue on their own. NCAR has been around since the early 1960s and has become a critical resource for the global atmospheric science community.Read full article Comments",
+          "feed_position": 5,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2252393364-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2252393364-1152x648.jpg",
+      "popularity_score": 320.64739055555555
+    },
+    {
+      "id": "cluster_26",
+      "coverage": 1,
+      "updated_at": "Tue, 02 Jun 2026 20:17:41 +0000",
+      "title": "Amazon-owned Ring should pay Americans for scanning their faces, lawsuit says",
+      "neutral_headline": "Amazon-owned Ring should pay Americans for scanning their faces, lawsuit says",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/06/amazon-owned-ring-should-pay-americans-for-scanning-their-faces-lawsuit-says/",
+          "published_at": "Tue, 02 Jun 2026 20:17:41 +0000",
+          "title": "Amazon-owned Ring should pay Americans for scanning their faces, lawsuit says",
+          "standfirst": "Lawsuit: Ring cameras scan guests and passersby and use AI to identify faces.",
+          "content": "A lawsuit against Amazon is seeking financial damages for millions of Americans whose faces may have been recorded by Ring cameras since the Familiar Faces feature was rolled out late last year. Plaintiff Charles Sigwalt yesterday filed a class action suit that aims to represent all people in the US \"who had their facial recognition data collected, retained, and otherwise used by the Familiar Faces feature created and implemented by Defendant.\" The lawsuit will seek \"far\" more than $5 million, but the $5 million figure was given in the complaint because US district courts have jurisdiction for civil actions seeking at least that amount. \"Here, there are millions of Americans who have walked by Ring cameras which have activated the Familiar Faces feature... the damages in this action far exceed $5,000,000.00 when calculating the statutory damages that may be owed to each Class member in addition to the actual damages caused by the aggregate loss of value of biometric information,\" the lawsuit said.Read full article Comments",
+          "feed_position": 3,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/amazon-ring-cameras-1152x648-1780428574.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/amazon-ring-cameras-1152x648-1780428574.jpg",
+      "popularity_score": 318.90127944444447
+    },
+    {
+      "id": "cluster_29",
+      "coverage": 1,
+      "updated_at": "Tue, 02 Jun 2026 19:54:14 +0000",
+      "title": "If I had a hammer... it might actually be a rhino tooth",
+      "neutral_headline": "If I had a hammer... it might actually be a rhino tooth",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/06/experiments-reveal-that-neanderthals-used-rhino-teeth-as-hammers/",
+          "published_at": "Tue, 02 Jun 2026 19:54:14 +0000",
+          "title": "If I had a hammer... it might actually be a rhino tooth",
+          "standfirst": "Neanderthals had some wild stuff in their toolkits.",
+          "content": "One way archaeologists learn how ancient people, including Neanderthals, did things is to attempt to do those things themselves, a process called experimental archaeology. Normally, that involves making stone tools, butchering deer, or distilling birch tar. But in a new study, it meant doing very destructive things to teeth from one of the world’s most carefully protected animals. That's because the archeologists suspected that Neanderthals once used rhino teeth as tools. By using the teeth to make stone tools, the researchers demonstrated that Neanderthals probably did the same thing, adding to what we know about the wide range of items in their toolkits. We need to hit some rhino teeth with rocks for science Some Neanderthal archaeological sites in Europe and Asia seem to have many more rhinoceros teeth lying around than you’d expect. We know Neanderthals hunted a now-extinct species of rhinoceros in Europe and eastern Asia, but the people who had inhabited these sites looked like they had been collecting rhino teeth for some reason.Read full article Comments",
+          "feed_position": 4,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/rhinoteethimg4-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/rhinoteethimg4-1152x648.jpg",
+      "popularity_score": 308.5104461111111
+    },
+    {
+      "id": "cluster_47",
+      "coverage": 1,
+      "updated_at": "Tue, 02 Jun 2026 18:19:06 +0000",
+      "title": "Mathematicians warn of AI threats to profession as industry encroaches",
+      "neutral_headline": "Mathematicians warn of AI threats to profession as industry encroaches",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/06/mathematicians-warn-of-ai-threats-to-profession-as-industry-encroaches/",
+          "published_at": "Tue, 02 Jun 2026 18:19:06 +0000",
+          "title": "Mathematicians warn of AI threats to profession as industry encroaches",
+          "standfirst": "International Mathematical Union endorses warning about tech industry influence.",
+          "content": "Mathematicians warned against rising tech industry influence in a declaration describing the many challenges that AI poses to mathematics research. The timing of the declaration comes two weeks after OpenAI publicized one of its AI models as having disproved an 80-year-old mathematical conjecture in geometry. The declaration was developed by a working group of 16 researchers over eight months following a conference held at Leiden University in the Netherlands in September 2025. Published on June 2, 2026, the resulting Leiden Declaration on Artificial Intelligence and Mathematics has been endorsed by the International Mathematical Union—the international non-governmental organization that hosts conferences and oversees the most prestigious prizes in mathematics such as the Fields Medal. “Mathematicians should find it quite striking that tech companies are suddenly interested in their work,” said Kevin Buzzard, a mathematician at Imperial College London, in a statement. “The Leiden Declaration is a well-thought-through response to what is currently happening, as AI continues to disrupt this space.”Read full article Comments",
+          "feed_position": 6,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Mathematics-formula-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Mathematics-formula-1152x648.jpg",
+      "popularity_score": 301.9248905555556
+    },
+    {
+      "id": "cluster_57",
       "coverage": 1,
       "updated_at": "Tue, 02 Jun 2026 17:58:29 +0000",
       "title": "The truth lies in the past in Silo S3 trailer",
@@ -372,63 +371,39 @@
           "title": "The truth lies in the past in Silo S3 trailer",
           "standfirst": "\"We do not know when it will be safe to go outside. We only know that day is not this day.\"",
           "content": "In April, we got a short teaser for the third season of Silo, the critically acclaimed Apple TV series based on the trilogy by novelist Hugh Howey, which hinted at a mysterious origin story dating back centuries. Apple TV just released the full trailer, and it looks like our heroine is again facing conflict and danger because she just keeps asking so many inconvenient questions. As previously reported, Silo is set in a self-sustaining underground city inhabited by a community whose recorded history dates back only 140 years. The outside is a toxic hellscape that is only visible on big screens in the silo’s topmost level. The second season expanded Silo‘s world to incorporate the survivors in the second Silo 17; everyone else died in a revolt to escape to the surface. We discovered that there are 50 silos in all. Meanwhile, another revolution was brewing in Juliette’s (Rebecca Ferguson) original Silo 18 against Holland (Tim Robbins). And even more secrets were revealed. In the season finale, Juliette returned to her silo and warned the residents not to leave, but she and Holland ended up locked in the incinerator just as it was being fired up. The final scene was a flashback, showing a woman questioning a congressman in Washington, DC, about possible retaliation after the US dropped a dirty bomb on Iran. And that brings us to S3. Per the official premise:Read full article Comments",
-          "feed_position": 1,
+          "feed_position": 8,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/silo1-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/silo1-1152x648.jpg",
-      "popularity_score": 351.24762944444444
+      "popularity_score": 278.5812794444444
     },
     {
-      "id": "cluster_23",
+      "id": "cluster_52",
       "coverage": 1,
-      "updated_at": "Tue, 02 Jun 2026 19:02:27 +0000",
-      "title": "Feds failing in bid to take a supercomputer from a climate research center",
-      "neutral_headline": "Feds failing in bid to take a supercomputer from a climate research center",
+      "updated_at": "Tue, 02 Jun 2026 18:00:46 +0000",
+      "title": "Android phones will soon be able to detect spoofed calls and impersonation scams",
+      "neutral_headline": "Android phones will soon be able to detect spoofed calls and impersonation scams",
       "bullet_summary": [
-        "Reported by Ars Technica Main"
+        "Reported by Ars Technica"
       ],
       "items": [
         {
-          "source": "Ars Technica Main",
-          "url": "https://arstechnica.com/science/2026/06/judge-blocks-part-of-trump-admins-effort-to-hurt-colorado-research-center/",
-          "published_at": "Tue, 02 Jun 2026 19:02:27 +0000",
-          "title": "Feds failing in bid to take a supercomputer from a climate research center",
-          "standfirst": "The National Center for Atmospheric Research won't be losing its supercomputer.",
-          "content": "In December, the Trump administration abruptly announced it would shut down the National Center for Atmospheric Research (NCAR), a Boulder, Colorado-based facility that helps researchers perform studies of weather, climate, atmospheric chemistry, and more. The news came as a shock, given that the government had never identified serious deficiencies in the management of NCAR and its associated supercomputing center in Wyoming. Nevertheless, the government ordered the University Consortium for Atmospheric Research (UCAR), which manages NCAR on behalf of the National Science Foundation, to help it prepare to transfer the Wyoming to a different operator. UCAR sued the government and, on Monday, won a preliminary injunction that places the transfer of the facility on hold. Is that your final decision? NCAR is what is termed a \"Federally-Funded Research and Development Center\" meant to support researchers in the academic community. Rather than having its own research agenda, it provides facilities, equipment, and expertise to support projects that are too large or complex for researchers to pursue on their own. NCAR has been around since the early 1960s and has become a critical resource for the global atmospheric science community.Read full article Comments",
-          "feed_position": 3,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2252393364-1152x648.jpg"
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/06/google-announces-deepfake-call-detection-for-android-new-airdrop-device-support/",
+          "published_at": "Tue, 02 Jun 2026 18:00:46 +0000",
+          "title": "Android phones will soon be able to detect spoofed calls and impersonation scams",
+          "standfirst": "Google's June Android feature drop includes more scam detection, more AirDrop, and yes, more AI.",
+          "content": "We're expecting Android 17 to begin rolling out later this month, but first, Google has a batch of updates for the wider Android device ecosystem. As usual, some of the new features are limited to specific devices, and others require using Google's apps. But if you don't mind the latter, you can get automated protection from the growing threat of deepfake phone scams. According to Google, \"impersonation fraud\" is one of the most common types of financial scams. The FTC tracked almost $3 billion in losses from such scams during 2024, and the improvements in AI voice cloning tools more recently are making the schemes easier to pull off. The voice models are becoming so capable that it can be difficult to identify a fake caller even when an AI is imitating someone you talk to every day. Google's solution is an expansion of the system it debuted last month for verified financial calls. Now, a similar feature will work with anyone in your contacts. Many of the most effective deepfake scams involve spoofing a contact's number, which makes the call look more legitimate when your phone lights up. Victims of these scams are then greeted by an accurate re-creation of the person's voice spinning a yarn that involves an urgent need for cash.Read full article Comments",
+          "feed_position": 7,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-1152x648.jpg"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2252393364-1152x648.jpg",
-      "popularity_score": 343.31374055555557
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-1152x648.jpg",
+      "popularity_score": 276.619335
     },
     {
-      "id": "cluster_9",
-      "coverage": 1,
-      "updated_at": "Tue, 02 Jun 2026 20:17:41 +0000",
-      "title": "Amazon-owned Ring should pay Americans for scanning their faces, lawsuit says",
-      "neutral_headline": "Amazon-owned Ring should pay Americans for scanning their faces, lawsuit says",
-      "bullet_summary": [
-        "Reported by Ars Technica Main"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica Main",
-          "url": "https://arstechnica.com/tech-policy/2026/06/amazon-owned-ring-should-pay-americans-for-scanning-their-faces-lawsuit-says/",
-          "published_at": "Tue, 02 Jun 2026 20:17:41 +0000",
-          "title": "Amazon-owned Ring should pay Americans for scanning their faces, lawsuit says",
-          "standfirst": "Lawsuit: Ring cameras scan guests and passersby and use AI to identify faces.",
-          "content": "A lawsuit against Amazon is seeking financial damages for millions of Americans whose faces may have been recorded by Ring cameras since the Familiar Faces feature was rolled out late last year. Plaintiff Charles Sigwalt yesterday filed a class action suit that aims to represent all people in the US \"who had their facial recognition data collected, retained, and otherwise used by the Familiar Faces feature created and implemented by Defendant.\" The lawsuit will seek \"far\" more than $5 million, but the $5 million figure was given in the complaint because US district courts have jurisdiction for civil actions seeking at least that amount. \"Here, there are millions of Americans who have walked by Ring cameras which have activated the Familiar Faces feature... the damages in this action far exceed $5,000,000.00 when calculating the statutory damages that may be owed to each Class member in addition to the actual damages caused by the aggregate loss of value of biometric information,\" the lawsuit said.Read full article Comments",
-          "feed_position": 1,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/amazon-ring-cameras-1152x648-1780428574.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/amazon-ring-cameras-1152x648-1780428574.jpg",
-      "popularity_score": 341.56762944444444
-    },
-    {
-      "id": "cluster_49",
+      "id": "cluster_59",
       "coverage": 1,
       "updated_at": "Tue, 02 Jun 2026 17:10:56 +0000",
       "title": "Number of suspected Ebola cases falls by hundreds as testing ramps up",
@@ -444,159 +419,15 @@
           "title": "Number of suspected Ebola cases falls by hundreds as testing ramps up",
           "standfirst": "The number of cases falls from 1,100 to 437 with increased testing.",
           "content": "The estimated size of the Ebola outbreak in the Democratic Republic of the Congo has fallen by hundreds of cases as outbreak response efforts have ramped up and increased testing has ruled out illnesses. On Tuesday, a representative for the World Health Organization confirmed to Reuters that Congolese authorities are now reporting 437 cases in the DRC, including 321 confirmed cases and 116 suspected. That's a significant difference from the case count the WHO relayed Friday, which totaled 1,041 cases, including 135 confirmed cases and 906 suspected. Over the weekend, the director-general of the Africa Centres for Disease Control and Prevention, Jean Kaseya, also wrote in an op-ed that there were more than 1,100 suspected cases. The number of deaths has also been lowered to 48 confirmed deaths. On Friday, the WHO had reported 241 deaths, including 18 confirmed and 223 suspected.Read full article Comments",
-          "feed_position": 2,
+          "feed_position": 9,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2278723900-1024x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2278723900-1024x648.jpg",
-      "popularity_score": 333.4551294444444
+      "popularity_score": 260.78877944444446
     },
     {
-      "id": "cluster_12",
-      "coverage": 1,
-      "updated_at": "Tue, 02 Jun 2026 19:54:14 +0000",
-      "title": "If I had a hammer... it might actually be a rhino tooth",
-      "neutral_headline": "If I had a hammer... it might actually be a rhino tooth",
-      "bullet_summary": [
-        "Reported by Ars Technica Main"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica Main",
-          "url": "https://arstechnica.com/science/2026/06/experiments-reveal-that-neanderthals-used-rhino-teeth-as-hammers/",
-          "published_at": "Tue, 02 Jun 2026 19:54:14 +0000",
-          "title": "If I had a hammer... it might actually be a rhino tooth",
-          "standfirst": "Neanderthals had some wild stuff in their toolkits.",
-          "content": "One way archaeologists learn how ancient people, including Neanderthals, did things is to attempt to do those things themselves, a process called experimental archaeology. Normally, that involves making stone tools, butchering deer, or distilling birch tar. But in a new study, it meant doing very destructive things to teeth from one of the world’s most carefully protected animals. That's because the archeologists suspected that Neanderthals once used rhino teeth as tools. By using the teeth to make stone tools, the researchers demonstrated that Neanderthals probably did the same thing, adding to what we know about the wide range of items in their toolkits. We need to hit some rhino teeth with rocks for science Some Neanderthal archaeological sites in Europe and Asia seem to have many more rhinoceros teeth lying around than you’d expect. We know Neanderthals hunted a now-extinct species of rhinoceros in Europe and eastern Asia, but the people who had inhabited these sites looked like they had been collecting rhino teeth for some reason.Read full article Comments",
-          "feed_position": 2,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/rhinoteethimg4-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/rhinoteethimg4-1152x648.jpg",
-      "popularity_score": 331.1767961111111
-    },
-    {
-      "id": "cluster_35",
-      "coverage": 1,
-      "updated_at": "Tue, 02 Jun 2026 18:19:06 +0000",
-      "title": "Mathematicians warn of AI threats to profession as industry encroaches",
-      "neutral_headline": "Mathematicians warn of AI threats to profession as industry encroaches",
-      "bullet_summary": [
-        "Reported by Ars Technica Main"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica Main",
-          "url": "https://arstechnica.com/tech-policy/2026/06/mathematicians-warn-of-ai-threats-to-profession-as-industry-encroaches/",
-          "published_at": "Tue, 02 Jun 2026 18:19:06 +0000",
-          "title": "Mathematicians warn of AI threats to profession as industry encroaches",
-          "standfirst": "International Mathematical Union endorses warning about tech industry influence.",
-          "content": "Mathematicians warned against rising tech industry influence in a declaration describing the many challenges that AI poses to mathematics research. The timing of the declaration comes two weeks after OpenAI publicized one of its AI models as having disproved an 80-year-old mathematical conjecture in geometry. The declaration was developed by a working group of 16 researchers over eight months following a conference held at Leiden University in the Netherlands in September 2025. Published on June 2, 2026, the resulting Leiden Declaration on Artificial Intelligence and Mathematics has been endorsed by the International Mathematical Union—the international non-governmental organization that hosts conferences and oversees the most prestigious prizes in mathematics such as the Fields Medal. “Mathematicians should find it quite striking that tech companies are suddenly interested in their work,” said Kevin Buzzard, a mathematician at Imperial College London, in a statement. “The Leiden Declaration is a well-thought-through response to what is currently happening, as AI continues to disrupt this space.”Read full article Comments",
-          "feed_position": 4,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Mathematics-formula-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Mathematics-formula-1152x648.jpg",
-      "popularity_score": 324.59124055555554
-    },
-    {
-      "id": "cluster_55",
-      "coverage": 1,
-      "updated_at": "Tue, 02 Jun 2026 16:19:34 +0000",
-      "title": "Why a Neo Geo port of Doom is functionally impossible",
-      "neutral_headline": "Why a Neo Geo port of Doom is functionally impossible",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gaming/2026/06/why-a-neo-geo-port-of-doom-is-functionally-impossible/",
-          "published_at": "Tue, 02 Jun 2026 16:19:34 +0000",
-          "title": "Why a Neo Geo port of Doom is functionally impossible",
-          "standfirst": "Sprite-based graphics architecture makes first-person 3D a challenge.",
-          "content": "Here at Ars, we've taken pleasure in reporting on versions of Doom that run on everything from wireless earbuds and printers to Windows' notepad.exe and even inside Doom itself. So when we hear that a piece of game-playing hardware from the '90s (or later) can't run Doom, our ears perk up. That hardware is the Neo Geo, an early '90s game console that players of a certain age will remember for its eye-watering launch price and its relatively strong pixel-pushing power for the time. Despite that relative power, though, a fascinating new video from Modern Vintage Gamer argues that the Neo Geo's architecture makes it particularly ill-suited for a port of id's famously easy-to-port game. At first glance, the Neo Geo seems like it should be up to the task of running Doom. The Motorola 68000 CPU inside the console is the same one powering the Commodore Amiga, which has seen quite a few homebrew Doom ports over the years.Read full article Comments",
-          "feed_position": 3,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/neogeo-1152x648-1780415918.png"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/neogeo-1152x648-1780415918.png",
-      "popularity_score": 317.59901833333333
-    },
-    {
-      "id": "cluster_56",
-      "coverage": 1,
-      "updated_at": "Tue, 02 Jun 2026 16:05:48 +0000",
-      "title": "In a surprise launch, China debuts another big rocket designed for reusability",
-      "neutral_headline": "In a surprise launch, China debuts another big rocket designed for reusability",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/06/another-falcon-9-lookalike-joins-chinas-growing-roster-of-rockets/",
-          "published_at": "Tue, 02 Jun 2026 16:05:48 +0000",
-          "title": "In a surprise launch, China debuts another big rocket designed for reusability",
-          "standfirst": "There are sound engineering reasons to use the same approach SpaceX uses with the Falcon 9.",
-          "content": "The race to field China's first reusable launch vehicle is far less predictable than a similar competition that played out in the United States a decade ago. There was never any real question of which company would develop and demonstrate the first reusable orbital-class rocket in the United States. SpaceX landed a Falcon 9 booster for the first time in 2015, and a little more than a year later, it launched it back into space. It took nearly 10 years for anyone else to do the same. Blue Origin celebrated its first orbital-class booster landing last November with the successful recovery of one of its New Glenn boosters, followed by a relaunch of the same rocket in April. In China, several companies and state-owned enterprises have a realistic shot at landing an orbital-class booster stage this year. For a time, it seemed like China's new crop of privately funded launch companies might have the advantage in accomplishing the first landing of an orbital-class booster. But Monday's launch of China's Long March 12B rocket, backed by the nearly unrestricted resources of the country's vast state-owned aerospace enterprise, suggests the industry's legacy players may now have a leg up.Read full article Comments",
-          "feed_position": 4,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2279200144-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2279200144-1152x648.jpg",
-      "popularity_score": 307.3695738888889
-    },
-    {
-      "id": "cluster_66",
-      "coverage": 1,
-      "updated_at": "Tue, 02 Jun 2026 14:49:05 +0000",
-      "title": "Slate Auto gets serious about privacy for its bare-bones EV pickup",
-      "neutral_headline": "Slate Auto gets serious about privacy for its bare-bones EV pickup",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/06/slate-says-its-electric-pickup-will-never-track-you/",
-          "published_at": "Tue, 02 Jun 2026 14:49:05 +0000",
-          "title": "Slate Auto gets serious about privacy for its bare-bones EV pickup",
-          "standfirst": "With no embedded modem, the Slate Truck is the antithesis of today's connected cars.",
-          "content": "Slate Auto may be one of the most interesting companies in the American automotive industry right now. Based in Warsaw, Indiana, the startup is taking a completely different approach to building an electric pickup truck. Forget Ford's clean-sheet \"skunk works\" story; the Slate Truck's design has been stripped down to just 600 parts and components. That minimalism includes the interior, where you'll find two seats and manually wound windows, but no infotainment system. If you're one of Ars' many readers who want an electric car that won't track you, Slate might have what you're looking for. It's not an entirely analog experience, though; a Slate smartphone app can manage settings, change drive mode, and provide range and charging info. But only when connected locally to the car—there's no embedded modem, so forget about remote access. And the company says that while it may use data from the app to improve its products, it won't sell that data. That's according to a new report from SAE International's (and sometime Ars contributor) Roberto Baldwin. \"We are building it around ownership value,\" Slate said. \"We collect data to make ownership better, not to turn the owner into the product. The app will collect data only when it directly contributes to enabling or improving a customer experience. Privacy is paramount. For Slate, privacy is not a compliance footnote. It is part of the product experience.\"Read full article Comments",
-          "feed_position": 6,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Blank-Slate-Headlight-Detail_web-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Blank-Slate-Headlight-Detail_web-1152x648.jpg",
-      "popularity_score": 302.0909627777778
-    },
-    {
-      "id": "cluster_64",
-      "coverage": 1,
-      "updated_at": "Tue, 02 Jun 2026 15:16:13 +0000",
-      "title": "Blue Origin has set a very aggressive return-to-flight timeline",
-      "neutral_headline": "Blue Origin has set a very aggressive return-to-flight timeline",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/06/blue-origin-vows-to-fly-its-new-glenn-rocket-before-the-end-of-this-year/",
-          "published_at": "Tue, 02 Jun 2026 15:16:13 +0000",
-          "title": "Blue Origin has set a very aggressive return-to-flight timeline",
-          "standfirst": "\"The propellant farm, oxygen, liquid hydrogen, and LNG tanks are all in good shape.\"",
-          "content": "The chief executive of Blue Origin, whose large New Glenn rocket exploded spectacularly less than a week ago at the company's launch site in Florida, vowed Monday night that the company would launch again before the end of 2026. Writing on the social media site X, Blue Origin's Dave Limp said the company had been able to complete a preliminary survey of the LC-36A launch site. \"Now that we’ve had access to the pad and integration facility, we can share a bit of good news,\" Limp said. \"The propellant farm, oxygen, liquid hydrogen and LNG tanks are all in good shape. This is good luck because these are very long lead items. The water tower is also good.\"Read full article Comments",
-          "feed_position": 5,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/newglenn1-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/newglenn1-1152x648.jpg",
-      "popularity_score": 296.543185
-    },
-    {
-      "id": "cluster_78",
+      "id": "cluster_88",
       "coverage": 1,
       "updated_at": "Tue, 02 Jun 2026 12:00:54 +0000",
       "title": "Impulse Space raises $500 million as orbital maneuvering race heats up",
@@ -612,63 +443,39 @@
           "title": "Impulse Space raises $500 million as orbital maneuvering race heats up",
           "standfirst": "\"The market's going to continue to find exciting new things.\"",
           "content": "Getting around space, as it turns out, is kind of a big deal. On Tuesday, Impulse Space, a company dedicated to improving space mobility, announced it has raised $500 million in Series D funding. Since it was founded five years ago by SpaceX veteran Tom Mueller, the company has now raised more than $1 billion. \"Timing is everything,\" Mueller said in an interview about the new round of funding. By this, he means the company has found its way into a lot of markets.Read full article Comments",
-          "feed_position": 8,
+          "feed_position": 15,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Helios-kick-stage-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Helios-kick-stage-1152x648.jpg",
-      "popularity_score": 286.2879072222222
+      "popularity_score": 163.62155722222224
     },
     {
-      "id": "cluster_74",
+      "id": "cluster_77",
       "coverage": 1,
-      "updated_at": "Tue, 02 Jun 2026 13:29:00 +0000",
-      "title": "Trump's DOE restarts energy rebate program with dumb conditions",
-      "neutral_headline": "Trump's DOE restarts energy rebate program with dumb conditions",
+      "updated_at": "Tue, 02 Jun 2026 14:49:05 +0000",
+      "title": "Slate Auto gets serious about privacy for its bare-bones EV pickup",
+      "neutral_headline": "Slate Auto gets serious about privacy for its bare-bones EV pickup",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/06/trumps-doe-restarts-energy-rebate-program-with-dumb-conditions/",
-          "published_at": "Tue, 02 Jun 2026 13:29:00 +0000",
-          "title": "Trump's DOE restarts energy rebate program with dumb conditions",
-          "standfirst": "Switching from fossil fuels to electricity for heating is no longer covered.",
-          "content": "Federal energy efficiency rebate programs will no longer cover a switch from fossil fuels to electricity for heating, according to long-awaited guidance from the Department of Energy. The department published an update on how it will implement consumer programs with $8.8 billion in funding. The new provisions include eliminating use of diversity, equity and inclusion considerations, among other changes. This follows legal challenges after President Donald Trump issued an executive order last year, upon returning to office, canceling the release of funds from Biden’s Inflation Reduction Act, including rebates for home energy efficiency. A coalition of states successfully sued to restore the funding, obtaining an injunction in March 2025.Read full article Comments",
-          "feed_position": 7,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/hvac-1152x648.jpg"
+          "url": "https://arstechnica.com/cars/2026/06/slate-says-its-electric-pickup-will-never-track-you/",
+          "published_at": "Tue, 02 Jun 2026 14:49:05 +0000",
+          "title": "Slate Auto gets serious about privacy for its bare-bones EV pickup",
+          "standfirst": "With no embedded modem, the Slate Truck is the antithesis of today's connected cars.",
+          "content": "Slate Auto may be one of the most interesting companies in the American automotive industry right now. Based in Warsaw, Indiana, the startup is taking a completely different approach to building an electric pickup truck. Forget Ford's clean-sheet \"skunk works\" story; the Slate Truck's design has been stripped down to just 600 parts and components. That minimalism includes the interior, where you'll find two seats and manually wound windows, but no infotainment system. If you're one of Ars' many readers who want an electric car that won't track you, Slate might have what you're looking for. It's not an entirely analog experience, though; a Slate smartphone app can manage settings, change drive mode, and provide range and charging info. But only when connected locally to the car—there's no embedded modem, so forget about remote access. And the company says that while it may use data from the app to improve its products, it won't sell that data. That's according to a new report from SAE International's (and sometime Ars contributor) Roberto Baldwin. \"We are building it around ownership value,\" Slate said. \"We collect data to make ownership better, not to turn the owner into the product. The app will collect data only when it directly contributes to enabling or improving a customer experience. Privacy is paramount. For Slate, privacy is not a compliance footnote. It is part of the product experience.\"Read full article Comments",
+          "feed_position": 13,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Blank-Slate-Headlight-Detail_web-1152x648.jpg"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/hvac-1152x648.jpg",
-      "popularity_score": 274.75624055555556
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Blank-Slate-Headlight-Detail_web-1152x648.jpg",
+      "popularity_score": 159.42461277777778
     },
     {
-      "id": "cluster_99",
-      "coverage": 1,
-      "updated_at": "Mon, 01 Jun 2026 22:18:09 +0000",
-      "title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system.",
-      "neutral_headline": "AI costs how much? GitHub Copilot users react to new usage-based pricing system.",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
-          "published_at": "Mon, 01 Jun 2026 22:18:09 +0000",
-          "title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system.",
-          "standfirst": "Some report burning through their whole monthly \"AI credit\" allotment in a single day.",
-          "content": "In April, GitHub announced that it was moving subscribers from request-based billing to a usage-based model for its AI-powered Copilot service. As that new pricing model goes into effect today, many GitHub Copilot users are reporting some extreme sticker shock as they realize just how quickly their previous \"normal\" usage is burning through their newly limited monthly allotment of AI credits. Across social media and forums, many Copilot users are sharing personal statistics showing how just a few hours of AI usage can now account for a large chunk of their new monthly subscription caps. For some users, it reportedly took less than a day to use up a month's usage quota. That's a big change from previous months, when GitHub Copilot subscribers were allocated a certain number of \"requests\" and \"premium requests\" based on their payment tier. GitHub said that the old system meant that \"a quick chat question and a multi-hour autonomous coding session [could] cost the user the same amount,\" forcing Copilot itself to \"absorb much of the escalating inference cost behind that usage.\" Indeed, some Copilot users have been sharing estimates from GitHub's own tool showing that their previous monthly usage would rack up bills in the thousands of dollars under the new pricing plan.Read full article Comments",
-          "feed_position": 9,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2254059922-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2254059922-1152x648.jpg",
-      "popularity_score": 258
-    },
-    {
-      "id": "cluster_103",
+      "id": "cluster_113",
       "coverage": 1,
       "updated_at": "Mon, 01 Jun 2026 20:44:37 +0000",
       "title": "Hackers duped Meta AI support chatbot to steal celebrity Instagram accounts",
@@ -684,7 +491,7 @@
           "title": "Hackers duped Meta AI support chatbot to steal celebrity Instagram accounts",
           "standfirst": "Pricey Instagram handles were stolen and resold before Meta patched the exploit.",
           "content": "Meta’s AI support chatbot proved unusually helpful to hackers looking to steal and resell notable Instagram accounts—the hackers simply asking the bot to change the accounts’ associated email addresses while using VPN to mask their true locations. Videos featuring the “shockingly easy” exploit have been circulating among Telegram groups for hackers and security researchers, according to 404 Media. The exploit allowed hackers to take over and flip valuable Instagram accounts worth hundreds of thousands of dollars on the gray market before Meta implemented an emergency patch on May 29. The Barack Obama White House account and the Chief Master Sergeant of Space Force’s account also posted pro-Iranian images and messages while they were temporarily compromised. Attackers simply had to use a VPN to approximately match their location to the target Instagram account’s region, begin a password reset process, and then ask Meta’s AI support chatbot to change the email address associated with the account, according to 404 Media. It’s a very straightforward prompt injection attack.Read full article Comments",
-          "feed_position": 12,
+          "feed_position": 19,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Meta-AI-logo-1152x648.jpg"
         }
       ],
@@ -692,7 +499,7 @@
       "popularity_score": 158
     },
     {
-      "id": "cluster_102",
+      "id": "cluster_112",
       "coverage": 1,
       "updated_at": "Mon, 01 Jun 2026 20:58:34 +0000",
       "title": "Moderna gets $50 million to develop mRNA Ebola vaccine against Bundibugyo",
@@ -708,7 +515,7 @@
           "title": "Moderna gets $50 million to develop mRNA Ebola vaccine against Bundibugyo",
           "standfirst": "Amid a raging Ebola outbreak, officials \"urgently accelerate development\" of vaccines.",
           "content": "The global health organization Coalition for Epidemic Preparedness Innovations (CEPI) announced Monday that it will \"urgently accelerate development\" of three vaccine candidates against Bundibugyo ebolavirus (BDBV), pledging a little over $60 million in the effort to extinguish an outbreak currently raging out of control in the Democratic Republic of the Congo. Under the plans, CEPI has committed up to $50 million to US-based Moderna for preclinical development and Phase 1 clinical testing of its mRNA-based BDBV vaccine candidate. The funding will simultaneously allow the company to ramp up manufacturing capabilities and ready large-scale Phase 2/3 trials in the event the vaccine makes it through early testing. The vaccine will use Moderna's mRNA vaccine platform that allowed for rapid development of a COVID-19 vaccine during the pandemic. \"[W]e believe our mRNA platform can play an important role in responding rapidly to emerging infectious disease threats,\" Moderna CEO Stéphane Bancel said in a statement Monday. \" We will move with urgency and scientific rigor to support the response and help bring a potential vaccine closer to the communities that need it most.\"Read full article Comments",
-          "feed_position": 11,
+          "feed_position": 18,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2278375280-1-1024x648.jpg"
         }
       ],
@@ -718,125 +525,125 @@
     {
       "id": "cluster_109",
       "coverage": 1,
-      "updated_at": "Mon, 01 Jun 2026 17:41:47 +0000",
-      "title": "From 15 hours to one minute: How AI/ML is speeding up GM's development",
-      "neutral_headline": "From 15 hours to one minute: How AI/ML is speeding up GM's development",
+      "updated_at": "Mon, 01 Jun 2026 22:18:09 +0000",
+      "title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system.",
+      "neutral_headline": "AI costs how much? GitHub Copilot users react to new usage-based pricing system.",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/06/from-15-hours-to-one-minute-how-ai-ml-is-speeding-up-gms-development/",
-          "published_at": "Mon, 01 Jun 2026 17:41:47 +0000",
-          "title": "From 15 hours to one minute: How AI/ML is speeding up GM's development",
-          "standfirst": "From CFD and FEA to digital twins, carmaking now involves a lot of virtualization.",
-          "content": "When we met Sterling Anderson in 2024, he was the chief product officer of Aurora, the self-driving startup he cofounded in 2016 after several years at Tesla. Just over a year ago, though, Anderson decamped from the startup world for something a little more established, taking over as chief product officer at General Motors, the nation's largest automaker. Since then, he's had a good view of how GM is entering what he calls the third epoch of engineering and design. \"There was a time when humans looked at birds and were like, 'OK, those wings seem to work pretty well. Let's go and design something that looks like them.'\" Anderson said, describing the first age of engineering. \"And they just kind of iterated their way to something that was marginally feasible.\" The first few hundred years of inventing \"was this era of highly empirical iterative design development and engineering,\" he said. \"And by that I mean humans largely started with what we know or had seen, built prototypes of something that kind of looked like it and maybe tweaked some things, hoping to make it perform better, tested it, iterated, and kind of went through this slow guess-and-check process until we got to something that marginally worked.\"Read full article Comments",
-          "feed_position": 17,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/CoSim-SG1-1152x648.jpeg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/CoSim-SG1-1152x648.jpeg",
-      "popularity_score": 154
-    },
-    {
-      "id": "cluster_111",
-      "coverage": 1,
-      "updated_at": "Mon, 01 Jun 2026 17:17:55 +0000",
-      "title": "Allegedly trashing Airbnbs to test robots puts startup in legal trouble",
-      "neutral_headline": "Allegedly trashing Airbnbs to test robots puts startup in legal trouble",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/06/allegedly-trashing-airbnbs-to-test-robots-puts-startup-in-legal-trouble/",
-          "published_at": "Mon, 01 Jun 2026 17:17:55 +0000",
-          "title": "Allegedly trashing Airbnbs to test robots puts startup in legal trouble",
-          "standfirst": "Lawsuit seeks $12,000 from startup that allegedly damaged home in robot tests.",
-          "content": "A San Francisco robotics startup is being taken to court by an Airbnb host who claims the company’s “robotic prototype testing” caused extensive damage to his home. In the lawsuit filed on May 26, 2026, Sean Donovan is seeking more than $12,000 in damages from the Bay Area startup The Bot Company. The court case was first reported by SFGate, which also interviewed Donovan about the unprecedented mess he encountered after the startup’s employees supposedly rented his former childhood home through Airbnb. The first clue that the guests were not typical tech startup employees needing a temporary crash pad came when Donovan was taking care of the trash during the guests’ stay. He told SFGate about seeing “bundles of wires” throughout the house and a robot he described as a 6-foot-tall “Roomba with treads” that also resembled the cybernetic Borg from the Star Trek universe.Read full article Comments",
-          "feed_position": 18,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2248542588-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2248542588-1152x648.jpg",
-      "popularity_score": 153
-    },
-    {
-      "id": "cluster_107",
-      "coverage": 1,
-      "updated_at": "Mon, 01 Jun 2026 18:52:19 +0000",
-      "title": "Florida sues OpenAI, Sam Altman after multiple ChatGPT-linked murders",
-      "neutral_headline": "Florida sues OpenAI, Sam Altman after multiple ChatGPT-linked murders",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/",
-          "published_at": "Mon, 01 Jun 2026 18:52:19 +0000",
-          "title": "Florida sues OpenAI, Sam Altman after multiple ChatGPT-linked murders",
-          "standfirst": "Altman has an \"utter disregard\" for human lives, Florida AG says.",
-          "content": "On Monday, Florida became the first state to sue OpenAI over ChatGPT's allegedly dangerous design. In a complaint filed in state court, Florida Attorney General James Uthmeier accused OpenAI and its CEO, Sam Altman, of prioritizing profits over the safety of Floridians. The civil lawsuit comes after Florida opened an unrelated criminal probe into OpenAI, following a ChatGPT-linked mass shooting where two people were killed at Florida State University. In statements, OpenAI has insisted that ChatGPT isn't responsible for the FSU shooting, merely providing factual information, but Uthmeier does not seem to agree. In his complaint, Uthmeier noted that Florida has now been blindsided by two violent events where suspects used ChatGPT to assist in planning.Read full article Comments",
+          "url": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
+          "published_at": "Mon, 01 Jun 2026 22:18:09 +0000",
+          "title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system.",
+          "standfirst": "Some report burning through their whole monthly \"AI credit\" allotment in a single day.",
+          "content": "In April, GitHub announced that it was moving subscribers from request-based billing to a usage-based model for its AI-powered Copilot service. As that new pricing model goes into effect today, many GitHub Copilot users are reporting some extreme sticker shock as they realize just how quickly their previous \"normal\" usage is burning through their newly limited monthly allotment of AI credits. Across social media and forums, many Copilot users are sharing personal statistics showing how just a few hours of AI usage can now account for a large chunk of their new monthly subscription caps. For some users, it reportedly took less than a day to use up a month's usage quota. That's a big change from previous months, when GitHub Copilot subscribers were allocated a certain number of \"requests\" and \"premium requests\" based on their payment tier. GitHub said that the old system meant that \"a quick chat question and a multi-hour autonomous coding session [could] cost the user the same amount,\" forcing Copilot itself to \"absorb much of the escalating inference cost behind that usage.\" Indeed, some Copilot users have been sharing estimates from GitHub's own tool showing that their previous monthly usage would rack up bills in the thousands of dollars under the new pricing plan.Read full article Comments",
           "feed_position": 16,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2265991640-1024x648.jpg"
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2254059922-1152x648.jpg"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2265991640-1024x648.jpg",
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2254059922-1152x648.jpg",
       "popularity_score": 148
     },
     {
-      "id": "cluster_104",
+      "id": "cluster_65",
       "coverage": 1,
-      "updated_at": "Mon, 01 Jun 2026 20:13:09 +0000",
-      "title": "Microsoft's Surface Laptop Ultra looks like its first true MacBook Pro competitor",
-      "neutral_headline": "Microsoft's Surface Laptop Ultra looks like its first true MacBook Pro competitor",
+      "updated_at": "Tue, 02 Jun 2026 16:19:34 +0000",
+      "title": "Why a Neo Geo port of Doom is functionally impossible",
+      "neutral_headline": "Why a Neo Geo port of Doom is functionally impossible",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/06/microsoft-surface-laptop-ultra-will-be-among-the-first-nvidia-rtx-spark-arm-pcs/",
-          "published_at": "Mon, 01 Jun 2026 20:13:09 +0000",
-          "title": "Microsoft's Surface Laptop Ultra looks like its first true MacBook Pro competitor",
-          "standfirst": "It's Microsoft's least-weird attempt at a high-end mobile workstation.",
-          "content": "Dell, Asus, Lenovo, HP, MSI, Acer, and Gigabyte are among the PC makers that are designing systems around Nvidia's RTX Spark, Nvidia's new Arm-based chip for Windows PCs. But the flagship RTX Spark PC may be from the same company that makes Windows: the new Microsoft Surface Laptop Ultra is a high-end RTX Spark system that will offer up to 128GB of unified memory for \"creators, developers, and AI builders.\" Microsoft says the Laptop Ultra will be available \"later this year\" but didn't discuss any specific pricing or configuration options. The Laptop Ultra will slot in above the regular Qualcomm Snapdragon-based Surface Laptops in Microsoft's lineup. Microsoft has made high-end Surface devices with more powerful CPUs and GPUs before, but to date, they've also come with convertible designs that may have limited their appeal. The first was the old Surface Book, with its fully detachable screen and bendy-straw hinge that didn't close all the way; the second was the Surface Laptop Studio, with its chunky design and sliding screen. The Laptop Ultra is Microsoft's first attempt to follow the MacBook Pro formula: it's like the other Surface Laptops, just with more power.Read full article Comments",
-          "feed_position": 13,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/surface-laptop-ultra-1152x648.jpeg"
+          "url": "https://arstechnica.com/gaming/2026/06/why-a-neo-geo-port-of-doom-is-functionally-impossible/",
+          "published_at": "Tue, 02 Jun 2026 16:19:34 +0000",
+          "title": "Why a Neo Geo port of Doom is functionally impossible",
+          "standfirst": "Sprite-based graphics architecture makes first-person 3D a challenge.",
+          "content": "Here at Ars, we've taken pleasure in reporting on versions of Doom that run on everything from wireless earbuds and printers to Windows' notepad.exe and even inside Doom itself. So when we hear that a piece of game-playing hardware from the '90s (or later) can't run Doom, our ears perk up. That hardware is the Neo Geo, an early '90s game console that players of a certain age will remember for its eye-watering launch price and its relatively strong pixel-pushing power for the time. Despite that relative power, though, a fascinating new video from Modern Vintage Gamer argues that the Neo Geo's architecture makes it particularly ill-suited for a port of id's famously easy-to-port game. At first glance, the Neo Geo seems like it should be up to the task of running Doom. The Motorola 68000 CPU inside the console is the same one powering the Commodore Amiga, which has seen quite a few homebrew Doom ports over the years.Read full article Comments",
+          "feed_position": 10,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/neogeo-1152x648-1780415918.png"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/surface-laptop-ultra-1152x648.jpeg",
-      "popularity_score": 145
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/neogeo-1152x648-1780415918.png",
+      "popularity_score": 144.93266833333334
     },
     {
-      "id": "cluster_106",
+      "id": "cluster_66",
       "coverage": 1,
-      "updated_at": "Mon, 01 Jun 2026 19:07:58 +0000",
-      "title": "New Trump vaccine order based on \"no credible scientific evidence,\" doctors say",
-      "neutral_headline": "New Trump vaccine order based on \"no credible scientific evidence,\" doctors say",
+      "updated_at": "Tue, 02 Jun 2026 16:05:48 +0000",
+      "title": "In a surprise launch, China debuts another big rocket designed for reusability",
+      "neutral_headline": "In a surprise launch, China debuts another big rocket designed for reusability",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/health/2026/06/doctors-blast-trump-for-doubling-down-on-vaccine-policy-modeled-after-denmark/",
-          "published_at": "Mon, 01 Jun 2026 19:07:58 +0000",
-          "title": "New Trump vaccine order based on \"no credible scientific evidence,\" doctors say",
-          "standfirst": "Even Danish researchers think it's bizarre.",
-          "content": "The American Medical Association came out swinging this weekend at an executive order President Trump signed Friday that reaffirms intentions to model US childhood vaccine recommendations after those of Denmark—a country with universal healthcare, less diversity, and a population about the size of Maryland's. “There is no credible scientific evidence to support,\" such a change, AMA President Bobby Mukkamala said in a statement. The current vaccine schedule \"is built on decades of rigorous research and real-world data, and it is designed to protect children in the US when they are most vulnerable based on our nation’s disease burden,\" he said. The plan to align federal childhood vaccine recommendations with Denmark's was first revealed by anti-vaccine Health Secretary Robert F. Kennedy Jr. in January. The overhaul would see the total number of recommended immunizations drop from 17 to 11, walking back recommendations for shots against rotavirus, COVID-19, influenza, meningococcal disease, hepatitis A, and hepatitis B. It stemmed from a December executive order by Trump to align US vaccine recommendations with the \"best practices from peer, developed countries.\"Read full article Comments",
-          "feed_position": 15,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2236338199-1152x648.jpg"
+          "url": "https://arstechnica.com/space/2026/06/another-falcon-9-lookalike-joins-chinas-growing-roster-of-rockets/",
+          "published_at": "Tue, 02 Jun 2026 16:05:48 +0000",
+          "title": "In a surprise launch, China debuts another big rocket designed for reusability",
+          "standfirst": "There are sound engineering reasons to use the same approach SpaceX uses with the Falcon 9.",
+          "content": "The race to field China's first reusable launch vehicle is far less predictable than a similar competition that played out in the United States a decade ago. There was never any real question of which company would develop and demonstrate the first reusable orbital-class rocket in the United States. SpaceX landed a Falcon 9 booster for the first time in 2015, and a little more than a year later, it launched it back into space. It took nearly 10 years for anyone else to do the same. Blue Origin celebrated its first orbital-class booster landing last November with the successful recovery of one of its New Glenn boosters, followed by a relaunch of the same rocket in April. In China, several companies and state-owned enterprises have a realistic shot at landing an orbital-class booster stage this year. For a time, it seemed like China's new crop of privately funded launch companies might have the advantage in accomplishing the first landing of an orbital-class booster. But Monday's launch of China's Long March 12B rocket, backed by the nearly unrestricted resources of the country's vast state-owned aerospace enterprise, suggests the industry's legacy players may now have a leg up.Read full article Comments",
+          "feed_position": 11,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2279200144-1152x648.jpg"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2236338199-1152x648.jpg",
-      "popularity_score": 139
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2279200144-1152x648.jpg",
+      "popularity_score": 144.70322388888889
     },
     {
-      "id": "cluster_101",
+      "id": "cluster_75",
+      "coverage": 1,
+      "updated_at": "Tue, 02 Jun 2026 15:16:13 +0000",
+      "title": "Blue Origin has set a very aggressive return-to-flight timeline",
+      "neutral_headline": "Blue Origin has set a very aggressive return-to-flight timeline",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/06/blue-origin-vows-to-fly-its-new-glenn-rocket-before-the-end-of-this-year/",
+          "published_at": "Tue, 02 Jun 2026 15:16:13 +0000",
+          "title": "Blue Origin has set a very aggressive return-to-flight timeline",
+          "standfirst": "\"The propellant farm, oxygen, liquid hydrogen, and LNG tanks are all in good shape.\"",
+          "content": "The chief executive of Blue Origin, whose large New Glenn rocket exploded spectacularly less than a week ago at the company's launch site in Florida, vowed Monday night that the company would launch again before the end of 2026. Writing on the social media site X, Blue Origin's Dave Limp said the company had been able to complete a preliminary survey of the LC-36A launch site. \"Now that we’ve had access to the pad and integration facility, we can share a bit of good news,\" Limp said. \"The propellant farm, oxygen, liquid hydrogen and LNG tanks are all in good shape. This is good luck because these are very long lead items. The water tower is also good.\"Read full article Comments",
+          "feed_position": 12,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/newglenn1-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/newglenn1-1152x648.jpg",
+      "popularity_score": 143.876835
+    },
+    {
+      "id": "cluster_83",
+      "coverage": 1,
+      "updated_at": "Tue, 02 Jun 2026 13:29:00 +0000",
+      "title": "Trump's DOE restarts energy rebate program with dumb conditions",
+      "neutral_headline": "Trump's DOE restarts energy rebate program with dumb conditions",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/06/trumps-doe-restarts-energy-rebate-program-with-dumb-conditions/",
+          "published_at": "Tue, 02 Jun 2026 13:29:00 +0000",
+          "title": "Trump's DOE restarts energy rebate program with dumb conditions",
+          "standfirst": "Switching from fossil fuels to electricity for heating is no longer covered.",
+          "content": "Federal energy efficiency rebate programs will no longer cover a switch from fossil fuels to electricity for heating, according to long-awaited guidance from the Department of Energy. The department published an update on how it will implement consumer programs with $8.8 billion in funding. The new provisions include eliminating use of diversity, equity and inclusion considerations, among other changes. This follows legal challenges after President Donald Trump issued an executive order last year, upon returning to office, canceling the release of funds from Biden’s Inflation Reduction Act, including rebates for home energy efficiency. A coalition of states successfully sued to restore the funding, obtaining an injunction in March 2025.Read full article Comments",
+          "feed_position": 14,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/hvac-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/hvac-1152x648.jpg",
+      "popularity_score": 142.08989055555554
+    },
+    {
+      "id": "cluster_111",
       "coverage": 1,
       "updated_at": "Mon, 01 Jun 2026 21:38:55 +0000",
       "title": "Why cats prefer silver vine to catnip and other May highlights",
@@ -852,59 +659,11 @@
           "title": "Why cats prefer silver vine to catnip and other May highlights",
           "standfirst": "Prehistoric mining in the Pyrenees, a new species of tiny blue octopus, slapstick acoustics, and more.",
           "content": "It’s a regrettable reality that there is never enough time to cover all the interesting scientific stories we come across. So every month, we highlight a handful of the best stories that nearly slipped through the cracks. May's list includes the discovery of a possible prehistoric mining site in the Pyrenees; a new species of tiny blue octopus; why cats seem to prefer silver vine to catnip; and why political polarization might behave like a phase transition, among other noteworthy stories. Prehistoric mining in the Pyrenees Credit: IPHES-CERCA High in the eastern Pyrenees is a prehistoric cave, excavated between 2021 and 2023. Based on analysis of artifacts uncovered at the site, a team of Spanish archaeologists believes this may have served as an ancient copper smelting spot, with far more frequent occupation by humans than previously thought. The researchers described these preliminary findings in a paper published in the journal Frontiers in Environmental Archaeology.Read full article Comments",
-          "feed_position": 10,
+          "feed_position": 17,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/pyrenees1-1152x648-1778337693.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/pyrenees1-1152x648-1778337693.jpg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_105",
-      "coverage": 1,
-      "updated_at": "Mon, 01 Jun 2026 19:49:09 +0000",
-      "title": "Dozens of Red Hat packages backdoored through its official NPM channel",
-      "neutral_headline": "Dozens of Red Hat packages backdoored through its official NPM channel",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/",
-          "published_at": "Mon, 01 Jun 2026 19:49:09 +0000",
-          "title": "Dozens of Red Hat packages backdoored through its official NPM channel",
-          "standfirst": "Anyone who has downloaded affected Red Hat packages should investigate immediately.",
-          "content": "Official Red Hat NPM accounts have been compromised and used to push a malicious worm that spreads from machine to machine, where it pilfers sensitive credentials in hopes of stealing yet more confidential data, researchers said. The supply-chain attack began Monday and remained active at the time this post went live, according to researchers at security firm Aikido. It’s the result of the threat actor responsible for the hack taking control of @redhat-cloud-services, a legitimate channel in the npm repository that’s reserved for official Red Hat packages. As such, the channel is widely trusted by developers who rely on Red Hat cloud services. The vicious cycle of today’s supply-chain attacks It’s unclear precisely how the threat actor took control of the namespace, but it almost certainly involved the compromise of credentials required to access it, possibly through a previous supply-chain attack. More than 30 packages seem to be affected.Read full article Comments",
-          "feed_position": 14,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/redhat-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/redhat-1152x648.jpg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_112",
-      "coverage": 1,
-      "updated_at": "Mon, 01 Jun 2026 17:02:22 +0000",
-      "title": "AMD extends Socket AM5 support through at least 2029; AM4 refuses to die",
-      "neutral_headline": "AMD extends Socket AM5 support through at least 2029; AM4 refuses to die",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/06/amd-extends-socket-am5-support-through-at-least-2029-am4-refuses-to-die/",
-          "published_at": "Mon, 01 Jun 2026 17:02:22 +0000",
-          "title": "AMD extends Socket AM5 support through at least 2029; AM4 refuses to die",
-          "standfirst": "The 5800X3D returns at $349, while the 7700X3D debuts at $329.",
-          "content": "One of the benefits of building an AMD PC is that the company has historically supported its processor sockets for longer than Intel does, allowing the same motherboard (and RAM kit, if you want) to power your PC through multiple CPU upgrades. Today at Computex, AMD announced chips for the current AM5 socket and the improbably-still-around AM4 socket that will help extend their lives a little further, a nod to just how expensive it has become to build a new PC or perform a major upgrade these days. The first of these announcements is something we knew about already: the relaunch of 2022's Ryzen 7 5800X3D, the first of AMD's commercially available 3D V-Cache processors. Dubbed a \"10th Anniversary Edition\" in reference to how long Socket AM4 has been around, the re-released chip is slower than regular 8-core Ryzen 5000-series CPUs in general productivity tasks but comes with 64MB of extra L3 cache that disproportionately benefits games. If you're trying to use a high-end GPU with an AM4 motherboard, it could help keep your CPU from being a performance bottleneck. The 5800X3D (re-)releases on June 25 for a suggested retail price of $349, which is less than it currently costs to buy secondhand. As for the current AM5 socket, AMD officially announced that it was extending its support to at least 2029—it was originally planned to last until 2025, then until \"2027+,\" so that means between two and four years of additional support, depending on how you're counting.Read full article Comments",
-          "feed_position": 19,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/IMG_0491-1152x648.jpeg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/IMG_0491-1152x648.jpeg",
       "popularity_score": 133
     }
   ]
