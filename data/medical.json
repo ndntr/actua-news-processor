@@ -1,17 +1,40 @@
 {
   "clinical": {
-    "updated_at": "2026-06-05T20:45:52.308Z",
+    "updated_at": "2026-06-06T00:00:34.519Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-06-05T20:45:52.308Z",
+    "updated_at": "2026-06-06T00:00:34.520Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-06-05T20:46:01.405Z",
+    "updated_at": "2026-06-06T00:00:37.125Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Fri, 05 Jun 2026 21:35:55 GMT",
+        "title": "Astronauts return to ISS after sheltering during air leak repair attempt",
+        "neutral_headline": "Astronauts return to ISS after sheltering during air leak repair attempt",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Fri, 05 Jun 2026 21:35:55 GMT",
+            "title": "Astronauts return to ISS after sheltering during air leak repair attempt",
+            "standfirst": "Russian attempt to repair tunnel area sparks safe-haven procedure for five other astronauts onboard.",
+            "content": "Russian attempt to repair tunnel area sparks safe-haven procedure for five other astronauts onboard.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e535/live/411ae920-60f6-11f1-bb63-4f1168d17ecf.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e535/live/411ae920-60f6-11f1-bb63-4f1168d17ecf.jpg"
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Fri, 05 Jun 2026 19:36:30 GMT",
         "title": "Trump to meet AI leaders to discuss US investment in their companies",
@@ -28,14 +51,14 @@
             "title": "Trump to meet AI leaders to discuss US investment in their companies",
             "standfirst": "The US president said on Friday he expects to meet the leaders of top AI companies next week.",
             "content": "The US president said on Friday he expects to meet the leaders of top AI companies next week.",
-            "feed_position": 18,
+            "feed_position": 19,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d3c/live/e9f73f00-610d-11f1-9134-bfd933b9750c.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d3c/live/e9f73f00-610d-11f1-9134-bfd933b9750c.jpg"
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Fri, 05 Jun 2026 17:57:28 GMT",
         "title": "Former Channel 4 News anchor Jon Snow diagnosed with Alzheimer’s",
@@ -56,7 +79,7 @@
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Fri, 05 Jun 2026 17:57:00 GMT",
         "title": "Are you feeling overwhelmed?",
@@ -79,7 +102,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bdb/live/9aa8b010-60cb-11f1-b682-cf91850925ea.jpg"
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Fri, 05 Jun 2026 17:45:53 GMT",
         "title": "Ronan Keating on the toll of being in Boyzone",
@@ -100,29 +123,6 @@
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93cd/live/a22319c0-60c1-11f1-8b8c-6d33e1d5abb6.jpg"
-      },
-      {
-        "id": "cluster_4",
-        "coverage": 1,
-        "updated_at": "Fri, 05 Jun 2026 16:14:36 GMT",
-        "title": "Astronauts return to ISS after sheltering during air leak repair attempt",
-        "neutral_headline": "Astronauts return to ISS after sheltering during air leak repair attempt",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Fri, 05 Jun 2026 16:14:36 GMT",
-            "title": "Astronauts return to ISS after sheltering during air leak repair attempt",
-            "standfirst": "Russian attempt to repair tunnel area sparks safe-haven procedure for five other astronauts onboard.",
-            "content": "Russian attempt to repair tunnel area sparks safe-haven procedure for five other astronauts onboard.",
-            "feed_position": 0,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e535/live/411ae920-60f6-11f1-bb63-4f1168d17ecf.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e535/live/411ae920-60f6-11f1-bb63-4f1168d17ecf.jpg"
       },
       {
         "id": "cluster_5",
@@ -480,7 +480,7 @@
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-06-05T20:46:01.405Z",
+    "updated_at": "2026-06-06T00:00:37.125Z",
     "clusters": []
   }
 }
