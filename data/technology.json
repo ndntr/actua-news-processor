@@ -1,92 +1,118 @@
 {
-  "updated_at": "2026-06-10T14:18:52.225Z",
+  "updated_at": "2026-06-10T21:22:39.949Z",
   "clusters": [
     {
-      "id": "cluster_73",
-      "coverage": 4,
-      "updated_at": "Tue, 09 Jun 2026 22:28:29 GMT",
-      "title": "Anthropic releases ‘safe’ version of Claude Mythos AI model to public",
-      "neutral_headline": "Anthropic releases ‘safe’ version of Claude Mythos AI model to public",
+      "id": "cluster_32",
+      "coverage": 3,
+      "updated_at": "Wed, 10 Jun 2026 13:55:00 -0400",
+      "title": "Cybersecurity researchers complain that Claude Fable's guardrails are too strict, rejecting \"innocuous tasks\" like reading blog posts or performing code reviews (Lorenzo Franceschi-Bicchierai/TechCrunch)",
+      "neutral_headline": "Anthropic says these topics are too dangerous to let its Fable 5 model talk about",
       "bullet_summary": [
-        "Reported by Guardian Tech, Wired Tech, TechCrunch and others"
+        "Reported by TechMeme, TechCrunch, Ars Technica"
       ],
       "items": [
         {
-          "source": "Guardian Tech",
-          "url": "https://www.theguardian.com/technology/2026/jun/09/anthropic-claude-mythos-ai-model",
-          "published_at": "Tue, 09 Jun 2026 22:28:29 GMT",
-          "title": "Anthropic releases ‘safe’ version of Claude Mythos AI model to public",
-          "standfirst": "AI company restricted access to Fable 5, its most powerful Mythos model, for months over cybersecurity concernsAnthropic, the maker of the Claude artificial intelligence (AI) models, made a new version of its technology available to the general public on Tuesday while restricting its use in sensitive areas.Dubbed Fable 5, the model is the first to be made widely available from the company’s new Mythos class – its most advanced lineup of AI technology, unveiled in April but restricted to a small set of partner institutions for months over cybersecurity concerns. Continue reading...",
-          "content": "AI company restricted access to Fable 5, its most powerful Mythos model, for months over cybersecurity concernsAnthropic, the maker of the Claude artificial intelligence (AI) models, made a new version of its technology available to the general public on Tuesday while restricting its use in sensitive areas.Dubbed Fable 5, the model is the first to be made widely available from the company’s new Mythos class – its most advanced lineup of AI technology, unveiled in April but restricted to a small set of partner institutions for months over cybersecurity concerns. Continue reading...",
-          "feed_position": 3
-        },
-        {
-          "source": "Wired Tech",
-          "url": "https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/",
-          "published_at": "Tue, 09 Jun 2026 17:00:46 +0000",
-          "title": "Anthropic Offers Mythos Upgrade for Cyber Partners and a ‘Safe’ Version for the Rest of You",
-          "standfirst": "Anthropic is releasing Claude Mythos 5 to trusted organizations and Claude Fable 5 to the public, a version it says can’t be used for cyberattacks.",
-          "content": "Anthropic is releasing Claude Mythos 5 to trusted organizations and Claude Fable 5 to the public, a version it says can’t be used for cyberattacks.",
-          "feed_position": 31,
-          "image_url": "https://media.wired.com/photos/6a270618e083d018dff70e49/master/pass/Anthropic-Dangerous-AI-Business-2261854833.jpg"
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/260610/p49#a260610p49",
+          "published_at": "Wed, 10 Jun 2026 13:55:00 -0400",
+          "title": "Cybersecurity researchers complain that Claude Fable's guardrails are too strict, rejecting \"innocuous tasks\" like reading blog posts or performing code reviews (Lorenzo Franceschi-Bicchierai/TechCrunch)",
+          "standfirst": "Lorenzo Franceschi-Bicchierai / TechCrunch: Cybersecurity researchers complain that Claude Fable's guardrails are too strict, rejecting &ldquo;innocuous tasks&rdquo; like reading blog posts or performing code reviews &mdash; Anthropic released its latest model Fable on Tuesday, billing it as a public and limited version of its powerful and much-hyped cybersecurity model Mythos.",
+          "content": "Lorenzo Franceschi-Bicchierai / TechCrunch: Cybersecurity researchers complain that Claude Fable's guardrails are too strict, rejecting &ldquo;innocuous tasks&rdquo; like reading blog posts or performing code reviews &mdash; Anthropic released its latest model Fable on Tuesday, billing it as a public and limited version of its powerful and much-hyped cybersecurity model Mythos.",
+          "feed_position": 7,
+          "image_url": "http://www.techmeme.com/260610/i49.jpg"
         },
         {
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
-          "published_at": "Tue, 09 Jun 2026 17:00:00 +0000",
-          "title": "Anthropic&#8217;s Claude Fable 5 is a version of Mythos the public can access today",
-          "standfirst": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology.",
-          "content": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology.",
-          "feed_position": 18
+          "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+          "published_at": "Wed, 10 Jun 2026 15:41:22 +0000",
+          "title": "Cybersecurity researchers aren&#8217;t happy about the guardrails on Anthropic&#8217;s Fable",
+          "standfirst": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
+          "content": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
+          "feed_position": 9
         },
         {
-          "source": "ZDNet",
-          "url": "https://www.zdnet.com/article/anthropiclaude-fable-5-nerfed-mythos-with-guardrails/",
-          "published_at": "Tue, 09 Jun 2026 17:00:00 GMT",
-          "title": "Anthropic's new Claude Fable 5 is the same base model as Mythos but with guardrails attached",
-          "standfirst": "Claude Fable 5 brings Mythos-class AI coding power to general users, but with cybersecurity guardrails, fallback models, and pricing that could make developers think twice.",
-          "content": "Claude Fable 5 brings Mythos-class AI coding power to general users, but with cybersecurity guardrails, fallback models, and pricing that could make developers think twice.",
-          "feed_position": 8
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/06/anthropic-says-these-topics-are-too-dangerous-to-let-its-fable-5-model-talk-about/",
+          "published_at": "Tue, 09 Jun 2026 19:20:25 +0000",
+          "title": "Anthropic says these topics are too dangerous to let its Fable 5 model talk about",
+          "standfirst": "New frontier model refuses cybersecurity, biology, and chemistry queries.",
+          "content": "Anthropic Tuesday publicly released Claude Fable 5, its first \"Mythos-class\" model that it says surpasses its previous frontier Opus models in overall capabilities. But the model's launch today comes with safeguards designed to prevent it from answering queries on topics like cybersecurity, biology, and chemistry, where the company has publicly worried about its potential impact to \"uplift\" malicious actors. Anthropic says Fable 5 operates on the \"same underlying model\" as Mythos 5, which is coming out of its monthslong \"Mythos Preview\" period today, but only for \"a small group of cyberdefenders\" judged trustworthy through the existing Project Glasswing. Unlike Mythos 5, though, the publicly accessible Fable 5 is designed to funnel queries on certain sensitive topics to the earlier Claude Opus 4.8 model and to warn the user when this is happening. Among the many claimed benchmark improvements for Fable 5, the one related to cybersecurity was a particularly large jump. Credit: Anthropic Anthropic said it has tuned these safeguards to be \"stricter than ideal,\" meaning the system may occasionally refuse \"harmless requests\" in a way that it acknowledges may be frustrating for regular users. But Anthropic says such false positives come up in less than five percent of all sessions in testing, and were worth it to avoid situations where Mythos could give malicious actors assistance in \"causing serious harm that they couldn’t have received from other sources.\"Read full article Comments",
+          "feed_position": 15,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1599973349-1152x648.jpg"
         }
       ],
-      "featured_image": "https://media.wired.com/photos/6a270618e083d018dff70e49/master/pass/Anthropic-Dangerous-AI-Business-2261854833.jpg",
-      "popularity_score": 4004.1602152777778
+      "featured_image": "http://www.techmeme.com/260610/i49.jpg",
+      "popularity_score": 3016.5389030555557
     },
     {
-      "id": "cluster_9",
+      "id": "cluster_25",
       "coverage": 2,
-      "updated_at": "2026-06-10T10:00:00-04:00",
-      "title": "AT&#038;T is launching $3 ‘unlimited’ day passes for iPads",
-      "neutral_headline": "AT&#038;T is launching $3 ‘unlimited’ day passes for iPads",
+      "updated_at": "Wed, 10 Jun 2026 18:44:26 +0000",
+      "title": "You can personalize your Instagram algorithm now — unless you want to see more posts from accounts you follow",
+      "neutral_headline": "You can just tell the Instagram algorithm what you want now",
       "bullet_summary": [
-        "Reported by The Verge, Engadget"
+        "Reported by Engadget, The Verge"
       ],
       "items": [
         {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/947574/att-unlimited-day-pass-ipad-data-plan",
-          "published_at": "2026-06-10T10:00:00-04:00",
-          "title": "AT&#038;T is launching $3 ‘unlimited’ day passes for iPads",
-          "standfirst": "AT&#38;T has introduced a new \"Unlimited Day Pass\" cellular data offer for iPad users who need brief connectivity instead of signing up for a long-term plan. The day pass is available for $3 in the US starting today, providing 24 hours of unlimited data, with no contracts, subscriptions, or credit checks required. This offer is [&#8230;]",
-          "content": "AT&T’s new day passes let you get your iPad online for 24 hours at a time, when you need it. | Photo: David Pierce / The Verge AT&T has introduced a new \"Unlimited Day Pass\" cellular data offer for iPad users who need brief connectivity instead of signing up for a long-term plan. The day pass is available for $3 in the US starting today, providing 24 hours of unlimited data, with no contracts, subscriptions, or credit checks required. This offer is available to anyone, including non-AT&T customers, with the 24-hour data activation beginning shortly after purchase. The first day pass is free as part of an introductory deal. There are no caps on speed or data mentioned in AT&T's announcement, but the company says it may \"temporarily slow data speeds if the network is … Read the full story at The Verge.",
-          "feed_position": 6
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2191695/you-can-personalize-your-instagram-algorithm-now/",
+          "published_at": "Wed, 10 Jun 2026 18:44:26 +0000",
+          "title": "You can personalize your Instagram algorithm now — unless you want to see more posts from accounts you follow",
+          "standfirst": "Instagram has expanded its algorithm personalization features to its main feed.",
+          "content": "Instagram has expanded its algorithm personalization features to its main feed.",
+          "feed_position": 5,
+          "image_url": "https://www.engadget.com/img/gallery/you-can-personalize-your-instagram-algorithm-now-unless-you-want-to-see-more-posts-from-accounts-you-follow/l-intro-1781116970.jpg"
         },
         {
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2191154/att-now-offers-3-day-passes-unlimited-ipad-cellular-data/",
-          "published_at": "Wed, 10 Jun 2026 14:00:00 +0000",
-          "title": "AT&T now offers $3 day passes for 'unlimited' iPad cellular data",
-          "standfirst": "If you've ever needed iPad data for a day or two without signing a contract or paying for an entire month, AT&T has a new option.",
-          "content": "If you've ever needed iPad data for a day or two without signing a contract or paying for an entire month, AT&T has a new option.",
-          "feed_position": 0,
-          "image_url": "https://www.engadget.com/img/gallery/att-now-offers-3-day-passes-for-unlimited-ipad-cellular-data/l-intro-1781080052.jpg"
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/947898/meta-instagram-your-algorithm-main-feed-tell",
+          "published_at": "2026-06-10T13:06:10-04:00",
+          "title": "You can just tell the Instagram algorithm what you want now",
+          "standfirst": "Instagram is going to let you tweak what its algorithm shows you on your main feed. With the Your Algorithm feature, \"you can now see the topics we think you're interested in, and change them, across all the major parts of Instagram,\" according to Instagram boss Adam Mosseri. Right now, the feature will only surface [&#8230;]",
+          "content": "Instagram is going to let you tweak what its algorithm shows you on your main feed. With the Your Algorithm feature, \"you can now see the topics we think you're interested in, and change them, across all the major parts of Instagram,\" according to Instagram boss Adam Mosseri. Right now, the feature will only surface topics, but Instagram is working on \"supporting requests for people, different moods or vibes, content types, and more.\" The company has been slowly giving users more agency over some algorithms on Instagram, having already launched the Your Algorithm feature for your Reels feed and the Explore page. With Wednesday's announcemen … Read the full story at The Verge.",
+          "feed_position": 6
         }
       ],
-      "featured_image": "https://www.engadget.com/img/gallery/att-now-offers-3-day-passes-for-unlimited-ipad-cellular-data/l-intro-1781080052.jpg",
-      "popularity_score": 2019.6854930555555
+      "featured_image": "https://www.engadget.com/img/gallery/you-can-personalize-your-instagram-algorithm-now-unless-you-want-to-see-more-posts-from-accounts-you-follow/l-intro-1781116970.jpg",
+      "popularity_score": 2017.3627919444446
     },
     {
-      "id": "cluster_15",
+      "id": "cluster_42",
+      "coverage": 2,
+      "updated_at": "Wed, 10 Jun 2026 13:05:01 -0400",
+      "title": "Sources: Microsoft is restricting employees from using Claude Fable 5 because of Anthropic's new 30-day data retention requirements (Tom Warren/The Verge)",
+      "neutral_headline": "Microsoft restricts Claude Fable for employees over data retention concerns",
+      "bullet_summary": [
+        "While Microsoft quickly rolled out Claude Fable 5 to its GitHub Copilot and Foundry customers, I'm [&#8230;]",
+        "Reported by TechMeme, The Verge"
+      ],
+      "items": [
+        {
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/260610/p48#a260610p48",
+          "published_at": "Wed, 10 Jun 2026 13:05:01 -0400",
+          "title": "Sources: Microsoft is restricting employees from using Claude Fable 5 because of Anthropic's new 30-day data retention requirements (Tom Warren/The Verge)",
+          "standfirst": "Tom Warren / The Verge: Sources: Microsoft is restricting employees from using Claude Fable 5 because of Anthropic's new 30-day data retention requirements &mdash; Microsoft's legal teams are evaluating Anthropic's new data retention changes. &hellip; Anthropic released Claude Fable, its first Mythos-class AI model &hellip;",
+          "content": "Tom Warren / The Verge: Sources: Microsoft is restricting employees from using Claude Fable 5 because of Anthropic's new 30-day data retention requirements &mdash; Microsoft's legal teams are evaluating Anthropic's new data retention changes. &hellip; Anthropic released Claude Fable, its first Mythos-class AI model &hellip;",
+          "feed_position": 8,
+          "image_url": "http://www.techmeme.com/260610/i48.jpg"
+        },
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
+          "published_at": "2026-06-10T12:50:23-04:00",
+          "title": "Microsoft restricts Claude Fable for employees over data retention concerns",
+          "standfirst": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tell me that Microsoft is limiting the use of Claude Fable 5 for employees because of Anthropic's new data retention requirements. While Microsoft quickly rolled out Claude Fable 5 to its GitHub Copilot and Foundry customers, I'm [&#8230;]",
+          "content": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tell me that Microsoft is limiting the use of Claude Fable 5 for employees because of Anthropic's new data retention requirements. While Microsoft quickly rolled out Claude Fable 5 to its GitHub Copilot and Foundry customers, I'm told the model isn't available in the model picker that Microsoft employees use for internal versions of GitHub Copilot. All other Claude models are still available internally at Microsoft, because they operate under Zero Data Retention (ZDR) rules. I understand that Microsoft ha … Read the full story at The Verge.",
+          "feed_position": 8
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/260610/i48.jpg",
+      "popularity_score": 2015.7058475
+    },
+    {
+      "id": "cluster_82",
       "coverage": 2,
       "updated_at": "Wed, 10 Jun 2026 13:31:37 +0000",
       "title": "Racist comments targeting politicians tripled since Meta relaxed its rules",
@@ -102,7 +128,7 @@
           "title": "Racist comments targeting politicians tripled since Meta relaxed its rules",
           "standfirst": "Violent threats against lawmakers have also surged on Facebook.",
           "content": "Last year, Meta radically overhauled the rules around what content it would allow on its platforms. The company claimed that its own efforts policing speech had gone too far and that it would relax the rules around what speech was allowed. “We have been over-enforcing our rules, limiting legitimate political debate and censoring too much trivial content and subjecting too many people to frustrating enforcement actions,” Joel Kaplan, Meta’s chief global affairs officer, wrote in a blog post at the time. Over a year later, new research from the Center for Countering Digital Hate (CCDH) shows the immediate impact of these changes. The researchers analyzed about 8 million Facebook comments and found that abusive and racist comments targeting both Republican and Democrat lawmakers tripled in the six months after the new rules were put in place. Some categories of abusive comments documented by the researchers saw even sharper rises, with violent threats and hate speech quadrupling during the same period.Read full article Comments",
-          "feed_position": 0,
+          "feed_position": 8,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/getty-meta-apps-1152x648.jpg"
         },
         {
@@ -112,49 +138,207 @@
           "title": "Meta Changed Its Speech Rules. Then Threats Against Politicians Skyrocketed",
           "standfirst": "New research finds that in the six months after Meta relaxed rules in the name of free speech, violent threats against lawmakers—including President Donald Trump—surged on Facebook.",
           "content": "New research finds that in the six months after Meta relaxed rules in the name of free speech, violent threats against lawmakers—including President Donald Trump—surged on Facebook.",
-          "feed_position": 39,
+          "feed_position": 44,
           "image_url": "https://media.wired.com/photos/6a27d2a80d6aa02c6a8cda54/master/pass/Politics_ThreatsAgainstPoliticiansSkyrocketedAfterMetaChangedItsSpeechRules_v2.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/getty-meta-apps-1152x648.jpg",
-      "popularity_score": 2019.2124375
+      "popularity_score": 2012.1491808333333
     },
     {
-      "id": "cluster_24",
-      "coverage": 2,
-      "updated_at": "2026-06-10T09:00:00-04:00",
-      "title": "Insta360’s Luna Ultra 8K stabilized camera is now available in the US",
-      "neutral_headline": "Insta360’s Luna Ultra 8K stabilized camera is now available in the US",
+      "id": "cluster_20",
+      "coverage": 1,
+      "updated_at": "Wed, 10 Jun 2026 19:29:21 +0000",
+      "title": "Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster",
+      "neutral_headline": "Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster",
       "bullet_summary": [
-        "Following months of teases, leaks, a secretive debut at NAB 2026, and an initial launch in China, Insta360 finally announced global availability for its first handheld stabilized camera",
-        "Reported by The Verge, Engadget"
+        "Reported by Ars Technica"
       ],
       "items": [
         {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/947218/insta360-luna-ultra-dual-camera-stabilized-8k-telephoto-leica-us-availability-pricing",
-          "published_at": "2026-06-10T09:00:00-04:00",
-          "title": "Insta360’s Luna Ultra 8K stabilized camera is now available in the US",
-          "standfirst": "Following months of teases, leaks, a secretive debut at NAB 2026, and an initial launch in China, Insta360 finally announced global availability for its first handheld stabilized camera. The Luna Ultra features a pair of 8K cameras atop a 3-axis gimbal, offering an upgrade to DJI's Osmo Pocket 4 and Pocket 4P, which both max [&#8230;]",
-          "content": "The Luna Ultra could be an excellent option for creators working without a dedicated camera operator. | Image: Insta360 Following months of teases, leaks, a secretive debut at NAB 2026, and an initial launch in China, Insta360 finally announced global availability for its first handheld stabilized camera. The Luna Ultra features a pair of 8K cameras atop a 3-axis gimbal, offering an upgrade to DJI's Osmo Pocket 4 and Pocket 4P, which both max out at capturing 4K footage. While the latest versions of DJI's baby steadicams still aren't sold in the US, the new Luna Ultra is available starting today for $769.99 through Insta360's online store and other retailers including Amazon, B&H, and Best Buy. The Luna Ultra's primary camera features a 1-inch 8K sensor pair … Read the full story at The Verge.",
-          "feed_position": 7
-        },
-        {
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2191160/insta360-luna-ultra-gimbal-camera/",
-          "published_at": "Wed, 10 Jun 2026 13:00:00 +0000",
-          "title": "Insta360's Luna Ultra takes on DJI's Osmo Pocket gimbal cameras",
-          "standfirst": "Insta360 has launched its first gimbal camera, the $770 Luna Ultra.",
-          "content": "Insta360 has launched its first gimbal camera, the $770 Luna Ultra.",
-          "feed_position": 2,
-          "image_url": "https://www.engadget.com/img/gallery/insta360s-luna-ultra-takes-on-djis-osmo-pocket-gimbal-cameras/l-intro-1781081859.jpg"
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
+          "published_at": "Wed, 10 Jun 2026 19:29:21 +0000",
+          "title": "Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster",
+          "standfirst": "Diffusion AI is most common in image generation, but it can make text outputs much faster.",
+          "content": "Another day, another AI model from Google. This time, Google DeepMind has released a new member of the Gemma 4 open model family, but it's fundamentally different from the rest of the lineup. DiffusionGemma doesn't generate outputs linearly like most AI models. Instead, it can produce an entire block of text in parallel. Google says this makes it faster and more efficient when running on local hardware like an Nvidia DGX or a humble gaming GPU. Most AI models are designed to be autoregressive—they generate text left to right one token at a time. DiffusionGemma has more in common with image generation models, which start with static and then denoise it to create the desired content. This model takes a field of placeholder tokens running over the canvas multiple times to generate likely tokens and using those to improve estimation of others. At the end of the process, the model finalizes its token outputs in one large block—the \"denoised\" text canvas. DiffusionGemma is fairly large in the realm of Google's open models. It's a Mixture of Experts (MoE) model with a total of 26 billion parameters, but only 3.8 billion are activated during inference. That means it should fit in the 18GB RAM allotment of a high-end GPU. In testing with an RTX 5090, DiffusionGemma spits out around 700 tokens per second. With a single Nvidia H100 AI accelerator, DiffusionGemma can produce 1,000+ tokens per second. That's about four times the output of the similarly sized autoregressive Gemma models.Read full article Comments",
+          "feed_position": 1,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/HeroVisual.width-2200.format-webp-1152x648.png"
         }
       ],
-      "featured_image": "https://www.engadget.com/img/gallery/insta360s-luna-ultra-takes-on-djis-osmo-pocket-gimbal-cameras/l-intro-1781081859.jpg",
-      "popularity_score": 2018.6854930555555
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/HeroVisual.width-2200.format-webp-1152x648.png",
+      "popularity_score": 368.11140305555557
     },
     {
-      "id": "cluster_18",
+      "id": "cluster_12",
+      "coverage": 1,
+      "updated_at": "Wed, 10 Jun 2026 19:57:56 +0000",
+      "title": "Logitech’s foldable mouse is for people who refuse to carry a mouse with them",
+      "neutral_headline": "Logitech’s foldable mouse is for people who refuse to carry a mouse with them",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/06/logitechs-mobi-fold-folds-for-travel-but-i-prefer-a-different-portable-mouse/",
+          "published_at": "Wed, 10 Jun 2026 19:57:56 +0000",
+          "title": "Logitech’s foldable mouse is for people who refuse to carry a mouse with them",
+          "standfirst": "The Mobi Fold is an $80 Bluetooth mouse with a silicone-wrapped hinge.",
+          "content": "I see it often. Hardworking professionals in cafés, airports, or parks hunched over a laptop while carefully dragging their fingers over their PC’s trackpad to navigate some email, project, or alert that can’t be ignored. They would prefer a mouse to a trackpad, but are reluctant to travel with one. When you’re on the go, carrying a mouse can seem burdensome or unnecessary. But I’d argue that it’s worth the boost in efficiency and comfort when navigating your computer, tablet, or phone. For the people who refuse to carry a bulky mouse with them, even when they plan to use their computer away from their desk, I’m glad Logitech launched the Mobi Fold, a foldable, wireless mouse. But I’d still push reluctant mobile mouse users toward something even more comfortable. Logitech’s Mobi Fold The mouse's PAW3222 sensor supports 400-4,000 DPI in 100-DPI increments. Credit: Logitech The Logitech Mobi Fold released today for $80 folds in half so that it’s easy to carry around. Logitech’s announcement claimed that it found that “while 72 percent of professionals own a mouse, only 26 percent actually use one when working in public places.” The announcement didn’t explain Logitech’s methodology, but it seems that someone at the Swiss company has also grimaced at the awkwardly bent wrist of people using laptop trackpads in public.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Logitech-Mobi-Fold-cover-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Logitech-Mobi-Fold-cover-1152x648.jpg",
+      "popularity_score": 351.58779194444446
+    },
+    {
+      "id": "cluster_37",
+      "coverage": 1,
+      "updated_at": "Wed, 10 Jun 2026 17:19:31 +0000",
+      "title": "Nobody needs AI to search the Internet, court says in ruling against Google",
+      "neutral_headline": "Nobody needs AI to search the Internet, court says in ruling against Google",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/",
+          "published_at": "Wed, 10 Jun 2026 17:19:31 +0000",
+          "title": "Nobody needs AI to search the Internet, court says in ruling against Google",
+          "standfirst": "Google AI Overview court loss in Germany could spell doom for AI search industry.",
+          "content": "Potentially impacting all AI search engines and chatbots known to poorly paraphrase source links, a German court has ruled that Google is liable for false statements in AI Overviews. The preliminary ruling came in a case flagged by The Decoder, where two publishers found that Google's AI Overviews incorrectly linked them to scams and other sketchy business practices. After smearing publishers by making affirmative statements like \"Yes, [it] is known for dubious business practices and is often perceived as a scam,\" Google failed to correct the misleading output, even after the publishers sent a cease-and-desist letter earlier this year. Google tried the usual arguments to shield itself from liability for false statements in AI Overviews, such as arguing that most users understand that AI outputs aren't always accurate and must be verified.Read full article Comments",
+          "feed_position": 3,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2277898840-1024x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2277898840-1024x648.jpg",
+      "popularity_score": 345.9475141666667
+    },
+    {
+      "id": "cluster_35",
+      "coverage": 1,
+      "updated_at": "Wed, 10 Jun 2026 17:31:13 +0000",
+      "title": "We managed to glean some interesting details about the Artemis III mission",
+      "neutral_headline": "We managed to glean some interesting details about the Artemis III mission",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/06/we-managed-to-glean-some-interesting-details-about-the-artemis-iii-mission/",
+          "published_at": "Wed, 10 Jun 2026 17:31:13 +0000",
+          "title": "We managed to glean some interesting details about the Artemis III mission",
+          "standfirst": "\"I was on the phone with Blue Origin leadership that night, all the next day, all through the weekend.\"",
+          "content": "On Tuesday, NASA announced the crew for the Artemis III mission, which is scheduled to be flown no earlier than summer 2027. As part of the announcement, space agency officials also discussed plans for the crew to dock with both a Blue Origin lander and a SpaceX Starship lander during the spaceflight in low-Earth orbit. The presentation, although informative, still left open key questions about the landers' readiness and what exactly they'll look like. After the crew announcement, Ars sat down with Jeremy Parsons, NASA's Artemis program manager, to answer some of these questions. This interview, conducted at NASA's Johnson Space Center, has been lightly edited for clarity.Read full article Comments",
+          "feed_position": 2,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/NHQ202604010037medium-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/NHQ202604010037medium-1152x648.jpg",
+      "popularity_score": 344.1425141666667
+    },
+    {
+      "id": "cluster_44",
+      "coverage": 1,
+      "updated_at": "Wed, 10 Jun 2026 17:04:47 +0000",
+      "title": "Cheap Iranian drone downed $25 million US Army helicopter—maybe by chance",
+      "neutral_headline": "Cheap Iranian drone downed $25 million US Army helicopter—maybe by chance",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/06/cheap-iranian-drone-downed-25-million-us-army-helicopter-maybe-by-chance/",
+          "published_at": "Wed, 10 Jun 2026 17:04:47 +0000",
+          "title": "Cheap Iranian drone downed $25 million US Army helicopter—maybe by chance",
+          "standfirst": "The US military struck Iran again after an Iranian drone’s lucky midair strike.",
+          "content": "A US Army helicopter gunship was apparently struck by an Iranian Shahed drone before going down near the Strait of Hormuz—but it's unclear whether the one-way attack drone was deliberately aimed or achieved more of a lucky accidental strike. Axios correspondent Barak Ravid first reported an unnamed US government official’s comments that an Iranian drone had hit the US Army AH-64 Apache helicopter before the latter went down on June 8. The New York Times later confirmed that reporting through more anonymous US officials, including one official who said US military investigators were still evaluating whether the Iranian drone strike on the helicopter was intentional or accidental. Iran has fired thousands of such Shahed drones against a wide range of military and civilian targets in the Gulf region since February 28, 2026, when the United States and Israel began the war by jointly attacking Iran with a barrage of bombs and missiles. But Shahed drones have mainly struck stationary targets such as Amazon data centers and energy facilities, sometimes hitting slow-moving commercial ships in the Strait of Hormuz.Read full article Comments",
+          "feed_position": 4,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Apache-helicopters-Strait-of-Hormuz.jpeg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Apache-helicopters-Strait-of-Hormuz.jpeg",
+      "popularity_score": 308.70195861111114
+    },
+    {
+      "id": "cluster_52",
+      "coverage": 1,
+      "updated_at": "Wed, 10 Jun 2026 16:39:43 +0000",
+      "title": "Valve kills its retail gift card program due to scammers",
+      "neutral_headline": "Valve kills its retail gift card program due to scammers",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gaming/2026/06/valve-kills-its-retail-gift-card-program-due-to-scammers/",
+          "published_at": "Wed, 10 Jun 2026 16:39:43 +0000",
+          "title": "Valve kills its retail gift card program due to scammers",
+          "standfirst": "Move also cuts off a massive market of legit users who buy cards with physical cash.",
+          "content": "For years, Valve's physical Steam gift cards have been the closest you could come to buying a Steam game at a brick-and-mortar store. Now, Valve says it is phasing out the production of new retail gift cards, citing a losing battle against scammers exploiting the hard-to-track payment method. PC Guide was among the first to note the end of Valve's retail gift card program, which was quietly announced in a recent update to a Steam support page. Since launching the retail cards in 2012, Valve says it has been fighting a constant battle with scammers, who instruct victims to purchase gift cards and share the pertinent details and security PIN. Those scammers can then resell the gift card details at a discount on gray-market sites to effectively launder the funds, creating an anonymous and hard-to-trace form of payment. Valve says it has made various moves to slow scammers, including placing limits on redemption and availability and adding a prominent warning on the cards themselves: \"Never share a pin via email, social media or over the phone.\"Read full article Comments",
+          "feed_position": 6,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/steamcard-1152x648-1781107823.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/steamcard-1152x648-1781107823.jpg",
+      "popularity_score": 303.2841808333333
+    },
+    {
+      "id": "cluster_49",
+      "coverage": 1,
+      "updated_at": "Wed, 10 Jun 2026 16:52:36 +0000",
+      "title": "OB-GYNs release their own vaccine schedule, rejecting RFK Jr.'s meddling",
+      "neutral_headline": "OB-GYNs release their own vaccine schedule, rejecting RFK Jr.'s meddling",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/06/bucking-rfk-jr-ob-gyns-release-vaccine-guidance-that-conflicts-with-cdc/",
+          "published_at": "Wed, 10 Jun 2026 16:52:36 +0000",
+          "title": "OB-GYNs release their own vaccine schedule, rejecting RFK Jr.'s meddling",
+          "standfirst": "Thirteen other medical groups have already endorsed the independent schedule.",
+          "content": "For the first time, the American College of Obstetricians & Gynecologists (ACOG) has released its own recommendations for maternal vaccination, providing formal guidance that diverges from that of the Centers for Disease Control and Prevention amid unprecedented policy changes and meddling from anti-vaccine Health Secretary Robert F. Kennedy Jr. ACOG President Camille Clare blamed \"changing national recommendations coupled with rampant vaccine misinformation\" for the confusion among patients and health care professionals about vaccines during pregnancy. \"It is incredibly important for the public to have access to reliable, evidence-based information on maternal immunizations from a trusted source. ACOG is proud to be that source,\" Clare said in a statement.Read full article Comments",
+          "feed_position": 5,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2021/10/GettyImages-1232871329-1152x648.jpeg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2021/10/GettyImages-1232871329-1152x648.jpeg",
+      "popularity_score": 298.49890305555556
+    },
+    {
+      "id": "cluster_61",
+      "coverage": 1,
+      "updated_at": "Wed, 10 Jun 2026 16:10:20 +0000",
+      "title": "The 2026 Honda Prelude review: Didn't expect such a head-turner",
+      "neutral_headline": "The 2026 Honda Prelude review: Didn't expect such a head-turner",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/cars/2026/06/2026-honda-prelude-review-we-need-more-affordable-coupes-like-this/",
+          "published_at": "Wed, 10 Jun 2026 16:10:20 +0000",
+          "title": "The 2026 Honda Prelude review: Didn't expect such a head-turner",
+          "standfirst": "Honda's $42,000 hybrid coupe looks great, handles well, and gets 44 mpg.",
+          "content": "You can tell Honda was trying to manage expectations when it emailed me to stress that \"the Prelude is not a sports car.\" And I can understand why. On paper, the specs make the sleek coupe—technically a three-door hatch—seem underwhelming. Especially if you start comparing it to alternatives. A Mazda MX-5 or Subaru BRZ weighs hundreds of pounds less, and the Subaru packs more power than the Prelude's 200 hp (149 kW). A Volkswagen Golf GTI weighs about the same as the Prelude at 3,261 lbs (1,479 kg), but it delivers 20 percent more power and offers rear seats that actually accommodate adults. But after a week with the bright blue Prelude, it's hard to care about the specs. This might be one of the best cars we'll drive all year. Then again, looking back across the previous five generations, the Prelude was never really a sports car. It has always been a technology showcase for Honda, introducing features like fuel injection, four-wheel steering, variable valve timing, and active torque transfer. For the sixth-generation Prelude, the headline feature is Honda's S+ shift, which adds some sporty character to the OEM's four-cylinder hybrid.Read full article Comments",
+          "feed_position": 7,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/2026-Honda-Prelude-5-1152x648-1781104671.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/2026-Honda-Prelude-5-1152x648-1781104671.jpg",
+      "popularity_score": 288.7944586111111
+    },
+    {
+      "id": "cluster_84",
       "coverage": 1,
       "updated_at": "Wed, 10 Jun 2026 13:13:33 +0000",
       "title": "GM Energy introduces V2G support and new energy storage battery chemistry",
@@ -170,87 +354,15 @@
           "title": "GM Energy introduces V2G support and new energy storage battery chemistry",
           "standfirst": "There are more than a quarter of a million V2G-capable GM EVs on the roads already.",
           "content": "Electric vehicle sales might be better now than the end of last year when demand fell off a cliff following the surge of purchases ahead of the end of the federal financial incentives, but it's clear they haven't panned out as well as many in the automotive industry had hoped. Still, at a GM event Ars attended in San Francisco this week, the company continues to stick to its guns with an EV lineup spanning its brands. The automaker shared that it has also been working toward the adoption of bidirectional charging to help balance the grid. With the rise of AI, data centers are placing more and more pressure on the nation's electric infrastructure. GM wants to relieve some of that pressure with news that its GM Energy products now support vehicle-to-grid (V2G) in addition to vehicle-to-home. The grid integration requires working with utilities and includes launch partners PG&E in California and DTE Energy in Michigan. For standalone energy storage solutions, the company also announced partnering with Peak Energy on the development of sodium-ion batteries built specifically for grid energy storage.Read full article Comments",
-          "feed_position": 1,
+          "feed_position": 9,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GM-Energy-home-energy-system-2-1152x648.png"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GM-Energy-home-energy-system-2-1152x648.png",
-      "popularity_score": 341.9113263888889
+      "popularity_score": 254.84806972222222
     },
     {
-      "id": "cluster_81",
-      "coverage": 1,
-      "updated_at": "Tue, 09 Jun 2026 20:56:52 +0000",
-      "title": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
-      "neutral_headline": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/",
-          "published_at": "Tue, 09 Jun 2026 20:56:52 +0000",
-          "title": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
-          "standfirst": "A separate zero-day also disclosed by Nightmare Eclipse appears to be patched as well.",
-          "content": "Microsoft on Tuesday released fixes for two high-severity zero-days that were disclosed by a researcher who has been locked in a testy beef with the software giant. Nightmare Eclipse, the pseudonym the researcher goes by, released a handful of high-severity vulnerabilities in recent months, making them zero-days that had the potential to be exploited in the wild. The researcher has said the disclosures, which included proof-of-concept code, came after Microsoft reneged on an arrangement the two made regarding vulnerabilities they had discussed. Disclosure drama “But someone violated our agreement and left me homeless with nothing,” Nightmare Eclipse wrote in March. “They knew this will happen and they still stabbed me in the back anyways, this is their decision not mine.”Read full article Comments",
-          "feed_position": 3,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg",
-      "popularity_score": 317.6332708333333
-    },
-    {
-      "id": "cluster_77",
-      "coverage": 1,
-      "updated_at": "Tue, 09 Jun 2026 21:05:39 +0000",
-      "title": "Starlink charges $10 monthly hardware fee in move away from one-time purchases",
-      "neutral_headline": "Starlink charges $10 monthly hardware fee in move away from one-time purchases",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/06/starlink-takes-page-from-cable-firms-with-10-monthly-rental-fee-for-hardware/",
-          "published_at": "Tue, 09 Jun 2026 21:05:39 +0000",
-          "title": "Starlink charges $10 monthly hardware fee in move away from one-time purchases",
-          "standfirst": "Starlink, SpaceX's top moneymaker, also raised service prices by $5 to $10.",
-          "content": "Starlink has started charging a $10 monthly rental fee for hardware in a shift away from its longtime practice of selling hardware to customers for a one-time charge. Starlink residential ordering pages now show an upfront hardware cost of $0 and a monthly kit fee of $10, similar to the hardware rental fees long charged by cable and telecom companies. Starlink hardware includes a terminal to receive satellite signals and a router to place in a user's home. The monthly kit fee is in addition to Internet service prices, which Starlink recently raised by $5 to $10 per month. Starlink is charging $55 a month for 100Mbps, $85 for 200Mbps, and $130 for the \"Max\" tier that can go up to 400Mbps. Starlink also provides a professional-installation service for a one-time fee of $199, or for no additional charge if you subscribe to the Max plan.Read full article Comments",
-          "feed_position": 2,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/getty-starlink-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/getty-starlink-1152x648.jpg",
-      "popularity_score": 315.7796597222222
-    },
-    {
-      "id": "cluster_84",
-      "coverage": 1,
-      "updated_at": "Tue, 09 Jun 2026 20:35:22 +0000",
-      "title": "Three key vital signs make up the \"urban pulse\" of a city",
-      "neutral_headline": "Three key vital signs make up the \"urban pulse\" of a city",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/06/study-how-to-take-the-urban-pulse-of-a-city/",
-          "published_at": "Tue, 09 Jun 2026 20:35:22 +0000",
-          "title": "Three key vital signs make up the \"urban pulse\" of a city",
-          "standfirst": "Cities are dynamic, not static grids, and urbanization is a \"spiky,\" cyclical, and asynchronous process.",
-          "content": "People often speak metaphorically of the heartbeat or pulse of a city, but according to the authors of a new paper published in the Proceedings of the National Academy of Sciences, cities do indeed have an \"urban pulse\"—an indication of urban \"metabolic activity\" that can be measured to suss out telltale patterns. And those patterns could help inform future public policy around urban planning. The precise definition of urbanization has shifted over the centuries. Zhe Zhu of the University of Connecticut and his fellow authors adopted a broad version for their study. It features fundamental \"processes of concurrent change in at least six dimensions, including demography, economy, infrastructure, environment, governance and culture,\" they wrote. \"Together they give rise to outcomes, measurable results of the process, such as population growth, urban land expansion, GDP growth, and innovation.\" Their chosen metrics reflect this dynamic view: Cities are not static grids but \"living, adaptive ecosystems.\" “For decades, we had just been capturing the outcome of urbanization—a house that’s been built, or a road expansion,” said Zhu. “But you don’t really see the dynamics within an urban area. This is going to be a very impactful tool influencing not only top-down policy decisions from governments but also bottom-up decisions from everyday people navigating their cities.” One day we may be able to check a neighborhood's \"urban pulse\" while house-hunting, for instance, or while scouting potential locations for a new business.Read full article Comments",
-          "feed_position": 4,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/urbanpulse1-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/urbanpulse1-1152x648.jpg",
-      "popularity_score": 295.2749375
-    },
-    {
-      "id": "cluster_87",
+      "id": "cluster_119",
       "coverage": 1,
       "updated_at": "Tue, 09 Jun 2026 20:15:45 +0000",
       "title": "Paramount accuses Netflix of \"scorched-earth campaign\" against WBD merger",
@@ -266,39 +378,39 @@
           "title": "Paramount accuses Netflix of \"scorched-earth campaign\" against WBD merger",
           "standfirst": "Netflix's response: \"Absurd.\"",
           "content": "Paramount Skydance is accusing Netflix of maintaining a campaign against its proposed acquisition of Warner Bros. Discovery (WBD). In a June 5 letter (PDF) addressed to Jared A. Hughes, acting section chief of the Media, Entertainment, and Communications Section of the US Department of Justice's (DOJ's) Antitrust Division, and A. Maya Kahn, a trial attorney for the Antitrust Division, and first reported on by Politico today, Paramount chief legal officer Makan Delrahim accused Netflix of trying to influence stakeholders about the merger. The letter reads: Indeed, Netflix’s panic-level response and scorched-earth campaign to try and poison regulators and other stakeholders against the Transaction shows just how seriously Netflix takes Paramount as a scaled competitor. The letter from Delrahim, a former assistant attorney general for the Antitrust Division, is a response to a letter that The International Brotherhood of Teamsters sent to the DOJ in March. The teamsters' letter argued that Paramount and WBD's merger would threaten film and TV workers. The union, which has 1.3 million members, asked the DOJ to block the merger \"unless substantial and enforceable safeguards are put in place to increase domestic production and protect jobs,\" per an announcement from the group.Read full article Comments",
-          "feed_position": 6,
+          "feed_position": 14,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1185995584.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1185995584.jpg",
-      "popularity_score": 289.94799305555557
+      "popularity_score": 148
     },
     {
-      "id": "cluster_85",
+      "id": "cluster_116",
       "coverage": 1,
-      "updated_at": "Tue, 09 Jun 2026 20:25:56 +0000",
-      "title": "Commonwealth Fusion makes the physics case for its 400 MW reactor",
-      "neutral_headline": "Commonwealth Fusion makes the physics case for its 400 MW reactor",
+      "updated_at": "Tue, 09 Jun 2026 20:56:52 +0000",
+      "title": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
+      "neutral_headline": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/06/__trashed-19/",
-          "published_at": "Tue, 09 Jun 2026 20:25:56 +0000",
-          "title": "Commonwealth Fusion makes the physics case for its 400 MW reactor",
-          "standfirst": "Five peer-reviewed papers update the design and model its expected output.",
-          "content": "The scientific community has a plan for achieving fusion power. It involves getting a better understanding of how to control fusion in a tokamak-style reactor using the currently under construction ITER reactor, and then using that knowledge to build DEMO-style plants. But ITER isn't even expected to see hot plasmas until the middle of the 2030s, by which point solar panels will be so cheap that we'll probably all be getting them free in our cereal boxes. Commonwealth Fusion is a startup that's basically asking \"what if we did that, but now?\" Its ITER equivalent, a tokamak called SPARC, is over 70 percent complete and is planned to be operating as soon as next year. The company already has a site and customers for the power-generating follow-on, called ARC. Both of those projects are predicated on using high-temperature superconductors to generate an extremely powerful magnetic field that will allow the company to build a smaller reactor, and thus get things done faster. Years of running plasmas through tokamaks has given us confidence that the basics of these plans are sound. But there are lots of potential devils in the details (otherwise there'd be little need for experimental reactors). So Commonwealth's scientists, in collaboration with the academic community, have recently released five peer-reviewed papers that detail its plans for ARC: what our best models tell us now, and what we'll still need to learn from SPARC to finalize the design of a production fusion plant.Read full article Comments",
-          "feed_position": 5,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/image-1-1152x648.jpeg"
+          "url": "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/",
+          "published_at": "Tue, 09 Jun 2026 20:56:52 +0000",
+          "title": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
+          "standfirst": "A separate zero-day also disclosed by Nightmare Eclipse appears to be patched as well.",
+          "content": "Microsoft on Tuesday released fixes for two high-severity zero-days that were disclosed by a researcher who has been locked in a testy beef with the software giant. Nightmare Eclipse, the pseudonym the researcher goes by, released a handful of high-severity vulnerabilities in recent months, making them zero-days that had the potential to be exploited in the wild. The researcher has said the disclosures, which included proof-of-concept code, came after Microsoft reneged on an arrangement the two made regarding vulnerabilities they had discussed. Disclosure drama “But someone violated our agreement and left me homeless with nothing,” Nightmare Eclipse wrote in March. “They knew this will happen and they still stabbed me in the back anyways, this is their decision not mine.”Read full article Comments",
+          "feed_position": 11,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/image-1-1152x648.jpeg",
-      "popularity_score": 285.1177152777778
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg",
+      "popularity_score": 145
     },
     {
-      "id": "cluster_90",
+      "id": "cluster_121",
       "coverage": 1,
       "updated_at": "Tue, 09 Jun 2026 18:57:25 +0000",
       "title": "Google announces Gemini 3.5 Live Translate for instant voice-to-voice translation",
@@ -314,39 +426,87 @@
           "title": "Google announces Gemini 3.5 Live Translate for instant voice-to-voice translation",
           "standfirst": "Voice translations preserve speaker's tone, pacing, pitch—with SynthID watermarks for security.",
           "content": "Google has been chasing real-time translation for years, which it says has been one of its \"pioneering machine learning experiments.\" We've seen numerous demos on stage at Google events in the past, but you needed Google phones, earbuds, or some other specific setup. Last year, Google brought real-time translation to more users in the Translate app, and now it's expanding availability more. With the release of Gemini 3.5 Live Translate, you'll have access to instant translation in more places and with lower latency than ever before. The new AI model is part of the version 3.5 family that launched at I/O. Before today, Google had only rolled out the Flash version, but we're expecting a Pro model to drop in the coming weeks. Gemini 3.5 Live Translate is a speech-to-speech model tuned to automatically detect and translate in more than 70 languages. Google says Gemini 3.5 Live Translate is fast enough to keep up with a normal conversation, following just a few seconds behind the speaker while also matching intonation, pacing, and pitch. In short, the voice sounds more like you than a generic robot. The demos, which are all being recorded under controlled conditions, do sound impressive. You won't have to wait long to verify the model's abilities for yourself, though.Read full article Comments",
-          "feed_position": 8,
+          "feed_position": 16,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-4-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-4-1152x648.jpg",
-      "popularity_score": 265.6424375
+      "popularity_score": 145
     },
     {
-      "id": "cluster_88",
+      "id": "cluster_114",
       "coverage": 1,
-      "updated_at": "Tue, 09 Jun 2026 19:20:25 +0000",
-      "title": "Anthropic says these topics are too dangerous to let its Fable 5 model talk about",
-      "neutral_headline": "Anthropic says these topics are too dangerous to let its Fable 5 model talk about",
+      "updated_at": "Tue, 09 Jun 2026 21:05:39 +0000",
+      "title": "Starlink charges $10 monthly hardware fee in move away from one-time purchases",
+      "neutral_headline": "Starlink charges $10 monthly hardware fee in move away from one-time purchases",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/06/anthropic-says-these-topics-are-too-dangerous-to-let-its-fable-5-model-talk-about/",
-          "published_at": "Tue, 09 Jun 2026 19:20:25 +0000",
-          "title": "Anthropic says these topics are too dangerous to let its Fable 5 model talk about",
-          "standfirst": "New frontier model refuses cybersecurity, biology, and chemistry queries.",
-          "content": "Anthropic Tuesday publicly released Claude Fable 5, its first \"Mythos-class\" model that it says surpasses its previous frontier Opus models in overall capabilities. But the model's launch today comes with safeguards designed to prevent it from answering queries on topics like cybersecurity, biology, and chemistry, where the company has publicly worried about its potential impact to \"uplift\" malicious actors. Anthropic says Fable 5 operates on the \"same underlying model\" as Mythos 5, which is coming out of its monthslong \"Mythos Preview\" period today, but only for \"a small group of cyberdefenders\" judged trustworthy through the existing Project Glasswing. Unlike Mythos 5, though, the publicly accessible Fable 5 is designed to funnel queries on certain sensitive topics to the earlier Claude Opus 4.8 model and to warn the user when this is happening. Among the many claimed benchmark improvements for Fable 5, the one related to cybersecurity was a particularly large jump. Credit: Anthropic Anthropic said it has tuned these safeguards to be \"stricter than ideal,\" meaning the system may occasionally refuse \"harmless requests\" in a way that it acknowledges may be frustrating for regular users. But Anthropic says such false positives come up in less than five percent of all sessions in testing, and were worth it to avoid situations where Mythos could give malicious actors assistance in \"causing serious harm that they couldn’t have received from other sources.\"Read full article Comments",
-          "feed_position": 7,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1599973349-1152x648.jpg"
+          "url": "https://arstechnica.com/tech-policy/2026/06/starlink-takes-page-from-cable-firms-with-10-monthly-rental-fee-for-hardware/",
+          "published_at": "Tue, 09 Jun 2026 21:05:39 +0000",
+          "title": "Starlink charges $10 monthly hardware fee in move away from one-time purchases",
+          "standfirst": "Starlink, SpaceX's top moneymaker, also raised service prices by $5 to $10.",
+          "content": "Starlink has started charging a $10 monthly rental fee for hardware in a shift away from its longtime practice of selling hardware to customers for a one-time charge. Starlink residential ordering pages now show an upfront hardware cost of $0 and a monthly kit fee of $10, similar to the hardware rental fees long charged by cable and telecom companies. Starlink hardware includes a terminal to receive satellite signals and a router to place in a user's home. The monthly kit fee is in addition to Internet service prices, which Starlink recently raised by $5 to $10 per month. Starlink is charging $55 a month for 100Mbps, $85 for 200Mbps, and $130 for the \"Max\" tier that can go up to 400Mbps. Starlink also provides a professional-installation service for a one-time fee of $199, or for no additional charge if you subscribe to the Max plan.Read full article Comments",
+          "feed_position": 10,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/getty-starlink-1152x648.jpg"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1599973349-1152x648.jpg",
-      "popularity_score": 264.02577083333335
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/getty-starlink-1152x648.jpg",
+      "popularity_score": 133
     },
     {
-      "id": "cluster_92",
+      "id": "cluster_117",
+      "coverage": 1,
+      "updated_at": "Tue, 09 Jun 2026 20:35:22 +0000",
+      "title": "Three key vital signs make up the \"urban pulse\" of a city",
+      "neutral_headline": "Three key vital signs make up the \"urban pulse\" of a city",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/06/study-how-to-take-the-urban-pulse-of-a-city/",
+          "published_at": "Tue, 09 Jun 2026 20:35:22 +0000",
+          "title": "Three key vital signs make up the \"urban pulse\" of a city",
+          "standfirst": "Cities are dynamic, not static grids, and urbanization is a \"spiky,\" cyclical, and asynchronous process.",
+          "content": "People often speak metaphorically of the heartbeat or pulse of a city, but according to the authors of a new paper published in the Proceedings of the National Academy of Sciences, cities do indeed have an \"urban pulse\"—an indication of urban \"metabolic activity\" that can be measured to suss out telltale patterns. And those patterns could help inform future public policy around urban planning. The precise definition of urbanization has shifted over the centuries. Zhe Zhu of the University of Connecticut and his fellow authors adopted a broad version for their study. It features fundamental \"processes of concurrent change in at least six dimensions, including demography, economy, infrastructure, environment, governance and culture,\" they wrote. \"Together they give rise to outcomes, measurable results of the process, such as population growth, urban land expansion, GDP growth, and innovation.\" Their chosen metrics reflect this dynamic view: Cities are not static grids but \"living, adaptive ecosystems.\" “For decades, we had just been capturing the outcome of urbanization—a house that’s been built, or a road expansion,” said Zhu. “But you don’t really see the dynamics within an urban area. This is going to be a very impactful tool influencing not only top-down policy decisions from governments but also bottom-up decisions from everyday people navigating their cities.” One day we may be able to check a neighborhood's \"urban pulse\" while house-hunting, for instance, or while scouting potential locations for a new business.Read full article Comments",
+          "feed_position": 12,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/urbanpulse1-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/urbanpulse1-1152x648.jpg",
+      "popularity_score": 133
+    },
+    {
+      "id": "cluster_118",
+      "coverage": 1,
+      "updated_at": "Tue, 09 Jun 2026 20:25:56 +0000",
+      "title": "Commonwealth Fusion makes the physics case for its 400 MW reactor",
+      "neutral_headline": "Commonwealth Fusion makes the physics case for its 400 MW reactor",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/06/__trashed-19/",
+          "published_at": "Tue, 09 Jun 2026 20:25:56 +0000",
+          "title": "Commonwealth Fusion makes the physics case for its 400 MW reactor",
+          "standfirst": "Five peer-reviewed papers update the design and model its expected output.",
+          "content": "The scientific community has a plan for achieving fusion power. It involves getting a better understanding of how to control fusion in a tokamak-style reactor using the currently under construction ITER reactor, and then using that knowledge to build DEMO-style plants. But ITER isn't even expected to see hot plasmas until the middle of the 2030s, by which point solar panels will be so cheap that we'll probably all be getting them free in our cereal boxes. Commonwealth Fusion is a startup that's basically asking \"what if we did that, but now?\" Its ITER equivalent, a tokamak called SPARC, is over 70 percent complete and is planned to be operating as soon as next year. The company already has a site and customers for the power-generating follow-on, called ARC. Both of those projects are predicated on using high-temperature superconductors to generate an extremely powerful magnetic field that will allow the company to build a smaller reactor, and thus get things done faster. Years of running plasmas through tokamaks has given us confidence that the basics of these plans are sound. But there are lots of potential devils in the details (otherwise there'd be little need for experimental reactors). So Commonwealth's scientists, in collaboration with the academic community, have recently released five peer-reviewed papers that detail its plans for ARC: what our best models tell us now, and what we'll still need to learn from SPARC to finalize the design of a production fusion plant.Read full article Comments",
+          "feed_position": 13,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/image-1-1152x648.jpeg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/image-1-1152x648.jpeg",
+      "popularity_score": 133
+    },
+    {
+      "id": "cluster_122",
       "coverage": 1,
       "updated_at": "Tue, 09 Jun 2026 18:42:19 +0000",
       "title": "NASA assigns crew for Artemis III, sets aggressive timeline for flying it",
@@ -362,111 +522,15 @@
           "title": "NASA assigns crew for Artemis III, sets aggressive timeline for flying it",
           "standfirst": "\"Artemis III will be an extraordinary demonstration of what is possible.\"",
           "content": "The US space agency unveiled the crew for its Artemis III mission on Tuesday during an enthusiastic event at Johnson Space Center in Houston. For this spaceflight into low-Earth orbit, which will see the Orion spacecraft rendezvous and dock with lunar lander prototypes, NASA chose an experienced, all-male crew with military backgrounds. They were revealed inside a darkened Teague Auditorium where hundreds of friends, family members, and NASA employees cheered enthusiastically. The four crew members are:Read full article Comments",
-          "feed_position": 9,
+          "feed_position": 17,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/artemis-3-1-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/artemis-3-1-1152x648.jpg",
-      "popularity_score": 243.39077083333333
+      "popularity_score": 133
     },
     {
-      "id": "cluster_127",
-      "coverage": 1,
-      "updated_at": "Tue, 09 Jun 2026 13:05:49 +0000",
-      "title": "Apple says its AI is still private, even when it's running on Google's servers",
-      "neutral_headline": "Apple says its AI is still private, even when it's running on Google's servers",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/apple/2026/06/apple-says-its-ai-is-still-private-even-when-its-running-on-googles-servers/",
-          "published_at": "Tue, 09 Jun 2026 13:05:49 +0000",
-          "title": "Apple says its AI is still private, even when it's running on Google's servers",
-          "standfirst": "Some models run in Google's cloud, but without giving Google any kind of access.",
-          "content": "CUPERTINO, California—Apple announced earlier this year that its long-delayed Siri upgrade, announced this week as \"Siri AI,\" would use Google's Gemini language models. What the company confirmed at its Worldwide Developers Conference yesterday was that it also ran on Nvidia hardware installed in Google servers. But the company is still making the same privacy promises it did before, when all of its AI models were either running locally on your devices or on Apple-controlled server hardware. For years, Apple has touted user privacy as a key benefit of using its platforms. Its cloud services use encryption that's intended to keep other people—including Apple employees—from being able to gain access to it. And the company has long advertised its use of on-device processing for things like scanning images, keeping as much data as possible from leaving your device in the first place. But with Apple Intelligence, Apple has run up against the limits of its own hardware. The kinds of language and reasoning models that can run locally on an iPhone or Mac are relatively small, limiting their capabilities and accuracy. Apple's Private Cloud Compute system was a partial solution but relied on Apple's own server hardware; to get the kind of capacity it would need to support Siri AI, Apple would have had to commit to a huge data center buildout that it has so far avoided.Read full article Comments",
-          "feed_position": 16,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/IMG_8097-1152x648-1780966699.jpeg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/IMG_8097-1152x648-1780966699.jpeg",
-      "popularity_score": 166
-    },
-    {
-      "id": "cluster_116",
-      "coverage": 1,
-      "updated_at": "Tue, 09 Jun 2026 15:12:43 +0000",
-      "title": "High-severity vulnerability in Linux caused by a single faulty character",
-      "neutral_headline": "High-severity vulnerability in Linux caused by a single faulty character",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/06/a-single-errant-character-in-the-linux-kernel-allows-attacker-to-gain-root/",
-          "published_at": "Tue, 09 Jun 2026 15:12:43 +0000",
-          "title": "High-severity vulnerability in Linux caused by a single faulty character",
-          "standfirst": "Use-after-free bug can be exploited to evade sandbox defenses.",
-          "content": "Researchers have analyzed a high-severity vulnerability in Linux that’s able to escalate untrusted users to root by exploiting a bug you don't often see: a single errant character inside the kernel. The vulnerability, tracked as CVE-2026-23111, is located in nf_tables, a subsystem of the Linux kernel that provides packet filtering capabilities. It’s used to manage firewall rules and replaces older subsystems such as iptables, ip6tables, arptables, and ebtables. !!!WTF!!! The presence of a single mis-issued exclamation point in code implementing nf_tables introduced a use-after-free, a class of vulnerability that corrupts memory by placing malicious code at memory addresses that haven’t been properly freed of their previous contents. CVE-2026-23111 can be exploited by an unprivileged user or process to elevate system rights to root.Read full article Comments",
-          "feed_position": 13,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
-      "popularity_score": 139
-    },
-    {
-      "id": "cluster_128",
-      "coverage": 1,
-      "updated_at": "Tue, 09 Jun 2026 13:00:46 +0000",
-      "title": "First Drive: The 2027 Rivian R2 entirely changes the EV game",
-      "neutral_headline": "First Drive: The 2027 Rivian R2 entirely changes the EV game",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/06/first-drive-the-2027-rivian-r2-entirely-changes-the-ev-game/",
-          "published_at": "Tue, 09 Jun 2026 13:00:46 +0000",
-          "title": "First Drive: The 2027 Rivian R2 entirely changes the EV game",
-          "standfirst": "Rivian's second EV is the sub-$60,000 R2, and it was worth the wait.",
-          "content": "Rivian provided flights from Los Angeles to Salt Lake City, Utah, and accommodation so Ars could drive the R2. Ars does not accept paid editorial content. This month, Rivian begins customer deliveries of the highly anticipated R2 model that aims to bring the startup’s aspirational adventure lifestyle to the mainstream EV market. That has required cutting costs, scaling production, and reaching new customers—a big brief, then, for the diminutive R2. To show exactly how a startup transitions to a mass-market automaker, Rivian hosted a picturesque media event in Utah that included both on and off-road driving in the Launch Edition that stickers for just under $60,000 (including destination). We also got plenty of access to the technological development that underpins the brand’s critical electric crossover. The R2 almost perfectly matches the dimensions of today's best-selling US cars. This dedicated two-row model, versus the R1’s three-row S or pickup truck T, measures 185.9 inches (4,722 mm) long, or about 1 inch (25.4 mm) longer than a Honda CRV. The R1’s instantly recognizable profile and design language carry through, but unique packaging requirements dictated nifty design solutions.Read full article Comments",
-          "feed_position": 17,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Ars-Technica-Rivian-R2-Pics-27-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Ars-Technica-Rivian-R2-Pics-27-1152x648.jpg",
-      "popularity_score": 139
-    },
-    {
-      "id": "cluster_144",
-      "coverage": 1,
-      "updated_at": "Mon, 08 Jun 2026 21:56:28 +0000",
-      "title": "Tests suggest Russian satellites can jam GPS on a continental scale",
-      "neutral_headline": "Tests suggest Russian satellites can jam GPS on a continental scale",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/06/tests-suggest-russian-satellites-can-jam-gps-on-a-continental-scale/",
-          "published_at": "Mon, 08 Jun 2026 21:56:28 +0000",
-          "title": "Tests suggest Russian satellites can jam GPS on a continental scale",
-          "standfirst": "Mystery of GPS interference across Europe raises questions about Russian motives.",
-          "content": "Russian satellites have been identified as the cause of mysterious, seconds-long bursts of GPS interference across Europe—a rare example of human-made GPS interference coming from space. But uncertainty still hangs over whether such interference is intentional and if it could be more powerfully weaponized as GPS jamming with continental reach in the future. The discovery came from an investigation detailed in a June 2 preprint paper by Todd Humphreys and his student Zach Clements at The University of Texas at Austin, along with Argyris Kriezis at Stanford University in California. By sifting through public data from ground-based stations with global navigation satellite system (GNSS) receivers, they identified a pattern of high-powered interference lasting less than 10 seconds each time but simultaneously detectable by ground stations across Europe from Norway to Spain to Poland, and even reaching as far west as Greenland and Canada. By analyzing the ground station data from January 2019 to April 2026, the researchers found 75 days with at least one widespread GNSS interference event overlapping with the GPS L1 frequency band centered on 1575.42 megahertz. That represents the main band used for signal transmission by the US-made GPS satellite constellation and GNSS constellations from other countries.Read full article Comments",
-          "feed_position": 19,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Cloud-free_Europe-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Cloud-free_Europe-1152x648.jpg",
-      "popularity_score": 138
-    },
-    {
-      "id": "cluster_101",
+      "id": "cluster_125",
       "coverage": 1,
       "updated_at": "Tue, 09 Jun 2026 17:09:10 +0000",
       "title": "Screwworms in US: Human risk is low—but they can burrow through your skull",
@@ -482,7 +546,7 @@
           "title": "Screwworms in US: Human risk is low—but they can burrow through your skull",
           "standfirst": "The chances are low, but not zero.",
           "content": "Ravenous, flesh-eating flies have busted through containment barriers and have now reemerged in the US. On Monday and Tuesday, the US Department of Agriculture reported three new cases, bringing the tally to five. One of the cases is in a dog, though it's unclear where it became infected; the dog lives in New Mexico, had its infection reported in Texas, and may have recently traveled to Mexico, where the flies are also spreading. But the other four US cases were all in Texas—and all in calves—two in Zavala County and two in La Salle County. Almost all the attention over screwworm's resurgence has focused on the threat to livestock, like the calves and, in turn, the financial risk to the cattle industry. The fly's voracious, screw-shaped larvae can fell cattle if given the chance, and preventing infestations requires intense vigilance. The USDA has estimated that if the flies stage a comeback rivaling isolated outbreaks of the past, they could cost Texas producers $732 million per year and the Texas economy $1.8 billion.Read full article Comments",
-          "feed_position": 10,
+          "feed_position": 18,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2016/11/CSIRO_ScienceImage_115_The_Tip_of_a_Screw_Worm_Fly_Larvae.jpg"
         }
       ],
@@ -490,7 +554,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_108",
+      "id": "cluster_128",
       "coverage": 1,
       "updated_at": "Tue, 09 Jun 2026 16:31:10 +0000",
       "title": "One day after discovery, Meta pulls facial recognition code from its smart glasses",
@@ -506,107 +570,11 @@
           "title": "One day after discovery, Meta pulls facial recognition code from its smart glasses",
           "standfirst": "Meta won't say why or whether it's coming back.",
           "content": "One day after WIRED revealed that Meta had quietly embedded an unreleased face-recognition system into an app installed on more than 50 million phones, the company removed it, according to a WIRED analysis of the latest version’s code. The most recent version of Meta AI, a companion app for its line of smart glasses, strips out the unactivated software components that powered the system Meta internally called NameTag. The version published the day of WIRED’s report included several code libraries explicitly named for face recognition. Friday’s release includes none of them. Andy Stone, Meta's vice president of communications, told WIRED on Monday that the feature is purely exploratory, adding: “No final decision has been made on what to do here, if anything.”Read full article Comments",
-          "feed_position": 11,
+          "feed_position": 19,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/zuck-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/zuck-1152x648.jpg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_112",
-      "coverage": 1,
-      "updated_at": "Tue, 09 Jun 2026 15:44:36 +0000",
-      "title": "Drone boat picked up downed US Army helicopter pilots—a first for sea rescues",
-      "neutral_headline": "Drone boat picked up downed US Army helicopter pilots—a first for sea rescues",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/06/us-military-claims-first-drone-boat-rescue-of-downed-helicopter-crew/",
-          "published_at": "Tue, 09 Jun 2026 15:44:36 +0000",
-          "title": "Drone boat picked up downed US Army helicopter pilots—a first for sea rescues",
-          "standfirst": "US Navy’s Task Force 59 achieved the drone rescue at sea near Strait of Hormuz.",
-          "content": "A drone boat picked up two US Army pilots from waters near the Strait of Hormuz after their helicopter gunship went down, US military officials said. The incident apparently represents the first time the US military has used a drone for such a rescue mission at sea. The two crew members from the US Army AH-64 Apache were “rescued by American forces” at 7:33 pm US Eastern Time after their helicopter went down off the coast of Oman on June 8, according to a US Central Command press release. That press release mentioned support from US Navy units including the US 5th Fleet’s Task Force 59, which is charged with integrating uncrewed aerial, surface, and underwater vehicles, alongside AI, into 5th Fleet maritime operations. Anonymous US military officials initially told CBS News that the Apache air crew was rescued by an uncrewed surface drone operated by Task Force 59 from the US Fifth Fleet in Bahrain. The officials also described the incident as the first time the military had used a drone to rescue people from the water.Read full article Comments",
-          "feed_position": 12,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Corsair-Saronic.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Corsair-Saronic.jpg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_123",
-      "coverage": 1,
-      "updated_at": "Tue, 09 Jun 2026 14:23:59 +0000",
-      "title": "Gold isn’t inert, it just has bodyguards protecting it",
-      "neutral_headline": "Gold isn’t inert, it just has bodyguards protecting it",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/06/gold-isnt-inert-it-just-has-bodyguards-protecting-it/",
-          "published_at": "Tue, 09 Jun 2026 14:23:59 +0000",
-          "title": "Gold isn’t inert, it just has bodyguards protecting it",
-          "standfirst": "Individual gold atoms move around to form oxidation-proof structures.",
-          "content": "Gold is weird. It's one of the few metals that doesn’t really oxidize. Even silver and copper—from the same column of the periodic table—form weak oxides. Naively, you might expect that gold would tarnish just like silver. Gold also sits right next to platinum, but it has none of that metal’s catalytic properties. Then came gold nanoparticles that acted like catalysts, and we were confused by their apparent willingness to take part in chemical reactions. Now, a pair of scientists has explained that gold’s inertness isn’t inherent to the atom but rather to the surfaces that gold crystals form. Before we get to the results, let’s first take a look at the traditional explanation for gold’s inertness and why an inert material that has no catalytic activity suddenly acts as a catalyst when in its nanoparticle form.Read full article Comments",
-          "feed_position": 14,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1337410884-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1337410884-1152x648.jpg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_124",
-      "coverage": 1,
-      "updated_at": "Tue, 09 Jun 2026 14:00:20 +0000",
-      "title": "Here's Audi's next Q7 SUV and US-only SQ7, now with an RS V8",
-      "neutral_headline": "Here's Audi's next Q7 SUV and US-only SQ7, now with an RS V8",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/06/heres-audis-next-q7-suv-and-us-only-sq7-now-with-an-rs-v8/",
-          "published_at": "Tue, 09 Jun 2026 14:00:20 +0000",
-          "title": "Here's Audi's next Q7 SUV and US-only SQ7, now with an RS V8",
-          "standfirst": "At night, the car projects its turn signals onto the road to alert other road users.",
-          "content": "Audi provided flights from Washington, DC, to Munich, Germany, and accommodation so Ars could see the Q7, as well as the Q9. We also drove the new RS5. Ars does not accept paid editorial content. MUNICH, GERMANY—Audi is having a bit of an SUV renaissance lately. Over the past 18 months, it has brought out a new electric Q6 and replaced the midsize Q5, and later this summer we'll get to see the Q9, a full-size leviathan with the Escalade in its sights. But today it's the turn of an all-new version of the Q7, and the North America-only SQ7, both of which go on sale later this year for model year 2027. The standard Q7 will come to the US with a twin-turbo 2.9 L V6 that generates 429 hp (320 kW) and 442 lb-ft (600 Nm). Meanwhile, the SQ7 borrows the 591 hp (441 kW), 590 lb-ft (800 Nm) V8 as found under the hood of the RS7. But there's no plug-in hybrid version slated as far as we know. Both models use an eight-speed automatic transmission (ZF's very capable 8HP) and all-wheel drive. Audi says these are the quickest-accelerating Q7 and SQ7s it has made, and it also says they should be much better to drive, too. Standard Q7s will ride on steel springs or can option the adaptive air suspension that's standard on the SQ7—this gets an optional third mode that lowers the car by more than an inch (30 mm).Read full article Comments",
-          "feed_position": 15,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Original-17081-all-new-2027-audi-sq7-8700-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Original-17081-all-new-2027-audi-sq7-8700-1152x648.jpg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_142",
-      "coverage": 1,
-      "updated_at": "Tue, 09 Jun 2026 00:59:40 +0000",
-      "title": "FCC lifts looming deadline for Amazon Leo satellite broadband constellation",
-      "neutral_headline": "FCC lifts looming deadline for Amazon Leo satellite broadband constellation",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/06/fcc-lifts-looming-deadline-for-amazon-leo-satellite-broadband-constellation/",
-          "published_at": "Tue, 09 Jun 2026 00:59:40 +0000",
-          "title": "FCC lifts looming deadline for Amazon Leo satellite broadband constellation",
-          "standfirst": "The waiver \"serves the public interest by promoting a second large satellite broadband constellation.\"",
-          "content": "The Federal Communications Commission has waived a requirement for Amazon to launch half of its satellite broadband constellation by the end of July, a key regulatory reprieve that buys the tech giant time to get more of its spacecraft into orbit. Amazon won regulatory approval for the Amazon Leo network in July 2020. The FCC's authorization came with two deadlines. First, Amazon had to launch half of its 3,232 satellites by July 30, 2026, in order to maintain authorization to launch the rest of the network. The regulator gave Amazon a deadline of July 30, 2029, to have all of its first-generation satellites in orbit. It has been apparent for some time that Amazon would not meet the FCC's requirement to launch half of its satellites—1,616 spacecraft—by the end of next month. Amazon filed an application in January requesting the FCC extend the deadline to July 2028 or waive it altogether. The commission decided on the latter option, removing any time limit for the 50 percent deployment milestone, but keeping the July 2029 deadline in place for the entire constellation.Read full article Comments",
-          "feed_position": 18,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/amazon-leo-space-amazon-news-nb-032326-1152x648-1780966770.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/amazon-leo-space-amazon-news-nb-032326-1152x648-1780966770.jpg",
       "popularity_score": 133
     }
   ]
