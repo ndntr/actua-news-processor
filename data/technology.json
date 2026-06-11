@@ -1,8 +1,51 @@
 {
-  "updated_at": "2026-06-10T21:22:39.949Z",
+  "updated_at": "2026-06-11T00:10:48.536Z",
   "clusters": [
     {
-      "id": "cluster_32",
+      "id": "cluster_3",
+      "coverage": 3,
+      "updated_at": "Wed, 10 Jun 2026 19:30:00 -0400",
+      "title": "Instagram expands Your Algorithm to its main feed, letting users choose topics they want to see, and is working to support requests for people, moods, and more (Jay Peters/The Verge)",
+      "neutral_headline": "You can just tell the Instagram algorithm what you want now",
+      "bullet_summary": [
+        "Reported by TechMeme, Engadget, The Verge"
+      ],
+      "items": [
+        {
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/260610/p62#a260610p62",
+          "published_at": "Wed, 10 Jun 2026 19:30:00 -0400",
+          "title": "Instagram expands Your Algorithm to its main feed, letting users choose topics they want to see, and is working to support requests for people, moods, and more (Jay Peters/The Verge)",
+          "standfirst": "Jay Peters / The Verge: Instagram expands Your Algorithm to its main feed, letting users choose topics they want to see, and is working to support requests for people, moods, and more &mdash; Adam Mosseri wants AI to give users a sense of control over recommendations.&#65279; &mdash; Instagram is going to let you tweak &hellip;",
+          "content": "Jay Peters / The Verge: Instagram expands Your Algorithm to its main feed, letting users choose topics they want to see, and is working to support requests for people, moods, and more &mdash; Adam Mosseri wants AI to give users a sense of control over recommendations.&#65279; &mdash; Instagram is going to let you tweak &hellip;",
+          "feed_position": 1,
+          "image_url": "http://www.techmeme.com/260610/i62.jpg"
+        },
+        {
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2191695/you-can-personalize-your-instagram-algorithm-now/",
+          "published_at": "Wed, 10 Jun 2026 18:44:26 +0000",
+          "title": "You can personalize your Instagram algorithm now — unless you want to see more posts from accounts you follow",
+          "standfirst": "Instagram has expanded its algorithm personalization features to its main feed.",
+          "content": "Instagram has expanded its algorithm personalization features to its main feed.",
+          "feed_position": 8,
+          "image_url": "https://www.engadget.com/img/gallery/you-can-personalize-your-instagram-algorithm-now-unless-you-want-to-see-more-posts-from-accounts-you-follow/l-intro-1781116970.jpg"
+        },
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/947898/meta-instagram-your-algorithm-main-feed-tell",
+          "published_at": "2026-06-10T13:06:10-04:00",
+          "title": "You can just tell the Instagram algorithm what you want now",
+          "standfirst": "Instagram is going to let you tweak what its algorithm shows you on your main feed. With the Your Algorithm feature, \"you can now see the topics we think you're interested in, and change them, across all the major parts of Instagram,\" according to Instagram boss Adam Mosseri. Right now, the feature will only surface [&#8230;]",
+          "content": "Instagram is going to let you tweak what its algorithm shows you on your main feed. With the Your Algorithm feature, \"you can now see the topics we think you're interested in, and change them, across all the major parts of Instagram,\" according to Instagram boss Adam Mosseri. Right now, the feature will only surface topics, but Instagram is working on \"supporting requests for people, different moods or vibes, content types, and more.\" The company has been slowly giving users more agency over some algorithms on Instagram, having already launched the Your Algorithm feature for your Reels feed and the Explore page. With Wednesday's announcemen … Read the full story at The Verge.",
+          "feed_position": 8
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/260610/i62.jpg",
+      "popularity_score": 3019.319851111111
+    },
+    {
+      "id": "cluster_47",
       "coverage": 3,
       "updated_at": "Wed, 10 Jun 2026 13:55:00 -0400",
       "title": "Cybersecurity researchers complain that Claude Fable's guardrails are too strict, rejecting \"innocuous tasks\" like reading blog posts or performing code reviews (Lorenzo Franceschi-Bicchierai/TechCrunch)",
@@ -18,7 +61,7 @@
           "title": "Cybersecurity researchers complain that Claude Fable's guardrails are too strict, rejecting \"innocuous tasks\" like reading blog posts or performing code reviews (Lorenzo Franceschi-Bicchierai/TechCrunch)",
           "standfirst": "Lorenzo Franceschi-Bicchierai / TechCrunch: Cybersecurity researchers complain that Claude Fable's guardrails are too strict, rejecting &ldquo;innocuous tasks&rdquo; like reading blog posts or performing code reviews &mdash; Anthropic released its latest model Fable on Tuesday, billing it as a public and limited version of its powerful and much-hyped cybersecurity model Mythos.",
           "content": "Lorenzo Franceschi-Bicchierai / TechCrunch: Cybersecurity researchers complain that Claude Fable's guardrails are too strict, rejecting &ldquo;innocuous tasks&rdquo; like reading blog posts or performing code reviews &mdash; Anthropic released its latest model Fable on Tuesday, billing it as a public and limited version of its powerful and much-hyped cybersecurity model Mythos.",
-          "feed_position": 7,
+          "feed_position": 14,
           "image_url": "http://www.techmeme.com/260610/i49.jpg"
         },
         {
@@ -28,7 +71,7 @@
           "title": "Cybersecurity researchers aren&#8217;t happy about the guardrails on Anthropic&#8217;s Fable",
           "standfirst": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
           "content": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
-          "feed_position": 9
+          "feed_position": 12
         },
         {
           "source": "Ars Technica",
@@ -37,82 +80,48 @@
           "title": "Anthropic says these topics are too dangerous to let its Fable 5 model talk about",
           "standfirst": "New frontier model refuses cybersecurity, biology, and chemistry queries.",
           "content": "Anthropic Tuesday publicly released Claude Fable 5, its first \"Mythos-class\" model that it says surpasses its previous frontier Opus models in overall capabilities. But the model's launch today comes with safeguards designed to prevent it from answering queries on topics like cybersecurity, biology, and chemistry, where the company has publicly worried about its potential impact to \"uplift\" malicious actors. Anthropic says Fable 5 operates on the \"same underlying model\" as Mythos 5, which is coming out of its monthslong \"Mythos Preview\" period today, but only for \"a small group of cyberdefenders\" judged trustworthy through the existing Project Glasswing. Unlike Mythos 5, though, the publicly accessible Fable 5 is designed to funnel queries on certain sensitive topics to the earlier Claude Opus 4.8 model and to warn the user when this is happening. Among the many claimed benchmark improvements for Fable 5, the one related to cybersecurity was a particularly large jump. Credit: Anthropic Anthropic said it has tuned these safeguards to be \"stricter than ideal,\" meaning the system may occasionally refuse \"harmless requests\" in a way that it acknowledges may be frustrating for regular users. But Anthropic says such false positives come up in less than five percent of all sessions in testing, and were worth it to avoid situations where Mythos could give malicious actors assistance in \"causing serious harm that they couldn’t have received from other sources.\"Read full article Comments",
-          "feed_position": 15,
+          "feed_position": 17,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1599973349-1152x648.jpg"
         }
       ],
       "featured_image": "http://www.techmeme.com/260610/i49.jpg",
-      "popularity_score": 3016.5389030555557
+      "popularity_score": 3013.736517777778
     },
     {
-      "id": "cluster_25",
+      "id": "cluster_17",
       "coverage": 2,
-      "updated_at": "Wed, 10 Jun 2026 18:44:26 +0000",
-      "title": "You can personalize your Instagram algorithm now — unless you want to see more posts from accounts you follow",
-      "neutral_headline": "You can just tell the Instagram algorithm what you want now",
+      "updated_at": "Wed, 10 Jun 2026 17:30:01 -0400",
+      "title": "Sources: Microsoft's Xbox division is planning major layoffs next month and significant budget cuts for marketing and some other areas (Jason Schreier/Bloomberg)",
+      "neutral_headline": "Xbox warns of a &#8216;reset&#8217; as it prepares for layoffs",
       "bullet_summary": [
-        "Reported by Engadget, The Verge"
-      ],
-      "items": [
-        {
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2191695/you-can-personalize-your-instagram-algorithm-now/",
-          "published_at": "Wed, 10 Jun 2026 18:44:26 +0000",
-          "title": "You can personalize your Instagram algorithm now — unless you want to see more posts from accounts you follow",
-          "standfirst": "Instagram has expanded its algorithm personalization features to its main feed.",
-          "content": "Instagram has expanded its algorithm personalization features to its main feed.",
-          "feed_position": 5,
-          "image_url": "https://www.engadget.com/img/gallery/you-can-personalize-your-instagram-algorithm-now-unless-you-want-to-see-more-posts-from-accounts-you-follow/l-intro-1781116970.jpg"
-        },
-        {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/947898/meta-instagram-your-algorithm-main-feed-tell",
-          "published_at": "2026-06-10T13:06:10-04:00",
-          "title": "You can just tell the Instagram algorithm what you want now",
-          "standfirst": "Instagram is going to let you tweak what its algorithm shows you on your main feed. With the Your Algorithm feature, \"you can now see the topics we think you're interested in, and change them, across all the major parts of Instagram,\" according to Instagram boss Adam Mosseri. Right now, the feature will only surface [&#8230;]",
-          "content": "Instagram is going to let you tweak what its algorithm shows you on your main feed. With the Your Algorithm feature, \"you can now see the topics we think you're interested in, and change them, across all the major parts of Instagram,\" according to Instagram boss Adam Mosseri. Right now, the feature will only surface topics, but Instagram is working on \"supporting requests for people, different moods or vibes, content types, and more.\" The company has been slowly giving users more agency over some algorithms on Instagram, having already launched the Your Algorithm feature for your Reels feed and the Explore page. With Wednesday's announcemen … Read the full story at The Verge.",
-          "feed_position": 6
-        }
-      ],
-      "featured_image": "https://www.engadget.com/img/gallery/you-can-personalize-your-instagram-algorithm-now-unless-you-want-to-see-more-posts-from-accounts-you-follow/l-intro-1781116970.jpg",
-      "popularity_score": 2017.3627919444446
-    },
-    {
-      "id": "cluster_42",
-      "coverage": 2,
-      "updated_at": "Wed, 10 Jun 2026 13:05:01 -0400",
-      "title": "Sources: Microsoft is restricting employees from using Claude Fable 5 because of Anthropic's new 30-day data retention requirements (Tom Warren/The Verge)",
-      "neutral_headline": "Microsoft restricts Claude Fable for employees over data retention concerns",
-      "bullet_summary": [
-        "While Microsoft quickly rolled out Claude Fable 5 to its GitHub Copilot and Foundry customers, I'm [&#8230;]",
         "Reported by TechMeme, The Verge"
       ],
       "items": [
         {
           "source": "TechMeme",
-          "url": "https://www.techmeme.com/260610/p48#a260610p48",
-          "published_at": "Wed, 10 Jun 2026 13:05:01 -0400",
-          "title": "Sources: Microsoft is restricting employees from using Claude Fable 5 because of Anthropic's new 30-day data retention requirements (Tom Warren/The Verge)",
-          "standfirst": "Tom Warren / The Verge: Sources: Microsoft is restricting employees from using Claude Fable 5 because of Anthropic's new 30-day data retention requirements &mdash; Microsoft's legal teams are evaluating Anthropic's new data retention changes. &hellip; Anthropic released Claude Fable, its first Mythos-class AI model &hellip;",
-          "content": "Tom Warren / The Verge: Sources: Microsoft is restricting employees from using Claude Fable 5 because of Anthropic's new 30-day data retention requirements &mdash; Microsoft's legal teams are evaluating Anthropic's new data retention changes. &hellip; Anthropic released Claude Fable, its first Mythos-class AI model &hellip;",
-          "feed_position": 8,
-          "image_url": "http://www.techmeme.com/260610/i48.jpg"
+          "url": "https://www.techmeme.com/260610/p57#a260610p57",
+          "published_at": "Wed, 10 Jun 2026 17:30:01 -0400",
+          "title": "Sources: Microsoft's Xbox division is planning major layoffs next month and significant budget cuts for marketing and some other areas (Jason Schreier/Bloomberg)",
+          "standfirst": "Jason Schreier / Bloomberg: Sources: Microsoft's Xbox division is planning major layoffs next month and significant budget cuts for marketing and some other areas &mdash; Asha Sharma's first major cuts will arrive in July &mdash; Microsoft Corp.'s Xbox division is planning major job cuts next month as new Chief Executive &hellip;",
+          "content": "Jason Schreier / Bloomberg: Sources: Microsoft's Xbox division is planning major layoffs next month and significant budget cuts for marketing and some other areas &mdash; Asha Sharma's first major cuts will arrive in July &mdash; Microsoft Corp.'s Xbox division is planning major job cuts next month as new Chief Executive &hellip;",
+          "feed_position": 6,
+          "image_url": "http://www.techmeme.com/260610/i57.jpg"
         },
         {
           "source": "The Verge",
-          "url": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
-          "published_at": "2026-06-10T12:50:23-04:00",
-          "title": "Microsoft restricts Claude Fable for employees over data retention concerns",
-          "standfirst": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tell me that Microsoft is limiting the use of Claude Fable 5 for employees because of Anthropic's new data retention requirements. While Microsoft quickly rolled out Claude Fable 5 to its GitHub Copilot and Foundry customers, I'm [&#8230;]",
-          "content": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tell me that Microsoft is limiting the use of Claude Fable 5 for employees because of Anthropic's new data retention requirements. While Microsoft quickly rolled out Claude Fable 5 to its GitHub Copilot and Foundry customers, I'm told the model isn't available in the model picker that Microsoft employees use for internal versions of GitHub Copilot. All other Claude models are still available internally at Microsoft, because they operate under Zero Data Retention (ZDR) rules. I understand that Microsoft ha … Read the full story at The Verge.",
-          "feed_position": 8
+          "url": "https://www.theverge.com/games/948142/microsoft-xbox-layoffs-reset-asha-sharma",
+          "published_at": "2026-06-10T17:28:53-04:00",
+          "title": "Xbox warns of a &#8216;reset&#8217; as it prepares for layoffs",
+          "standfirst": "Microsoft's Xbox division will be hit with significant layoffs next month, according to people familiar with Microsoft's plans. The company has been preparing for the layoffs internally for weeks, with Xbox CEO Asha Sharma hinting about \"making hard choices\" last month. Sources suggest the cuts could even involve a studio closure, or changes to the [&#8230;]",
+          "content": "Microsoft's Xbox division will be hit with significant layoffs next month, according to people familiar with Microsoft's plans. The company has been preparing for the layoffs internally for weeks, with Xbox CEO Asha Sharma hinting about \"making hard choices\" last month. Sources suggest the cuts could even involve a studio closure, or changes to the Xbox studio lineup. In a recent Giant Bomb episode, rumors of 1,000 layoffs for Microsoft's Xbox division were mentioned. Bloomberg also reported today that the cuts would be \"major,\" and involve budget cuts for marketing and other areas of Microsoft's Xbox business. Moments before Bloomberg's r … Read the full story at The Verge.",
+          "feed_position": 1
         }
       ],
-      "featured_image": "http://www.techmeme.com/260610/i48.jpg",
-      "popularity_score": 2015.7058475
+      "featured_image": "http://www.techmeme.com/260610/i57.jpg",
+      "popularity_score": 2017.3201288888888
     },
     {
-      "id": "cluster_82",
+      "id": "cluster_89",
       "coverage": 2,
       "updated_at": "Wed, 10 Jun 2026 13:31:37 +0000",
       "title": "Racist comments targeting politicians tripled since Meta relaxed its rules",
@@ -128,7 +137,7 @@
           "title": "Racist comments targeting politicians tripled since Meta relaxed its rules",
           "standfirst": "Violent threats against lawmakers have also surged on Facebook.",
           "content": "Last year, Meta radically overhauled the rules around what content it would allow on its platforms. The company claimed that its own efforts policing speech had gone too far and that it would relax the rules around what speech was allowed. “We have been over-enforcing our rules, limiting legitimate political debate and censoring too much trivial content and subjecting too many people to frustrating enforcement actions,” Joel Kaplan, Meta’s chief global affairs officer, wrote in a blog post at the time. Over a year later, new research from the Center for Countering Digital Hate (CCDH) shows the immediate impact of these changes. The researchers analyzed about 8 million Facebook comments and found that abusive and racist comments targeting both Republican and Democrat lawmakers tripled in the six months after the new rules were put in place. Some categories of abusive comments documented by the researchers saw even sharper rises, with violent threats and hate speech quadrupling during the same period.Read full article Comments",
-          "feed_position": 8,
+          "feed_position": 10,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/getty-meta-apps-1152x648.jpg"
         },
         {
@@ -143,10 +152,34 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/getty-meta-apps-1152x648.jpg",
-      "popularity_score": 2012.1491808333333
+      "popularity_score": 2009.3467955555554
     },
     {
-      "id": "cluster_20",
+      "id": "cluster_11",
+      "coverage": 1,
+      "updated_at": "Wed, 10 Jun 2026 22:16:57 +0000",
+      "title": "Diabetes org apologizes for ejecting scientists over criticism of Trump",
+      "neutral_headline": "Diabetes org apologizes for ejecting scientists over criticism of Trump",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/06/diabetes-org-apologizes-for-ejecting-scientists-over-criticism-of-trump/",
+          "published_at": "Wed, 10 Jun 2026 22:16:57 +0000",
+          "title": "Diabetes org apologizes for ejecting scientists over criticism of Trump",
+          "standfirst": "For days after the stunning incident, the ADA had doubled-down on the choice.",
+          "content": "Amid intense backlash, the head of the American Diabetes Association posted a video Wednesday apologizing for the organization's decision on Friday to forcefully remove five leading diabetes scientists from the association's annual meeting. The scientists were ejected for handing out copies of an April editorial—published in the ADA's own journal Diabetes Care—that sharply criticizes the Trump administration for the damage and destruction it's wreaking on biomedical research. The five scientists included Steven Kahn, professor of medicine at the University of Washington, who is the editor-in-chief of Diabetes Care and a co-author of the editorial. It also included former ADA President Desmond Schatz of the University of Florida. The scientists were distributing the editorial outside the conference's opening speech, which was originally scheduled to be given by Jay Bhattacharya, head of the National Institutes of Health under Trump. Bhattacharya canceled at the last minute, and senior NIH official Rick Woychik took his place.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/diabetes1-1152x648-1780778332.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/diabetes1-1152x648-1780778332.jpg",
+      "popularity_score": 351.1023511111111
+    },
+    {
+      "id": "cluster_37",
       "coverage": 1,
       "updated_at": "Wed, 10 Jun 2026 19:29:21 +0000",
       "title": "Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster",
@@ -162,15 +195,39 @@
           "title": "Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster",
           "standfirst": "Diffusion AI is most common in image generation, but it can make text outputs much faster.",
           "content": "Another day, another AI model from Google. This time, Google DeepMind has released a new member of the Gemma 4 open model family, but it's fundamentally different from the rest of the lineup. DiffusionGemma doesn't generate outputs linearly like most AI models. Instead, it can produce an entire block of text in parallel. Google says this makes it faster and more efficient when running on local hardware like an Nvidia DGX or a humble gaming GPU. Most AI models are designed to be autoregressive—they generate text left to right one token at a time. DiffusionGemma has more in common with image generation models, which start with static and then denoise it to create the desired content. This model takes a field of placeholder tokens running over the canvas multiple times to generate likely tokens and using those to improve estimation of others. At the end of the process, the model finalizes its token outputs in one large block—the \"denoised\" text canvas. DiffusionGemma is fairly large in the realm of Google's open models. It's a Mixture of Experts (MoE) model with a total of 26 billion parameters, but only 3.8 billion are activated during inference. That means it should fit in the 18GB RAM allotment of a high-end GPU. In testing with an RTX 5090, DiffusionGemma spits out around 700 tokens per second. With a single Nvidia H100 AI accelerator, DiffusionGemma can produce 1,000+ tokens per second. That's about four times the output of the similarly sized autoregressive Gemma models.Read full article Comments",
-          "feed_position": 1,
+          "feed_position": 3,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/HeroVisual.width-2200.format-webp-1152x648.png"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/HeroVisual.width-2200.format-webp-1152x648.png",
-      "popularity_score": 368.11140305555557
+      "popularity_score": 345.3090177777778
     },
     {
-      "id": "cluster_12",
+      "id": "cluster_16",
+      "coverage": 1,
+      "updated_at": "Wed, 10 Jun 2026 21:30:44 +0000",
+      "title": "Man sues Florida cops over arrest spurred by \"93% match\" in facial recognition",
+      "neutral_headline": "Man sues Florida cops over arrest spurred by \"93% match\" in facial recognition",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/06/man-jailed-due-to-faulty-face-recognition-says-florida-cops-ignored-other-evidence/",
+          "published_at": "Wed, 10 Jun 2026 21:30:44 +0000",
+          "title": "Man sues Florida cops over arrest spurred by \"93% match\" in facial recognition",
+          "standfirst": "Lawsuit: \"Police let an error-prone AI system stand in for an investigation.\"",
+          "content": "A man suing Florida police alleges that cops relied on a faulty facial recognition match and concealed exculpatory evidence when they arrested him on a charge of attempting to lure a child in August 2024. The plaintiff, Robert Dillon, was arrested after a facial recognition system flagged him as a 93 percent match to a suspect filmed by a McDonald's surveillance camera. \"This case is about what happens when police let an error-prone artificial intelligence system stand in for an investigation,\" said the lawsuit filed today. \"A facial recognition algorithm flagged Robert Dillon as the man who tried to lure or entice a child under twelve years old at a Jacksonville Beach McDonald’s. It was wrong. Mr. Dillon, a fifty-two-year-old resident of Fort Myers, had never set foot in Jacksonville Beach. But rather than test the machine’s answer against the evidence that would have cleared him, the officers built a case to confirm it. Mr. Dillon was arrested and prosecuted for one of the most stigmatizing crimes a person can face.\" Dillon lives more than 300 miles from Jacksonville Beach, and a police search of a license plate reader database found no evidence he was in the area when the alleged crime was committed, the lawsuit said. Dillon was flagged as the suspect based on a low-quality image, specifically a photo taken of a McDonald's computer screen that was displaying video surveillance footage, the lawsuit said.Read full article Comments",
+          "feed_position": 1,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/02/getty-facial-scan-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2022/02/getty-facial-scan-1152x648.jpg",
+      "popularity_score": 340.3320733333333
+    },
+    {
+      "id": "cluster_30",
       "coverage": 1,
       "updated_at": "Wed, 10 Jun 2026 19:57:56 +0000",
       "title": "Logitech’s foldable mouse is for people who refuse to carry a mouse with them",
@@ -186,15 +243,15 @@
           "title": "Logitech’s foldable mouse is for people who refuse to carry a mouse with them",
           "standfirst": "The Mobi Fold is an $80 Bluetooth mouse with a silicone-wrapped hinge.",
           "content": "I see it often. Hardworking professionals in cafés, airports, or parks hunched over a laptop while carefully dragging their fingers over their PC’s trackpad to navigate some email, project, or alert that can’t be ignored. They would prefer a mouse to a trackpad, but are reluctant to travel with one. When you’re on the go, carrying a mouse can seem burdensome or unnecessary. But I’d argue that it’s worth the boost in efficiency and comfort when navigating your computer, tablet, or phone. For the people who refuse to carry a bulky mouse with them, even when they plan to use their computer away from their desk, I’m glad Logitech launched the Mobi Fold, a foldable, wireless mouse. But I’d still push reluctant mobile mouse users toward something even more comfortable. Logitech’s Mobi Fold The mouse's PAW3222 sensor supports 400-4,000 DPI in 100-DPI increments. Credit: Logitech The Logitech Mobi Fold released today for $80 folds in half so that it’s easy to carry around. Logitech’s announcement claimed that it found that “while 72 percent of professionals own a mouse, only 26 percent actually use one when working in public places.” The announcement didn’t explain Logitech’s methodology, but it seems that someone at the Swiss company has also grimaced at the awkwardly bent wrist of people using laptop trackpads in public.Read full article Comments",
-          "feed_position": 0,
+          "feed_position": 2,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Logitech-Mobi-Fold-cover-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Logitech-Mobi-Fold-cover-1152x648.jpg",
-      "popularity_score": 351.58779194444446
+      "popularity_score": 328.7854066666667
     },
     {
-      "id": "cluster_37",
+      "id": "cluster_52",
       "coverage": 1,
       "updated_at": "Wed, 10 Jun 2026 17:19:31 +0000",
       "title": "Nobody needs AI to search the Internet, court says in ruling against Google",
@@ -210,15 +267,15 @@
           "title": "Nobody needs AI to search the Internet, court says in ruling against Google",
           "standfirst": "Google AI Overview court loss in Germany could spell doom for AI search industry.",
           "content": "Potentially impacting all AI search engines and chatbots known to poorly paraphrase source links, a German court has ruled that Google is liable for false statements in AI Overviews. The preliminary ruling came in a case flagged by The Decoder, where two publishers found that Google's AI Overviews incorrectly linked them to scams and other sketchy business practices. After smearing publishers by making affirmative statements like \"Yes, [it] is known for dubious business practices and is often perceived as a scam,\" Google failed to correct the misleading output, even after the publishers sent a cease-and-desist letter earlier this year. Google tried the usual arguments to shield itself from liability for false statements in AI Overviews, such as arguing that most users understand that AI outputs aren't always accurate and must be verified.Read full article Comments",
-          "feed_position": 3,
+          "feed_position": 5,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2277898840-1024x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2277898840-1024x648.jpg",
-      "popularity_score": 345.9475141666667
+      "popularity_score": 323.1451288888889
     },
     {
-      "id": "cluster_35",
+      "id": "cluster_50",
       "coverage": 1,
       "updated_at": "Wed, 10 Jun 2026 17:31:13 +0000",
       "title": "We managed to glean some interesting details about the Artemis III mission",
@@ -234,15 +291,15 @@
           "title": "We managed to glean some interesting details about the Artemis III mission",
           "standfirst": "\"I was on the phone with Blue Origin leadership that night, all the next day, all through the weekend.\"",
           "content": "On Tuesday, NASA announced the crew for the Artemis III mission, which is scheduled to be flown no earlier than summer 2027. As part of the announcement, space agency officials also discussed plans for the crew to dock with both a Blue Origin lander and a SpaceX Starship lander during the spaceflight in low-Earth orbit. The presentation, although informative, still left open key questions about the landers' readiness and what exactly they'll look like. After the crew announcement, Ars sat down with Jeremy Parsons, NASA's Artemis program manager, to answer some of these questions. This interview, conducted at NASA's Johnson Space Center, has been lightly edited for clarity.Read full article Comments",
-          "feed_position": 2,
+          "feed_position": 4,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/NHQ202604010037medium-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/NHQ202604010037medium-1152x648.jpg",
-      "popularity_score": 344.1425141666667
+      "popularity_score": 321.3401288888889
     },
     {
-      "id": "cluster_44",
+      "id": "cluster_58",
       "coverage": 1,
       "updated_at": "Wed, 10 Jun 2026 17:04:47 +0000",
       "title": "Cheap Iranian drone downed $25 million US Army helicopter—maybe by chance",
@@ -258,15 +315,15 @@
           "title": "Cheap Iranian drone downed $25 million US Army helicopter—maybe by chance",
           "standfirst": "The US military struck Iran again after an Iranian drone’s lucky midair strike.",
           "content": "A US Army helicopter gunship was apparently struck by an Iranian Shahed drone before going down near the Strait of Hormuz—but it's unclear whether the one-way attack drone was deliberately aimed or achieved more of a lucky accidental strike. Axios correspondent Barak Ravid first reported an unnamed US government official’s comments that an Iranian drone had hit the US Army AH-64 Apache helicopter before the latter went down on June 8. The New York Times later confirmed that reporting through more anonymous US officials, including one official who said US military investigators were still evaluating whether the Iranian drone strike on the helicopter was intentional or accidental. Iran has fired thousands of such Shahed drones against a wide range of military and civilian targets in the Gulf region since February 28, 2026, when the United States and Israel began the war by jointly attacking Iran with a barrage of bombs and missiles. But Shahed drones have mainly struck stationary targets such as Amazon data centers and energy facilities, sometimes hitting slow-moving commercial ships in the Strait of Hormuz.Read full article Comments",
-          "feed_position": 4,
+          "feed_position": 6,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Apache-helicopters-Strait-of-Hormuz.jpeg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Apache-helicopters-Strait-of-Hormuz.jpeg",
-      "popularity_score": 308.70195861111114
+      "popularity_score": 285.8995733333333
     },
     {
-      "id": "cluster_52",
+      "id": "cluster_64",
       "coverage": 1,
       "updated_at": "Wed, 10 Jun 2026 16:39:43 +0000",
       "title": "Valve kills its retail gift card program due to scammers",
@@ -282,15 +339,15 @@
           "title": "Valve kills its retail gift card program due to scammers",
           "standfirst": "Move also cuts off a massive market of legit users who buy cards with physical cash.",
           "content": "For years, Valve's physical Steam gift cards have been the closest you could come to buying a Steam game at a brick-and-mortar store. Now, Valve says it is phasing out the production of new retail gift cards, citing a losing battle against scammers exploiting the hard-to-track payment method. PC Guide was among the first to note the end of Valve's retail gift card program, which was quietly announced in a recent update to a Steam support page. Since launching the retail cards in 2012, Valve says it has been fighting a constant battle with scammers, who instruct victims to purchase gift cards and share the pertinent details and security PIN. Those scammers can then resell the gift card details at a discount on gray-market sites to effectively launder the funds, creating an anonymous and hard-to-trace form of payment. Valve says it has made various moves to slow scammers, including placing limits on redemption and availability and adding a prominent warning on the cards themselves: \"Never share a pin via email, social media or over the phone.\"Read full article Comments",
-          "feed_position": 6,
+          "feed_position": 8,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/steamcard-1152x648-1781107823.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/steamcard-1152x648-1781107823.jpg",
-      "popularity_score": 303.2841808333333
+      "popularity_score": 280.48179555555555
     },
     {
-      "id": "cluster_49",
+      "id": "cluster_62",
       "coverage": 1,
       "updated_at": "Wed, 10 Jun 2026 16:52:36 +0000",
       "title": "OB-GYNs release their own vaccine schedule, rejecting RFK Jr.'s meddling",
@@ -306,15 +363,15 @@
           "title": "OB-GYNs release their own vaccine schedule, rejecting RFK Jr.'s meddling",
           "standfirst": "Thirteen other medical groups have already endorsed the independent schedule.",
           "content": "For the first time, the American College of Obstetricians & Gynecologists (ACOG) has released its own recommendations for maternal vaccination, providing formal guidance that diverges from that of the Centers for Disease Control and Prevention amid unprecedented policy changes and meddling from anti-vaccine Health Secretary Robert F. Kennedy Jr. ACOG President Camille Clare blamed \"changing national recommendations coupled with rampant vaccine misinformation\" for the confusion among patients and health care professionals about vaccines during pregnancy. \"It is incredibly important for the public to have access to reliable, evidence-based information on maternal immunizations from a trusted source. ACOG is proud to be that source,\" Clare said in a statement.Read full article Comments",
-          "feed_position": 5,
+          "feed_position": 7,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2021/10/GettyImages-1232871329-1152x648.jpeg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2021/10/GettyImages-1232871329-1152x648.jpeg",
-      "popularity_score": 298.49890305555556
+      "popularity_score": 275.6965177777778
     },
     {
-      "id": "cluster_61",
+      "id": "cluster_70",
       "coverage": 1,
       "updated_at": "Wed, 10 Jun 2026 16:10:20 +0000",
       "title": "The 2026 Honda Prelude review: Didn't expect such a head-turner",
@@ -330,39 +387,15 @@
           "title": "The 2026 Honda Prelude review: Didn't expect such a head-turner",
           "standfirst": "Honda's $42,000 hybrid coupe looks great, handles well, and gets 44 mpg.",
           "content": "You can tell Honda was trying to manage expectations when it emailed me to stress that \"the Prelude is not a sports car.\" And I can understand why. On paper, the specs make the sleek coupe—technically a three-door hatch—seem underwhelming. Especially if you start comparing it to alternatives. A Mazda MX-5 or Subaru BRZ weighs hundreds of pounds less, and the Subaru packs more power than the Prelude's 200 hp (149 kW). A Volkswagen Golf GTI weighs about the same as the Prelude at 3,261 lbs (1,479 kg), but it delivers 20 percent more power and offers rear seats that actually accommodate adults. But after a week with the bright blue Prelude, it's hard to care about the specs. This might be one of the best cars we'll drive all year. Then again, looking back across the previous five generations, the Prelude was never really a sports car. It has always been a technology showcase for Honda, introducing features like fuel injection, four-wheel steering, variable valve timing, and active torque transfer. For the sixth-generation Prelude, the headline feature is Honda's S+ shift, which adds some sporty character to the OEM's four-cylinder hybrid.Read full article Comments",
-          "feed_position": 7,
+          "feed_position": 9,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/2026-Honda-Prelude-5-1152x648-1781104671.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/2026-Honda-Prelude-5-1152x648-1781104671.jpg",
-      "popularity_score": 288.7944586111111
+      "popularity_score": 265.99207333333334
     },
     {
-      "id": "cluster_84",
-      "coverage": 1,
-      "updated_at": "Wed, 10 Jun 2026 13:13:33 +0000",
-      "title": "GM Energy introduces V2G support and new energy storage battery chemistry",
-      "neutral_headline": "GM Energy introduces V2G support and new energy storage battery chemistry",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/06/gm-energy-introduces-v2g-support-and-new-energy-storage-battery-chemistry/",
-          "published_at": "Wed, 10 Jun 2026 13:13:33 +0000",
-          "title": "GM Energy introduces V2G support and new energy storage battery chemistry",
-          "standfirst": "There are more than a quarter of a million V2G-capable GM EVs on the roads already.",
-          "content": "Electric vehicle sales might be better now than the end of last year when demand fell off a cliff following the surge of purchases ahead of the end of the federal financial incentives, but it's clear they haven't panned out as well as many in the automotive industry had hoped. Still, at a GM event Ars attended in San Francisco this week, the company continues to stick to its guns with an EV lineup spanning its brands. The automaker shared that it has also been working toward the adoption of bidirectional charging to help balance the grid. With the rise of AI, data centers are placing more and more pressure on the nation's electric infrastructure. GM wants to relieve some of that pressure with news that its GM Energy products now support vehicle-to-grid (V2G) in addition to vehicle-to-home. The grid integration requires working with utilities and includes launch partners PG&E in California and DTE Energy in Michigan. For standalone energy storage solutions, the company also announced partnering with Peak Energy on the development of sodium-ion batteries built specifically for grid energy storage.Read full article Comments",
-          "feed_position": 9,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GM-Energy-home-energy-system-2-1152x648.png"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GM-Energy-home-energy-system-2-1152x648.png",
-      "popularity_score": 254.84806972222222
-    },
-    {
-      "id": "cluster_119",
+      "id": "cluster_112",
       "coverage": 1,
       "updated_at": "Tue, 09 Jun 2026 20:15:45 +0000",
       "title": "Paramount accuses Netflix of \"scorched-earth campaign\" against WBD merger",
@@ -378,7 +411,7 @@
           "title": "Paramount accuses Netflix of \"scorched-earth campaign\" against WBD merger",
           "standfirst": "Netflix's response: \"Absurd.\"",
           "content": "Paramount Skydance is accusing Netflix of maintaining a campaign against its proposed acquisition of Warner Bros. Discovery (WBD). In a June 5 letter (PDF) addressed to Jared A. Hughes, acting section chief of the Media, Entertainment, and Communications Section of the US Department of Justice's (DOJ's) Antitrust Division, and A. Maya Kahn, a trial attorney for the Antitrust Division, and first reported on by Politico today, Paramount chief legal officer Makan Delrahim accused Netflix of trying to influence stakeholders about the merger. The letter reads: Indeed, Netflix’s panic-level response and scorched-earth campaign to try and poison regulators and other stakeholders against the Transaction shows just how seriously Netflix takes Paramount as a scaled competitor. The letter from Delrahim, a former assistant attorney general for the Antitrust Division, is a response to a letter that The International Brotherhood of Teamsters sent to the DOJ in March. The teamsters' letter argued that Paramount and WBD's merger would threaten film and TV workers. The union, which has 1.3 million members, asked the DOJ to block the merger \"unless substantial and enforceable safeguards are put in place to increase domestic production and protect jobs,\" per an announcement from the group.Read full article Comments",
-          "feed_position": 14,
+          "feed_position": 16,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1185995584.jpg"
         }
       ],
@@ -386,7 +419,7 @@
       "popularity_score": 148
     },
     {
-      "id": "cluster_116",
+      "id": "cluster_109",
       "coverage": 1,
       "updated_at": "Tue, 09 Jun 2026 20:56:52 +0000",
       "title": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
@@ -402,7 +435,7 @@
           "title": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
           "standfirst": "A separate zero-day also disclosed by Nightmare Eclipse appears to be patched as well.",
           "content": "Microsoft on Tuesday released fixes for two high-severity zero-days that were disclosed by a researcher who has been locked in a testy beef with the software giant. Nightmare Eclipse, the pseudonym the researcher goes by, released a handful of high-severity vulnerabilities in recent months, making them zero-days that had the potential to be exploited in the wild. The researcher has said the disclosures, which included proof-of-concept code, came after Microsoft reneged on an arrangement the two made regarding vulnerabilities they had discussed. Disclosure drama “But someone violated our agreement and left me homeless with nothing,” Nightmare Eclipse wrote in March. “They knew this will happen and they still stabbed me in the back anyways, this is their decision not mine.”Read full article Comments",
-          "feed_position": 11,
+          "feed_position": 13,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg"
         }
       ],
@@ -410,7 +443,7 @@
       "popularity_score": 145
     },
     {
-      "id": "cluster_121",
+      "id": "cluster_113",
       "coverage": 1,
       "updated_at": "Tue, 09 Jun 2026 18:57:25 +0000",
       "title": "Google announces Gemini 3.5 Live Translate for instant voice-to-voice translation",
@@ -426,7 +459,7 @@
           "title": "Google announces Gemini 3.5 Live Translate for instant voice-to-voice translation",
           "standfirst": "Voice translations preserve speaker's tone, pacing, pitch—with SynthID watermarks for security.",
           "content": "Google has been chasing real-time translation for years, which it says has been one of its \"pioneering machine learning experiments.\" We've seen numerous demos on stage at Google events in the past, but you needed Google phones, earbuds, or some other specific setup. Last year, Google brought real-time translation to more users in the Translate app, and now it's expanding availability more. With the release of Gemini 3.5 Live Translate, you'll have access to instant translation in more places and with lower latency than ever before. The new AI model is part of the version 3.5 family that launched at I/O. Before today, Google had only rolled out the Flash version, but we're expecting a Pro model to drop in the coming weeks. Gemini 3.5 Live Translate is a speech-to-speech model tuned to automatically detect and translate in more than 70 languages. Google says Gemini 3.5 Live Translate is fast enough to keep up with a normal conversation, following just a few seconds behind the speaker while also matching intonation, pacing, and pitch. In short, the voice sounds more like you than a generic robot. The demos, which are all being recorded under controlled conditions, do sound impressive. You won't have to wait long to verify the model's abilities for yourself, though.Read full article Comments",
-          "feed_position": 16,
+          "feed_position": 18,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-4-1152x648.jpg"
         }
       ],
@@ -434,7 +467,31 @@
       "popularity_score": 145
     },
     {
-      "id": "cluster_114",
+      "id": "cluster_90",
+      "coverage": 1,
+      "updated_at": "Wed, 10 Jun 2026 13:13:33 +0000",
+      "title": "GM Energy introduces V2G support and new energy storage battery chemistry",
+      "neutral_headline": "GM Energy introduces V2G support and new energy storage battery chemistry",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/cars/2026/06/gm-energy-introduces-v2g-support-and-new-energy-storage-battery-chemistry/",
+          "published_at": "Wed, 10 Jun 2026 13:13:33 +0000",
+          "title": "GM Energy introduces V2G support and new energy storage battery chemistry",
+          "standfirst": "There are more than a quarter of a million V2G-capable GM EVs on the roads already.",
+          "content": "Electric vehicle sales might be better now than the end of last year when demand fell off a cliff following the surge of purchases ahead of the end of the federal financial incentives, but it's clear they haven't panned out as well as many in the automotive industry had hoped. Still, at a GM event Ars attended in San Francisco this week, the company continues to stick to its guns with an EV lineup spanning its brands. The automaker shared that it has also been working toward the adoption of bidirectional charging to help balance the grid. With the rise of AI, data centers are placing more and more pressure on the nation's electric infrastructure. GM wants to relieve some of that pressure with news that its GM Energy products now support vehicle-to-grid (V2G) in addition to vehicle-to-home. The grid integration requires working with utilities and includes launch partners PG&E in California and DTE Energy in Michigan. For standalone energy storage solutions, the company also announced partnering with Peak Energy on the development of sodium-ion batteries built specifically for grid energy storage.Read full article Comments",
+          "feed_position": 11,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GM-Energy-home-energy-system-2-1152x648.png"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GM-Energy-home-energy-system-2-1152x648.png",
+      "popularity_score": 142.04568444444445
+    },
+    {
+      "id": "cluster_107",
       "coverage": 1,
       "updated_at": "Tue, 09 Jun 2026 21:05:39 +0000",
       "title": "Starlink charges $10 monthly hardware fee in move away from one-time purchases",
@@ -450,7 +507,7 @@
           "title": "Starlink charges $10 monthly hardware fee in move away from one-time purchases",
           "standfirst": "Starlink, SpaceX's top moneymaker, also raised service prices by $5 to $10.",
           "content": "Starlink has started charging a $10 monthly rental fee for hardware in a shift away from its longtime practice of selling hardware to customers for a one-time charge. Starlink residential ordering pages now show an upfront hardware cost of $0 and a monthly kit fee of $10, similar to the hardware rental fees long charged by cable and telecom companies. Starlink hardware includes a terminal to receive satellite signals and a router to place in a user's home. The monthly kit fee is in addition to Internet service prices, which Starlink recently raised by $5 to $10 per month. Starlink is charging $55 a month for 100Mbps, $85 for 200Mbps, and $130 for the \"Max\" tier that can go up to 400Mbps. Starlink also provides a professional-installation service for a one-time fee of $199, or for no additional charge if you subscribe to the Max plan.Read full article Comments",
-          "feed_position": 10,
+          "feed_position": 12,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/getty-starlink-1152x648.jpg"
         }
       ],
@@ -458,7 +515,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_117",
+      "id": "cluster_110",
       "coverage": 1,
       "updated_at": "Tue, 09 Jun 2026 20:35:22 +0000",
       "title": "Three key vital signs make up the \"urban pulse\" of a city",
@@ -474,7 +531,7 @@
           "title": "Three key vital signs make up the \"urban pulse\" of a city",
           "standfirst": "Cities are dynamic, not static grids, and urbanization is a \"spiky,\" cyclical, and asynchronous process.",
           "content": "People often speak metaphorically of the heartbeat or pulse of a city, but according to the authors of a new paper published in the Proceedings of the National Academy of Sciences, cities do indeed have an \"urban pulse\"—an indication of urban \"metabolic activity\" that can be measured to suss out telltale patterns. And those patterns could help inform future public policy around urban planning. The precise definition of urbanization has shifted over the centuries. Zhe Zhu of the University of Connecticut and his fellow authors adopted a broad version for their study. It features fundamental \"processes of concurrent change in at least six dimensions, including demography, economy, infrastructure, environment, governance and culture,\" they wrote. \"Together they give rise to outcomes, measurable results of the process, such as population growth, urban land expansion, GDP growth, and innovation.\" Their chosen metrics reflect this dynamic view: Cities are not static grids but \"living, adaptive ecosystems.\" “For decades, we had just been capturing the outcome of urbanization—a house that’s been built, or a road expansion,” said Zhu. “But you don’t really see the dynamics within an urban area. This is going to be a very impactful tool influencing not only top-down policy decisions from governments but also bottom-up decisions from everyday people navigating their cities.” One day we may be able to check a neighborhood's \"urban pulse\" while house-hunting, for instance, or while scouting potential locations for a new business.Read full article Comments",
-          "feed_position": 12,
+          "feed_position": 14,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/urbanpulse1-1152x648.jpg"
         }
       ],
@@ -482,7 +539,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_118",
+      "id": "cluster_111",
       "coverage": 1,
       "updated_at": "Tue, 09 Jun 2026 20:25:56 +0000",
       "title": "Commonwealth Fusion makes the physics case for its 400 MW reactor",
@@ -498,7 +555,7 @@
           "title": "Commonwealth Fusion makes the physics case for its 400 MW reactor",
           "standfirst": "Five peer-reviewed papers update the design and model its expected output.",
           "content": "The scientific community has a plan for achieving fusion power. It involves getting a better understanding of how to control fusion in a tokamak-style reactor using the currently under construction ITER reactor, and then using that knowledge to build DEMO-style plants. But ITER isn't even expected to see hot plasmas until the middle of the 2030s, by which point solar panels will be so cheap that we'll probably all be getting them free in our cereal boxes. Commonwealth Fusion is a startup that's basically asking \"what if we did that, but now?\" Its ITER equivalent, a tokamak called SPARC, is over 70 percent complete and is planned to be operating as soon as next year. The company already has a site and customers for the power-generating follow-on, called ARC. Both of those projects are predicated on using high-temperature superconductors to generate an extremely powerful magnetic field that will allow the company to build a smaller reactor, and thus get things done faster. Years of running plasmas through tokamaks has given us confidence that the basics of these plans are sound. But there are lots of potential devils in the details (otherwise there'd be little need for experimental reactors). So Commonwealth's scientists, in collaboration with the academic community, have recently released five peer-reviewed papers that detail its plans for ARC: what our best models tell us now, and what we'll still need to learn from SPARC to finalize the design of a production fusion plant.Read full article Comments",
-          "feed_position": 13,
+          "feed_position": 15,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/image-1-1152x648.jpeg"
         }
       ],
@@ -506,7 +563,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_122",
+      "id": "cluster_114",
       "coverage": 1,
       "updated_at": "Tue, 09 Jun 2026 18:42:19 +0000",
       "title": "NASA assigns crew for Artemis III, sets aggressive timeline for flying it",
@@ -522,59 +579,11 @@
           "title": "NASA assigns crew for Artemis III, sets aggressive timeline for flying it",
           "standfirst": "\"Artemis III will be an extraordinary demonstration of what is possible.\"",
           "content": "The US space agency unveiled the crew for its Artemis III mission on Tuesday during an enthusiastic event at Johnson Space Center in Houston. For this spaceflight into low-Earth orbit, which will see the Orion spacecraft rendezvous and dock with lunar lander prototypes, NASA chose an experienced, all-male crew with military backgrounds. They were revealed inside a darkened Teague Auditorium where hundreds of friends, family members, and NASA employees cheered enthusiastically. The four crew members are:Read full article Comments",
-          "feed_position": 17,
+          "feed_position": 19,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/artemis-3-1-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/artemis-3-1-1152x648.jpg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_125",
-      "coverage": 1,
-      "updated_at": "Tue, 09 Jun 2026 17:09:10 +0000",
-      "title": "Screwworms in US: Human risk is low—but they can burrow through your skull",
-      "neutral_headline": "Screwworms in US: Human risk is low—but they can burrow through your skull",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/health/2026/06/screwworms-in-us-human-risk-is-low-but-they-can-burrow-through-your-skull/",
-          "published_at": "Tue, 09 Jun 2026 17:09:10 +0000",
-          "title": "Screwworms in US: Human risk is low—but they can burrow through your skull",
-          "standfirst": "The chances are low, but not zero.",
-          "content": "Ravenous, flesh-eating flies have busted through containment barriers and have now reemerged in the US. On Monday and Tuesday, the US Department of Agriculture reported three new cases, bringing the tally to five. One of the cases is in a dog, though it's unclear where it became infected; the dog lives in New Mexico, had its infection reported in Texas, and may have recently traveled to Mexico, where the flies are also spreading. But the other four US cases were all in Texas—and all in calves—two in Zavala County and two in La Salle County. Almost all the attention over screwworm's resurgence has focused on the threat to livestock, like the calves and, in turn, the financial risk to the cattle industry. The fly's voracious, screw-shaped larvae can fell cattle if given the chance, and preventing infestations requires intense vigilance. The USDA has estimated that if the flies stage a comeback rivaling isolated outbreaks of the past, they could cost Texas producers $732 million per year and the Texas economy $1.8 billion.Read full article Comments",
-          "feed_position": 18,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2016/11/CSIRO_ScienceImage_115_The_Tip_of_a_Screw_Worm_Fly_Larvae.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2016/11/CSIRO_ScienceImage_115_The_Tip_of_a_Screw_Worm_Fly_Larvae.jpg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_128",
-      "coverage": 1,
-      "updated_at": "Tue, 09 Jun 2026 16:31:10 +0000",
-      "title": "One day after discovery, Meta pulls facial recognition code from its smart glasses",
-      "neutral_headline": "One day after discovery, Meta pulls facial recognition code from its smart glasses",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/06/one-day-after-discovery-meta-pulls-facial-recognition-code-from-its-smart-glasses/",
-          "published_at": "Tue, 09 Jun 2026 16:31:10 +0000",
-          "title": "One day after discovery, Meta pulls facial recognition code from its smart glasses",
-          "standfirst": "Meta won't say why or whether it's coming back.",
-          "content": "One day after WIRED revealed that Meta had quietly embedded an unreleased face-recognition system into an app installed on more than 50 million phones, the company removed it, according to a WIRED analysis of the latest version’s code. The most recent version of Meta AI, a companion app for its line of smart glasses, strips out the unactivated software components that powered the system Meta internally called NameTag. The version published the day of WIRED’s report included several code libraries explicitly named for face recognition. Friday’s release includes none of them. Andy Stone, Meta's vice president of communications, told WIRED on Monday that the feature is purely exploratory, adding: “No final decision has been made on what to do here, if anything.”Read full article Comments",
-          "feed_position": 19,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/zuck-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/zuck-1152x648.jpg",
       "popularity_score": 133
     }
   ]
