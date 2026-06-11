@@ -1,17 +1,63 @@
 {
   "clinical": {
-    "updated_at": "2026-06-11T00:10:40.147Z",
+    "updated_at": "2026-06-11T07:24:09.882Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-06-11T00:10:40.147Z",
+    "updated_at": "2026-06-11T07:24:09.882Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-06-11T00:10:41.936Z",
+    "updated_at": "2026-06-11T07:24:16.220Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Thu, 11 Jun 2026 05:43:38 GMT",
+        "title": "Pollution rules criticised for raising new home costs",
+        "neutral_headline": "Pollution rules criticised for raising new home costs",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/c5yzrpp220lo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 11 Jun 2026 05:43:38 GMT",
+            "title": "Pollution rules criticised for raising new home costs",
+            "standfirst": "Developers claim the rules will stop them from hitting housebuilding targets.",
+            "content": "Developers claim the rules will stop them from hitting housebuilding targets.",
+            "feed_position": 13,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/392b/live/e43033b0-64d2-11f1-b1db-af71d47507d6.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/392b/live/e43033b0-64d2-11f1-b1db-af71d47507d6.jpg"
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Thu, 11 Jun 2026 03:50:22 GMT",
+        "title": "Four days of extreme rain killed 7% of world's rarest orangutans, study says",
+        "neutral_headline": "Four days of extreme rain killed 7% of world's rarest orangutans, study says",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/ce8jde20v83o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 11 Jun 2026 03:50:22 GMT",
+            "title": "Four days of extreme rain killed 7% of world's rarest orangutans, study says",
+            "standfirst": "Climate change-induced weather events are pushing orangutan populations to extinction, says a study.",
+            "content": "Climate change-induced weather events are pushing orangutan populations to extinction, says a study.",
+            "feed_position": 14,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cda3/live/a670dfc0-6545-11f1-a7c3-3f1baf1de75b.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cda3/live/a670dfc0-6545-11f1-a7c3-3f1baf1de75b.jpg"
+      },
+      {
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Wed, 10 Jun 2026 18:32:46 GMT",
         "title": "A&E patients with non-urgent ailments may be told to come back later under NHS plans",
@@ -32,7 +78,7 @@
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Wed, 10 Jun 2026 18:11:32 GMT",
         "title": "'Worrying' pollution in Cotswolds river - volunteers",
@@ -48,14 +94,14 @@
             "title": "'Worrying' pollution in Cotswolds river - volunteers",
             "standfirst": "Volunteers record high phosphate and nitrate levels and call on the Environment Agency to investigate.",
             "content": "Volunteers record high phosphate and nitrate levels and call on the Environment Agency to investigate.",
-            "feed_position": 13,
+            "feed_position": 15,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59e1/live/34ebf8c0-64c9-11f1-8f51-b550443b533b.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59e1/live/34ebf8c0-64c9-11f1-8f51-b550443b533b.jpg"
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Wed, 10 Jun 2026 17:17:20 GMT",
         "title": "The fight to stop animals dying in fishing nets",
@@ -71,14 +117,14 @@
             "title": "The fight to stop animals dying in fishing nets",
             "standfirst": "Thousands of sea mammals and birds are killed as a result of fishing nets every year.",
             "content": "Thousands of sea mammals and birds are killed as a result of fishing nets every year.",
-            "feed_position": 14,
+            "feed_position": 16,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da1c/live/61979050-64bf-11f1-8f51-b550443b533b.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da1c/live/61979050-64bf-11f1-8f51-b550443b533b.jpg"
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Wed, 10 Jun 2026 17:01:37 GMT",
         "title": "US measles cases pass 2,000 this year as outbreak nears worst in decades",
@@ -99,7 +145,7 @@
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Wed, 10 Jun 2026 16:53:02 GMT",
         "title": "Rare butterfly population increases by 9000%",
@@ -115,14 +161,14 @@
             "title": "Rare butterfly population increases by 9000%",
             "standfirst": "A record number of Duke of Burgundy butterflies were recorded in Kent last year, a charity says.",
             "content": "A record number of Duke of Burgundy butterflies were recorded in Kent last year, a charity says.",
-            "feed_position": 15,
+            "feed_position": 17,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f502/live/8471d2e0-64e0-11f1-a1ac-711fb29896f6.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f502/live/8471d2e0-64e0-11f1-a1ac-711fb29896f6.jpg"
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Wed, 10 Jun 2026 16:44:11 GMT",
         "title": "Rachel Downey obituary",
@@ -143,7 +189,7 @@
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Wed, 10 Jun 2026 12:53:10 GMT",
         "title": "Is the growing use of GLP-1s reshaping ideas of Black beauty?",
@@ -165,7 +211,7 @@
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Wed, 10 Jun 2026 11:38:59 GMT",
         "title": "Liz Martin obituary",
@@ -186,30 +232,7 @@
         ]
       },
       {
-        "id": "cluster_8",
-        "coverage": 1,
-        "updated_at": "Wed, 10 Jun 2026 08:29:32 GMT",
-        "title": "Rare tiger cub from litter of four dies",
-        "neutral_headline": "Rare tiger cub from litter of four dies",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/cp8r1mm1mz6o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Wed, 10 Jun 2026 08:29:32 GMT",
-            "title": "Rare tiger cub from litter of four dies",
-            "standfirst": "These Sumatran tigers are the first of this breed to be welcomed at the animal park in Kent.",
-            "content": "These Sumatran tigers are the first of this breed to be welcomed at the animal park in Kent.",
-            "feed_position": 16,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8420/live/495ae4e0-649e-11f1-8ace-096e974f6466.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8420/live/495ae4e0-649e-11f1-8ace-096e974f6466.jpg"
-      },
-      {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Wed, 10 Jun 2026 08:26:23 GMT",
         "title": "What are the symptoms of prostate cancer and what should you check for?",
@@ -232,7 +255,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91dc/live/68492b60-5aa7-11f1-b277-cd187c78657d.jpg"
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Wed, 10 Jun 2026 08:23:21 GMT",
         "title": "Author on benefits of investing in children's mental health",
@@ -253,29 +276,6 @@
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e069/live/9b22da10-64a5-11f1-9c89-85486d952f7c.jpg"
-      },
-      {
-        "id": "cluster_11",
-        "coverage": 1,
-        "updated_at": "Wed, 10 Jun 2026 05:26:02 GMT",
-        "title": "'Our nature project has been amazing for wildlife'",
-        "neutral_headline": "'Our nature project has been for wildlife'",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/cdxpxkpx113o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Wed, 10 Jun 2026 05:26:02 GMT",
-            "title": "'Our nature project has been amazing for wildlife'",
-            "standfirst": "Residents have spent the past year sowing wildflower meadows and encouraging no mow areas.",
-            "content": "Residents have spent the past year sowing wildflower meadows and encouraging no mow areas.",
-            "feed_position": 17,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f980/live/94d1ab30-640c-11f1-a17d-bf3062638caa.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f980/live/94d1ab30-640c-11f1-a17d-bf3062638caa.jpg"
       },
       {
         "id": "cluster_12",
@@ -468,7 +468,7 @@
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-06-11T00:10:41.937Z",
+    "updated_at": "2026-06-11T07:24:16.220Z",
     "clusters": []
   }
 }
