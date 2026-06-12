@@ -1,17 +1,17 @@
 {
   "clinical": {
-    "updated_at": "2026-06-12T00:14:54.107Z",
+    "updated_at": "2026-06-12T07:16:18.646Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-06-12T00:14:54.107Z",
+    "updated_at": "2026-06-12T07:16:18.646Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-06-12T00:15:03.402Z",
+    "updated_at": "2026-06-12T07:16:27.697Z",
     "clusters": [
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 2,
         "updated_at": "Thu, 11 Jun 2026 23:02:20 GMT",
         "title": "Meningitis B vaccine to be offered to a million young people",
@@ -28,7 +28,7 @@
             "standfirst": "The decision for the one-off vaccine programme follows the unprecedented outbreak in Kent this year.",
             "content": "The decision for the one-off vaccine programme follows the unprecedented outbreak in Kent this year.",
             "feed_position": 2,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8392/live/20d8e830-65b8-11f1-bdbe-7dc6d39617db.jpg"
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47ce/live/5227f710-6625-11f1-8e1d-bbbb1017d210.jpg"
           },
           {
             "source": "Guardian Health",
@@ -37,13 +37,13 @@
             "title": "UK school leavers and new students to be offered meningitis B vaccine",
             "standfirst": "One-off programme to begin in July after recent MenB outbreaks in Kent, Dorset and Berkshire killed three peopleTeenagers in their final school year and young people starting university will be offered two doses of a vaccine to protect them against meningitis B, the government has announced.The one-off vaccination programme, which will begin in late July, comes after an unprecedented outbreak of meningitis B in Kent earlier this year along with clusters of cases in Dorset and Berkshire that, together, led to the deaths of three young people. Continue reading...",
             "content": "One-off programme to begin in July after recent MenB outbreaks in Kent, Dorset and Berkshire killed three peopleTeenagers in their final school year and young people starting university will be offered two doses of a vaccine to protect them against meningitis B, the government has announced.The one-off vaccination programme, which will begin in late July, comes after an unprecedented outbreak of meningitis B in Kent earlier this year along with clusters of cases in Dorset and Berkshire that, together, led to the deaths of three young people. Continue reading...",
-            "feed_position": 2
+            "feed_position": 3
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8392/live/20d8e830-65b8-11f1-bdbe-7dc6d39617db.jpg"
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47ce/live/5227f710-6625-11f1-8e1d-bbbb1017d210.jpg"
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 2,
         "updated_at": "Thu, 11 Jun 2026 14:28:01 GMT",
         "title": "Nearly 3,000 NHS patients a day receiving corridor care in England, figures show",
@@ -59,7 +59,7 @@
             "title": "Nearly 3,000 NHS patients a day receiving corridor care in England, figures show",
             "standfirst": "Data published for the first time recorded 2,241 daily cases of A&E corridor care, with 699 patients also treated in other inappropriate settingsAlmost 3,000 patients a day in England are receiving care in hospital corridors due to an unavailability of beds in A&E units across the country, according to official figures.Corridor care occurs when a patient receives treatment in a setting that is clinically inappropriate and is deemed to be undignified and unsafe. Continue reading...",
             "content": "Data published for the first time recorded 2,241 daily cases of A&E corridor care, with 699 patients also treated in other inappropriate settingsAlmost 3,000 patients a day in England are receiving care in hospital corridors due to an unavailability of beds in A&E units across the country, according to official figures.Corridor care occurs when a patient receives treatment in a setting that is clinically inappropriate and is deemed to be undignified and unsafe. Continue reading...",
-            "feed_position": 6
+            "feed_position": 7
           },
           {
             "source": "BBC Health",
@@ -76,6 +76,28 @@
       },
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Fri, 12 Jun 2026 05:00:36 GMT",
+        "title": "Emergency hospital admissions fell after introduction of London’s T-charge and Ulez, study suggests",
+        "neutral_headline": "Emergency hospital admissions fell after introduction of London’s T-charge...",
+        "bullet_summary": [
+          "Now analysis of health records has found emergency admissions to hospital reduced after the introduction of the T-charge and ultra-low emissions zone (Ulez) in central London",
+          "Reported by Guardian Health"
+        ],
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/environment/2026/jun/12/emergency-hospital-admissions-reduced-london-t-charge-ulez-air-quality",
+            "published_at": "Fri, 12 Jun 2026 05:00:36 GMT",
+            "title": "Emergency hospital admissions fell after introduction of London’s T-charge and Ulez, study suggests",
+            "standfirst": "Imperial College scientists analysed health records before and after introduction of air pollution reduction zonesLow emission and clean air zones attract controversy whenever they are proposed, but there is growing evidence that they work in improving air quality. The Bradford zone was followed by a reduction of about 25% in GP visits for heart and breathing problems and survey data shows that the central London zone was followed by a reduction in the likelihood of a person taking sick leave.Now analysis of health records has found emergency admissions to hospital reduced after the introduction of the T-charge and ultra-low emissions zone (Ulez) in central London. Continue reading...",
+            "content": "Imperial College scientists analysed health records before and after introduction of air pollution reduction zonesLow emission and clean air zones attract controversy whenever they are proposed, but there is growing evidence that they work in improving air quality. The Bradford zone was followed by a reduction of about 25% in GP visits for heart and breathing problems and survey data shows that the central London zone was followed by a reduction in the likelihood of a person taking sick leave.Now analysis of health records has found emergency admissions to hospital reduced after the introduction of the T-charge and ultra-low emissions zone (Ulez) in central London. Continue reading...",
+            "feed_position": 1
+          }
+        ]
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Thu, 11 Jun 2026 23:31:13 GMT",
         "title": "'I've never been this good' – revolutionary immune reset puts lupus in remission",
@@ -98,7 +120,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b06d/live/120b1c40-65b5-11f1-9fd1-0b44a7e33c3f.jpg"
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Thu, 11 Jun 2026 23:03:30 GMT",
         "title": "'I spent uni savings on getting my teeth fixed' - how NHS dentist shortage is costing a fortune",
@@ -121,7 +143,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcbc/live/dffc4bf0-65ac-11f1-8e1d-bbbb1017d210.jpg"
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Thu, 11 Jun 2026 23:01:28 GMT",
         "title": "Lupus patients in England in remission after pioneering NHS trial of GM therapy",
@@ -137,12 +159,12 @@
             "title": "Lupus patients in England in remission after pioneering NHS trial of GM therapy",
             "standfirst": "Doctors say therapy that genetically modifies person’s T-cells could offer cure for chronic autoimmune diseaseFive lupus patients in England are in remission after being treated with a revolutionary therapy that genetically modifies their own cells, in a medical breakthrough that could offer people a cure, doctors have said.CAR (chimeric antigen receptor) T-cell therapy involves removing a type of white blood cell also called T lymphocytes, which are crucial for hunting out infected or damaged cells, and engineering them to spot and destroy disease. The T-cells are then fed back into the patient via an infusion to reset their immune system. Continue reading...",
             "content": "Doctors say therapy that genetically modifies person’s T-cells could offer cure for chronic autoimmune diseaseFive lupus patients in England are in remission after being treated with a revolutionary therapy that genetically modifies their own cells, in a medical breakthrough that could offer people a cure, doctors have said.CAR (chimeric antigen receptor) T-cell therapy involves removing a type of white blood cell also called T lymphocytes, which are crucial for hunting out infected or damaged cells, and engineering them to spot and destroy disease. The T-cells are then fed back into the patient via an infusion to reset their immune system. Continue reading...",
-            "feed_position": 1
+            "feed_position": 2
           }
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Thu, 11 Jun 2026 20:00:00 GMT",
         "title": "BBC Inside Science",
@@ -165,7 +187,7 @@
         "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Thu, 11 Jun 2026 17:00:21 GMT",
         "title": "Bananas could vanish from US school meals. Here’s why",
@@ -181,12 +203,12 @@
             "title": "Bananas could vanish from US school meals. Here’s why",
             "standfirst": "New Farm Bill places caps on non-US foods; nutritionists say it restricts availability of healthy meals for kidsSchool nutrition workers and advocates have “lots of concerns about bananas”, said Erin Ogden, policy associate for federal child nutrition programs at the Center for Science in the Public Interest (CSPI).Bananas are nutrient-dense foods that many children like. That makes them popular offerings in school cafeterias, since any healthy food that a kid will eat prevents waste and ensures that child isn’t eating either nothing or something less wholesome instead. Continue reading...",
             "content": "New Farm Bill places caps on non-US foods; nutritionists say it restricts availability of healthy meals for kidsSchool nutrition workers and advocates have “lots of concerns about bananas”, said Erin Ogden, policy associate for federal child nutrition programs at the Center for Science in the Public Interest (CSPI).Bananas are nutrient-dense foods that many children like. That makes them popular offerings in school cafeterias, since any healthy food that a kid will eat prevents waste and ensures that child isn’t eating either nothing or something less wholesome instead. Continue reading...",
-            "feed_position": 3
+            "feed_position": 4
           }
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Thu, 11 Jun 2026 16:25:40 GMT",
         "title": "Wegovy weight-loss pills to be available for patients in UK to buy",
@@ -202,12 +224,12 @@
             "title": "Wegovy weight-loss pills to be available for patients in UK to buy",
             "standfirst": "Regulator approval means patients who meet criteria will be able to purchase tablets with private prescription Patients in the UK will soon be able to buy the Wegovy weight-loss pill, the medicines regulator announced on Thursday.It is the first GLP-1 receptor agonist tablet for weight-loss to be approved by the Medicines and Healthcare products Regulatory Agency (MHRA), making the UK the third country to authorise the pills, behind the US and the United Arab Emirates. Continue reading...",
             "content": "Regulator approval means patients who meet criteria will be able to purchase tablets with private prescription Patients in the UK will soon be able to buy the Wegovy weight-loss pill, the medicines regulator announced on Thursday.It is the first GLP-1 receptor agonist tablet for weight-loss to be approved by the Medicines and Healthcare products Regulatory Agency (MHRA), making the UK the third country to authorise the pills, behind the US and the United Arab Emirates. Continue reading...",
-            "feed_position": 4
+            "feed_position": 5
           }
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Thu, 11 Jun 2026 15:05:57 GMT",
         "title": "Why did it take so long for me to be diagnosed?",
@@ -230,7 +252,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9631/live/9520bbe0-64d8-11f1-8e1d-bbbb1017d210.png"
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Thu, 11 Jun 2026 15:03:19 GMT",
         "title": "How do weight-loss drugs like Mounjaro and Wegovy work?",
@@ -253,7 +275,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8acf/live/3d322ee0-8c86-11ef-8537-35d6ce5671fe.jpg"
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Thu, 11 Jun 2026 15:02:34 GMT",
         "title": "Four days of extreme rain killed 7% of world's rarest orangutans, study says",
@@ -276,7 +298,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54d2/live/3efa0290-65a4-11f1-8546-8f19e4fe30f4.jpg"
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Thu, 11 Jun 2026 15:00:13 GMT",
         "title": "Weight-loss drug Wegovy to be available in pill form in UK for first time",
@@ -299,7 +321,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d55c/live/a981e950-6592-11f1-be7e-9d9e15bac6ec.jpg"
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Thu, 11 Jun 2026 14:32:08 GMT",
         "title": "Patients are dying in A&E corridors - but I've seen how things could be different | Sophie",
@@ -315,12 +337,12 @@
             "title": "Patients are dying in A&E corridors - but I've seen how things could be different | Sophie",
             "standfirst": "When I started nursing at 21 we were able to deliver timely, good care. That has become nearly impossibleSophie (not her real name) is a member of the Royal College of Nursing and a senior A&E nurse in a hospital in the south of EnglandI began my career as an A&E nurse in 2010, when I was 21. It was a completely different world. If a patient needed immediate attention, there was easily the capacity for two nurses to look after them straight away. The NHS target of seeing patients within a four-hour window wasn’t something we gave much thought to, as it was pretty much a given that a patient would be admitted, transferred or discharged within that time. I don’t ever recall seeing a patient and feeling awful about how long they had waited.It’s amazing to think how common it used to be for emergency departments to be almost empty at times in the evenings. As well as being much needed respite from the demands of the job, it was also a valuable time to learn from more senior colleagues. Nurses with decades of experience would take new recruits under their wings and help us practise our skills. That time is when I learned to plaster limbs and dress wounds. I wish I could do the same for my junior colleagues now. We used to be able to give timely, good care – now it has become near impossible.Sophie (not her real name) is a member of the Royal College of Nursing and a senior A&E nurse in a hospital in the south of EnglandDo you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...",
             "content": "When I started nursing at 21 we were able to deliver timely, good care. That has become nearly impossibleSophie (not her real name) is a member of the Royal College of Nursing and a senior A&E nurse in a hospital in the south of EnglandI began my career as an A&E nurse in 2010, when I was 21. It was a completely different world. If a patient needed immediate attention, there was easily the capacity for two nurses to look after them straight away. The NHS target of seeing patients within a four-hour window wasn’t something we gave much thought to, as it was pretty much a given that a patient would be admitted, transferred or discharged within that time. I don’t ever recall seeing a patient and feeling awful about how long they had waited.It’s amazing to think how common it used to be for emergency departments to be almost empty at times in the evenings. As well as being much needed respite from the demands of the job, it was also a valuable time to learn from more senior colleagues. Nurses with decades of experience would take new recruits under their wings and help us practise our skills. That time is when I learned to plaster limbs and dress wounds. I wish I could do the same for my junior colleagues now. We used to be able to give timely, good care – now it has become near impossible.Sophie (not her real name) is a member of the Royal College of Nursing and a senior A&E nurse in a hospital in the south of EnglandDo you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...",
-            "feed_position": 5
+            "feed_position": 6
           }
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Thu, 11 Jun 2026 14:13:32 GMT",
         "title": "SpaceX's stock market blast-off could be Musk's biggest gamble yet",
@@ -343,7 +365,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7227/live/3f8dbf70-6325-11f1-b1db-af71d47507d6.jpg"
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Thu, 11 Jun 2026 13:56:11 GMT",
         "title": "Cancellations 'unavoidable' during hospital strike",
@@ -367,7 +389,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f092/live/5c74aa20-6598-11f1-99b8-5530f29d65f4.jpg"
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Thu, 11 Jun 2026 13:32:26 GMT",
         "title": "What is El Niño and why could it mean record temperatures?",
@@ -390,7 +412,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aeb0/live/d520e7b0-60fa-11f1-a727-c142e0d3837a.jpg"
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Thu, 11 Jun 2026 13:30:00 GMT",
         "title": "What in the World",
@@ -413,7 +435,7 @@
         "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0g0gjs2.jpg"
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Thu, 11 Jun 2026 13:26:24 GMT",
         "title": "El Niño under way and threatens weather extremes, scientists say",
@@ -436,7 +458,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b183/live/4c26bd20-65b1-11f1-8e1d-bbbb1017d210.jpg"
       },
       {
-        "id": "cluster_18",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Thu, 11 Jun 2026 10:32:09 GMT",
         "title": "Six ways to keep your home and yourself cool in hot weather",
@@ -457,34 +479,11 @@
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e24c/live/6818c2b0-4cff-11f0-9d3e-6149fb67e70c.jpg"
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Thu, 11 Jun 2026 10:28:21 GMT",
-        "title": "What to do if you think someone has heat exhaustion or heatstroke",
-        "neutral_headline": "What to do if you think someone has heat exhaustion or heatstroke",
-        "bullet_summary": [
-          "Reported by BBC Health"
-        ],
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/ckgl51jjp3jo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Thu, 11 Jun 2026 10:28:21 GMT",
-            "title": "What to do if you think someone has heat exhaustion or heatstroke",
-            "standfirst": "Know the signs and what to do if someone is unwell in hot weather.",
-            "content": "Know the signs and what to do if someone is unwell in hot weather.",
-            "feed_position": 19,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe17/live/a3996890-4b8c-11f0-8efc-193ffd471116.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe17/live/a3996890-4b8c-11f0-8efc-193ffd471116.jpg"
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-06-12T00:15:03.402Z",
+    "updated_at": "2026-06-12T07:16:27.697Z",
     "clusters": []
   }
 }
