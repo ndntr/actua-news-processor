@@ -1,16 +1,35 @@
 {
-  "updated_at": "2026-06-15T08:53:09.881Z",
+  "updated_at": "2026-06-15T16:12:44.096Z",
   "clusters": [
     {
-      "id": "cluster_0",
-      "coverage": 2,
-      "updated_at": "Mon, 15 Jun 2026 08:48:59 +0000",
-      "title": "UK will ban social media for children under 16",
-      "neutral_headline": "UK will ban social media for children under 16",
+      "id": "cluster_22",
+      "coverage": 3,
+      "updated_at": "Mon, 15 Jun 2026 14:36:56 +0000",
+      "title": "UK unveils sweeping social media ban for users under 16",
+      "neutral_headline": "UK unveils sweeping social media ban for users under 16",
       "bullet_summary": [
-        "Reported by Engadget, TechCrunch"
+        "Reported by TechCrunch, Wired Tech, Engadget"
       ],
       "items": [
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/15/uk-unveils-sweeping-social-media-ban-for-users-under-16/",
+          "published_at": "Mon, 15 Jun 2026 14:36:56 +0000",
+          "title": "UK unveils sweeping social media ban for users under 16",
+          "standfirst": "The ban would apply to a range of social media platforms including Snapchat, TikTok, YouTube, Instagram, Facebook and X.",
+          "content": "The ban would apply to a range of social media platforms including Snapchat, TikTok, YouTube, Instagram, Facebook and X.",
+          "feed_position": 2
+        },
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/uk-social-media-under-16-ban/",
+          "published_at": "Mon, 15 Jun 2026 09:01:53 +0000",
+          "title": "The UK Places a Sweeping Ban on Social Media for Kids Under 16",
+          "standfirst": "The UK government is introducing a ban on social media for children and a minimum age for some chatbots in an attempt to shield young people from dangerous corners of the web.",
+          "content": "The UK government is introducing a ban on social media for children and a minimum age for some chatbots in an attempt to shield young people from dangerous corners of the web.",
+          "feed_position": 5,
+          "image_url": "https://media.wired.com/photos/6a2eafa954889dc704dfed38/master/pass/2280926802"
+        },
         {
           "source": "Engadget",
           "url": "https://www.engadget.com/2194005/uk-will-ban-social-media-for-children-under-16/",
@@ -18,7 +37,7 @@
           "title": "UK will ban social media for children under 16",
           "standfirst": "The UK is following Australia by banning young people under 16 from TikTok, Instagram and other social media platforms.",
           "content": "The UK is following Australia by banning young people under 16 from TikTok, Instagram and other social media platforms.",
-          "feed_position": 0,
+          "feed_position": 6,
           "image_url": "https://www.engadget.com/img/gallery/uk-will-ban-social-media-for-children-under-16/l-intro-1781513221.jpg"
         },
         {
@@ -28,120 +47,118 @@
           "title": "UK may ban social media for children under 16",
           "standfirst": "The U.K. seems to be following Australia's lead in banning a wide swath of social media for teens.",
           "content": "The U.K. seems to be following Australia's lead in banning a wide swath of social media for teens.",
-          "feed_position": 3
+          "feed_position": 11
         }
       ],
-      "featured_image": "https://www.engadget.com/img/gallery/uk-will-ban-social-media-for-children-under-16/l-intro-1781513221.jpg",
-      "popularity_score": 2019.9303108333334
+      "featured_image": "https://media.wired.com/photos/6a2eafa954889dc704dfed38/master/pass/2280926802",
+      "popularity_score": 3018.4033066666666
     },
     {
-      "id": "cluster_22",
+      "id": "cluster_5",
       "coverage": 2,
-      "updated_at": "2026-06-14T16:35:41-04:00",
-      "title": "The FBI built a small town to simulate cyberattacks",
-      "neutral_headline": "The FBI built a small town to simulate cyberattacks",
+      "updated_at": "Mon, 15 Jun 2026 11:35:01 -0400",
+      "title": "Canadian payments company Nuvei agrees to acquire NY-based cross-border payments company Payoneer for ~$2.75B in cash; the deal is expected to close in mid-2027 (Reuters)",
+      "neutral_headline": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
       "bullet_summary": [
-        "Reported by The Verge, TechCrunch"
+        "75 billion in cash, the companies said on Monday &hellip;",
+        "6B, in a deal expected to close in Q4 of its 2027 fiscal year &mdash; Salesforce on Monday said it is buying AI customer service platform Fin for about $3"
       ],
       "items": [
         {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/949648/fbi-fake-town-cyberattacks-kinetic-cyber-range",
-          "published_at": "2026-06-14T16:35:41-04:00",
-          "title": "The FBI built a small town to simulate cyberattacks",
-          "standfirst": "Last year, the FBI opened a Cyber Range in Huntsville, Alabama, for simulating cyberattacks. Think of it sort of like the famous Hogan's Alley, but for modern digital crime training. It's a massive 22,000 square-foot replica of an entire town, complete with a convenience store, gas station, hospital, and even fully furnished houses. It's a [&#8230;]",
-          "content": "There’s also a fake power company to jack up prices thanks to the fake data center. | Image: FBI Last year, the FBI opened a Cyber Range in Huntsville, Alabama, for simulating cyberattacks. Think of it sort of like the famous Hogan's Alley, but for modern digital crime training. It's a massive 22,000 square-foot replica of an entire town, complete with a convenience store, gas station, hospital, and even fully furnished houses. It's a training facility where the bureau can recreate real-world scenarios for training and research purposes. All of the various buildings and facilities are hooked up the way they would be in a real town. There's even a small data center with over 200 servers that can be hacked, infected with malware, and stu … Read the full story at The Verge.",
-          "feed_position": 1
-        },
-        {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/",
-          "published_at": "Sat, 13 Jun 2026 11:00:00 +0000",
-          "title": "The FBI built its own replica small town to simulate real-world cyberattacks",
-          "standfirst": "Hidden inside a building in Alabama, the FBI has created its own small town as a dedicated cyber training ground for simulating cyberattacks.",
-          "content": "Hidden inside a building in Alabama, the FBI has created its own small town as a dedicated cyber training ground for simulating cyberattacks.",
-          "feed_position": 13
-        }
-      ],
-      "popularity_score": 2007.7086441666668
-    },
-    {
-      "id": "cluster_23",
-      "coverage": 2,
-      "updated_at": "Sun, 14 Jun 2026 19:52:45 +0000",
-      "title": "A rare sticker-sealed copy of Super Mario Bros. just sold for $3 million",
-      "neutral_headline": "A rare sticker-sealed copy of Super Mario Bros. just sold for $3 million",
-      "bullet_summary": [
-        "Reported by Engadget, The Verge"
-      ],
-      "items": [
-        {
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2193909/a-rare-sticker-sealed-copy-of-super-mario-bros-just-sold-for-3-million/",
-          "published_at": "Sun, 14 Jun 2026 19:52:45 +0000",
-          "title": "A rare sticker-sealed copy of Super Mario Bros. just sold for $3 million",
-          "standfirst": "Mamma mia!",
-          "content": "Mamma mia!",
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/260615/p27#a260615p27",
+          "published_at": "Mon, 15 Jun 2026 11:35:01 -0400",
+          "title": "Canadian payments company Nuvei agrees to acquire NY-based cross-border payments company Payoneer for ~$2.75B in cash; the deal is expected to close in mid-2027 (Reuters)",
+          "standfirst": "Reuters: Canadian payments company Nuvei agrees to acquire NY-based cross-border payments company Payoneer for ~$2.75B in cash; the deal is expected to close in mid-2027 &mdash; Nuvei will buy cross-border payments firm Payoneer (PAYO.O) for about $2.75 billion in cash, the companies said on Monday &hellip;",
+          "content": "Reuters: Canadian payments company Nuvei agrees to acquire NY-based cross-border payments company Payoneer for ~$2.75B in cash; the deal is expected to close in mid-2027 &mdash; Nuvei will buy cross-border payments firm Payoneer (PAYO.O) for about $2.75 billion in cash, the companies said on Monday &hellip;",
           "feed_position": 2,
-          "image_url": "https://www.engadget.com/img/gallery/a-rare-sticker-sealed-copy-of-super-mario-bros-just-sold-for-3-million/l-intro-1781466551.jpg"
-        },
-        {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/games/949593/super-mario-bros-3-million-auction",
-          "published_at": "2026-06-13T14:37:21-04:00",
-          "title": "Sealed Super Mario Bros. sells for a record $3 million",
-          "standfirst": "A copy of Super Mario Bros., still in the box and sealed with its original sticker, just sold at Heritage Auctions for $3 million. That absolutely crushes the previous record of $2 million, also for a copy of Super Mario Bros., in 2021. That sale also came hot on the heels of a controversial auction [&#8230;]",
-          "content": "You know this came for free bundle with the console for $150, right? | Image: Heritage Auctions A copy of Super Mario Bros., still in the box and sealed with its original sticker, just sold at Heritage Auctions for $3 million. That absolutely crushes the previous record of $2 million, also for a copy of Super Mario Bros., in 2021. That sale also came hot on the heels of a controversial auction of Super Mario 64 for $1.56 million. Part of what drove the price of this particular copy so high is that, according to Heritage Auctions, instead of shrink wrap, this 19895 second run was sealed with a glossy sticker, which was discontinued shortly after. The site claims it's the earliest known sealed copy of the game in existence. It's also gr … Read the full story at The Verge.",
-          "feed_position": 9
-        }
-      ],
-      "featured_image": "https://www.engadget.com/img/gallery/a-rare-sticker-sealed-copy-of-super-mario-bros-just-sold-for-3-million/l-intro-1781466551.jpg",
-      "popularity_score": 2006.993088611111
-    },
-    {
-      "id": "cluster_25",
-      "coverage": 2,
-      "updated_at": "2026-06-14T14:27:55-04:00",
-      "title": "China may have accessed Mythos",
-      "neutral_headline": "China may have accessed Mythos",
-      "bullet_summary": [
-        "Reported by The Verge, TechCrunch"
-      ],
-      "items": [
-        {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
-          "published_at": "2026-06-14T14:27:55-04:00",
-          "title": "China may have accessed Mythos",
-          "standfirst": "According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China. If the Chinese government actually had access to Mythos 5 or Fable 5, it would present a serious national security [&#8230;]",
-          "content": "According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China. If the Chinese government actually had access to Mythos 5 or Fable 5, it would present a serious national security risk. The government could also attempt to reverse engineer the model through distillation, a method in which a \"student\" AI is trained on a more advanced model to replicate its behavior. The White House has not confirmed this report, and a post on X by Trump advisor David Sacks did not mention China. Instead, Sacks focused on a r … Read the full story at The Verge.",
-          "feed_position": 2
-        },
-        {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
-          "published_at": "2026-06-13T17:39:26-04:00",
-          "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
-          "standfirst": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon claims that, through a series [&#8230;]",
-          "content": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon claims that, through a series of prompts, it was able to get Fable 5 to serve up information that could be used in cyberattacks. Amazon has yet to respond to a request for comment. Shortly after Jassy shared the company's findings with the government, it made the call to block its use by foreign nationals. Complicating this issue is that many of … Read the full story at The Verge.",
-          "feed_position": 7
+          "image_url": "http://www.techmeme.com/260615/i27.jpg"
         },
         {
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
-          "published_at": "Sat, 13 Jun 2026 19:11:41 +0000",
-          "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
-          "standfirst": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
-          "content": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
-          "feed_position": 10
+          "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+          "published_at": "Mon, 15 Jun 2026 14:34:45 +0000",
+          "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
+          "standfirst": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.",
+          "content": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.",
+          "feed_position": 3
+        },
+        {
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/260615/p19#a260615p19",
+          "published_at": "Mon, 15 Jun 2026 10:15:04 -0400",
+          "title": "Salesforce agrees to acquire AI customer service platform Fin, formerly Intercom, for ~$3.6B, in a deal expected to close in Q4 of its 2027 fiscal year (Samantha Subin/CNBC)",
+          "standfirst": "Samantha Subin / CNBC: Salesforce agrees to acquire AI customer service platform Fin, formerly Intercom, for ~$3.6B, in a deal expected to close in Q4 of its 2027 fiscal year &mdash; Salesforce on Monday said it is buying AI customer service platform Fin for about $3.6 billion as businesses accelerate their agentic offerings for enterprises.",
+          "content": "Samantha Subin / CNBC: Salesforce agrees to acquire AI customer service platform Fin, formerly Intercom, for ~$3.6B, in a deal expected to close in Q4 of its 2027 fiscal year &mdash; Salesforce on Monday said it is buying AI customer service platform Fin for about $3.6 billion as businesses accelerate their agentic offerings for enterprises.",
+          "feed_position": 10,
+          "image_url": "http://www.techmeme.com/260615/i19.jpg"
         }
       ],
-      "popularity_score": 2005.5791997222223
+      "featured_image": "http://www.techmeme.com/260615/i27.jpg",
+      "popularity_score": 2019.3713622222222
+    },
+    {
+      "id": "cluster_46",
+      "coverage": 2,
+      "updated_at": "Mon, 15 Jun 2026 08:15:03 -0400",
+      "title": "Sources: the US government plans to let the Federal Data Center Enhancement Act, which details standards for data center use and operations, expire in September (Wired)",
+      "neutral_headline": "The US Government Is Letting a Key Data Center Regulation Expire",
+      "bullet_summary": [
+        "Reported by TechMeme, Wired Tech"
+      ],
+      "items": [
+        {
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/260615/p15#a260615p15",
+          "published_at": "Mon, 15 Jun 2026 08:15:03 -0400",
+          "title": "Sources: the US government plans to let the Federal Data Center Enhancement Act, which details standards for data center use and operations, expire in September (Wired)",
+          "standfirst": "Wired: Sources: the US government plans to let the Federal Data Center Enhancement Act, which details standards for data center use and operations, expire in September &mdash; The federal government is planning to let a rule regulating federal data center operations sunset in September with no replacement.",
+          "content": "Wired: Sources: the US government plans to let the Federal Data Center Enhancement Act, which details standards for data center use and operations, expire in September &mdash; The federal government is planning to let a rule regulating federal data center operations sunset in September with no replacement.",
+          "feed_position": 14,
+          "image_url": "http://www.techmeme.com/260615/i15.jpg"
+        },
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/the-us-government-is-letting-a-key-data-center-regulation-expire/",
+          "published_at": "Mon, 15 Jun 2026 09:30:00 +0000",
+          "title": "The US Government Is Letting a Key Data Center Regulation Expire",
+          "standfirst": "The federal government is planning to let a rule regulating federal data center operations sunset in September with no replacement.",
+          "content": "The federal government is planning to let a rule regulating federal data center operations sunset in September with no replacement.",
+          "feed_position": 4,
+          "image_url": "https://media.wired.com/photos/6a0f46394bf37a26f8d51c88/master/pass/Trump-Administration-Plans-to-Let-Key-Oversight-Rules-for-Data-Centers-Expire-Politics-2274824987.jpg"
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/260615/i15.jpg",
+      "popularity_score": 2016.0385844444445
+    },
+    {
+      "id": "cluster_10",
+      "coverage": 1,
+      "updated_at": "Mon, 15 Jun 2026 15:25:17 +0000",
+      "title": "F1 in Spain: An old-fashioned strategy fight can still be thrilling",
+      "neutral_headline": "F1 in Spain: An old-fashioned strategy fight can still be thrilling",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/cars/2026/06/f1-in-spain-an-old-fashioned-strategy-fight-can-still-be-thrilling/",
+          "published_at": "Mon, 15 Jun 2026 15:25:17 +0000",
+          "title": "F1 in Spain: An old-fashioned strategy fight can still be thrilling",
+          "standfirst": "Armed with a ton of new upgrades, Ferrari came to Spain full of confidence.",
+          "content": "Formula 1 raced in Spain this past weekend. The Barcelona-Catalunya circuit is one of F1's purpose-built race tracks, with a number of fast corners and a track surface that's more abrasive than usual. That means downforce is the name of the game. Catalunya has always required good aerodynamics, but it's doubly important now. The more speed you can carry through a corner, the less energy you have to add on the following straight, and energy management is now as important in F1 as it is at Le Mans or in Formula E or even IndyCar. And the more downforce you have, the less the car slides, and the less the car slides, the less the tires get eaten up. It's the tire wear that suggested the strategies. So far, all the races this season have been one-stop affairs as drivers make their required change from one tire compound to another. But 66 laps of Catalunya would require at least three sets of Pirelli tires to get to the end. Maybe even four. As the tires wear, they become slower, to the tune of 0.2–0.3 seconds per lap. And one way to exploit that is with an \"undercut\"—pit early, change onto fresh rubber, and make use of the tire offset against your rivals to put in fast laps while they're losing time. Do it right, and when they make their next pit stop, you should be in front. Splitting the race into four stints means one more pit stop, and it costs about 22 seconds to drive through the pit lane, stop in the box, and then exit the pit lane again, assuming a tire change in less than three seconds. But since each set of tires is needed for fewer laps, they can be worked hard enough to offset that 22-second pit stop and more.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2281551814-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2281551814-1152x648.jpg",
+      "popularity_score": 367.20914
     },
     {
       "id": "cluster_0",
       "coverage": 1,
-      "updated_at": "2026-06-15T08:53:09.745Z",
+      "updated_at": "2026-06-15T16:12:43.955Z",
       "title": "Verizon sent man a refurbished phone with MDM, then deleted his data remotely",
       "neutral_headline": "Verizon sent man a refurbished phone with MDM, then deleted his data remotely",
       "bullet_summary": [
@@ -151,17 +168,41 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/tech-policy/2026/06/verizon-sent-man-a-refurbished-phone-with-mdm-then-deleted-his-data-remotely/",
-          "published_at": "2026-06-15T08:53:09.745Z",
+          "published_at": "2026-06-15T16:12:43.955Z",
           "title": "Verizon sent man a refurbished phone with MDM, then deleted his data remotely",
           "standfirst": "",
           "content": "",
           "feed_position": 0
         }
       ],
-      "popularity_score": 352.9999622222222
+      "popularity_score": 352.9999608333333
     },
     {
-      "id": "cluster_31",
+      "id": "cluster_30",
+      "coverage": 1,
+      "updated_at": "Mon, 15 Jun 2026 13:54:02 +0000",
+      "title": "Russia appears set to finally address long-term, serious space station cracks",
+      "neutral_headline": "Russia appears set to finally address long-term, serious space station cracks",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/06/russia-appears-set-to-finally-address-long-term-serious-space-station-cracks/",
+          "published_at": "Mon, 15 Jun 2026 13:54:02 +0000",
+          "title": "Russia appears set to finally address long-term, serious space station cracks",
+          "standfirst": "This has been a persistent, behind-the-scenes dispute between NASA and Roscosmos.",
+          "content": "Ten days ago, in a moment of very high drama in orbit, NASA directed its astronauts living on the International Space Station to briefly seek emergency refuge in a Crew Dragon spacecraft. Since then, neither the US space agency nor Roscosmos has provided additional public information about the situation in orbit. But according to sources who spoke to Ars, following the spectacle in space, the problem has been successfully fixed. At issue were persistent cracks in a small area of the International Space Station attached to the Russian Zvezda service module, known as the PrK module. The problem has been ongoing since 2019, and Russian astronauts have been attempting various fixes, often using a sealant called Germetall-1.Read full article Comments",
+          "feed_position": 1,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-71395189-1024x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-71395189-1024x648.jpg",
+      "popularity_score": 348.6883066666667
+    },
+    {
+      "id": "cluster_77",
       "coverage": 1,
       "updated_at": "Sun, 14 Jun 2026 16:02:53 +0000",
       "title": "Did a medieval flying monk spot Halley's comet, twice? It's complicated",
@@ -177,17 +218,17 @@
           "title": "Did a medieval flying monk spot Halley's comet, twice? It's complicated",
           "standfirst": "University of Leicester historian thinks Eilmer of Malmesbury saw two different comets: in 1018 and 1066",
           "content": "Early in the 11th century, a young Benedictine monk named Eilmer jumped from the 150-foot tower of his abbey in the small English town of Malmesbury, wearing a pair of crude wings he’d fashioned from willow wood and cloth. Eilmer managed to glide a good 600 feet, passing over the city wall before crash-landing in a small valley near the river Avon. The fall broke both his legs, crippling him. Malmesbury Abbey still boasts a stained-glass window in honor of Brother Eilmer. This legendary experiment in medieval aviation comes to us via 12th-century historian William of Malmesbury in an account written circa 1125, although William neglected to provide future historians with an exact date for the feat. But William does mention another key episode in Eilmer's life when the monk was \"advanced in years\": Eilmer witnessed Halley's comet in 1066, commenting, \"It is long since I saw you.\" Some historians have interpreted this to mean that Eilmer saw Halley's comet on an earlier fly-by in 989, when he would have been a young boy. Assuming Eilmer was at least five years would in 989, he would have been born no later than 984. This would make Eilmer in his 80s in 1066, with his attempt at flight—which occurred when he was \"in his first youth\"—likely falling between 1000 and 1010. However, it's an estimate that is based on a lot of assumption, according to James Aitcheson of the University of Leicester, who argues in a paper published in the journal Notes and Queries that Eilmer may have seen a different comet altogether in his youth—the comet of 1018. If so, he would have been born much later and the date of his flight would have occurred between the 1020s and 1040s.Read full article Comments",
-          "feed_position": 0,
+          "feed_position": 2,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/eilmer-1152x648-1781448851.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/eilmer-1152x648-1781448851.jpg",
-      "popularity_score": 342.1619775
+      "popularity_score": 319
     },
     {
-      "id": "cluster_4",
+      "id": "cluster_6",
       "coverage": 1,
-      "updated_at": "2026-06-15T08:53:09.745Z",
+      "updated_at": "2026-06-15T16:12:43.955Z",
       "title": "SpaceX is now a public company valued for its AI potential, so what comes next?",
       "neutral_headline": "SpaceX is now a public company valued for its AI potential, so what comes next",
       "bullet_summary": [
@@ -197,17 +238,17 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/",
-          "published_at": "2026-06-15T08:53:09.745Z",
+          "published_at": "2026-06-15T16:12:43.955Z",
           "title": "SpaceX is now a public company valued for its AI potential, so what comes next?",
           "standfirst": "",
           "content": "",
-          "feed_position": 4
+          "feed_position": 6
         }
       ],
-      "popularity_score": 335.9999622222222
+      "popularity_score": 315.9999608333333
     },
     {
-      "id": "cluster_61",
+      "id": "cluster_97",
       "coverage": 1,
       "updated_at": "Sat, 13 Jun 2026 17:17:44 +0000",
       "title": "Review: Disclosure Day is big on action, light on ideas",
@@ -223,39 +264,17 @@
           "title": "Review: Disclosure Day is big on action, light on ideas",
           "standfirst": "There's nothing new or surprising, but it's still an entertaining film from one of our greatest directors.",
           "content": "The summer blockbuster season has kicked off in earnest with the theatrical release of Disclosure Day, director Steven Spielberg’s highly anticipated return to his “aliens are among us” sci-fi roots. Verdict: there's not much fresh or original here as movies about aliens go, but it's a fast-paced film with a luminous performance by Emily Blunt that won't fail to entertain. (Some spoilers below but no major reveals.) The first half of the film is essentially a political thriller—shades of 1974's The Parallax View and similar films—as global tensions have the world teetering on the brink of World War III. A cybersecurity specialist named Daniel (Josh O'Connor) has stolen a piece of alien technology and highly classified files from his employer, Wardex Corporation, a top-secret extension of the US government led by Noah Scanlon (Colin Firth). Scanlon flushes out Daniel by holding his girlfriend Jane (Eve Hewson) hostage. At the tradeoff, Daniel double-crosses them and escapes with Jane, and the two go on the run as Scanlon declares Daniel a traitor.Read full article Comments",
-          "feed_position": 1,
+          "feed_position": 3,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/day7-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/day7-1152x648.jpg",
-      "popularity_score": 334
+      "popularity_score": 314
     },
     {
-      "id": "cluster_3",
+      "id": "cluster_4",
       "coverage": 1,
-      "updated_at": "2026-06-15T08:53:09.745Z",
-      "title": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
-      "neutral_headline": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/",
-          "published_at": "2026-06-15T08:53:09.745Z",
-          "title": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 3
-        }
-      ],
-      "popularity_score": 322.9999622222222
-    },
-    {
-      "id": "cluster_77",
-      "coverage": 1,
-      "updated_at": "Sat, 13 Jun 2026 11:18:42 +0000",
+      "updated_at": "2026-06-15T16:12:43.955Z",
       "title": "Threads of underground fungal networks are long enough to reach beyond the Solar System",
       "neutral_headline": "Threads of underground fungal networks are long enough to...",
       "bullet_summary": [
@@ -265,21 +284,41 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/science/2026/06/threads-of-underground-fungal-networks-are-long-enough-to-reach-beyond-the-solar-system/",
-          "published_at": "Sat, 13 Jun 2026 11:18:42 +0000",
+          "published_at": "2026-06-15T16:12:43.955Z",
           "title": "Threads of underground fungal networks are long enough to reach beyond the Solar System",
-          "standfirst": "Researchers have quantified the length and mass of arbuscular mycorrhizal fungal networks globally.",
-          "content": "Hidden underground around the world lie 110 quadrillion kilometers of arbuscular mycorrhizal fungal networks—webs of ultra-thin threads that, if connected in a single line, would stretch almost a billion times the distance between the Earth and the sun, according to new research published in Science on Thursday. These fungal communities form intimate relationships with the roots of plants, which they provide with nutrients like phosphorus and nitrogen in exchange for carbon, 1 billion tons of which the networks sequester underground annually, previous research has found. If the fungal network wasn’t storing it, that carbon would be warming the atmosphere. But those networks have never been mapped globally until now. The new study led by Society for the Protection of Underground Networks, or SPUN, an organization founded to map mycorrhizal fungi networks, used a combination of literature review, soil samples from around the globe, machine learning and laboratory testing to estimate the distribution and mass of these systems and map where they are densest.Read full article Comments",
-          "feed_position": 2,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1164060198-1152x648.jpg"
+          "standfirst": "",
+          "content": "",
+          "feed_position": 4
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1164060198-1152x648.jpg",
-      "popularity_score": 313
+      "popularity_score": 312.9999608333333
     },
     {
       "id": "cluster_5",
       "coverage": 1,
-      "updated_at": "2026-06-15T08:53:09.745Z",
+      "updated_at": "2026-06-15T16:12:43.955Z",
+      "title": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
+      "neutral_headline": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/",
+          "published_at": "2026-06-15T16:12:43.955Z",
+          "title": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
+          "standfirst": "",
+          "content": "",
+          "feed_position": 5
+        }
+      ],
+      "popularity_score": 302.9999608333333
+    },
+    {
+      "id": "cluster_7",
+      "coverage": 1,
+      "updated_at": "2026-06-15T16:12:43.955Z",
       "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
       "neutral_headline": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
       "bullet_summary": [
@@ -289,19 +328,19 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/",
-          "published_at": "2026-06-15T08:53:09.745Z",
+          "published_at": "2026-06-15T16:12:43.955Z",
           "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
           "standfirst": "",
           "content": "",
-          "feed_position": 5
+          "feed_position": 7
         }
       ],
-      "popularity_score": 302.9999622222222
+      "popularity_score": 282.9999608333333
     },
     {
-      "id": "cluster_6",
+      "id": "cluster_8",
       "coverage": 1,
-      "updated_at": "2026-06-15T08:53:09.745Z",
+      "updated_at": "2026-06-15T16:12:43.955Z",
       "title": "Controversial FISA spying law expires tonight. The spying will continue.",
       "neutral_headline": "Controversial FISA spying law expires tonight. The spying will continue.",
       "bullet_summary": [
@@ -311,19 +350,19 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/tech-policy/2026/06/controversial-fisa-spying-law-expires-tonight-the-spying-will-continue/",
-          "published_at": "2026-06-15T08:53:09.745Z",
+          "published_at": "2026-06-15T16:12:43.955Z",
           "title": "Controversial FISA spying law expires tonight. The spying will continue.",
           "standfirst": "",
           "content": "",
-          "feed_position": 6
+          "feed_position": 8
         }
       ],
-      "popularity_score": 292.9999622222222
+      "popularity_score": 272.9999608333333
     },
     {
-      "id": "cluster_7",
+      "id": "cluster_9",
       "coverage": 1,
-      "updated_at": "2026-06-15T08:53:09.745Z",
+      "updated_at": "2026-06-15T16:12:43.955Z",
       "title": "Here&#8217;s what Jeff Bezos&#8217; new startup Prometheus will do",
       "neutral_headline": "Here&#8217;s what Jeff Bezos&#8217; new startup Prometheus will do",
       "bullet_summary": [
@@ -333,58 +372,14 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
-          "published_at": "2026-06-15T08:53:09.745Z",
+          "published_at": "2026-06-15T16:12:43.955Z",
           "title": "Here&#8217;s what Jeff Bezos&#8217; new startup Prometheus will do",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 7
-        }
-      ],
-      "popularity_score": 282.9999622222222
-    },
-    {
-      "id": "cluster_9",
-      "coverage": 1,
-      "updated_at": "2026-06-15T08:53:09.745Z",
-      "title": "Ukraine&#8217;s one-time test used fully autonomous drones to kill Russian soldiers",
-      "neutral_headline": "Ukraine&#8217;s one-time test used fully autonomous drones to kill Russian soldiers",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/",
-          "published_at": "2026-06-15T08:53:09.745Z",
-          "title": "Ukraine&#8217;s one-time test used fully autonomous drones to kill Russian soldiers",
           "standfirst": "",
           "content": "",
           "feed_position": 9
         }
       ],
-      "popularity_score": 282.9999622222222
-    },
-    {
-      "id": "cluster_8",
-      "coverage": 1,
-      "updated_at": "2026-06-15T08:53:09.745Z",
-      "title": "Have politics finally come for the National Academies of Science?",
-      "neutral_headline": "Have politics finally come for the National Academies of Science",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/06/have-politics-finally-come-for-the-national-academies-of-science/",
-          "published_at": "2026-06-15T08:53:09.745Z",
-          "title": "Have politics finally come for the National Academies of Science?",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 8
-        }
-      ],
-      "popularity_score": 272.9999622222222
+      "popularity_score": 262.9999608333333
     }
   ]
 }
