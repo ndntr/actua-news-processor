@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-23T00:00:31.336Z",
+  "updated_at": "2026-06-23T06:42:13.255Z",
   "clusters": [
     {
-      "id": "cluster_6",
+      "id": "cluster_22",
       "coverage": 3,
       "updated_at": "Mon, 22 Jun 2026 22:40:14 +0000",
       "title": "Meta is 'pausing' employee tracking program after it let the whole company see sensitive data",
@@ -28,17 +28,17 @@
           "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
           "standfirst": "The move comes after the company left potentially sensitive data from the initiative exposed internally.",
           "content": "The move comes after the company left potentially sensitive data from the initiative exposed internally.",
-          "feed_position": 1,
+          "feed_position": 6,
           "image_url": "https://media.wired.com/photos/6a39a2a46c59c72c499e05ba/master/pass/2281617231"
         },
         {
           "source": "TechMeme",
           "url": "https://www.techmeme.com/260622/p38#a260622p38",
           "published_at": "Mon, 22 Jun 2026 17:05:05 -0400",
-          "title": "Sources: Meta internally exposed data from its employee-tracking program meant to help train its AI models, including full prompts and private conversations (Wired)",
-          "standfirst": "Wired: Sources: Meta internally exposed data from its employee-tracking program meant to help train its AI models, including full prompts and private conversations &mdash; Employees had previously raised concerns about the initiative, which involves collecting workers' keystroke data to train AI models.",
-          "content": "Wired: Sources: Meta internally exposed data from its employee-tracking program meant to help train its AI models, including full prompts and private conversations &mdash; Employees had previously raised concerns about the initiative, which involves collecting workers' keystroke data to train AI models.",
-          "feed_position": 3,
+          "title": "Meta says it is pausing its employee input tracking program after internal security issues exposed potentially sensitive data meant to train AI models (Wired)",
+          "standfirst": "Wired: Meta says it is pausing its employee input tracking program after internal security issues exposed potentially sensitive data meant to train AI models &mdash; Employees had previously raised concerns about the initiative, which involves collecting workers' keystroke data to train AI models.",
+          "content": "Wired: Meta says it is pausing its employee input tracking program after internal security issues exposed potentially sensitive data meant to train AI models &mdash; Employees had previously raised concerns about the initiative, which involves collecting workers' keystroke data to train AI models.",
+          "feed_position": 9,
           "image_url": "http://www.techmeme.com/260622/i38.jpg"
         },
         {
@@ -48,15 +48,49 @@
           "title": "Meta Exposed Data Internally From Its Controversial Employee-Tracking Program",
           "standfirst": "Employees had previously raised concerns about the initiative, which involves collecting workers’ keystroke data to train AI models.",
           "content": "Employees had previously raised concerns about the initiative, which involves collecting workers’ keystroke data to train AI models.",
-          "feed_position": 2,
+          "feed_position": 7,
           "image_url": "https://media.wired.com/photos/6a39919203c4ca2994a792a9/master/pass/GettyImages-1297676683.jpg"
         }
       ],
       "featured_image": "https://www.engadget.com/img/gallery/meta-is-pausing-employee-tracking-program-after-it-let-the-whole-company-see-sensitive-data/l-intro-1782167927.jpg",
-      "popularity_score": 3018.661851111111
+      "popularity_score": 3011.966873611111
     },
     {
-      "id": "cluster_5",
+      "id": "cluster_15",
+      "coverage": 2,
+      "updated_at": "Tue, 23 Jun 2026 00:11:31 +0000",
+      "title": "OpenAI launches new initiative to help find and patch open source bugs",
+      "neutral_headline": "OpenAI launches new initiative to help find and patch open source bugs",
+      "bullet_summary": [
+        "Amid concerns about AI models’ cybersecurity capabilities, OpenAI revealed an improved version of GPT-5",
+        "Reported by TechCrunch, Wired Tech"
+      ],
+      "items": [
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+          "published_at": "Tue, 23 Jun 2026 00:11:31 +0000",
+          "title": "OpenAI launches new initiative to help find and patch open source bugs",
+          "standfirst": "OpenAI is using AI to help the open source community better protect itself.",
+          "content": "OpenAI is using AI to help the open source community better protect itself.",
+          "feed_position": 1
+        },
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/",
+          "published_at": "Mon, 22 Jun 2026 17:00:00 +0000",
+          "title": "OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos",
+          "standfirst": "Amid concerns about AI models’ cybersecurity capabilities, OpenAI revealed an improved version of GPT-5.5-Cyber and its “Patch the Planet” initiative to fix open-source software bugs.",
+          "content": "Amid concerns about AI models’ cybersecurity capabilities, OpenAI revealed an improved version of GPT-5.5-Cyber and its “Patch the Planet” initiative to fix open-source software bugs.",
+          "feed_position": 11,
+          "image_url": "https://media.wired.com/photos/6a2fc599a8e3255f0ac3665f/master/pass/061526_OpenAI%20Hires%20an%20Army%20to%20Patch%20Open%20Source%20Bugs%20as%20It%20Battles%20Mythos%20for%20Cyber%20AI%20Supremacy.jpg"
+        }
+      ],
+      "featured_image": "https://media.wired.com/photos/6a2fc599a8e3255f0ac3665f/master/pass/061526_OpenAI%20Hires%20an%20Army%20to%20Patch%20Open%20Source%20Bugs%20as%20It%20Battles%20Mythos%20for%20Cyber%20AI%20Supremacy.jpg",
+      "popularity_score": 2013.4882625
+    },
+    {
+      "id": "cluster_21",
       "coverage": 2,
       "updated_at": "Mon, 22 Jun 2026 22:43:12 +0000",
       "title": "Shareholders sue Uber&#8217;s board over sexual assaults, other incidents",
@@ -72,7 +106,7 @@
           "title": "Shareholders sue Uber&#8217;s board over sexual assaults, other incidents",
           "standfirst": "The lawsuit, led by a Detroit pension fund, alleges Uber's board and management has cut too many compliance corners, resulting in thousands of lawsuits.",
           "content": "The lawsuit, led by a Detroit pension fund, alleges Uber's board and management has cut too many compliance corners, resulting in thousands of lawsuits.",
-          "feed_position": 1
+          "feed_position": 3
         },
         {
           "source": "Engadget",
@@ -86,45 +120,44 @@
         }
       ],
       "featured_image": "https://www.engadget.com/img/gallery/ubers-board-sued-for-alleged-poor-oversight-that-led-to-sexual-abuse-of-its-passengers/l-intro-1782150641.jpg",
-      "popularity_score": 2018.7112955555556
+      "popularity_score": 2012.0163180555555
     },
     {
-      "id": "cluster_52",
+      "id": "cluster_61",
       "coverage": 2,
-      "updated_at": "Mon, 22 Jun 2026 13:16:18 -0400",
-      "title": "OpenAI unveils an updated GPT-5.5-Cyber model, launches the Patch the Planet initiative in partnership with Trail of Bits to fix open source bugs, and more (Lily Hay Newman/Wired)",
-      "neutral_headline": "OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as...",
+      "updated_at": "Mon, 22 Jun 2026 17:47:39 +0000",
+      "title": "Valve's Steam Machine starts at $1,049 with 512GB storage and no controller",
+      "neutral_headline": "Valve's Steam Machine starts at $1,049 with 512GB storage and no controller",
       "bullet_summary": [
-        "Amid concerns about AI models’ cybersecurity capabilities, OpenAI revealed an improved version of GPT-5",
-        "Reported by TechMeme, Wired Tech"
+        "Reported by Engadget, TechMeme"
       ],
       "items": [
         {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/260622/p32#a260622p32",
-          "published_at": "Mon, 22 Jun 2026 13:16:18 -0400",
-          "title": "OpenAI unveils an updated GPT-5.5-Cyber model, launches the Patch the Planet initiative in partnership with Trail of Bits to fix open source bugs, and more (Lily Hay Newman/Wired)",
-          "standfirst": "Lily Hay Newman / Wired: OpenAI unveils an updated GPT-5.5-Cyber model, launches the Patch the Planet initiative in partnership with Trail of Bits to fix open source bugs, and more &mdash; Amid concerns about AI models' cybersecurity capabilities, OpenAI revealed an improved version of GPT-5.5-Cyber and its &ldquo;Patch the Planet&rdquo; &hellip;",
-          "content": "Lily Hay Newman / Wired: OpenAI unveils an updated GPT-5.5-Cyber model, launches the Patch the Planet initiative in partnership with Trail of Bits to fix open source bugs, and more &mdash; Amid concerns about AI models' cybersecurity capabilities, OpenAI revealed an improved version of GPT-5.5-Cyber and its &ldquo;Patch the Planet&rdquo; &hellip;",
-          "feed_position": 9,
-          "image_url": "http://www.techmeme.com/260622/i32.jpg"
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2199144/valve-steam-machine-starts-at-1049-with-512gb-storage-and-no-controller/",
+          "published_at": "Mon, 22 Jun 2026 17:47:39 +0000",
+          "title": "Valve's Steam Machine starts at $1,049 with 512GB storage and no controller",
+          "standfirst": "Valve's Steam Machine will cost well over $1,000, and that's without a controller.",
+          "content": "Valve's Steam Machine will cost well over $1,000, and that's without a controller.",
+          "feed_position": 4,
+          "image_url": "https://www.engadget.com/img/gallery/valves-steam-machine-starts-at-1049-with-512gb-storage-and-no-controller/l-intro-1782150372.jpg"
         },
         {
-          "source": "Wired Tech",
-          "url": "https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/",
-          "published_at": "Mon, 22 Jun 2026 17:00:00 +0000",
-          "title": "OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos",
-          "standfirst": "Amid concerns about AI models’ cybersecurity capabilities, OpenAI revealed an improved version of GPT-5.5-Cyber and its “Patch the Planet” initiative to fix open-source software bugs.",
-          "content": "Amid concerns about AI models’ cybersecurity capabilities, OpenAI revealed an improved version of GPT-5.5-Cyber and its “Patch the Planet” initiative to fix open-source software bugs.",
-          "feed_position": 6,
-          "image_url": "https://media.wired.com/photos/6a2fc599a8e3255f0ac3665f/master/pass/061526_OpenAI%20Hires%20an%20Army%20to%20Patch%20Open%20Source%20Bugs%20as%20It%20Battles%20Mythos%20for%20Cyber%20AI%20Supremacy.jpg"
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/260622/p33#a260622p33",
+          "published_at": "Mon, 22 Jun 2026 13:20:02 -0400",
+          "title": "Valve's Steam Machine, its new living room Linux PC, will start at $1,049 for the 512GB base model without a controller, and will go on sale starting June 29 (Jay Peters/The Verge)",
+          "standfirst": "Jay Peters / The Verge: Valve's Steam Machine, its new living room Linux PC, will start at $1,049 for the 512GB base model without a controller, and will go on sale starting June 29 &mdash; You can register your interest starting today, and the first emails letting people buy one will go out on June 29th.",
+          "content": "Jay Peters / The Verge: Valve's Steam Machine, its new living room Linux PC, will start at $1,049 for the 512GB base model without a controller, and will go on sale starting June 29 &mdash; You can register your interest starting today, and the first emails letting people buy one will go out on June 29th.",
+          "feed_position": 14,
+          "image_url": "http://www.techmeme.com/260622/i33.jpg"
         }
       ],
-      "featured_image": "http://www.techmeme.com/260622/i32.jpg",
-      "popularity_score": 2013.2629622222223
+      "featured_image": "https://www.engadget.com/img/gallery/valves-steam-machine-starts-at-1049-with-512gb-storage-and-no-controller/l-intro-1782150372.jpg",
+      "popularity_score": 2007.0904847222223
     },
     {
-      "id": "cluster_54",
+      "id": "cluster_66",
       "coverage": 2,
       "updated_at": "Mon, 22 Jun 2026 17:10:52 +0000",
       "title": "NHTSA investigating alleged Tesla Autopilot crash that killed woman in her home",
@@ -155,43 +188,34 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/via-The-Office-of-Constable-Terry-Allbritton-on-Facebook-1152x648.jpg",
-      "popularity_score": 2013.1724066666666
+      "popularity_score": 2006.4774291666668
     },
     {
-      "id": "cluster_61",
-      "coverage": 2,
-      "updated_at": "Mon, 22 Jun 2026 16:51:29 +0000",
-      "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
-      "neutral_headline": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
+      "id": "cluster_1",
+      "coverage": 1,
+      "updated_at": "Tue, 23 Jun 2026 05:25:16 +0000",
+      "title": "With Starfall, SpaceX eyes an edge in global cargo delivery from orbit",
+      "neutral_headline": "With Starfall, SpaceX eyes an edge in global cargo delivery from orbit",
       "bullet_summary": [
-        "Reported by TechCrunch, TechMeme"
+        "Reported by Ars Technica Main"
       ],
       "items": [
         {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
-          "published_at": "Mon, 22 Jun 2026 16:51:29 +0000",
-          "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
-          "standfirst": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center near Memphis, Tennessee.",
-          "content": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center near Memphis, Tennessee.",
-          "feed_position": 11
-        },
-        {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/260622/p28#a260622p28",
-          "published_at": "Mon, 22 Jun 2026 11:08:23 -0400",
-          "title": "SpaceX signs a computing deal worth up to $6.3B with Reflection AI for access to Nvidia GB300s at Colossus 2; Reflection will pay $150M per month through 2029 (Deirdre Bosa/CNBC)",
-          "standfirst": "Deirdre Bosa / CNBC: SpaceX signs a computing deal worth up to $6.3B with Reflection AI for access to Nvidia GB300s at Colossus 2; Reflection will pay $150M per month through 2029 &mdash; SpaceX has signed a major computing power agreement with Reflection AI, making the open-source artificial intelligence startup &hellip;",
-          "content": "Deirdre Bosa / CNBC: SpaceX signs a computing deal worth up to $6.3B with Reflection AI for access to Nvidia GB300s at Colossus 2; Reflection will pay $150M per month through 2029 &mdash; SpaceX has signed a major computing power agreement with Reflection AI, making the open-source artificial intelligence startup &hellip;",
-          "feed_position": 13,
-          "image_url": "http://www.techmeme.com/260622/i28.jpg"
+          "source": "Ars Technica Main",
+          "url": "https://arstechnica.com/space/2026/06/with-starfall-spacex-eyes-an-edge-in-global-cargo-delivery-from-orbit/",
+          "published_at": "Tue, 23 Jun 2026 05:25:16 +0000",
+          "title": "With Starfall, SpaceX eyes an edge in global cargo delivery from orbit",
+          "standfirst": "The purpose of Starfall is to support the \"transport and delivery of goods through space.\"",
+          "content": "A SpaceX Falcon 9 rocket is set to launch Tuesday to test a new reentry vehicle designed to deliver cargo anywhere in the world from low-Earth orbit. The company developed the new saucer-shaped reentry pod, called Starfall, under a veil of secrecy. Its purpose is to support the \"transport and delivery of goods through space,\" according to an environmental assessment published by the Federal Aviation Administration last month. The first demonstration of the Starfall vehicle is scheduled for Tuesday morning. At least one of the Starfall vehicles will ride into orbit atop a Falcon 9 rocket from Cape Canaveral Space Force Station, Florida, perhaps alongside another undisclosed payload. After circling the planet two times, the Falcon 9's upper stage will release Starfall to reenter the atmosphere and target a parachute-assisted splashdown in the Pacific Ocean around 800 miles west of California.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/starfallillustration2-1152x609.jpg"
         }
       ],
-      "featured_image": "http://www.techmeme.com/260622/i28.jpg",
-      "popularity_score": 2012.8493511111112
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/starfallillustration2-1152x609.jpg",
+      "popularity_score": 359.71742916666665
     },
     {
-      "id": "cluster_8",
+      "id": "cluster_24",
       "coverage": 1,
       "updated_at": "Mon, 22 Jun 2026 21:52:39 +0000",
       "title": "GM installs robots at flagship EV factory after laying off 1,300 workers",
@@ -212,10 +236,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GM-factory-zero-1152x648.jpg",
-      "popularity_score": 356.86879555555555
+      "popularity_score": 350.17381805555556
     },
     {
-      "id": "cluster_10",
+      "id": "cluster_26",
       "coverage": 1,
       "updated_at": "Mon, 22 Jun 2026 21:28:19 +0000",
       "title": "Report: Kennedy Space Center not ready for era of super heavy rockets",
@@ -236,10 +260,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/Artemis-I-Aug-19-2022-9057-1152x648.jpg",
-      "popularity_score": 348.46324
+      "popularity_score": 341.7682625
     },
     {
-      "id": "cluster_13",
+      "id": "cluster_29",
       "coverage": 1,
       "updated_at": "Mon, 22 Jun 2026 21:02:08 +0000",
       "title": "Man used massage gun on his tired eyeballs. It went as well as you'd expect.",
@@ -260,10 +284,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2009/04/surprised-eye.jpg",
-      "popularity_score": 330.0268511111111
+      "popularity_score": 323.3318736111111
     },
     {
-      "id": "cluster_21",
+      "id": "cluster_37",
       "coverage": 1,
       "updated_at": "Mon, 22 Jun 2026 20:10:34 +0000",
       "title": "Polymarket's viral videos showed people winning big, but the bets were fake",
@@ -284,10 +308,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/polymarket-1152x648.jpg",
-      "popularity_score": 319.1674066666667
+      "popularity_score": 312.47242916666664
     },
     {
-      "id": "cluster_29",
+      "id": "cluster_45",
       "coverage": 1,
       "updated_at": "Mon, 22 Jun 2026 19:16:52 +0000",
       "title": "Following user outcry, AMD reinstates memory encryption in consumer CPUs",
@@ -308,10 +332,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1952157610-1152x648-1753386930.jpg",
-      "popularity_score": 308.27240666666665
+      "popularity_score": 301.57742916666666
     },
     {
-      "id": "cluster_31",
+      "id": "cluster_47",
       "coverage": 1,
       "updated_at": "Mon, 22 Jun 2026 19:02:45 +0000",
       "title": "Valve's Steam Machine ships June 29 for $1,049, but you probably won't be able to buy one yet",
@@ -332,10 +356,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/valve-steam-machine-desktop-1152x648.jpeg",
-      "popularity_score": 298.0371288888889
+      "popularity_score": 291.3421513888889
     },
     {
-      "id": "cluster_70",
+      "id": "cluster_76",
       "coverage": 1,
       "updated_at": "Mon, 22 Jun 2026 15:22:46 +0000",
       "title": "Lucid lays off 1,500 workers in second big cut of the year",
@@ -356,10 +380,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/Lucid-Air-Pure-24-of-25-1152x648.jpg",
-      "popularity_score": 274.37074
+      "popularity_score": 267.6757625
     },
     {
-      "id": "cluster_72",
+      "id": "cluster_78",
       "coverage": 1,
       "updated_at": "Mon, 22 Jun 2026 15:18:23 +0000",
       "title": "A US military exercise in space got underway with barely anyone noticing",
@@ -380,10 +404,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/1779807626173-1020x648.jpg",
-      "popularity_score": 272.2976844444444
+      "popularity_score": 265.60270694444444
     },
     {
-      "id": "cluster_73",
+      "id": "cluster_79",
       "coverage": 1,
       "updated_at": "Mon, 22 Jun 2026 15:07:00 +0000",
       "title": "1,250 hp hybrid Corvette shatters the Pikes Peak production record",
@@ -404,10 +428,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/NA5_5812-1152x648.jpg",
-      "popularity_score": 254.10796222222223
+      "popularity_score": 247.41298472222223
     },
     {
-      "id": "cluster_80",
+      "id": "cluster_85",
       "coverage": 1,
       "updated_at": "Mon, 22 Jun 2026 13:45:24 +0000",
       "title": "How Anthropic may have talked itself into an AI export ban",
@@ -428,10 +452,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/lock-anthropic-1152x648.jpg",
-      "popularity_score": 157.7479622222222
+      "popularity_score": 151.05298472222222
     },
     {
-      "id": "cluster_78",
+      "id": "cluster_83",
       "coverage": 1,
       "updated_at": "Mon, 22 Jun 2026 14:11:03 +0000",
       "title": "This former hacker saw the light—and now wants to collect all of it",
@@ -452,10 +476,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/20260504_ObservableSpace_123-1152x648.jpg",
-      "popularity_score": 153.17546222222222
+      "popularity_score": 146.48048472222223
     },
     {
-      "id": "cluster_106",
+      "id": "cluster_108",
       "coverage": 1,
       "updated_at": "Sun, 21 Jun 2026 10:00:11 +0000",
       "title": "Review: Widow's Bay is a boldly original take on comedic horror",
@@ -479,7 +503,7 @@
       "popularity_score": 144
     },
     {
-      "id": "cluster_98",
+      "id": "cluster_100",
       "coverage": 1,
       "updated_at": "Sun, 21 Jun 2026 17:49:35 +0000",
       "title": "Trump admin’s coal investments assist plants with repeated violations",
