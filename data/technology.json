@@ -1,71 +1,27 @@
 {
-  "updated_at": "2026-06-23T06:42:13.255Z",
+  "updated_at": "2026-06-23T10:30:24.839Z",
   "clusters": [
     {
-      "id": "cluster_22",
+      "id": "cluster_17",
       "coverage": 3,
-      "updated_at": "Mon, 22 Jun 2026 22:40:14 +0000",
-      "title": "Meta is 'pausing' employee tracking program after it let the whole company see sensitive data",
-      "neutral_headline": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
+      "updated_at": "Tue, 23 Jun 2026 09:14:13 +0000",
+      "title": "OpenAI's new Daybreak⁠ initiative will help open-source projects fend off bugs",
+      "neutral_headline": "OpenAI's new Daybreak⁠ initiative will help open-source projects fend off bugs",
       "bullet_summary": [
-        "Reported by Engadget, Wired Tech, TechMeme"
+        "Amid concerns about AI models’ cybersecurity capabilities, OpenAI revealed an improved version of GPT-5",
+        "Reported by Engadget, TechCrunch, Wired Tech"
       ],
       "items": [
         {
           "source": "Engadget",
-          "url": "https://www.engadget.com/2199458/meta-is-pausing-employee-tracking-program-after-it-let-the-whole-company-see-sensitive-data/",
-          "published_at": "Mon, 22 Jun 2026 22:40:14 +0000",
-          "title": "Meta is 'pausing' employee tracking program after it let the whole company see sensitive data",
-          "standfirst": "This won't make the already-controversial AI training endeavor any more popular.",
-          "content": "This won't make the already-controversial AI training endeavor any more popular.",
-          "feed_position": 0,
-          "image_url": "https://www.engadget.com/img/gallery/meta-is-pausing-employee-tracking-program-after-it-let-the-whole-company-see-sensitive-data/l-intro-1782167927.jpg"
+          "url": "https://www.engadget.com/2199569/openai-new-daybreak-initiative-open-source-projects-bugs/",
+          "published_at": "Tue, 23 Jun 2026 09:14:13 +0000",
+          "title": "OpenAI's new Daybreak⁠ initiative will help open-source projects fend off bugs",
+          "standfirst": "OpenAI has launched Patch the Planet, a new initiative part of its Daybreak cybersecurity program.",
+          "content": "OpenAI has launched Patch the Planet, a new initiative part of its Daybreak cybersecurity program.",
+          "feed_position": 2,
+          "image_url": "https://www.engadget.com/img/gallery/openais-new-daybreak-initiative-will-help-open-source-projects-fend-off-bugs/l-intro-1782205905.jpg"
         },
-        {
-          "source": "Wired Tech",
-          "url": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/",
-          "published_at": "Mon, 22 Jun 2026 21:08:09 +0000",
-          "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
-          "standfirst": "The move comes after the company left potentially sensitive data from the initiative exposed internally.",
-          "content": "The move comes after the company left potentially sensitive data from the initiative exposed internally.",
-          "feed_position": 6,
-          "image_url": "https://media.wired.com/photos/6a39a2a46c59c72c499e05ba/master/pass/2281617231"
-        },
-        {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/260622/p38#a260622p38",
-          "published_at": "Mon, 22 Jun 2026 17:05:05 -0400",
-          "title": "Meta says it is pausing its employee input tracking program after internal security issues exposed potentially sensitive data meant to train AI models (Wired)",
-          "standfirst": "Wired: Meta says it is pausing its employee input tracking program after internal security issues exposed potentially sensitive data meant to train AI models &mdash; Employees had previously raised concerns about the initiative, which involves collecting workers' keystroke data to train AI models.",
-          "content": "Wired: Meta says it is pausing its employee input tracking program after internal security issues exposed potentially sensitive data meant to train AI models &mdash; Employees had previously raised concerns about the initiative, which involves collecting workers' keystroke data to train AI models.",
-          "feed_position": 9,
-          "image_url": "http://www.techmeme.com/260622/i38.jpg"
-        },
-        {
-          "source": "Wired Tech",
-          "url": "https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/",
-          "published_at": "Mon, 22 Jun 2026 20:28:53 +0000",
-          "title": "Meta Exposed Data Internally From Its Controversial Employee-Tracking Program",
-          "standfirst": "Employees had previously raised concerns about the initiative, which involves collecting workers’ keystroke data to train AI models.",
-          "content": "Employees had previously raised concerns about the initiative, which involves collecting workers’ keystroke data to train AI models.",
-          "feed_position": 7,
-          "image_url": "https://media.wired.com/photos/6a39919203c4ca2994a792a9/master/pass/GettyImages-1297676683.jpg"
-        }
-      ],
-      "featured_image": "https://www.engadget.com/img/gallery/meta-is-pausing-employee-tracking-program-after-it-let-the-whole-company-see-sensitive-data/l-intro-1782167927.jpg",
-      "popularity_score": 3011.966873611111
-    },
-    {
-      "id": "cluster_15",
-      "coverage": 2,
-      "updated_at": "Tue, 23 Jun 2026 00:11:31 +0000",
-      "title": "OpenAI launches new initiative to help find and patch open source bugs",
-      "neutral_headline": "OpenAI launches new initiative to help find and patch open source bugs",
-      "bullet_summary": [
-        "Amid concerns about AI models’ cybersecurity capabilities, OpenAI revealed an improved version of GPT-5",
-        "Reported by TechCrunch, Wired Tech"
-      ],
-      "items": [
         {
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
@@ -82,15 +38,190 @@
           "title": "OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos",
           "standfirst": "Amid concerns about AI models’ cybersecurity capabilities, OpenAI revealed an improved version of GPT-5.5-Cyber and its “Patch the Planet” initiative to fix open-source software bugs.",
           "content": "Amid concerns about AI models’ cybersecurity capabilities, OpenAI revealed an improved version of GPT-5.5-Cyber and its “Patch the Planet” initiative to fix open-source software bugs.",
-          "feed_position": 11,
+          "feed_position": 28,
           "image_url": "https://media.wired.com/photos/6a2fc599a8e3255f0ac3665f/master/pass/061526_OpenAI%20Hires%20an%20Army%20to%20Patch%20Open%20Source%20Bugs%20as%20It%20Battles%20Mythos%20for%20Cyber%20AI%20Supremacy.jpg"
         }
       ],
-      "featured_image": "https://media.wired.com/photos/6a2fc599a8e3255f0ac3665f/master/pass/061526_OpenAI%20Hires%20an%20Army%20to%20Patch%20Open%20Source%20Bugs%20as%20It%20Battles%20Mythos%20for%20Cyber%20AI%20Supremacy.jpg",
-      "popularity_score": 2013.4882625
+      "featured_image": "https://www.engadget.com/img/gallery/openais-new-daybreak-initiative-will-help-open-source-projects-fend-off-bugs/l-intro-1782205905.jpg",
+      "popularity_score": 3018.7300447222224
     },
     {
-      "id": "cluster_21",
+      "id": "cluster_0",
+      "coverage": 2,
+      "updated_at": "Tue, 23 Jun 2026 10:27:00 GMT",
+      "title": "June Prime Day live blog 2026: We're tracking Amazon deals on SSDs, TVs, laptops and more",
+      "neutral_headline": "The Best Amazon Prime Day Headphone Deals (2026)",
+      "bullet_summary": [
+        "Reported by ZDNet, Wired Tech"
+      ],
+      "items": [
+        {
+          "source": "ZDNet",
+          "url": "https://www.zdnet.com/article/amazon-june-prime-day-live-blog-06-23-2026/",
+          "published_at": "Tue, 23 Jun 2026 10:27:00 GMT",
+          "title": "June Prime Day live blog 2026: We're tracking Amazon deals on SSDs, TVs, laptops and more",
+          "standfirst": "LIVE: Prime Day 2026 deals are here. Follow our live blog for real-time tracking on the lowest prices for 4K TVs, M5 MacBooks, Samsung devices, SSDs, and more tech.",
+          "content": "LIVE: Prime Day 2026 deals are here. Follow our live blog for real-time tracking on the lowest prices for 4K TVs, M5 MacBooks, Samsung devices, SSDs, and more tech.",
+          "feed_position": 0
+        },
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/best-prime-day-headphone-deals-2026/",
+          "published_at": "Tue, 23 Jun 2026 09:24:53 +0000",
+          "title": "The Best Amazon Prime Day Headphone Deals (2026)",
+          "standfirst": "From AirPods to on-ears, we’ve tested hundreds of pairs of headphones. Here are the best deals from Amazon’s biggest sale event.",
+          "content": "From AirPods to on-ears, we’ve tested hundreds of pairs of headphones. Here are the best deals from Amazon’s biggest sale event.",
+          "feed_position": 3,
+          "image_url": "https://media.wired.com/photos/6a39c6009d6ce4c64a7952e7/master/pass/The-Best-Amazon-Prime-Day-Deals-on-Headphones.jpg"
+        },
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/best-prime-day-apple-deals-2026/",
+          "published_at": "Tue, 23 Jun 2026 08:57:27 +0000",
+          "title": "Prime Day Means Apple Deals on iPad, iPhone Cases, MagSafe Accessories, and More",
+          "standfirst": "Apple deals abound for Amazon Prime Day. We've rounded up the best deals on Apple Watches, iPhones, MacBooks, iPads, and accessories.",
+          "content": "Apple deals abound for Amazon Prime Day. We've rounded up the best deals on Apple Watches, iPhones, MacBooks, iPads, and accessories.",
+          "feed_position": 7,
+          "image_url": "https://media.wired.com/photos/6a39bf7f0bf55f5b8a30365a/master/pass/The-Best-Prime-Day-Apple-Deals-on-AirPods,-iPads,-and-More.jpg"
+        },
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/best-prime-day-tv-deals-june-2026/",
+          "published_at": "Tue, 23 Jun 2026 08:38:40 +0000",
+          "title": "Get Up to 43% Off With the Best Prime Day TV Deals Plus Streaming Devices (2026)",
+          "standfirst": "These are the hottest Prime Day deals on our favorite TVs and streaming devices.",
+          "content": "These are the hottest Prime Day deals on our favorite TVs and streaming devices.",
+          "feed_position": 9,
+          "image_url": "https://media.wired.com/photos/6a39c4347cb7548eacd5313a/master/pass/The-Best-Prime-Day-Deals-on-TVs-and-Streaming-Devices.jpg"
+        },
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/best-amazon-prime-day-deals-under-30/",
+          "published_at": "Tue, 23 Jun 2026 08:34:09 +0000",
+          "title": "The Best Amazon Prime Day Deals Under $30 in 2026",
+          "standfirst": "Everything is expensive. Treat yourself to one of these WIRED-tested and -approved Prime Day picks under $30.",
+          "content": "Everything is expensive. Treat yourself to one of these WIRED-tested and -approved Prime Day picks under $30.",
+          "feed_position": 10,
+          "image_url": "https://media.wired.com/photos/6a3a2e97ea2c52b725f77407/master/pass/The-Best-Amazon-Prime-Day-Deals-Under-$30.jpg"
+        },
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/kindle-prime-day-deals-june-2026/",
+          "published_at": "Tue, 23 Jun 2026 08:32:02 +0000",
+          "title": "Get Up to 36% Off With the Best Prime Day Kindle Deals (2026): Paperwhite, Colorsoft, Kids",
+          "standfirst": "There’s no better time to get a Kindle than during Amazon's own sale event.",
+          "content": "There’s no better time to get a Kindle than during Amazon's own sale event.",
+          "feed_position": 11,
+          "image_url": "https://media.wired.com/photos/6a39c0acf875943dad2ebda1/master/pass/The-Best-Kindle-Deals-Happening-for-Amazon-Prime-Day.jpg"
+        },
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/best-prime-day-laptop-deals-2026/",
+          "published_at": "Tue, 23 Jun 2026 08:29:10 +0000",
+          "title": "I Found the Very Best Prime Day Laptop Deals onMacBooks and More (2026)",
+          "standfirst": "From MacBooks to gaming laptops, these are the very best deals on some of my very favorite laptops for Amazon Prime Day.",
+          "content": "From MacBooks to gaming laptops, these are the very best deals on some of my very favorite laptops for Amazon Prime Day.",
+          "feed_position": 12,
+          "image_url": "https://media.wired.com/photos/6a39c2a6f5607ef1ccf39a6c/master/pass/The-Best-Prime-Day-Laptop-Deals-on-My-Absolute-Favorites.jpg"
+        },
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/best-prime-day-tech-deals-2026/",
+          "published_at": "Tue, 23 Jun 2026 08:11:47 +0000",
+          "title": "Best Prime Day Tech Deals Offer Up to $280 Off (2026): Phones, Watches, and More",
+          "standfirst": "Don't pay full price—snag one of these tasty Prime Day tech deals on some of our favorite WIRED-tested gadgets.",
+          "content": "Don't pay full price—snag one of these tasty Prime Day tech deals on some of our favorite WIRED-tested gadgets.",
+          "feed_position": 13,
+          "image_url": "https://media.wired.com/photos/6a39c9f7579d715adc0866fe/master/pass/The-Best-Prime-Day-Tech-Deals-on-the-Gadgets-You-Actually-Want.jpg"
+        },
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/best-prime-day-deals-under-100-june-2026/",
+          "published_at": "Tue, 23 Jun 2026 08:09:43 +0000",
+          "title": "The Best Amazon Prime Day Deals Under $100 in 2026",
+          "standfirst": "Times are hard in 2026. These Amazon Prime Day deals under $100 on earbuds, Kindles, and more make life just a little bit easier.",
+          "content": "Times are hard in 2026. These Amazon Prime Day deals under $100 on earbuds, Kindles, and more make life just a little bit easier.",
+          "feed_position": 14,
+          "image_url": "https://media.wired.com/photos/6a3a2d6fb32bb5aac135070f/master/pass/The-Best-Amazon-Prime-Day-Deals-Under-$100.jpg"
+        },
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/amazon-prime-day-absolute-best-deals/",
+          "published_at": "Tue, 23 Jun 2026 08:06:58 +0000",
+          "title": "Best Prime Day Deals We’d Spend Our Own Money On (2026)",
+          "standfirst": "We've gone from A to Z to find Amazon's best Prime Day deals on the gear worth owning.",
+          "content": "We've gone from A to Z to find Amazon's best Prime Day deals on the gear worth owning.",
+          "feed_position": 15,
+          "image_url": "https://media.wired.com/photos/6a396b1e518be327f36b3895/master/pass/PRIME-DEALS.jpg"
+        },
+        {
+          "source": "ZDNet",
+          "url": "https://www.zdnet.com/article/best-early-amazon-prime-day-samsung-deals-2026/",
+          "published_at": "Mon, 22 Jun 2026 19:31:57 GMT",
+          "title": "The best early Prime Day Samsung deals: Save big on Galaxy phones, tablets, and more",
+          "standfirst": "Skip the wait for Prime Day 2026. Score record-low early prices on Samsung Galaxy smartphones, smartwatches, and 4K TVs on Amazon today.",
+          "content": "Skip the wait for Prime Day 2026. Score record-low early prices on Samsung Galaxy smartphones, smartwatches, and 4K TVs on Amazon today.",
+          "feed_position": 14
+        },
+        {
+          "source": "ZDNet",
+          "url": "https://www.zdnet.com/article/best-early-amazon-prime-day-costco-deals-2026/",
+          "published_at": "Mon, 22 Jun 2026 19:10:46 GMT",
+          "title": "The best Costco deals to compete with Prime Day: TVs, Apple devices, and more",
+          "standfirst": "Skip Amazon Prime Day. Check out the best Costco deals live right now on premium electronics, smartwatches, and home essentials with bonus warranties.",
+          "content": "Skip Amazon Prime Day. Check out the best Costco deals live right now on premium electronics, smartwatches, and home essentials with bonus warranties.",
+          "feed_position": 15
+        },
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/early-prime-day-deals-june-2026-3/",
+          "published_at": "Mon, 22 Jun 2026 17:01:33 +0000",
+          "title": "I Found 37 Early Prime Day Deals That Are Worth Shopping Now (2026)",
+          "standfirst": "We’ve trawled the depths of Amazon to find the best early Prime Day deals on gear we’ve tested.",
+          "content": "We’ve trawled the depths of Amazon to find the best early Prime Day deals on gear we’ve tested.",
+          "feed_position": 27,
+          "image_url": "https://media.wired.com/photos/6a31e4e303c0be2f1d7e861f/master/pass/Launorma_EarlyPrimeDayDeal.png"
+        }
+      ],
+      "featured_image": "https://media.wired.com/photos/6a39c6009d6ce4c64a7952e7/master/pass/The-Best-Amazon-Prime-Day-Deals-on-Headphones.jpg",
+      "popularity_score": 2019.9431002777778
+    },
+    {
+      "id": "cluster_13",
+      "coverage": 2,
+      "updated_at": "Tue, 23 Jun 2026 09:37:14 +0000",
+      "title": "Amazon ordered to bargain with Teamsters in case that could set back union progress",
+      "neutral_headline": "Amazon ordered to bargain with Teamsters in case that could set back union progress",
+      "bullet_summary": [
+        "Reported by Engadget, TechMeme"
+      ],
+      "items": [
+        {
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2199578/amazon-ordered-to-bargain-with-teamsters/",
+          "published_at": "Tue, 23 Jun 2026 09:37:14 +0000",
+          "title": "Amazon ordered to bargain with Teamsters in case that could set back union progress",
+          "standfirst": "Amazon violated federal law when it refused to recognize a union, a judge ruled.",
+          "content": "Amazon violated federal law when it refused to recognize a union, a judge ruled.",
+          "feed_position": 1,
+          "image_url": "https://www.engadget.com/img/gallery/amazon-ordered-to-bargain-with-teamsters-in-case-that-could-set-back-union-progress/l-intro-1782207280.jpg"
+        },
+        {
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/260622/p43#a260622p43",
+          "published_at": "Mon, 22 Jun 2026 22:45:01 -0400",
+          "title": "A US NLRB judge ruled that Amazon violated federal law by not recognizing the Teamsters union at a SF warehouse and must collectively bargain with the workers (Josh Eidelson/Bloomberg)",
+          "standfirst": "Josh Eidelson / Bloomberg: A US NLRB judge ruled that Amazon violated federal law by not recognizing the Teamsters union at a SF warehouse and must collectively bargain with the workers &mdash; A US labor board judge ruled that Amazon.com Inc. must collectively bargain with California warehouse workers &hellip;",
+          "content": "Josh Eidelson / Bloomberg: A US NLRB judge ruled that Amazon violated federal law by not recognizing the Teamsters union at a SF warehouse and must collectively bargain with the workers &mdash; A US labor board judge ruled that Amazon.com Inc. must collectively bargain with California warehouse workers &hellip;",
+          "feed_position": 10,
+          "image_url": "http://www.techmeme.com/img/pml.png"
+        }
+      ],
+      "featured_image": "https://www.engadget.com/img/gallery/amazon-ordered-to-bargain-with-teamsters-in-case-that-could-set-back-union-progress/l-intro-1782207280.jpg",
+      "popularity_score": 2019.1136558333333
+    },
+    {
+      "id": "cluster_47",
       "coverage": 2,
       "updated_at": "Mon, 22 Jun 2026 22:43:12 +0000",
       "title": "Shareholders sue Uber&#8217;s board over sexual assaults, other incidents",
@@ -115,49 +246,59 @@
           "title": "Uber's board sued for alleged poor oversight that led to sexual abuse of its passengers",
           "standfirst": "Uber's shareholders have filed a lawsuit against the ride-sharing giant.",
           "content": "Uber's shareholders have filed a lawsuit against the ride-sharing giant.",
-          "feed_position": 3,
+          "feed_position": 6,
           "image_url": "https://www.engadget.com/img/gallery/ubers-board-sued-for-alleged-poor-oversight-that-led-to-sexual-abuse-of-its-passengers/l-intro-1782150641.jpg"
         }
       ],
       "featured_image": "https://www.engadget.com/img/gallery/ubers-board-sued-for-alleged-poor-oversight-that-led-to-sexual-abuse-of-its-passengers/l-intro-1782150641.jpg",
-      "popularity_score": 2012.0163180555555
+      "popularity_score": 2008.2131002777778
     },
     {
-      "id": "cluster_61",
+      "id": "cluster_48",
       "coverage": 2,
-      "updated_at": "Mon, 22 Jun 2026 17:47:39 +0000",
-      "title": "Valve's Steam Machine starts at $1,049 with 512GB storage and no controller",
-      "neutral_headline": "Valve's Steam Machine starts at $1,049 with 512GB storage and no controller",
+      "updated_at": "Mon, 22 Jun 2026 22:40:14 +0000",
+      "title": "Meta is 'pausing' employee tracking program after it let the whole company see sensitive data",
+      "neutral_headline": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
       "bullet_summary": [
-        "Reported by Engadget, TechMeme"
+        "Reported by Engadget, Wired Tech"
       ],
       "items": [
         {
           "source": "Engadget",
-          "url": "https://www.engadget.com/2199144/valve-steam-machine-starts-at-1049-with-512gb-storage-and-no-controller/",
-          "published_at": "Mon, 22 Jun 2026 17:47:39 +0000",
-          "title": "Valve's Steam Machine starts at $1,049 with 512GB storage and no controller",
-          "standfirst": "Valve's Steam Machine will cost well over $1,000, and that's without a controller.",
-          "content": "Valve's Steam Machine will cost well over $1,000, and that's without a controller.",
-          "feed_position": 4,
-          "image_url": "https://www.engadget.com/img/gallery/valves-steam-machine-starts-at-1049-with-512gb-storage-and-no-controller/l-intro-1782150372.jpg"
+          "url": "https://www.engadget.com/2199458/meta-is-pausing-employee-tracking-program-after-it-let-the-whole-company-see-sensitive-data/",
+          "published_at": "Mon, 22 Jun 2026 22:40:14 +0000",
+          "title": "Meta is 'pausing' employee tracking program after it let the whole company see sensitive data",
+          "standfirst": "This won't make the already-controversial AI training endeavor any more popular.",
+          "content": "This won't make the already-controversial AI training endeavor any more popular.",
+          "feed_position": 3,
+          "image_url": "https://www.engadget.com/img/gallery/meta-is-pausing-employee-tracking-program-after-it-let-the-whole-company-see-sensitive-data/l-intro-1782167927.jpg"
         },
         {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/260622/p33#a260622p33",
-          "published_at": "Mon, 22 Jun 2026 13:20:02 -0400",
-          "title": "Valve's Steam Machine, its new living room Linux PC, will start at $1,049 for the 512GB base model without a controller, and will go on sale starting June 29 (Jay Peters/The Verge)",
-          "standfirst": "Jay Peters / The Verge: Valve's Steam Machine, its new living room Linux PC, will start at $1,049 for the 512GB base model without a controller, and will go on sale starting June 29 &mdash; You can register your interest starting today, and the first emails letting people buy one will go out on June 29th.",
-          "content": "Jay Peters / The Verge: Valve's Steam Machine, its new living room Linux PC, will start at $1,049 for the 512GB base model without a controller, and will go on sale starting June 29 &mdash; You can register your interest starting today, and the first emails letting people buy one will go out on June 29th.",
-          "feed_position": 14,
-          "image_url": "http://www.techmeme.com/260622/i33.jpg"
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/",
+          "published_at": "Mon, 22 Jun 2026 21:08:09 +0000",
+          "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
+          "standfirst": "The move comes after the company left potentially sensitive data from the initiative exposed internally.",
+          "content": "The move comes after the company left potentially sensitive data from the initiative exposed internally.",
+          "feed_position": 23,
+          "image_url": "https://media.wired.com/photos/6a39a2a46c59c72c499e05ba/master/pass/2281617231"
+        },
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/",
+          "published_at": "Mon, 22 Jun 2026 20:28:53 +0000",
+          "title": "Meta Exposed Data Internally From Its Controversial Employee-Tracking Program",
+          "standfirst": "Employees had previously raised concerns about the initiative, which involves collecting workers’ keystroke data to train AI models.",
+          "content": "Employees had previously raised concerns about the initiative, which involves collecting workers’ keystroke data to train AI models.",
+          "feed_position": 24,
+          "image_url": "https://media.wired.com/photos/6a39919203c4ca2994a792a9/master/pass/GettyImages-1297676683.jpg"
         }
       ],
-      "featured_image": "https://www.engadget.com/img/gallery/valves-steam-machine-starts-at-1049-with-512gb-storage-and-no-controller/l-intro-1782150372.jpg",
-      "popularity_score": 2007.0904847222223
+      "featured_image": "https://www.engadget.com/img/gallery/meta-is-pausing-employee-tracking-program-after-it-let-the-whole-company-see-sensitive-data/l-intro-1782167927.jpg",
+      "popularity_score": 2008.1636558333332
     },
     {
-      "id": "cluster_66",
+      "id": "cluster_85",
       "coverage": 2,
       "updated_at": "Mon, 22 Jun 2026 17:10:52 +0000",
       "title": "NHTSA investigating alleged Tesla Autopilot crash that killed woman in her home",
@@ -173,7 +314,7 @@
           "title": "NHTSA investigating alleged Tesla Autopilot crash that killed woman in her home",
           "standfirst": "Tesla touts Autopilot as lifesaving a day after grandmother died in crash.",
           "content": "An elderly Texas woman tragically died Friday after a man who told police he was relying on his Tesla Model 3’s automated driver-assistance mode lost control and crashed his car into her family’s home. In a statement, the Harris County Sheriff’s Office confirmed to Ars that Michael Butler said that “he was operating with an automated driving-assistance system engaged at the time of the crash.” Police are currently investigating whether the autopilot feature in any way caused the crash but confirmed that Butler was not intoxicated and is cooperating, partly by helping cops understand how Tesla’s Autopilot feature works. “Butler failed to drive in a single lane, left the roadway, and struck the residence” at a “high rate of speed,” the sheriff’s office said.Read full article Comments",
-          "feed_position": 6,
+          "feed_position": 7,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/via-The-Office-of-Constable-Terry-Allbritton-on-Facebook-1152x648.jpg"
         },
         {
@@ -183,25 +324,25 @@
           "title": "Tesla in autopilot crashed into Texas home, killing one",
           "standfirst": "One woman is dead after a Tesla with \"an automated driving assistance system\" engaged crashed into a home in Katy, Texas.",
           "content": "One woman is dead after a Tesla with \"an automated driving assistance system\" engaged crashed into a home in Katy, Texas.",
-          "feed_position": 6,
+          "feed_position": 9,
           "image_url": "https://www.engadget.com/img/gallery/tesla-in-autopilot-crashed-into-texas-home-killing-one/l-intro-1782140976.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/via-The-Office-of-Constable-Terry-Allbritton-on-Facebook-1152x648.jpg",
-      "popularity_score": 2006.4774291666668
+      "popularity_score": 2002.6742113888888
     },
     {
-      "id": "cluster_1",
+      "id": "cluster_29",
       "coverage": 1,
       "updated_at": "Tue, 23 Jun 2026 05:25:16 +0000",
       "title": "With Starfall, SpaceX eyes an edge in global cargo delivery from orbit",
       "neutral_headline": "With Starfall, SpaceX eyes an edge in global cargo delivery from orbit",
       "bullet_summary": [
-        "Reported by Ars Technica Main"
+        "Reported by Ars Technica"
       ],
       "items": [
         {
-          "source": "Ars Technica Main",
+          "source": "Ars Technica",
           "url": "https://arstechnica.com/space/2026/06/with-starfall-spacex-eyes-an-edge-in-global-cargo-delivery-from-orbit/",
           "published_at": "Tue, 23 Jun 2026 05:25:16 +0000",
           "title": "With Starfall, SpaceX eyes an edge in global cargo delivery from orbit",
@@ -212,10 +353,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/starfallillustration2-1152x609.jpg",
-      "popularity_score": 359.71742916666665
+      "popularity_score": 355.9142113888889
     },
     {
-      "id": "cluster_24",
+      "id": "cluster_50",
       "coverage": 1,
       "updated_at": "Mon, 22 Jun 2026 21:52:39 +0000",
       "title": "GM installs robots at flagship EV factory after laying off 1,300 workers",
@@ -231,15 +372,15 @@
           "title": "GM installs robots at flagship EV factory after laying off 1,300 workers",
           "standfirst": "US autoworkers union warns of robot automation as dark factory future looms.",
           "content": "Dozens of new robot arms have been installed at General Motors’ flagship electric vehicle factory in Detroit—even as 1,300 workers remain out of work following what was supposed to be a temporary layoff. The latest automation push has spurred union pushback over a potentially existential issue for automakers and their workers. General Motors installed approximately 50 robot arms at GM’s Factory Zero plant in Detroit, Michigan, according to reporting by Crain’s Detroit Business. Made by the Japanese robotics company FANUC, the robots are designed to help attach various components to vehicles during the assembly line process. But leaders at United Auto Workers (UAW), the primary US union for autoworkers, reacted with anger to the new robotic presence, given how GM has not yet called back any of the workers affected by supposedly temporary layoffs in March. More than 1,000 union members are still “laid off indefinitely,” James Cotton, president of UAW Local 22, told The Detroit News. He said that the company could bring some of those members back to work instead of installing the 50 robots.Read full article Comments",
-          "feed_position": 0,
+          "feed_position": 1,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GM-factory-zero-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GM-factory-zero-1152x648.jpg",
-      "popularity_score": 350.17381805555556
+      "popularity_score": 336.3706002777778
     },
     {
-      "id": "cluster_26",
+      "id": "cluster_52",
       "coverage": 1,
       "updated_at": "Mon, 22 Jun 2026 21:28:19 +0000",
       "title": "Report: Kennedy Space Center not ready for era of super heavy rockets",
@@ -255,15 +396,15 @@
           "title": "Report: Kennedy Space Center not ready for era of super heavy rockets",
           "standfirst": "SpaceX has told NASA it plans to launch Starship every eight days from Kennedy.",
           "content": "NASA's infrastructure at Kennedy Space Center, the crown jewel of US spaceports, is aging and approaching its limit due to increased demand from private companies, including SpaceX and Blue Origin, a new report finds. \"NASA’s launch infrastructure is vital to providing the agency, other government agencies, and commercial partners access to space for their most complex and expensive missions,\" states the report, published by the NASA Office of Inspector General. \"Nevertheless, NASA’s launch infrastructure is dated and often does not provide the capacity to meet the growing demands of the agency and its partners.\" The report covers NASA's launch facilities at the Kennedy Space Center in Florida and Wallops Flight Facility in Virginia. However, the most noteworthy information in the report concerns the Florida spaceport, where demand from SpaceX's Starship and Blue Origin's New Glenn launch vehicles is expected to stress NASA.Read full article Comments",
-          "feed_position": 1,
+          "feed_position": 2,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/Artemis-I-Aug-19-2022-9057-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/Artemis-I-Aug-19-2022-9057-1152x648.jpg",
-      "popularity_score": 341.7682625
+      "popularity_score": 327.9650447222222
     },
     {
-      "id": "cluster_29",
+      "id": "cluster_56",
       "coverage": 1,
       "updated_at": "Mon, 22 Jun 2026 21:02:08 +0000",
       "title": "Man used massage gun on his tired eyeballs. It went as well as you'd expect.",
@@ -279,15 +420,15 @@
           "title": "Man used massage gun on his tired eyeballs. It went as well as you'd expect.",
           "standfirst": "He had retinal tears and bruises from squishing his eyeballs with the gun.",
           "content": "For our weary eyeballs, strained and tired from long periods locked onto screens, rest and relaxation can do wonders. But a man in Scotland came up with an eye-popping plan to try to pamper his pooped peepers. Ophthalmologists discovered it when the man, who was in his 20s, appeared at an eye treatment center in Edinburgh. He told them he had noticed increasing floaters and flashing lights in his right eye over the previous six days. According to a BMJ Case Report, the man said he hadn't had any eye or head injuries before the vision problems began, and that his family didn't have a history of eye disorders that might explain them. Besides having mild near-sightedness and needing glasses, he usually didn't have any problems with his eyes, he said. When the doctors—Niamh O’Connell ‍‍and Ashraf Khan—took a close look, they were surprised to find that both of his eyes were in terrible shape. In his right eye, he had multiple retinal tears, widespread retinal bruising, and a condition called retinal dialysis—a retinal break at a junction in the front of the eye—that is usually seen after a significant eye injury. In his left eye, he had more widespread bruising and six full-thickness rips in his retina.Read full article Comments",
-          "feed_position": 2,
+          "feed_position": 3,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2009/04/surprised-eye.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2009/04/surprised-eye.jpg",
-      "popularity_score": 323.3318736111111
+      "popularity_score": 309.52865583333335
     },
     {
-      "id": "cluster_37",
+      "id": "cluster_63",
       "coverage": 1,
       "updated_at": "Mon, 22 Jun 2026 20:10:34 +0000",
       "title": "Polymarket's viral videos showed people winning big, but the bets were fake",
@@ -303,15 +444,15 @@
           "title": "Polymarket's viral videos showed people winning big, but the bets were fake",
           "standfirst": "\"Winning\" bets were made on cloned website and would have lost money, WSJ finds.",
           "content": "Polymarket paid dozens of social media users to film themselves making fake bets for a promotion that aimed to convince people they can strike it rich on the prediction market, according to a Wall Street Journal investigation published on Saturday. \"In its push to draw users to its unregulated platform, Polymarket has flooded social media with videos like [George] Makihara’s, which appear genuine at first glance,\" the article said. \"In reality, Polymarket built near-perfect copies of its website, then instructed creators to make simulated trades on those dummy sites and hide that they were being paid by Polymarket.\" Makihara, a college student, posted a video in January \"that showed him winning $100,000 on a wager that President Trump would publicly say the word 'McDonald's' that month.\" But trade data showed that no one on Polymarket won such a bet in January, according to the Journal. This was one of 145 bets that Makihara appeared to place on Polymarket between January and May, but all of those bets were fake, the article said.Read full article Comments",
-          "feed_position": 3,
+          "feed_position": 4,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/polymarket-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/polymarket-1152x648.jpg",
-      "popularity_score": 312.47242916666664
+      "popularity_score": 298.66921138888887
     },
     {
-      "id": "cluster_45",
+      "id": "cluster_70",
       "coverage": 1,
       "updated_at": "Mon, 22 Jun 2026 19:16:52 +0000",
       "title": "Following user outcry, AMD reinstates memory encryption in consumer CPUs",
@@ -327,15 +468,15 @@
           "title": "Following user outcry, AMD reinstates memory encryption in consumer CPUs",
           "standfirst": "Critics saw the move as an underhanded way to steer them toward more costly chips.",
           "content": "Consumer AMD CPUs will once again offer encryption protections against physical attacks after facing user backlash for silently removing the feature. As Ars reported last week, AMD stripped the protection, known as TSME, from consumer Ryzen processors. Short for Transparent Secure Memory Encryption, TSME encrypts the entire contents stored in memory, making the data useless to adversaries performing cold boot attacks and similar intrusions requiring physical access. Now you see it, now you don't, soon you'll see it again About a decade ago, AMD added TSME to its high-end CPUs. Over the next few years, AMD added the protection to lower-end processors, including the consumer version of its Ryzen chips, a CPU that costs less than the Pro version. Over the years, users of these lower-end chips have gotten used to the added security, although some security experts (and plenty of novices, too) note that consumer chips are far less likely to be targeted by physical attacks. Recently and without warning or notice, the lower-end line of AMD chips suddenly dropped the protection, and it did so in a way that was impossible to detect on Windows machines and required a fair amount of technical work when using Linux. AMD last week declined to explain or acknowledge the change.Read full article Comments",
-          "feed_position": 4,
+          "feed_position": 5,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1952157610-1152x648-1753386930.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1952157610-1152x648-1753386930.jpg",
-      "popularity_score": 301.57742916666666
+      "popularity_score": 287.7742113888889
     },
     {
-      "id": "cluster_47",
+      "id": "cluster_72",
       "coverage": 1,
       "updated_at": "Mon, 22 Jun 2026 19:02:45 +0000",
       "title": "Valve's Steam Machine ships June 29 for $1,049, but you probably won't be able to buy one yet",
@@ -351,15 +492,15 @@
           "title": "Valve's Steam Machine ships June 29 for $1,049, but you probably won't be able to buy one yet",
           "standfirst": "Valve says it's using a randomized purchase queue to make the experience \"less frustrating and more fair.\"",
           "content": "The Steam Machine is almost here. Valve chose possibly the worst time to announce new PC gaming hardware in late 2025, just as the AI boom sent storage and RAM prices through the roof. The upheaval delayed its new Steam Machine release, but Valve has announced its TV-friendly gaming PC will go on sale June 29 with a reservation-based system and a starting price of $1,049. The Steam Machine will come in two variations: one with 512GB of storage and a more expensive one with 2TB. They'll retail for $1,049 and $1,349, respectively, and you'll be able to bundle a Steam Controller with either for an additional $79. Buying the 2TB model also gets you a pair of exclusive faceplates with red fabric and walnut finishes. Like the Steam Deck, the machine ships with the Linux-based SteamOS. Both versions of the Steam Machine will run on a custom six-core AMD Zen 4 CPU with a peak clock speed of 4.8GHz. The integrated AMD RDNA3 GPU will feature 28 compute units and 8GB of dedicated DDR6 VRAM soldered to the board. The system will have its own 16GB allotment of DDR5 on the board. This should provide enough oomph (with upscaling tech) to play moderately demanding PC games on your TV.Read full article Comments",
-          "feed_position": 5,
+          "feed_position": 6,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/valve-steam-machine-desktop-1152x648.jpeg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/valve-steam-machine-desktop-1152x648.jpeg",
-      "popularity_score": 291.3421513888889
+      "popularity_score": 277.53893361111113
     },
     {
-      "id": "cluster_76",
+      "id": "cluster_92",
       "coverage": 1,
       "updated_at": "Mon, 22 Jun 2026 15:22:46 +0000",
       "title": "Lucid lays off 1,500 workers in second big cut of the year",
@@ -375,15 +516,15 @@
           "title": "Lucid lays off 1,500 workers in second big cut of the year",
           "standfirst": "The cuts and redundancies are part of a plan to \"simplify the company,\" the CEO says.",
           "content": "Just three months ago, Lucid Motors showed off a new midsize electric vehicle platform that it said would give rise to a number of new vehicles in the coming years. The Saudi-backed startup is now selling its Gravity SUV alongside the ever-improved Air sedan and plans to reach profitability with smaller and cheaper models sold in higher volumes. But things are far from rosy at Lucid; today, the automaker is laying off approximately 1,500 workers—18 percent of its workforce. These aren't the first layoffs of the year, either; In February, Lucid let go of 12 percent of its workforce. In a filing with the Securities and Exchange Commission, Lucid wrote that the layoffs were \"designed to advance the Company’s path toward profitability and positive cash flow generation by streamlining its organizational structure, optimizing operating expenses, and aligning production plans with anticipated demand.\"Read full article Comments",
-          "feed_position": 7,
+          "feed_position": 8,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/Lucid-Air-Pure-24-of-25-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/Lucid-Air-Pure-24-of-25-1152x648.jpg",
-      "popularity_score": 267.6757625
+      "popularity_score": 253.87254472222222
     },
     {
-      "id": "cluster_78",
+      "id": "cluster_94",
       "coverage": 1,
       "updated_at": "Mon, 22 Jun 2026 15:18:23 +0000",
       "title": "A US military exercise in space got underway with barely anyone noticing",
@@ -399,39 +540,15 @@
           "title": "A US military exercise in space got underway with barely anyone noticing",
           "standfirst": "The Space Force wants to cut the time to field new satellites from years to weeks, days, or hours.",
           "content": "Rocket Lab quietly launched a small satellite from New Zealand on Friday in a high-flying military exercise to test the US Space Force's ability to rapidly respond to a crisis in low-Earth orbit. The launch was scarcely announced in advance. The only public indication of an impending launch was the release of a warning for pilots and sailors to steer clear of the rocket's flight path. Rocket Lab did not provide a livestream of the launch, as it does for most of its missions. As of Monday morning, officials from Rocket Lab and the Space Force had not acknowledged the launch in any official public statements. But the US military's catalog of space objects was updated over the weekend to reflect the launch. A new satellite, designated Victus Haze Puma, showed up in the catalog with a launch date of Friday from Rocket Lab's privately run spaceport at Māhia Peninsula in New Zealand. The Space Force cataloged the spacecraft in a polar orbit ranging between 215 miles and 286 miles (347-by-461 km), with an inclination of about 97.5 degrees from the equator.Read full article Comments",
-          "feed_position": 8,
+          "feed_position": 9,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/1779807626173-1020x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/1779807626173-1020x648.jpg",
-      "popularity_score": 265.60270694444444
+      "popularity_score": 251.79948916666666
     },
     {
-      "id": "cluster_79",
-      "coverage": 1,
-      "updated_at": "Mon, 22 Jun 2026 15:07:00 +0000",
-      "title": "1,250 hp hybrid Corvette shatters the Pikes Peak production record",
-      "neutral_headline": "1,250 hp hybrid Corvette shatters the Pikes Peak production record",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/06/pikes-peak-2026-was-a-battle-of-propulsion-with-an-ev-and-a-hybrid-winning-out/",
-          "published_at": "Mon, 22 Jun 2026 15:07:00 +0000",
-          "title": "1,250 hp hybrid Corvette shatters the Pikes Peak production record",
-          "standfirst": "The high-altitude race is a unique test of car and driver.",
-          "content": "Chevrolet provided flights from Albany, New York, to Denver, Colorado, and accommodation so Ars could attend the Pikes Peak International Hill Climb. Ars does not accept paid editorial content. COLORADO SPRINGS, Colo.—If you drive the 12.4-mile (20 km), 156-corner route up Pikes Peak, abiding by the posted speed limit of 25 mph (40 km/h), it will take you a good 30 minutes to reach the top. That's assuming you resist the urge to stop and gawk at the infinite vistas that surround you along the way. On Sunday, professional racer JR Hildebrand covered that same distance in just 9.5 minutes, ignoring the scenery all the while. He did it in a 1,250 hp (932 kW) hybrid-powered Corvette ZR1X, a car that you can take home yourself for about $210,000. It set a new production car record for the hybrid on a day when EVs and combustion-powered cars fought for mountain supremacy. 2026 marked the 104th running of the Pikes Peak International Hillclimb, one of the most historic races on the planet. Since its inception, competitors have struggled not only to string together all those corners but to maintain speed all the way to the 14,115-foot (4,302 m) summit.Read full article Comments",
-          "feed_position": 9,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/NA5_5812-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/NA5_5812-1152x648.jpg",
-      "popularity_score": 247.41298472222223
-    },
-    {
-      "id": "cluster_85",
+      "id": "cluster_101",
       "coverage": 1,
       "updated_at": "Mon, 22 Jun 2026 13:45:24 +0000",
       "title": "How Anthropic may have talked itself into an AI export ban",
@@ -447,15 +564,15 @@
           "title": "How Anthropic may have talked itself into an AI export ban",
           "standfirst": "The company warned about dangers of advanced AI far more than rival OpenAI.",
           "content": "Anthropic has warned about the dangers of advanced AI far more often than rival OpenAI this year, according to FT analysis, as critics accuse the company of helping to trigger a US ban on foreign access to its newest models. Five in every 1,000 words used by Anthropic in 2026 related to risk, regulation, or restrictions, according to FT research that analyzed official statements, social media posts, and articles written by the company or its chief, Dario Amodei. The equivalent figure for OpenAI and Sam Altman was eight times lower, at 0.6 words per 1,000. The comparison has become politically charged after Washington last week barred foreign nationals from using Anthropic’s latest models, Mythos and Fable. Some technologists have blamed the decision on the $965 billion AI group’s repeated warnings about AI’s risk to society—particularly in relation to Mythos.Read full article Comments",
-          "feed_position": 11,
+          "feed_position": 12,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/lock-anthropic-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/lock-anthropic-1152x648.jpg",
-      "popularity_score": 151.05298472222222
+      "popularity_score": 148
     },
     {
-      "id": "cluster_83",
+      "id": "cluster_99",
       "coverage": 1,
       "updated_at": "Mon, 22 Jun 2026 14:11:03 +0000",
       "title": "This former hacker saw the light—and now wants to collect all of it",
@@ -471,39 +588,39 @@
           "title": "This former hacker saw the light—and now wants to collect all of it",
           "standfirst": "\"I don’t know of a bigger question we can answer as humans.\"",
           "content": "BLUEMONT, Va.—From an overlook in the foothills of the Blue Ridge Mountains, Dan Roelker gazed across the green splendor of the Shenandoah Valley. With the pleasant spring afternoon drawing toward evening, the Sun lazily crossed the sky, casting light all around. The pleasing environs had put Roelker, who was drinking rye whiskey procured from a local distillery called Catoctin Creek, in an expansive mood to talk about one of his favorite subjects: light. \"If you can control light, you can control space,\" he said. \"So it’s basically a race for who is collecting the most light.\"Read full article Comments",
-          "feed_position": 10,
+          "feed_position": 11,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/20260504_ObservableSpace_123-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/20260504_ObservableSpace_123-1152x648.jpg",
-      "popularity_score": 146.48048472222223
+      "popularity_score": 143
     },
     {
-      "id": "cluster_108",
+      "id": "cluster_95",
       "coverage": 1,
-      "updated_at": "Sun, 21 Jun 2026 10:00:11 +0000",
-      "title": "Review: Widow's Bay is a boldly original take on comedic horror",
-      "neutral_headline": "Review: Widow's Bay is a boldly original take on comedic horror",
+      "updated_at": "Mon, 22 Jun 2026 15:07:00 +0000",
+      "title": "1,250 hp hybrid Corvette shatters the Pikes Peak production record",
+      "neutral_headline": "1,250 hp hybrid Corvette shatters the Pikes Peak production record",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/culture/2026/06/review-widows-bay-is-a-boldly-original-take-on-comedic-horror/",
-          "published_at": "Sun, 21 Jun 2026 10:00:11 +0000",
-          "title": "Review: Widow's Bay is a boldly original take on comedic horror",
-          "standfirst": "An eminently binge-able series that honors classic horror tropes while reinventing them in surprising ways.",
-          "content": "Widow's Bay, the delightfully eccentric new comedic horror series from Apple TV, is easily one of the best new series of the year. There's a reason everyone from Guillermo del Toro and Ben Stiller to Damon Lindelof (Lost) is raving about the show. It's an eminently binge-able, addictive series that pays tribute to all the classic horror tropes while reinventing them in surprising ways. Think Stephen King meets Parks and Recreation, with a dash of Twin Peaks—except Widow's Bay is very much its own refreshingly original beast. (Some spoilers below but no major reveals.) Tom Loftis (Matthew Rhys) is a widower and mayor of Widow's Bay, a quirky little seaside town that has a colorfully bizarre history marked by periodic tragedies. Tom is eager to elevate the town into a trendy summer tourist destination. But the arrival of New York Times travel writer Arthur Lloyd (Bashir Salahuddin), who has the clout to make Tom's aspirations for Widow's Bay come true, coincides with the onset of a mysterious fog. Local resident Wyck (Stephen Root) warns Tom that the fog is an omen that the island is \"waking up,\" meaning more supernatural occurrences are bound to happen.Read full article Comments",
-          "feed_position": 13,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/bay12-1152x648.jpg"
+          "url": "https://arstechnica.com/cars/2026/06/pikes-peak-2026-was-a-battle-of-propulsion-with-an-ev-and-a-hybrid-winning-out/",
+          "published_at": "Mon, 22 Jun 2026 15:07:00 +0000",
+          "title": "1,250 hp hybrid Corvette shatters the Pikes Peak production record",
+          "standfirst": "The high-altitude race is a unique test of car and driver.",
+          "content": "Chevrolet provided flights from Albany, New York, to Denver, Colorado, and accommodation so Ars could attend the Pikes Peak International Hill Climb. Ars does not accept paid editorial content. COLORADO SPRINGS, Colo.—If you drive the 12.4-mile (20 km), 156-corner route up Pikes Peak, abiding by the posted speed limit of 25 mph (40 km/h), it will take you a good 30 minutes to reach the top. That's assuming you resist the urge to stop and gawk at the infinite vistas that surround you along the way. On Sunday, professional racer JR Hildebrand covered that same distance in just 9.5 minutes, ignoring the scenery all the while. He did it in a 1,250 hp (932 kW) hybrid-powered Corvette ZR1X, a car that you can take home yourself for about $210,000. It set a new production car record for the hybrid on a day when EVs and combustion-powered cars fought for mountain supremacy. 2026 marked the 104th running of the Pikes Peak International Hillclimb, one of the most historic races on the planet. Since its inception, competitors have struggled not only to string together all those corners but to maintain speed all the way to the 14,115-foot (4,302 m) summit.Read full article Comments",
+          "feed_position": 10,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/NA5_5812-1152x648.jpg"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/bay12-1152x648.jpg",
-      "popularity_score": 144
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/NA5_5812-1152x648.jpg",
+      "popularity_score": 133.60976694444446
     },
     {
-      "id": "cluster_100",
+      "id": "cluster_115",
       "coverage": 1,
       "updated_at": "Sun, 21 Jun 2026 17:49:35 +0000",
       "title": "Trump admin’s coal investments assist plants with repeated violations",
@@ -519,7 +636,7 @@
           "title": "Trump admin’s coal investments assist plants with repeated violations",
           "standfirst": "At least three coal plants have been repeatedly cited for violating environmental regulations.",
           "content": "In 2023, after years of pollution, equipment failures, and health concerns, the Cumberland Fossil Plant in Tennessee was slated to close within the decade. The coal-fired plant had been part of a multibillion-dollar settlement in 2011 after its operator, the Tennessee Valley Authority, failed to install pollution control technology a decade earlier. Regulators cited the plant for more air-pollution violations in 2017 and 2023. TVA said it would shutter Cumberland’s units in 2026 and 2028. Then the Trump administration replaced four of TVA’s board members, and the agency reneged on its retirement plan in February. Now, TVA has a federal pledge for $46 million to extend Cumberland’s lifespan—part of a nationwide push by President Donald Trump to keep older coal plants running.Read full article Comments",
-          "feed_position": 12,
+          "feed_position": 13,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/coal-ash-1152x648.jpg"
         }
       ],
