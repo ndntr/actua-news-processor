@@ -1,16 +1,108 @@
 {
-  "updated_at": "2026-06-24T10:15:49.596Z",
+  "updated_at": "2026-06-24T13:13:18.259Z",
   "clusters": [
     {
-      "id": "cluster_16",
-      "coverage": 4,
-      "updated_at": "Wed, 24 Jun 2026 09:44:09 GMT",
-      "title": "US Senate passes symbolic rebuke to Trump over Iran war",
-      "neutral_headline": "Congress passes war powers measure for first time, breaking with Trump over Iran",
+      "id": "cluster_41",
+      "coverage": 6,
+      "updated_at": "Wed, 24 Jun 2026 12:11:21 GMT",
+      "title": "France confirms first Ebola case in doctor who had worked in DRC",
+      "neutral_headline": "France confirms first Ebola case in doctor who had worked in DRC",
       "bullet_summary": [
-        "Reported by France24, BBC World, CBS News and others"
+        "The patient was transferred to a specialist facility and was in a stable condition, the ministry said in a statement",
+        "France on Wednesday announced its first confirmed case of Ebola identified on its territory, a doctor who had returned from the Democratic Republic of Congo",
+        "The health ministry said the patient has a \"very low\" viral load and that contacts are \"currently being identified\"",
+        "France has reported its first case of Ebola during the latest outbreak after a doctor returning from the Democratic Republic of the Congo (DRC) tested positive"
       ],
       "items": [
+        {
+          "source": "Guardian World",
+          "url": "https://www.theguardian.com/world/2026/jun/24/france-ebola-first-case-doctor-drc",
+          "published_at": "Wed, 24 Jun 2026 12:11:21 GMT",
+          "title": "France confirms first Ebola case in doctor who had worked in DRC",
+          "standfirst": "French health ministry says patient’s contacts are being traced and that risk to European public is very lowThe first case of Ebola has been confirmed in France, the country’s health ministry has said, in a doctor who had returned from a humanitarian mission to an area affected by the outbreak in the Democratic Republic of the Congo.The patient was transferred to a specialist facility and was in a stable condition, the ministry said in a statement. “All precautionary measures, including the patient’s isolation, were taken upon his arrival in the country, with transfer to the hospital under secure conditions to prevent any risk of contamination.” Continue reading...",
+          "content": "French health ministry says patient’s contacts are being traced and that risk to European public is very lowThe first case of Ebola has been confirmed in France, the country’s health ministry has said, in a doctor who had returned from a humanitarian mission to an area affected by the outbreak in the Democratic Republic of the Congo.The patient was transferred to a specialist facility and was in a stable condition, the ministry said in a statement. “All precautionary measures, including the patient’s isolation, were taken upon his arrival in the country, with transfer to the hospital under secure conditions to prevent any risk of contamination.” Continue reading...",
+          "feed_position": 0
+        },
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cj9gzr9rdjlo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 24 Jun 2026 10:40:57 GMT",
+          "title": "France confirms first Ebola case",
+          "standfirst": "More than 260 people in the Democratic Republic of Congo are known to have died during the current outbreak.",
+          "content": "More than 260 people in the Democratic Republic of Congo are known to have died during the current outbreak.",
+          "feed_position": 5,
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c26d/live/6fcbfc90-6fb1-11f1-b1db-af71d47507d6.jpg"
+        },
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/6/24/france-confirms-first-ebola-case-in-doctor-returning-from-dr-congo?traffic_source=rss",
+          "published_at": "Wed, 24 Jun 2026 10:19:57 +0000",
+          "title": "France confirms first Ebola case in doctor returning from DR Congo",
+          "standfirst": "The patient is in isolation, following strict biosafety protocols to prevent risk of spread in France.",
+          "content": "The patient is in isolation, following strict biosafety protocols to prevent risk of spread in France.",
+          "feed_position": 9
+        },
+        {
+          "source": "France24",
+          "url": "https://www.france24.com/en/france/20260624-france-confirms-first-ebola-case-in-doctor-returning-from-dr-congo-mission",
+          "published_at": "Wed, 24 Jun 2026 09:27:48 GMT",
+          "title": "France confirms first Ebola case in doctor returning from DR Congo mission",
+          "standfirst": "France on Wednesday announced its first confirmed case of Ebola identified on its territory, a doctor who had returned from the Democratic Republic of Congo. The health ministry said the patient has a \"very low\" viral load and that contacts are \"currently being identified\".",
+          "content": "France on Wednesday announced its first confirmed case of Ebola identified on its territory, a doctor who had returned from the Democratic Republic of Congo. The health ministry said the patient has a \"very low\" viral load and that contacts are \"currently being identified\".",
+          "feed_position": 12,
+          "image_url": "https://s.france24.com/media/display/d1f89f76-6fad-11f1-b54a-005056a97e36/w:1024/p:16x9/AP403199146756.jpg"
+        },
+        {
+          "source": "NPR News",
+          "url": "https://www.npr.org/2026/06/24/nx-s1-5863157/ebola-outbreak-democratic-republic-congo-health-crisis",
+          "published_at": "Wed, 24 Jun 2026 05:00:00 -0400",
+          "title": "Inside the gold-mining town where the Ebola outbreak likely started",
+          "standfirst": "NPR reports from Mongbwalu in the Democratic Republic of Congo. The fight to contain the virus faces obstacles from lack of supplies to residents who doubt that the virus is real.",
+          "content": "NPR reports from Mongbwalu in the Democratic Republic of Congo. The fight to contain the virus faces obstacles from lack of supplies to residents who doubt that the virus is real.(Image credit: Arsène Mpiana for NPR)",
+          "feed_position": 8
+        },
+        {
+          "source": "Sky News World",
+          "url": "https://news.sky.com/story/france-reports-first-ebola-case-after-doctor-returning-from-dr-congo-tests-positive-13556940",
+          "published_at": "Wed, 24 Jun 2026 06:14:00 +0100",
+          "title": "France reports first Ebola case",
+          "standfirst": "France has reported its first case of Ebola during the latest outbreak after a doctor returning from the Democratic Republic of the Congo (DRC) tested positive.",
+          "content": "France has reported its first case of Ebola during the latest outbreak after a doctor returning from the Democratic Republic of the Congo (DRC) tested positive.",
+          "feed_position": 3,
+          "image_url": "https://e3.365dm.com/26/06/1920x1080/skynews-ebola-congo_7274367.jpg?20260615183139"
+        }
+      ],
+      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c26d/live/6fcbfc90-6fb1-11f1-b1db-af71d47507d6.jpg",
+      "popularity_score": 6018.9674280555555
+    },
+    {
+      "id": "cluster_14",
+      "coverage": 5,
+      "updated_at": "Wed, 24 Jun 2026 08:47:10 -0400",
+      "title": "Senate passes Iran war powers resolution in symbolic rebuke of Trump",
+      "neutral_headline": "US Senate approves Iran war powers resolution: What that means for Trump",
+      "bullet_summary": [
+        "Reported by CBS News, Al Jazeera, France24 and others"
+      ],
+      "items": [
+        {
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/senate-passes-iran-war-powers-resolution-in-symbolic-rebuke-of-trump/",
+          "published_at": "Wed, 24 Jun 2026 08:47:10 -0400",
+          "title": "Senate passes Iran war powers resolution in symbolic rebuke of Trump",
+          "standfirst": "President Trump is facing growing backlash over the Iran war. On Tuesday, the Senate voted to limit the president&#039;s war powers and some lawmakers, including Republicans, have questioned the U.S. deal with Iran. Nikole Killion reports.",
+          "content": "President Trump is facing growing backlash over the Iran war. On Tuesday, the Senate voted to limit the president&#039;s war powers and some lawmakers, including Republicans, have questioned the U.S. deal with Iran. Nikole Killion reports.",
+          "feed_position": 3
+        },
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/6/24/us-senate-approves-iran-war-powers-resolution-what-that-means-for-trump?traffic_source=rss",
+          "published_at": "Wed, 24 Jun 2026 11:25:40 +0000",
+          "title": "US Senate approves Iran war powers resolution: What that means for Trump",
+          "standfirst": "Four Republicans cross party lines to vote in favour of the measure.",
+          "content": "Four Republicans cross party lines to vote in favour of the measure.",
+          "feed_position": 5
+        },
         {
           "source": "France24",
           "url": "https://www.france24.com/en/video/20260624-us-senate-passes-symbolic-rebuke-to-trump-over-iran-war",
@@ -18,7 +110,7 @@
           "title": "US Senate passes symbolic rebuke to Trump over Iran war",
           "standfirst": "The US Senate passed a largely symbolic resolution Tuesday calling for an end to President Donald Trump's war with Iran, delivering a fresh rebuke to the White House as it tries to negotiate a lasting settlement with Tehran.",
           "content": "The US Senate passed a largely symbolic resolution Tuesday calling for an end to President Donald Trump's war with Iran, delivering a fresh rebuke to the White House as it tries to negotiate a lasting settlement with Tehran.",
-          "feed_position": 2,
+          "feed_position": 8,
           "image_url": "https://s.france24.com/media/display/0e9bb1e0-6fac-11f1-be32-005056bfb2b6/w:1024/p:16x9/EN-20260624-103252-103439-CS.jpg"
         },
         {
@@ -32,22 +124,13 @@
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/340e/live/f69c8770-6f7b-11f1-8e1d-bbbb1017d210.jpg"
         },
         {
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/senate-house-pass-iran-war-powers-resolution-trump/",
-          "published_at": "Tue, 23 Jun 2026 22:57:19 -0400",
-          "title": "Senate adopts House-passed Iran resolution in symbolic rebuke of Trump",
-          "standfirst": "The Senate approved a House-passed resolution aimed at reining in President Trump on Iran, marking the first time such a measure has made it through both chambers.",
-          "content": "The Senate approved a House-passed resolution aimed at reining in President Trump on Iran, marking the first time such a measure has made it through both chambers.",
-          "feed_position": 13
-        },
-        {
           "source": "NBC World",
           "url": "https://www.nbcnews.com/video/senate-approves-war-powers-resolution-in-symbolic-move-rebuking-trump-on-iran-265565253507",
           "published_at": "Tue, 23 Jun 2026 21:41:27 GMT",
           "title": "Senate approves war powers resolution in symbolic move rebuking Trump on Iran",
           "standfirst": "The Senate approved a war powers resolution that rebukes President Trump by calling for an end to the war in Iran. While the vote is largely symbolic, it is a rare bipartisan pushback regarding the war.",
           "content": "The Senate approved a war powers resolution that rebukes President Trump by calling for an end to the war in Iran. While the vote is largely symbolic, it is a rare bipartisan pushback regarding the war.",
-          "feed_position": 4,
+          "feed_position": 5,
           "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1782250881595_now_hallie_senate_iran_vote_260623_S3_1920x1080-ffwdkk.jpg"
         },
         {
@@ -57,23 +140,51 @@
           "title": "Senate rebukes Trump by approving House-passed measure calling for end to Iran war",
           "standfirst": "The largely symbolic measure passed as the U.S. and Iran are in the early stages of talks aimed at ending the war.",
           "content": "The largely symbolic measure passed as the U.S. and Iran are in the early stages of talks aimed at ending the war.",
-          "feed_position": 2,
+          "feed_position": 4,
           "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260623-Iran-war-aa-346-ba5699.jpg"
         }
       ],
       "featured_image": "https://s.france24.com/media/display/0e9bb1e0-6fac-11f1-be32-005056bfb2b6/w:1024/p:16x9/EN-20260624-103252-103439-CS.jpg",
-      "popularity_score": 4019.4720566666665
+      "popularity_score": 5019.5643725
     },
     {
-      "id": "cluster_52",
+      "id": "cluster_2",
       "coverage": 4,
-      "updated_at": "Wed, 24 Jun 2026 08:01:26 +0000",
-      "title": "Mamdani-backed candidates sweep New York City Democratic primaries",
-      "neutral_headline": "Mamdani-backed candidates sweep New York City Democratic primaries",
+      "updated_at": "Wed, 24 Jun 2026 13:03:35 GMT",
+      "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
+      "neutral_headline": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
       "bullet_summary": [
-        "Reported by Al Jazeera, BBC World, CBS News and others"
+        "Reported by BBC World, Al Jazeera, NPR News and others"
       ],
       "items": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 24 Jun 2026 13:03:35 GMT",
+          "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
+          "standfirst": "Brad Lander unseats Dan Goldman in a race that laid bare the city's divisions over the Israel-Gaza war.",
+          "content": "Brad Lander unseats Dan Goldman in a race that laid bare the city's divisions over the Israel-Gaza war.",
+          "feed_position": 3,
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde8/live/87a1ba60-6f86-11f1-8546-8f19e4fe30f4.jpg"
+        },
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/mamdani-backed-candidates-defeat-pro-israel-lawmakers-in-primaries?traffic_source=rss",
+          "published_at": "Wed, 24 Jun 2026 11:55:18 +0000",
+          "title": "Mamdani-backed candidates defeat pro-Israel lawmakers in primaries",
+          "standfirst": "Candidates backed by Zohran Mamdani have scored major wins in primaries, unseating Democrats backed by pro-Israel groups",
+          "content": "Candidates backed by Zohran Mamdani have scored major wins in primaries, unseating Democrats backed by pro-Israel groups",
+          "feed_position": 4
+        },
+        {
+          "source": "NPR News",
+          "url": "https://www.npr.org/2026/06/24/g-s1-129769/up-first-newsletter-trump-john-thune-housing-act-new-york-primaries",
+          "published_at": "Wed, 24 Jun 2026 07:01:04 -0400",
+          "title": "Congress passes major housing bill. And, Mamdani-backed candidates sweep NYC primaries",
+          "standfirst": "Congress has passed the largest housing affordability bill in decades. And all three candidates endorsed by New York City mayor Zohran Mamdani have won their primaries.",
+          "content": "Congress has passed the largest housing affordability bill in decades. And all three candidates endorsed by New York City mayor Zohran Mamdani have won their primaries. (Image credit: Heather Diehl)",
+          "feed_position": 3
+        },
         {
           "source": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/6/24/mamdani-backed-candidates-sweep-new-york-city-democratic-primaries?traffic_source=rss",
@@ -81,17 +192,7 @@
           "title": "Mamdani-backed candidates sweep New York City Democratic primaries",
           "standfirst": "Democratic socialist candidates backed by New York City mayor win key primaries, ousting two sitting congressmen.",
           "content": "Democratic socialist candidates backed by New York City mayor win key primaries, ousting two sitting congressmen.",
-          "feed_position": 7
-        },
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 24 Jun 2026 05:07:55 GMT",
-          "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
-          "standfirst": "Brad Lander unseats Dan Goldman in a race that laid bare the city's divisions over the Israel-Gaza war.",
-          "content": "Brad Lander unseats Dan Goldman in a race that laid bare the city's divisions over the Israel-Gaza war.",
-          "feed_position": 3,
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde8/live/87a1ba60-6f86-11f1-8546-8f19e4fe30f4.jpg"
+          "feed_position": 19
         },
         {
           "source": "CBS News",
@@ -100,7 +201,7 @@
           "title": "All 3 Mamdani-backed candidates projected to win NY primaries",
           "standfirst": "All three candidates backed by NYC Mayor Zohran Mamdani were projected to win their Democratic primaries Tuesday night.",
           "content": "All three candidates backed by NYC Mayor Zohran Mamdani were projected to win their Democratic primaries Tuesday night.",
-          "feed_position": 5
+          "feed_position": 20
         },
         {
           "source": "CBS News",
@@ -109,7 +210,7 @@
           "title": "Brad Lander defeats Rep. Goldman in NY-10 Democratic primary, CBS News projects",
           "standfirst": "Brad Lander has defeated two-term incumbent Congressman Dan Goldman for the Democratic nomination in New York&#039;s 10th Congressional District.",
           "content": "Brad Lander has defeated two-term incumbent Congressman Dan Goldman for the Democratic nomination in New York&#039;s 10th Congressional District.",
-          "feed_position": 6
+          "feed_position": 21
         },
         {
           "source": "CBS News",
@@ -118,7 +219,7 @@
           "title": "Assemblyman Micah Lasher wins Democratic House primary in NY-12, CBS News projects",
           "standfirst": "State Assemblyman Micah Lasher won the crowded primary race for New York&#039;s 12th Congressional District, CBS News projects.",
           "content": "State Assemblyman Micah Lasher won the crowded primary race for New York&#039;s 12th Congressional District, CBS News projects.",
-          "feed_position": 7
+          "feed_position": 22
         },
         {
           "source": "CBS News",
@@ -127,7 +228,7 @@
           "title": "Mamdani influences New York City&#039;s congressional primaries with 3 big wins",
           "standfirst": "New York City Mayor Zohran Mamdani endorsed three left-of-center candidates in the congressional Democratic primaries, and all three are set to win, CBS News projects.",
           "content": "New York City Mayor Zohran Mamdani endorsed three left-of-center candidates in the congressional Democratic primaries, and all three are set to win, CBS News projects.",
-          "feed_position": 8
+          "feed_position": 23
         },
         {
           "source": "CBS News",
@@ -136,290 +237,51 @@
           "title": "Cait Conley wins NY-17 Democratic primary, CBS News projects",
           "standfirst": "Democrat Cait Conley will challenge Republican Rep. Mike Lawler in the battle for New York&#039;s 17th Congressional District, which encompasses many of New York City&#039;s northern suburbs.",
           "content": "Democrat Cait Conley will challenge Republican Rep. Mike Lawler in the battle for New York&#039;s 17th Congressional District, which encompasses many of New York City&#039;s northern suburbs.",
-          "feed_position": 10
-        },
-        {
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/utah-1st-congressional-district-results-democrats-redistricting-ben-mcadams/",
-          "published_at": "Tue, 23 Jun 2026 22:47:26 -0400",
-          "title": "Moderate Democrat projected to win primary in Utah&#039;s new left-leaning district",
-          "standfirst": "Former Rep. Ben McAdams faced three progressive challengers in the Democratic primary in Utah&#039;s 1st Congressional District.",
-          "content": "Former Rep. Ben McAdams faced three progressive challengers in the Democratic primary in Utah&#039;s 1st Congressional District.",
-          "feed_position": 14
-        },
-        {
-          "source": "NPR News",
-          "url": "https://www.npr.org/2026/06/23/nx-s1-5868676/mamdani-nyc-primaries-progressive-dsa",
-          "published_at": "Tue, 23 Jun 2026 22:41:32 -0400",
-          "title": "Mamdani's political gamble pays off as his endorsed candidates sweep their primaries",
-          "standfirst": "All three progressive candidates backed by New York Mayor Zohran Mamdani — including two who took on Democratic incumbents — won their primaries in safe seats almost guaranteeing their election in November.",
-          "content": "All three progressive candidates backed by New York Mayor Zohran Mamdani — including two who took on Democratic incumbents — won their primaries in safe seats almost guaranteeing their election in November.(Image credit: Kena Betancur)",
-          "feed_position": 6
-        }
-      ],
-      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde8/live/87a1ba60-6f86-11f1-8546-8f19e4fe30f4.jpg",
-      "popularity_score": 4017.7601122222222
-    },
-    {
-      "id": "cluster_140",
-      "coverage": 4,
-      "updated_at": "Wed, 24 Jun 2026 00:00:09 GMT",
-      "title": "Trains halted across Germany by communication system problem",
-      "neutral_headline": "Germany rail network briefly halted nationwide due to IT malfunction",
-      "bullet_summary": [
-        "Reported by Reuters Top News, BBC World, Sky News World and others"
-      ],
-      "items": [
-        {
-          "source": "Reuters Top News",
-          "url": "https://flipso.com/p/dlie3dbbz",
-          "published_at": "Wed, 24 Jun 2026 00:00:09 GMT",
-          "title": "Trains halted across Germany by communication system problem",
-          "standfirst": "A nationwide failure in Deutsche Bahn’s GSM-R rail communications system briefly stopped all trains across Germany, stranding passengers and forcing delays at stations. Service later resumed step by step after the outage was resolved. [apnews.com]",
-          "content": "A nationwide failure in Deutsche Bahn’s GSM-R rail communications system briefly stopped all trains across Germany, stranding passengers and forcing delays at stations. Service later resumed step by step after the outage was resolved. [apnews.com]",
-          "feed_position": 9,
-          "image_url": "https://cdn.flipso.com/p/dlie3dbbz_square.jpg"
-        },
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/crm0ek4z7ggo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 23 Jun 2026 23:46:01 GMT",
-          "title": "Germany rail network briefly halted nationwide due to IT malfunction",
-          "standfirst": "Rail company Deutsche Bahn had to pause train services across the country for more than two-and-a-half hours.",
-          "content": "Rail company Deutsche Bahn had to pause train services across the country for more than two-and-a-half hours.",
-          "feed_position": 12,
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/972f/live/e72ad600-6f5a-11f1-8546-8f19e4fe30f4.jpg"
-        },
-        {
-          "source": "Sky News World",
-          "url": "https://news.sky.com/story/german-railway-network-comes-to-halt-due-to-problem-with-communication-system-13557238",
-          "published_at": "Tue, 23 Jun 2026 23:47:00 +0100",
-          "title": "Trains across Germany briefly halted after communication system issue",
-          "standfirst": "Germany's railway system was brought to a halt on Tuesday evening, leaving passengers stranded across the country following an IT issue.",
-          "content": "Germany's railway system was brought to a halt on Tuesday evening, leaving passengers stranded across the country following an IT issue.",
-          "feed_position": 3,
-          "image_url": "https://e3.365dm.com/26/06/1920x1080/skynews-deutsche-bahn-berlin_7281357.jpg?20260623235023"
-        },
-        {
-          "source": "Bloomberg Technology",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-23/german-rail-halted-nationwide-services-after-radio-system-outage",
-          "published_at": "Tue, 23 Jun 2026 22:27:23 GMT",
-          "title": "German Rail Services Disrupted After Comms System Failure",
-          "standfirst": "Germany’s national rail operator is struggling to restore regular service after a communications system outage apparently caused by a replacement component brought trains to a nationwide standstill late Tuesday.",
-          "content": "Germany’s national rail operator is struggling to restore regular service after a communications system outage apparently caused by a replacement component brought trains to a nationwide standstill late Tuesday.",
-          "feed_position": 2,
-          "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idMnP_oYHltg/v1/1200x-1.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.flipso.com/p/dlie3dbbz_square.jpg",
-      "popularity_score": 4009.7387233333334
-    },
-    {
-      "id": "cluster_11",
-      "coverage": 3,
-      "updated_at": "Wed, 24 Jun 2026 09:55:47 GMT",
-      "title": "France confirms first Ebola case",
-      "neutral_headline": "France confirms first Ebola case",
-      "bullet_summary": [
-        "France on Wednesday announced its first confirmed case of Ebola identified on its territory, a doctor who had returned from the Democratic Republic of Congo",
-        "France has reported its first case of Ebola during the latest outbreak after a doctor returning from the Democratic Republic of Congo (DRC) tested positive"
-      ],
-      "items": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cj9gzr9rdjlo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 24 Jun 2026 09:55:47 GMT",
-          "title": "France confirms first Ebola case",
-          "standfirst": "More than 260 people in the Democratic Republic of Congo are known to have died during the current outbreak.",
-          "content": "More than 260 people in the Democratic Republic of Congo are known to have died during the current outbreak.",
-          "feed_position": 5,
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c26d/live/6fcbfc90-6fb1-11f1-b1db-af71d47507d6.jpg"
-        },
-        {
-          "source": "France24",
-          "url": "https://www.france24.com/en/france/20260624-france-confirms-first-ebola-case-in-doctor-returning-from-dr-congo-mission",
-          "published_at": "Wed, 24 Jun 2026 09:27:48 GMT",
-          "title": "France confirms first Ebola case in doctor returning from DR Congo mission",
-          "standfirst": "France on Wednesday announced its first confirmed case of Ebola identified on its territory, a doctor who had returned from the Democratic Republic of Congo.",
-          "content": "France on Wednesday announced its first confirmed case of Ebola identified on its territory, a doctor who had returned from the Democratic Republic of Congo.",
-          "feed_position": 6,
-          "image_url": "https://s.france24.com/media/display/d1f89f76-6fad-11f1-b54a-005056a97e36/w:1024/p:16x9/AP403199146756.jpg"
-        },
-        {
-          "source": "Sky News World",
-          "url": "https://news.sky.com/story/france-reports-first-ebola-case-after-doctor-returning-from-dr-congo-tests-positive-13556940",
-          "published_at": "Wed, 24 Jun 2026 06:14:00 +0100",
-          "title": "France reports first Ebola case after doctor returning from DR Congo tests positive",
-          "standfirst": "France has reported its first case of Ebola during the latest outbreak after a doctor returning from the Democratic Republic of Congo (DRC) tested positive.",
-          "content": "France has reported its first case of Ebola during the latest outbreak after a doctor returning from the Democratic Republic of Congo (DRC) tested positive.",
-          "feed_position": 2,
-          "image_url": "https://e3.365dm.com/26/06/1920x1080/skynews-ebola-congo_7274367.jpg?20260615183139"
-        }
-      ],
-      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c26d/live/6fcbfc90-6fb1-11f1-b1db-af71d47507d6.jpg",
-      "popularity_score": 3019.6659455555555
-    },
-    {
-      "id": "cluster_60",
-      "coverage": 3,
-      "updated_at": "Wed, 24 Jun 2026 07:16:41 GMT",
-      "title": "World Cup 2026: Ronaldo answers critics as Portugal get back on track",
-      "neutral_headline": "Cristiano Ronaldo becomes first player to score in six World Cups",
-      "bullet_summary": [
-        "Reported by France24, BBC Top Stories, Al Jazeera"
-      ],
-      "items": [
-        {
-          "source": "France24",
-          "url": "https://www.france24.com/en/tv-shows/sports/20260624-world-cup-cristiano-ronaldo-answers-critics-as-portugal-get-back-on-track",
-          "published_at": "Wed, 24 Jun 2026 07:16:41 GMT",
-          "title": "World Cup 2026: Ronaldo answers critics as Portugal get back on track",
-          "standfirst": "Cristiano Ronaldo responded to criticism in the best possible way on Tuesday against Uzbekistan (5–0). The 41-year-old striker scored twice to lead his country to their first victory in this World Cup.",
-          "content": "Cristiano Ronaldo responded to criticism in the best possible way on Tuesday against Uzbekistan (5–0). The 41-year-old striker scored twice to lead his country to their first victory in this World Cup.",
-          "feed_position": 13,
-          "image_url": "https://s.france24.com/media/display/7785c0b2-6f69-11f1-894a-005056bf30b7/w:1024/p:16x9/063-2282965616.jpg"
-        },
-        {
-          "source": "BBC Top Stories",
-          "url": "https://www.bbc.co.uk/news/articles/cdejr7gey9do?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 24 Jun 2026 06:10:57 GMT",
-          "title": "Scotland on 'brink of history' ahead of Brazil World Cup tie",
-          "standfirst": "Scotland will play their final group stage match against Brazil later, with hopes of making it to the knock-out stages.",
-          "content": "Scotland will play their final group stage match against Brazil later, with hopes of making it to the knock-out stages.",
-          "feed_position": 14,
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0da3/live/8d4871c0-6f09-11f1-8546-8f19e4fe30f4.jpg"
-        },
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/cristiano-ronaldo-becomes-first-player-to-score-in-six-world-cups?traffic_source=rss",
-          "published_at": "Wed, 24 Jun 2026 04:45:01 +0000",
-          "title": "Cristiano Ronaldo becomes first player to score in six World Cups",
-          "standfirst": "Cristiano Ronaldo scored twice in Portugal’s 5-0 win over Uzbekistan",
-          "content": "Cristiano Ronaldo scored twice in Portugal’s 5-0 win over Uzbekistan",
-          "feed_position": 15
-        },
-        {
-          "source": "France24",
-          "url": "https://www.france24.com/en/video/20260623-world-cup-2026-ronaldo-becomes-first-player-to-score-in-six-editions",
-          "published_at": "Tue, 23 Jun 2026 22:58:24 GMT",
-          "title": "World Cup 2026: Ronaldo becomes first player to score in six editions",
-          "standfirst": "Scoring a brace against Uzbekistan on Tuesday, Cristiano Ronaldo made history by becoming the first player to score in six different editions of the FIFA World Cup. The 41-year-old will hope to secure Portugal a knockout stage berth, with the squad facing Colombia for their final group stage match on Saturday.",
-          "content": "Scoring a brace against Uzbekistan on Tuesday, Cristiano Ronaldo made history by becoming the first player to score in six different editions of the FIFA World Cup. The 41-year-old will hope to secure Portugal a knockout stage berth, with the squad facing Colombia for their final group stage match on Saturday.",
-          "feed_position": 22,
-          "image_url": "https://s.france24.com/media/display/07d091f6-6f56-11f1-ad80-005056bf30b7/w:1024/p:16x9/Thumb-Ronaldo-Record-EN.png"
-        }
-      ],
-      "featured_image": "https://s.france24.com/media/display/7785c0b2-6f69-11f1-894a-005056bf30b7/w:1024/p:16x9/063-2282965616.jpg",
-      "popularity_score": 3017.014278888889
-    },
-    {
-      "id": "cluster_56",
-      "coverage": 2,
-      "updated_at": "Wed, 24 Jun 2026 07:47:39 GMT",
-      "title": "All guns blazing as Messi, Mbappé and Haaland lead World Cup Golden Boot race",
-      "neutral_headline": "All guns blazing as Messi, Mbappé and Haaland lead World Cup Golden Boot race",
-      "bullet_summary": [
-        "Reported by France24, NBC World"
-      ],
-      "items": [
-        {
-          "source": "France24",
-          "url": "https://www.france24.com/en/sport/20260624-world-cup-2026-messi-mbappe-haaland-golden-boot-race-kane-ronaldo",
-          "published_at": "Wed, 24 Jun 2026 07:47:39 GMT",
-          "title": "All guns blazing as Messi, Mbappé and Haaland lead World Cup Golden Boot race",
-          "standfirst": "Just Fontaine has reigned as the World Cup's record scorer at a single tournament since 1958. But with Lionel Messi, Kylian Mbappé and Erling Haaland each piling on the goals for their respective countries, and the likes of Harry Kane and Cristiano Ronaldo in pursuit, the decades-old record is looking vulnerable for the first time.",
-          "content": "Just Fontaine has reigned as the World Cup's record scorer at a single tournament since 1958. But with Lionel Messi, Kylian Mbappé and Erling Haaland each piling on the goals for their respective countries, and the likes of Harry Kane and Cristiano Ronaldo in pursuit, the decades-old record is looking vulnerable for the first time.",
-          "feed_position": 12,
-          "image_url": "https://s.france24.com/media/display/06ac818a-6f9d-11f1-a37a-005056a97e36/w:1024/p:16x9/AP26174091674383.jpg"
-        },
-        {
-          "source": "NBC World",
-          "url": "https://www.nbcnews.com/sports/soccer/erling-haaland-powers-norway-keeps-golden-boot-race-rcna351324",
-          "published_at": "Tue, 23 Jun 2026 13:54:06 GMT",
-          "title": "Erling Haaland powers Norway into the next round and keeps pace in Golden Boot race",
-          "standfirst": "After tallying four goals in his first two World Cup games, the Manchester City striker is challenging Lionel Messi and Kylian Mbappé for the honor.",
-          "content": "After tallying four goals in his first two World Cup games, the Manchester City striker is challenging Lionel Messi and Kylian Mbappé for the honor.",
-          "feed_position": 10,
-          "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260623-erling-haaland-vl-934a-fc96ba.jpg"
-        }
-      ],
-      "featured_image": "https://s.france24.com/media/display/06ac818a-6f9d-11f1-a37a-005056a97e36/w:1024/p:16x9/AP26174091674383.jpg",
-      "popularity_score": 2017.53039
-    },
-    {
-      "id": "cluster_65",
-      "coverage": 2,
-      "updated_at": "Wed, 24 Jun 2026 06:27:51 GMT",
-      "title": "Philippines blocks GoreBox gaming app after school shooting kills three, injures 20",
-      "neutral_headline": "Philippines Bans GoreBox After Three Killed in School Shooting",
-      "bullet_summary": [
-        "Reported by Guardian World, Bloomberg Technology"
-      ],
-      "items": [
-        {
-          "source": "Guardian World",
-          "url": "https://www.theguardian.com/world/2026/jun/24/philippines-blocks-gorebox-gaming-app-after-school-shooting-kills-three-injures-20",
-          "published_at": "Wed, 24 Jun 2026 06:27:51 GMT",
-          "title": "Philippines blocks GoreBox gaming app after school shooting kills three, injures 20",
-          "standfirst": "Investigators said one of the teenagers who allegedly opened fire on students at a high school had regularly used the GoreBox gaming appPhilippine authorities have temporarily blocked the online gaming app GoreBox days after a rare school shooting in the south-east Asian nation killed three students and injured 20 others.Investigators said that of the two teenagers accused of opening fire on students at San Jose National high school in Tacloban city, one had regularly played the game, which allows players to use various weapons and depicts graphic violence. Continue reading...",
-          "content": "Investigators said one of the teenagers who allegedly opened fire on students at a high school had regularly used the GoreBox gaming appPhilippine authorities have temporarily blocked the online gaming app GoreBox days after a rare school shooting in the south-east Asian nation killed three students and injured 20 others.Investigators said that of the two teenagers accused of opening fire on students at San Jose National high school in Tacloban city, one had regularly played the game, which allows players to use various weapons and depicts graphic violence. Continue reading...",
-          "feed_position": 11
-        },
-        {
-          "source": "Bloomberg Technology",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-24/philippines-bans-gorebox-as-police-finds-school-shooter-played-online-game",
-          "published_at": "Wed, 24 Jun 2026 04:08:30 GMT",
-          "title": "Philippines Bans GoreBox After Three Killed in School Shooting",
-          "standfirst": "The Philippine cybercrime agency has temporarily banned online game GoreBox after initial police investigations showed that one of the two students allegedly involved in this week’s school shooting was an avid player.",
-          "content": "The Philippine cybercrime agency has temporarily banned online game GoreBox after initial police investigations showed that one of the two students allegedly involved in this week’s school shooting was an avid player.",
-          "feed_position": 17,
-          "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipadiPXATlO8/v0/1200x-1.jpg"
-        }
-      ],
-      "featured_image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipadiPXATlO8/v0/1200x-1.jpg",
-      "popularity_score": 2016.20039
-    },
-    {
-      "id": "cluster_68",
-      "coverage": 2,
-      "updated_at": "Wed, 24 Jun 2026 02:03:48 -0400",
-      "title": "Appeals court allows Trump administration expanded use of speedy deportations",
-      "neutral_headline": "Appeals court allows Trump administration expanded use of speedy deportations",
-      "bullet_summary": [
-        "Reported by NPR News, CBS News"
-      ],
-      "items": [
-        {
-          "source": "NPR News",
-          "url": "https://www.npr.org/2026/06/24/nx-s1-5869125/court-allows-trump-speedy-deportations",
-          "published_at": "Wed, 24 Jun 2026 02:03:48 -0400",
-          "title": "Appeals court allows Trump administration expanded use of speedy deportations",
-          "standfirst": "A federal appeals court on Tuesday allowed the Trump administration to resume carrying out speedy deportations of undocumented migrants throughout the United States, not just near the border.",
-          "content": "A federal appeals court on Tuesday allowed the Trump administration to resume carrying out speedy deportations of undocumented migrants throughout the United States, not just near the border.(Image credit: Morgan Lee)",
-          "feed_position": 4
-        },
-        {
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/federal-court-allows-ice-trump-admimistration-expand-expedited-deportations-nationwide/",
-          "published_at": "Tue, 23 Jun 2026 19:26:00 -0400",
-          "title": "Federal court allows ICE to expand expedited deportations nationwide",
-          "standfirst": "A federal appeals court has allowed the Trump administration to move forward with an effort to expand fast-track deportations throughout the U.S.",
-          "content": "A federal appeals court has allowed the Trump administration to move forward with an effort to expand fast-track deportations throughout the U.S.",
           "feed_position": 25
         }
       ],
-      "popularity_score": 2015.7995566666666
+      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde8/live/87a1ba60-6f86-11f1-8546-8f19e4fe30f4.jpg",
+      "popularity_score": 4019.837983611111
     },
     {
-      "id": "cluster_71",
-      "coverage": 2,
-      "updated_at": "Wed, 24 Jun 2026 05:57:19 +0000",
-      "title": "Deadly heatwave grips Europe as temperatures soar across continent",
-      "neutral_headline": "Deadly heatwave grips Europe as temperatures soar across continent",
+      "id": "cluster_86",
+      "coverage": 4,
+      "updated_at": "Wed, 24 Jun 2026 10:40:56 GMT",
+      "title": "France records hottest day ever as Europe suffers brutal heat wave",
+      "neutral_headline": "Power outages in France as Europe bakes in record heat",
       "bullet_summary": [
-        "Reported by Al Jazeera, BBC World"
+        "Reported by NBC World, France24, Al Jazeera and others"
       ],
       "items": [
+        {
+          "source": "NBC World",
+          "url": "https://www.nbcnews.com/world/europe/europe-heatwave-record-temperatures-france-uk-germany-eiffel-tower-rcna351525",
+          "published_at": "Wed, 24 Jun 2026 10:40:56 GMT",
+          "title": "France records hottest day ever as Europe suffers brutal heat wave",
+          "standfirst": "France followed its hottest ever day with yet more brutal temperatures Wednesday as a deadly heatwave scorches much of western Europe.",
+          "content": "France followed its hottest ever day with yet more brutal temperatures Wednesday as a deadly heatwave scorches much of western Europe.",
+          "feed_position": 0,
+          "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260624-paris-mb-1031-f1ade3.jpg"
+        },
+        {
+          "source": "France24",
+          "url": "https://www.france24.com/en/video/20260624-hospitals-on-red-alert-as-france-sees-hottest-day-ever",
+          "published_at": "Wed, 24 Jun 2026 09:20:42 GMT",
+          "title": "Hospitals on red alert as France sees hottest day ever",
+          "standfirst": "France recorded its hottest day ever Tuesday as an extreme heat wave gripped Europe. With temperatures set to be scorching again on Wednesday, France 24's Andrew Hilliar reports from outside a Paris hospital, where he says there has already been an influx of patients suffering from heat-related illnesses.",
+          "content": "France recorded its hottest day ever Tuesday as an extreme heat wave gripped Europe. With temperatures set to be scorching again on Wednesday, France 24's Andrew Hilliar reports from outside a Paris hospital, where he says there has already been an influx of patients suffering from heat-related illnesses.",
+          "feed_position": 16,
+          "image_url": "https://s.france24.com/media/display/d803ac9a-6fa7-11f1-b6de-005056a97e36/w:1024/p:16x9/EN-20260624-100129-100611-CS.jpg"
+        },
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/6/24/power-outage-in-france-as-europe-bakes-in-record-heat?traffic_source=rss",
+          "published_at": "Wed, 24 Jun 2026 07:45:44 +0000",
+          "title": "Power outages in France as Europe bakes in record heat",
+          "standfirst": "Italy declares red heatwave alert in 16 cities, including Rome, as UK prepares for highest ever June temperatures.",
+          "content": "Italy declares red heatwave alert in 16 cities, including Rome, as UK prepares for highest ever June temperatures.",
+          "feed_position": 20
+        },
         {
           "source": "Al Jazeera",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/aje-onl-nf_deadly-heatwave-grips-europe-as-temperatures-soars-240626?traffic_source=rss",
@@ -427,7 +289,7 @@
           "title": "Deadly heatwave grips Europe as temperatures soar across continent",
           "standfirst": "A blistering heatwave has swept across Europe triggering the highest-level red heat warnings in Britain and France.",
           "content": "A blistering heatwave has swept across Europe triggering the highest-level red heat warnings in Britain and France.",
-          "feed_position": 12
+          "feed_position": 24
         },
         {
           "source": "BBC World",
@@ -450,233 +312,367 @@
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4622/live/5093bf60-6f21-11f1-b1db-af71d47507d6.jpg"
         }
       ],
-      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a32a/live/0376e570-6f4b-11f1-8e1d-bbbb1017d210.jpg",
-      "popularity_score": 2015.6915011111112
+      "featured_image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260624-paris-mb-1031-f1ade3.jpg",
+      "popularity_score": 4017.460483611111
     },
     {
-      "id": "cluster_78",
-      "coverage": 2,
-      "updated_at": "Wed, 24 Jun 2026 05:06:43 +0000",
-      "title": "Kenyan Health Minister orders halt of construction of US Ebola facility",
-      "neutral_headline": "Kenyan Health Minister orders halt of construction of US Ebola facility",
+      "id": "cluster_186",
+      "coverage": 4,
+      "updated_at": "Wed, 24 Jun 2026 00:00:09 GMT",
+      "title": "Trains halted across Germany by communication system problem",
+      "neutral_headline": "Germany rail network briefly halted nationwide due to IT malfunction",
       "bullet_summary": [
-        "Reported by Al Jazeera, Guardian World"
+        "Reported by Reuters Top News, BBC World, Sky News World and others"
       ],
       "items": [
         {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/kenyan-health-minister-orders-halt-of-construction-of-us-ebola-facility?traffic_source=rss",
-          "published_at": "Wed, 24 Jun 2026 05:06:43 +0000",
-          "title": "Kenyan Health Minister orders halt of construction of US Ebola facility",
-          "standfirst": "Kenya’s Health Minister has stopped the construction of a US Ebola facility in Kenya.",
-          "content": "Kenya’s Health Minister has stopped the construction of a US Ebola facility in Kenya.",
-          "feed_position": 13
+          "source": "Reuters Top News",
+          "url": "https://flipso.com/p/dlie3dbbz",
+          "published_at": "Wed, 24 Jun 2026 00:00:09 GMT",
+          "title": "Trains halted across Germany by communication system problem",
+          "standfirst": "A nationwide failure in Deutsche Bahn’s GSM-R rail communications system briefly stopped all trains across Germany, stranding passengers and forcing delays at stations. Service later resumed step by step after the outage was resolved. [apnews.com]",
+          "content": "A nationwide failure in Deutsche Bahn’s GSM-R rail communications system briefly stopped all trains across Germany, stranding passengers and forcing delays at stations. Service later resumed step by step after the outage was resolved. [apnews.com]",
+          "feed_position": 15,
+          "image_url": "https://cdn.flipso.com/p/dlie3dbbz_square.jpg"
         },
         {
-          "source": "Guardian World",
-          "url": "https://www.theguardian.com/world/2026/jun/23/kenya-minister-orders-halt-us-ebola-facility",
-          "published_at": "Tue, 23 Jun 2026 13:22:39 GMT",
-          "title": "Kenyan minister orders halt to construction of US Ebola facility",
-          "standfirst": "Decision comes after Aden Duale was held in contempt for ignoring previous high court ruling to stop work Kenya’s health minister told a court he had ordered preparations for a US-run Ebola quarantine facility to stop, after being held in contempt for ignoring a previous order to end work.Many Kenyans strongly oppose the facility, with deadly protests erupting since the complex was announced in May for US citizens evacuated from the Democratic Republic of Congo, which is grappling with a widespread Ebola outbreak. Continue reading...",
-          "content": "Decision comes after Aden Duale was held in contempt for ignoring previous high court ruling to stop work Kenya’s health minister told a court he had ordered preparations for a US-run Ebola quarantine facility to stop, after being held in contempt for ignoring a previous order to end work.Many Kenyans strongly oppose the facility, with deadly protests erupting since the complex was announced in May for US citizens evacuated from the Democratic Republic of Congo, which is grappling with a widespread Ebola outbreak. Continue reading...",
-          "feed_position": 1
-        }
-      ],
-      "popularity_score": 2014.8481677777777
-    },
-    {
-      "id": "cluster_82",
-      "coverage": 2,
-      "updated_at": "Wed, 24 Jun 2026 04:58:51 GMT",
-      "title": "World Cup 2026: Colombia battle past DR Congo to reach round of 32",
-      "neutral_headline": "Munoz sends Colombia into World Cup knockouts with 1-0 win over DR Congo",
-      "bullet_summary": [
-        "Reported by France24, Al Jazeera"
-      ],
-      "items": [
-        {
-          "source": "France24",
-          "url": "https://www.france24.com/en/sport/20260624-world-cup-2026-colombia-battle-past-dr-congo-to-reach-round-of-32-knockouts-munoz",
-          "published_at": "Wed, 24 Jun 2026 04:58:51 GMT",
-          "title": "World Cup 2026: Colombia battle past DR Congo to reach round of 32",
-          "standfirst": "⁠Colombia secured ​their place in the World Cup knockouts round with a game to spare after a 1-0 victory over DR Congo pushed them back to the top of Group ​K ‌on Tuesday, with Daniel Munoz ⁠finding a winner in the 76th minute after the South Americans had been ‌frustrated for much of the evening.",
-          "content": "⁠Colombia secured ​their place in the World Cup knockouts round with a game to spare after a 1-0 victory over DR Congo pushed them back to the top of Group ​K ‌on Tuesday, with Daniel Munoz ⁠finding a winner in the 76th minute after the South Americans had been ‌frustrated for much of the evening.",
-          "feed_position": 16,
-          "image_url": "https://s.france24.com/media/display/583f3088-6f7f-11f1-93e0-005056bfb2b6/w:1024/p:16x9/000-B83Z88Y.jpg"
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/crm0ek4z7ggo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 23 Jun 2026 23:46:01 GMT",
+          "title": "Germany rail network briefly halted nationwide due to IT malfunction",
+          "standfirst": "Rail company Deutsche Bahn had to pause train services across the country for more than two-and-a-half hours.",
+          "content": "Rail company Deutsche Bahn had to pause train services across the country for more than two-and-a-half hours.",
+          "feed_position": 13,
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/972f/live/e72ad600-6f5a-11f1-8546-8f19e4fe30f4.jpg"
         },
         {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/6/24/colombia-dr-congo-1-0-fifa-world-cup-2026-knockout-munoz-rodrigruez-arias-mpasi?traffic_source=rss",
-          "published_at": "Wed, 24 Jun 2026 04:40:44 +0000",
-          "title": "Munoz sends Colombia into World Cup knockouts with 1-0 win over DR Congo",
-          "standfirst": "Daniel Munoz&#039;s 76th-minute goal guided Colombia to a Group K win over DR Congo, sending them to the round of 32.",
-          "content": "Daniel Munoz&#039;s 76th-minute goal guided Colombia to a Group K win over DR Congo, sending them to the round of 32.",
-          "feed_position": 17
+          "source": "Sky News World",
+          "url": "https://news.sky.com/story/german-railway-network-comes-to-halt-due-to-problem-with-communication-system-13557238",
+          "published_at": "Tue, 23 Jun 2026 23:47:00 +0100",
+          "title": "Trains across Germany briefly halted after communication system issue",
+          "standfirst": "Germany's railway system was brought to a halt on Tuesday evening, leaving passengers stranded across the country following an IT issue.",
+          "content": "Germany's railway system was brought to a halt on Tuesday evening, leaving passengers stranded across the country following an IT issue.",
+          "feed_position": 4,
+          "image_url": "https://e3.365dm.com/26/06/1920x1080/skynews-deutsche-bahn-berlin_7281357.jpg?20260623235023"
+        },
+        {
+          "source": "Bloomberg Technology",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-23/german-rail-halted-nationwide-services-after-radio-system-outage",
+          "published_at": "Tue, 23 Jun 2026 22:27:23 GMT",
+          "title": "German Rail Services Disrupted After Comms System Failure",
+          "standfirst": "Germany’s national rail operator is struggling to restore regular service after a communications system outage apparently caused by a replacement component brought trains to a nationwide standstill late Tuesday.",
+          "content": "Germany’s national rail operator is struggling to restore regular service after a communications system outage apparently caused by a replacement component brought trains to a nationwide standstill late Tuesday.",
+          "feed_position": 23,
+          "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idMnP_oYHltg/v1/1200x-1.jpg"
         }
       ],
-      "featured_image": "https://s.france24.com/media/display/583f3088-6f7f-11f1-93e0-005056bfb2b6/w:1024/p:16x9/000-B83Z88Y.jpg",
-      "popularity_score": 2014.7170566666666
+      "featured_image": "https://cdn.flipso.com/p/dlie3dbbz_square.jpg",
+      "popularity_score": 4006.780761388889
     },
     {
-      "id": "cluster_87",
-      "coverage": 2,
-      "updated_at": "Wed, 24 Jun 2026 04:32:58 +0000",
-      "title": "NBA Draft 2026: Wizards select teen sensation AJ Dybantsa with No. 1 pick",
-      "neutral_headline": "NBA Draft 2026: Wizards select teen sensation AJ Dybantsa with No. 1 pick",
+      "id": "cluster_27",
+      "coverage": 3,
+      "updated_at": "Wed, 24 Jun 2026 12:32:00 GMT",
+      "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
+      "neutral_headline": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
       "bullet_summary": [
-        "Reported by Al Jazeera, CBS News"
+        "Reported by BBC World, CBS News, NPR News"
       ],
       "items": [
         {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/6/24/nba-draft-2026-aj-dybantsa-no-1-pick-washington-wizards?traffic_source=rss",
-          "published_at": "Wed, 24 Jun 2026 04:32:58 +0000",
-          "title": "NBA Draft 2026: Wizards select teen sensation AJ Dybantsa with No. 1 pick",
-          "standfirst": "The 6ft 8in (2.03m) 19-year-old forward was scooped by the Wizards after playing just one season of college basketball.",
-          "content": "The 6ft 8in (2.03m) 19-year-old forward was scooped by the Wizards after playing just one season of college basketball.",
-          "feed_position": 18
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 24 Jun 2026 12:32:00 GMT",
+          "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
+          "standfirst": "Rafael Grossi says the IAEA is \"working on modalities\" but an Iranian minister says such access would only be part of a final deal with the US.",
+          "content": "Rafael Grossi says the IAEA is \"working on modalities\" but an Iranian minister says such access would only be part of a final deal with the US.",
+          "feed_position": 6,
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d75e/live/c4c807c0-6fc5-11f1-8e1d-bbbb1017d210.jpg"
         },
         {
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/washington-wizards-select-aj-dybantsa-no-1-overall-2026-nba-draft/",
-          "published_at": "Tue, 23 Jun 2026 22:25:55 -0400",
-          "title": "Washington Wizards select AJ Dybantsa No. 1 overall in the 2026 NBA Draft",
-          "standfirst": "In what is considered one of the most talented classes in recent memory, the Washington Wizards selected BYU small forward AJ Dybantsa with the No. 1 overall pick of the NBA Draft.",
-          "content": "In what is considered one of the most talented classes in recent memory, the Washington Wizards selected BYU small forward AJ Dybantsa with the No. 1 overall pick of the NBA Draft.",
-          "feed_position": 18
-        }
-      ],
-      "popularity_score": 2014.2856677777777
-    },
-    {
-      "id": "cluster_96",
-      "coverage": 2,
-      "updated_at": "Wed, 24 Jun 2026 04:01:42 +0000",
-      "title": "China takes US crown for world’s fastest supercomputer",
-      "neutral_headline": "China takes US crown for world’s fastest supercomputer",
-      "bullet_summary": [
-        "Reported by Al Jazeera, Guardian World"
-      ],
-      "items": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/6/24/china-takes-us-crown-for-worlds-fastest-supercomputer?traffic_source=rss",
-          "published_at": "Wed, 24 Jun 2026 04:01:42 +0000",
-          "title": "China takes US crown for world’s fastest supercomputer",
-          "standfirst": "China’s LineShine overtakes US-based El Capitan as most powerful supercomputer, according to the TOP500 list.",
-          "content": "China’s LineShine overtakes US-based El Capitan as most powerful supercomputer, according to the TOP500 list.",
-          "feed_position": 20
+          "url": "https://www.cbsnews.com/live-updates/us-iran-trump-deal-nuclear-inspections-iaea-timing-not-essential/",
+          "published_at": "Wed, 24 Jun 2026 07:48:35 -0400",
+          "title": "U.N. nuclear agency chief says Iran inspections will happen, at some point",
+          "standfirst": "After conflicting remarks from Iran and the U.S., the U.N. nuclear agency chief says Iranian sites will be inspected, but the timing is \"not essential.\"",
+          "content": "After conflicting remarks from Iran and the U.S., the U.N. nuclear agency chief says Iranian sites will be inspected, but the timing is \"not essential.\"",
+          "feed_position": 12
         },
         {
-          "source": "Guardian World",
-          "url": "https://www.theguardian.com/technology/2026/jun/24/china-supercomputer-world-fastest-top500-ranking-lineshine",
-          "published_at": "Wed, 24 Jun 2026 01:18:11 GMT",
-          "title": "Chinese supercomputer leapfrogs best US machines to be ranked world’s fastest",
-          "standfirst": "China’s LineShine debuts at number one in Top500 – a list sometimes viewed as a national measure of global tech prowessA supercomputer in China now outranks its US counterparts as the world’s most powerful. It is the first time since 2017 that a Chinese computer has topped a list sometimes viewed as a measure of a nation’s technological prowess.The LineShine computer in Shenzhen displaced top-ranked US computer El Capitan in the Top500 rankings released on Tuesday. It was LineShine’s debut on the list. Continue reading...",
-          "content": "China’s LineShine debuts at number one in Top500 – a list sometimes viewed as a national measure of global tech prowessA supercomputer in China now outranks its US counterparts as the world’s most powerful. It is the first time since 2017 that a Chinese computer has topped a list sometimes viewed as a measure of a nation’s technological prowess.The LineShine computer in Shenzhen displaced top-ranked US computer El Capitan in the Top500 rankings released on Tuesday. It was LineShine’s debut on the list. Continue reading...",
-          "feed_position": 43
+          "source": "NPR News",
+          "url": "https://www.npr.org/2026/06/24/g-s1-129770/iran-nuclear-inspection",
+          "published_at": "Wed, 24 Jun 2026 07:10:17 -0400",
+          "title": "IAEA chief says inspectors will visit nuclear sites under Iran-U.S. interim deal",
+          "standfirst": "The head of the U.N.'s nuclear agency has signaled that Iranian nuclear enrichment sites would be visited by his inspectors, a day after the U.S. and Iran offered contradictory remarks about the issue.",
+          "content": "The head of the U.N.'s nuclear agency has signaled that Iranian nuclear enrichment sites would be visited by his inspectors, a day after the U.S. and Iran offered contradictory remarks about the issue.(Image credit: Kyodo News)",
+          "feed_position": 2
         }
       ],
-      "popularity_score": 2013.7645566666667
+      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d75e/live/c4c807c0-6fc5-11f1-8e1d-bbbb1017d210.jpg",
+      "popularity_score": 3019.3115947222223
     },
     {
-      "id": "cluster_110",
-      "coverage": 2,
-      "updated_at": "Tue, 23 Jun 2026 23:27:55 -0400",
-      "title": "Judge blocks Trump administration from arresting immigrants at courts",
-      "neutral_headline": "Federal judge blocks Trump policy that allows immigration court arrests",
+      "id": "cluster_36",
+      "coverage": 3,
+      "updated_at": "Wed, 24 Jun 2026 08:22:46 -0400",
+      "title": "Cristiano Ronaldo makes history as first player to score in 6 World Cups",
+      "neutral_headline": "Watch World Cup Day 13: Portugal’s Ronaldo breaks record while England draw",
       "bullet_summary": [
-        "Reported by CBS News, Guardian World"
+        "Reported by CBS News, France24, Al Jazeera"
       ],
       "items": [
         {
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/judge-blocks-trump-administration-immigration-court-arrests/",
-          "published_at": "Tue, 23 Jun 2026 23:27:55 -0400",
-          "title": "Judge blocks Trump administration from arresting immigrants at courts",
-          "standfirst": "U.S. District Judge P. Casey Pitts in the Northern District of California ruled in a 71-page opinion Tuesday that multiple Trump administration policies were arbitrary and violated the Administrative Procedure Act.",
-          "content": "U.S. District Judge P. Casey Pitts in the Northern District of California ruled in a 71-page opinion Tuesday that multiple Trump administration policies were arbitrary and violated the Administrative Procedure Act.",
+          "url": "https://www.cbsnews.com/video/cristiano-ronaldo-makes-history-as-first-player-to-score-in-6-world-cups/",
+          "published_at": "Wed, 24 Jun 2026 08:22:46 -0400",
+          "title": "Cristiano Ronaldo makes history as first player to score in 6 World Cups",
+          "standfirst": "Portugal&#039;s Cristiano Ronaldo scored twice on Tuesday, making him the first player ever to score goals in six World Cups. The final round of the tournament&#039;s group stage begins on Wednesday. Cristian Benavides reports.",
+          "content": "Portugal&#039;s Cristiano Ronaldo scored twice on Tuesday, making him the first player ever to score goals in six World Cups. The final round of the tournament&#039;s group stage begins on Wednesday. Cristian Benavides reports.",
           "feed_position": 11
         },
         {
-          "source": "Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/jun/23/trump-immigration-courthouse-arrest-policy",
-          "published_at": "Wed, 24 Jun 2026 00:39:58 GMT",
-          "title": "Federal judge blocks Trump policy that allows immigration court arrests",
-          "standfirst": "Judge vacates administrations policies, finding actions of ICE and another government arm ‘arbitrary and capricious’A federal ⁠judge in California vacated the ⁠Trump administration’s ​nationwide policies expanding arrests at immigration courthouses and the duration for detaining noncitizens in short-term facilities, finding the actions of US Immigration ⁠and Customs Enforcement and another government arm “arbitrary and capricious”.US district judge P Casey Pitts of the northern district of California on Tuesday vacated ICE’s ⁠policies that had rescinded previous strictures on arrests at immigration courthouses and allowed detainees to ​be held in short-term cells for up ‌to 72 hours. He ‌did the same for a similar policy undertaken by the US Department of Justice’s ‌executive office for immigration review that removed limits on courthouse arrests. Continue reading...",
-          "content": "Judge vacates administrations policies, finding actions of ICE and another government arm ‘arbitrary and capricious’A federal ⁠judge in California vacated the ⁠Trump administration’s ​nationwide policies expanding arrests at immigration courthouses and the duration for detaining noncitizens in short-term facilities, finding the actions of US Immigration ⁠and Customs Enforcement and another government arm “arbitrary and capricious”.US district judge P Casey Pitts of the northern district of California on Tuesday vacated ICE’s ⁠policies that had rescinded previous strictures on arrests at immigration courthouses and allowed detainees to ​be held in short-term cells for up ‌to 72 hours. He ‌did the same for a similar policy undertaken by the US Department of Justice’s ‌executive office for immigration review that removed limits on courthouse arrests. Continue reading...",
-          "feed_position": 44
+          "source": "France24",
+          "url": "https://www.france24.com/en/video/20260624-world-cup-2026-ronaldo-breaks-record-ghana-thwart-england",
+          "published_at": "Wed, 24 Jun 2026 11:06:52 GMT",
+          "title": "World Cup 2026: Ronaldo breaks record, Ghana thwart England",
+          "standfirst": "Cristiano Ronaldo silenced his critics as he became the first man to score in six different World Cups on Tuesday as Portugal thrashed Uzbekistan 5-0. while England could only managea 0-0 draw against Ghana in Monday's group games.",
+          "content": "Cristiano Ronaldo silenced his critics as he became the first man to score in six different World Cups on Tuesday as Portugal thrashed Uzbekistan 5-0. while England could only managea 0-0 draw against Ghana in Monday's group games.",
+          "feed_position": 3,
+          "image_url": "https://s.france24.com/media/display/8067b41c-6fb2-11f1-8006-005056bfb2b6/w:1024/p:16x9/EN-20260624-110719-110900-CS.jpg"
+        },
+        {
+          "source": "France24",
+          "url": "https://www.france24.com/en/tv-shows/sports/20260624-world-cup-cristiano-ronaldo-answers-critics-as-portugal-get-back-on-track",
+          "published_at": "Wed, 24 Jun 2026 07:16:41 GMT",
+          "title": "World Cup 2026: Ronaldo answers critics as Portugal get back on track",
+          "standfirst": "Cristiano Ronaldo responded to criticism in the best possible way on Tuesday against Uzbekistan (5–0). The 41-year-old striker scored twice to lead his country to their first victory in this World Cup.",
+          "content": "Cristiano Ronaldo responded to criticism in the best possible way on Tuesday against Uzbekistan (5–0). The 41-year-old striker scored twice to lead his country to their first victory in this World Cup.",
+          "feed_position": 19,
+          "image_url": "https://s.france24.com/media/display/7785c0b2-6f69-11f1-894a-005056bf30b7/w:1024/p:16x9/063-2282965616.jpg"
+        },
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/2026/6/24/video-world-cup-2026-highlights?traffic_source=rss",
+          "published_at": "Wed, 24 Jun 2026 06:00:41 +0000",
+          "title": "Watch World Cup Day 13: Portugal’s Ronaldo breaks record while England draw",
+          "standfirst": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
+          "content": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
+          "feed_position": 23
         }
       ],
-      "popularity_score": 2013.2015011111112
+      "featured_image": "https://s.france24.com/media/display/8067b41c-6fb2-11f1-8006-005056bfb2b6/w:1024/p:16x9/EN-20260624-110719-110900-CS.jpg",
+      "popularity_score": 3019.1577058333332
     },
     {
-      "id": "cluster_128",
-      "coverage": 2,
-      "updated_at": "Tue, 23 Jun 2026 21:19:41 -0400",
-      "title": "Alan Wilson projected to win runoff in South Carolina GOP gubernatorial primary",
-      "neutral_headline": "Alan Wilson projected to win runoff in South Carolina GOP gubernatorial primary",
+      "id": "cluster_42",
+      "coverage": 3,
+      "updated_at": "Wed, 24 Jun 2026 12:02:59 +0000",
+      "title": "World Cup 2026: Messi, Mbappe, Haaland contest best ever Golden Boot race?",
+      "neutral_headline": "All guns blazing as Messi, Mbappé and Haaland lead World Cup Golden Boot race",
       "bullet_summary": [
-        "Reported by CBS News, Politico"
+        "Reported by Al Jazeera, France24, NBC World"
       ],
       "items": [
         {
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/south-carolina-governors-runoff-results-alan-wilson-evette-trump/",
-          "published_at": "Tue, 23 Jun 2026 21:19:41 -0400",
-          "title": "Alan Wilson projected to win runoff in South Carolina GOP gubernatorial primary",
-          "standfirst": "President Trump had endorsed both candidates in the runoff.",
-          "content": "President Trump had endorsed both candidates in the runoff.",
-          "feed_position": 19
-        },
-        {
-          "source": "Politico",
-          "url": "https://www.politico.com/news/2026/06/23/wilson-wins-south-carolina-governor-primary-00973028",
-          "published_at": "Tue, 23 Jun 2026 18:29:21 EST",
-          "title": "Alan Wilson, boosted by Trump’s late co-endorsement, wins South Carolina governor runoff",
-          "standfirst": "The president narrowly avoided another primary endorsement blunder after he initially only backed Wilson’s opponent.",
-          "content": "President Donald Trump just saved his nearly blemish-free endorsement record from another high-profile blunder. Attorney General Alan Wilson won the Republican nomination in the GOP runoff for South Carolina governor Tuesday, defeating Lt. Gov. Pamela Evette. Trump had initially endorsed Evette in the race but added a last-minute dual endorsement of Wilson after limited public polling showed her trailing in the race in spite of Trump’s support. Trump’s decision helped him avoid a third stinging loss after his candidates fell in Georgia’s and Iowa’s recent gubernatorial primaries. “I can’t hurt one of them by only Endorsing the other, so, therefore, I am going to Endorse, for Governor of South Carolina, both Pam Evette and Alan Wilson! It’s a Wealth of Riches – With either one you can’t go wrong,” Trump wrote on Truth Social last Friday.Wilson’s campaign built momentum quickly in the brief, two-week runoff. He touted endorsements from all but one of his four former primary challengers, including conservative firebrand Rep. Nancy Mace (R-S.C.). The attorney general also racked up endorsements from notable out-of-state Republicans like Texas Sen. Ted Cruz and West Virginia Gov. Patrick Morrisey, who both embraced Wilson before the president did. Wilson, 52, is a longtime fixture in Columbia politics, serving as South Carolina’s top law enforcement official for the last 15 years. An Iraq war veteran, he rose to brief national prominence as he oversaw the prosecution of disgraced local attorney Alex Murdaugh, who was convicted of killing his wife and son — a case that was reopened in the final days ahead of the primary. He is also the son of Rep. Joe Wilson (R-S.C.). This year’s primary is the first time South Carolinians have cast their ballots in an open race for governor since 2010, when former Gov. Nikki Haley was elected. Current Gov. Henry McMaster — the longest-serving governor in Palmetto State history — ascended to the office when Trump appointed Haley to serve as the U.S. ambassador to the United Nations during his first term. McMaster was elected again twice but is now term-limited. Wilson will face state Rep. Jermaine Johnson, who won the Democratic primary, in November. Wilson is expected to cruise to a general election win in the deeply conservative red state: South Carolinians have not elected a Democrat for governor since 1998.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/6/24/world-cup-2026-messi-mbappe-haaland-contest-best-ever-golden-boot-race?traffic_source=rss",
+          "published_at": "Wed, 24 Jun 2026 12:02:59 +0000",
+          "title": "World Cup 2026: Messi, Mbappe, Haaland contest best ever Golden Boot race?",
+          "standfirst": "Lionel Messi leads the way with five goals with Kylian Mbappe and Erling Haaland second with four goals each.",
+          "content": "Lionel Messi leads the way with five goals with Kylian Mbappe and Erling Haaland second with four goals each.",
           "feed_position": 3
+        },
+        {
+          "source": "France24",
+          "url": "https://www.france24.com/en/sport/20260624-world-cup-2026-messi-mbappe-haaland-golden-boot-race-kane-ronaldo",
+          "published_at": "Wed, 24 Jun 2026 07:47:39 GMT",
+          "title": "All guns blazing as Messi, Mbappé and Haaland lead World Cup Golden Boot race",
+          "standfirst": "Just Fontaine has reigned as the World Cup's record scorer at a single tournament since 1958. But with Lionel Messi, Kylian Mbappé and Erling Haaland each piling on the goals for their respective countries, and the likes of Harry Kane and Cristiano Ronaldo in pursuit, the decades-old record is looking vulnerable for the first time.",
+          "content": "Just Fontaine has reigned as the World Cup's record scorer at a single tournament since 1958. But with Lionel Messi, Kylian Mbappé and Erling Haaland each piling on the goals for their respective countries, and the likes of Harry Kane and Cristiano Ronaldo in pursuit, the decades-old record is looking vulnerable for the first time.",
+          "feed_position": 18,
+          "image_url": "https://s.france24.com/media/display/06ac818a-6f9d-11f1-a37a-005056a97e36/w:1024/p:16x9/AP26174091674383.jpg"
+        },
+        {
+          "source": "NBC World",
+          "url": "https://www.nbcnews.com/sports/soccer/erling-haaland-powers-norway-keeps-golden-boot-race-rcna351324",
+          "published_at": "Tue, 23 Jun 2026 13:54:06 GMT",
+          "title": "Erling Haaland powers Norway into the next round and keeps pace in Golden Boot race",
+          "standfirst": "After tallying four goals in his first two World Cup games, the Manchester City striker is challenging Lionel Messi and Kylian Mbappé for the honor.",
+          "content": "After tallying four goals in his first two World Cup games, the Manchester City striker is challenging Lionel Messi and Kylian Mbappé for the honor.",
+          "feed_position": 13,
+          "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260623-erling-haaland-vl-934a-fc96ba.jpg"
         }
       ],
-      "popularity_score": 2011.0642788888888
+      "featured_image": "https://s.france24.com/media/display/06ac818a-6f9d-11f1-a37a-005056a97e36/w:1024/p:16x9/AP26174091674383.jpg",
+      "popularity_score": 3018.827983611111
     },
     {
-      "id": "cluster_131",
+      "id": "cluster_62",
       "coverage": 2,
-      "updated_at": "Tue, 23 Jun 2026 20:54:11 -0400",
-      "title": "Some promotional Polymarket content made by online creators isn&#039;t real, WSJ reports",
-      "neutral_headline": "They Looked Like They Were Getting Rich on Polymarket—but None of It Was Real",
+      "updated_at": "Wed, 24 Jun 2026 11:20:58 GMT",
+      "title": "Power outages hit France as record heatwave set to peak",
+      "neutral_headline": "Power outages hit France as record heatwave set to peak",
       "bullet_summary": [
-        "The newspaper found that the prediction market paid online content creators to produce videos showing them collectively winning a total of $1",
-        "Reported by CBS News, Reuters Top News"
+        "Reported by BBC World, France24"
+      ],
+      "items": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 24 Jun 2026 11:20:58 GMT",
+          "title": "Power outages hit France as record heatwave set to peak",
+          "standfirst": "About 68,000 homes in Brittany have been affected, with electricity unlikely to be fully restored until Wednesday night.",
+          "content": "About 68,000 homes in Brittany have been affected, with electricity unlikely to be fully restored until Wednesday night.",
+          "feed_position": 0,
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a57/live/2d405c80-6fc1-11f1-b1db-af71d47507d6.jpg"
+        },
+        {
+          "source": "France24",
+          "url": "https://www.france24.com/en/europe/20260624-france-outage-leaves-68000-homes-without-power-record-heatwave-spreads-north-brittany",
+          "published_at": "Wed, 24 Jun 2026 06:32:06 GMT",
+          "title": "France outage leaves 68,000 homes without power as record heatwave spreads north",
+          "standfirst": "A power outage caused by a record-breaking heatwave left around 68,000 households without electricity in France's western Brittany on Wednesday as the national weather agency issued a red alert for extreme weather covering most of the country, including the northernmost region around Calais.",
+          "content": "A power outage caused by a record-breaking heatwave left around 68,000 households without electricity in France's western Brittany on Wednesday as the national weather agency issued a red alert for extreme weather covering most of the country, including the northernmost region around Calais.",
+          "feed_position": 20,
+          "image_url": "https://s.france24.com/media/display/9300136c-6f94-11f1-bb19-005056a97e36/w:1024/p:16x9/AP26173678537875.jpg"
+        }
+      ],
+      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a57/live/2d405c80-6fc1-11f1-b1db-af71d47507d6.jpg",
+      "popularity_score": 2018.1277058333333
+    },
+    {
+      "id": "cluster_83",
+      "coverage": 2,
+      "updated_at": "Wed, 24 Jun 2026 06:51:37 -0400",
+      "title": "Alibaba sues Pentagon over blacklist designation",
+      "neutral_headline": "Chinese e-commerce giant Alibaba sues US government over defence blacklist",
+      "bullet_summary": [
+        "Reported by CBS News, BBC World"
       ],
       "items": [
         {
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/some-promotional-polymarket-content-made-online-creators-isnt-real-wsj-finds/",
-          "published_at": "Tue, 23 Jun 2026 20:54:11 -0400",
-          "title": "Some promotional Polymarket content made by online creators isn&#039;t real, WSJ reports",
-          "standfirst": "Polymarket tells CBS News it is auditing its promotional content in response to a recent investigation by the Wall Street Journal. The newspaper found that the prediction market paid online content creators to produce videos showing them collectively winning a total of $1.9 million, but the Journal says those bets weren&#039;t real. One of the article&#039;s authors, Neil Mehta, joins \"The Daily Report\" to discuss.",
-          "content": "Polymarket tells CBS News it is auditing its promotional content in response to a recent investigation by the Wall Street Journal. The newspaper found that the prediction market paid online content creators to produce videos showing them collectively winning a total of $1.9 million, but the Journal says those bets weren&#039;t real. One of the article&#039;s authors, Neil Mehta, joins \"The Daily Report\" to discuss.",
-          "feed_position": 20
+          "url": "https://www.cbsnews.com/news/alibaba-sues-pentagon-blacklist-designation/",
+          "published_at": "Wed, 24 Jun 2026 06:51:37 -0400",
+          "title": "Alibaba sues Pentagon over blacklist designation",
+          "standfirst": "Chinese tech giant Alibaba has filed a federal lawsuit against the Defense Department for designating it a military-linked firm.",
+          "content": "Chinese tech giant Alibaba has filed a federal lawsuit against the Defense Department for designating it a military-linked firm.",
+          "feed_position": 14
         },
         {
-          "source": "Reuters Top News",
-          "url": "https://flipso.com/p/mh8cbashc",
-          "published_at": "Tue, 23 Jun 2026 11:00:08 GMT",
-          "title": "They Looked Like They Were Getting Rich on Polymarket—but None of It Was Real",
-          "standfirst": "A WSJ investigation says Polymarket has been promoted on social media through deceptive videos made by paid creators, creating the appearance of easy profits and hype around prediction-market betting. [wsj.com]",
-          "content": "A WSJ investigation says Polymarket has been promoted on social media through deceptive videos made by paid creators, creating the appearance of easy profits and hype around prediction-market betting. [wsj.com]",
-          "feed_position": 23,
-          "image_url": "https://cdn.flipso.com/p/mh8cbashc_square.jpg"
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ckg0258vpvqo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 23 Jun 2026 23:25:07 GMT",
+          "title": "Chinese e-commerce giant Alibaba sues US government over defence blacklist",
+          "standfirst": "It is suing the US defence department after it was added to a list of firms with ties to the Chinese military.",
+          "content": "It is suing the US defence department after it was added to a list of firms with ties to the Chinese military.",
+          "feed_position": 14,
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bfe/live/8a2019f0-6f5c-11f1-9ab9-83454fe8fa79.jpg"
         }
       ],
-      "featured_image": "https://cdn.flipso.com/p/mh8cbashc_square.jpg",
-      "popularity_score": 2010.6392788888888
+      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bfe/live/8a2019f0-6f5c-11f1-9ab9-83454fe8fa79.jpg",
+      "popularity_score": 2017.6385391666668
     },
     {
-      "id": "cluster_228",
+      "id": "cluster_101",
+      "coverage": 2,
+      "updated_at": "Wed, 24 Jun 2026 11:05:00 +0100",
+      "title": "Ukraine destroys key rail bridge as it aims to 'isolate Crimea'",
+      "neutral_headline": "Ukraine strikes strategic Russian bridge in Crimea",
+      "bullet_summary": [
+        "Ukraine said its forces destroyed a key railway bridge in Crimea, as it seeks to isolate the Russian-occupied peninsula",
+        "Reported by Sky News World, Al Jazeera"
+      ],
+      "items": [
+        {
+          "source": "Sky News World",
+          "url": "https://news.sky.com/story/ukraine-destroys-key-rail-bridge-as-fresh-attacks-aim-to-isolate-crimea-13557321",
+          "published_at": "Wed, 24 Jun 2026 11:05:00 +0100",
+          "title": "Ukraine destroys key rail bridge as it aims to 'isolate Crimea'",
+          "standfirst": "Ukraine said its forces destroyed a key railway bridge in Crimea, as it seeks to isolate the Russian-occupied peninsula.",
+          "content": "Ukraine said its forces destroyed a key railway bridge in Crimea, as it seeks to isolate the Russian-occupied peninsula.",
+          "feed_position": 0,
+          "image_url": "https://e3.365dm.com/26/06/1920x1080/skynews-ukrainian-drone-strike_7276520.jpg?20260618110750"
+        },
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/ukraine-strikes-strategic-russian-bridge-in-crimea?traffic_source=rss",
+          "published_at": "Wed, 24 Jun 2026 08:32:05 +0000",
+          "title": "Ukraine strikes strategic Russian bridge in Crimea",
+          "standfirst": "Ukraine strikes strategic Russian bridge in Crimea",
+          "content": "Ukraine strikes strategic Russian bridge in Crimea",
+          "feed_position": 17
+        }
+      ],
+      "featured_image": "https://e3.365dm.com/26/06/1920x1080/skynews-ukrainian-drone-strike_7276520.jpg?20260618110750",
+      "popularity_score": 2016.8615947222222
+    },
+    {
+      "id": "cluster_102",
+      "coverage": 2,
+      "updated_at": "Wed, 24 Jun 2026 10:03:39 +0000",
+      "title": "Ukraine attacks on Russian-occupied Crimea trigger power cuts in Sevastopol",
+      "neutral_headline": "Ukraine attacks on Russian-occupied Crimea trigger power cuts in Sevastopol",
+      "bullet_summary": [
+        "Reported by Al Jazeera, BBC World"
+      ],
+      "items": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/6/24/ukraine-attacks-on-russian-occupied-crimea-trigger-power-cuts-in-sevastopol?traffic_source=rss",
+          "published_at": "Wed, 24 Jun 2026 10:03:39 +0000",
+          "title": "Ukraine attacks on Russian-occupied Crimea trigger power cuts in Sevastopol",
+          "standfirst": "The largest city on the Russia-controlled peninsula has been left without power after an attack on energy facilities.",
+          "content": "The largest city on the Russia-controlled peninsula has been left without power after an attack on energy facilities.",
+          "feed_position": 11
+        },
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 24 Jun 2026 09:48:24 GMT",
+          "title": "Biggest city in Crimea without power after Ukraine strikes",
+          "standfirst": "Sevastopol's Moscow-installed governor warns there will be no electricity in some areas until the evening.",
+          "content": "Sevastopol's Moscow-installed governor warns there will be no electricity in some areas until the evening.",
+          "feed_position": 4,
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1c3/live/249bb360-6fba-11f1-8546-8f19e4fe30f4.jpg"
+        }
+      ],
+      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1c3/live/249bb360-6fba-11f1-8546-8f19e4fe30f4.jpg",
+      "popularity_score": 2016.8390947222222
+    },
+    {
+      "id": "cluster_148",
+      "coverage": 2,
+      "updated_at": "Wed, 24 Jun 2026 02:03:48 -0400",
+      "title": "Appeals court allows Trump administration expanded use of speedy deportations",
+      "neutral_headline": "Appeals court allows Trump administration expanded use of speedy deportations",
+      "bullet_summary": [
+        "Reported by NPR News, CBS News"
+      ],
+      "items": [
+        {
+          "source": "NPR News",
+          "url": "https://www.npr.org/2026/06/24/nx-s1-5869125/court-allows-trump-speedy-deportations",
+          "published_at": "Wed, 24 Jun 2026 02:03:48 -0400",
+          "title": "Appeals court allows Trump administration expanded use of speedy deportations",
+          "standfirst": "A federal appeals court on Tuesday allowed the Trump administration to resume carrying out speedy deportations of undocumented migrants throughout the United States, not just near the border.",
+          "content": "A federal appeals court on Tuesday allowed the Trump administration to resume carrying out speedy deportations of undocumented migrants throughout the United States, not just near the border.(Image credit: Morgan Lee)",
+          "feed_position": 9
+        },
+        {
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/federal-court-allows-ice-trump-admimistration-expand-expedited-deportations-nationwide/",
+          "published_at": "Tue, 23 Jun 2026 19:26:00 -0400",
+          "title": "Federal court allows ICE to expand expedited deportations nationwide",
+          "standfirst": "A federal appeals court has allowed the Trump administration to move forward with an effort to expand fast-track deportations throughout the U.S.",
+          "content": "A federal appeals court has allowed the Trump administration to move forward with an effort to expand fast-track deportations throughout the U.S.",
+          "feed_position": 27
+        }
+      ],
+      "popularity_score": 2012.8415947222222
+    },
+    {
+      "id": "cluster_253",
       "coverage": 2,
       "updated_at": "Tue, 23 Jun 2026 12:41:00 +0100",
       "title": "Police officer, passer-by and gunman killed in hotel shoot-out",
@@ -693,7 +689,7 @@
           "title": "Police officer, passer-by and gunman killed in hotel shoot-out",
           "standfirst": "A police officer has been killed in a shooting at a hotel in Canada that also left a civilian and a suspected gunman dead.",
           "content": "A police officer has been killed in a shooting at a hotel in Canada that also left a civilian and a suspected gunman dead.",
-          "feed_position": 5,
+          "feed_position": 6,
           "image_url": "https://e3.365dm.com/26/06/1920x1080/skynews-montreal-police-shooting_7280876.jpg?20260623125009"
         },
         {
@@ -703,7 +699,7 @@
           "title": "Police officer and civilian killed in Montreal shooting",
           "standfirst": "The gunfire took place in the Canadian city’s Côte-des-Neiges neighborhood, police said, after reports of someone firing from a hotel window.",
           "content": "The gunfire took place in the Canadian city’s Côte-des-Neiges neighborhood, police said, after reports of someone firing from a hotel window.",
-          "feed_position": 11,
+          "feed_position": 14,
           "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260622-montreal-shooting-ew-636p-4fbeb4.jpg"
         }
       ],
