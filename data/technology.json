@@ -1,15 +1,58 @@
 {
-  "updated_at": "2026-06-27T12:04:56.857Z",
+  "updated_at": "2026-06-27T20:04:25.692Z",
   "clusters": [
     {
-      "id": "cluster_29",
-      "coverage": 5,
+      "id": "cluster_8",
+      "coverage": 3,
+      "updated_at": "2026-06-27T13:28:18-04:00",
+      "title": "Apple wants permission to buy memory from a blacklisted Chinese supplier",
+      "neutral_headline": "Apple wants permission to buy memory from a blacklisted Chinese supplier",
+      "bullet_summary": [
+        "Reported by The Verge, Engadget, TechMeme"
+      ],
+      "items": [
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt",
+          "published_at": "2026-06-27T13:28:18-04:00",
+          "title": "Apple wants permission to buy memory from a blacklisted Chinese supplier",
+          "standfirst": "Apple is looking to alleviate some of the pressure on its supply chain by seeking an exception from the Trump administration to buy RAM chips from CXMT, a company blacklisted by the Pentagon over ties to the People's Liberation Army, according to the Financial Times. The skyrocketing prices of RAM and storage have driven Apple [&#8230;]",
+          "content": "Apple is looking to alleviate some of the pressure on its supply chain by seeking an exception from the Trump administration to buy RAM chips from CXMT, a company blacklisted by the Pentagon over ties to the People's Liberation Army, according to the Financial Times. The skyrocketing prices of RAM and storage have driven Apple to raise prices on almost all of its products this week, so it makes sense that it would seek alternative sources. Legally, Apple isn't barred from buying chips from CXMT, but doing business with a company tied to the Chinese military would carry serious reputational risks. It's possible that CXMT could still find it … Read the full story at The Verge.",
+          "feed_position": 1
+        },
+        {
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2203121/apple-looking-buy-chips-blacklisted-chinese-company/",
+          "published_at": "Sat, 27 Jun 2026 09:44:32 +0000",
+          "title": "Apple is reportedly looking to buy chips from a US-blacklisted Chinese company",
+          "standfirst": "Apple is seeking clearance from the Trump administration to buy chips from a company linked to the Chinese military, according to Financial Times.",
+          "content": "Apple is seeking clearance from the Trump administration to buy chips from a company linked to the Chinese military, according to Financial Times.",
+          "feed_position": 12,
+          "image_url": "https://www.engadget.com/img/gallery/apple-is-reportedly-looking-to-buy-chips-from-a-us-blacklisted-chinese-company/l-intro-1782553197.jpg"
+        },
+        {
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/260626/p34#a260626p34",
+          "published_at": "Fri, 26 Jun 2026 23:15:01 -0400",
+          "title": "Sources: Apple is lobbying the Trump admin for clearance to buy memory chips from US-blacklisted Chinese company CXMT to ease pressure from rising chip prices (Financial Times)",
+          "standfirst": "Financial Times: Sources: Apple is lobbying the Trump admin for clearance to buy memory chips from US-blacklisted Chinese company CXMT to ease pressure from rising chip prices &mdash; The iPhone maker wants Trump administration to sign off on purchases to ease pressure from rising chip prices",
+          "content": "Financial Times: Sources: Apple is lobbying the Trump admin for clearance to buy memory chips from US-blacklisted Chinese company CXMT to ease pressure from rising chip prices &mdash; The iPhone maker wants Trump administration to sign off on purchases to ease pressure from rising chip prices",
+          "feed_position": 13,
+          "image_url": "http://www.techmeme.com/260626/i34.jpg"
+        }
+      ],
+      "featured_image": "https://www.engadget.com/img/gallery/apple-is-reportedly-looking-to-buy-chips-from-a-us-blacklisted-chinese-company/l-intro-1782553197.jpg",
+      "popularity_score": 3017.397863611111
+    },
+    {
+      "id": "cluster_60",
+      "coverage": 3,
       "updated_at": "Sat, 27 Jun 2026 01:54:56 +0000",
       "title": "Anthropic gets US government's permission to redeploy its Mythos cybersecurity AI model",
-      "neutral_headline": "Anthropic&#8217;s Mythos 5 is back",
+      "neutral_headline": "Anthropic gets US government's permission to redeploy its...",
       "bullet_summary": [
         "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees",
-        "Reported by Engadget, TechCrunch, TechMeme and others"
+        "Reported by Engadget, TechCrunch, Wired Tech"
       ],
       "items": [
         {
@@ -19,7 +62,7 @@
           "title": "Anthropic gets US government's permission to redeploy its Mythos cybersecurity AI model",
           "standfirst": "Anthropic is restoring select organizations' access to Mythos after getting permission from the US government.",
           "content": "Anthropic is restoring select organizations' access to Mythos after getting permission from the US government.",
-          "feed_position": 5,
+          "feed_position": 15,
           "image_url": "https://www.engadget.com/img/gallery/anthropic-gets-permission-to-redeploy-its-mythos-cybersecurity-ai-model/l-intro-1782525151.jpg"
         },
         {
@@ -29,26 +72,7 @@
           "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
           "standfirst": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
           "content": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
-          "feed_position": 1
-        },
-        {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/260626/p32#a260626p32",
-          "published_at": "Fri, 26 Jun 2026 20:55:01 -0400",
-          "title": "Anthropic says the US government is allowing Mythos 5 to be redeployed to critical infrastructure operators, and is working to restore general access to Fable 5 (@anthropicai)",
-          "standfirst": "@anthropicai: Anthropic says the US government is allowing Mythos 5 to be redeployed to critical infrastructure operators, and is working to restore general access to Fable 5 &mdash; Since June 12, we've been working closely with the US government to restore access to Claude Mythos 5 and Fable 5. Today, the government notified us that Mythos 5, our strongest cybersecurity model, can be redeployed to a set of US organizations that operate and defend critical",
-          "content": "@anthropicai: Anthropic says the US government is allowing Mythos 5 to be redeployed to critical infrastructure operators, and is working to restore general access to Fable 5 &mdash; Since June 12, we've been working closely with the US government to restore access to Claude Mythos 5 and Fable 5. Today, the government notified us that Mythos 5, our strongest cybersecurity model, can be redeployed to a set of US organizations that operate and defend critical",
-          "feed_position": 9,
-          "image_url": "http://www.techmeme.com/img/pml.png"
-        },
-        {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
-          "published_at": "2026-06-26T20:33:44-04:00",
-          "title": "Anthropic&#8217;s Mythos 5 is back",
-          "standfirst": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according to a letter from the government to Anthropic that was viewed by The Verge. Fable 5, however - the public-facing Mythos-class [&#8230;]",
-          "content": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according to a letter from the government to Anthropic that was viewed by The Verge. Fable 5, however - the public-facing Mythos-class model - appears to still be in limbo, with no apparent timeline for a rollout agreement. The letter, dated June 26th and sent by Commerce Secretary Howard Lutnick to Anthropic co-founder Tom Brown, who had been recently leading negotiations, states that there's been a \"revision to the license requiremen … Read the full story at The Verge.",
-          "feed_position": 4
+          "feed_position": 3
         },
         {
           "source": "Wired Tech",
@@ -62,44 +86,147 @@
         }
       ],
       "featured_image": "https://www.engadget.com/img/gallery/anthropic-gets-permission-to-redeploy-its-mythos-cybersecurity-ai-model/l-intro-1782525151.jpg",
-      "popularity_score": 5009.833095277778
+      "popularity_score": 3001.8417525
     },
     {
-      "id": "cluster_13",
+      "id": "cluster_5",
       "coverage": 2,
-      "updated_at": "Sat, 27 Jun 2026 09:44:32 +0000",
-      "title": "Apple is reportedly looking to buy chips from a US-blacklisted Chinese company",
-      "neutral_headline": "Apple is reportedly looking to buy chips from a US-blacklisted Chinese company",
+      "updated_at": "Sat, 27 Jun 2026 18:01:37 +0000",
+      "title": "Tesla settles lawsuit over fatal pedestrian crash involving Full Self-Driving",
+      "neutral_headline": "Tesla settles lawsuit over fatal pedestrian crash involving Full Self-Driving",
       "bullet_summary": [
-        "Reported by Engadget, TechMeme"
+        "Reported by Engadget, TechCrunch"
       ],
       "items": [
         {
           "source": "Engadget",
-          "url": "https://www.engadget.com/2203121/apple-looking-buy-chips-blacklisted-chinese-company/",
-          "published_at": "Sat, 27 Jun 2026 09:44:32 +0000",
-          "title": "Apple is reportedly looking to buy chips from a US-blacklisted Chinese company",
-          "standfirst": "Apple is seeking clearance from the Trump administration to buy chips from a company linked to the Chinese military, according to Financial Times.",
-          "content": "Apple is seeking clearance from the Trump administration to buy chips from a company linked to the Chinese military, according to Financial Times.",
+          "url": "https://www.engadget.com/2203211/tesla-settles-lawsuit-over-fatal-pedestrian-crash-involving-full-self-driving/",
+          "published_at": "Sat, 27 Jun 2026 18:01:37 +0000",
+          "title": "Tesla settles lawsuit over fatal pedestrian crash involving Full Self-Driving",
+          "standfirst": "The lawsuit dates back to a deadly incident in Arizona in 2023.",
+          "content": "The lawsuit dates back to a deadly incident in Arizona in 2023.",
           "feed_position": 2,
-          "image_url": "https://www.engadget.com/img/gallery/apple-is-reportedly-looking-to-buy-chips-from-a-us-blacklisted-chinese-company/l-intro-1782553197.jpg"
+          "image_url": "https://www.engadget.com/img/gallery/tesla-settles-lawsuit-involving-full-self-driving-and-a-pedestrians-death/l-intro-1782582524.jpg"
         },
         {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/260626/p34#a260626p34",
-          "published_at": "Fri, 26 Jun 2026 23:15:01 -0400",
-          "title": "Sources: Apple is lobbying the Trump admin for clearance to buy memory chips from US-blacklisted Chinese company CXMT to ease pressure from rising chip prices (Financial Times)",
-          "standfirst": "Financial Times: Sources: Apple is lobbying the Trump admin for clearance to buy memory chips from US-blacklisted Chinese company CXMT to ease pressure from rising chip prices &mdash; The iPhone maker wants Trump administration to sign off on purchases to ease pressure from rising chip prices",
-          "content": "Financial Times: Sources: Apple is lobbying the Trump admin for clearance to buy memory chips from US-blacklisted Chinese company CXMT to ease pressure from rising chip prices &mdash; The iPhone maker wants Trump administration to sign off on purchases to ease pressure from rising chip prices",
-          "feed_position": 7,
-          "image_url": "http://www.techmeme.com/260626/i34.jpg"
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/26/tesla-settles-fsd-crash-lawsuit-as-federal-investigations-continue/",
+          "published_at": "Fri, 26 Jun 2026 16:32:55 +0000",
+          "title": "Tesla settles FSD crash lawsuit as federal investigations continue",
+          "standfirst": "The lawsuit was connected to a fatal 2023 crash involving a vehicle using the company's advanced driver assistance system known as Full Self-Driving.",
+          "content": "The lawsuit was connected to a fatal 2023 crash involving a vehicle using the company's advanced driver assistance system known as Full Self-Driving.",
+          "feed_position": 11
         }
       ],
-      "featured_image": "https://www.engadget.com/img/gallery/apple-is-reportedly-looking-to-buy-chips-from-a-us-blacklisted-chinese-company/l-intro-1782553197.jpg",
-      "popularity_score": 2017.6597619444444
+      "featured_image": "https://www.engadget.com/img/gallery/tesla-settles-lawsuit-involving-full-self-driving-and-a-pedestrians-death/l-intro-1782582524.jpg",
+      "popularity_score": 2017.953141388889
     },
     {
-      "id": "cluster_23",
+      "id": "cluster_10",
+      "coverage": 2,
+      "updated_at": "Sat, 27 Jun 2026 16:45:09 +0000",
+      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "neutral_headline": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "bullet_summary": [
+        "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team",
+        "Apple's Vision Pro chief is reportedly leaving for OpenAI to start a hardware division"
+      ],
+      "items": [
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+          "published_at": "Sat, 27 Jun 2026 16:45:09 +0000",
+          "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+          "standfirst": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
+          "content": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
+          "feed_position": 0
+        },
+        {
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2203115/apple-executive-vision-pro-leaving-for-openai/",
+          "published_at": "Sat, 27 Jun 2026 07:36:58 +0000",
+          "title": "Apple executive in charge of Vision Pro is reportedly leaving for OpenAI",
+          "standfirst": "Apple's Vision Pro chief is reportedly leaving for OpenAI to start a hardware division.",
+          "content": "Apple's Vision Pro chief is reportedly leaving for OpenAI to start a hardware division.",
+          "feed_position": 13,
+          "image_url": "https://www.engadget.com/img/gallery/apple-executive-in-charge-of-vision-pro-is-reportedly-leaving-for-openai/l-intro-1782545665.jpg"
+        }
+      ],
+      "featured_image": "https://www.engadget.com/img/gallery/apple-executive-in-charge-of-vision-pro-is-reportedly-leaving-for-openai/l-intro-1782545665.jpg",
+      "popularity_score": 2016.6786969444445
+    },
+    {
+      "id": "cluster_24",
+      "coverage": 2,
+      "updated_at": "Sat, 27 Jun 2026 13:53:27 GMT",
+      "title": "Some of the best Amazon Prime Day SSD and storage deals are still live - Samsung, WD, and more",
+      "neutral_headline": "Our lab tests prove the deals on these 5 Prime Day winners are worth the money",
+      "bullet_summary": [
+        "I track SSD deals, and found huge markdowns from top brands for Amazon Prime Day",
+        "Reported by ZDNet, Wired Tech"
+      ],
+      "items": [
+        {
+          "source": "ZDNet",
+          "url": "https://www.zdnet.com/article/last-chance-best-amazon-prime-day-ssd-deals-2026/",
+          "published_at": "Sat, 27 Jun 2026 13:53:27 GMT",
+          "title": "Some of the best Amazon Prime Day SSD and storage deals are still live - Samsung, WD, and more",
+          "standfirst": "I track SSD deals, and found huge markdowns from top brands for Amazon Prime Day.",
+          "content": "I track SSD deals, and found huge markdowns from top brands for Amazon Prime Day.",
+          "feed_position": 3
+        },
+        {
+          "source": "ZDNet",
+          "url": "https://www.zdnet.com/article/best-amazon-prime-day-walmart-deals-still-live-2026/",
+          "published_at": "Sat, 27 Jun 2026 13:47:06 GMT",
+          "title": "Prime Day is over, but Walmart's big sale is still on: Up to 50% off laptops, TVs, & more",
+          "standfirst": "Walmart's massive rival Prime Day sale ends Sunday night, but great deals on 4K smart TVs, Apple tech, and laptops are still live.",
+          "content": "Walmart's massive rival Prime Day sale ends Sunday night, but great deals on 4K smart TVs, Apple tech, and laptops are still live.",
+          "feed_position": 4
+        },
+        {
+          "source": "ZDNet",
+          "url": "https://www.zdnet.com/article/amazon-june-prime-day-live-blog-06-27-2026/",
+          "published_at": "Sat, 27 Jun 2026 13:35:01 GMT",
+          "title": "Prime Day is over, but these 60+ top deals are still live (for now): Apple, Garmin, LG, more",
+          "standfirst": "Amazon Prime Day 2026 deals have come and gone, but we're still seeing some of the same discounts live on editor-approved products like TVs, laptops, and more.",
+          "content": "Amazon Prime Day 2026 deals have come and gone, but we're still seeing some of the same discounts live on editor-approved products like TVs, laptops, and more.",
+          "feed_position": 6
+        },
+        {
+          "source": "ZDNet",
+          "url": "https://www.zdnet.com/article/top-sellers-amazon-prime-day-2026-day-4/",
+          "published_at": "Fri, 26 Jun 2026 22:56:32 GMT",
+          "title": "The most popular products during Amazon Prime Day 4: JBL and Bose speakers, Garmin watches, and more",
+          "standfirst": "We're tracking the items ZDNET readers have actually purchased during Prime Day sales so far today, and these deals are still here for a few more hours.",
+          "content": "We're tracking the items ZDNET readers have actually purchased during Prime Day sales so far today, and these deals are still here for a few more hours.",
+          "feed_position": 14
+        },
+        {
+          "source": "ZDNet",
+          "url": "https://www.zdnet.com/article/lab-award-winner-product-deals-amazon-prime-day-2026/",
+          "published_at": "Fri, 26 Jun 2026 22:28:40 GMT",
+          "title": "Our lab tests prove the deals on these 5 Prime Day winners are worth the money",
+          "standfirst": "These five products were the tops in our lab testing, and some have discounts of up to 50% off on Amazon right now.",
+          "content": "These five products were the tops in our lab testing, and some have discounts of up to 50% off on Amazon right now.",
+          "feed_position": 15
+        },
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/live/amazon-prime-day-live-tracker-july-26-2026/",
+          "published_at": "Fri, 26 Jun 2026 10:54:18 +0000",
+          "title": "We're Tracking the Final Hours of Amazon Prime Day Deals Live",
+          "standfirst": "It's Day Four. Somehow it's still Prime Day. The deals are live. The deals are wild. The deals are almost feral. We are still here in the trenches digging up the deals and trends.",
+          "content": "It's Day Four. Somehow it's still Prime Day. The deals are live. The deals are wild. The deals are almost feral. We are still here in the trenches digging up the deals and trends.",
+          "feed_position": 37,
+          "image_url": "https://media.wired.com/photos/6a39c73ad8ef6fd843d20906/master/pass/Launorma_Liveblog.png"
+        }
+      ],
+      "featured_image": "https://media.wired.com/photos/6a39c73ad8ef6fd843d20906/master/pass/Launorma_Liveblog.png",
+      "popularity_score": 2013.8170302777778
+    },
+    {
+      "id": "cluster_55",
       "coverage": 2,
       "updated_at": "Sat, 27 Jun 2026 00:05:02 -0400",
       "title": "Insurance tech startup Corgi denies accusations that it used Papermark's open source software code to develop its software and present it as its own (Julie Bort/TechCrunch)",
@@ -115,7 +242,7 @@
           "title": "Insurance tech startup Corgi denies accusations that it used Papermark's open source software code to develop its software and present it as its own (Julie Bort/TechCrunch)",
           "standfirst": "Julie Bort / TechCrunch: Insurance tech startup Corgi denies accusations that it used Papermark's open source software code to develop its software and present it as its own &mdash; Y Combinator-backed insurance tech startup Corgi became embroiled in yet another controversy earlier this week when Papermark &hellip;",
           "content": "Julie Bort / TechCrunch: Insurance tech startup Corgi denies accusations that it used Papermark's open source software code to develop its software and present it as its own &mdash; Y Combinator-backed insurance tech startup Corgi became embroiled in yet another controversy earlier this week when Papermark &hellip;",
-          "feed_position": 5,
+          "feed_position": 11,
           "image_url": "http://www.techmeme.com/260627/i1.jpg"
         },
         {
@@ -125,74 +252,14 @@
           "title": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn&#8217;t steal an open source product",
           "standfirst": "Corgi became embroiled in controversy when Papermark accused it of stealing its software. Corgi says it did not, raising new questions about vibe coding.",
           "content": "Corgi became embroiled in controversy when Papermark accused it of stealing its software. Corgi says it did not, raising new questions about vibe coding.",
-          "feed_position": 3
+          "feed_position": 5
         }
       ],
       "featured_image": "http://www.techmeme.com/260627/i1.jpg",
-      "popularity_score": 2012.0014286111111
+      "popularity_score": 2004.0100858333333
     },
     {
-      "id": "cluster_30",
-      "coverage": 2,
-      "updated_at": "Sat, 27 Jun 2026 01:26:11 GMT",
-      "title": "Prime Day is ending: We hand-picked the 100+ best deals still live from Apple, Garmin, Bose, & more",
-      "neutral_headline": "We're Tracking the Final Hours of Amazon Prime Day Deals Live",
-      "bullet_summary": [
-        "Reported by ZDNet, Wired Tech"
-      ],
-      "items": [
-        {
-          "source": "ZDNet",
-          "url": "https://www.zdnet.com/article/amazon-june-prime-day-live-blog-06-26-2026/",
-          "published_at": "Sat, 27 Jun 2026 01:26:11 GMT",
-          "title": "Prime Day is ending: We hand-picked the 100+ best deals still live from Apple, Garmin, Bose, & more",
-          "standfirst": "LIVE: Amazon Prime Day 2026 deals are in their final hours. Follow our live blog for real-time tracking on editor-approved products like TVs, MacBooks, Samsung devices, SSDs, and more before the sale ends tonight.",
-          "content": "LIVE: Amazon Prime Day 2026 deals are in their final hours. Follow our live blog for real-time tracking on editor-approved products like TVs, MacBooks, Samsung devices, SSDs, and more before the sale ends tonight.",
-          "feed_position": 3
-        },
-        {
-          "source": "ZDNet",
-          "url": "https://www.zdnet.com/article/top-sellers-amazon-prime-day-2026-day-4/",
-          "published_at": "Fri, 26 Jun 2026 22:56:32 GMT",
-          "title": "The most popular products during Amazon Prime Day 4: JBL and Bose speakers, Garmin watches, and more",
-          "standfirst": "We're tracking the items ZDNET readers have actually purchased during Prime Day sales so far today, and these deals are still here for a few more hours.",
-          "content": "We're tracking the items ZDNET readers have actually purchased during Prime Day sales so far today, and these deals are still here for a few more hours.",
-          "feed_position": 7
-        },
-        {
-          "source": "ZDNet",
-          "url": "https://www.zdnet.com/article/bose-soundlink-plus-amazon-prime-day-deal-2026/",
-          "published_at": "Fri, 26 Jun 2026 21:36:14 GMT",
-          "title": "I bring this Bose speaker to every outdoor gathering - get it for 33% off before Prime Day ends",
-          "standfirst": "Bose's SoundLink Plus is a great midsize speaker for indoor and outdoor use. It's on sale for Prime Day, but Amazon's sale ends tonight.",
-          "content": "Bose's SoundLink Plus is a great midsize speaker for indoor and outdoor use. It's on sale for Prime Day, but Amazon's sale ends tonight.",
-          "feed_position": 12
-        },
-        {
-          "source": "ZDNet",
-          "url": "https://www.zdnet.com/article/kitchen-home-gadget-deals-amazon-prime-day-2026/",
-          "published_at": "Fri, 26 Jun 2026 18:56:31 GMT",
-          "title": "I can't live without these 7 kitchen and home gadgets - and they're still on sale for Prime Day",
-          "standfirst": "Amazon Prime Day ends tonight. These are the best home and kitchen deals I would grab before the sale is over.",
-          "content": "Amazon Prime Day ends tonight. These are the best home and kitchen deals I would grab before the sale is over.",
-          "feed_position": 17
-        },
-        {
-          "source": "Wired Tech",
-          "url": "https://www.wired.com/live/amazon-prime-day-live-tracker-july-26-2026/",
-          "published_at": "Fri, 26 Jun 2026 10:54:18 +0000",
-          "title": "We're Tracking the Final Hours of Amazon Prime Day Deals Live",
-          "standfirst": "It's Day Four. Somehow it's still Prime Day. The deals are live. The deals are wild. The deals are almost feral. We are still here in the trenches digging up the deals and trends.",
-          "content": "It's Day Four. Somehow it's still Prime Day. The deals are live. The deals are wild. The deals are almost feral. We are still here in the trenches digging up the deals and trends.",
-          "feed_position": 37,
-          "image_url": "https://media.wired.com/photos/6a39c73ad8ef6fd843d20906/master/pass/Launorma_Liveblog.png"
-        }
-      ],
-      "featured_image": "https://media.wired.com/photos/6a39c73ad8ef6fd843d20906/master/pass/Launorma_Liveblog.png",
-      "popularity_score": 2009.353928611111
-    },
-    {
-      "id": "cluster_33",
+      "id": "cluster_63",
       "coverage": 2,
       "updated_at": "Sat, 27 Jun 2026 00:59:29 +0000",
       "title": "The 28 Best Deals Under $100 Before Prime Day Ends",
@@ -208,7 +275,7 @@
           "title": "The 28 Best Deals Under $100 Before Prime Day Ends",
           "standfirst": "Times are hard in 2026. These Amazon Prime Day deals under $100 on earbuds, Kindles, and other tested products should help make life just a little bit easier.",
           "content": "Times are hard in 2026. These Amazon Prime Day deals under $100 on earbuds, Kindles, and other tested products should help make life just a little bit easier.",
-          "feed_position": 5,
+          "feed_position": 6,
           "image_url": "https://media.wired.com/photos/6a3a2d6fb32bb5aac135070f/master/pass/The-Best-Amazon-Prime-Day-Deals-Under-$100.jpg"
         },
         {
@@ -218,7 +285,7 @@
           "title": "I always pack this palm-sized Kindle before I leave the house - and it's under $100 until Prime Day ends",
           "standfirst": "The base-model Kindle is discounted on Amazon Prime Day. Buy one for under $100 before the sale ends.",
           "content": "The base-model Kindle is discounted on Amazon Prime Day. Buy one for under $100 before the sale ends.",
-          "feed_position": 6
+          "feed_position": 13
         },
         {
           "source": "Wired Tech",
@@ -282,10 +349,10 @@
         }
       ],
       "featured_image": "https://media.wired.com/photos/6a3a2d6fb32bb5aac135070f/master/pass/The-Best-Amazon-Prime-Day-Deals-Under-$100.jpg",
-      "popularity_score": 2008.9089286111112
+      "popularity_score": 2000.9175858333333
     },
     {
-      "id": "cluster_74",
+      "id": "cluster_85",
       "coverage": 2,
       "updated_at": "Fri, 26 Jun 2026 18:32:14 +0000",
       "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
@@ -301,7 +368,7 @@
           "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
           "standfirst": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”",
           "content": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”",
-          "feed_position": 5
+          "feed_position": 7
         },
         {
           "source": "Guardian Tech",
@@ -313,43 +380,10 @@
           "feed_position": 2
         }
       ],
-      "popularity_score": 2002.4547619444445
-    },
-    {
-      "id": "cluster_127",
-      "coverage": 2,
-      "updated_at": "Fri, 26 Jun 2026 08:46:20 +0000",
-      "title": "YouTube Shorts nixes 'dislikes' and lets you double the playback speed",
-      "neutral_headline": "YouTube Shorts nixes 'dislikes' and lets you double the playback speed",
-      "bullet_summary": [
-        "Reported by Engadget, TechCrunch"
-      ],
-      "items": [
-        {
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2202221/youtube-shorts-nixes-dislikes-adds-double-playback-speed/",
-          "published_at": "Fri, 26 Jun 2026 08:46:20 +0000",
-          "title": "YouTube Shorts nixes 'dislikes' and lets you double the playback speed",
-          "standfirst": "YouTube has made several key changes to Shorts by removing dislikes and offering a clear screen mode.",
-          "content": "YouTube has made several key changes to Shorts by removing dislikes and offering a clear screen mode.",
-          "feed_position": 17,
-          "image_url": "https://www.engadget.com/img/gallery/youtube-shorts-nixes-dislikes-and-lets-you-double-the-playback-speed/l-intro-1782463470.jpg"
-        },
-        {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/",
-          "published_at": "Thu, 25 Jun 2026 22:02:12 +0000",
-          "title": "YouTube Shorts are getting even shorter with an update that lets you double the playback speed",
-          "standfirst": "YouTube Shorts is getting a makeover.",
-          "content": "YouTube Shorts is getting a makeover.",
-          "feed_position": 16
-        }
-      ],
-      "featured_image": "https://www.engadget.com/img/gallery/youtube-shorts-nixes-dislikes-and-lets-you-double-the-playback-speed/l-intro-1782463470.jpg",
       "popularity_score": 2000
     },
     {
-      "id": "cluster_3",
+      "id": "cluster_37",
       "coverage": 1,
       "updated_at": "Sat, 27 Jun 2026 11:07:05 +0000",
       "title": "Apple and Audi alumni have made a luxe EV based on the moon buggy",
@@ -370,10 +404,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Amble-0085_HERO-1152x648.jpg",
-      "popularity_score": 370.03559527777776
+      "popularity_score": 362.0442525
     },
     {
-      "id": "cluster_47",
+      "id": "cluster_68",
       "coverage": 1,
       "updated_at": "Fri, 26 Jun 2026 22:19:05 +0000",
       "title": "South Korea plans to train entire military as \"drone warriors\"",
@@ -394,10 +428,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1244261698-1152x648.jpg",
-      "popularity_score": 344.2355952777778
+      "popularity_score": 338
     },
     {
-      "id": "cluster_53",
+      "id": "cluster_72",
       "coverage": 1,
       "updated_at": "Fri, 26 Jun 2026 21:43:57 +0000",
       "title": "Doctors suspected man had brain cancer. He actually had worms.",
@@ -418,10 +452,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/26-0587-F1.jpg",
-      "popularity_score": 333.65003972222223
+      "popularity_score": 328
     },
     {
-      "id": "cluster_65",
+      "id": "cluster_79",
       "coverage": 1,
       "updated_at": "Fri, 26 Jun 2026 20:04:55 +0000",
       "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
@@ -442,10 +476,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2235233117-1024x648.jpg",
-      "popularity_score": 313.99948416666666
+      "popularity_score": 310
     },
     {
-      "id": "cluster_59",
+      "id": "cluster_77",
       "coverage": 1,
       "updated_at": "Fri, 26 Jun 2026 20:58:02 +0000",
       "title": "Russian citizens told \"switch to Android\" after Apple blocks key Russian apps",
@@ -466,10 +500,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2216537000-1152x648-1782506387.jpg",
-      "popularity_score": 309.88476194444445
+      "popularity_score": 305
     },
     {
-      "id": "cluster_57",
+      "id": "cluster_75",
       "coverage": 1,
       "updated_at": "Fri, 26 Jun 2026 21:12:07 +0000",
       "title": "Streaming services’ obnoxiously loud ads become illegal on July 1 in California",
@@ -490,10 +524,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1987915833-1152x648.jpg",
-      "popularity_score": 308.11948416666667
+      "popularity_score": 303
     },
     {
-      "id": "cluster_70",
+      "id": "cluster_83",
       "coverage": 1,
       "updated_at": "Fri, 26 Jun 2026 18:51:04 +0000",
       "title": "FCC accused of hiding Chairman Carr's messages with DOGE and Musk",
@@ -514,10 +548,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/brendan-carr-1152x648-1773688503.jpg",
-      "popularity_score": 290.7686508333333
+      "popularity_score": 288
     },
     {
-      "id": "cluster_76",
+      "id": "cluster_87",
       "coverage": 1,
       "updated_at": "Fri, 26 Jun 2026 18:19:58 +0000",
       "title": "Netflix now requires every user profile to be tied to unique email address",
@@ -538,10 +572,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Netflix-1152x648-1782496111.jpg",
-      "popularity_score": 286.2503175
+      "popularity_score": 284
     },
     {
-      "id": "cluster_81",
+      "id": "cluster_92",
       "coverage": 1,
       "updated_at": "Fri, 26 Jun 2026 17:46:07 +0000",
       "title": "Antibiotic \"megacluster\" discovery provides new strategy to fight superbugs",
@@ -562,10 +596,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-579216572-1152x648.jpg",
-      "popularity_score": 254.68615083333333
+      "popularity_score": 253
     },
     {
-      "id": "cluster_89",
+      "id": "cluster_99",
       "coverage": 1,
       "updated_at": "Fri, 26 Jun 2026 16:24:59 +0000",
       "title": "Ars Live: What's the latest in the aftermath of the New Glenn catastrophe?",
@@ -586,34 +620,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Berger-Ars-Live-2026-1-1152x648.png",
-      "popularity_score": 248.3339286111111
+      "popularity_score": 248
     },
     {
-      "id": "cluster_143",
-      "coverage": 1,
-      "updated_at": "Thu, 25 Jun 2026 19:04:57 +0000",
-      "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
-      "neutral_headline": "Notion killing Skiff-influenced email app since most users use AI agents instead",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
-          "published_at": "Thu, 25 Jun 2026 19:04:57 +0000",
-          "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
-          "standfirst": "Notion is \"going all in on using agents to run your inbox.\"",
-          "content": "In February 2024, Notion bought Skiff, an encrypted email and productivity software startup. Within a year, Notion shut down Skiff’s email service (taking @skiff.com email addresses with it). And in April 2025, the San Francisco-based company released Notion Mail, a Gmail client primarily built by people who joined Notion through the Skiff acquisition. Today, Notion announced that it’s shutting down Notion Mail, effectively killing what little remained of Skiff email. In an X post (first spotted by 9to5Mac) today, Notion said that it will shutter the Notion Mail “inbox across web, desktop, and iOS on September 22.” The post claimed that most Notion users don’t use email clients anyway and instead rely on AI agents to handle their electronic correspondence. It reads:Read full article Comments",
-          "feed_position": 16,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2230437159-1024x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2230437159-1024x648.jpg",
-      "popularity_score": 148
-    },
-    {
-      "id": "cluster_138",
+      "id": "cluster_141",
       "coverage": 1,
       "updated_at": "Thu, 25 Jun 2026 20:24:09 +0000",
       "title": "Microsoft adds another year to Windows 10 extended update program",
@@ -637,31 +647,7 @@
       "popularity_score": 145
     },
     {
-      "id": "cluster_144",
-      "coverage": 1,
-      "updated_at": "Thu, 25 Jun 2026 18:38:51 +0000",
-      "title": "Google finally releases a Finance Android app, promises iOS version later in 2026",
-      "neutral_headline": "Google finally releases a Finance Android app, promises iOS version later in 2026",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/",
-          "published_at": "Thu, 25 Jun 2026 18:38:51 +0000",
-          "title": "Google finally releases a Finance Android app, promises iOS version later in 2026",
-          "standfirst": "It took 20 years, but the Finance app arrives just in time to be packed full of AI.",
-          "content": "Google Finance is not a new product—it has been around for 20 years, long enough that it initially relied on Flash to display charts and graphs. The website has gotten a few major updates over the years, but it has never had a mobile app until now. Google has released the first standalone app for Google Finance, which is currently exclusive to Android, with iOS planned for later this year. The app is available globally in the Play Store, but that's not the only update to Google's financial tracker. The AI-powered makeover for the Finance website is also leaving beta, making Google's chatbot a core part of the experience. Naturally, the mobile app includes a heaping helping of generative AI that aims to make sense of irrational financial markets. If you've checked out the new Finance web experience, you'll see a lot of familiar features in the app. You can create watchlists, monitor real-time market data, and keep up with financial news in one place. While perusing graphs of stock performance, Finance will use AI to generate \"key moments\" that can explain why the numbers changed. This feature initially launched in the Finance web interface in May.Read full article Comments",
-          "feed_position": 17,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Google_Finance-1152x648.png"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Google_Finance-1152x648.png",
-      "popularity_score": 145
-    },
-    {
-      "id": "cluster_106",
+      "id": "cluster_117",
       "coverage": 1,
       "updated_at": "Fri, 26 Jun 2026 13:22:59 +0000",
       "title": "SpaceX plans to launch Starlink mobile service in the US",
@@ -685,7 +671,7 @@
       "popularity_score": 141
     },
     {
-      "id": "cluster_99",
+      "id": "cluster_110",
       "coverage": 1,
       "updated_at": "Fri, 26 Jun 2026 14:41:18 +0000",
       "title": "Feedbacks upon feedbacks: Rock weathering and the climate",
@@ -709,7 +695,7 @@
       "popularity_score": 136
     },
     {
-      "id": "cluster_96",
+      "id": "cluster_107",
       "coverage": 1,
       "updated_at": "Fri, 26 Jun 2026 15:10:03 +0000",
       "title": "VW may close four factories to adapt to the future, report says",
@@ -733,7 +719,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_116",
+      "id": "cluster_123",
       "coverage": 1,
       "updated_at": "Fri, 26 Jun 2026 11:00:59 +0000",
       "title": "Rocket Report: China may soon attempt booster landing; Rocket Lab does rapid response",
@@ -754,78 +740,6 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/IMG_8646-lowres-1-1152x648.webp",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_140",
-      "coverage": 1,
-      "updated_at": "Thu, 25 Jun 2026 20:01:08 +0000",
-      "title": "FCC may kill $2B program that connects schools and libraries to Internet",
-      "neutral_headline": "FCC may kill $2B program that connects schools and libraries to Internet",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/06/fcc-may-kill-2b-program-that-connects-schools-and-libraries-to-internet/",
-          "published_at": "Thu, 25 Jun 2026 20:01:08 +0000",
-          "title": "FCC may kill $2B program that connects schools and libraries to Internet",
-          "standfirst": "Carr cites screen time concerns, is accused of trying to be \"the nation’s parent.\"",
-          "content": "The Federal Communications Commission was roundly criticized today for proposing to scale back or eliminate E-Rate, a $2 billion-a-year Universal Service program that provides discounts for telecom services and equipment in schools and libraries. FCC Chairman Brendan Carr said E-Rate should be changed because students are getting too much screen time. He led a 2-1 vote to issue a Notice of Proposed Rulemaking (NPRM) that proposes changes and asks the public to comment on them. \"Over the last decade, school districts across the country experimented with a massive increase in screen time for students,\" Carr said at today's meeting.Read full article Comments",
-          "feed_position": 15,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/classroom-tablets-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/classroom-tablets-1152x648.jpg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_145",
-      "coverage": 1,
-      "updated_at": "Thu, 25 Jun 2026 18:01:48 +0000",
-      "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
-      "neutral_headline": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
-          "published_at": "Thu, 25 Jun 2026 18:01:48 +0000",
-          "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
-          "standfirst": "Alibaba allegedly used 25,000 accounts to mine Claude over 28.8 million exchanges.",
-          "content": "Anthropic has accused the Chinese firm Alibaba of launching the largest attack yet attempting to clone Claude, as China races to match the capabilities of Anthropic's leading model following Mythos' release and subsequent restriction from foreign markets. Ars obtained a June 10 letter sent to Senators Tim Scott (R-SC) and Elizabeth Warren (D-Mass.) one day ahead of a Senate committee hearing on “AI and the American Dream.” In the letter, Anthropic shared “new, confidential evidence of the largest campaign to illicitly extract Claude’s capabilities we have ever measured.” The attacks occurred between April 22 and June 5, when “operators afﬁliated with Alibaba and Alibaba Qwen, Alibaba’s AI lab” allegedly generated “more than 28.8 million exchanges with Claude through almost 25,000 fraudulent accounts,” Anthropic said. Violating Claude's terms of service and access restrictions, this campaign “targeted some of Claude’s most valuable capabilities, such as agentic reasoning, software engineering, and long-horizon tasks.”Read full article Comments",
-          "feed_position": 18,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2271847932-1024x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2271847932-1024x648.jpg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_146",
-      "coverage": 1,
-      "updated_at": "Thu, 25 Jun 2026 18:00:39 +0000",
-      "title": "Planet orbits so close to its star that their magnetic fields connect",
-      "neutral_headline": "Planet orbits so close to its star that their magnetic fields connect",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/06/planet-orbits-so-close-to-its-star-that-their-magnetic-fields-connect/",
-          "published_at": "Thu, 25 Jun 2026 18:00:39 +0000",
-          "title": "Planet orbits so close to its star that their magnetic fields connect",
-          "standfirst": "At the right point of the orbit and stellar cycle, the star's chromosphere brightens.",
-          "content": "For most of human history, our view of \"close to the Sun\" was defined by the orbit of Mercury, with its 88-day orbit and barren, baking surface. But from the moment we started discovering exoplanets, it became very clear that our own Solar System was anything but a guide to the rest of the galaxy. Planets with orbits only a few days long are strikingly common, with the proximity to the star creating things that seem bizarre from our perspective: metal vapor in the atmosphere, or atmospheres puffed out to ridiculously low densities. Now, we can apparently add an additional oddity: overlapping magnetic fields. Researchers have found a star/planet combo that experiences periodic brightening, which they ascribe to the interactions between the magnetic fields of both bodies. Looking for repetition This is one of those cases where theory came before discovery. People had already proposed that a planet orbiting close to its host star could interact with it if its magnetic field were sufficiently strong. And, in a number of cases, researchers have found evidence that this is happening, with one case of an extremely young star emitting flares seemingly in response to the orbit of its innermost planet.Read full article Comments",
-          "feed_position": 19,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/image-7-1152x468.png"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/image-7-1152x468.png",
       "popularity_score": 133
     }
   ]
