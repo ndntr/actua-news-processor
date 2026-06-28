@@ -1,17 +1,46 @@
 {
-  "updated_at": "2026-06-28T09:55:32.761Z",
+  "updated_at": "2026-06-28T12:12:41.215Z",
   "clusters": [
     {
-      "id": "cluster_1",
-      "coverage": 6,
-      "updated_at": "Sun, 28 Jun 2026 09:42:02 GMT",
-      "title": "Iran strikes Kuwait and Bahrain as escalating attacks threaten to unravel peace efforts",
-      "neutral_headline": "Iran attacks Kuwait and Bahrain in response to US strikes",
+      "id": "cluster_17",
+      "coverage": 7,
+      "updated_at": "Sun, 28 Jun 2026 11:00:25 GMT",
+      "title": "US and Iran exchange strikes as ceasefire falters",
+      "neutral_headline": "‘US trying to find its way out of MoU with Iran’",
       "bullet_summary": [
         "Iran says it has launched retaliatory attacks at US infrastructure in Kuwait and Bahrain after the US said it hit multiple targets across Iran",
-        "Reported by NBC World, Financial Times, Al Jazeera and others"
+        "Bahrain’s foreign ministry said a “number of drones” were launched at the country, though there were no immediate reports of damage",
+        "Central Command said it launched additional strikes against Iran on Saturday, a further test of the fragile ceasefire agreement signed by both countries"
       ],
       "items": [
+        {
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/5f4cd16c-fa4a-4806-94ce-84df6f51ecc0",
+          "published_at": "Sun, 28 Jun 2026 11:00:25 GMT",
+          "title": "US and Iran exchange strikes as ceasefire falters",
+          "standfirst": "Truce under pressure as Tehran counters US attacks by targeting military installations in Bahrain and Kuwait",
+          "content": "Truce under pressure as Tehran counters US attacks by targeting military installations in Bahrain and Kuwait",
+          "feed_position": 6,
+          "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8a9170fc-1aa0-47f0-9737-74899146bcb6.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+        },
+        {
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/us-iran-war-israel-hezbollah-strait-of-hormuz-peace-deal-talks/",
+          "published_at": "Sun, 28 Jun 2026 06:53:19 -0400",
+          "title": "Iran launches drone, missile attacks targeting Bahrain, Kuwait",
+          "standfirst": "The strikes in Kuwait and Bahrain came after the US and Iran traded attacks over the weekend.",
+          "content": "The strikes in Kuwait and Bahrain came after the US and Iran traded attacks over the weekend.",
+          "feed_position": 3
+        },
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/us-trying-to-find-its-way-out-of-mou-with?traffic_source=rss",
+          "published_at": "Sun, 28 Jun 2026 10:30:45 +0000",
+          "title": "‘US trying to find its way out of MoU with Iran’",
+          "standfirst": "Bahrain and Kuwait have condemned Iran’s retaliatory attacks after a second day of US strikes on Iran.",
+          "content": "Bahrain and Kuwait have condemned Iran’s retaliatory attacks after a second day of US strikes on Iran.",
+          "feed_position": 3
+        },
         {
           "source": "NBC World",
           "url": "https://www.nbcnews.com/world/iran/escalating-us-iran-strikes-threaten-unravel-peace-efforts-rcna352093",
@@ -19,18 +48,8 @@
           "title": "Iran strikes Kuwait and Bahrain as escalating attacks threaten to unravel peace efforts",
           "standfirst": "President Donald Trump has warned that the United States could be forced to return to war as a series of escalating reciprocal strikes with Iran continued into Sunday, threatening to unravel peace efforts between the two countries",
           "content": "President Donald Trump has warned that the United States could be forced to return to war as a series of escalating reciprocal strikes with Iran continued into Sunday, threatening to unravel peace efforts between the two countries",
-          "feed_position": 2,
-          "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260628-iran-nd-eb178d.jpg"
-        },
-        {
-          "source": "Financial Times",
-          "url": "https://www.ft.com/content/5f4cd16c-fa4a-4806-94ce-84df6f51ecc0",
-          "published_at": "Sun, 28 Jun 2026 09:39:02 GMT",
-          "title": "US and Iran exchange strikes as ceasefire falters",
-          "standfirst": "Truce under pressure as Tehran counters US attacks by targeting military installations in Bahrain and Kuwait",
-          "content": "Truce under pressure as Tehran counters US attacks by targeting military installations in Bahrain and Kuwait",
           "feed_position": 0,
-          "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8a9170fc-1aa0-47f0-9737-74899146bcb6.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+          "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260628-iran-nd-eb178d.jpg"
         },
         {
           "source": "Al Jazeera",
@@ -39,7 +58,7 @@
           "title": "Iran attacks Kuwait and Bahrain in response to US strikes",
           "standfirst": "US-Iran deal under strain as Kuwait and Bahrain condemn Iranian attacks in response to US strikes.",
           "content": "US-Iran deal under strain as Kuwait and Bahrain condemn Iranian attacks in response to US strikes.",
-          "feed_position": 1
+          "feed_position": 6
         },
         {
           "source": "Al Jazeera",
@@ -48,7 +67,7 @@
           "title": "Iran war day 121: Iran attacks Bahrain, Kuwait as US strikes near Hormuz",
           "standfirst": "US strikes Iran for a second day near Strait of Hormuz as Bahrain sounds sirens and Kuwait activates air defences.",
           "content": "US strikes Iran for a second day near Strait of Hormuz as Bahrain sounds sirens and Kuwait activates air defences.",
-          "feed_position": 9
+          "feed_position": 14
         },
         {
           "source": "BBC World",
@@ -61,177 +80,23 @@
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38a0/live/7c4274f0-727b-11f1-8e1d-bbbb1017d210.jpg"
         },
         {
-          "source": "France24",
-          "url": "https://www.france24.com/en/middle-east/20260628-us-strikes-more-targets-in-iran-as-fragile-ceasefire-comes-under-renewed-strain",
-          "published_at": "Sun, 28 Jun 2026 02:57:53 GMT",
-          "title": "US strikes Iran again as Tehran hits Bahrain and Kuwait",
-          "standfirst": "The US military launched a second wave of air strikes against Iran on Saturday on President Donald Trump's orders after Tehran struck Bahrain and Kuwait, escalating tensions that threatened a fragile interim deal. The attack on Kuwait was the first since the accord, as a US-led maritime body expanded shipping routes near Oman.",
-          "content": "The US military launched a second wave of air strikes against Iran on Saturday on President Donald Trump's orders after Tehran struck Bahrain and Kuwait, escalating tensions that threatened a fragile interim deal. The attack on Kuwait was the first since the accord, as a US-led maritime body expanded shipping routes near Oman.",
-          "feed_position": 11,
-          "image_url": "https://s.france24.com/media/display/5f7b3dbc-7298-11f1-aeab-005056bfb2b6/w:1024/p:16x9/2026-06-28T011951Z-300614654-RC2P2MAL7L84-RTRMADP-3-IRAN-CRISIS-USA-STRIKES-HORMUZ.jpg"
-        },
-        {
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/us-iran-war-israel-hezbollah-strait-of-hormuz-peace-deal-talks/",
-          "published_at": "Sat, 27 Jun 2026 22:26:18 -0400",
-          "title": "U.S., Iran trade more strikes as Trump threatens to \"militarily complete the job\"",
-          "standfirst": "The U.S. carried out a new round of strikes Sunday local time in response to \"Iranian aggression against commercial shipping,\" CENTCOM says.",
-          "content": "The U.S. carried out a new round of strikes Sunday local time in response to \"Iranian aggression against commercial shipping,\" CENTCOM says.",
-          "feed_position": 6
-        },
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/6/28/iran-war-live-trump-threatens-tehran-as-us-bombs-sirik-qeshm-for-2nd-day?traffic_source=rss",
-          "published_at": "Sun, 28 Jun 2026 00:00:00 +0000",
-          "title": "Iran war live: Tehran attacks Bahrain, Kuwait after US bombs Iranian coast",
-          "standfirst": "President Trump threatens to &#039;militarily complete the job&#039; as the US strikes Sirik and Qeshm Island over ship attacks.",
-          "content": "President Trump threatens to &#039;militarily complete the job&#039; as the US strikes Sirik and Qeshm Island over ship attacks.",
-          "feed_position": 18
-        }
-      ],
-      "featured_image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260628-iran-nd-eb178d.jpg",
-      "popularity_score": 6019.774788888889
-    },
-    {
-      "id": "cluster_25",
-      "coverage": 5,
-      "updated_at": "Sun, 28 Jun 2026 08:07:42 GMT",
-      "title": "'What are they waiting for?': Frustration grows at govt reponse as Venezuela quake death toll rises",
-      "neutral_headline": "Venezuelan earthquake death toll rises amid increasingly dire search",
-      "bullet_summary": [
-        "Satellite photos showed the destruction in Venezuela left by two powerful earthquakes that struck Wednesday and left more than 1,400 people dead",
-        "Reported by France24, Al Jazeera, CBS News and others"
-      ],
-      "items": [
-        {
-          "source": "France24",
-          "url": "https://www.france24.com/en/americas/20260628-venezuelans-left-frustrated-by-lack-of-goverment-response-as-earthquake-death-toll-rises",
-          "published_at": "Sun, 28 Jun 2026 08:07:42 GMT",
-          "title": "'What are they waiting for?': Frustration grows at govt reponse as Venezuela quake death toll rises",
-          "standfirst": "Frustration mounted in Venezuela's state of La Guaira on Saturday as rescuers and civilians used shovels, heavy equipment, ropes and bare hands to look for survivors of the devastating twin earthquakes that killed at least 1,430 people. Many citizens have been critical of what they say is an inadequate response by the government, underprepared to respond to the scope of the devastation.",
-          "content": "Frustration mounted in Venezuela's state of La Guaira on Saturday as rescuers and civilians used shovels, heavy equipment, ropes and bare hands to look for survivors of the devastating twin earthquakes that killed at least 1,430 people. Many citizens have been critical of what they say is an inadequate response by the government, underprepared to respond to the scope of the devastation.",
-          "feed_position": 6,
-          "image_url": "https://s.france24.com/media/display/d4396360-72c3-11f1-b857-005056a97e36/w:1024/p:16x9/AP26178857025042.jpg"
-        },
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/venezuelan-earthquake-death-toll-rises-amid-increasingly-dire-search?traffic_source=rss",
-          "published_at": "Sun, 28 Jun 2026 05:51:38 +0000",
-          "title": "Venezuelan earthquake death toll rises amid increasingly dire search",
-          "standfirst": "The death toll from Venezuela’s twin earthquakes has reached 1,430, with an estimated 51,000 people still missing.",
-          "content": "The death toll from Venezuela’s twin earthquakes has reached 1,430, with an estimated 51,000 people still missing.",
-          "feed_position": 12
-        },
-        {
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/venezuela-earthquake-search-rescue-la-guaira/",
-          "published_at": "Sat, 27 Jun 2026 21:39:22 -0400",
-          "title": "Venezuela death toll rises as search for earthquake survivors continues",
-          "standfirst": "Venezuelans have taken the search for missing loved ones into their own hands, citing a scarcity of government rescuers.",
-          "content": "Venezuelans have taken the search for missing loved ones into their own hands, citing a scarcity of government rescuers.",
-          "feed_position": 8
-        },
-        {
-          "source": "NBC World",
-          "url": "https://www.nbcnews.com/nightly-news/video/another-earthquake-felt-in-venezuela-as-families-search-for-missing-loved-ones-265805893935",
-          "published_at": "Sat, 27 Jun 2026 22:42:26 GMT",
-          "title": "Another earthquake felt in Venezuela as families search for missing loved ones",
-          "standfirst": "Another earthquake shook Venezuela today, as families continue searching for missing loved ones three days after twin quakes rocked that country. Ana Vanessa Herrero reports from Caracas for NBC News.",
-          "content": "Another earthquake shook Venezuela today, as families continue searching for missing loved ones three days after twin quakes rocked that country. Ana Vanessa Herrero reports from Caracas for NBC News.",
-          "feed_position": 5,
-          "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1782600140858_wnn_ahe_another_earthquake_felt_in_venezuela_as_families_search_for_missing_loved_ones_260627_S3_1920x1080-q3uk6q.jpg"
-        },
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/6/27/another-powerful-4-8-magnitude-earthquake-hits-near-venezuela?traffic_source=rss",
-          "published_at": "Sat, 27 Jun 2026 19:38:14 +0000",
-          "title": "Another powerful magnitude 4.8 earthquake hits near Venezuela",
-          "standfirst": "The latest quake comes as rescuers are still searching for survivors of the twin 7.2 and 7.5 earthquakes on Wednesday.",
-          "content": "The latest quake comes as rescuers are still searching for survivors of the twin 7.2 and 7.5 earthquakes on Wednesday.",
-          "feed_position": 24
-        },
-        {
-          "source": "NBC World",
-          "url": "https://www.nbcnews.com/world/venezuela/venezuela-earthquake-day-3-rcna352054",
-          "published_at": "Sat, 27 Jun 2026 17:34:58 GMT",
-          "title": "Venezuela earthquake death toll rises above 1,400",
-          "standfirst": "The increasingly desperate search for survivors i n Venezuela entered a third day Saturday as people dug through the rubble of collapsed homes and apartment buildings after the devastating one-two punch of 7.2 and 7.5 magnitude earthquakes, knowing time is running out.",
-          "content": "The increasingly desperate search for survivors i n Venezuela entered a third day Saturday as people dug through the rubble of collapsed homes and apartment buildings after the devastating one-two punch of 7.2 and 7.5 magnitude earthquakes, knowing time is running out.",
-          "feed_position": 0,
-          "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260627-La-Guaira-ch-1332-f21651.jpg"
-        },
-        {
-          "source": "France24",
-          "url": "https://www.france24.com/en/americas/20260625-venezuela-earthquakes-kill-nearly-1000-as-tens-of-thousands-missing",
-          "published_at": "Sat, 27 Jun 2026 17:32:57 GMT",
-          "title": "Venezuela twin quakes death toll tops 1,400 as tens of thousands remain missing",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 19
-        },
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cm2d0vzp3ngo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 27 Jun 2026 12:51:25 GMT",
-          "title": "Newborn baby rescued from Venezuela earthquake rubble",
-          "standfirst": "Two powerful earthquakes rocked Venezuela within seconds of each other on Wednesday, killing at least 920 people.",
-          "content": "Two powerful earthquakes rocked Venezuela within seconds of each other on Wednesday, killing at least 920 people.",
-          "feed_position": 24,
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c461/live/f19363b0-7229-11f1-8e1d-bbbb1017d210.jpg"
-        },
-        {
-          "source": "NBC World",
-          "url": "https://www.nbcnews.com/world/venezuela/satellite-images-show-scope-devastation-venezuela-dual-earthquakes-rcna352017",
-          "published_at": "Sat, 27 Jun 2026 02:30:41 GMT",
-          "title": "Satellite images show scope of devastation in Venezuela after dual earthquakes",
-          "standfirst": "Satellite photos showed the destruction in Venezuela left by two powerful earthquakes that struck Wednesday and left more than 1,400 people dead",
-          "content": "Satellite photos showed the destruction in Venezuela left by two powerful earthquakes that struck Wednesday and left more than 1,400 people dead",
-          "feed_position": 11,
-          "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260626-venezuela-earthquake-mn-0740-165ca1.gif"
-        },
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cwy0lw84p3go?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 26 Jun 2026 21:44:54 GMT",
-          "title": "Watch: BBC reports from La Guaira, one of Venezuela's worst-hit areas",
-          "standfirst": "Vanessa Silva visited the coastal state, where rescuers are still working to find survivors under the rubble after twin earthquakes rocked the country.",
-          "content": "Vanessa Silva visited the coastal state, where rescuers are still working to find survivors under the rubble after twin earthquakes rocked the country.",
-          "feed_position": 25,
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8d2/live/63da7a30-719e-11f1-8546-8f19e4fe30f4.jpg"
-        },
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 26 Jun 2026 18:36:32 GMT",
-          "title": "Mother dies saving daughter in Venezuela earthquakes",
-          "standfirst": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people.",
-          "content": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people.",
-          "feed_position": 14,
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d38/live/bda21270-714a-11f1-8546-8f19e4fe30f4.jpg"
-        }
-      ],
-      "featured_image": "https://s.france24.com/media/display/d4396360-72c3-11f1-b857-005056a97e36/w:1024/p:16x9/AP26178857025042.jpg",
-      "popularity_score": 5018.202566666667
-    },
-    {
-      "id": "cluster_64",
-      "coverage": 4,
-      "updated_at": "Sun, 28 Jun 2026 03:40:58 +0000",
-      "title": "Gulf countries attacked after US launches second round of strikes on Iran",
-      "neutral_headline": "Gulf countries attacked after US launches second round of strikes on Iran",
-      "bullet_summary": [
-        "Bahrain’s foreign ministry said a “number of drones” were launched at the country, though there were no immediate reports of damage",
-        "Central Command said it launched additional strikes against Iran on Saturday, a further test of the fragile ceasefire agreement signed by both countries"
-      ],
-      "items": [
-        {
           "source": "Al Jazeera",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/gulf-countries-attacked-after-us-launches-second-round-of-strikes-on-iran?traffic_source=rss",
           "published_at": "Sun, 28 Jun 2026 03:40:58 +0000",
           "title": "Gulf countries attacked after US launches second round of strikes on Iran",
           "standfirst": "Gulf countries attacked after US launches second round of strikes on Iran.",
           "content": "Gulf countries attacked after US launches second round of strikes on Iran.",
-          "feed_position": 15
+          "feed_position": 20
+        },
+        {
+          "source": "France24",
+          "url": "https://www.france24.com/en/middle-east/20260628-us-strikes-more-targets-in-iran-as-fragile-ceasefire-comes-under-renewed-strain",
+          "published_at": "Sun, 28 Jun 2026 02:57:53 GMT",
+          "title": "US strikes Iran again as Tehran hits Bahrain and Kuwait",
+          "standfirst": "The US military launched a second wave of air strikes against Iran on Saturday on President Donald Trump's orders after Tehran struck Bahrain and Kuwait, escalating tensions that threatened a fragile interim deal. The attack on Kuwait was the first since the accord, as a US-led maritime body expanded shipping routes near Oman.",
+          "content": "The US military launched a second wave of air strikes against Iran on Saturday on President Donald Trump's orders after Tehran struck Bahrain and Kuwait, escalating tensions that threatened a fragile interim deal. The attack on Kuwait was the first since the accord, as a US-led maritime body expanded shipping routes near Oman.",
+          "feed_position": 19,
+          "image_url": "https://s.france24.com/media/display/5f7b3dbc-7298-11f1-aeab-005056bfb2b6/w:1024/p:16x9/2026-06-28T011951Z-300614654-RC2P2MAL7L84-RTRMADP-3-IRAN-CRISIS-USA-STRIKES-HORMUZ.jpg"
         },
         {
           "source": "CBS News",
@@ -240,7 +105,34 @@
           "title": "New volley of strikes between U.S. and Iran",
           "standfirst": "U.S. forces have struck additional targets near the Strait of Hormuz, U.S. Central Command said. Earlier on Saturday, Iran struck another ship in the strait and took aim at a U.S. ally. Aaron Navarro reports from the White House.",
           "content": "U.S. forces have struck additional targets near the Strait of Hormuz, U.S. Central Command said. Earlier on Saturday, Iran struck another ship in the strait and took aim at a U.S. ally. Aaron Navarro reports from the White House.",
-          "feed_position": 13
+          "feed_position": 16
+        },
+        {
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/high-winds-heat-fuel-utah-wildfires/",
+          "published_at": "Sat, 27 Jun 2026 20:34:00 -0400",
+          "title": "High winds and heat fuel Utah&#039;s out-of-control wildfires",
+          "standfirst": "Several major wildfires burned across the western U.S. this weekend. Utah declared a state of emergency as scorching heat fueled the flames. Adam Yamaguchi reports and Andrew Kozak has the forecast.",
+          "content": "Several major wildfires burned across the western U.S. this weekend. Utah declared a state of emergency as scorching heat fueled the flames. Adam Yamaguchi reports and Andrew Kozak has the forecast.",
+          "feed_position": 17
+        },
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/28/iran-war-live-trump-threatens-tehran-as-us-bombs-sirik-qeshm-for-2nd-day?traffic_source=rss",
+          "published_at": "Sun, 28 Jun 2026 00:00:00 +0000",
+          "title": "Iran war live: Tehran attacks Bahrain, Kuwait after US bombs Iranian coast",
+          "standfirst": "President Trump threatens to &#039;militarily complete the job&#039; as the US strikes Sirik and Qeshm Island over ship attacks.",
+          "content": "President Trump threatens to &#039;militarily complete the job&#039; as the US strikes Sirik and Qeshm Island over ship attacks.",
+          "feed_position": 23
+        },
+        {
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/062726-cbs-weekend-news/",
+          "published_at": "Sat, 27 Jun 2026 18:30:00 -0400",
+          "title": "6/27: CBS Weekend News",
+          "standfirst": "High winds and heat are fueling Utah&#039;s out-of-control wildfires; Iranian drones target Bahrain after U.S. strikes Iran.",
+          "content": "High winds and heat are fueling Utah&#039;s out-of-control wildfires; Iranian drones target Bahrain after U.S. strikes Iran.",
+          "feed_position": 21
         },
         {
           "source": "Al Jazeera",
@@ -249,7 +141,7 @@
           "title": "US launches second night of strikes on Iran after ship hit by drone",
           "standfirst": "The attacks come after an alleged Iranian drone struck another commercial vessel in the Strait of Hormuz on Saturday.",
           "content": "The attacks come after an alleged Iranian drone struck another commercial vessel in the Strait of Hormuz on Saturday.",
-          "feed_position": 19
+          "feed_position": 24
         },
         {
           "source": "Guardian World",
@@ -280,80 +172,177 @@
           "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260615-hormuz-mb-1338-467b60.jpg"
         }
       ],
-      "featured_image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260615-hormuz-mb-1338-467b60.jpg",
-      "popularity_score": 4013.7570111111113
+      "featured_image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8a9170fc-1aa0-47f0-9737-74899146bcb6.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "popularity_score": 7018.795495833333
     },
     {
-      "id": "cluster_102",
-      "coverage": 4,
-      "updated_at": "Sat, 27 Jun 2026 18:01:36 -0400",
-      "title": "Trump nominates former Oklahoma state trooper to head ICE",
-      "neutral_headline": "Trump says he will nominate Lance Schroyer as next ICE director",
+      "id": "cluster_59",
+      "coverage": 5,
+      "updated_at": "Sun, 28 Jun 2026 08:07:42 GMT",
+      "title": "'What are they waiting for?': Frustration grows at govt reponse as Venezuela quake death toll rises",
+      "neutral_headline": "Venezuelan earthquake death toll rises amid increasingly dire search",
       "bullet_summary": [
-        "The agency hasn't had a Senate-confirmed director since the Obama administration",
-        "President Trump on Saturday said he has nominated Lance Schroyer to be the next director of U",
-        "Trump said in a Truth Social post that Schroyer “has over 29 YEARS of Law Enforcement experience in Oklahoma — A State where I WON all 77 Counties in 2016, 2020, and 2024",
-        "The immigration enforcement agency has been without a Senate-confirmed director since 2017, during Trump&#039;s first term"
+        "Reported by France24, Al Jazeera, CBS News and others"
       ],
       "items": [
         {
-          "source": "NPR News",
-          "url": "https://www.npr.org/2026/06/27/nx-s1-5873485/trump-nominates-lance-schroyer-ice-director",
-          "published_at": "Sat, 27 Jun 2026 18:01:36 -0400",
-          "title": "Trump nominates former Oklahoma state trooper to head ICE",
-          "standfirst": "President Trump nominated Lance Schroyer, a former Oklahoma state trooper, to direct Immigration and Customs Enforcement. The agency hasn't had a Senate-confirmed director since the Obama administration.",
-          "content": "President Trump nominated Lance Schroyer, a former Oklahoma state trooper, to direct Immigration and Customs Enforcement. The agency hasn't had a Senate-confirmed director since the Obama administration.(Image credit: Erin Hooley)",
-          "feed_position": 4
-        },
-        {
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/trump-lance-schroyer-ice-director-nomination/",
-          "published_at": "Sat, 27 Jun 2026 17:15:28 -0400",
-          "title": "Trump nominates former Oklahoma trooper Lance Schroyer to be ICE director",
-          "standfirst": "President Trump on Saturday said he has nominated Lance Schroyer to be the next director of U.S. Immigration and Customs Enforcement.",
-          "content": "President Trump on Saturday said he has nominated Lance Schroyer to be the next director of U.S. Immigration and Customs Enforcement.",
-          "feed_position": 21
-        },
-        {
-          "source": "Guardian World",
-          "url": "https://www.theguardian.com/us-news/2026/jun/27/trump-nomination-ice-director-lance-schroyer",
-          "published_at": "Sat, 27 Jun 2026 21:01:12 GMT",
-          "title": "Trump says he will nominate Lance Schroyer as next ICE director",
-          "standfirst": "Schroyer, whom Trump calls ‘a patriot’, led deportation campaign in Oklahoma under ICE-partnered programDonald ​Trump said on ⁠Saturday ⁠that ​he ‌will ‌nominate ‌Lance Schroyer as ‌the next director of US ​Immigration ⁠and ​Customs ​Enforcement (ICE), succeeding David Venturella, who had been performing the duties of the director.Trump said in a Truth Social post that Schroyer “has over 29 YEARS of Law Enforcement experience in Oklahoma — A State where I WON all 77 Counties in 2016, 2020, and 2024! Lance is a former Oklahoma State Trooper, and United States Marine”. Continue reading...",
-          "content": "Schroyer, whom Trump calls ‘a patriot’, led deportation campaign in Oklahoma under ICE-partnered programDonald ​Trump said on ⁠Saturday ⁠that ​he ‌will ‌nominate ‌Lance Schroyer as ‌the next director of US ​Immigration ⁠and ​Customs ​Enforcement (ICE), succeeding David Venturella, who had been performing the duties of the director.Trump said in a Truth Social post that Schroyer “has over 29 YEARS of Law Enforcement experience in Oklahoma — A State where I WON all 77 Counties in 2016, 2020, and 2024! Lance is a former Oklahoma State Trooper, and United States Marine”. Continue reading...",
-          "feed_position": 42
+          "source": "France24",
+          "url": "https://www.france24.com/en/americas/20260628-venezuelans-left-frustrated-by-lack-of-goverment-response-as-earthquake-death-toll-rises",
+          "published_at": "Sun, 28 Jun 2026 08:07:42 GMT",
+          "title": "'What are they waiting for?': Frustration grows at govt reponse as Venezuela quake death toll rises",
+          "standfirst": "Frustration mounted in Venezuela's state of La Guaira on Saturday as rescuers and civilians used shovels, heavy equipment, ropes and bare hands to look for survivors of the devastating twin earthquakes that killed at least 1,430 people. Many citizens have been critical of what they say is an inadequate response by the government, underprepared to respond to the scope of the devastation.",
+          "content": "Frustration mounted in Venezuela's state of La Guaira on Saturday as rescuers and civilians used shovels, heavy equipment, ropes and bare hands to look for survivors of the devastating twin earthquakes that killed at least 1,430 people. Many citizens have been critical of what they say is an inadequate response by the government, underprepared to respond to the scope of the devastation.",
+          "feed_position": 14,
+          "image_url": "https://s.france24.com/media/display/d4396360-72c3-11f1-b857-005056a97e36/w:1024/p:16x9/AP26178857025042.jpg"
         },
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/6/27/donald-trump-nominates-lance-schroyer-to-serve-as-ice-director?traffic_source=rss",
-          "published_at": "Sat, 27 Jun 2026 20:34:57 +0000",
-          "title": "Donald Trump nominates ex-state trooper Lance Schroyer as ICE director",
-          "standfirst": "The immigration enforcement agency has been without a Senate-confirmed director since 2017, during Trump&#039;s first term.",
-          "content": "The immigration enforcement agency has been without a Senate-confirmed director since 2017, during Trump&#039;s first term.",
-          "feed_position": 21
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/venezuelan-earthquake-death-toll-rises-amid-increasingly-dire-search?traffic_source=rss",
+          "published_at": "Sun, 28 Jun 2026 05:51:38 +0000",
+          "title": "Venezuelan earthquake death toll rises amid increasingly dire search",
+          "standfirst": "The death toll from Venezuela’s twin earthquakes has reached 1,430, with an estimated 51,000 people still missing.",
+          "content": "The death toll from Venezuela’s twin earthquakes has reached 1,430, with an estimated 51,000 people still missing.",
+          "feed_position": 17
+        },
+        {
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/venezuela-earthquake-search-rescue-la-guaira/",
+          "published_at": "Sat, 27 Jun 2026 21:39:22 -0400",
+          "title": "Venezuela death toll rises as search for earthquake survivors continues",
+          "standfirst": "Venezuelans have taken the search for missing loved ones into their own hands, citing a scarcity of government rescuers.",
+          "content": "Venezuelans have taken the search for missing loved ones into their own hands, citing a scarcity of government rescuers.",
+          "feed_position": 11
+        },
+        {
+          "source": "NBC World",
+          "url": "https://www.nbcnews.com/nightly-news/video/another-earthquake-felt-in-venezuela-as-families-search-for-missing-loved-ones-265805893935",
+          "published_at": "Sat, 27 Jun 2026 22:42:26 GMT",
+          "title": "Another earthquake felt in Venezuela as families search for missing loved ones",
+          "standfirst": "Another earthquake shook Venezuela today, as families continue searching for missing loved ones three days after twin quakes rocked that country. Ana Vanessa Herrero reports from Caracas for NBC News.",
+          "content": "Another earthquake shook Venezuela today, as families continue searching for missing loved ones three days after twin quakes rocked that country. Ana Vanessa Herrero reports from Caracas for NBC News.",
+          "feed_position": 4,
+          "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1782600140858_wnn_ahe_another_earthquake_felt_in_venezuela_as_families_search_for_missing_loved_ones_260627_S3_1920x1080-q3uk6q.jpg"
+        },
+        {
+          "source": "NBC World",
+          "url": "https://www.nbcnews.com/world/venezuela/venezuela-earthquake-day-3-rcna352054",
+          "published_at": "Sat, 27 Jun 2026 17:34:58 GMT",
+          "title": "Venezuela earthquake death toll rises above 1,400",
+          "standfirst": "The increasingly desperate search for survivors i n Venezuela entered a third day Saturday as people dug through the rubble of collapsed homes and apartment buildings after the devastating one-two punch of 7.2 and 7.5 magnitude earthquakes, knowing time is running out.",
+          "content": "The increasingly desperate search for survivors i n Venezuela entered a third day Saturday as people dug through the rubble of collapsed homes and apartment buildings after the devastating one-two punch of 7.2 and 7.5 magnitude earthquakes, knowing time is running out.",
+          "feed_position": 10,
+          "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260627-La-Guaira-ch-1332-f21651.jpg"
+        },
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/cwy0lw84p3go?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 26 Jun 2026 21:44:54 GMT",
+          "title": "Watch: BBC reports from La Guaira, one of Venezuela's worst-hit areas",
+          "standfirst": "Vanessa Silva visited the coastal state, where rescuers are still working to find survivors under the rubble after twin earthquakes rocked the country.",
+          "content": "Vanessa Silva visited the coastal state, where rescuers are still working to find survivors under the rubble after twin earthquakes rocked the country.",
+          "feed_position": 28,
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8d2/live/63da7a30-719e-11f1-8546-8f19e4fe30f4.jpg"
         }
       ],
-      "popularity_score": 4008.1009
+      "featured_image": "https://s.france24.com/media/display/d4396360-72c3-11f1-b857-005056a97e36/w:1024/p:16x9/AP26178857025042.jpg",
+      "popularity_score": 5015.916884722223
     },
     {
-      "id": "cluster_6",
+      "id": "cluster_0",
       "coverage": 2,
-      "updated_at": "Sun, 28 Jun 2026 09:28:55 GMT",
-      "title": "Donald Trump threatens to annihilate Iran after crossfire over Hormuz – Middle East crisis live",
-      "neutral_headline": "Middle East live: Iran targets Bahrain and Kuwait in response to US strikes",
+      "updated_at": "Sun, 28 Jun 2026 12:10:19 GMT",
+      "title": "Eleven killed in civilian aircraft crash in north-eastern France, authorities say",
+      "neutral_headline": "At least 11 dead in civilian plane crash in eastern France: Authorities",
       "bullet_summary": [
-        "Gulf states have publicly said that the strait of Hormuz must remain toll-free",
-        "For his part, Araghchi’s Iraqi counterpart said that he stressed the importance of opening the passage in their joint meetings and that Iran should lift the naval blockade"
+        "The pilot and 10 passengers died in the incident, local officials said",
+        "Reported by BBC Top Stories, Al Jazeera"
       ],
       "items": [
         {
+          "source": "BBC Top Stories",
+          "url": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 28 Jun 2026 12:10:19 GMT",
+          "title": "Eleven killed in civilian aircraft crash in north-eastern France, authorities say",
+          "standfirst": "The pilot and 10 passengers died in the incident, local officials said.",
+          "content": "The pilot and 10 passengers died in the incident, local officials said.",
+          "feed_position": 4,
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png"
+        },
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/6/28/at-least-11-dead-in-civilian-plane-crash-in-eastern-france-authorities?traffic_source=rss",
+          "published_at": "Sun, 28 Jun 2026 11:52:44 +0000",
+          "title": "At least 11 dead in civilian plane crash in eastern France: Authorities",
+          "standfirst": "This is a breaking news story.",
+          "content": "This is a breaking news story.",
+          "feed_position": 0
+        }
+      ],
+      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+      "popularity_score": 2019.9604958333334
+    },
+    {
+      "id": "cluster_9",
+      "coverage": 2,
+      "updated_at": "Sun, 28 Jun 2026 11:30:22 GMT",
+      "title": "New Caledonia election tests territory's future after unrest and deadlock",
+      "neutral_headline": "New Caledonia polls open in first local vote in the French territory since 2019",
+      "bullet_summary": [
+        "Reported by France24, Guardian World"
+      ],
+      "items": [
+        {
+          "source": "France24",
+          "url": "https://www.france24.com/en/new-caledonia-election-tests-territory-s-future-after-unrest-and-deadlock",
+          "published_at": "Sun, 28 Jun 2026 11:30:22 GMT",
+          "title": "New Caledonia election tests territory's future after unrest and deadlock",
+          "standfirst": "New Caledonia goes to the poll on Sunday in crucial elections. The possibility of independence from France remains the central political issue, with today’s vote taking place peacefully. The election comes two years after plans to expand voting rights to thousands of non-Indigenous residents triggered deadly unrest and forced the postponement of elections in 2024. Eliza Herbert reports.",
+          "content": "New Caledonia goes to the poll on Sunday in crucial elections. The possibility of independence from France remains the central political issue, with today’s vote taking place peacefully. The election comes two years after plans to expand voting rights to thousands of non-Indigenous residents triggered deadly unrest and forced the postponement of elections in 2024. Eliza Herbert reports.",
+          "feed_position": 2,
+          "image_url": "https://s.france24.com/media/display/cb3c2f80-72e2-11f1-b275-005056a90284/w:1024/p:16x9/EN-20260628-121057-121259-CS.jpg"
+        },
+        {
+          "source": "France24",
+          "url": "https://www.france24.com/en/france/20260628-new-caledonia-polls-close-in-french-territory-s-first-provincial-elections-since-2019",
+          "published_at": "Sun, 28 Jun 2026 10:20:14 GMT",
+          "title": "New Caledonia polls close in French territory's first provincial elections since 2019",
+          "standfirst": "Voting in the French overseas territory of New Caledonia closed on Sunday, with a turnout of 54.42 per cent, as citizens participated in the archipelago's first provincial elections since 2019. The results of the election, initially planned for 2024, will determine the balance of power in New Caledonia ahead of fresh negotiations with France on the territory's status, with independence remaining the defining political issue.",
+          "content": "Voting in the French overseas territory of New Caledonia closed on Sunday, with a turnout of 54.42 per cent, as citizens participated in the archipelago's first provincial elections since 2019. The results of the election, initially planned for 2024, will determine the balance of power in New Caledonia ahead of fresh negotiations with France on the territory's status, with independence remaining the defining political issue.",
+          "feed_position": 6,
+          "image_url": "https://s.france24.com/media/display/2fac9784-72c5-11f1-af14-005056a90284/w:1024/p:16x9/000-B8K38ZV.jpg"
+        },
+        {
           "source": "Guardian World",
-          "url": "https://www.theguardian.com/world/live/2026/jun/28/iran-strait-of-hormuz-donald-trump-vance-peace-talks-bahrain-kuwait-strikes-latest-news-updates",
-          "published_at": "Sun, 28 Jun 2026 09:28:55 GMT",
-          "title": "Donald Trump threatens to annihilate Iran after crossfire over Hormuz – Middle East crisis live",
-          "standfirst": "Iran attacked Bahrain and Kuwait after US strikes, and threatened a ‘complete halt’ to talksUS and Iran trade strikes as both sides accuse the other of endangering ceasefireIran’s foreign minister Abbas Araghchi is in Baghdad for a meeting with his Iraqi counterpart. The pair have been discussing the latest attacks as well as the all-important issue of Hormuz, according to Reuters.Gulf states have publicly said that the strait of Hormuz must remain toll-free. For his part, Araghchi’s Iraqi counterpart said that he stressed the importance of opening the passage in their joint meetings and that Iran should lift the naval blockade. Continue reading...",
-          "content": "Iran attacked Bahrain and Kuwait after US strikes, and threatened a ‘complete halt’ to talksUS and Iran trade strikes as both sides accuse the other of endangering ceasefireIran’s foreign minister Abbas Araghchi is in Baghdad for a meeting with his Iraqi counterpart. The pair have been discussing the latest attacks as well as the all-important issue of Hormuz, according to Reuters.Gulf states have publicly said that the strait of Hormuz must remain toll-free. For his part, Araghchi’s Iraqi counterpart said that he stressed the importance of opening the passage in their joint meetings and that Iran should lift the naval blockade. Continue reading...",
-          "feed_position": 25
+          "url": "https://www.theguardian.com/world/2026/jun/28/new-caledonia-polls-open-in-first-local-vote-in-the-french-territory-since-2019",
+          "published_at": "Sun, 28 Jun 2026 02:26:48 GMT",
+          "title": "New Caledonia polls open in first local vote in the French territory since 2019",
+          "standfirst": "Election will determine balance of power in New Caledonia before fresh negotiations with France on the territory’s statusPolls opened in the French overseas territory of New Caledonia on Sunday for the archipelago’s first provincial elections since 2019, after the vote was delayed as talks stalled over its political future.The election, initially planned for 2024, will determine the balance of power in New Caledonia ahead of fresh negotiations with France on the territory’s status, with independence remaining the defining political issue. Continue reading...",
+          "content": "Election will determine balance of power in New Caledonia before fresh negotiations with France on the territory’s statusPolls opened in the French overseas territory of New Caledonia on Sunday for the archipelago’s first provincial elections since 2019, after the vote was delayed as talks stalled over its political future.The election, initially planned for 2024, will determine the balance of power in New Caledonia ahead of fresh negotiations with France on the territory’s status, with independence remaining the defining political issue. Continue reading...",
+          "feed_position": 11
+        }
+      ],
+      "featured_image": "https://s.france24.com/media/display/cb3c2f80-72e2-11f1-b275-005056a90284/w:1024/p:16x9/EN-20260628-121057-121259-CS.jpg",
+      "popularity_score": 2019.2946625
+    },
+    {
+      "id": "cluster_10",
+      "coverage": 2,
+      "updated_at": "Sun, 28 Jun 2026 11:27:57 GMT",
+      "title": "New US-Iran exchange of attacks threatens ceasefire",
+      "neutral_headline": "New US-Iran exchange of attacks threatens ceasefire",
+      "bullet_summary": [
+        "Reported by France24, Guardian World"
+      ],
+      "items": [
+        {
+          "source": "France24",
+          "url": "https://www.france24.com/en/new-us-iran-exchange-of-attacks-threatens-ceasefire",
+          "published_at": "Sun, 28 Jun 2026 11:27:57 GMT",
+          "title": "New US-Iran exchange of attacks threatens ceasefire",
+          "standfirst": "Iran's Revolutionary Guard on Sunday launched attacks targeting Bahrain and Kuwait in response to US air strikes on 10 Iranian sites. The Islamic Republic threatened a “complete halt” to negotiations to end the war if Washington continues its attacks. Efforts to reopen the Strait of Hormuz without Iran's direct oversight sparked the crossfire now gripping the region. France 24 correspondent Reza Sayah tells the latest from Tehran.",
+          "content": "Iran's Revolutionary Guard on Sunday launched attacks targeting Bahrain and Kuwait in response to US air strikes on 10 Iranian sites. The Islamic Republic threatened a “complete halt” to negotiations to end the war if Washington continues its attacks. Efforts to reopen the Strait of Hormuz without Iran's direct oversight sparked the crossfire now gripping the region. France 24 correspondent Reza Sayah tells the latest from Tehran.",
+          "feed_position": 3,
+          "image_url": "https://s.france24.com/media/display/526e7798-72e2-11f1-842c-005056bfb2b6/w:1024/p:16x9/EN-20260628-120137-120332-CS.jpg"
         },
         {
           "source": "France24",
@@ -362,56 +351,95 @@
           "title": "Middle East live: Iran targets Bahrain and Kuwait in response to US strikes",
           "standfirst": "Iran's Revolutionary Guard on Sunday launched attacks targeting Bahrain and Kuwait in response to US air strikes on 10 Iranian sites. The Islamic Republic threatened a “complete halt” to negotiations to end the war if Washington continues its attacks. Efforts to reopen the Strait of Hormuz without Iran's direct oversight sparked the crossfire now gripping the region. Follow our liveblog for the latest updates.",
           "content": "Iran's Revolutionary Guard on Sunday launched attacks targeting Bahrain and Kuwait in response to US air strikes on 10 Iranian sites. The Islamic Republic threatened a “complete halt” to negotiations to end the war if Washington continues its attacks. Efforts to reopen the Strait of Hormuz without Iran's direct oversight sparked the crossfire now gripping the region. Follow our liveblog for the latest updates.",
-          "feed_position": 8,
+          "feed_position": 16,
           "image_url": "https://s.france24.com/media/display/3315db98-72b0-11f1-a12b-005056bfb2b6/w:1024/p:16x9/AP26167495359337.jpg"
+        },
+        {
+          "source": "Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/jun/27/us-iran-strikes",
+          "published_at": "Sun, 28 Jun 2026 03:09:57 GMT",
+          "title": "US and Iran trade strikes as both sides accuse the other of endangering ceasefire",
+          "standfirst": "Flare-up in tensions comes as Washington and Tehran have been negotiating a memorandum of understanding to end an unpopular warThe US military has launched further strikes on multiple targets in Iran, a day after it struck Iran in retaliation for a drone attack on a cargo ship in the strait of Hormuz.US Central Command (Centcom) said its strikes were in “direct response to continued Iranian aggression against commercial shipping” and that it had targeted Iran’s “military surveillance infrastructure, communication systems, air defense sites, drone storage facilities, and minelayer capabilities” in response. Continue reading...",
+          "content": "Flare-up in tensions comes as Washington and Tehran have been negotiating a memorandum of understanding to end an unpopular warThe US military has launched further strikes on multiple targets in Iran, a day after it struck Iran in retaliation for a drone attack on a cargo ship in the strait of Hormuz.US Central Command (Centcom) said its strikes were in “direct response to continued Iranian aggression against commercial shipping” and that it had targeted Iran’s “military surveillance infrastructure, communication systems, air defense sites, drone storage facilities, and minelayer capabilities” in response. Continue reading...",
+          "feed_position": 43
         }
       ],
-      "featured_image": "https://s.france24.com/media/display/3315db98-72b0-11f1-a12b-005056bfb2b6/w:1024/p:16x9/AP26167495359337.jpg",
-      "popularity_score": 2019.5561777777777
+      "featured_image": "https://s.france24.com/media/display/526e7798-72e2-11f1-842c-005056bfb2b6/w:1024/p:16x9/EN-20260628-120137-120332-CS.jpg",
+      "popularity_score": 2019.2543847222223
     },
     {
-      "id": "cluster_9",
+      "id": "cluster_12",
       "coverage": 2,
-      "updated_at": "Sun, 28 Jun 2026 09:14:35 GMT",
-      "title": "Prince Harry may cancel UK family visit after being refused police protection",
-      "neutral_headline": "Prince Harry may cancel UK family visit after being refused police protection",
+      "updated_at": "Sun, 28 Jun 2026 11:24:05 GMT",
+      "title": "Temperature records tumble across Europe as heatwave moves east",
+      "neutral_headline": "Temperature records tumble across Europe as heatwave moves east",
       "bullet_summary": [
-        "Reported by Guardian World, BBC Top Stories"
+        "6C north of Odense, we have the warmest day ever since measurements began in 1874,” it said in a post on X",
+        "Reported by Guardian World, BBC World"
       ],
       "items": [
         {
           "source": "Guardian World",
-          "url": "https://www.theguardian.com/uk-news/2026/jun/28/prince-harry-uk-family-visit-refused-police-protection",
-          "published_at": "Sun, 28 Jun 2026 09:14:35 GMT",
-          "title": "Prince Harry may cancel UK family visit after being refused police protection",
-          "standfirst": "Sussexes trip to Britain in balance after government declines request for taxpayer-funded securityThe Duke of Sussex is understood to be reconsidering plans to bring his wife and children to the UK next month after his request for taxpayer-funded police protection was rejected.Prince Harry and Meghan were planning their first trip to Britain as a family in four years for events related to the Invictus Games, due to be held in Birmingham in July. Continue reading...",
-          "content": "Sussexes trip to Britain in balance after government declines request for taxpayer-funded securityThe Duke of Sussex is understood to be reconsidering plans to bring his wife and children to the UK next month after his request for taxpayer-funded police protection was rejected.Prince Harry and Meghan were planning their first trip to Britain as a family in four years for events related to the Invictus Games, due to be held in Birmingham in July. Continue reading...",
-          "feed_position": 36
+          "url": "https://www.theguardian.com/environment/2026/jun/28/temperature-records-tumble-across-europe-as-heatwave-moves-east",
+          "published_at": "Sun, 28 Jun 2026 11:24:05 GMT",
+          "title": "Temperature records tumble across Europe as heatwave moves east",
+          "standfirst": "More than 191m people in Europe face temperatures over 35C, with extreme heat warnings from Germany to Hungary‘A sad inevitability’: after decades of climate warnings, why is Europe so unprepared for rising heat?Poland, Czechia and Slovakia are braced for record temperatures of over 40C as a heatwave linked to hundreds of deaths in western Europe spreads east.More than 191 million people in Europe faced temperatures of at least 35C on Sunday, with extreme heat warnings in Germany, Czechia, Poland and Hungary. Continue reading...",
+          "content": "More than 191m people in Europe face temperatures over 35C, with extreme heat warnings from Germany to Hungary‘A sad inevitability’: after decades of climate warnings, why is Europe so unprepared for rising heat?Poland, Czechia and Slovakia are braced for record temperatures of over 40C as a heatwave linked to hundreds of deaths in western Europe spreads east.More than 191 million people in Europe faced temperatures of at least 35C on Sunday, with extreme heat warnings in Germany, Czechia, Poland and Hungary. Continue reading...",
+          "feed_position": 20
         },
         {
-          "source": "BBC Top Stories",
-          "url": "https://www.bbc.co.uk/news/articles/c4gy6ywg73wo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 28 Jun 2026 08:44:25 GMT",
-          "title": "Harry reconsiders bringing Meghan and children on UK trip",
-          "standfirst": "It comes after his request for police protection was rejected days before the family is due to arrive.",
-          "content": "It comes after his request for police protection was rejected days before the family is due to arrive.",
-          "feed_position": 2,
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6aae/live/4e153e40-72b8-11f1-b382-4397c9309f92.jpg"
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cx2vdydz31no?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 27 Jun 2026 20:48:16 GMT",
+          "title": "Heatwave breaks records in Germany, Denmark and Czech Republic",
+          "standfirst": "An estimated 150 million people have been experiencing temperatures of over 35C across Europe.",
+          "content": "An estimated 150 million people have been experiencing temperatures of over 35C across Europe.",
+          "feed_position": 5,
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afaa/live/fe3ba4d0-725e-11f1-b4a5-2d0098f6c080.jpg"
+        },
+        {
+          "source": "Guardian World",
+          "url": "https://www.theguardian.com/world/live/2026/jun/27/europe-heatwave-germany-poland-france-uk-temperature-heat-latest-news-updates",
+          "published_at": "Sat, 27 Jun 2026 15:43:10 GMT",
+          "title": "Europe heatwave: drought fears in Italy as records tumble around Europe – as it happened",
+          "standfirst": "Temperature records broken in Germany, Denmark and Slovakia as Europe remains gripped by heatwaveAfter decades of climate warnings, why is Europe so unprepared for rising heat?Seawater is seeping into Italy’s longest river as the waterway starts to run dry in the heatwave, hitting a farming heartland that produces the milk for Parmesan cheese.The Po River has never fallen this low so early in the year, raising fears of a devastating drought in July in this corner of northern Italy. Continue reading...",
+          "content": "Temperature records broken in Germany, Denmark and Slovakia as Europe remains gripped by heatwaveAfter decades of climate warnings, why is Europe so unprepared for rising heat?Seawater is seeping into Italy’s longest river as the waterway starts to run dry in the heatwave, hitting a farming heartland that produces the milk for Parmesan cheese.The Po River has never fallen this low so early in the year, raising fears of a devastating drought in July in this corner of northern Italy. Continue reading...",
+          "feed_position": 21
+        },
+        {
+          "source": "Guardian World",
+          "url": "https://www.theguardian.com/world/2026/jun/27/germany-italy-heatwave-records-tumble-across-europe",
+          "published_at": "Sat, 27 Jun 2026 15:08:40 GMT",
+          "title": "Germany and Italy swelter in heatwave as records tumble across Europe",
+          "standfirst": "Denmark experiences highest temperature on record on Saturday as weather system spreads eastwardEurope heatwave – latest updatesGermany ⁠and Italy endured sweltering conditions on Saturday as a heatwave linked to dozens of deaths in western Europe spread eastwards, after temperatures broke records above 40C (104F).Denmark registered its highest temperature on record on Saturday, according to the Danish meteorological institute. “With 36.6C north of Odense, we have the warmest day ever since measurements began in 1874,” it said in a post on X. Continue reading...",
+          "content": "Denmark experiences highest temperature on record on Saturday as weather system spreads eastwardEurope heatwave – latest updatesGermany ⁠and Italy endured sweltering conditions on Saturday as a heatwave linked to dozens of deaths in western Europe spread eastwards, after temperatures broke records above 40C (104F).Denmark registered its highest temperature on record on Saturday, according to the Danish meteorological institute. “With 36.6C north of Odense, we have the warmest day ever since measurements began in 1874,” it said in a post on X. Continue reading...",
+          "feed_position": 22
         }
       ],
-      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6aae/live/4e153e40-72b8-11f1-b382-4397c9309f92.jpg",
-      "popularity_score": 2019.317288888889
+      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afaa/live/fe3ba4d0-725e-11f1-b4a5-2d0098f6c080.jpg",
+      "popularity_score": 2019.1899402777779
     },
     {
-      "id": "cluster_20",
+      "id": "cluster_13",
       "coverage": 2,
-      "updated_at": "Sun, 28 Jun 2026 08:55:09 GMT",
-      "title": "Venezuela: Search enters its third day, the window for finding survivors is rapidly closing",
-      "neutral_headline": "\"If you are alive, make any noise\": Venezuela searches rubble on day four",
+      "updated_at": "Sun, 28 Jun 2026 11:23:25 GMT",
+      "title": "Venezuela death toll reaches 1,430",
+      "neutral_headline": "Venezuela death toll reaches 1,430",
       "bullet_summary": [
+        "The confirmed death toll has climbed to 1,430 and continues to rise by the hundreds, while tens of thousands of people remain missing",
         "Reported by France24, NPR News"
       ],
       "items": [
+        {
+          "source": "France24",
+          "url": "https://www.france24.com/en/venezuela-death-toll-reaches-1-430",
+          "published_at": "Sun, 28 Jun 2026 11:23:25 GMT",
+          "title": "Venezuela death toll reaches 1,430",
+          "standfirst": "More than three days after Venezuela was struck by its most powerful earthquake in over a century, hopes of finding survivors are fading. Experts say the first 72 hours are critical for rescues, after which the operation increasingly becomes one of recovering bodies. The confirmed death toll has climbed to 1,430 and continues to rise by the hundreds, while tens of thousands of people remain missing. The UN's migration agency estimates that nearly seven million people were affected by Wednesday's twin earthquakes and are in need of shelter, clean water and other essential aid. Yinka Oyetade reports.",
+          "content": "More than three days after Venezuela was struck by its most powerful earthquake in over a century, hopes of finding survivors are fading. Experts say the first 72 hours are critical for rescues, after which the operation increasingly becomes one of recovering bodies. The confirmed death toll has climbed to 1,430 and continues to rise by the hundreds, while tens of thousands of people remain missing. The UN's migration agency estimates that nearly seven million people were affected by Wednesday's twin earthquakes and are in need of shelter, clean water and other essential aid. Yinka Oyetade reports.",
+          "feed_position": 5,
+          "image_url": "https://s.france24.com/media/display/f172f212-72e0-11f1-adda-005056a90284/w:1024/p:16x9/EN-20260628-110328-110517-CS.jpg"
+        },
         {
           "source": "France24",
           "url": "https://www.france24.com/en/venezuela-search-enters-its-third-day-the-window-for-finding-survivors-is-rapidly-closing",
@@ -419,7 +447,7 @@
           "title": "Venezuela: Search enters its third day, the window for finding survivors is rapidly closing",
           "standfirst": "Search and rescue teams have pulled a nine-month-old baby and his mother from the rubble three days after two earthquakes struck Venezuela. The disaster has claimed more than 1,000 lives, and search efforts are still underway for the hundreds of people who remain missing. Yinka Oyetade has more.",
           "content": "Search and rescue teams have pulled a nine-month-old baby and his mother from the rubble three days after two earthquakes struck Venezuela. The disaster has claimed more than 1,000 lives, and search efforts are still underway for the hundreds of people who remain missing. Yinka Oyetade has more.",
-          "feed_position": 3,
+          "feed_position": 11,
           "image_url": "https://s.france24.com/media/display/4aa0a58c-72cd-11f1-a954-005056bf30b7/w:1024/p:16x9/EN-20260628-090610-090800-CS.jpg"
         },
         {
@@ -429,14 +457,91 @@
           "title": "\"If you are alive, make any noise\": Venezuela searches rubble on day four",
           "standfirst": "In Venezuela, rescue teams are racing against time after twin earthquakes killed more than 1,400 people and left tens of thousands unaccounted for.",
           "content": "In Venezuela, rescue teams are racing against time after twin earthquakes killed more than 1,400 people and left tens of thousands unaccounted for.(Image credit: Miguel Medina)",
-          "feed_position": 2
+          "feed_position": 4
         }
       ],
-      "featured_image": "https://s.france24.com/media/display/4aa0a58c-72cd-11f1-a954-005056bf30b7/w:1024/p:16x9/EN-20260628-090610-090800-CS.jpg",
-      "popularity_score": 2018.9934
+      "featured_image": "https://s.france24.com/media/display/f172f212-72e0-11f1-adda-005056a90284/w:1024/p:16x9/EN-20260628-110328-110517-CS.jpg",
+      "popularity_score": 2019.1788291666667
     },
     {
-      "id": "cluster_23",
+      "id": "cluster_15",
+      "coverage": 2,
+      "updated_at": "Sun, 28 Jun 2026 11:08:27 +0000",
+      "title": "Uganda’s military chief orders shutdown of two media outlets",
+      "neutral_headline": "Uganda’s military chief orders shutdown of two media outlets",
+      "bullet_summary": [
+        "The president&#039;s son said he did not believe in a free press as military personnel were deployed to the media offices",
+        "Reported by Al Jazeera, BBC World"
+      ],
+      "items": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/6/28/ugandas-military-chief-orders-shutdown-of-two-media-outlets?traffic_source=rss",
+          "published_at": "Sun, 28 Jun 2026 11:08:27 +0000",
+          "title": "Uganda’s military chief orders shutdown of two media outlets",
+          "standfirst": "The president&#039;s son said he did not believe in a free press as military personnel were deployed to the media offices.",
+          "content": "The president&#039;s son said he did not believe in a free press as military personnel were deployed to the media offices.",
+          "feed_position": 2
+        },
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cj9gyk1z7ngo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 28 Jun 2026 10:11:35 GMT",
+          "title": "Uganda's leading media outlets shut down by army chief",
+          "standfirst": "NTV and Daily Monitor say their offices in the capital are under \"military siege\".",
+          "content": "NTV and Daily Monitor say their offices in the capital are under \"military siege\".",
+          "feed_position": 11,
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/286b/live/b6c739c0-fc48-11f0-a087-459dd8e000af.jpg"
+        }
+      ],
+      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/286b/live/b6c739c0-fc48-11f0-a087-459dd8e000af.jpg",
+      "popularity_score": 2018.9293847222223
+    },
+    {
+      "id": "cluster_26",
+      "coverage": 2,
+      "updated_at": "Sun, 28 Jun 2026 06:08:00 -0400",
+      "title": "Letlow wins Louisiana GOP Senate runoff, AP projects",
+      "neutral_headline": "Letlow wins Louisiana GOP Senate runoff, AP projects",
+      "bullet_summary": [
+        "Reported by CBS News, Politico"
+      ],
+      "items": [
+        {
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/louisiana-gop-senate-primary-runoff-letlow-fleming/",
+          "published_at": "Sun, 28 Jun 2026 06:08:00 -0400",
+          "title": "Letlow wins Louisiana GOP Senate runoff, AP projects",
+          "standfirst": "Rep. Julia Letlow was endorsed by President Trump in the state&#039;s Republican Senate runoff to replace Sen. Bill Cassidy, who did not receive enough votes in the primary to advance.",
+          "content": "Rep. Julia Letlow was endorsed by President Trump in the state&#039;s Republican Senate runoff to replace Sen. Bill Cassidy, who did not receive enough votes in the primary to advance.",
+          "feed_position": 4
+        },
+        {
+          "source": "Politico",
+          "url": "https://www.politico.com/news/2026/06/28/trump-maga-louisiana-senate-victory-00979205",
+          "published_at": "Sat, 27 Jun 2026 23:34:34 EST",
+          "title": "Trump gets the complete domination he wanted in Louisiana",
+          "standfirst": "Rep. Julia Letlow, his preferred candidate, won the GOP runoff for his longtime rival Bill Cassidy’s Senate seat.",
+          "content": "President Donald Trump just finished the job in Louisiana. First, he successfully ousted Sen. Bill Cassidy — a longtime rival who voted to convict Trump on impeachment charges — last month. Then on Saturday, Trump got his preferred pick, Rep. Julia Letlow, over the finish line in the runoff to replace the senator. It was a return to form after several recent misses in primaries, with Trump’s endorsed candidates going down in Iowa and Georgia and after the Republican he initially endorsed in South Carolina flopped. Saturday’s result reaffirms his grip on the Republican party: With Trump’s backing, Letlow overcame a late surge from rival John Fleming, the hardline conservative state treasurer who was also trying to rally the MAGA base behind him. Letlow’s win sends another Trump ally to Washington, continuing the MAGA takeover of the party, and shows the continuing power of Trump’s blessing that lifts candidates even when others have conservative credentials of their own. It also bolsters the power of GOP Gov. Jeff Landry, whose steadfast support of Letlow was also crucial to her victory. This primary was the latest test of an emerging question that will help shape the future of the GOP: How powerful is Trump’s endorsement against opponents who are also MAGA acolytes? Unlike in primaries pitting MAGA against the establishment or against the president’s enemies — which MAGA is clearly winning — several contests this year have involved multiple candidates all seeking to run in the America First lane. In Louisiana and Alabama, Trump’s endorsees won, though both Letlow and Rep. Barry Moore were given a major run for their money by fellow pro-Trump candidates. But in a pair of governor’s contests, Rick Jackson’s billions helped him clinch the nomination in Georgia and Zach Lahn pulled off a surprise upset in Iowa, as both bear-hugged the president. Fleming, a House Freedom caucus founder and former White House aide, ran as an unabashed Trump ally and spent the campaign arguing he represented MAGA’s ideological roots. He tried to cast Letlow as the establishment pick powered by elected officials rather than grassroots conservatives. But Republican primary voters ultimately sided with the candidate carrying Trump’s seal of approval. “Tonight’s runoff proves one indisputable fact: Donald Trump’s endorsement remains the apex predator of Republican politics,” said Louisiana GOP strategist Lionel Rainey. “Masterclass in raw electoral power.” In one of the country’s reddest states, Letlow now enters the general as the overwhelming favorite to win in November. She’s up against Jamie Davis, a farmer, who won the Democratic runoff on Saturday. Letlow’s likely ascent to the Senate marks a rapid rise in Louisiana politics: She won a special election to the House in 2021 to fill the seat of her husband, who died from Covid in 2020 just days before being sworn in. She jumped into the Senate race after Trump publicly endorsed her. “President Trump, thank you for encouraging me to get into this race, thank you for your endorsement, Louisiana loves you,” Letlow said in her victory speech Saturday night. Yet Trump’s endorsement of Letlow was not quite a knock-out punch. In the May primary, Cassidy, a top MAGA target, received less than 25 percent of the vote, and Letlow finished far ahead of the others — but she did not get enough to reach 50 percent support to avoid a runoff. In the Saturday runoff, Letlow ran hard on Trump’s endorsement but Fleming also gained significant ground since his second-place finish in the first round of voting, and finished just 14 points behind Letlow, with nearly all the votes counted. “Yes I love the heat of battle. I love the combat,” Fleming told supporters in his concession speech. “But it makes us stronger. It really makes us better.” Letlow, who hails from north Louisiana, benefitted from outside national groups spending on her behalf, including the official political arm of the Make American Healthy Again movement, which pledged $1 million to boost her campaign. Her victory is a sigh of relief for Landry, who invested tremendous political capital in getting her to the Senate, sometimes to a degree that frustrated fellow Republicans. Landry pressured donors to open their wallets for her campaign, and a super PAC aligned with the governor spent about $6 million on her behalf, mostly toward assailing Fleming with attacks about his stances on carbon capture and the border. It’s unclear whether Landry will face a serious primary challenger when he’s up for reelection next year, but a Letlow loss would have made him more vulnerable to intraparty criticisms and skepticism about his political strength. Some Louisiana Republicans immediately speculated that Fleming may now consider running against Landry. One Louisiana Republican, who was granted anonymity to speak freely about party dynamics, called it “payback.” Landry, in a statement, congratulated Letlow “on her decisive victory,” and said the representative ran “an incredible race fueled by the support of President Donald J. Trump and hardworking Louisianians across our state.”",
+          "feed_position": 1,
+          "image_url": "https://static.politico.com/76/e3/5be73209433188372d9a10887d8d/election-2-26-louisiana-senate-34151.jpg"
+        },
+        {
+          "source": "Politico",
+          "url": "https://www.politico.com/news/2026/06/27/letlow-wins-louisiana-senate-primary-trump-00979200",
+          "published_at": "Sat, 27 Jun 2026 20:46:22 EST",
+          "title": "Trump-backed Letlow wins GOP primary for Sen. Bill Cassidy’s seat",
+          "standfirst": "Rep. Julia Letlow rode the president’s endorsement to victory in the Louisiana Senate runoff over conservative state Treasurer John Fleming.",
+          "content": "Rep. Julia Letlow clinched the Louisiana GOP Senate nomination on Saturday, riding her endorsement from President Donald Trump to defeat state Treasurer John Fleming in a contentious runoff that became a referendum on MAGA credentials. She will likely succeed ousted Sen. Bill Cassidy, who was ostracized by MAGA over his impeachment vote against Trump and finished in third in the first round of voting in May. His failure to qualify for the runoff marked a rare primary defeat for a Senate incumbent. Letlow built on her first-place finish in the May primary, overcoming the self-funding Fleming, who made the race competitive by touting his conservative bona fides and bear-hugging the president. Along with Trump’s endorsement, she also was lifted by backing from Gov. Jeff Landry and other prominent Louisiana Republicans, like House Majority Leader Steve Scalise. In deep-red Louisiana, Letlow will almost certainly win the seat in November. Landry served as Letlow’s most vocal surrogate, dispatching his own staff to her campaign and pressuring donors to open their wallets. Helping Letlow earn a Senate seat gives him another ally in Washington and puts him on solid footing in the face of a potential primary opponent when he’s up for reelection next year. Letlow, a disciplined messenger and reliable Republican vote in the House, also earned the support of Louisiana business leaders and posted solid fundraising numbers in the race. It’s also another endorsement badge for Trump, who has been largely successful at picking winners this primary season, with some notable recent exceptions, like Rick Jackson’s win in Georgia and Zach Lahn’s win in Iowa. Letlow survived attacks by her opponents that she was insufficiently conservative; both Fleming and Cassidy assailed her for comments she made in a 2020 video showing her speaking in support of diversity initiatives when she was interviewing for a job as president of the University of Louisiana at Monroe. Letlow has since disavowed those programs. She became the first Republican woman to represent Louisiana in the House when she won a special election in March 2021 to fill the seat of her deceased husband, who died from Covid in December 2020 shortly before he was supposed to take office. She jumped into the Senate race to challenge Cassidy with Trump’s endorsement. A former House Freedom Caucus founder, Fleming also served in several roles in the White House during Trump’s first term. He also ran as a Trump ally, despite not earning the president’s endorsement.",
+          "feed_position": 3,
+          "image_url": "https://static.politico.com/2d/61/c6665a654b3bae88c0e5d23dae69/ap26137105498276.jpg"
+        }
+      ],
+      "featured_image": "https://static.politico.com/76/e3/5be73209433188372d9a10887d8d/election-2-26-louisiana-senate-34151.jpg",
+      "popularity_score": 2017.9218847222223
+    },
+    {
+      "id": "cluster_56",
       "coverage": 2,
       "updated_at": "Sun, 28 Jun 2026 09:51:00 +0100",
       "title": "Who will face who in last 32 of World Cup?",
@@ -466,10 +571,10 @@
         }
       ],
       "featured_image": "https://e3.365dm.com/26/06/1920x1080/skynews-lionel-messi-world-cup_7280448.jpg?20260622203213",
-      "popularity_score": 2018.9242333333334
+      "popularity_score": 2016.6385513888888
     },
     {
-      "id": "cluster_37",
+      "id": "cluster_69",
       "coverage": 2,
       "updated_at": "Sun, 28 Jun 2026 06:41:07 +0000",
       "title": "In pictures: Race against time to rescue Venezuela earthquake survivors",
@@ -485,7 +590,7 @@
           "title": "In pictures: Race against time to rescue Venezuela earthquake survivors",
           "standfirst": "Time is running out in Venezuela&#039;s race to locate survivors as experts highlight the crucial 72-hour rescue window.",
           "content": "Time is running out in Venezuela&#039;s race to locate survivors as experts highlight the crucial 72-hour rescue window.",
-          "feed_position": 8
+          "feed_position": 13
         },
         {
           "source": "CBS News",
@@ -494,56 +599,13 @@
           "title": "Rescue workers race against time in Venezuela after earthquakes",
           "standfirst": "Rescuers are in a race against time in Venezuela to save survivors of the earthquakes that hit nearly three days ago. Rescue workers from Virginia and California have arrived to help. Camilo Montoya-Galvez reports.",
           "content": "Rescuers are in a race against time in Venezuela to save survivors of the earthquakes that hit nearly three days ago. Rescue workers from Virginia and California have arrived to help. Camilo Montoya-Galvez reports.",
-          "feed_position": 11
+          "feed_position": 14
         }
       ],
-      "popularity_score": 2016.7595111111111
+      "popularity_score": 2014.4738291666667
     },
     {
-      "id": "cluster_54",
-      "coverage": 2,
-      "updated_at": "Sat, 27 Jun 2026 23:34:34 EST",
-      "title": "Trump gets the complete domination he wanted in Louisiana",
-      "neutral_headline": "Trump gets the complete domination he wanted in Louisiana",
-      "bullet_summary": [
-        "Reported by Politico, CBS News"
-      ],
-      "items": [
-        {
-          "source": "Politico",
-          "url": "https://www.politico.com/news/2026/06/28/trump-maga-louisiana-senate-victory-00979205",
-          "published_at": "Sat, 27 Jun 2026 23:34:34 EST",
-          "title": "Trump gets the complete domination he wanted in Louisiana",
-          "standfirst": "Rep. Julia Letlow, his preferred candidate, won the GOP runoff for his longtime rival Bill Cassidy’s Senate seat.",
-          "content": "President Donald Trump just finished the job in Louisiana. First, he successfully ousted Sen. Bill Cassidy — a longtime rival who voted to convict Trump on impeachment charges — last month. Then on Saturday, Trump got his preferred pick, Rep. Julia Letlow, over the finish line in the runoff to replace the senator. It was a return to form after several recent misses in primaries, with Trump’s endorsed candidates going down in Iowa and Georgia and after the Republican he initially endorsed in South Carolina flopped. Saturday’s result reaffirms his grip on the Republican party: With Trump’s backing, Letlow overcame a late surge from rival John Fleming, the hardline conservative state treasurer who was also trying to rally the MAGA base behind him. Letlow’s win sends another Trump ally to Washington, continuing the MAGA takeover of the party, and shows the continuing power of Trump’s blessing that lifts candidates even when others have conservative credentials of their own. It also bolsters the power of GOP Gov. Jeff Landry, whose steadfast support of Letlow was also crucial to her victory. This primary was the latest test of an emerging question that will help shape the future of the GOP: How powerful is Trump’s endorsement against opponents who are also MAGA acolytes? Unlike in primaries pitting MAGA against the establishment or against the president’s enemies — which MAGA is clearly winning — several contests this year have involved multiple candidates all seeking to run in the America First lane. In Louisiana and Alabama, Trump’s endorsees won, though both Letlow and Rep. Barry Moore were given a major run for their money by fellow pro-Trump candidates. But in a pair of governor’s contests, Rick Jackson’s billions helped him clinch the nomination in Georgia and Zach Lahn pulled off a surprise upset in Iowa, as both bear-hugged the president. Fleming, a House Freedom caucus founder and former White House aide, ran as an unabashed Trump ally and spent the campaign arguing he represented MAGA’s ideological roots. He tried to cast Letlow as the establishment pick powered by elected officials rather than grassroots conservatives. But Republican primary voters ultimately sided with the candidate carrying Trump’s seal of approval. “Tonight’s runoff proves one indisputable fact: Donald Trump’s endorsement remains the apex predator of Republican politics,” said Louisiana GOP strategist Lionel Rainey. “Masterclass in raw electoral power.” In one of the country’s reddest states, Letlow now enters the general as the overwhelming favorite to win in November. She’s up against Jamie Davis, a farmer, who won the Democratic runoff on Saturday. Letlow’s likely ascent to the Senate marks a rapid rise in Louisiana politics: She won a special election to the House in 2021 to fill the seat of her husband, who died from Covid in 2020 just days before being sworn in. She jumped into the Senate race after Trump publicly endorsed her. “President Trump, thank you for encouraging me to get into this race, thank you for your endorsement, Louisiana loves you,” Letlow said in her victory speech Saturday night. Yet Trump’s endorsement of Letlow was not quite a knock-out punch. In the May primary, Cassidy, a top MAGA target, received less than 25 percent of the vote, and Letlow finished far ahead of the others — but she did not get enough to reach 50 percent support to avoid a runoff. In the Saturday runoff, Letlow ran hard on Trump’s endorsement but Fleming also gained significant ground since his second-place finish in the first round of voting, and finished just 14 points behind Letlow, with nearly all the votes counted. “Yes I love the heat of battle. I love the combat,” Fleming told supporters in his concession speech. “But it makes us stronger. It really makes us better.” Letlow, who hails from north Louisiana, benefitted from outside national groups spending on her behalf, including the official political arm of the Make American Healthy Again movement, which pledged $1 million to boost her campaign. Her victory is a sigh of relief for Landry, who invested tremendous political capital in getting her to the Senate, sometimes to a degree that frustrated fellow Republicans. Landry pressured donors to open their wallets for her campaign, and a super PAC aligned with the governor spent about $6 million on her behalf, mostly toward assailing Fleming with attacks about his stances on carbon capture and the border. It’s unclear whether Landry will face a serious primary challenger when he’s up for reelection next year, but a Letlow loss would have made him more vulnerable to intraparty criticisms and skepticism about his political strength. Some Louisiana Republicans immediately speculated that Fleming may now consider running against Landry. One Louisiana Republican, who was granted anonymity to speak freely about party dynamics, called it “payback.” Landry, in a statement, congratulated Letlow “on her decisive victory,” and said the representative ran “an incredible race fueled by the support of President Donald J. Trump and hardworking Louisianians across our state.”",
-          "feed_position": 1,
-          "image_url": "https://static.politico.com/76/e3/5be73209433188372d9a10887d8d/election-2-26-louisiana-senate-34151.jpg"
-        },
-        {
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/louisiana-gop-senate-primary-runoff-letlow-fleming/",
-          "published_at": "Sat, 27 Jun 2026 22:23:09 -0400",
-          "title": "Letlow wins Louisiana GOP Senate runoff, AP projects",
-          "standfirst": "Louisianans voted Saturday in the state&#039;s Republican Senate runoff, as two candidates vied to replace Sen. Bill Cassidy, who did not receive enough votes in the primary to advance.",
-          "content": "Louisianans voted Saturday in the state&#039;s Republican Senate runoff, as two candidates vied to replace Sen. Bill Cassidy, who did not receive enough votes in the primary to advance.",
-          "feed_position": 7
-        },
-        {
-          "source": "Politico",
-          "url": "https://www.politico.com/news/2026/06/27/letlow-wins-louisiana-senate-primary-trump-00979200",
-          "published_at": "Sat, 27 Jun 2026 20:46:22 EST",
-          "title": "Trump-backed Letlow wins GOP primary for Sen. Bill Cassidy’s seat",
-          "standfirst": "Rep. Julia Letlow rode the president’s endorsement to victory in the Louisiana Senate runoff over conservative state Treasurer John Fleming.",
-          "content": "Rep. Julia Letlow clinched the Louisiana GOP Senate nomination on Saturday, riding her endorsement from President Donald Trump to defeat state Treasurer John Fleming in a contentious runoff that became a referendum on MAGA credentials. She will likely succeed ousted Sen. Bill Cassidy, who was ostracized by MAGA over his impeachment vote against Trump and finished in third in the first round of voting in May. His failure to qualify for the runoff marked a rare primary defeat for a Senate incumbent. Letlow built on her first-place finish in the May primary, overcoming the self-funding Fleming, who made the race competitive by touting his conservative bona fides and bear-hugging the president. Along with Trump’s endorsement, she also was lifted by backing from Gov. Jeff Landry and other prominent Louisiana Republicans, like House Majority Leader Steve Scalise. In deep-red Louisiana, Letlow will almost certainly win the seat in November. Landry served as Letlow’s most vocal surrogate, dispatching his own staff to her campaign and pressuring donors to open their wallets. Helping Letlow earn a Senate seat gives him another ally in Washington and puts him on solid footing in the face of a potential primary opponent when he’s up for reelection next year. Letlow, a disciplined messenger and reliable Republican vote in the House, also earned the support of Louisiana business leaders and posted solid fundraising numbers in the race. It’s also another endorsement badge for Trump, who has been largely successful at picking winners this primary season, with some notable recent exceptions, like Rick Jackson’s win in Georgia and Zach Lahn’s win in Iowa. Letlow survived attacks by her opponents that she was insufficiently conservative; both Fleming and Cassidy assailed her for comments she made in a 2020 video showing her speaking in support of diversity initiatives when she was interviewing for a job as president of the University of Louisiana at Monroe. Letlow has since disavowed those programs. She became the first Republican woman to represent Louisiana in the House when she won a special election in March 2021 to fill the seat of her deceased husband, who died from Covid in December 2020 shortly before he was supposed to take office. She jumped into the Senate race to challenge Cassidy with Trump’s endorsement. A former House Freedom Caucus founder, Fleming also served in several roles in the White House during Trump’s first term. He also ran as a Trump ally, despite not earning the president’s endorsement.",
-          "feed_position": 3,
-          "image_url": "https://static.politico.com/2d/61/c6665a654b3bae88c0e5d23dae69/ap26137105498276.jpg"
-        }
-      ],
-      "featured_image": "https://static.politico.com/76/e3/5be73209433188372d9a10887d8d/election-2-26-louisiana-senate-34151.jpg",
-      "popularity_score": 2014.6503441666666
-    },
-    {
-      "id": "cluster_79",
+      "id": "cluster_104",
       "coverage": 2,
       "updated_at": "Sat, 27 Jun 2026 20:35:29 -0400",
       "title": "4 dead in Kentucky after heavy rain and floods, governor says",
@@ -561,7 +623,7 @@
           "title": "4 dead in Kentucky after heavy rain and floods, governor says",
           "standfirst": "Four people have died due to flooding from thunderstorms in Kentucky, Gov. Andy Beshear said Saturday, and he issued a state of emergency with additional rainfall expected.",
           "content": "Four people have died due to flooding from thunderstorms in Kentucky, Gov. Andy Beshear said Saturday, and he issued a state of emergency with additional rainfall expected.",
-          "feed_position": 12
+          "feed_position": 15
         },
         {
           "source": "Guardian World",
@@ -570,57 +632,45 @@
           "title": "Four people have died from flash floods in Kentucky, governor says",
           "standfirst": "Floods caused by thunderstorms that have dumped inches of rain on Kentucky and Indiana, with more possibleAndy Beshear, the Kentucky governor, says four people have died as a result of flash floods from thunderstorms that have brought as much as 7in (18cm) of rain to the state.Beshear confirmed the four deaths in a social media post, noting three people were from Madison county and one was from Jackson county. “Please join Britainy and me as we pray for their families during this difficult time,” Beshear said. Continue reading...",
           "content": "Floods caused by thunderstorms that have dumped inches of rain on Kentucky and Indiana, with more possibleAndy Beshear, the Kentucky governor, says four people have died as a result of flash floods from thunderstorms that have brought as much as 7in (18cm) of rain to the state.Beshear confirmed the four deaths in a social media post, noting three people were from Madison county and one was from Jackson county. “Please join Britainy and me as we pray for their families during this difficult time,” Beshear said. Continue reading...",
-          "feed_position": 41
+          "feed_position": 44
         }
       ],
-      "popularity_score": 2010.6656219444444
+      "popularity_score": 2008.3799402777777
     },
     {
-      "id": "cluster_91",
+      "id": "cluster_125",
       "coverage": 2,
-      "updated_at": "Sat, 27 Jun 2026 23:35:16 GMT",
-      "title": "England labour past Panama to qualify for last 32 as group winners",
-      "neutral_headline": "England labour past Panama to qualify for last 32 as group winners",
+      "updated_at": "Sat, 27 Jun 2026 18:01:36 -0400",
+      "title": "Trump nominates former Oklahoma state trooper to head ICE",
+      "neutral_headline": "Trump nominates former Oklahoma state trooper to head ICE",
       "bullet_summary": [
-        "Reported by BBC Top Stories, France24"
+        "The agency hasn't had a Senate-confirmed director since the Obama administration",
+        "President Trump on Saturday said he has nominated Lance Schroyer to be the next director of U"
       ],
       "items": [
         {
-          "source": "BBC Top Stories",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cm2r8yg74pgo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 27 Jun 2026 23:35:16 GMT",
-          "title": "England labour past Panama to qualify for last 32 as group winners",
-          "standfirst": "Goals from Jude Bellingham and Harry Kane help England secure a 2-0 win over Panama, as Thomas Tuchel's side qualify for the World Cup last 32 as winners of Group L.",
-          "content": "Goals from Jude Bellingham and Harry Kane help England secure a 2-0 win over Panama, as Thomas Tuchel's side qualify for the World Cup last 32 as winners of Group L.",
-          "feed_position": 37,
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/851c/live/a0517480-727c-11f1-8546-8f19e4fe30f4.jpg"
+          "source": "NPR News",
+          "url": "https://www.npr.org/2026/06/27/nx-s1-5873485/trump-nominates-lance-schroyer-ice-director",
+          "published_at": "Sat, 27 Jun 2026 18:01:36 -0400",
+          "title": "Trump nominates former Oklahoma state trooper to head ICE",
+          "standfirst": "President Trump nominated Lance Schroyer, a former Oklahoma state trooper, to direct Immigration and Customs Enforcement. The agency hasn't had a Senate-confirmed director since the Obama administration.",
+          "content": "President Trump nominated Lance Schroyer, a former Oklahoma state trooper, to direct Immigration and Customs Enforcement. The agency hasn't had a Senate-confirmed director since the Obama administration.(Image credit: Erin Hooley)",
+          "feed_position": 6
         },
         {
-          "source": "France24",
-          "url": "https://www.france24.com/en/sport/20260627-england-labour-past-panama-seal-top-spot-croatia-reach-world-cup-knockouts-bellingham-kane",
-          "published_at": "Sat, 27 Jun 2026 23:01:45 GMT",
-          "title": "World Cup 2026: England labour past Panama to top Group L as Croatia reach knockouts",
-          "standfirst": "Jude Bellingham and Harry Kane scored early in the second half to help England overcome a stubborn Panama side 2-0 and seal top spot in their World Cup group. Croatia beat Ghana 2-1 in the group's other match to qualify for the knockout rounds as second.",
-          "content": "Jude Bellingham and Harry Kane scored early in the second half to help England overcome a stubborn Panama side 2-0 and seal top spot in their World Cup group. Croatia beat Ghana 2-1 in the group's other match to qualify for the knockout rounds as second.",
-          "feed_position": 14,
-          "image_url": "https://s.france24.com/media/display/86fac642-7279-11f1-8e9c-005056a90284/w:1024/p:16x9/2026-06-27T222400Z-1483476764-UP1EM6R1Q7ZCS-RTRMADP-3-SOCCER-WORLDCUP-PAN-ENG.jpg"
-        },
-        {
-          "source": "France24",
-          "url": "https://www.france24.com/en/sport/20260627-panama-vs-england-three-lions-target-top-spot-final-world-cup-group-match",
-          "published_at": "Sat, 27 Jun 2026 20:37:10 GMT",
-          "title": "World Cup 2026: Bellingham, Kane goals down Panama to seal top spot for the Three Lions",
-          "standfirst": "Jude Bellingham scored one goal and set up another as England laboured past Panama on Saturday to qualify for the knockout rounds as group winners, while Harry Kane became the Three Lions' record World Cup scorer. Croatia also reached the last 32 after edging out Ghana in the battle for second. Read our blog to see how the match unfolded.",
-          "content": "Jude Bellingham scored one goal and set up another as England laboured past Panama on Saturday to qualify for the knockout rounds as group winners, while Harry Kane became the Three Lions' record World Cup scorer. Croatia also reached the last 32 after edging out Ghana in the battle for second. Read our blog to see how the match unfolded.",
-          "feed_position": 15,
-          "image_url": "https://s.france24.com/media/display/e6db786c-727f-11f1-849d-005056a90284/w:1024/p:16x9/2026-06-27T222941Z-1302624866-UP1EM6R1QHGEA-RTRMADP-3-SOCCER-WORLDCUP-PAN-ENG.jpg"
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/trump-lance-schroyer-ice-director-nomination/",
+          "published_at": "Sat, 27 Jun 2026 17:15:28 -0400",
+          "title": "Trump nominates former Oklahoma trooper Lance Schroyer to be ICE director",
+          "standfirst": "President Trump on Saturday said he has nominated Lance Schroyer to be the next director of U.S. Immigration and Customs Enforcement.",
+          "content": "President Trump on Saturday said he has nominated Lance Schroyer to be the next director of U.S. Immigration and Customs Enforcement.",
+          "feed_position": 22
         }
       ],
-      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/851c/live/a0517480-727c-11f1-8546-8f19e4fe30f4.jpg",
-      "popularity_score": 2009.6620108333334
+      "popularity_score": 2005.8152180555555
     },
     {
-      "id": "cluster_111",
+      "id": "cluster_132",
       "coverage": 2,
       "updated_at": "Sat, 27 Jun 2026 21:12:51 GMT",
       "title": "Families calling out to loved ones trapped in rubble by Venezuela quakes",
@@ -651,43 +701,55 @@
         }
       ],
       "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed06/live/688ed510-724f-11f1-b46f-17a6b71f4bc4.jpg",
-      "popularity_score": 2007.2883997222223
+      "popularity_score": 2005.0027180555555
     },
     {
-      "id": "cluster_148",
+      "id": "cluster_151",
       "coverage": 2,
-      "updated_at": "Sat, 27 Jun 2026 07:40:32 -0400",
-      "title": "Trump administration partially lifts export ban on Anthropic's most advanced AI model",
-      "neutral_headline": "Trump administration partially lifts export ban on Anthropic's most advanced AI model",
+      "updated_at": "Sat, 27 Jun 2026 12:51:25 GMT",
+      "title": "Newborn baby rescued from Venezuela earthquake rubble",
+      "neutral_headline": "Newborn baby rescued from Venezuela earthquake rubble",
       "bullet_summary": [
-        "Reported by NPR News, Wired"
+        "Satellite photos showed the destruction in Venezuela left by two powerful earthquakes that struck Wednesday and left more than 1,400 people dead",
+        "Reported by BBC World, NBC World"
       ],
       "items": [
         {
-          "source": "NPR News",
-          "url": "https://www.npr.org/2026/06/27/nx-s1-5871245/trump-administration-imposes-restrictions-for-anthropic-to-halt-access-to-2-ai-models",
-          "published_at": "Sat, 27 Jun 2026 07:40:32 -0400",
-          "title": "Trump administration partially lifts export ban on Anthropic's most advanced AI model",
-          "standfirst": "The U.S. government is asserting a new level of influence over AI, controlling which companies can access Anthropic's new models. OpenAI agreed to let the administration screen users of its new model.",
-          "content": "The U.S. government is asserting a new level of influence over AI, controlling which companies can access Anthropic's new models. OpenAI agreed to let the administration screen users of its new model.",
-          "feed_position": 8
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/cm2d0vzp3ngo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sat, 27 Jun 2026 12:51:25 GMT",
+          "title": "Newborn baby rescued from Venezuela earthquake rubble",
+          "standfirst": "Two powerful earthquakes rocked Venezuela within seconds of each other on Wednesday, killing at least 920 people.",
+          "content": "Two powerful earthquakes rocked Venezuela within seconds of each other on Wednesday, killing at least 920 people.",
+          "feed_position": 27,
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c461/live/f19363b0-7229-11f1-8e1d-bbbb1017d210.jpg"
         },
         {
-          "source": "Wired",
-          "url": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
-          "published_at": "Sat, 27 Jun 2026 00:26:14 +0000",
-          "title": "Trump Administration Allows Anthropic to Release Mythos to Select US Organizations",
-          "standfirst": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and government agencies.",
-          "content": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and government agencies.",
-          "feed_position": 10,
-          "image_url": "https://media.wired.com/photos/6a31dd3da349dd0edc2c4b26/master/pass/Anthropic-Restores-Fable-Access-Business.jpg"
+          "source": "NBC World",
+          "url": "https://www.nbcnews.com/world/venezuela/satellite-images-show-scope-devastation-venezuela-dual-earthquakes-rcna352017",
+          "published_at": "Sat, 27 Jun 2026 02:30:41 GMT",
+          "title": "Satellite images show scope of devastation in Venezuela after dual earthquakes",
+          "standfirst": "Satellite photos showed the destruction in Venezuela left by two powerful earthquakes that struck Wednesday and left more than 1,400 people dead",
+          "content": "Satellite photos showed the destruction in Venezuela left by two powerful earthquakes that struck Wednesday and left more than 1,400 people dead",
+          "feed_position": 11,
+          "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260626-venezuela-earthquake-mn-0740-165ca1.gif"
+        },
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 26 Jun 2026 18:36:32 GMT",
+          "title": "Mother dies saving daughter in Venezuela earthquakes",
+          "standfirst": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people.",
+          "content": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people.",
+          "feed_position": 18,
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d38/live/bda21270-714a-11f1-8546-8f19e4fe30f4.jpg"
         }
       ],
-      "featured_image": "https://media.wired.com/photos/6a31dd3da349dd0edc2c4b26/master/pass/Anthropic-Restores-Fable-Access-Business.jpg",
+      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c461/live/f19363b0-7229-11f1-8e1d-bbbb1017d210.jpg",
       "popularity_score": 2000
     },
     {
-      "id": "cluster_153",
+      "id": "cluster_159",
       "coverage": 2,
       "updated_at": "Sat, 27 Jun 2026 10:20:46 GMT",
       "title": "Trump threatens 100% tariff on European countries that impose digital tax",
@@ -703,7 +765,7 @@
           "title": "Trump threatens 100% tariff on European countries that impose digital tax",
           "standfirst": "US president says levy would be imposed immediately and supersede pre-existing trade deals with the country Donald Trump has threatened to place a 100% import tariff on any European country that imposes a tax on digital services from US companies.Writing on Truth Social on Friday, the US president said that “numerous European countries” had been discussing putting a digital services tax on American companies and that “some of these countries are close to actually doing this”. Continue reading...",
           "content": "US president says levy would be imposed immediately and supersede pre-existing trade deals with the country Donald Trump has threatened to place a 100% import tariff on any European country that imposes a tax on digital services from US companies.Writing on Truth Social on Friday, the US president said that “numerous European countries” had been discussing putting a digital services tax on American companies and that “some of these countries are close to actually doing this”. Continue reading...",
-          "feed_position": 22
+          "feed_position": 23
         },
         {
           "source": "Bloomberg Technology",
@@ -712,7 +774,7 @@
           "title": "Trump Vows 100% Tariff on Europe Over Digital Services Taxes",
           "standfirst": "President Donald Trump threatened to impose 100% tariffs on goods imported from countries that impose digital services taxes, escalating pressure on European nations that just ratified a trade pact with the US.",
           "content": "President Donald Trump threatened to impose 100% tariffs on goods imported from countries that impose digital services taxes, escalating pressure on European nations that just ratified a trade pact with the US.",
-          "feed_position": 25,
+          "feed_position": 26,
           "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibSwqjMADY9c/v1/1200x-1.jpg"
         }
       ],
@@ -720,7 +782,7 @@
       "popularity_score": 2000
     },
     {
-      "id": "cluster_182",
+      "id": "cluster_188",
       "coverage": 2,
       "updated_at": "Fri, 26 Jun 2026 23:27:52 GMT",
       "title": "Aircraft crashes into a Beijing skyscraper",
@@ -736,7 +798,7 @@
           "title": "Aircraft crashes into a Beijing skyscraper",
           "standfirst": "In China, a small plane crashed into the tallest building in the capital. Debris rained down as people rushed to safety. NBC News’ Janis Mackey Frayer was there.",
           "content": "In China, a small plane crashed into the tallest building in the capital. Debris rained down as people rushed to safety. NBC News’ Janis Mackey Frayer was there.",
-          "feed_position": 7,
+          "feed_position": 6,
           "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_06/1782516468122_nn_jmf_BeijingPlane_260626_S3_1920x1080-jm11bj.jpg"
         },
         {
