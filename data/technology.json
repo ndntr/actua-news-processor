@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-28T20:07:39.689Z",
+  "updated_at": "2026-06-29T00:02:05.153Z",
   "clusters": [
     {
-      "id": "cluster_5",
+      "id": "cluster_10",
       "coverage": 2,
       "updated_at": "Sun, 28 Jun 2026 14:25:04 -0400",
       "title": "Australian government says it plans to double the maximum penalty for any social media company breaking its minimum age law and grant more powers to enforcers (Jackson Chen/Engadget)",
@@ -18,7 +18,7 @@
           "title": "Australian government says it plans to double the maximum penalty for any social media company breaking its minimum age law and grant more powers to enforcers (Jackson Chen/Engadget)",
           "standfirst": "Jackson Chen / Engadget: Australian government says it plans to double the maximum penalty for any social media company breaking its minimum age law and grant more powers to enforcers &mdash; The fine can now potentially hit 99 million AUD, or $68 million. &mdash; After becoming the first in the world to implement &hellip;",
           "content": "Jackson Chen / Engadget: Australian government says it plans to double the maximum penalty for any social media company breaking its minimum age law and grant more powers to enforcers &mdash; The fine can now potentially hit 99 million AUD, or $68 million. &mdash; After becoming the first in the world to implement &hellip;",
-          "feed_position": 2,
+          "feed_position": 4,
           "image_url": "http://www.techmeme.com/260628/i10.jpg"
         },
         {
@@ -33,10 +33,10 @@
         }
       ],
       "featured_image": "http://www.techmeme.com/260628/i10.jpg",
-      "popularity_score": 2018.290086388889
+      "popularity_score": 2014.3830130555555
     },
     {
-      "id": "cluster_7",
+      "id": "cluster_12",
       "coverage": 2,
       "updated_at": "2026-06-28T13:20:59-04:00",
       "title": "China claims the world&#8217;s fastest supercomputer",
@@ -52,7 +52,7 @@
           "title": "China claims the world&#8217;s fastest supercomputer",
           "standfirst": "Despite trade restrictions, China has reclaimed the title of the world's fastest supercomputer for the first time since 2018. LineShine has pushed El Capitan out of number one on the TOP500 ranking. That's despite strict limits on what high-powered computing components can be sold to China by US firms, which dominate the list, with America [&#8230;]",
           "content": "The LineShine supercomputer at the National Supercomputing Center in Shenzhen. | Photo: Liang Xu/Xinhua via Getty Images Despite trade restrictions, China has reclaimed the title of the world's fastest supercomputer for the first time since 2018. LineShine has pushed El Capitan out of number one on the TOP500 ranking. That's despite strict limits on what high-powered computing components can be sold to China by US firms, which dominate the list, with America holding three of the top five spots. LineShine doesn't even use any GPUs, which are typically the backbone of modern supercomputers. While reaching the peak of the Top500 carries obvious bragging rights, it also serves as a message from the Chinese government to the US. The Trump administration has sought … Read the full story at The Verge.",
-          "feed_position": 0
+          "feed_position": 2
         },
         {
           "source": "Wired Tech",
@@ -66,77 +66,10 @@
         }
       ],
       "featured_image": "https://media.wired.com/photos/6a3e912435a32ef4cd784d63/master/pass/supercomputadora%20china%20EE%20UU%201228298015.jpg",
-      "popularity_score": 2017.2220308333333
+      "popularity_score": 2013.3149575
     },
     {
-      "id": "cluster_38",
-      "coverage": 2,
-      "updated_at": "Sun, 28 Jun 2026 01:35:06 -0400",
-      "title": "A look at a thriving underground economy for Claude access in China, including \"transfer station\" sites that buy API tokens abroad and distribute them to users (Wired)",
-      "neutral_headline": "How People in China Keep Outsmarting Anthropic’s Geolocation Restrictions",
-      "bullet_summary": [
-        "Reported by TechMeme, Wired Tech"
-      ],
-      "items": [
-        {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/260628/p4#a260628p4",
-          "published_at": "Sun, 28 Jun 2026 01:35:06 -0400",
-          "title": "A look at a thriving underground economy for Claude access in China, including \"transfer station\" sites that buy API tokens abroad and distribute them to users (Wired)",
-          "standfirst": "Wired: A look at a thriving underground economy for Claude access in China, including &ldquo;transfer station&rdquo; sites that buy API tokens abroad and distribute them to users &mdash; As Anthropic tightens restrictions on access to Claude in China, users keep finding new workarounds, from proxy services to fake identities sourced on Telegram.",
-          "content": "Wired: A look at a thriving underground economy for Claude access in China, including &ldquo;transfer station&rdquo; sites that buy API tokens abroad and distribute them to users &mdash; As Anthropic tightens restrictions on access to Claude in China, users keep finding new workarounds, from proxy services to fake identities sourced on Telegram.",
-          "feed_position": 8,
-          "image_url": "http://www.techmeme.com/260628/i4.jpg"
-        },
-        {
-          "source": "Wired Tech",
-          "url": "https://www.wired.com/story/how-people-in-china-keep-outsmarting-anthropics-geolocation-restrictions/",
-          "published_at": "Fri, 26 Jun 2026 21:02:54 +0000",
-          "title": "How People in China Keep Outsmarting Anthropic’s Geolocation Restrictions",
-          "standfirst": "As Anthropic tightens restrictions on access to Claude in China, users keep finding new workarounds, from proxy services to fake identities sourced on Telegram.",
-          "content": "As Anthropic tightens restrictions on access to Claude in China, users keep finding new workarounds, from proxy services to fake identities sourced on Telegram.",
-          "feed_position": 19,
-          "image_url": "https://media.wired.com/photos/6a3081014d259fb9a6c751d2/master/pass/How-Chinese-Users-Get-Around-Anthropic-Geolocation-Restrictions-Business.jpg"
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/260628/i4.jpg",
-      "popularity_score": 2005.457308611111
-    },
-    {
-      "id": "cluster_54",
-      "coverage": 2,
-      "updated_at": "2026-06-27T13:28:18-04:00",
-      "title": "Apple wants permission to buy memory from a blacklisted Chinese supplier",
-      "neutral_headline": "Apple wants permission to buy memory from a blacklisted Chinese supplier",
-      "bullet_summary": [
-        "Reported by The Verge, Engadget"
-      ],
-      "items": [
-        {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt",
-          "published_at": "2026-06-27T13:28:18-04:00",
-          "title": "Apple wants permission to buy memory from a blacklisted Chinese supplier",
-          "standfirst": "Apple is looking to alleviate some of the pressure on its supply chain by seeking an exception from the Trump administration to buy RAM chips from CXMT, a company blacklisted by the Pentagon over ties to the People's Liberation Army, according to the Financial Times. The skyrocketing prices of RAM and storage have driven Apple [&#8230;]",
-          "content": "Apple is looking to alleviate some of the pressure on its supply chain by seeking an exception from the Trump administration to buy RAM chips from CXMT, a company blacklisted by the Pentagon over ties to the People's Liberation Army, according to the Financial Times. The skyrocketing prices of RAM and storage have driven Apple to raise prices on almost all of its products this week, so it makes sense that it would seek alternative sources. Legally, Apple isn't barred from buying chips from CXMT, but doing business with a company tied to the Chinese military would carry serious reputational risks. It's possible that CXMT could still find it … Read the full story at The Verge.",
-          "feed_position": 8
-        },
-        {
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2203121/apple-looking-buy-chips-blacklisted-chinese-company/",
-          "published_at": "Sat, 27 Jun 2026 09:44:32 +0000",
-          "title": "Apple is reportedly looking to buy chips from a US-blacklisted Chinese company",
-          "standfirst": "Apple is seeking clearance from the Trump administration to buy chips from a company linked to the Chinese military, according to Financial Times.",
-          "content": "Apple is seeking clearance from the Trump administration to buy chips from a company linked to the Chinese military, according to Financial Times.",
-          "feed_position": 17,
-          "image_url": "https://www.engadget.com/img/gallery/apple-is-reportedly-looking-to-buy-chips-from-a-us-blacklisted-chinese-company/l-intro-1782553197.jpg"
-        }
-      ],
-      "featured_image": "https://www.engadget.com/img/gallery/apple-is-reportedly-looking-to-buy-chips-from-a-us-blacklisted-chinese-company/l-intro-1782553197.jpg",
-      "popularity_score": 2000
-    },
-    {
-      "id": "cluster_56",
+      "id": "cluster_58",
       "coverage": 2,
       "updated_at": "Sat, 27 Jun 2026 16:45:09 +0000",
       "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
@@ -153,7 +86,7 @@
           "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
           "standfirst": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
           "content": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
-          "feed_position": 8
+          "feed_position": 9
         },
         {
           "source": "Engadget",
@@ -170,7 +103,7 @@
       "popularity_score": 2000
     },
     {
-      "id": "cluster_89",
+      "id": "cluster_91",
       "coverage": 2,
       "updated_at": "Sat, 27 Jun 2026 01:01:37 +0000",
       "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
@@ -187,7 +120,7 @@
           "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
           "standfirst": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
           "content": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
-          "feed_position": 11
+          "feed_position": 12
         },
         {
           "source": "Wired Tech",
@@ -204,7 +137,7 @@
       "popularity_score": 2000
     },
     {
-      "id": "cluster_90",
+      "id": "cluster_92",
       "coverage": 2,
       "updated_at": "Sat, 27 Jun 2026 00:59:29 +0000",
       "title": "The 28 Best Deals Under $100 Before Prime Day Ends",
@@ -237,7 +170,29 @@
       "popularity_score": 2000
     },
     {
-      "id": "cluster_3",
+      "id": "cluster_0",
+      "coverage": 1,
+      "updated_at": "2026-06-29T00:02:05.055Z",
+      "title": "Underpromise, overdeliver? Hands-on with the $24,950 Slate auto.",
+      "neutral_headline": "Underpromise, overdeliver? Hands-on with the $24,950 Slate auto.",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/features/2026/06/we-take-a-ride-in-slates-24950-electric-pickup/",
+          "published_at": "2026-06-29T00:02:05.055Z",
+          "title": "Underpromise, overdeliver? Hands-on with the $24,950 Slate auto.",
+          "standfirst": "",
+          "content": "",
+          "feed_position": 0
+        }
+      ],
+      "popularity_score": 352.99997277777777
+    },
+    {
+      "id": "cluster_8",
       "coverage": 1,
       "updated_at": "Sun, 28 Jun 2026 18:49:21 +0000",
       "title": "Why did this journal retract two 1940s papers by Max Planck?",
@@ -258,10 +213,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/maxplanck-1152x648-1782657031.jpg",
-      "popularity_score": 351.6948086111111
+      "popularity_score": 347.78773527777776
     },
     {
-      "id": "cluster_74",
+      "id": "cluster_75",
       "coverage": 1,
       "updated_at": "Sat, 27 Jun 2026 11:07:05 +0000",
       "title": "Apple and Audi alumni have made a luxe EV based on the moon buggy",
@@ -285,11 +240,11 @@
       "popularity_score": 341
     },
     {
-      "id": "cluster_94",
+      "id": "cluster_3",
       "coverage": 1,
-      "updated_at": "Fri, 26 Jun 2026 22:19:05 +0000",
-      "title": "South Korea plans to train entire military as \"drone warriors\"",
-      "neutral_headline": "South Korea plans to train entire military as \"drone warriors\"",
+      "updated_at": "2026-06-29T00:02:05.055Z",
+      "title": "South Korea plans to train entire military as &#8220;drone warriors&#8221;",
+      "neutral_headline": "South Korea plans to train entire military as &#8220;drone warriors&#8221;",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -297,21 +252,19 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/",
-          "published_at": "Fri, 26 Jun 2026 22:19:05 +0000",
-          "title": "South Korea plans to train entire military as \"drone warriors\"",
-          "standfirst": "Half-million strong military will train on drones as “universal combat tool.”",
-          "content": "South Korea plans to train every single member of its nearly half-million-strong military to operate drones as easily as they handle personal firearms. That ambitious goal was announced as the South Korean military seeks to maintain a technological edge in its 70-year border standoff with the larger military of a hostile North Korea. The goal is to make drones a “universal combat tool” for all troops by training them to use drones like a “second personal weapon,” said Ahn Gyu-back, South Korea’s Minister of National Defense, in a June 26 briefing reported by Reuters and other media outlets. The announcement coincides with broader plans to equip individual military units with more cheap and expendable drones for surveillance and strike missions, along with deploying more counter-drone lasers and microwave weapons. Meanwhile, South Korea’s former drone operations command headquarters that used to have direct command authority over combat units will be reorganized to focus on collaborating with South Korean industry on developing and procuring commercial drone technology, according to The Korea Times. The South Korean defense minister specifically cited the conflicts in Ukraine and the Middle East as inspiring such military reforms with a focus on drone technologies.Read full article Comments",
-          "feed_position": 2,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1244261698-1152x648.jpg"
+          "published_at": "2026-06-29T00:02:05.055Z",
+          "title": "South Korea plans to train entire military as &#8220;drone warriors&#8221;",
+          "standfirst": "",
+          "content": "",
+          "feed_position": 3
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1244261698-1152x648.jpg",
-      "popularity_score": 328
+      "popularity_score": 337.99997277777777
     },
     {
-      "id": "cluster_98",
+      "id": "cluster_4",
       "coverage": 1,
-      "updated_at": "Fri, 26 Jun 2026 21:43:57 +0000",
+      "updated_at": "2026-06-29T00:02:05.055Z",
       "title": "Doctors suspected man had brain cancer. He actually had worms.",
       "neutral_headline": "Doctors suspected man had brain cancer. He actually had worms.",
       "bullet_summary": [
@@ -321,23 +274,43 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/",
-          "published_at": "Fri, 26 Jun 2026 21:43:57 +0000",
+          "published_at": "2026-06-29T00:02:05.055Z",
           "title": "Doctors suspected man had brain cancer. He actually had worms.",
-          "standfirst": "His doctors went looking for cancer, then they saw the worms' heads.",
-          "content": "A 60-year-old man in Spain went to the doctor complaining of a headache that he couldn't shake. It had started two weeks prior and was only getting worse. He also said he had noticed subtle changes in his behavior. In a neurological exam, doctors found he had a mild delay in his movements, but no other deficits. His blood work was generally normal except for elevated IgE, a signal of immune responses linked to allergies, autoimmune disease, and parasitic infections. The doctors did a computed tomography (CT) scan of his head and saw much more obvious evidence of a problem: There were multiple lesions distributed throughout his brain accompanied by swelling. In a case report in Emerging Infectious Diseases, the doctors reported working through the possible conditions that could explain all the findings. They noted that the man was not immunocompromised and had never traveled internationally. Their top suspicion was metastatic cancer.Read full article Comments",
-          "feed_position": 3,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/26-0587-F1.jpg"
+          "standfirst": "",
+          "content": "",
+          "feed_position": 4
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/26-0587-F1.jpg",
-      "popularity_score": 318
+      "popularity_score": 327.99997277777777
     },
     {
-      "id": "cluster_101",
+      "id": "cluster_7",
       "coverage": 1,
-      "updated_at": "Fri, 26 Jun 2026 20:58:02 +0000",
-      "title": "Russian citizens told \"switch to Android\" after Apple blocks key Russian apps",
-      "neutral_headline": "Russian citizens told \"switch to Android\" after Apple blocks key Russian apps",
+      "updated_at": "2026-06-29T00:02:05.055Z",
+      "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
+      "neutral_headline": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
+          "published_at": "2026-06-29T00:02:05.055Z",
+          "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
+          "standfirst": "",
+          "content": "",
+          "feed_position": 7
+        }
+      ],
+      "popularity_score": 309.99997277777777
+    },
+    {
+      "id": "cluster_6",
+      "coverage": 1,
+      "updated_at": "2026-06-29T00:02:05.055Z",
+      "title": "Russian citizens told &#8220;switch to Android&#8221; after Apple blocks key Russian apps",
+      "neutral_headline": "Russian citizens told &#8220;switch to Android&#8221; after Apple...",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -345,21 +318,19 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/gadgets/2026/06/russian-citizens-told-switch-to-android-after-apple-blocks-key-russian-apps/",
-          "published_at": "Fri, 26 Jun 2026 20:58:02 +0000",
-          "title": "Russian citizens told \"switch to Android\" after Apple blocks key Russian apps",
-          "standfirst": "Russian government lashes out at Apple's \"bizarre\" decisions.",
-          "content": "According to Apple's 2025 App Store Transparency Report, Russia is the runaway world leader in one category: Demanding that Apple remove apps from its App Store. In 2025, Russia asked that Apple remove 1,213 apps—many of these VPN apps designed to thwart the country's draconian Internet censorship. (Vietnam was number two, requesting that 335 apps be blocked.) Russia is essentially trying to build a closed, spy-friendly, domestic version of the Internet. While the Russian government loves demanding app bans from Apple, it only wants bad, degenerate apps banned. It does not want good, strong Russian apps banned, such as VKontakte (a Russian version of Facebook) or the Max messaging app (state-mandated communications software so creepy that one exile publication described it with the insanely long headline, \"You already know Russia’s Max messenger spies on users. You probably don’t know just how many surveillance tools it hides, including even a neural network for eavesdropping.\")Read full article Comments",
-          "feed_position": 5,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2216537000-1152x648-1782506387.jpg"
+          "published_at": "2026-06-29T00:02:05.055Z",
+          "title": "Russian citizens told &#8220;switch to Android&#8221; after Apple blocks key Russian apps",
+          "standfirst": "",
+          "content": "",
+          "feed_position": 6
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2216537000-1152x648-1782506387.jpg",
-      "popularity_score": 295
+      "popularity_score": 304.99997277777777
     },
     {
-      "id": "cluster_100",
+      "id": "cluster_5",
       "coverage": 1,
-      "updated_at": "Fri, 26 Jun 2026 21:12:07 +0000",
+      "updated_at": "2026-06-29T00:02:05.055Z",
       "title": "Streaming services’ obnoxiously loud ads become illegal on July 1 in California",
       "neutral_headline": "Streaming services’ obnoxiously loud ads become illegal on July 1 in California",
       "bullet_summary": [
@@ -369,16 +340,58 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/",
-          "published_at": "Fri, 26 Jun 2026 21:12:07 +0000",
+          "published_at": "2026-06-29T00:02:05.055Z",
           "title": "Streaming services’ obnoxiously loud ads become illegal on July 1 in California",
-          "standfirst": "Illinois passed a similar law, giving services more incentive to make ads less booming.",
-          "content": "On July 1, it will be illegal for streaming platforms to play ads louder than the content being watched in California. As The Hollywood Reporter highlighted this week, California Governor Gavin Newsom signed a bill (SB 576) in October 2025 that prohibits any video streaming service from transmitting the “audio of commercial advertisements louder than the video content the advertisements accompany” in the state. The law brings some parity between streaming services and broadcast, cable, and satellite TV providers, which, under The Commercial Advertisement Loudness Mitigation (CALM) Act, can only play commercials at “the same average volume as the programs they accompany,” the FCC says.Read full article Comments",
-          "feed_position": 4,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1987915833-1152x648.jpg"
+          "standfirst": "",
+          "content": "",
+          "feed_position": 5
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1987915833-1152x648.jpg",
-      "popularity_score": 293
+      "popularity_score": 302.99997277777777
+    },
+    {
+      "id": "cluster_8",
+      "coverage": 1,
+      "updated_at": "2026-06-29T00:02:05.055Z",
+      "title": "FCC accused of hiding Chairman Carr&#8217;s messages with DOGE and Musk",
+      "neutral_headline": "FCC accused of hiding Chairman Carr&#8217;s messages with DOGE and Musk",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/06/fcc-accused-of-hiding-chairman-carrs-messages-with-doge-and-musk/",
+          "published_at": "2026-06-29T00:02:05.055Z",
+          "title": "FCC accused of hiding Chairman Carr&#8217;s messages with DOGE and Musk",
+          "standfirst": "",
+          "content": "",
+          "feed_position": 8
+        }
+      ],
+      "popularity_score": 287.99997277777777
+    },
+    {
+      "id": "cluster_9",
+      "coverage": 1,
+      "updated_at": "2026-06-29T00:02:05.055Z",
+      "title": "Netflix now requires every user profile to be tied to unique email address",
+      "neutral_headline": "Netflix now requires every user profile to be tied to unique email address",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/06/netflix-now-requires-every-user-profile-to-be-tied-to-unique-email-address/",
+          "published_at": "2026-06-29T00:02:05.055Z",
+          "title": "Netflix now requires every user profile to be tied to unique email address",
+          "standfirst": "",
+          "content": "",
+          "feed_position": 9
+        }
+      ],
+      "popularity_score": 283.99997277777777
     }
   ]
 }
