@@ -1,34 +1,124 @@
 {
-  "updated_at": "2026-07-02T00:02:00.000Z",
+  "updated_at": "2026-07-02T06:33:33.147Z",
   "clusters": [
     {
-      "id": "cluster_12",
-      "coverage": 5,
-      "updated_at": "Wed, 01 Jul 2026 19:26:57 -0400",
-      "title": "Empire State Building climbers engaged and under arrest",
-      "neutral_headline": "Two people arrested in apparent marriage proposal atop Empire State Building",
+      "id": "cluster_2",
+      "coverage": 6,
+      "updated_at": "Thu, 02 Jul 2026 06:16:16 GMT",
+      "title": "Russia unleashes huge missile and drone attacks on Kyiv",
+      "neutral_headline": "At least 13 killed in large-scale Russian missile and drone strikes on Kyiv",
       "bullet_summary": [
-        "News footage showed the masked pair kissing atop the skyscraper before one knelt and the other appeared to display a ring",
-        "Reported by CBS News, Guardian World, Al Jazeera and others"
+        "Reported by Financial Times, BBC World, NPR News and others"
       ],
       "items": [
         {
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/f85948e6-d779-4d74-9a59-56e83c3534d6",
+          "published_at": "Thu, 02 Jul 2026 06:16:16 GMT",
+          "title": "Russia unleashes huge missile and drone attacks on Kyiv",
+          "standfirst": "Bombardment follows Zelenskyy’s warning that Moscow is preparing ‘massive strike’",
+          "content": "Bombardment follows Zelenskyy’s warning that Moscow is preparing ‘massive strike’",
+          "feed_position": 5,
+          "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F16d8110f-5a1f-439f-aee8-9b72c87083e2.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+        },
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 02 Jul 2026 06:07:11 GMT",
+          "title": "At least 13 killed in large-scale Russian missile and drone strikes on Kyiv",
+          "standfirst": "Russia launched its biggest strikes on the city in weeks with children among the \"significant number\" of casualties, Ukrainian officials say.",
+          "content": "Russia launched its biggest strikes on the city in weeks with children among the \"significant number\" of casualties, Ukrainian officials say.",
+          "feed_position": 0,
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b2e/live/248b9c60-75d1-11f1-be8b-cbfeee563106.jpg"
+        },
+        {
+          "source": "NPR News",
+          "url": "https://www.npr.org/2026/07/02/g-s1-131681/russian-attack-ukraine",
+          "published_at": "Thu, 02 Jul 2026 01:47:53 -0400",
+          "title": "Russian missiles and drones kill 11 and cause damage across Ukraine capital",
+          "standfirst": "The large-scale attack with ballistic and cruise missiles and drones damaged buildings and civilian infrastructure across the city. Many residents took shelter at metro stations.",
+          "content": "The large-scale attack with ballistic and cruise missiles and drones damaged buildings and civilian infrastructure across the city. Many residents took shelter at metro stations.(Image credit: Danylo Antoniuk)",
+          "feed_position": 1
+        },
+        {
+          "source": "Guardian World",
+          "url": "https://www.theguardian.com/world/2026/jul/02/russia-attacks-kyiv-missiles-drones-ukraine",
+          "published_at": "Thu, 02 Jul 2026 02:45:10 GMT",
+          "title": "Russian missile and drone strikes in Ukraine capital kill at least eight and injure dozens",
+          "standfirst": "Multiple explosions heard in Kyiv with a hotel and several residential buildings on fireRussia launched a large-scale attack on Ukraine’s capital Kyiv with missiles and drones overnight into Thursday, killing at least eight people and injuring dozens more.The intense strikes hit residential ⁠buildings and ⁠triggered ​a fire in a hotel on a central boulevard. Continue reading...",
+          "content": "Multiple explosions heard in Kyiv with a hotel and several residential buildings on fireRussia launched a large-scale attack on Ukraine’s capital Kyiv with missiles and drones overnight into Thursday, killing at least eight people and injuring dozens more.The intense strikes hit residential ⁠buildings and ⁠triggered ​a fire in a hotel on a central boulevard. Continue reading...",
+          "feed_position": 21
+        },
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/2/kyiv-attacked-after-ukraines-zelenskyy-warns-of-massive-russian-strike?traffic_source=rss",
+          "published_at": "Thu, 02 Jul 2026 02:15:06 +0000",
+          "title": "At least 10 killed in Kyiv as Zelenskyy warns of ‘massive Russian strike’",
+          "standfirst": "At least 10 dead and dozens injured as Ukraine&#039;s forces defend against ballistic missiles, drones targeting capital.",
+          "content": "At least 10 dead and dozens injured as Ukraine&#039;s forces defend against ballistic missiles, drones targeting capital.",
+          "feed_position": 11
+        },
+        {
+          "source": "France24",
+          "url": "https://www.france24.com/en/europe/20260701-fire-breaks-out-in-central-kyiv-after-explosion-during-air-raid-alert",
+          "published_at": "Wed, 01 Jul 2026 21:41:54 GMT",
+          "title": "Russia conducts deadly missile, drone strikes on Kyiv after Zelensky warns of ‘massive attack’",
+          "standfirst": "Russian missile and drone strikes hit Kyiv early Thursday, sparking fires, killing at least nine people and injuring dozens, Ukrainian officials said, after President Volodymyr Zelensky warned that Moscow was preparing a \"massive attack\".",
+          "content": "Russian missile and drone strikes hit Kyiv early Thursday, sparking fires, killing at least nine people and injuring dozens, Ukrainian officials said, after President Volodymyr Zelensky warned that Moscow was preparing a \"massive attack\".",
+          "feed_position": 8,
+          "image_url": "https://s.france24.com/media/display/d242abd4-75d9-11f1-b467-005056bf30b7/w:1024/p:16x9/AP26183140619258.jpg"
+        }
+      ],
+      "featured_image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F16d8110f-5a1f-439f-aee8-9b72c87083e2.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "popularity_score": 6019.711903611111
+    },
+    {
+      "id": "cluster_31",
+      "coverage": 5,
+      "updated_at": "Thu, 02 Jul 2026 04:16:09 GMT",
+      "title": "Watch: Couple scale Empire State Building, get engaged and are arrested",
+      "neutral_headline": "Watch: Couple scale Empire State Building, get engaged and are arrested",
+      "bullet_summary": [
+        "News footage showed the masked pair kissing atop the skyscraper before one knelt and the other appeared to display a ring",
+        "Reported by BBC World, CBS News, Guardian World and others"
+      ],
+      "items": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/cz75gz79pl2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 02 Jul 2026 04:16:09 GMT",
+          "title": "Watch: Couple scale Empire State Building, get engaged and are arrested",
+          "standfirst": "The two were atop the 1,454 ft (443m) building for at least ten minutes and displayed a large banner before climbing down.",
+          "content": "The two were atop the 1,454 ft (443m) building for at least ten minutes and displayed a large banner before climbing down.",
+          "feed_position": 13,
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1431/live/f208e480-75dc-11f1-a627-714adb4eed6e.jpg"
+        },
+        {
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/empire-state-building-climbers-engaged-under-arrest/",
-          "published_at": "Wed, 01 Jul 2026 19:26:57 -0400",
-          "title": "Empire State Building climbers engaged and under arrest",
-          "standfirst": "Two people in black masks scaled the Empire State Building, scrambling the New York City Police Department. They call themselves \"roof-toppers,\" or stunt climbers, and they unfurled a banner about world peace before one of them got out a ring and proposed. By the time they got down, they were engaged and under arrest. Tom Hanson reports.",
-          "content": "Two people in black masks scaled the Empire State Building, scrambling the New York City Police Department. They call themselves \"roof-toppers,\" or stunt climbers, and they unfurled a banner about world peace before one of them got out a ring and proposed. By the time they got down, they were engaged and under arrest. Tom Hanson reports.",
-          "feed_position": 12
+          "url": "https://www.cbsnews.com/news/empire-state-building-climbers-ivan-kuznetsov-angelina-nikolau/",
+          "published_at": "Wed, 01 Jul 2026 23:37:22 -0400",
+          "title": "Who climbed the Empire State Building? Here&#039;s what we know.",
+          "standfirst": "The two people taken into custody for climbing New York City&#039;s Empire State Building where they apparently got engaged have been identified as Ivan Kuznetsov, 32, and Angelina Nikolau, 33.",
+          "content": "The two people taken into custody for climbing New York City&#039;s Empire State Building where they apparently got engaged have been identified as Ivan Kuznetsov, 32, and Angelina Nikolau, 33.",
+          "feed_position": 4
+        },
+        {
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/empire-state-building-climbers-banner-nyc/",
+          "published_at": "Wed, 01 Jul 2026 23:35:15 -0400",
+          "title": "2 Empire State Building climbers in custody after apparently getting engaged at the top",
+          "standfirst": "Two people climbed to the top of New York City&#039;s Empire State Building, unfurled a banner, and then apparently got engaged Wednesday afternoon.",
+          "content": "Two people climbed to the top of New York City&#039;s Empire State Building, unfurled a banner, and then apparently got engaged Wednesday afternoon.",
+          "feed_position": 5
         },
         {
           "source": "Guardian World",
           "url": "https://www.theguardian.com/us-news/2026/jul/01/empire-state-building-banner-proposal",
           "published_at": "Wed, 01 Jul 2026 23:05:53 GMT",
           "title": "Two people arrested in apparent marriage proposal atop Empire State Building",
-          "standfirst": "Pair also unfurled a large black banner displaying a message of peace on top of New York landmarkTwo people were arrested following an apparent marriage proposal atop the Empire State Building’s spire on Wednesday, after they climbed to the very pinnacle of the New York City landmark – well above the level open to the public.The two people were identified as Angela Nikolau and Ivan Beerkus, two Russian “rooftoppers” who have conducted similar stunts in other cities including Tianjin, in China and Los Angeles. They were both wearing black clothing and appeared to be masked, and unfurled a large black banner at the top of the skyscraper with the words: “When the power of love beats the love of power the ‌world knows peace.” Continue reading...",
-          "content": "Pair also unfurled a large black banner displaying a message of peace on top of New York landmarkTwo people were arrested following an apparent marriage proposal atop the Empire State Building’s spire on Wednesday, after they climbed to the very pinnacle of the New York City landmark – well above the level open to the public.The two people were identified as Angela Nikolau and Ivan Beerkus, two Russian “rooftoppers” who have conducted similar stunts in other cities including Tianjin, in China and Los Angeles. They were both wearing black clothing and appeared to be masked, and unfurled a large black banner at the top of the skyscraper with the words: “When the power of love beats the love of power the ‌world knows peace.” Continue reading...",
-          "feed_position": 41
+          "standfirst": "Pair also unfurled a large black banner displaying a message of peace on top of New York City landmarkTwo people were arrested following an apparent marriage proposal atop the Empire State Building’s spire on Wednesday, after they climbed to the very pinnacle of the New York City landmark – well above the level open to the public.The two people were identified as Angela Nikolau and Ivan Beerkus, two Russian “rooftoppers” who have conducted similar stunts in other cities including Tianjin, China, and Los Angeles. They were both wearing black clothing and appeared to be masked as they unfurled a large, black banner at the top of the skyscraper with the words: “When the power of love beats the love of power the ‌world knows peace.” Continue reading...",
+          "content": "Pair also unfurled a large black banner displaying a message of peace on top of New York City landmarkTwo people were arrested following an apparent marriage proposal atop the Empire State Building’s spire on Wednesday, after they climbed to the very pinnacle of the New York City landmark – well above the level open to the public.The two people were identified as Angela Nikolau and Ivan Beerkus, two Russian “rooftoppers” who have conducted similar stunts in other cities including Tianjin, China, and Los Angeles. They were both wearing black clothing and appeared to be masked as they unfurled a large, black banner at the top of the skyscraper with the words: “When the power of love beats the love of power the ‌world knows peace.” Continue reading...",
+          "feed_position": 43
         },
         {
           "source": "Al Jazeera",
@@ -37,25 +127,7 @@
           "title": "Couple arrested after daring Empire State marriage proposal stunt",
           "standfirst": "Russian daredevils Vanya Beerkus and Angela Nikolau are seen as ambassadors for &#039;rooftopping&#039;, a climbing sport.",
           "content": "Russian daredevils Vanya Beerkus and Angela Nikolau are seen as ambassadors for &#039;rooftopping&#039;, a climbing sport.",
-          "feed_position": 0
-        },
-        {
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/empire-state-building-climbers-banner-nyc/",
-          "published_at": "Wed, 01 Jul 2026 18:54:34 -0400",
-          "title": "2 Empire State Building climbers in custody after apparently getting engaged at the top",
-          "standfirst": "Two people climbed to the top of New York City&#039;s Empire State Building, unfurled a banner, and then apparently got engaged Wednesday afternoon.",
-          "content": "Two people climbed to the top of New York City&#039;s Empire State Building, unfurled a banner, and then apparently got engaged Wednesday afternoon.",
-          "feed_position": 20
-        },
-        {
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/empire-state-building-climbers-ivan-kuznetsov-angelina-nikolau/",
-          "published_at": "Wed, 01 Jul 2026 18:52:23 -0400",
-          "title": "Who climbed the Empire State Building? Here&#039;s what we know.",
-          "standfirst": "The two people taken into custody for climbing New York City&#039;s Empire State Building where they apparently got engaged have been identified as Ivan Kuznetsov, 32, and Angelina Nikolau, 33.",
-          "content": "The two people taken into custody for climbing New York City&#039;s Empire State Building where they apparently got engaged have been identified as Ivan Kuznetsov, 32, and Angelina Nikolau, 33.",
-          "feed_position": 21
+          "feed_position": 16
         },
         {
           "source": "France24",
@@ -64,7 +136,7 @@
           "title": "Two arrested after climbing Empire State Building antenna for marriage proposal",
           "standfirst": "Two people climbed the antenna of New York's Empire State Building on Wednesday, unfurled a banner promoting “the power of love” and appeared to stage a marriage proposal before being arrested. News footage showed the masked pair kissing atop the skyscraper before one knelt and the other appeared to display a ring.",
           "content": "Two people climbed the antenna of New York's Empire State Building on Wednesday, unfurled a banner promoting “the power of love” and appeared to stage a marriage proposal before being arrested. News footage showed the masked pair kissing atop the skyscraper before one knelt and the other appeared to display a ring.",
-          "feed_position": 2,
+          "feed_position": 7,
           "image_url": "https://s.france24.com/media/display/e68d38b2-759c-11f1-b11d-005056bf30b7/w:1024/p:16x9/AP26182590393289.jpg"
         },
         {
@@ -74,102 +146,116 @@
           "title": "Russian couple arrested after climbing Empire State Building",
           "standfirst": "Two Russian climbers scaled New York’s Empire State Building on Wednesday as part of a death-defying marriage proposal.",
           "content": "Two Russian climbers scaled New York’s Empire State Building on Wednesday as part of a death-defying marriage proposal.",
-          "feed_position": 8
-        },
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cz75gz79pl2o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 01 Jul 2026 17:08:56 GMT",
-          "title": "Watch: Two people climb to highest point of Empire State Building",
-          "standfirst": "The two were atop the 1,454 ft (443 m) building for at least ten minutes and displayed a large banner before climbing down.",
-          "content": "The two were atop the 1,454 ft (443 m) building for at least ten minutes and displayed a large banner before climbing down.",
-          "feed_position": 6,
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a539/live/1cf14280-7576-11f1-b976-0b9c15b0ccfc.jpg"
+          "feed_position": 24
         }
       ],
-      "featured_image": "https://s.france24.com/media/display/e68d38b2-759c-11f1-b11d-005056bf30b7/w:1024/p:16x9/AP26182590393289.jpg",
-      "popularity_score": 5019.4158333333335
+      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1431/live/f208e480-75dc-11f1-a627-714adb4eed6e.jpg",
+      "popularity_score": 5017.7099591666665
     },
     {
-      "id": "cluster_79",
-      "coverage": 5,
-      "updated_at": "Wed, 01 Jul 2026 20:26:33 +0000",
-      "title": "Despite marquee losses, Supreme Court term grows Trump’s presidential power",
-      "neutral_headline": "Despite marquee losses, Supreme Court term grows Trump’s presidential power",
+      "id": "cluster_83",
+      "coverage": 4,
+      "updated_at": "Wed, 01 Jul 2026 19:44:25 -0400",
+      "title": "Details emerge of Taylor Swift-Travis Kelce wedding events at MSG",
+      "neutral_headline": "Details emerge of Taylor Swift-Travis Kelce wedding events at MSG",
       "bullet_summary": [
-        "Reported by Al Jazeera, France24, Financial Times and others"
+        "Reported by CBS News, BBC World, France24 and others"
       ],
       "items": [
         {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/1/despite-marquee-losses-supreme-court-term-grows-trumps-presidential-power?traffic_source=rss",
-          "published_at": "Wed, 01 Jul 2026 20:26:33 +0000",
-          "title": "Despite marquee losses, Supreme Court term grows Trump’s presidential power",
-          "standfirst": "Set backs on tariffs, birthright citizenship overlay broad interpretation of presidential power supported by Trump.",
-          "content": "Set backs on tariffs, birthright citizenship overlay broad interpretation of presidential power supported by Trump.",
-          "feed_position": 10
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/taylor-swift-travis-kelce-wedding-madison-square-garden-rehearsal-dinner/",
+          "published_at": "Wed, 01 Jul 2026 19:44:25 -0400",
+          "title": "Details emerge of Taylor Swift-Travis Kelce wedding events at MSG",
+          "standfirst": "Taylor Swift and Travis Kelce&#039;s wedding plans include a rehearsal dinner and a late-night celebration at Madison Square Garden in New York City, according to sources familiar with the security planning.",
+          "content": "Taylor Swift and Travis Kelce&#039;s wedding plans include a rehearsal dinner and a late-night celebration at Madison Square Garden in New York City, according to sources familiar with the security planning.",
+          "feed_position": 16
+        },
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cqj19p112qjo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 01 Jul 2026 23:08:20 GMT",
+          "title": "As Taylor Swift and Travis Kelce prepare to tie the knot, we look back at their relationship",
+          "standfirst": "Taylor Swift and Travis Kelce are expected to celebrate their wedding with a party at New York's Madison Square Garden this weekend.",
+          "content": "Taylor Swift and Travis Kelce are expected to celebrate their wedding with a party at New York's Madison Square Garden this weekend.",
+          "feed_position": 27,
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ba0/live/67d41d10-756f-11f1-8eb5-8b4f46f6e33b.png"
         },
         {
           "source": "France24",
-          "url": "https://www.france24.com/en/fact-checking-donald-trump-s-birthright-citizenship-claims",
-          "published_at": "Wed, 01 Jul 2026 19:53:52 GMT",
-          "title": "Fact-checking Donald Trump's birthright citizenship claims",
-          "standfirst": "The US Supreme Court has dealt a major blow to Donald Trump's bid to end birthright citizenship, ruling children born in the US are citizens under the Constitution regardless of their parents' immigration status. The decision also casts fresh scrutiny on Trump's repeated claims about the policy, including that the US is the only country with birthright citizenship and that it's driving widespread abuse.",
-          "content": "The US Supreme Court has dealt a major blow to Donald Trump's bid to end birthright citizenship, ruling children born in the US are citizens under the Constitution regardless of their parents' immigration status. The decision also casts fresh scrutiny on Trump's repeated claims about the policy, including that the US is the only country with birthright citizenship and that it's driving widespread abuse.",
-          "feed_position": 7,
-          "image_url": "https://s.france24.com/media/display/b0305252-7585-11f1-9768-005056bfb2b6/w:1024/p:16x9/capture-19301856226a456ecea406b9-92616918.jpg"
+          "url": "https://www.france24.com/en/americas/20260701-taylor-swift-and-travis-kelce-to-celebrate-wedding-friday-at-madison-square-garden",
+          "published_at": "Wed, 01 Jul 2026 20:40:59 GMT",
+          "title": "Taylor Swift and Travis Kelce to celebrate wedding Friday at Madison Square Garden",
+          "standfirst": "Pop star Taylor Swift and NFL star Travis Kelce are set to marry this week in New York, with celebrations expected at Madison Square Garden, according to US media reports. The closely guarded festivities are due to begin on Thursday with an exclusive dinner attended by about 100 invited guests.",
+          "content": "Pop star Taylor Swift and NFL star Travis Kelce are set to marry this week in New York, with celebrations expected at Madison Square Garden, according to US media reports. The closely guarded festivities are due to begin on Thursday with an exclusive dinner attended by about 100 invited guests.",
+          "feed_position": 11,
+          "image_url": "https://s.france24.com/media/display/65928dd0-758c-11f1-91c5-005056a90284/w:1024/p:16x9/2026-07-01T082839Z-1800582277-RC2S06APC5BF-RTRMADP-3-PEOPLE-TAYLOR-SWIFT-KELCE.jpg"
         },
         {
-          "source": "Financial Times",
-          "url": "https://www.ft.com/content/5627d320-920b-4527-8b52-71f7d182d968",
-          "published_at": "Wed, 01 Jul 2026 17:40:29 GMT",
-          "title": "Supreme Court checks Trump, but empowers the presidency",
-          "standfirst": "Despite losses on tariffs and birthright citizenship, the executive has emerged stronger",
-          "content": "Despite losses on tariffs and birthright citizenship, the executive has emerged stronger",
-          "feed_position": 4,
-          "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F449b8b55-1820-44ee-9c69-df9b5fd5516a.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
-        },
-        {
-          "source": "NPR News",
-          "url": "https://www.npr.org/2026/07/01/g-s1-131327/up-first-newsletter-supreme-court-birthright-citizenship-colorado-primaries-world-cup-heat-american-pride",
-          "published_at": "Wed, 01 Jul 2026 07:29:24 -0400",
-          "title": "SCOTUS upholds birthright citizenship. And, key results from Colorado's primaries",
-          "standfirst": "The Supreme Court upheld birthright citizenship on constitutional grounds on the last day of its term. And, a Democratic socialist has won the Democratic primary for a U.S. House seat in Denver.",
-          "content": "The Supreme Court upheld birthright citizenship on constitutional grounds on the last day of its term. And, a Democratic socialist has won the Democratic primary for a U.S. House seat in Denver.(Image credit: Tom Brenner)",
-          "feed_position": 4
-        },
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 01 Jul 2026 05:32:26 GMT",
-          "title": "US Supreme Court upholds birthright citizenship in blow to Trump",
-          "standfirst": "The ruling is a major setback for Donald Trump's immigration agenda, and has been welcomed by civil rights groups.",
-          "content": "The ruling is a major setback for Donald Trump's immigration agenda, and has been welcomed by civil rights groups.",
-          "feed_position": 23,
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f911/live/bd280e50-74a9-11f1-9c5b-41132a229f02.jpg"
-        },
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/c621d53wqw0o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 30 Jun 2026 19:36:51 GMT",
-          "title": "Americans react to Supreme Court upholding birthright citizenship",
-          "standfirst": "The BBC asked Americans how they felt after the Supreme Court's ruling on citizenship for babies born in the US.",
-          "content": "The BBC asked Americans how they felt after the Supreme Court's ruling on citizenship for babies born in the US.",
-          "feed_position": 31,
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/821f/live/08b6c1d0-74ba-11f1-b1db-af71d47507d6.jpg"
+          "source": "BBC Top Stories",
+          "url": "https://www.bbc.co.uk/news/videos/cj9g8xg8vy4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 01 Jul 2026 16:54:53 GMT",
+          "title": "Is Taylor Swift really getting married at Madison Square Garden?",
+          "standfirst": "Rumours continue to swirl about whether Taylor Swift will marry Travis Kelce at New York City's Madison Square Garden over the 4 July weekend.",
+          "content": "Rumours continue to swirl about whether Taylor Swift will marry Travis Kelce at New York City's Madison Square Garden over the 4 July weekend.",
+          "feed_position": 16,
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2841/live/4fc3a100-756a-11f1-9510-1546718f668b.jpg"
         }
       ],
-      "featured_image": "https://s.france24.com/media/display/b0305252-7585-11f1-9768-005056bfb2b6/w:1024/p:16x9/capture-19301856226a456ecea406b9-92616918.jpg",
-      "popularity_score": 5016.409166666666
+      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ba0/live/67d41d10-756f-11f1-8eb5-8b4f46f6e33b.png",
+      "popularity_score": 4013.181070277778
     },
     {
-      "id": "cluster_76",
-      "coverage": 4,
+      "id": "cluster_65",
+      "coverage": 3,
+      "updated_at": "Thu, 02 Jul 2026 01:28:40 GMT",
+      "title": "Latest ever winner, comeback and controversy - Senegal's remarkable exit",
+      "neutral_headline": "Belgium stage 3–2 comeback win over Senegal to enter World Cup last 16",
+      "bullet_summary": [
+        "Reported by BBC Top Stories, Al Jazeera, France24"
+      ],
+      "items": [
+        {
+          "source": "BBC Top Stories",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckg8e2ezvzyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 02 Jul 2026 01:28:40 GMT",
+          "title": "Latest ever winner, comeback and controversy - Senegal's remarkable exit",
+          "standfirst": "Late drama, controversy, history and heartbreak - the World Cup last-32 tie between Belgium and Senegal had everything.",
+          "content": "Late drama, controversy, history and heartbreak - the World Cup last-32 tie between Belgium and Senegal had everything.",
+          "feed_position": 15,
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99ca/live/ab2d91a0-75a5-11f1-8672-df1a6610885c.jpg"
+        },
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/7/2/belgium-stage-3-2-comeback-win-over-senegal-to-enter-world-cup-last?traffic_source=rss",
+          "published_at": "Thu, 02 Jul 2026 00:05:48 +0000",
+          "title": "Belgium stage 3–2 comeback win over Senegal to enter World Cup last 16",
+          "standfirst": "Tielemans&#039;s penalty late into stoppage time of extra time capped Belgium&#039;s comeback from 2-0 down in Seattle.",
+          "content": "Tielemans&#039;s penalty late into stoppage time of extra time capped Belgium&#039;s comeback from 2-0 down in Seattle.",
+          "feed_position": 14
+        },
+        {
+          "source": "France24",
+          "url": "https://www.france24.com/en/sport/20260701-world-cup-2026-belgium-stun-senegal-with-dramatic-comeback-and-penalty-heartbreak",
+          "published_at": "Wed, 01 Jul 2026 22:56:18 GMT",
+          "title": "World Cup 2026: Belgium stun Senegal with dramatic comeback and penalty heartbreak",
+          "standfirst": "Belgium staged an extraordinary second-half comeback to eliminate Senegal 3-2 in an epic Round of 32 encounter in Seattle, advancing to the last 16 after Youri Tielemans' coolly converted penalty in extra time. The Diables Rouges erased a two-goal deficit in a remarkable turnaround that sends them through despite Senegal's dominant first-half display.",
+          "content": "Belgium staged an extraordinary second-half comeback to eliminate Senegal 3-2 in an epic Round of 32 encounter in Seattle, advancing to the last 16 after Youri Tielemans' coolly converted penalty in extra time. The Diables Rouges erased a two-goal deficit in a remarkable turnaround that sends them through despite Senegal's dominant first-half display.",
+          "feed_position": 6,
+          "image_url": "https://s.france24.com/media/display/62ad7838-759f-11f1-9580-005056a97e36/w:1024/p:16x9/2026-07-01T224815Z-494564415-UP1EM711RCDPH-RTRMADP-3-SOCCER-WORLDCUP-BEL-SEN.jpg"
+        }
+      ],
+      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99ca/live/ab2d91a0-75a5-11f1-8672-df1a6610885c.jpg",
+      "popularity_score": 3014.9185702777777
+    },
+    {
+      "id": "cluster_133",
+      "coverage": 3,
       "updated_at": "Wed, 01 Jul 2026 20:31:24 GMT",
       "title": "Mexico scene shows crowds that killed three during World Cup celebration",
       "neutral_headline": "Four die in Mexico City World Cup celebrations",
       "bullet_summary": [
-        "Reported by NBC World, BBC World, Guardian World and others"
+        "Reported by NBC World, BBC World, Guardian World"
       ],
       "items": [
         {
@@ -189,7 +275,7 @@
           "title": "Four die in Mexico City World Cup celebrations",
           "standfirst": "More than one million people took to the streets of Mexico's capital on Tuesday to mark the country's win over Ecuador.",
           "content": "More than one million people took to the streets of Mexico's capital on Tuesday to mark the country's win over Ecuador.",
-          "feed_position": 9,
+          "feed_position": 10,
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0105/live/e4a221e0-7545-11f1-b976-0b9c15b0ccfc.jpg"
         },
         {
@@ -200,29 +286,20 @@
           "standfirst": "Three of the victims died from suffocationMore than a million people gathered in Mexico CityFour people died, three ⁠from suffocation, as thousands of fans crowded Mexico City streets during World Cup celebrations, the capital’s health secretariat ⁠said in the early ⁠hours ​of Wednesday.The deaths occurred near the Angel of Independence landmark, where thousands of fans had gathered to ⁠celebrate Mexico’s 2-0 victory over Ecuador in the last 32. Continue reading...",
           "content": "Three of the victims died from suffocationMore than a million people gathered in Mexico CityFour people died, three ⁠from suffocation, as thousands of fans crowded Mexico City streets during World Cup celebrations, the capital’s health secretariat ⁠said in the early ⁠hours ​of Wednesday.The deaths occurred near the Angel of Independence landmark, where thousands of fans had gathered to ⁠celebrate Mexico’s 2-0 victory over Ecuador in the last 32. Continue reading...",
           "feed_position": 6
-        },
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/three-dead-after-massive-world-cup-celebrations-in-mexico-city?traffic_source=rss",
-          "published_at": "Wed, 01 Jul 2026 17:45:52 +0000",
-          "title": "Three dead after massive World Cup celebrations in Mexico City",
-          "standfirst": "Health officials say three people died during massive celebrations in Mexico City after Mexico’s 2-0 World Cup win.",
-          "content": "Health officials say three people died during massive celebrations in Mexico City after Mexico’s 2-0 World Cup win.",
-          "feed_position": 19
         }
       ],
       "featured_image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/f_tov_lon_mexicocrush_260701.Still001-usq83o.jpg",
-      "popularity_score": 4016.49
+      "popularity_score": 3009.964125833333
     },
     {
-      "id": "cluster_173",
-      "coverage": 4,
+      "id": "cluster_199",
+      "coverage": 3,
       "updated_at": "Wed, 01 Jul 2026 10:57:00 -0400",
       "title": "Funerals held for 14 Pakistani children killed in tutoring center collapse",
       "neutral_headline": "Pakistan roof collapse kills 14 children at tutoring centre",
       "bullet_summary": [
         "Punjab’s emergency service said rescuers found children and a 30-year-old female teacher ⁠under the rubble of the private after-school facility",
-        "Reported by NPR News, Guardian World, BBC World and others"
+        "Reported by NPR News, Guardian World, Sky News World"
       ],
       "items": [
         {
@@ -232,7 +309,7 @@
           "title": "Funerals held for 14 Pakistani children killed in tutoring center collapse",
           "standfirst": "Police are investigating whether negligence during construction work caused the collapse in the eastern city of Lahore on Tuesday.",
           "content": "Police are investigating whether negligence during construction work caused the collapse in the eastern city of Lahore on Tuesday.(Image credit: K.M. Chaudary)",
-          "feed_position": 3
+          "feed_position": 5
         },
         {
           "source": "Guardian World",
@@ -244,242 +321,263 @@
           "feed_position": 30
         },
         {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cr7x38lle1jo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 30 Jun 2026 19:36:48 GMT",
-          "title": "Roof collapse kills 14 children at Pakistan tuition centre",
-          "standfirst": "Two people are taken into custody after the incident in the Kahna suburb of Lahore.",
-          "content": "Two people are taken into custody after the incident in the Kahna suburb of Lahore.",
-          "feed_position": 22,
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b45/live/03a1b7d0-74a2-11f1-b1a9-bd204fe03b95.jpg"
-        },
-        {
           "source": "Sky News World",
           "url": "https://news.sky.com/story/at-least-14-children-killed-after-roof-collapse-of-tutoring-centre-in-pakistan-13559302",
           "published_at": "Tue, 30 Jun 2026 17:04:00 +0100",
           "title": "At least 14 children killed after roof collapse of tutoring centre",
           "standfirst": "At least 14 children have been killed after the roof of an under-construction tutoring centre collapsed in Pakistan.",
           "content": "At least 14 children have been killed after the roof of an under-construction tutoring centre collapsed in Pakistan.",
-          "feed_position": 7,
+          "feed_position": 8,
           "image_url": "https://e3.365dm.com/26/06/1920x1080/skynews-pakistan-school-collapse_7286780.jpg?20260630173613"
         }
       ],
-      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b45/live/03a1b7d0-74a2-11f1-b1a9-bd204fe03b95.jpg",
-      "popularity_score": 4010.9166666666665
-    },
-    {
-      "id": "cluster_5",
-      "coverage": 3,
-      "updated_at": "Wed, 01 Jul 2026 19:44:25 -0400",
-      "title": "Details emerge of Taylor Swift-Travis Kelce wedding events at MSG",
-      "neutral_headline": "Details emerge of Taylor Swift-Travis Kelce wedding events at MSG",
-      "bullet_summary": [
-        "Reported by CBS News, BBC World, France24"
-      ],
-      "items": [
-        {
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/taylor-swift-travis-kelce-wedding-madison-square-garden-rehearsal-dinner/",
-          "published_at": "Wed, 01 Jul 2026 19:44:25 -0400",
-          "title": "Details emerge of Taylor Swift-Travis Kelce wedding events at MSG",
-          "standfirst": "Taylor Swift and Travis Kelce&#039;s wedding plans include a rehearsal dinner and a late-night celebration at Madison Square Garden in New York City, according to sources familiar with the security planning.",
-          "content": "Taylor Swift and Travis Kelce&#039;s wedding plans include a rehearsal dinner and a late-night celebration at Madison Square Garden in New York City, according to sources familiar with the security planning.",
-          "feed_position": 5
-        },
-        {
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/more-trucks-unload-outside-madison-square-garden-ahead-speculated-swift-kelce-wedding/",
-          "published_at": "Wed, 01 Jul 2026 19:42:06 -0400",
-          "title": "More trucks unload outside of Madison Square Garden ahead of speculated Swift-Kelce wedding",
-          "standfirst": "Fan fever is rising over the Taylor Swift-Travis Kelce wedding as forklifts, bins and boxes arrive outside of Madison Square Garden in New York City. Jo Ling Kent has more details.",
-          "content": "Fan fever is rising over the Taylor Swift-Travis Kelce wedding as forklifts, bins and boxes arrive outside of Madison Square Garden in New York City. Jo Ling Kent has more details.",
-          "feed_position": 8
-        },
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqj19p112qjo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 01 Jul 2026 23:08:20 GMT",
-          "title": "As Taylor Swift and Travis Kelce prepare to tie the knot, we look back at their relationship",
-          "standfirst": "Taylor Swift and Travis Kelce are expected to celebrate their wedding with a party at New York's Madison Square Garden this weekend.",
-          "content": "Taylor Swift and Travis Kelce are expected to celebrate their wedding with a party at New York's Madison Square Garden this weekend.",
-          "feed_position": 25,
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ba0/live/67d41d10-756f-11f1-8eb5-8b4f46f6e33b.png"
-        },
-        {
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/cbs-news-journalists-taylor-swift-travis-kelce-wedding-madison-square-garden/",
-          "published_at": "Wed, 01 Jul 2026 18:34:08 -0400",
-          "title": "CBS News journalists unpack rumored Taylor Swift-Travis Kelce wedding at Madison Square Garden",
-          "standfirst": "Rumors are swirling about Taylor Swift and Travis Kelce tying the knot at Madison Square Garden. CBS News&#039; Olivia Rinaldi and Gabrielle Ake, self-described Swifties, join \"The Takeout\" with the latest.",
-          "content": "Rumors are swirling about Taylor Swift and Travis Kelce tying the knot at Madison Square Garden. CBS News&#039; Olivia Rinaldi and Gabrielle Ake, self-described Swifties, join \"The Takeout\" with the latest.",
-          "feed_position": 24
-        },
-        {
-          "source": "France24",
-          "url": "https://www.france24.com/en/americas/20260701-taylor-swift-and-travis-kelce-to-celebrate-wedding-friday-at-madison-square-garden",
-          "published_at": "Wed, 01 Jul 2026 20:40:59 GMT",
-          "title": "Taylor Swift and Travis Kelce to celebrate wedding Friday at Madison Square Garden",
-          "standfirst": "Pop star Taylor Swift and NFL star Travis Kelce are set to marry this week in New York, with celebrations expected at Madison Square Garden, according to US media reports. The closely guarded festivities are due to begin on Thursday with an exclusive dinner attended by about 100 invited guests.",
-          "content": "Pop star Taylor Swift and NFL star Travis Kelce are set to marry this week in New York, with celebrations expected at Madison Square Garden, according to US media reports. The closely guarded festivities are due to begin on Thursday with an exclusive dinner attended by about 100 invited guests.",
-          "feed_position": 6,
-          "image_url": "https://s.france24.com/media/display/65928dd0-758c-11f1-91c5-005056a90284/w:1024/p:16x9/2026-07-01T082839Z-1800582277-RC2S06APC5BF-RTRMADP-3-PEOPLE-TAYLOR-SWIFT-KELCE.jpg"
-        }
-      ],
-      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ba0/live/67d41d10-756f-11f1-8eb5-8b4f46f6e33b.png",
-      "popularity_score": 3019.7069444444446
+      "featured_image": "https://e3.365dm.com/26/06/1920x1080/skynews-pakistan-school-collapse_7286780.jpg?20260630173613",
+      "popularity_score": 3004.3907925
     },
     {
       "id": "cluster_3",
       "coverage": 2,
-      "updated_at": "Wed, 01 Jul 2026 19:45:03 -0400",
-      "title": "Trump made over $1 billion on crypto ventures last year, disclosure shows",
-      "neutral_headline": "Trump made over $1 billion on crypto ventures last year, disclosure shows",
+      "updated_at": "Thu, 02 Jul 2026 02:15:17 -0400",
+      "title": "Trump lauds \"very good meetings\" as indirect U.S.-Iran talks resume",
+      "neutral_headline": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
       "bullet_summary": [
-        "Disclosure forms released Tuesday revealed he made more than a billion dollars in cryptocurrency ventures last year",
-        "Reported by CBS News, Guardian Business"
+        "Reported by CBS News, BBC World"
       ],
       "items": [
         {
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/trump-over-1-billion-on-crypto-ventures-financial-disclosures/",
-          "published_at": "Wed, 01 Jul 2026 19:45:03 -0400",
-          "title": "Trump made over $1 billion on crypto ventures last year, disclosure shows",
-          "standfirst": "President Trump earned more than a billion dollars from crypto-related ventures alone last year, according to a financial disclosure, including from his meme coin business and his family&#039;s cryptocurrency firm.",
-          "content": "President Trump earned more than a billion dollars from crypto-related ventures alone last year, according to a financial disclosure, including from his meme coin business and his family&#039;s cryptocurrency firm.",
-          "feed_position": 3
+          "url": "https://www.cbsnews.com/live-updates/us-iran-war-vance-talks-resuming-core-mission-war-achieved/",
+          "published_at": "Thu, 02 Jul 2026 02:15:17 -0400",
+          "title": "Trump lauds \"very good meetings\" as indirect U.S.-Iran talks resume",
+          "standfirst": "Vance says the U.S. has accomplished its \"core mission\" in Iran, as Steve Witkoff and Jared Kushner meet mediators in Qatar, but not Iranians.",
+          "content": "Vance says the U.S. has accomplished its \"core mission\" in Iran, as Steve Witkoff and Jared Kushner meet mediators in Qatar, but not Iranians.",
+          "feed_position": 0
         },
         {
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/trump-claims-isnt-involved-personal-finances-crypto-disclosure/",
-          "published_at": "Wed, 01 Jul 2026 18:34:00 -0400",
-          "title": "Trump claims he isn&#039;t involved in his personal finances after crypto disclosure",
-          "standfirst": "President Trump claimed Wednesday he is not involved in his personal financial dealings. Disclosure forms released Tuesday revealed he made more than a billion dollars in cryptocurrency ventures last year. CBS News senior White House correspondent Weijia Jiang reports.",
-          "content": "President Trump claimed Wednesday he is not involved in his personal financial dealings. Disclosure forms released Tuesday revealed he made more than a billion dollars in cryptocurrency ventures last year. CBS News senior White House correspondent Weijia Jiang reports.",
-          "feed_position": 25
-        },
-        {
-          "source": "Guardian Business",
-          "url": "https://www.theguardian.com/us-news/2026/jul/01/crypto-ventures-stock-key-takeaways-trump-financial-disclosures",
-          "published_at": "Wed, 01 Jul 2026 13:30:20 GMT",
-          "title": "Crypto and stock stakes: key takeaways from Trump’s financial disclosures",
-          "standfirst": "US president raked in more than $1bn from crypto – an industry he has sought to deregulate – and a total of $2.2bn last year, files revealAlarm bells over conflict of interest as filing shows Trump raked in $2bn in 2025Donald Trump’s money-making ventures enriched him by more than $2bn last year, according to newly released financial disclosures.The revenue was supercharged by the Trump family’s crypto projects, with the documents showing the US president made more than $1bn (£0.76bn) from crypto – an industry he has sought to deregulate. Continue reading...",
-          "content": "US president raked in more than $1bn from crypto – an industry he has sought to deregulate – and a total of $2.2bn last year, files revealAlarm bells over conflict of interest as filing shows Trump raked in $2bn in 2025Donald Trump’s money-making ventures enriched him by more than $2bn last year, according to newly released financial disclosures.The revenue was supercharged by the Trump family’s crypto projects, with the documents showing the US president made more than $1bn (£0.76bn) from crypto – an industry he has sought to deregulate. Continue reading...",
-          "feed_position": 1
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&at_campaign=rss",
+          "published_at": "Tue, 30 Jun 2026 23:41:11 GMT",
+          "title": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
+          "standfirst": "Qatar's foreign ministry spokesman says no high-level meetings or direct talks between the US and Iran are scheduled.",
+          "content": "Qatar's foreign ministry spokesman says no high-level meetings or direct talks between the US and Iran are scheduled.",
+          "feed_position": 26,
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c7c/live/6bbbc950-7484-11f1-8e1d-bbbb1017d210.jpg"
         }
       ],
-      "popularity_score": 2019.7175
+      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c7c/live/6bbbc950-7484-11f1-8e1d-bbbb1017d210.jpg",
+      "popularity_score": 2019.6955147222222
     },
     {
-      "id": "cluster_6",
+      "id": "cluster_12",
       "coverage": 2,
-      "updated_at": "Wed, 01 Jul 2026 19:44:09 -0400",
-      "title": "Trump takes first trip on Qatari-gifted Air Force One",
-      "neutral_headline": "Trump takes first trip on Qatari-gifted Air Force One",
+      "updated_at": "Thu, 02 Jul 2026 05:36:59 GMT",
+      "title": "World Cup 2026: England struggled against DR Congo, Belgium beat Senegal",
+      "neutral_headline": "World Cup 2026: England struggled against DR Congo, Belgium beat Senegal",
       "bullet_summary": [
-        "Reported by CBS News, France24"
+        "Reported by France24, BBC Top Stories"
       ],
       "items": [
-        {
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/trump-air-force-one-new-plane-qatar/",
-          "published_at": "Wed, 01 Jul 2026 19:44:09 -0400",
-          "title": "Trump takes first trip on Qatari-gifted Air Force One",
-          "standfirst": "President Trump is traveling Wednesday to North Dakota in what marks his first trip aboard the new Air Force One, which was gifted to the U.S. by the Qatari government last year.",
-          "content": "President Trump is traveling Wednesday to North Dakota in what marks his first trip aboard the new Air Force One, which was gifted to the U.S. by the Qatari government last year.",
-          "feed_position": 6
-        },
-        {
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/trump-takes-first-ride-aboard-luxury-new-air-force-one-gifted-qataris/",
-          "published_at": "Wed, 01 Jul 2026 19:32:40 -0400",
-          "title": "Trump takes his first ride aboard a luxury new Air Force One gifted by Qataris",
-          "standfirst": "President Trump responded to new ethics questions on two fronts - the use of a luxury Boeing Jet, gifted by the Qatari government as a temporary Air Force One, and his newly disclosed billion-dollar crypto fortune. Nancy Cordes has more.",
-          "content": "President Trump responded to new ethics questions on two fronts - the use of a luxury Boeing Jet, gifted by the Qatari government as a temporary Air Force One, and his newly disclosed billion-dollar crypto fortune. Nancy Cordes has more.",
-          "feed_position": 10
-        },
         {
           "source": "France24",
-          "url": "https://www.france24.com/en/everybody-s-profiting-trump-defends-1-4-bn-crypto-earnings",
-          "published_at": "Wed, 01 Jul 2026 18:47:07 GMT",
-          "title": "'Everybody's profiting': Trump defends $1.4 bn crypto earnings",
-          "standfirst": "US President Donald Trump on Wednesday defended earning $1.4 billion from his family's cryptocurrency activities last year, saying \"everybody's profiting\" from his time in power. Taking his maiden flight aboard a new Air Force One plane gifted by Qatar, Trump rejected criticisms that he was using his presidency to enrich himself. \"You know why I'm profiting, because the stock market's going up, everybody's profiting,\" Trump told reporters.",
-          "content": "US President Donald Trump on Wednesday defended earning $1.4 billion from his family's cryptocurrency activities last year, saying \"everybody's profiting\" from his time in power. Taking his maiden flight aboard a new Air Force One plane gifted by Qatar, Trump rejected criticisms that he was using his presidency to enrich himself. \"You know why I'm profiting, because the stock market's going up, everybody's profiting,\" Trump told reporters.",
-          "feed_position": 14,
-          "image_url": "https://s.france24.com/media/display/93883380-757c-11f1-908b-005056a90284/w:1024/p:16x9/EN-20260701-201149-201413-CS.jpg"
-        }
-      ],
-      "featured_image": "https://s.france24.com/media/display/93883380-757c-11f1-908b-005056a90284/w:1024/p:16x9/EN-20260701-201149-201413-CS.jpg",
-      "popularity_score": 2019.7025
-    },
-    {
-      "id": "cluster_29",
-      "coverage": 2,
-      "updated_at": "Wed, 01 Jul 2026 18:52:00 -0400",
-      "title": "What democratic socialist wins mean for Democratic Party&#039;s future",
-      "neutral_headline": "What democratic socialist wins mean for Democratic Party&#039;s future",
-      "bullet_summary": [
-        "Reported by CBS News, Politico"
-      ],
-      "items": [
-        {
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/what-democratic-socialist-wins-mean-future-democratic-party/",
-          "published_at": "Wed, 01 Jul 2026 18:52:00 -0400",
-          "title": "What democratic socialist wins mean for Democratic Party&#039;s future",
-          "standfirst": "Democratic socialists celebrated yet another primary victory in Colorado on Wednesday. Newcomer Melat Kiros ended Congresswoman Diana DeGette&#039;s 30-year hold on the state&#039;s first congressional district. CBS News&#039; Anthony Salvanto breaks it down.",
-          "content": "Democratic socialists celebrated yet another primary victory in Colorado on Wednesday. Newcomer Melat Kiros ended Congresswoman Diana DeGette&#039;s 30-year hold on the state&#039;s first congressional district. CBS News&#039; Anthony Salvanto breaks it down.",
-          "feed_position": 22
-        },
-        {
-          "source": "Politico",
-          "url": "https://www.politico.com/news/2026/07/01/kiros-wins-colorado-house-primary-00983237",
-          "published_at": "Tue, 30 Jun 2026 23:04:45 EST",
-          "title": "Democratic socialist Melat Kiros topples a nearly 30-year incumbent to win Colorado House primary",
-          "standfirst": "The 29-year-old DSA-backed challenger ousted Rep. Diana DeGette, one of Colorado’s longest-serving Democrats, in the primary for the 1st District.",
-          "content": "Democratic socialist Melat Kiros defeated 15-term Colorado Rep. Diana DeGette on Tuesday, delivering one of the biggest shocks of the Democratic primary season amid a growing streak of wins for the insurgent left. Kiros’ win in the contest for Colorado’s 1st District topples a 68-year-old representative who had held the seat since before her 29-year-old challenger was born. It's a victory that echoes Rep. Alexandria Ocasio-Cortez's (D-N.Y.) stunning 2018 upset over 10-term incumbent Joe Crowley in New York, and delivers democratic socialists fresh momentum. DeGette's loss, after representing the district since 1997, seemed unthinkable in the state just months ago, but Kiros rode the same anti-incumbent wave that swept through New York's Democratic primaries last week, where Reps. Adriano Espaillat and Dan Goldman were ousted in a dramatic show of the left's growing strength. The defeat is a stunning one for the Democratic establishment, though warning signs had been building for months inside DeGette's campaign, with allies privately acknowledging the race was tightening and the representative’s team spending weeks urging national Democrats and allied groups to come to her aid.Kiros launched her campaign nearly a year ago, framing it from the outset as a generational reckoning with the Democratic establishment. She cast DeGette, a longtime progressive who served as an impeachment manager against President Donald Trump, as a corporate-backed incumbent who was out of step with her constituents, and called for a new era of progressive leadership in Congress. Kiros’ campaign drew major outside support from progressive leaders, including endorsements from Sen. Bernie Sanders and the Working Families Party, as well as backing from the candidates who upended New York's Democratic delegation last week. Her win marks the seventh primary victory this cycle for Justice Democrats, the progressive group that recruited and backed her, making 2026 the organization's most successful primary year to date. \"We are so proud to be sending Colorado's first Justice Democrat to Congress,\" said Alexandra Rojas, executive director of Justice Democrats. \"Melat built a movement that inspired Denverites to remember they themselves have the power to transform what kind of Democratic Party they want to be represented by. Melat and our candidates continue winning this cycle because Democratic voters are finally getting leaders acting on their demands.\" Down the final stretch of the campaign, DeGette’s allies scrambled to hold off Kiros’ rise, with outside groups pouring roughly $2.3 million into the race over the final month, including $1.3 million in the race's final days. DeGette's side held a nearly three-to-one spending advantage down the stretch. DeGette also secured last-minute endorsement videos from Rep. Pramila Jayapal (D-Wash.), a former chair of the Congressional Progressive Caucus, and progressive Rep. Jamie Raskin (D-Md.), who like DeGette was a manager of Trump’s impeachments. Still, that wasn’t enough to help her keep her seat. The new class of hard-left members of Congress could prove a tough group to wrangle for House Minority Leader Hakeem Jeffries (D-N.Y.), particularly if Democrats win a narrow majority in the House this fall. “If the day comes to vote and he continues taking corporate PAC money, I won’t be voting for him,” Kiros said in an interview prior to Tuesday’s win.",
-          "feed_position": 22,
-          "image_url": "https://static.politico.com/cc/1b/16556881475b89cc20c6d0897649/ap26176647230397.jpg"
-        }
-      ],
-      "featured_image": "https://static.politico.com/cc/1b/16556881475b89cc20c6d0897649/ap26176647230397.jpg",
-      "popularity_score": 2018.8333333333333
-    },
-    {
-      "id": "cluster_44",
-      "coverage": 2,
-      "updated_at": "Wed, 01 Jul 2026 22:04:31 GMT",
-      "title": "Teenager seriously injured in shooting near Birmingham mosque",
-      "neutral_headline": "Teenager seriously injured in shooting near Birmingham mosque",
-      "bullet_summary": [
-        "The boy was taken to hospital to be treated for \"potentially life-threatening\" gunshot injuries, police said in a statement",
-        "Reported by Guardian World, BBC Top Stories"
-      ],
-      "items": [
-        {
-          "source": "Guardian World",
-          "url": "https://www.theguardian.com/uk-news/2026/jul/01/teenager-injured-shooting-birmingham-mosque",
-          "published_at": "Wed, 01 Jul 2026 22:04:31 GMT",
-          "title": "Teenager seriously injured in shooting near Birmingham mosque",
-          "standfirst": "Boy, 16, in hospital with gunshot wounds after incident in Alum Rock areaA teenage boy sustained “potentially life-threatening” gunshot wounds in a shooting near a mosque in Birmingham, police have said.Officers were called to reports of an incident on Bowyer Road, near St Saviours Road in the Alum Rock area, shortly before 5.30pm on Wednesday. Continue reading...",
-          "content": "Boy, 16, in hospital with gunshot wounds after incident in Alum Rock areaA teenage boy sustained “potentially life-threatening” gunshot wounds in a shooting near a mosque in Birmingham, police have said.Officers were called to reports of an incident on Bowyer Road, near St Saviours Road in the Alum Rock area, shortly before 5.30pm on Wednesday. Continue reading...",
-          "feed_position": 39
+          "url": "https://www.france24.com/en/tv-shows/sports/20260702-world-cup-2026-england-struggled-against-dr-congo-belgium-beat-senegal",
+          "published_at": "Thu, 02 Jul 2026 05:36:59 GMT",
+          "title": "World Cup 2026: England struggled against DR Congo, Belgium beat Senegal",
+          "standfirst": "Harry Kane rescued England campaign by scoring a brace to beat RD Congo (2-1). Belgium came from behind to overcome Senegal (3-2).",
+          "content": "Harry Kane rescued England campaign by scoring a brace to beat RD Congo (2-1). Belgium came from behind to overcome Senegal (3-2).",
+          "feed_position": 1,
+          "image_url": "https://s.france24.com/media/display/94de7624-75bb-11f1-ac54-005056bfb2b6/w:1024/p:16x9/ANGLETERRE-1.jpg"
         },
         {
           "source": "BBC Top Stories",
-          "url": "https://www.bbc.co.uk/news/articles/ce37g3p4dlqo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 01 Jul 2026 22:00:07 GMT",
-          "title": "Teenage boy injured after shooting in Birmingham",
-          "standfirst": "The boy was taken to hospital to be treated for \"potentially life-threatening\" gunshot injuries, police said in a statement.",
-          "content": "The boy was taken to hospital to be treated for \"potentially life-threatening\" gunshot injuries, police said in a statement.",
-          "feed_position": 6,
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a321/live/2ad63110-75a5-11f1-8672-df1a6610885c.jpg"
+          "url": "https://www.bbc.co.uk/news/articles/c621d2k3wxqo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 02 Jul 2026 04:24:57 GMT",
+          "title": "'Kane to the rescue' and 'defence black hole triples'",
+          "standfirst": "England Captain Harry Kane's World Cup goals against DR Congo dominate Thursday's front pages.",
+          "content": "England Captain Harry Kane's World Cup goals against DR Congo dominate Thursday's front pages.",
+          "feed_position": 21,
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/927c/live/b7607d80-759f-11f1-a627-714adb4eed6e.png"
+        },
+        {
+          "source": "BBC Top Stories",
+          "url": "https://www.bbc.co.uk/news/videos/cy4ewx4832jo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 01 Jul 2026 18:49:33 GMT",
+          "title": "Watch: Fans react to tense World Cup game",
+          "standfirst": "England Captain Harry Kane rescued England from a major upset, with two late goals, after DR Congo took an early lead.",
+          "content": "England Captain Harry Kane rescued England from a major upset, with two late goals, after DR Congo took an early lead.",
+          "feed_position": 13,
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/471b/live/ea7c7c10-757b-11f1-9510-1546718f668b.jpg"
         }
       ],
-      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a321/live/2ad63110-75a5-11f1-8672-df1a6610885c.jpg",
-      "popularity_score": 2018.0419444444444
+      "featured_image": "https://s.france24.com/media/display/94de7624-75bb-11f1-ac54-005056bfb2b6/w:1024/p:16x9/ANGLETERRE-1.jpg",
+      "popularity_score": 2019.057181388889
     },
     {
-      "id": "cluster_78",
+      "id": "cluster_16",
+      "coverage": 2,
+      "updated_at": "Thu, 02 Jul 2026 05:08:30 GMT",
+      "title": "Watch: People smuggler tracked down and confronted by BBC",
+      "neutral_headline": "People smuggler convicted in France found by BBC living in UK and seeking asylum",
+      "bullet_summary": [
+        "Reported by BBC Top Stories, BBC World"
+      ],
+      "items": [
+        {
+          "source": "BBC Top Stories",
+          "url": "https://www.bbc.co.uk/news/videos/cnv9648nd5vo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 02 Jul 2026 05:08:30 GMT",
+          "title": "Watch: People smuggler tracked down and confronted by BBC",
+          "standfirst": "A convicted people smuggler is living in Leicestershire and seeking asylum while working illegally, the BBC can reveal.",
+          "content": "A convicted people smuggler is living in Leicestershire and seeking asylum while working illegally, the BBC can reveal.",
+          "feed_position": 1,
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7979/live/bd9bb8d0-7587-11f1-92e5-efd489c4d444.jpg"
+        },
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&at_campaign=rss",
+          "published_at": "Thu, 02 Jul 2026 05:00:03 GMT",
+          "title": "People smuggler convicted in France found by BBC living in UK and seeking asylum",
+          "standfirst": "Once described as \"the godfather\" of French migrant camps, he has been working in a Leicestershire village.",
+          "content": "Once described as \"the godfather\" of French migrant camps, he has been working in a Leicestershire village.",
+          "feed_position": 1,
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c00/live/0635e400-73a1-11f1-b1db-af71d47507d6.jpg"
+        }
+      ],
+      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7979/live/bd9bb8d0-7587-11f1-92e5-efd489c4d444.jpg",
+      "popularity_score": 2018.5824591666667
+    },
+    {
+      "id": "cluster_42",
+      "coverage": 2,
+      "updated_at": "Thu, 02 Jul 2026 03:47:49 GMT",
+      "title": "Middle East live: Iran says to use frozen funds in Qatar to buy 'required goods'",
+      "neutral_headline": "Iran to open ‘communication channel’ on MoU with US after talks in Qatar",
+      "bullet_summary": [
+        "Iranian Deputy Foreign Minister Kazem Gharibabadi said Wednesday that Tehran would use some of its frozen assets in Qatar to purchase goods needed by the country following talks in Doha",
+        "Reported by France24, Al Jazeera"
+      ],
+      "items": [
+        {
+          "source": "France24",
+          "url": "https://www.france24.com/en/middle-east/20260702-middle-east-live-iran-says-to-use-frozen-funds-in-qatar-to-buy-required-goods",
+          "published_at": "Thu, 02 Jul 2026 03:47:49 GMT",
+          "title": "Middle East live: Iran says to use frozen funds in Qatar to buy 'required goods'",
+          "standfirst": "Iranian Deputy Foreign Minister Kazem Gharibabadi said Wednesday that Tehran would use some of its frozen assets in Qatar to purchase goods needed by the country following talks in Doha. Under the memorandum of understanding that halted the war between Iran and the US, Washington agreed to make available Iran's frozen or restricted assets as part of the agreement's implementation. Follow our liveblog for the latest updates.",
+          "content": "Iranian Deputy Foreign Minister Kazem Gharibabadi said Wednesday that Tehran would use some of its frozen assets in Qatar to purchase goods needed by the country following talks in Doha. Under the memorandum of understanding that halted the war between Iran and the US, Washington agreed to make available Iran's frozen or restricted assets as part of the agreement's implementation. Follow our liveblog for the latest updates.",
+          "feed_position": 2,
+          "image_url": "https://s.france24.com/media/display/70a32612-3865-11f1-b01b-005056bf30b7/w:1024/p:16x9/8023416733001.jpg"
+        },
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/1/iran-to-open-communication-channel-on-mou-with-us-after-talks-in-qatar?traffic_source=rss",
+          "published_at": "Wed, 01 Jul 2026 20:55:04 +0000",
+          "title": "Iran to open ‘communication channel’ on MoU with US after talks in Qatar",
+          "standfirst": "Iran&#039;s Deputy Foreign Minister Gharibabadi says part of $6bn in frozen assets would be used to buy goods Tehran needs.",
+          "content": "Iran&#039;s Deputy Foreign Minister Gharibabadi says part of $6bn in frozen assets would be used to buy goods Tehran needs.",
+          "feed_position": 23
+        }
+      ],
+      "featured_image": "https://s.france24.com/media/display/70a32612-3865-11f1-b01b-005056bf30b7/w:1024/p:16x9/8023416733001.jpg",
+      "popularity_score": 2017.2377369444444
+    },
+    {
+      "id": "cluster_43",
+      "coverage": 2,
+      "updated_at": "Wed, 01 Jul 2026 23:43:44 -0400",
+      "title": "U.S. takes down Bosnia 2-0 for second-ever World Cup knockout round win",
+      "neutral_headline": "USA beat Bosnia 2-0 despite Balogun red card, enter World Cup last 16",
+      "bullet_summary": [
+        "Reported by CBS News, Al Jazeera"
+      ],
+      "items": [
+        {
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/world-cup-us-bosnia-herzegovina-round-of-32/",
+          "published_at": "Wed, 01 Jul 2026 23:43:44 -0400",
+          "title": "U.S. takes down Bosnia 2-0 for second-ever World Cup knockout round win",
+          "standfirst": "Folarin Balogun got the scoring going with a goal in the 45th minute, but was sent off with a controversial red card in the 64th minute.",
+          "content": "Folarin Balogun got the scoring going with a goal in the 45th minute, but was sent off with a controversial red card in the 64th minute.",
+          "feed_position": 3
+        },
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/7/2/usa-beat-bosnia-2-0-despite-balogun-red-card-enter-world-cup-last-16?traffic_source=rss",
+          "published_at": "Thu, 02 Jul 2026 02:52:03 +0000",
+          "title": "USA beat Bosnia 2-0 despite Balogun red card, enter World Cup last 16",
+          "standfirst": "Balogun scored USA&#039;s first goal and was sent off for a foul, but the home team scored another to advance to next round.",
+          "content": "Balogun scored USA&#039;s first goal and was sent off for a foul, but the home team scored another to advance to next round.",
+          "feed_position": 10
+        }
+      ],
+      "popularity_score": 2017.1696813888889
+    },
+    {
+      "id": "cluster_55",
+      "coverage": 2,
+      "updated_at": "Wed, 01 Jul 2026 22:37:18 -0400",
+      "title": "FBI investigating legitimacy of Nancy Guthrie ransom notes",
+      "neutral_headline": "FBI investigating legitimacy of Nancy Guthrie ransom notes",
+      "bullet_summary": [
+        "The update comes a day after Reuters reported that kidnapping notes received in Guthrie’s case were fake",
+        "Reported by CBS News, Guardian World"
+      ],
+      "items": [
+        {
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/fbi-nancy-guthrie-ransom-notes-legitimacy/",
+          "published_at": "Wed, 01 Jul 2026 22:37:18 -0400",
+          "title": "FBI investigating legitimacy of Nancy Guthrie ransom notes",
+          "standfirst": "The FBI said in a statement Wednesday that some ransom notes in Nancy Guthrie&#039;s disappearance have been \"deemed to be extortion attempts without legitimacy,\" and other \"demands may potentially be legitimate and are still being investigated as such.\"",
+          "content": "The FBI said in a statement Wednesday that some ransom notes in Nancy Guthrie&#039;s disappearance have been \"deemed to be extortion attempts without legitimacy,\" and other \"demands may potentially be legitimate and are still being investigated as such.\"",
+          "feed_position": 7
+        },
+        {
+          "source": "Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/jul/01/nancy-guthrie-kidnapping-notes",
+          "published_at": "Thu, 02 Jul 2026 00:46:38 GMT",
+          "title": "Nancy Guthrie: FBI clarifies it is investigating some extortion demands as legitimate",
+          "standfirst": "Statement comes a day after report that three messages received in case were determined to be fakeThe FBI is investigating extortion demands related to Nancy Guthrie’s disappearance that “may potentially be legitimate”, the agency said on Wednesday.The update comes a day after Reuters reported that kidnapping notes received in Guthrie’s case were fake. Continue reading...",
+          "content": "Statement comes a day after report that three messages received in case were determined to be fakeThe FBI is investigating extortion demands related to Nancy Guthrie’s disappearance that “may potentially be legitimate”, the agency said on Wednesday.The update comes a day after Reuters reported that kidnapping notes received in Guthrie’s case were fake. Continue reading...",
+          "feed_position": 41
+        }
+      ],
+      "popularity_score": 2016.0624591666667
+    },
+    {
+      "id": "cluster_101",
+      "coverage": 2,
+      "updated_at": "Wed, 01 Jul 2026 22:29:15 GMT",
+      "title": "Lethal Weapon actor Danny Glover reveals Alzheimer's diagnosis",
+      "neutral_headline": "Lethal Weapon actor Danny Glover reveals Alzheimer's diagnosis",
+      "bullet_summary": [
+        "The four-time Emmy winner said his movements, speech and memories have slowed since receiving his diagnosis",
+        "Reported by BBC Top Stories, CBS News"
+      ],
+      "items": [
+        {
+          "source": "BBC Top Stories",
+          "url": "https://www.bbc.co.uk/news/articles/c9w2nwg4zd5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Wed, 01 Jul 2026 22:29:15 GMT",
+          "title": "Lethal Weapon actor Danny Glover reveals Alzheimer's diagnosis",
+          "standfirst": "The four-time Emmy winner said his movements, speech and memories have slowed since receiving his diagnosis.",
+          "content": "The four-time Emmy winner said his movements, speech and memories have slowed since receiving his diagnosis.",
+          "feed_position": 27,
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45cc/live/2881b460-7592-11f1-81b1-d5d688879af5.jpg"
+        },
+        {
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/danny-glover-alzheimers-diagnosis/",
+          "published_at": "Wed, 01 Jul 2026 10:52:00 -0400",
+          "title": "Actor Danny Glover reveals Alzheimer&#039;s diagnosis",
+          "standfirst": "Actor Danny Glover spoke about his Alzheimer&#039;s diagnosis in an interview with NBC&#039;s \"Today\" show, revealing that he has been living with the disease for several years.",
+          "content": "Actor Danny Glover spoke about his Alzheimer&#039;s diagnosis in an interview with NBC&#039;s \"Today\" show, revealing that he has been living with the disease for several years.",
+          "feed_position": 27
+        }
+      ],
+      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45cc/live/2881b460-7592-11f1-81b1-d5d688879af5.jpg",
+      "popularity_score": 2011.9282925
+    },
+    {
+      "id": "cluster_135",
       "coverage": 2,
       "updated_at": "Wed, 01 Jul 2026 20:28:08 GMT",
       "title": "Maltese businessman paid hitmen €150,000 to kill Daphne Caruana Galizia, jury hears",
@@ -495,7 +593,7 @@
           "title": "Maltese businessman paid hitmen €150,000 to kill Daphne Caruana Galizia, jury hears",
           "standfirst": "Yorgen Fenech, heir to property empire, on trial for alleged involvement in murder of journalist, which he deniesOne of Malta’s wealthiest businessmen plotted to kill the investigative journalist Daphne Caruana Galizia, paying €150,000 (£130,000) for three hitmen to carry out the murder, a jury has heard.Yorgen Fenech, the 44-year-old heir to a property empire that includes the Hilton Malta hotel and casino, is on trial for the 2017 murder. Continue reading...",
           "content": "Yorgen Fenech, heir to property empire, on trial for alleged involvement in murder of journalist, which he deniesOne of Malta’s wealthiest businessmen plotted to kill the investigative journalist Daphne Caruana Galizia, paying €150,000 (£130,000) for three hitmen to carry out the murder, a jury has heard.Yorgen Fenech, the 44-year-old heir to a property empire that includes the Hilton Malta hotel and casino, is on trial for the 2017 murder. Continue reading...",
-          "feed_position": 20
+          "feed_position": 22
         },
         {
           "source": "BBC World",
@@ -504,58 +602,15 @@
           "title": "Businessman goes on trial over murder of Maltese journalist",
           "standfirst": "Yorgen Fenech denies any involvement in the assassination of Daphne Caruana Galizia in 2017.",
           "content": "Yorgen Fenech denies any involvement in the assassination of Daphne Caruana Galizia in 2017.",
-          "feed_position": 11,
+          "feed_position": 16,
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f000/live/0f20f4f0-7569-11f1-a627-714adb4eed6e.jpg"
         }
       ],
       "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f000/live/0f20f4f0-7569-11f1-a627-714adb4eed6e.jpg",
-      "popularity_score": 2016.4355555555555
+      "popularity_score": 2009.9096813888889
     },
     {
-      "id": "cluster_108",
-      "coverage": 2,
-      "updated_at": "Wed, 01 Jul 2026 18:49:33 GMT",
-      "title": "Watch: Fans react to tense World Cup game",
-      "neutral_headline": "Kane double fires England to comeback win over DR Congo at World Cup 2026",
-      "bullet_summary": [
-        "Reported by BBC Top Stories, Al Jazeera"
-      ],
-      "items": [
-        {
-          "source": "BBC Top Stories",
-          "url": "https://www.bbc.co.uk/news/videos/cy4ewx4832jo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 01 Jul 2026 18:49:33 GMT",
-          "title": "Watch: Fans react to tense World Cup game",
-          "standfirst": "England Captain Harry Kane rescued England from a major upset, with two late goals, after DR Congo took an early lead.",
-          "content": "England Captain Harry Kane rescued England from a major upset, with two late goals, after DR Congo took an early lead.",
-          "feed_position": 14,
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/471b/live/ea7c7c10-757b-11f1-9510-1546718f668b.jpg"
-        },
-        {
-          "source": "BBC Top Stories",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cx2j83vg72go?at_medium=RSS&at_campaign=rss",
-          "published_at": "Wed, 01 Jul 2026 18:31:15 GMT",
-          "title": "Watch full highlights as England come from behind to beat DR Congo",
-          "standfirst": "Harry Kane scores twice as England come from behind to beat DR Congo in a tense World Cup encounter in Atlanta, and set up a last-16 meeting with Mexico.",
-          "content": "Harry Kane scores twice as England come from behind to beat DR Congo in a tense World Cup encounter in Atlanta, and set up a last-16 meeting with Mexico.",
-          "feed_position": 11,
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cb2/live/86fddff0-757e-11f1-9510-1546718f668b.jpg"
-        },
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/7/1/kane-double-fires-england-to-comeback-win-over-dr-congo-at-world-cup-2026?traffic_source=rss",
-          "published_at": "Wed, 01 Jul 2026 18:23:52 +0000",
-          "title": "Kane double fires England to comeback win over DR Congo at World Cup 2026",
-          "standfirst": "England survive huge scare against DR Congo to win 2-1 and set up last 16 clash with cohosts Mexico.",
-          "content": "England survive huge scare against DR Congo to win 2-1 and set up last 16 clash with cohosts Mexico.",
-          "feed_position": 16
-        }
-      ],
-      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/471b/live/ea7c7c10-757b-11f1-9510-1546718f668b.jpg",
-      "popularity_score": 2014.7925
-    },
-    {
-      "id": "cluster_113",
+      "id": "cluster_159",
       "coverage": 2,
       "updated_at": "Wed, 01 Jul 2026 18:27:55 GMT",
       "title": "Man guilty of attempting to murder three children in attack that triggered Dublin riot",
@@ -571,7 +626,7 @@
           "title": "Man guilty of attempting to murder three children in attack that triggered Dublin riot",
           "standfirst": "Jury also finds Riad Bouchaker guilty of assaulting two other children and a childcare worker in 2023 stabbingsA man has been found guilty of attempting to murder three children during a stabbing attack in Dublin in 2023, a crime that horrified Ireland and triggered a riot in the capital.A jury at the central criminal court on Wednesday also found Riad Bouchaker, 52, guilty of assault causing serious harm to a childcare worker, Leanne Flynn, and of assaulting two other children and a teenager. Continue reading...",
           "content": "Jury also finds Riad Bouchaker guilty of assaulting two other children and a childcare worker in 2023 stabbingsA man has been found guilty of attempting to murder three children during a stabbing attack in Dublin in 2023, a crime that horrified Ireland and triggered a riot in the capital.A jury at the central criminal court on Wednesday also found Riad Bouchaker, 52, guilty of assault causing serious harm to a childcare worker, Leanne Flynn, and of assaulting two other children and a teenager. Continue reading...",
-          "feed_position": 21
+          "feed_position": 23
         },
         {
           "source": "BBC World",
@@ -580,79 +635,15 @@
           "title": "Man guilty of attempted murder of three children in Dublin",
           "standfirst": "Riad Bouchaker denied attempting to murder three children and assaulting four other people on 23 November 2023.",
           "content": "Riad Bouchaker denied attempting to murder three children and assaulting four other people on 23 November 2023.",
-          "feed_position": 14,
+          "feed_position": 19,
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b16c/live/38fb1f30-756e-11f1-8eb5-8b4f46f6e33b.jpg"
         }
       ],
       "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b16c/live/38fb1f30-756e-11f1-8eb5-8b4f46f6e33b.jpg",
-      "popularity_score": 2014.4319444444445
+      "popularity_score": 2007.9060702777779
     },
     {
-      "id": "cluster_141",
-      "coverage": 2,
-      "updated_at": "Wed, 01 Jul 2026 17:02:22 GMT",
-      "title": "Meta to Build Cloud Business to Sell Excess AI Compute | Bloomberg Tech 7/01/2026",
-      "neutral_headline": "US Lifts Export Restrictions on Anthropic's Fable 5",
-      "bullet_summary": [
-        "Reported by Bloomberg Technology, Wired"
-      ],
-      "items": [
-        {
-          "source": "Bloomberg Technology",
-          "url": "https://www.bloomberg.com/news/videos/2026-07-01/bloomberg-tech-7-01-2026-video",
-          "published_at": "Wed, 01 Jul 2026 17:02:22 GMT",
-          "title": "Meta to Build Cloud Business to Sell Excess AI Compute | Bloomberg Tech 7/01/2026",
-          "standfirst": "Bloomberg’s Ed Ludlow breaks down Meta's plans to develop its own cloud infrastructure business aimed at selling access to AI computing power and models. Plus, the Trump administration lifts foreign access restrictions on Anthropic's Fable 5 AI model. And, Lime CEO Wayne Ting joins as the company gets ready to debut on the Nasdaq. (Source: Bloomberg)",
-          "content": "Bloomberg’s Ed Ludlow breaks down Meta's plans to develop its own cloud infrastructure business aimed at selling access to AI computing power and models. Plus, the Trump administration lifts foreign access restrictions on Anthropic's Fable 5 AI model. And, Lime CEO Wayne Ting joins as the company gets ready to debut on the Nasdaq. (Source: Bloomberg)",
-          "feed_position": 20,
-          "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ij3cxy25Mk.8/v3/1200x-1.jpg"
-        },
-        {
-          "source": "Bloomberg Technology",
-          "url": "https://www.bloomberg.com/news/videos/2026-07-01/us-lifts-export-restrictions-on-anthropic-s-fable-5-video-mr2azjde",
-          "published_at": "Wed, 01 Jul 2026 16:41:55 GMT",
-          "title": "US Lifts Export Restrictions on Anthropic's Fable 5",
-          "standfirst": "The Trump administration has lifted foreign access restrictions on Anthropic's Fable 5 AI model after the company addressed government safety concerns. Allie Mellen, principal analyst at Forrester, joins Ed Ludlow on \"Bloomberg Tech\" to discuss how Washington regulates frontier AI. (Source: Bloomberg)",
-          "content": "The Trump administration has lifted foreign access restrictions on Anthropic's Fable 5 AI model after the company addressed government safety concerns. Allie Mellen, principal analyst at Forrester, joins Ed Ludlow on \"Bloomberg Tech\" to discuss how Washington regulates frontier AI. (Source: Bloomberg)",
-          "feed_position": 25,
-          "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQfmyBGfIYYo/v3/1200x-1.jpg"
-        },
-        {
-          "source": "Wired",
-          "url": "https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/",
-          "published_at": "Wed, 01 Jul 2026 16:00:00 +0000",
-          "title": "Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces",
-          "standfirst": "The government has removed restrictions on Anthropic’s Fable 5 and Mythos 5 AI models—but there were strings attached.",
-          "content": "The government has removed restrictions on Anthropic’s Fable 5 and Mythos 5 AI models—but there were strings attached.",
-          "feed_position": 8,
-          "image_url": "https://media.wired.com/photos/6a443961a0cfe1ef1ae6c3aa/master/pass/politics_anthropic_trump.jpg"
-        },
-        {
-          "source": "Bloomberg Technology",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-01/us-limits-on-anthropic-s-mythos-keep-foreign-firms-in-limbo",
-          "published_at": "Wed, 01 Jul 2026 13:04:58 GMT",
-          "title": "US Limits on Anthropic’s Mythos Keep Foreign Firms in Limbo",
-          "standfirst": "Foreign governments, companies and financial institutions were left in limbo after the Trump administration continued to restrict access to Anthropic PBC’s Mythos 5 to a limited number of US organizations even after dropping export controls on the company’s latest artificial intelligence models.",
-          "content": "Foreign governments, companies and financial institutions were left in limbo after the Trump administration continued to restrict access to Anthropic PBC’s Mythos 5 to a limited number of US organizations even after dropping export controls on the company’s latest artificial intelligence models.",
-          "feed_position": 26,
-          "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYAMeMZA_kDk/v1/1200x-1.jpg"
-        },
-        {
-          "source": "Wired",
-          "url": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/",
-          "published_at": "Tue, 30 Jun 2026 23:23:04 +0000",
-          "title": "The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models",
-          "standfirst": "The White House is easing restrictions on Anthropic’s most advanced AI models weeks after ordering the company to suspend access for foreign nationals.",
-          "content": "The White House is easing restrictions on Anthropic’s most advanced AI models weeks after ordering the company to suspend access for foreign nationals.",
-          "feed_position": 32,
-          "image_url": "https://media.wired.com/photos/6a444e05c62f6b38179079b8/master/pass/White-House-LiftsExport-Controls-Anthropic-Business-AP-26168447800568.jpg"
-        }
-      ],
-      "featured_image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ij3cxy25Mk.8/v3/1200x-1.jpg",
-      "popularity_score": 2013.006111111111
-    },
-    {
-      "id": "cluster_144",
+      "id": "cluster_177",
       "coverage": 2,
       "updated_at": "Wed, 01 Jul 2026 16:59:08 GMT",
       "title": "Canada to ​join Eurovision song contest from 2027",
@@ -677,45 +668,12 @@
           "title": "Canada to make Eurovision Song Contest debut in 2027",
           "standfirst": "The country becomes the first new participant since Australia joined the contest in 2015.",
           "content": "The country becomes the first new participant since Australia joined the contest in 2015.",
-          "feed_position": 17,
+          "feed_position": 22,
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6a5/live/b206a750-7550-11f1-9510-1546718f668b.jpg"
         }
       ],
       "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6a5/live/b206a750-7550-11f1-9510-1546718f668b.jpg",
-      "popularity_score": 2012.9522222222222
-    },
-    {
-      "id": "cluster_211",
-      "coverage": 2,
-      "updated_at": "Wed, 01 Jul 2026 05:00:00 -0400",
-      "title": "Supreme Court deals some blows to Trump's agenda but leaves him with more expansive powers",
-      "neutral_headline": "US Supreme Court has dealt heavy defeats to Trump, while expanding his power",
-      "bullet_summary": [
-        "Reported by NPR News, BBC World"
-      ],
-      "items": [
-        {
-          "source": "NPR News",
-          "url": "https://www.npr.org/2026/07/01/nx-s1-5876231/supreme-court-deals-some-blows-to-trumps-agenda-but-leaves-him-with-more-expansive-powers",
-          "published_at": "Wed, 01 Jul 2026 05:00:00 -0400",
-          "title": "Supreme Court deals some blows to Trump's agenda but leaves him with more expansive powers",
-          "standfirst": "President Trump has trumpeted his victories and sought workarounds for his losses.",
-          "content": "President Trump has trumpeted his victories and sought workarounds for his losses.(Image credit: Alex Wong)",
-          "feed_position": 9
-        },
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c4gyqeqe8xyo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Tue, 30 Jun 2026 22:29:47 GMT",
-          "title": "US Supreme Court has dealt heavy defeats to Trump, while expanding his power",
-          "standfirst": "The birthright ruling brings to an end a Supreme Court term that has delivered the president some key victories.",
-          "content": "The birthright ruling brings to an end a Supreme Court term that has delivered the president some key victories.",
-          "feed_position": 30,
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df73/live/87eda780-7518-11f1-8e1d-bbbb1017d210.jpg"
-        }
-      ],
-      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df73/live/87eda780-7518-11f1-8e1d-bbbb1017d210.jpg",
-      "popularity_score": 2004.9666666666667
+      "popularity_score": 2006.4263480555555
     }
   ]
 }
