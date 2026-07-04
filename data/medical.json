@@ -1,17 +1,40 @@
 {
   "clinical": {
-    "updated_at": "2026-07-04T06:12:51.401Z",
+    "updated_at": "2026-07-04T09:15:33.990Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-07-04T06:12:51.401Z",
+    "updated_at": "2026-07-04T09:15:33.990Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-07-04T06:12:53.719Z",
+    "updated_at": "2026-07-04T09:15:35.677Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Sat, 04 Jul 2026 06:21:35 GMT",
+        "title": "Scientist dubbed The Bogfather is restoring peatland to fight climate change",
+        "neutral_headline": "Scientist dubbed The Bogfather is restoring peatland to fight climate change",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/news/articles/cy498d400pro?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sat, 04 Jul 2026 06:21:35 GMT",
+            "title": "Scientist dubbed The Bogfather is restoring peatland to fight climate change",
+            "standfirst": "A childhood fascination with bogs led one Welsh scientist to try and help save the planet.",
+            "content": "A childhood fascination with bogs led one Welsh scientist to try and help save the planet.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4529/live/06359680-6bf9-11f1-8e1d-bbbb1017d210.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4529/live/06359680-6bf9-11f1-8e1d-bbbb1017d210.jpg"
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Sat, 04 Jul 2026 05:06:44 GMT",
         "title": "Turbines turning from wind to sustainable products",
@@ -27,14 +50,14 @@
             "title": "Turbines turning from wind to sustainable products",
             "standfirst": "Thousands of tonnes of non-recyclable wind turbine blades are coming to the end of their lives.",
             "content": "Thousands of tonnes of non-recyclable wind turbine blades are coming to the end of their lives.",
-            "feed_position": 0,
+            "feed_position": 1,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0aaf/live/e782c920-76f1-11f1-b9cc-bd5880081b3f.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0aaf/live/e782c920-76f1-11f1-b9cc-bd5880081b3f.jpg"
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Sat, 04 Jul 2026 00:57:05 GMT",
         "title": "'Hotter and hotter and hotter' - Europe's new climate in seven charts",
@@ -50,14 +73,14 @@
             "title": "'Hotter and hotter and hotter' - Europe's new climate in seven charts",
             "standfirst": "Temperature records have tumbled across the UK and Europe as scientists warn it is a sign of things to come.",
             "content": "Temperature records have tumbled across the UK and Europe as scientists warn it is a sign of things to come.",
-            "feed_position": 1,
+            "feed_position": 2,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7eb/live/2c0dd520-7702-11f1-9510-1546718f668b.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7eb/live/2c0dd520-7702-11f1-9510-1546718f668b.jpg"
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Sat, 04 Jul 2026 00:23:47 GMT",
         "title": "UK temperatures forecast to exceed 30C as another heatwave imminent",
@@ -73,34 +96,11 @@
             "title": "UK temperatures forecast to exceed 30C as another heatwave imminent",
             "standfirst": "Another heatwave is on its way and set to last significantly longer as Stav Danaos explains.",
             "content": "Another heatwave is on its way and set to last significantly longer as Stav Danaos explains.",
-            "feed_position": 2,
+            "feed_position": 3,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56ca/live/27c54340-7734-11f1-9510-1546718f668b.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56ca/live/27c54340-7734-11f1-9510-1546718f668b.jpg"
-      },
-      {
-        "id": "cluster_3",
-        "coverage": 1,
-        "updated_at": "Fri, 03 Jul 2026 21:56:54 GMT",
-        "title": "Scientist dubbed The Bogfather is restoring peatland to fight climate change",
-        "neutral_headline": "Scientist dubbed The Bogfather is restoring peatland to fight climate change",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/news/articles/cy498d400pro?at_medium=RSS&at_campaign=rss",
-            "published_at": "Fri, 03 Jul 2026 21:56:54 GMT",
-            "title": "Scientist dubbed The Bogfather is restoring peatland to fight climate change",
-            "standfirst": "A childhood fascination with bogs led one Welsh scientist to try and help save the planet.",
-            "content": "A childhood fascination with bogs led one Welsh scientist to try and help save the planet.",
-            "feed_position": 3,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4529/live/06359680-6bf9-11f1-8e1d-bbbb1017d210.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4529/live/06359680-6bf9-11f1-8e1d-bbbb1017d210.jpg"
       },
       {
         "id": "cluster_4",
@@ -465,7 +465,7 @@
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-07-04T06:12:53.719Z",
+    "updated_at": "2026-07-04T09:15:35.677Z",
     "clusters": []
   }
 }
