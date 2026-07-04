@@ -1,17 +1,61 @@
 {
   "clinical": {
-    "updated_at": "2026-07-04T12:01:45.210Z",
+    "updated_at": "2026-07-04T20:04:43.869Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-07-04T12:01:45.210Z",
+    "updated_at": "2026-07-04T20:04:43.869Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-07-04T12:01:46.664Z",
+    "updated_at": "2026-07-04T20:04:48.274Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Sat, 04 Jul 2026 15:28:17 GMT",
+        "title": "New heatwave likely to peak at 34C with week-long health alert issued",
+        "neutral_headline": "New heatwave likely to peak at 34C with week-long health alert issued",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/weather/articles/c621j44jwe1o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sat, 04 Jul 2026 15:28:17 GMT",
+            "title": "New heatwave likely to peak at 34C with week-long health alert issued",
+            "standfirst": "Another heatwave is on its way and set to last significantly longer as Stav Danaos explains.",
+            "content": "Another heatwave is on its way and set to last significantly longer as Stav Danaos explains.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd7e/live/34b6d3b0-77bc-11f1-a627-714adb4eed6e.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd7e/live/34b6d3b0-77bc-11f1-a627-714adb4eed6e.jpg"
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Sat, 04 Jul 2026 14:40:42 GMT",
+        "title": "Week-long heatwave due in England with 34C peak in south-east",
+        "neutral_headline": "Week-long heatwave due in England with 34C peak in south-east",
+        "bullet_summary": [
+          "Reported by Guardian Health"
+        ],
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/uk-news/2026/jul/04/week-long-heatwave-due-in-england-with-34c-peak-in-south-east",
+            "published_at": "Sat, 04 Jul 2026 14:40:42 GMT",
+            "title": "Week-long heatwave due in England with 34C peak in south-east",
+            "standfirst": "Heat health alerts in place in most regions of England from Sunday to Saturday with mercury also rising in WalesAnother heatwave is on the way across parts of the UK with peak temperatures of 34C forecast.Temperatures in the south of England could reach 28C on Saturday, according to the Met Office. Continue reading...",
+            "content": "Heat health alerts in place in most regions of England from Sunday to Saturday with mercury also rising in WalesAnother heatwave is on the way across parts of the UK with peak temperatures of 34C forecast.Temperatures in the south of England could reach 28C on Saturday, according to the Met Office. Continue reading...",
+            "feed_position": 0
+          }
+        ]
+      },
+      {
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Sat, 04 Jul 2026 10:00:09 GMT",
         "title": "British Medical Association could axe up to a third of its staff amid cash crisis",
@@ -27,12 +71,12 @@
             "title": "British Medical Association could axe up to a third of its staff amid cash crisis",
             "standfirst": "Exclusive: Anger at union’s decision to put 200 of its 600 staff in England at risk of redundancyThe British Medical Association is threatening to axe up to a third of its entire workforce to help it tackle a significant cash crisis.The doctors’ union has placed 200 of its 600 staff in England at risk of redundancy. That has triggered anxiety and fury among staff, who have accused the BMA of appalling behaviour and “hypocrisy”. Continue reading...",
             "content": "Exclusive: Anger at union’s decision to put 200 of its 600 staff in England at risk of redundancyThe British Medical Association is threatening to axe up to a third of its entire workforce to help it tackle a significant cash crisis.The doctors’ union has placed 200 of its 600 staff in England at risk of redundancy. That has triggered anxiety and fury among staff, who have accused the BMA of appalling behaviour and “hypocrisy”. Continue reading...",
-            "feed_position": 0
+            "feed_position": 1
           }
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Sat, 04 Jul 2026 06:21:35 GMT",
         "title": "Scientist dubbed The Bogfather is restoring peatland to fight climate change",
@@ -48,14 +92,14 @@
             "title": "Scientist dubbed The Bogfather is restoring peatland to fight climate change",
             "standfirst": "A childhood fascination with bogs led one Welsh scientist to try and help save the planet.",
             "content": "A childhood fascination with bogs led one Welsh scientist to try and help save the planet.",
-            "feed_position": 0,
+            "feed_position": 1,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4529/live/06359680-6bf9-11f1-8e1d-bbbb1017d210.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4529/live/06359680-6bf9-11f1-8e1d-bbbb1017d210.jpg"
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Sat, 04 Jul 2026 05:06:44 GMT",
         "title": "Turbines turning from wind to sustainable products",
@@ -71,14 +115,14 @@
             "title": "Turbines turning from wind to sustainable products",
             "standfirst": "Thousands of tonnes of non-recyclable wind turbine blades are coming to the end of their lives.",
             "content": "Thousands of tonnes of non-recyclable wind turbine blades are coming to the end of their lives.",
-            "feed_position": 1,
+            "feed_position": 2,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0aaf/live/e782c920-76f1-11f1-b9cc-bd5880081b3f.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0aaf/live/e782c920-76f1-11f1-b9cc-bd5880081b3f.jpg"
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Sat, 04 Jul 2026 00:57:05 GMT",
         "title": "'Hotter and hotter and hotter' - Europe's new climate in seven charts",
@@ -94,37 +138,14 @@
             "title": "'Hotter and hotter and hotter' - Europe's new climate in seven charts",
             "standfirst": "Temperature records were smashed in June - and scientists warn this is a sign of things to come.",
             "content": "Temperature records were smashed in June - and scientists warn this is a sign of things to come.",
-            "feed_position": 2,
+            "feed_position": 3,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7eb/live/2c0dd520-7702-11f1-9510-1546718f668b.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7eb/live/2c0dd520-7702-11f1-9510-1546718f668b.jpg"
       },
       {
-        "id": "cluster_4",
-        "coverage": 1,
-        "updated_at": "Sat, 04 Jul 2026 00:23:47 GMT",
-        "title": "UK temperatures forecast to exceed 30C as another heatwave imminent",
-        "neutral_headline": "UK temperatures forecast to exceed 30C as another heatwave imminent",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/weather/articles/c621j44jwe1o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Sat, 04 Jul 2026 00:23:47 GMT",
-            "title": "UK temperatures forecast to exceed 30C as another heatwave imminent",
-            "standfirst": "Another heatwave is on its way and set to last significantly longer as Stav Danaos explains.",
-            "content": "Another heatwave is on its way and set to last significantly longer as Stav Danaos explains.",
-            "feed_position": 3,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56ca/live/27c54340-7734-11f1-9510-1546718f668b.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56ca/live/27c54340-7734-11f1-9510-1546718f668b.jpg"
-      },
-      {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Fri, 03 Jul 2026 21:31:05 GMT",
         "title": "How to walk 30 minutes a day - your tips",
@@ -147,7 +168,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60b5/live/bee49920-771f-11f1-a627-714adb4eed6e.jpg"
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Fri, 03 Jul 2026 17:10:24 GMT",
         "title": "Record-breaking temps in US as 4th July holiday begins",
@@ -170,7 +191,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9850/live/a4d96180-76f9-11f1-8b66-2595602b4548.jpg"
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Fri, 03 Jul 2026 16:54:02 GMT",
         "title": "Consider the parents caring for adult children not in work or education | Letter",
@@ -186,12 +207,12 @@
             "title": "Consider the parents caring for adult children not in work or education | Letter",
             "standfirst": "One reader was surprised by how many people responding to Annalisa Barbieri’s advice column equate successful parenting with independenceReading the comments below Annalisa Barbieri’s latest advice column online (I wish my son wanted to spend more time with me, 28 June), I was struck by how many people equated successful parenting with raising independent adult children.But life isn’t always that straightforward. There is a largely invisible generation of midlife parents still caring for adult children who remain Neets – not in employment, education or training. Many are living with neurodivergence, severe mental illness, post-Covid syndrome or chronic ill health. Continue reading...",
             "content": "One reader was surprised by how many people responding to Annalisa Barbieri’s advice column equate successful parenting with independenceReading the comments below Annalisa Barbieri’s latest advice column online (I wish my son wanted to spend more time with me, 28 June), I was struck by how many people equated successful parenting with raising independent adult children.But life isn’t always that straightforward. There is a largely invisible generation of midlife parents still caring for adult children who remain Neets – not in employment, education or training. Many are living with neurodivergence, severe mental illness, post-Covid syndrome or chronic ill health. Continue reading...",
-            "feed_position": 1
+            "feed_position": 2
           }
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Fri, 03 Jul 2026 16:52:43 GMT",
         "title": "Deaths in France surged 30% during hottest week of record June heatwave",
@@ -208,12 +229,12 @@
             "title": "Deaths in France surged 30% during hottest week of record June heatwave",
             "standfirst": "Public health authority says 2,025 excess deaths probably an underestimate and that it expects toll to rise furtherThe number of deaths recorded in France surged by nearly 30% during the hottest week of the record-breaking heatwave that scorched much of Europe last month, the public health authority has said, adding that it expected the toll to rise further.Public Health France said on Friday there had been “an increase of 29.1%, corresponding to 2,025 additional deaths compared with the previous week”. It said the figure was probably an underestimate and “mortality will rise further”. Continue reading...",
             "content": "Public health authority says 2,025 excess deaths probably an underestimate and that it expects toll to rise furtherThe number of deaths recorded in France surged by nearly 30% during the hottest week of the record-breaking heatwave that scorched much of Europe last month, the public health authority has said, adding that it expected the toll to rise further.Public Health France said on Friday there had been “an increase of 29.1%, corresponding to 2,025 additional deaths compared with the previous week”. It said the figure was probably an underestimate and “mortality will rise further”. Continue reading...",
-            "feed_position": 2
+            "feed_position": 3
           }
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Fri, 03 Jul 2026 16:44:33 GMT",
         "title": "Do you have heart palpitations?",
@@ -236,7 +257,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1bb/live/f4cb4e50-7628-11f1-b976-0b9c15b0ccfc.jpg"
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Fri, 03 Jul 2026 14:56:30 GMT",
         "title": "German row over plan for workers to need sick note on first day of illness",
@@ -259,7 +280,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/803c/live/25f634f0-76fa-11f1-b976-0b9c15b0ccfc.jpg"
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Fri, 03 Jul 2026 13:28:23 GMT",
         "title": "How to calm an overstimulated mind",
@@ -282,7 +303,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9ba/live/9e210cf0-76cf-11f1-b976-0b9c15b0ccfc.jpg"
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Fri, 03 Jul 2026 11:09:08 GMT",
         "title": "People awaiting hospital treatment to get three weeks’ notice under NHS England plans",
@@ -298,12 +319,12 @@
             "title": "People awaiting hospital treatment to get three weeks’ notice under NHS England plans",
             "standfirst": "Move inspired by customer service provided by online retailers such as John Lewis and AmazonPeople waiting for hospital treatment will get three weeks’ notice of their next appointment under NHS plans inspired by the customer service provided by online shopping operators.Hospitals are being ordered to start telling everyone on their treatment waiting list at least three weeks before their operation, diagnostic test or meeting with a consultant. Continue reading...",
             "content": "Move inspired by customer service provided by online retailers such as John Lewis and AmazonPeople waiting for hospital treatment will get three weeks’ notice of their next appointment under NHS plans inspired by the customer service provided by online shopping operators.Hospitals are being ordered to start telling everyone on their treatment waiting list at least three weeks before their operation, diagnostic test or meeting with a consultant. Continue reading...",
-            "feed_position": 3
+            "feed_position": 4
           }
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Fri, 03 Jul 2026 11:00:26 GMT",
         "title": "This is how seriously a patient’s skin colour can affect the quality of medical care they receive | Devi Sridhar",
@@ -319,12 +340,12 @@
             "title": "This is how seriously a patient’s skin colour can affect the quality of medical care they receive | Devi Sridhar",
             "standfirst": "New reporting from the Guardian has shed further light on the ‘ethnicity pain gap’. This is what has to be done to close itRead more from the Guardian’s ethnicity pain gap seriesI always know someone is going to say something racist when they start a sentence with, “I’m not racist, but …” Nobody likes to think they would ever discriminate against someone based on the colour of their skin – and some people seem increasingly uncomfortable about acknowledging that such discrimination exists at all in the world. Yet we are now seeing a backlash from certain political groups against diversity initiatives, including from Kemi Badenoch who wants to do away with “DEI bureaucracy”, and Nigel Farage who promises to get rid of “woke” council roles such as those involved in increasing diversity, equity and inclusion.Whatever your political views, no one wants debates to be lost in emotion rather than based on the evidence. So it is helpful to come back to facts about race and how it affects people’s lives. And as new Guardian reporting on racial inequalities in pain relief reveals, when it comes to healthcare, the evidence is overwhelming: race and ethnicity are associated with differences in the quality of care people receive and, ultimately, in their health outcomes. Regardless of whether anyone is being racist, it is clear that some people receive worse healthcare because of their racial or ethnic background.Prof Devi Sridhar is chair of global public health at the University of EdinburghDo you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...",
             "content": "New reporting from the Guardian has shed further light on the ‘ethnicity pain gap’. This is what has to be done to close itRead more from the Guardian’s ethnicity pain gap seriesI always know someone is going to say something racist when they start a sentence with, “I’m not racist, but …” Nobody likes to think they would ever discriminate against someone based on the colour of their skin – and some people seem increasingly uncomfortable about acknowledging that such discrimination exists at all in the world. Yet we are now seeing a backlash from certain political groups against diversity initiatives, including from Kemi Badenoch who wants to do away with “DEI bureaucracy”, and Nigel Farage who promises to get rid of “woke” council roles such as those involved in increasing diversity, equity and inclusion.Whatever your political views, no one wants debates to be lost in emotion rather than based on the evidence. So it is helpful to come back to facts about race and how it affects people’s lives. And as new Guardian reporting on racial inequalities in pain relief reveals, when it comes to healthcare, the evidence is overwhelming: race and ethnicity are associated with differences in the quality of care people receive and, ultimately, in their health outcomes. Regardless of whether anyone is being racist, it is clear that some people receive worse healthcare because of their racial or ethnic background.Prof Devi Sridhar is chair of global public health at the University of EdinburghDo you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...",
-            "feed_position": 4
+            "feed_position": 5
           }
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Fri, 03 Jul 2026 10:28:17 GMT",
         "title": "Nasa launches mission to save falling space telescope",
@@ -347,7 +368,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cef/live/163753a0-74c5-11f1-b3a4-17c48cb4ee82.jpg"
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Fri, 03 Jul 2026 10:23:32 GMT",
         "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
@@ -370,7 +391,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f45/live/7e8ec8a0-76de-11f1-9510-1546718f668b.jpg"
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Fri, 03 Jul 2026 10:08:16 GMT",
         "title": "Doctors vote to take strike action in row over pay",
@@ -393,7 +414,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c15c/live/618d61d0-76c0-11f1-bd3f-0f791277aaa0.jpg"
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Fri, 03 Jul 2026 09:53:04 GMT",
         "title": "Scotland's first gull ranger wants to boost their image",
@@ -416,7 +437,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fea1/live/66c45840-76c3-11f1-b976-0b9c15b0ccfc.jpg"
       },
       {
-        "id": "cluster_18",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Fri, 03 Jul 2026 04:53:35 GMT",
         "title": "Thousands of fish killed in park pollution mystery",
@@ -437,33 +458,11 @@
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bbf/live/a143b8e0-764f-11f1-a011-354a7c444b02.jpg"
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Fri, 03 Jul 2026 02:50:02 GMT",
-        "title": "‘A genuine wildlife emergency’: everything you need to know about the arrival of H5 bird flu in Australia",
-        "neutral_headline": "‘A genuine wildlife emergency’: everything you need to know about the arrival...",
-        "bullet_summary": [
-          "The federal agriculture minister, Julie Collins, confirmed in late June that a brown skua – found sick in Western Australia – had died from the H5N1 virus",
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/environment/2026/jun/21/h5-bird-flu-australia-wildlife-emergency-explainer-h5n1",
-            "published_at": "Fri, 03 Jul 2026 02:50:02 GMT",
-            "title": "‘A genuine wildlife emergency’: everything you need to know about the arrival of H5 bird flu in Australia",
-            "standfirst": "What is the virus? Where did it come from? Are humans at risk? What does it mean for the agricultural sector and wildlife? Experts answer your questionsGet our breaking news email, free app or daily news podcastA deadly strain of bird flu, known as H5 bird flu, has arrived on the Australian mainland.The federal agriculture minister, Julie Collins, confirmed in late June that a brown skua – found sick in Western Australia – had died from the H5N1 virus. The skua is a wild migratory bird. Continue reading...",
-            "content": "What is the virus? Where did it come from? Are humans at risk? What does it mean for the agricultural sector and wildlife? Experts answer your questionsGet our breaking news email, free app or daily news podcastA deadly strain of bird flu, known as H5 bird flu, has arrived on the Australian mainland.The federal agriculture minister, Julie Collins, confirmed in late June that a brown skua – found sick in Western Australia – had died from the H5N1 virus. The skua is a wild migratory bird. Continue reading...",
-            "feed_position": 5
-          }
-        ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-07-04T12:01:46.664Z",
+    "updated_at": "2026-07-04T20:04:48.274Z",
     "clusters": []
   }
 }
