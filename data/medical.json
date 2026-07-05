@@ -1,17 +1,40 @@
 {
   "clinical": {
-    "updated_at": "2026-07-05T06:33:16.666Z",
+    "updated_at": "2026-07-05T09:36:38.819Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-07-05T06:33:16.666Z",
+    "updated_at": "2026-07-05T09:36:38.819Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-07-05T06:33:21.392Z",
+    "updated_at": "2026-07-05T09:36:40.547Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Sun, 05 Jul 2026 09:26:56 GMT",
+        "title": "Evacuations in Guam as super typhoon Bavi approaches",
+        "neutral_headline": "Evacuations in Guam as super typhoon Bavi approaches",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sun, 05 Jul 2026 09:26:56 GMT",
+            "title": "Evacuations in Guam as super typhoon Bavi approaches",
+            "standfirst": "The storm is forecast to bring winds in excess of 160mph and waves nearly 11m high when it makes landfall on Monday.",
+            "content": "The storm is forecast to bring winds in excess of 160mph and waves nearly 11m high when it makes landfall on Monday.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ccc/live/14f8dd50-7840-11f1-a9d9-f754ec615ffe.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ccc/live/14f8dd50-7840-11f1-a9d9-f754ec615ffe.jpg"
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Sun, 05 Jul 2026 06:26:52 GMT",
         "title": "'Lung scan in supermarket car park saved my life'",
@@ -34,7 +57,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e35/live/b7a36120-76d7-11f1-9510-1546718f668b.jpg"
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Sun, 05 Jul 2026 05:00:17 GMT",
         "title": "Roll up, roll up! Older generation find joy and fearlessness in circus",
@@ -55,7 +78,7 @@
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Sun, 05 Jul 2026 04:50:32 GMT",
         "title": "‘A genuine wildlife emergency’: everything you need to know about the arrival of H5 bird flu in Australia",
@@ -77,7 +100,7 @@
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Sat, 04 Jul 2026 21:32:08 GMT",
         "title": "NHS app to use AI to determine which service best for patients",
@@ -100,7 +123,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15ba/live/e471abf0-77ca-11f1-a627-714adb4eed6e.jpg"
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Sat, 04 Jul 2026 21:30:08 GMT",
         "title": "NHS to use AI on its app to direct patients to appropriate services",
@@ -121,7 +144,7 @@
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Sat, 04 Jul 2026 15:28:17 GMT",
         "title": "New heatwave likely to peak at 34C with week-long health alert issued",
@@ -137,14 +160,14 @@
             "title": "New heatwave likely to peak at 34C with week-long health alert issued",
             "standfirst": "Another heatwave is on its way and set to last significantly longer as Stav Danaos explains.",
             "content": "Another heatwave is on its way and set to last significantly longer as Stav Danaos explains.",
-            "feed_position": 0,
+            "feed_position": 1,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd7e/live/34b6d3b0-77bc-11f1-a627-714adb4eed6e.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd7e/live/34b6d3b0-77bc-11f1-a627-714adb4eed6e.jpg"
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Sat, 04 Jul 2026 14:40:42 GMT",
         "title": "Week-long heatwave due in England with 34C peak in south-east",
@@ -165,7 +188,7 @@
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Sat, 04 Jul 2026 10:00:09 GMT",
         "title": "British Medical Association could axe up to a third of its staff amid cash crisis",
@@ -186,7 +209,7 @@
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Sat, 04 Jul 2026 06:21:35 GMT",
         "title": "Scientist dubbed The Bogfather is restoring peatland to fight climate change",
@@ -202,14 +225,14 @@
             "title": "Scientist dubbed The Bogfather is restoring peatland to fight climate change",
             "standfirst": "A childhood fascination with bogs led one Welsh scientist to try and help save the planet.",
             "content": "A childhood fascination with bogs led one Welsh scientist to try and help save the planet.",
-            "feed_position": 1,
+            "feed_position": 2,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4529/live/06359680-6bf9-11f1-8e1d-bbbb1017d210.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4529/live/06359680-6bf9-11f1-8e1d-bbbb1017d210.jpg"
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Sat, 04 Jul 2026 05:06:44 GMT",
         "title": "Turbines turning from wind to sustainable products",
@@ -225,14 +248,14 @@
             "title": "Turbines turning from wind to sustainable products",
             "standfirst": "Thousands of tonnes of non-recyclable wind turbine blades are coming to the end of their lives.",
             "content": "Thousands of tonnes of non-recyclable wind turbine blades are coming to the end of their lives.",
-            "feed_position": 2,
+            "feed_position": 3,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0aaf/live/e782c920-76f1-11f1-b9cc-bd5880081b3f.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0aaf/live/e782c920-76f1-11f1-b9cc-bd5880081b3f.jpg"
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Sat, 04 Jul 2026 00:57:05 GMT",
         "title": "'Hotter and hotter and hotter' - Europe's new climate in seven charts",
@@ -248,14 +271,14 @@
             "title": "'Hotter and hotter and hotter' - Europe's new climate in seven charts",
             "standfirst": "Temperature records were smashed in June - and scientists warn this is a sign of things to come.",
             "content": "Temperature records were smashed in June - and scientists warn this is a sign of things to come.",
-            "feed_position": 3,
+            "feed_position": 4,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7eb/live/2c0dd520-7702-11f1-9510-1546718f668b.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7eb/live/2c0dd520-7702-11f1-9510-1546718f668b.jpg"
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Fri, 03 Jul 2026 21:31:05 GMT",
         "title": "How to walk 30 minutes a day - your tips",
@@ -278,7 +301,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60b5/live/bee49920-771f-11f1-a627-714adb4eed6e.jpg"
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Fri, 03 Jul 2026 17:10:24 GMT",
         "title": "Record-breaking temps in US as 4th July holiday begins",
@@ -294,14 +317,14 @@
             "title": "Record-breaking temps in US as 4th July holiday begins",
             "standfirst": "Record-breaking heatwave hits US as Fourth of July holiday weekend gets underway.",
             "content": "Record-breaking heatwave hits US as Fourth of July holiday weekend gets underway.",
-            "feed_position": 4,
+            "feed_position": 5,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9850/live/a4d96180-76f9-11f1-8b66-2595602b4548.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9850/live/a4d96180-76f9-11f1-8b66-2595602b4548.jpg"
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Fri, 03 Jul 2026 16:54:02 GMT",
         "title": "Consider the parents caring for adult children not in work or education | Letter",
@@ -322,7 +345,7 @@
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Fri, 03 Jul 2026 16:52:43 GMT",
         "title": "Deaths in France surged 30% during hottest week of record June heatwave",
@@ -344,7 +367,7 @@
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Fri, 03 Jul 2026 16:44:33 GMT",
         "title": "Do you have heart palpitations?",
@@ -367,7 +390,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1bb/live/f4cb4e50-7628-11f1-b976-0b9c15b0ccfc.jpg"
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Fri, 03 Jul 2026 14:56:30 GMT",
         "title": "German row over plan for workers to need sick note on first day of illness",
@@ -390,7 +413,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/803c/live/25f634f0-76fa-11f1-b976-0b9c15b0ccfc.jpg"
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Fri, 03 Jul 2026 13:28:23 GMT",
         "title": "How to calm an overstimulated mind",
@@ -413,7 +436,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9ba/live/9e210cf0-76cf-11f1-b976-0b9c15b0ccfc.jpg"
       },
       {
-        "id": "cluster_18",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Fri, 03 Jul 2026 11:09:08 GMT",
         "title": "People awaiting hospital treatment to get three weeks’ notice under NHS England plans",
@@ -432,32 +455,11 @@
             "feed_position": 7
           }
         ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Fri, 03 Jul 2026 11:00:26 GMT",
-        "title": "This is how seriously a patient’s skin colour can affect the quality of medical care they receive | Devi Sridhar",
-        "neutral_headline": "This is how seriously a patient’s skin colour can affect the quality of medical...",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/commentisfree/2026/jul/03/patient-skin-colour-medical-care-ethnicity-pain-gap",
-            "published_at": "Fri, 03 Jul 2026 11:00:26 GMT",
-            "title": "This is how seriously a patient’s skin colour can affect the quality of medical care they receive | Devi Sridhar",
-            "standfirst": "New reporting from the Guardian has shed further light on the ‘ethnicity pain gap’. This is what has to be done to close itRead more from the Guardian’s ethnicity pain gap seriesI always know someone is going to say something racist when they start a sentence with, “I’m not racist, but …” Nobody likes to think they would ever discriminate against someone based on the colour of their skin – and some people seem increasingly uncomfortable about acknowledging that such discrimination exists at all in the world. Yet we are now seeing a backlash from certain political groups against diversity initiatives, including from Kemi Badenoch who wants to do away with “DEI bureaucracy”, and Nigel Farage who promises to get rid of “woke” council roles such as those involved in increasing diversity, equity and inclusion.Whatever your political views, no one wants debates to be lost in emotion rather than based on the evidence. So it is helpful to come back to facts about race and how it affects people’s lives. And as new Guardian reporting on racial inequalities in pain relief reveals, when it comes to healthcare, the evidence is overwhelming: race and ethnicity are associated with differences in the quality of care people receive and, ultimately, in their health outcomes. Regardless of whether anyone is being racist, it is clear that some people receive worse healthcare because of their racial or ethnic background.Prof Devi Sridhar is chair of global public health at the University of EdinburghDo you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...",
-            "content": "New reporting from the Guardian has shed further light on the ‘ethnicity pain gap’. This is what has to be done to close itRead more from the Guardian’s ethnicity pain gap seriesI always know someone is going to say something racist when they start a sentence with, “I’m not racist, but …” Nobody likes to think they would ever discriminate against someone based on the colour of their skin – and some people seem increasingly uncomfortable about acknowledging that such discrimination exists at all in the world. Yet we are now seeing a backlash from certain political groups against diversity initiatives, including from Kemi Badenoch who wants to do away with “DEI bureaucracy”, and Nigel Farage who promises to get rid of “woke” council roles such as those involved in increasing diversity, equity and inclusion.Whatever your political views, no one wants debates to be lost in emotion rather than based on the evidence. So it is helpful to come back to facts about race and how it affects people’s lives. And as new Guardian reporting on racial inequalities in pain relief reveals, when it comes to healthcare, the evidence is overwhelming: race and ethnicity are associated with differences in the quality of care people receive and, ultimately, in their health outcomes. Regardless of whether anyone is being racist, it is clear that some people receive worse healthcare because of their racial or ethnic background.Prof Devi Sridhar is chair of global public health at the University of EdinburghDo you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...",
-            "feed_position": 8
-          }
-        ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-07-05T06:33:21.392Z",
+    "updated_at": "2026-07-05T09:36:40.548Z",
     "clusters": []
   }
 }
