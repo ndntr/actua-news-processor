@@ -1,17 +1,38 @@
 {
   "clinical": {
-    "updated_at": "2026-07-11T20:00:17.092Z",
+    "updated_at": "2026-07-11T23:46:16.966Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-07-11T20:00:17.092Z",
+    "updated_at": "2026-07-11T23:46:16.966Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-07-11T20:00:19.065Z",
+    "updated_at": "2026-07-11T23:46:19.064Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Sat, 11 Jul 2026 23:28:38 GMT",
+        "title": "Guggenheim museum in New York City tests positive for legionnaires’ disease",
+        "neutral_headline": "Guggenheim museum in New York City tests positive for legionnaires’ disease",
+        "bullet_summary": [
+          "Reported by Guardian Health"
+        ],
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/us-news/2026/jul/11/guggenheim-museum-new-york-city-legionnaires",
+            "published_at": "Sat, 11 Jul 2026 23:28:38 GMT",
+            "title": "Guggenheim museum in New York City tests positive for legionnaires’ disease",
+            "standfirst": "Famed art museum, one of 31 buildings to test positive, has already completed remediation, health department saysNew York City’s famed Solomon R Guggenheim Museum was among a number of Manhattan buildings that recently tested positive for the bacteria that causes legionnaires’ disease.The city health department on Friday released a list of 31 buildings on the Upper East Side that have been ordered to clean and disinfect their cooling towers as the city deals with the latest outbreak of the disease, which is a serious form of pneumonia. Continue reading...",
+            "content": "Famed art museum, one of 31 buildings to test positive, has already completed remediation, health department saysNew York City’s famed Solomon R Guggenheim Museum was among a number of Manhattan buildings that recently tested positive for the bacteria that causes legionnaires’ disease.The city health department on Friday released a list of 31 buildings on the Upper East Side that have been ordered to clean and disinfect their cooling towers as the city deals with the latest outbreak of the disease, which is a serious form of pneumonia. Continue reading...",
+            "feed_position": 0
+          }
+        ]
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Sat, 11 Jul 2026 17:41:56 GMT",
         "title": "China's second typhoon in a week makes landfall",
@@ -34,7 +55,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5dd5/live/0a1f8470-7d1c-11f1-926f-c90d1bcfbc84.jpg"
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Sat, 11 Jul 2026 14:53:12 GMT",
         "title": "Wildlife conservation work to get £1m boost",
@@ -57,7 +78,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7695/live/7cb1df10-7d30-11f1-8f06-e145dd803033.jpg"
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Sat, 11 Jul 2026 13:11:52 GMT",
         "title": "US pays out $3m to victims of mystery Havana Syndrome condition reported by spies",
@@ -80,7 +101,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7562/live/ef363980-cfa0-11ef-b967-0b921216563e.jpg"
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Sat, 11 Jul 2026 12:01:34 GMT",
         "title": "RSPB buys 'magical' 96-hectare landscape to reconnect habitats",
@@ -103,7 +124,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5944/live/6a836790-79ee-11f1-af3a-6f11866b2c27.jpg"
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Sat, 11 Jul 2026 11:00:47 GMT",
         "title": "NHS anaesthetist shortage prevents 1.5m operations a year, report finds",
@@ -119,12 +140,12 @@
             "title": "NHS anaesthetist shortage prevents 1.5m operations a year, report finds",
             "standfirst": "Exclusive: Alarming shortfall of specialists stops about 4,000 procedures a day, many for patients in urgent need of surgeryThe NHS is unable to perform 1.5m operations a year because of a drastic shortage of anaesthetists, a report reveals.More than 8 million patients are on waiting lists across England, Scotland, Wales and Northern Ireland. Many are in urgent need of a surgical procedure. Continue reading...",
             "content": "Exclusive: Alarming shortfall of specialists stops about 4,000 procedures a day, many for patients in urgent need of surgeryThe NHS is unable to perform 1.5m operations a year because of a drastic shortage of anaesthetists, a report reveals.More than 8 million patients are on waiting lists across England, Scotland, Wales and Northern Ireland. Many are in urgent need of a surgical procedure. Continue reading...",
-            "feed_position": 0
+            "feed_position": 1
           }
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Sat, 11 Jul 2026 10:41:15 GMT",
         "title": "Heatwave to stretch into second week despite cooler air for some this weekend",
@@ -147,7 +168,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3250/live/b1ac3870-7c39-11f1-b976-0b9c15b0ccfc.jpg"
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Sat, 11 Jul 2026 08:23:45 GMT",
         "title": "New dinosaur species as long as cricket pitch discovered in Thailand",
@@ -170,7 +191,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2897/live/340b2400-7c96-11f1-9b18-bb5b415621a9.jpg"
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Sat, 11 Jul 2026 07:00:43 GMT",
         "title": "‘A new consumer’: how weight-loss drugs are shaking up clothes shopping",
@@ -186,12 +207,12 @@
             "title": "‘A new consumer’: how weight-loss drugs are shaking up clothes shopping",
             "standfirst": "As they slim down, UK and US users of GLP-1 jabs and pills are changing their spending habits – and their wardrobesTell us: what does the new weight-loss pill mean for you?“I’m now at a point where I’m going to buy even more clothes,” says Hayley Grice, 50, from Shropshire, who has dropped seven sizes after starting on the GLP-1 weight loss jab Mounjaro two years ago. “I’m very happy with my physique right now.”Grice, the financial director of a business she set up with her husband, tried gastric bypass surgery in 2009, but put most of the weight back on, and had been between UK dress sizes 26 and 28 (US sizes 22 and 24) all her adult life. Continue reading...",
             "content": "As they slim down, UK and US users of GLP-1 jabs and pills are changing their spending habits – and their wardrobesTell us: what does the new weight-loss pill mean for you?“I’m now at a point where I’m going to buy even more clothes,” says Hayley Grice, 50, from Shropshire, who has dropped seven sizes after starting on the GLP-1 weight loss jab Mounjaro two years ago. “I’m very happy with my physique right now.”Grice, the financial director of a business she set up with her husband, tried gastric bypass surgery in 2009, but put most of the weight back on, and had been between UK dress sizes 26 and 28 (US sizes 22 and 24) all her adult life. Continue reading...",
-            "feed_position": 1
+            "feed_position": 2
           }
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Sat, 11 Jul 2026 06:37:06 GMT",
         "title": "New research into basking sharks around island",
@@ -215,7 +236,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6172/live/dbb8cf80-7b9d-11f1-88df-c98554e5b30c.png"
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Sat, 11 Jul 2026 06:29:22 GMT",
         "title": "'Endometriosis tests would have given me years back'",
@@ -239,7 +260,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f54d/live/5fbe2740-7b7a-11f1-9835-1d509410fdca.jpg"
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Sat, 11 Jul 2026 06:11:59 GMT",
         "title": "British Hewing Championships",
@@ -262,7 +283,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a55/live/461f74f0-7c84-11f1-b976-0b9c15b0ccfc.jpg"
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Sat, 11 Jul 2026 06:09:36 GMT",
         "title": "‘Spermageddon’: is the world facing a male reproductive crisis?",
@@ -278,12 +299,12 @@
             "title": "‘Spermageddon’: is the world facing a male reproductive crisis?",
             "standfirst": "Reports of falling sperm counts and testosterone levels have fuelled fears over chemicals, pollution and modern lifestyles. But how much do scientists agree on what is affecting male fertility?The world is unwittingly walking into a male reproductive crisis, scientists warned this week as they presented data that revealed an apparent halving of average male testosterone levels over the past 50 years.“It is mind-blowing that testosterone has declined by 50%,” Prof Hagai Levine, who led the work, told the Guardian. “This is a lot. Wake up people. Wake up.” Continue reading...",
             "content": "Reports of falling sperm counts and testosterone levels have fuelled fears over chemicals, pollution and modern lifestyles. But how much do scientists agree on what is affecting male fertility?The world is unwittingly walking into a male reproductive crisis, scientists warned this week as they presented data that revealed an apparent halving of average male testosterone levels over the past 50 years.“It is mind-blowing that testosterone has declined by 50%,” Prof Hagai Levine, who led the work, told the Guardian. “This is a lot. Wake up people. Wake up.” Continue reading...",
-            "feed_position": 2
+            "feed_position": 3
           }
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Sat, 11 Jul 2026 06:07:00 GMT",
         "title": "Surviving in the wild for suicide awareness",
@@ -306,7 +327,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45fa/live/96c1e150-7b98-11f1-bee8-53ce494e1abc.jpg"
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Sat, 11 Jul 2026 03:03:46 GMT",
         "title": "People in 50s urged to complete bowel cancer screening",
@@ -329,7 +350,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83f6/live/5436c480-7cbb-11f1-8e23-d96106e4ccd1.jpg"
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Fri, 10 Jul 2026 20:14:46 GMT",
         "title": "Helping one of Britain's rarest butterflies",
@@ -362,7 +383,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/799e/live/a5d72ba0-7b9d-11f1-b976-0b9c15b0ccfc.jpg"
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Fri, 10 Jul 2026 16:04:37 GMT",
         "title": "Pioneering treatment saves twins in early pregnancy",
@@ -395,7 +416,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ca4/live/cf927ad0-7c74-11f1-bee8-53ce494e1abc.jpg"
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Fri, 10 Jul 2026 16:00:54 GMT",
         "title": "How can you help wildlife during hot weather?",
@@ -418,7 +439,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45f8/live/ce342ee0-7c6a-11f1-b976-0b9c15b0ccfc.jpg"
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Fri, 10 Jul 2026 15:28:17 GMT",
         "title": "Boxy forms and odd lights: US declassifies more UFO files",
@@ -441,7 +462,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3bb/live/51ab41d0-7c72-11f1-9fad-d539485c17c2.png"
       },
       {
-        "id": "cluster_18",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Fri, 10 Jul 2026 13:53:11 GMT",
         "title": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
@@ -462,34 +483,11 @@
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe89/live/7d209130-7c45-11f1-8ccc-df652c9169a7.jpg"
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Fri, 10 Jul 2026 13:40:19 GMT",
-        "title": "Watch: Typhoon Bavi forecast to bring heavy rains and floods to Taiwan, Japan and China",
-        "neutral_headline": "Watch: Typhoon Bavi forecast to bring heavy rains and floods...",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/news/videos/c0myengg8nzo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Fri, 10 Jul 2026 13:40:19 GMT",
-            "title": "Watch: Typhoon Bavi forecast to bring heavy rains and floods to Taiwan, Japan and China",
-            "standfirst": "See how the powerful storm is expected to move across east Asia on Saturday.",
-            "content": "See how the powerful storm is expected to move across east Asia on Saturday.",
-            "feed_position": 8,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52f3/live/328e7740-7c63-11f1-802c-e767a91f6051.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52f3/live/328e7740-7c63-11f1-802c-e767a91f6051.jpg"
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-07-11T20:00:19.065Z",
+    "updated_at": "2026-07-11T23:46:19.064Z",
     "clusters": []
   }
 }
