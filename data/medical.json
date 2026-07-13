@@ -1,17 +1,40 @@
 {
   "clinical": {
-    "updated_at": "2026-07-13T10:17:07.365Z",
+    "updated_at": "2026-07-13T13:13:04.615Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-07-13T10:17:07.365Z",
+    "updated_at": "2026-07-13T13:13:04.615Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-07-13T10:17:09.614Z",
+    "updated_at": "2026-07-13T13:13:09.657Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Mon, 13 Jul 2026 10:29:17 GMT",
+        "title": "Wildfire raging south of Paris could have been set deliberately, says minister",
+        "neutral_headline": "Wildfire raging south of Paris could have been set deliberately, says minister",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 13 Jul 2026 10:29:17 GMT",
+            "title": "Wildfire raging south of Paris could have been set deliberately, says minister",
+            "standfirst": "It was the first time firefighting planes had been sent up from the normally drier and hotter south of the country to tackle fires in the Paris region.",
+            "content": "It was the first time firefighting planes had been sent up from the normally drier and hotter south of the country to tackle fires in the Paris region.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02cd/live/b7233b90-7ea1-11f1-926f-c90d1bcfbc84.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02cd/live/b7233b90-7ea1-11f1-926f-c90d1bcfbc84.jpg"
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Mon, 13 Jul 2026 10:00:44 GMT",
         "title": "Can a ‘power phrase’ turn a spineless worm like me into a go-getter? I doubt it – but it’s worth a shot | Emma Beddington",
@@ -32,7 +55,7 @@
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Mon, 13 Jul 2026 09:00:43 GMT",
         "title": "North Carolina woman, 82, survives nine days trapped in her bathtub after fall",
@@ -53,7 +76,7 @@
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Mon, 13 Jul 2026 08:57:15 GMT",
         "title": "More than 2,700 people may have died in exceptional May and June heatwaves in England and Wales",
@@ -76,7 +99,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/987f/live/952355a0-7e8f-11f1-bee8-53ce494e1abc.jpg"
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Mon, 13 Jul 2026 08:36:21 GMT",
         "title": "Ebola vaccine made in UK now ready for trials",
@@ -99,7 +122,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f00/live/6cfca390-7e91-11f1-bee8-53ce494e1abc.jpg"
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Mon, 13 Jul 2026 08:00:16 GMT",
         "title": "UK begins trials of Ebola vaccine developed in just eight weeks",
@@ -122,7 +145,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a622/live/f22a5910-76f6-11f1-ab95-f1a10991b6dc.jpg"
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Mon, 13 Jul 2026 05:14:39 GMT",
         "title": "Rare floodplain meadow given to wildlife trust",
@@ -145,7 +168,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d1f/live/63099d50-79fc-11f1-bb84-55f328ecb8d7.jpg"
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Mon, 13 Jul 2026 05:10:44 GMT",
         "title": "Dune project aims to aid rare toads and beetles",
@@ -168,7 +191,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed5c/live/645f8d40-7e16-11f1-8b53-af2203b75821.jpg"
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Mon, 13 Jul 2026 04:00:38 GMT",
         "title": "‘No matter how bad, it is always fixable’: how Bea Elton cleans up the houses – and lives – of desperate people",
@@ -187,29 +210,6 @@
             "feed_position": 3
           }
         ]
-      },
-      {
-        "id": "cluster_8",
-        "coverage": 1,
-        "updated_at": "Mon, 13 Jul 2026 03:36:09 GMT",
-        "title": "Planes sent to tackle wildfires of 'exceptional scale' near Paris",
-        "neutral_headline": "Planes sent to tackle wildfires of 'exceptional scale' near Paris",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Mon, 13 Jul 2026 03:36:09 GMT",
-            "title": "Planes sent to tackle wildfires of 'exceptional scale' near Paris",
-            "standfirst": "It was the first time firefighting planes had been sent up from the normally drier and hotter south of the country to tackle fires in the Paris region.",
-            "content": "It was the first time firefighting planes had been sent up from the normally drier and hotter south of the country to tackle fires in the Paris region.",
-            "feed_position": 0,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b594/live/dae40700-7e95-11f1-bee8-53ce494e1abc.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b594/live/dae40700-7e95-11f1-bee8-53ce494e1abc.jpg"
       },
       {
         "id": "cluster_9",
@@ -477,7 +477,7 @@
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-07-13T10:17:09.614Z",
+    "updated_at": "2026-07-13T13:13:09.657Z",
     "clusters": []
   }
 }
