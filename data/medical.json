@@ -1,17 +1,119 @@
 {
   "clinical": {
-    "updated_at": "2026-07-14T08:59:59.988Z",
+    "updated_at": "2026-07-14T12:05:35.520Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-07-14T08:59:59.988Z",
+    "updated_at": "2026-07-14T12:05:35.521Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-07-14T09:00:01.573Z",
+    "updated_at": "2026-07-14T12:05:38.353Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Tue, 14 Jul 2026 11:43:31 GMT",
+        "title": "PPE failures left NHS staff poorly protected and wasted £10bn, Covid inquiry finds",
+        "neutral_headline": "PPE failures left NHS staff poorly protected and wasted £10bn, Covid inquiry finds",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.co.uk/news/articles/czrxrlydyzzo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Tue, 14 Jul 2026 11:43:31 GMT",
+            "title": "PPE failures left NHS staff poorly protected and wasted £10bn, Covid inquiry finds",
+            "standfirst": "Healthcare staff were unable to properly protect themselves, or those in their care, from dangerous infections, says the latest inquiry report.",
+            "content": "Healthcare staff were unable to properly protect themselves, or those in their care, from dangerous infections, says the latest inquiry report.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26b2/live/429dd230-7f4b-11f1-b7b5-4731f6422ba0.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26b2/live/429dd230-7f4b-11f1-b7b5-4731f6422ba0.jpg"
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Tue, 14 Jul 2026 10:12:00 GMT",
+        "title": "Woman's Hour",
+        "neutral_headline": "Woman's Hour",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.co.uk/sounds/play/m002yx3c?at_medium=RSS&at_campaign=rss",
+            "published_at": "Tue, 14 Jul 2026 10:12:00 GMT",
+            "title": "Woman's Hour",
+            "standfirst": "We hear about a new study exploring the impact hormones have on women with ADHD.",
+            "content": "We hear about a new study exploring the impact hormones have on women with ADHD.",
+            "feed_position": 49,
+            "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1q1c4.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1q1c4.jpg"
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Tue, 14 Jul 2026 09:38:32 GMT",
+        "title": "How deadly have the heatwaves in England and Wales been?",
+        "neutral_headline": "How deadly have the heatwaves in England and Wales been",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.co.uk/news/videos/c9929nl2m3go?at_medium=RSS&at_campaign=rss",
+            "published_at": "Tue, 14 Jul 2026 09:38:32 GMT",
+            "title": "How deadly have the heatwaves in England and Wales been?",
+            "standfirst": "Experts suggest more than 2,700 people may have died from heat-related causes during the heatwaves.",
+            "content": "Experts suggest more than 2,700 people may have died from heat-related causes during the heatwaves.",
+            "feed_position": 1,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b1e/live/ffb6c450-7f5d-11f1-926f-c90d1bcfbc84.jpg"
+          },
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.co.uk/news/articles/czx5zy82n7no?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 13 Jul 2026 08:57:15 GMT",
+            "title": "More than 2,700 people may have died in exceptional May and June heatwaves in England and Wales",
+            "standfirst": "An early estimate suggests more than 2,700 people will have died from heat-related causes during the UK's exceptionally hot weather in recent months.",
+            "content": "An early estimate suggests more than 2,700 people will have died from heat-related causes during the UK's exceptionally hot weather in recent months.",
+            "feed_position": 3,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/987f/live/952355a0-7e8f-11f1-bee8-53ce494e1abc.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b1e/live/ffb6c450-7f5d-11f1-926f-c90d1bcfbc84.jpg"
+      },
+      {
+        "id": "cluster_3",
+        "coverage": 1,
+        "updated_at": "Tue, 14 Jul 2026 09:00:00 GMT",
+        "title": "Inside Health",
+        "neutral_headline": "Inside Health",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.co.uk/sounds/play/m002yx39?at_medium=RSS&at_campaign=rss",
+            "published_at": "Tue, 14 Jul 2026 09:00:00 GMT",
+            "title": "Inside Health",
+            "standfirst": "Does the success of the HPV vaccine mean that cervical screening can be reduced?",
+            "content": "Does the success of the HPV vaccine mean that cervical screening can be reduced?",
+            "feed_position": 43,
+            "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1r8h6.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1r8h6.jpg"
+      },
+      {
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Tue, 14 Jul 2026 07:00:23 GMT",
         "title": "Heat can be deadly, but sunshine itself? Science says we could use more of it | Rowan Jacobsen",
@@ -32,7 +134,7 @@
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Tue, 14 Jul 2026 05:41:01 GMT",
         "title": "Is your period worsening your ADHD symptoms?",
@@ -58,14 +160,14 @@
             "title": "How my period is supercharging my ADHD",
             "standfirst": "A first-of-its-kind study by UK researchers is looking at the link between menstrual cycles and ADHD.",
             "content": "A first-of-its-kind study by UK researchers is looking at the link between menstrual cycles and ADHD.",
-            "feed_position": 0,
+            "feed_position": 2,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa4f/live/cfcc3c30-7c37-11f1-a2fb-0b92ebfbb860.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/202f/live/2c55dc60-7ede-11f1-b976-0b9c15b0ccfc.jpg"
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Tue, 14 Jul 2026 05:17:50 GMT",
         "title": "In pictures: 3,000-mile journey to save rare horses",
@@ -88,7 +190,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df42/live/a482e300-7ece-11f1-926f-c90d1bcfbc84.png"
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Tue, 14 Jul 2026 05:05:39 GMT",
         "title": "Call for right to grow food on unused public land",
@@ -111,7 +213,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/832c/live/f65739a0-7ee8-11f1-be81-dbb01b5ceb35.png"
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Tue, 14 Jul 2026 02:00:16 GMT",
         "title": "The lonely reality of male infertility – podcast",
@@ -133,7 +235,7 @@
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Mon, 13 Jul 2026 23:55:00 GMT",
         "title": "Michigan health officials identify ‘potential source’ of parasite outbreak",
@@ -155,7 +257,7 @@
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Mon, 13 Jul 2026 23:03:59 GMT",
         "title": "One of strictest US abortion bans could be overturned in November’s election",
@@ -176,7 +278,7 @@
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Mon, 13 Jul 2026 23:01:13 GMT",
         "title": "UK children will be one of unhealthiest generations in decades, doctors say",
@@ -197,7 +299,7 @@
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Mon, 13 Jul 2026 20:15:00 GMT",
         "title": "Wildfire raging south of Paris could have been set deliberately, says minister",
@@ -214,14 +316,14 @@
             "title": "Wildfire raging south of Paris could have been set deliberately, says minister",
             "standfirst": "The interior minister has said the fire near Paris could have been set deliberately and two people have been arrested.",
             "content": "The interior minister has said the fire near Paris could have been set deliberately and two people have been arrested.",
-            "feed_position": 0,
+            "feed_position": 1,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02cd/live/b7233b90-7ea1-11f1-926f-c90d1bcfbc84.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02cd/live/b7233b90-7ea1-11f1-926f-c90d1bcfbc84.jpg"
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Mon, 13 Jul 2026 18:05:39 GMT",
         "title": "Lancashire chemicals factory facing potential legal claim announces closure",
@@ -242,7 +344,7 @@
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Mon, 13 Jul 2026 16:00:04 GMT",
         "title": "Stretch, be gentle and build flexibility: expert tips on doing the splits",
@@ -263,7 +365,7 @@
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Mon, 13 Jul 2026 15:39:49 GMT",
         "title": "How much exercise do you need to do in a week?",
@@ -279,14 +381,14 @@
             "title": "How much exercise do you need to do in a week?",
             "standfirst": "Just 150 minutes of exercise a week could help you keep fit and healthy.",
             "content": "Just 150 minutes of exercise a week could help you keep fit and healthy.",
-            "feed_position": 48,
+            "feed_position": 50,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47b3/live/bc72c870-7eb7-11f1-926f-c90d1bcfbc84.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47b3/live/bc72c870-7eb7-11f1-926f-c90d1bcfbc84.jpg"
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Mon, 13 Jul 2026 15:18:42 GMT",
         "title": "Two capybara pups born to UK's only breeding pair",
@@ -309,7 +411,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa5c/live/5027f7d0-7ed0-11f1-9c5a-f7e0cba0ab3f.png"
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Mon, 13 Jul 2026 15:11:48 GMT",
         "title": "Disability benefits: why we shouldn’t call it ‘welfare’ | Letters",
@@ -330,7 +432,7 @@
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Mon, 13 Jul 2026 15:00:51 GMT",
         "title": "At a dying man’s bedside, I see something much rarer than grief: the courage to include the young | Ranjana Srivastava",
@@ -351,7 +453,7 @@
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Mon, 13 Jul 2026 13:18:07 GMT",
         "title": "Work to protect adders, slow worms and lizards in Scots peatland",
@@ -372,99 +474,11 @@
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7994/live/eb540ff0-73d1-11f1-b1db-af71d47507d6.png"
-      },
-      {
-        "id": "cluster_16",
-        "coverage": 1,
-        "updated_at": "Mon, 13 Jul 2026 10:00:44 GMT",
-        "title": "Can a ‘power phrase’ turn a spineless worm like me into a go-getter? I doubt it – but it’s worth a shot | Emma Beddington",
-        "neutral_headline": "Can a ‘power phrase’ turn a spineless worm like me into a go-getter? I doubt it –...",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/commentisfree/2026/jul/13/can-a-power-phrase-turn-a-spineless-worm-like-me-into-a-go-getter-i-doubt-it-but-its-worth-a-shot",
-            "published_at": "Mon, 13 Jul 2026 10:00:44 GMT",
-            "title": "Can a ‘power phrase’ turn a spineless worm like me into a go-getter? I doubt it – but it’s worth a shot | Emma Beddington",
-            "standfirst": "The psychotherapist Amy Morin says uttering a ‘short, positive sentence’ can offer the cognitive reset we need. The idea makes me cringe – but then I can barely cope with returning defective trousersAre you dreading a high-stakes meeting, a challenging professional task or an awkward conversation? I’m not, because I’m a craven coward who has dodged that kind of unpleasantness for years. If only I had a “power phrase” to activate, maybe things would have been different.That is the psychotherapist Amy Morin’s advice for dealing with sticky situations. The author of The Mental Strength Playbook, Morin explained in Business Insider that a “short, positive sentence you say to yourself in the moment” is an effective two-minute cognitive reset. She used hers, she says, while answering challenging questions to land her book deal: “I activated my power phrase and told myself, I’m a strong, straightforward communicator.” Continue reading...",
-            "content": "The psychotherapist Amy Morin says uttering a ‘short, positive sentence’ can offer the cognitive reset we need. The idea makes me cringe – but then I can barely cope with returning defective trousersAre you dreading a high-stakes meeting, a challenging professional task or an awkward conversation? I’m not, because I’m a craven coward who has dodged that kind of unpleasantness for years. If only I had a “power phrase” to activate, maybe things would have been different.That is the psychotherapist Amy Morin’s advice for dealing with sticky situations. The author of The Mental Strength Playbook, Morin explained in Business Insider that a “short, positive sentence you say to yourself in the moment” is an effective two-minute cognitive reset. She used hers, she says, while answering challenging questions to land her book deal: “I activated my power phrase and told myself, I’m a strong, straightforward communicator.” Continue reading...",
-            "feed_position": 9
-          }
-        ]
-      },
-      {
-        "id": "cluster_17",
-        "coverage": 1,
-        "updated_at": "Mon, 13 Jul 2026 09:00:43 GMT",
-        "title": "North Carolina woman, 82, survives nine days trapped in her bathtub after fall",
-        "neutral_headline": "North Carolina woman, 82, survives nine days trapped in her bathtub after fall",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/us-news/2026/jul/13/woman-trapped-bathtub-survives-north-carolina",
-            "published_at": "Mon, 13 Jul 2026 09:00:43 GMT",
-            "title": "North Carolina woman, 82, survives nine days trapped in her bathtub after fall",
-            "standfirst": "Joan Rivet drank water she managed to splash up to her face by turning faucet on with her footAn 82-year-old North Carolina woman says she survived falling in her bathtub and being trapped there for nine days by turning the faucet on with her foot and drinking water that she managed to splash up to her face – all while drifting in and out of consciousness.Joan Rivet recently shared her remarkable survival story with North Carolina’s the Mountaineer newspaper, providing an extreme example of the kinds of emergencies that can face the millions of older Americans who fall by accident annually, according to Centers for Disease Control and Prevention (CDC) estimates. Continue reading...",
-            "content": "Joan Rivet drank water she managed to splash up to her face by turning faucet on with her footAn 82-year-old North Carolina woman says she survived falling in her bathtub and being trapped there for nine days by turning the faucet on with her foot and drinking water that she managed to splash up to her face – all while drifting in and out of consciousness.Joan Rivet recently shared her remarkable survival story with North Carolina’s the Mountaineer newspaper, providing an extreme example of the kinds of emergencies that can face the millions of older Americans who fall by accident annually, according to Centers for Disease Control and Prevention (CDC) estimates. Continue reading...",
-            "feed_position": 10
-          }
-        ]
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Mon, 13 Jul 2026 08:57:15 GMT",
-        "title": "More than 2,700 people may have died in exceptional May and June heatwaves in England and Wales",
-        "neutral_headline": "More than 2,700 people may have died in exceptional May and...",
-        "bullet_summary": [
-          "Reported by BBC Health"
-        ],
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.co.uk/news/articles/czx5zy82n7no?at_medium=RSS&at_campaign=rss",
-            "published_at": "Mon, 13 Jul 2026 08:57:15 GMT",
-            "title": "More than 2,700 people may have died in exceptional May and June heatwaves in England and Wales",
-            "standfirst": "An early estimate suggests more than 2,700 people will have died from heat-related causes during the UK's exceptionally hot weather in recent months.",
-            "content": "An early estimate suggests more than 2,700 people will have died from heat-related causes during the UK's exceptionally hot weather in recent months.",
-            "feed_position": 1,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/987f/live/952355a0-7e8f-11f1-bee8-53ce494e1abc.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/987f/live/952355a0-7e8f-11f1-bee8-53ce494e1abc.jpg"
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Mon, 13 Jul 2026 08:36:21 GMT",
-        "title": "Ebola vaccine made in UK now ready for trials",
-        "neutral_headline": "Ebola vaccine made in UK now ready for trials",
-        "bullet_summary": [
-          "Reported by BBC Health"
-        ],
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.co.uk/news/videos/c3ryg3x1vwgo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Mon, 13 Jul 2026 08:36:21 GMT",
-            "title": "Ebola vaccine made in UK now ready for trials",
-            "standfirst": "A new vaccine to tackle Ebola will now be tested on people.",
-            "content": "A new vaccine to tackle Ebola will now be tested on people.",
-            "feed_position": 49,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f00/live/6cfca390-7e91-11f1-bee8-53ce494e1abc.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f00/live/6cfca390-7e91-11f1-bee8-53ce494e1abc.jpg"
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-07-14T09:00:01.573Z",
+    "updated_at": "2026-07-14T12:05:38.353Z",
     "clusters": []
   }
 }
