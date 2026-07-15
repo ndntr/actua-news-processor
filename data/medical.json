@@ -1,17 +1,63 @@
 {
   "clinical": {
-    "updated_at": "2026-07-15T09:05:21.238Z",
+    "updated_at": "2026-07-15T12:09:57.750Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-07-15T09:05:21.238Z",
+    "updated_at": "2026-07-15T12:09:57.750Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-07-15T09:05:24.048Z",
+    "updated_at": "2026-07-15T12:09:59.612Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Wed, 15 Jul 2026 11:11:32 GMT",
+        "title": "Climate we had in 20th Century 'has now gone' - Met Office",
+        "neutral_headline": "Climate we had in 20th Century 'has now gone' - Met Office",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/news/articles/c802041g4v8o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Wed, 15 Jul 2026 11:11:32 GMT",
+            "title": "Climate we had in 20th Century 'has now gone' - Met Office",
+            "standfirst": "The latest report on the UK's climate warns cold mountainous areas are also being lost.",
+            "content": "The latest report on the UK's climate warns cold mountainous areas are also being lost.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c0a/live/6c1a2520-8039-11f1-86b6-ffbb9ce74513.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c0a/live/6c1a2520-8039-11f1-86b6-ffbb9ce74513.jpg"
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Wed, 15 Jul 2026 10:18:49 GMT",
+        "title": "First of four juvenile ospreys takes flight",
+        "neutral_headline": "First of four juvenile ospreys takes flight",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/news/articles/c0jyjly47gyo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Wed, 15 Jul 2026 10:18:49 GMT",
+            "title": "First of four juvenile ospreys takes flight",
+            "standfirst": "The first juvenile osprey of the season leaves its nest near Wareham.",
+            "content": "The first juvenile osprey of the season leaves its nest near Wareham.",
+            "feed_position": 13,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd05/live/969c4ad0-8020-11f1-9317-f3c8d3f68726.png"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd05/live/969c4ad0-8020-11f1-9317-f3c8d3f68726.png"
+      },
+      {
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Wed, 15 Jul 2026 08:06:00 GMT",
         "title": "UK heatwave delivers exceptional sunshine and persistent 30C temperatures",
@@ -27,14 +73,14 @@
             "title": "UK heatwave delivers exceptional sunshine and persistent 30C temperatures",
             "standfirst": "The current heatwave has been hot, dry and exceptionally sunny with some locations seeing double the number of sunshine hours usually recorded at this point in the month, as Darren Bett explains.",
             "content": "The current heatwave has been hot, dry and exceptionally sunny with some locations seeing double the number of sunshine hours usually recorded at this point in the month, as Darren Bett explains.",
-            "feed_position": 0,
+            "feed_position": 1,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4af4/live/11456110-8029-11f1-bee8-53ce494e1abc.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4af4/live/11456110-8029-11f1-bee8-53ce494e1abc.jpg"
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Wed, 15 Jul 2026 05:45:46 GMT",
         "title": "A moment that changed me: I started yoga – and saw my scoliosis in a surprising new light",
@@ -56,7 +102,7 @@
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Wed, 15 Jul 2026 05:19:39 GMT",
         "title": "Scots urged to 'stay vigilant' as wildfire risk very high",
@@ -72,14 +118,14 @@
             "title": "Scots urged to 'stay vigilant' as wildfire risk very high",
             "standfirst": "The Scottish Fire and Rescue Service has issued a warning for central Highlands, southern and eastern Scotland from Wednesday.",
             "content": "The Scottish Fire and Rescue Service has issued a warning for central Highlands, southern and eastern Scotland from Wednesday.",
-            "feed_position": 1,
+            "feed_position": 2,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4d7/live/3d8f37f0-7fcf-11f1-b100-ede08f115ddf.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4d7/live/3d8f37f0-7fcf-11f1-b100-ede08f115ddf.jpg"
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Wed, 15 Jul 2026 05:08:23 GMT",
         "title": "Hosepipe ban in force for millions of households - is your area affected?",
@@ -95,14 +141,14 @@
             "title": "Hosepipe ban in force for millions of households - is your area affected?",
             "standfirst": "More than eight million households have been placed under hosepipe bans - which has raised questions about how effectively water resources are being managed.",
             "content": "More than eight million households have been placed under hosepipe bans - which has raised questions about how effectively water resources are being managed.",
-            "feed_position": 2,
+            "feed_position": 3,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c74b/live/69a57380-7fa8-11f1-a5f4-433bb9aa2e5a.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c74b/live/69a57380-7fa8-11f1-a5f4-433bb9aa2e5a.jpg"
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Wed, 15 Jul 2026 05:06:34 GMT",
         "title": "To drill or not to drill? Andy Burnham faces North Sea oil dilemma",
@@ -118,14 +164,14 @@
             "title": "To drill or not to drill? Andy Burnham faces North Sea oil dilemma",
             "standfirst": "Burnham, who is expected to become the UK's next prime minister, has been handed a letter from the oil and gas industry calling for his support.",
             "content": "Burnham, who is expected to become the UK's next prime minister, has been handed a letter from the oil and gas industry calling for his support.",
-            "feed_position": 3,
+            "feed_position": 4,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b65/live/e90d58a0-8024-11f1-926f-c90d1bcfbc84.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b65/live/e90d58a0-8024-11f1-926f-c90d1bcfbc84.jpg"
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Wed, 15 Jul 2026 04:00:45 GMT",
         "title": "I investigated Palantir’s foothold in the British state – and what I found should worry us all | Peter Geoghegan",
@@ -146,7 +192,7 @@
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Tue, 14 Jul 2026 23:08:13 GMT",
         "title": "After record heat, could the Atlantic make Britain's weather even more extreme?",
@@ -162,14 +208,14 @@
             "title": "After record heat, could the Atlantic make Britain's weather even more extreme?",
             "standfirst": "As temperatures rise, scientists are investigating whether a changing Atlantic could bring more volatile weather to the UK",
             "content": "As temperatures rise, scientists are investigating whether a changing Atlantic could bring more volatile weather to the UK",
-            "feed_position": 4,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d79/live/ee71ded0-8013-11f1-bee8-53ce494e1abc.jpg"
+            "feed_position": 5,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7318/live/b9b1f540-802c-11f1-926f-c90d1bcfbc84.jpg"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d79/live/ee71ded0-8013-11f1-bee8-53ce494e1abc.jpg"
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7318/live/b9b1f540-802c-11f1-926f-c90d1bcfbc84.jpg"
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Tue, 14 Jul 2026 23:01:38 GMT",
         "title": "MPs call for ban on fast food outlets opening near schools to tackle obesity",
@@ -191,7 +237,7 @@
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Tue, 14 Jul 2026 21:39:06 GMT",
         "title": "Millions in Canada swelter as heatwave continues to move east",
@@ -207,14 +253,14 @@
             "title": "Millions in Canada swelter as heatwave continues to move east",
             "standfirst": "High temperatures are expected to continue for Canada, as well as for parts of the US Midwest and Northeast, into Wednesday.",
             "content": "High temperatures are expected to continue for Canada, as well as for parts of the US Midwest and Northeast, into Wednesday.",
-            "feed_position": 5,
+            "feed_position": 6,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2643/live/3fda79c0-7fca-11f1-82bc-eb96a9eb8087.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2643/live/3fda79c0-7fca-11f1-82bc-eb96a9eb8087.jpg"
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Tue, 14 Jul 2026 18:53:33 GMT",
         "title": "Cyclospora outbreaks causing diarrhea in US expected to continue through August",
@@ -244,7 +290,7 @@
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Tue, 14 Jul 2026 17:11:03 GMT",
         "title": "Meet 'Gus', the world's most expensive Tyrannosaurus rex",
@@ -260,7 +306,7 @@
             "title": "Meet 'Gus', the world's most expensive Tyrannosaurus rex",
             "standfirst": "The sale price of the 67 million-year-old fossil exceeded the previous record set by a stegosaurus in 2024.",
             "content": "The sale price of the 67 million-year-old fossil exceeded the previous record set by a stegosaurus in 2024.",
-            "feed_position": 6,
+            "feed_position": 7,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e186/live/d5e85d70-7fa6-11f1-926f-c90d1bcfbc84.jpg"
           },
           {
@@ -270,14 +316,14 @@
             "title": "Tyrannosaurus rex most expensive dinosaur ever sold",
             "standfirst": "The dinosaur skeleton, which roamed the planet 67 million years ago, was sold by Sotheby's in New York.",
             "content": "The dinosaur skeleton, which roamed the planet 67 million years ago, was sold by Sotheby's in New York.",
-            "feed_position": 8,
+            "feed_position": 9,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc52/live/57426eb0-7fac-11f1-bee8-53ce494e1abc.png"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e186/live/d5e85d70-7fa6-11f1-926f-c90d1bcfbc84.jpg"
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Tue, 14 Jul 2026 16:36:09 GMT",
         "title": "Protect public health policies from lobbying firms | Letter",
@@ -298,7 +344,7 @@
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Tue, 14 Jul 2026 15:50:33 GMT",
         "title": "Watch: New ISS crew blasts off from Kazakhstan",
@@ -314,14 +360,14 @@
             "title": "Watch: New ISS crew blasts off from Kazakhstan",
             "standfirst": "The Soyuz spacecraft will carry Nasa astronaut Anil Menon and cosmonauts Pyotr Dubrov and Anna Kikina to the ISS for an eight-month mission.",
             "content": "The Soyuz spacecraft will carry Nasa astronaut Anil Menon and cosmonauts Pyotr Dubrov and Anna Kikina to the ISS for an eight-month mission.",
-            "feed_position": 7,
+            "feed_position": 8,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26e2/live/a574a6e0-7f9b-11f1-bee8-53ce494e1abc.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26e2/live/a574a6e0-7f9b-11f1-bee8-53ce494e1abc.jpg"
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Tue, 14 Jul 2026 15:39:31 GMT",
         "title": "Somerset MP Anna Sabine loses voice after surgery",
@@ -344,7 +390,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b824/live/1a2ab8c0-7f98-11f1-bee8-53ce494e1abc.jpg"
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Tue, 14 Jul 2026 15:33:24 GMT",
         "title": "Tuberculosis outbreak at Colorado ICE jail sickens at least 12 detainees",
@@ -365,7 +411,7 @@
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Tue, 14 Jul 2026 15:30:19 GMT",
         "title": "Heatwave conditions in NI for second time this summer",
@@ -381,14 +427,14 @@
             "title": "Heatwave conditions in NI for second time this summer",
             "standfirst": "That heat threshold must be met for at least three consecutive days at the same weather station to be a heatwave.",
             "content": "That heat threshold must be met for at least three consecutive days at the same weather station to be a heatwave.",
-            "feed_position": 9,
+            "feed_position": 10,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6785/live/b44d4610-7f8f-11f1-a47a-d94293d2b0e4.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6785/live/b44d4610-7f8f-11f1-a47a-d94293d2b0e4.jpg"
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Tue, 14 Jul 2026 13:30:00 GMT",
         "title": "What in the World",
@@ -411,7 +457,7 @@
         "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0g0gjs2.jpg"
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Tue, 14 Jul 2026 12:45:44 GMT",
         "title": "Covid inquiry PPE report - key findings",
@@ -432,56 +478,11 @@
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c46b/live/092f31d0-7f5d-11f1-a97a-9b1029617ccb.jpg"
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Tue, 14 Jul 2026 12:27:06 GMT",
-        "title": "New US Ebola patient arrives in Germany for treatment",
-        "neutral_headline": "New US Ebola patient arrives in Germany for treatment",
-        "bullet_summary": [
-          "Meanwhile, the Trump administration on Monday said it was blocking American citizens in ⁠the DRC from traveling to the US on commercial flights, Reuters reported, citing a White House official",
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/world/2026/jul/14/american-ebola-patient-arrives-germany",
-            "published_at": "Tue, 14 Jul 2026 12:27:06 GMT",
-            "title": "New US Ebola patient arrives in Germany for treatment",
-            "standfirst": "Aid worker flown to Berlin as Trump administration bars Americans from traveling to US on commercial flightsA US national who contracted Ebola in the Democratic Republic of the Congo has arrived in Germany for treatment, the health ministry in Berlin said on Monday, weeks after another American infected with Ebola in the DRC was treated in Berlin.Meanwhile, the Trump administration on Monday said it was blocking American citizens in ⁠the DRC from traveling to the US on commercial flights, Reuters reported, citing a White House official. Continue reading...",
-            "content": "Aid worker flown to Berlin as Trump administration bars Americans from traveling to US on commercial flightsA US national who contracted Ebola in the Democratic Republic of the Congo has arrived in Germany for treatment, the health ministry in Berlin said on Monday, weeks after another American infected with Ebola in the DRC was treated in Berlin.Meanwhile, the Trump administration on Monday said it was blocking American citizens in ⁠the DRC from traveling to the US on commercial flights, Reuters reported, citing a White House official. Continue reading...",
-            "feed_position": 6
-          }
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Tue, 14 Jul 2026 12:15:38 GMT",
-        "title": "Astronomers' surprise at discovery of new stars",
-        "neutral_headline": "Astronomers' surprise at discovery of new stars",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/news/articles/ce8k80zpkkdo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Tue, 14 Jul 2026 12:15:38 GMT",
-            "title": "Astronomers' surprise at discovery of new stars",
-            "standfirst": "A Warwick University team, working with US astronomers, find four, previously hidden, white dwarf stars.",
-            "content": "A Warwick University team, working with US astronomers, find four, previously hidden, white dwarf stars.",
-            "feed_position": 19,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a1f/live/98f76830-7f78-11f1-b1fb-a927e22d7e8b.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a1f/live/98f76830-7f78-11f1-b1fb-a927e22d7e8b.jpg"
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-07-15T09:05:24.048Z",
+    "updated_at": "2026-07-15T12:09:59.613Z",
     "clusters": []
   }
 }
