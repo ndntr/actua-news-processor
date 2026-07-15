@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-14T23:44:07.992Z",
+  "updated_at": "2026-07-15T05:23:48.236Z",
   "clusters": [
     {
-      "id": "cluster_43",
+      "id": "cluster_56",
       "coverage": 5,
       "updated_at": "Tue, 14 Jul 2026 17:23:51 GMT",
       "title": "New York becomes first state to impose one-year pause on new AI datacenters",
@@ -19,7 +19,7 @@
           "title": "New York becomes first state to impose one-year pause on new AI datacenters",
           "standfirst": "Governor Kathy Hochul issues executive order enacting a moratorium on the large, resource-intensive AI facilitiesNew York became the first US state to enact a moratorium on new datacenters on Tuesday.Governor Kathy Hochul issued an executive order mandating a one-year statewide pause on the large facilities used to power artificial intelligence products, which she signed at a mid-morning press conference. Continue reading...",
           "content": "Governor Kathy Hochul issues executive order enacting a moratorium on the large, resource-intensive AI facilitiesNew York became the first US state to enact a moratorium on new datacenters on Tuesday.Governor Kathy Hochul issued an executive order mandating a one-year statewide pause on the large facilities used to power artificial intelligence products, which she signed at a mid-morning press conference. Continue reading...",
-          "feed_position": 7
+          "feed_position": 8
         },
         {
           "source": "TechCrunch",
@@ -28,7 +28,7 @@
           "title": "New York State halts construction of all new data centers",
           "standfirst": "New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn’t come at the expense of higher electricity costs, water supplies, or local control.",
           "content": "New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn’t come at the expense of higher electricity costs, water supplies, or local control.",
-          "feed_position": 13
+          "feed_position": 14
         },
         {
           "source": "Ars Technica",
@@ -47,7 +47,7 @@
           "title": "New York Governor Signs First Statewide Data Center Moratorium",
           "standfirst": "“We have no choice but to address the challenges created by these massive facilities,” New York governor Kathy Hochul said. The executive order will pause construction for one year.",
           "content": "“We have no choice but to address the challenges created by these massive facilities,” New York governor Kathy Hochul said. The executive order will pause construction for one year.",
-          "feed_position": 2,
+          "feed_position": 16,
           "image_url": "https://media.wired.com/photos/6a26cf2e4811df044cd3238c/master/pass/GettyImages-2279053937.jpg"
         },
         {
@@ -62,10 +62,137 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2276391767-1024x648.jpg",
-      "popularity_score": 5013.661946666667
+      "popularity_score": 5008.000768055555
     },
     {
-      "id": "cluster_0",
+      "id": "cluster_39",
+      "coverage": 3,
+      "updated_at": "Tue, 14 Jul 2026 19:42:27 +0000",
+      "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
+      "neutral_headline": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
+      "bullet_summary": [
+        "Reported by TechCrunch, ZDNet, Wired Tech"
+      ],
+      "items": [
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
+          "published_at": "Tue, 14 Jul 2026 19:42:27 +0000",
+          "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
+          "standfirst": "If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its AI-powered assistant and other new features before the software’s official launch this fall.",
+          "content": "If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its AI-powered assistant and other new features before the software’s official launch this fall.",
+          "feed_position": 5
+        },
+        {
+          "source": "ZDNet",
+          "url": "https://www.zdnet.com/article/how-to-download-ipados-27/",
+          "published_at": "Tue, 14 Jul 2026 18:00:00 GMT",
+          "title": "How to download iPadOS 27 right now - and which models support it",
+          "standfirst": "Apple just released the iPadOS 27 public beta, offering early access to an upgraded Siri, new Safari features, and more.",
+          "content": "Apple just released the iPadOS 27 public beta, offering early access to an upgraded Siri, new Safari features, and more.",
+          "feed_position": 4
+        },
+        {
+          "source": "ZDNet",
+          "url": "https://www.zdnet.com/article/which-iphone-model-supports-ios-27-update/",
+          "published_at": "Tue, 14 Jul 2026 17:48:00 GMT",
+          "title": "Every iPhone model that supports iOS 27 (and which older ones don't)",
+          "standfirst": "Here's a breakdown of which iPhone models support the next iOS update (now available on public beta) - and which ones Apple is leaving behind.",
+          "content": "Here's a breakdown of which iPhone models support the next iOS update (now available on public beta) - and which ones Apple is leaving behind.",
+          "feed_position": 5
+        },
+        {
+          "source": "ZDNet",
+          "url": "https://www.zdnet.com/article/how-to-download-ios-27/",
+          "published_at": "Tue, 14 Jul 2026 17:23:00 GMT",
+          "title": "How to download iOS 27 right now (and which iPhone models support it)",
+          "standfirst": "Apple's WWDC 2026 was full of updates for the overall iPhone user experience - here's how you can try iOS 27 early for free.",
+          "content": "Apple's WWDC 2026 was full of updates for the overall iPhone user experience - here's how you can try iOS 27 early for free.",
+          "feed_position": 6
+        },
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/",
+          "published_at": "Mon, 13 Jul 2026 21:39:09 +0000",
+          "title": "Siri AI Is Becoming Apple’s Everything Tool",
+          "standfirst": "Apple’s revamped Siri is more than a voice assistant; it’s now the backbone of the iPhone user experience. You can try it now through the iOS 27 public beta.",
+          "content": "Apple’s revamped Siri is more than a voice assistant; it’s now the backbone of the iPhone user experience. You can try it now through the iOS 27 public beta.",
+          "feed_position": 42,
+          "image_url": "https://media.wired.com/photos/6a55464e20012bbe11800495/master/pass/Siri-Apple-Everything-Tool-Gear-2260718787.jpg"
+        }
+      ],
+      "featured_image": "https://media.wired.com/photos/6a55464e20012bbe11800495/master/pass/Siri-Apple-Everything-Tool-Gear-2260718787.jpg",
+      "popularity_score": 3010.3107680555554
+    },
+    {
+      "id": "cluster_12",
+      "coverage": 2,
+      "updated_at": "Tue, 14 Jul 2026 23:20:02 -0400",
+      "title": "Sources: OpenAI researcher Miles Wang is leaving the company to launch an AI drug discovery startup, and is in talks to raise $200M at a $2B valuation (Marina Temkin/TechCrunch)",
+      "neutral_headline": "OpenAI researcher Miles Wang in talks to launch AI drug...",
+      "bullet_summary": [
+        "Reported by TechMeme, TechCrunch"
+      ],
+      "items": [
+        {
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/260714/p58#a260714p58",
+          "published_at": "Tue, 14 Jul 2026 23:20:02 -0400",
+          "title": "Sources: OpenAI researcher Miles Wang is leaving the company to launch an AI drug discovery startup, and is in talks to raise $200M at a $2B valuation (Marina Temkin/TechCrunch)",
+          "standfirst": "Marina Temkin / TechCrunch: Sources: OpenAI researcher Miles Wang is leaving the company to launch an AI drug discovery startup, and is in talks to raise $200M at a $2B valuation &mdash; Miles Wang, an OpenAI researcher whose work includes using AI to accelerate scientific and biological discovery, is leaving the ChatGPT maker &hellip;",
+          "content": "Marina Temkin / TechCrunch: Sources: OpenAI researcher Miles Wang is leaving the company to launch an AI drug discovery startup, and is in talks to raise $200M at a $2B valuation &mdash; Miles Wang, an OpenAI researcher whose work includes using AI to accelerate scientific and biological discovery, is leaving the ChatGPT maker &hellip;",
+          "feed_position": 5,
+          "image_url": "http://www.techmeme.com/260714/i58.jpg"
+        },
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+          "published_at": "Wed, 15 Jul 2026 00:27:04 +0000",
+          "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+          "standfirst": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
+          "content": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
+          "feed_position": 0
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/260714/i58.jpg",
+      "popularity_score": 2017.9371569444445
+    },
+    {
+      "id": "cluster_13",
+      "coverage": 2,
+      "updated_at": "Tue, 14 Jul 2026 23:05:00 -0400",
+      "title": "Meta is sued by 26 current and former employees, who allege its use of AI in May layoffs unfairly targeted workers with disabilities or on protected leave (Wall Street Journal)",
+      "neutral_headline": "Meta accused of using biased AI targeting for mass layoffs",
+      "bullet_summary": [
+        "A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters",
+        "Reported by TechMeme, The Verge"
+      ],
+      "items": [
+        {
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/260714/p57#a260714p57",
+          "published_at": "Tue, 14 Jul 2026 23:05:00 -0400",
+          "title": "Meta is sued by 26 current and former employees, who allege its use of AI in May layoffs unfairly targeted workers with disabilities or on protected leave (Wall Street Journal)",
+          "standfirst": "Wall Street Journal: Meta is sued by 26 current and former employees, who allege its use of AI in May layoffs unfairly targeted workers with disabilities or on protected leave &mdash; Lawsuit alleges social-media company relied on AI that disproportionately targeted workers with disabilities or who were on medical or parental leave",
+          "content": "Wall Street Journal: Meta is sued by 26 current and former employees, who allege its use of AI in May layoffs unfairly targeted workers with disabilities or on protected leave &mdash; Lawsuit alleges social-media company relied on AI that disproportionately targeted workers with disabilities or who were on medical or parental leave",
+          "feed_position": 6,
+          "image_url": "http://www.techmeme.com/260714/i57.jpg"
+        },
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
+          "published_at": "2026-07-14T13:18:11-04:00",
+          "title": "Meta accused of using biased AI targeting for mass layoffs",
+          "standfirst": "A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters. In the lawsuit, the employees allege Meta determined which workers to dismiss based on performance data collected by a \"constellation\" of internal AI tools, [&#8230;]",
+          "content": "A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters. In the lawsuit, the employees allege Meta determined which workers to dismiss based on performance data collected by a \"constellation\" of internal AI tools, but failed to exclude those on parental or medical leave from its ranking system: The result was that employees who took protected leaves were disproportionately selected for layoff, based on scoring that not only failed to account for their protected leaves, but in effect penalized the employees for exercising thei … Read the full story at The Verge.",
+          "feed_position": 8
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/260714/i57.jpg",
+      "popularity_score": 2017.686601388889
+    },
+    {
+      "id": "cluster_19",
       "coverage": 2,
       "updated_at": "Tue, 14 Jul 2026 19:35:04 -0400",
       "title": "Study: social networks drove 5.7M+ visits to nudify sites between December 2025 and March 2026, with YouTube accounting for 1.82M and X for 1.3M visits (Ej Dickson/Wired)",
@@ -82,7 +209,7 @@
           "title": "Study: social networks drove 5.7M+ visits to nudify sites between December 2025 and March 2026, with YouTube accounting for 1.82M and X for 1.3M visits (Ej Dickson/Wired)",
           "standfirst": "Ej Dickson / Wired: Study: social networks drove 5.7M+ visits to nudify sites between December 2025 and March 2026, with YouTube accounting for 1.82M and X for 1.3M visits &mdash; A new study found that social media platforms are referring people to sites where they can create nonconsensual, sexually explicit deepfakes for as little as $1 an image.",
           "content": "Ej Dickson / Wired: Study: social networks drove 5.7M+ visits to nudify sites between December 2025 and March 2026, with YouTube accounting for 1.82M and X for 1.3M visits &mdash; A new study found that social media platforms are referring people to sites where they can create nonconsensual, sexually explicit deepfakes for as little as $1 an image.",
-          "feed_position": 0,
+          "feed_position": 11,
           "image_url": "http://www.techmeme.com/260714/i52.jpg"
         },
         {
@@ -92,81 +219,15 @@
           "title": "YouTube and X Have Become ‘Gateways’ to Nudify Apps",
           "standfirst": "A new study found that social media platforms are referring people to sites where they can create nonconsensual, sexually explicit deepfakes for as little as $1 an image.",
           "content": "A new study found that social media platforms are referring people to sites where they can create nonconsensual, sexually explicit deepfakes for as little as $1 an image.",
-          "feed_position": 1,
+          "feed_position": 15,
           "image_url": "https://media.wired.com/photos/6a553fec9abf9605b011c81e/master/pass/Culture_TumblrNudityProblem_v4.gif"
         }
       ],
       "featured_image": "http://www.techmeme.com/260714/i52.jpg",
-      "popularity_score": 2019.848891111111
+      "popularity_score": 2014.1877125
     },
     {
-      "id": "cluster_25",
-      "coverage": 2,
-      "updated_at": "Tue, 14 Jul 2026 16:00:50 -0400",
-      "title": "Overtone, a \"voice- and audio-forward\" dating service founded by Hinge creator Justin McLeod that uses AI to make \"highly curated introductions\", raised $18M (Amanda Silberling/TechCrunch)",
-      "neutral_headline": "The founder of Hinge raised $18M to build a new AI dating service, Overtone",
-      "bullet_summary": [
-        "Reported by TechMeme, TechCrunch"
-      ],
-      "items": [
-        {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/260714/p41#a260714p41",
-          "published_at": "Tue, 14 Jul 2026 16:00:50 -0400",
-          "title": "Overtone, a \"voice- and audio-forward\" dating service founded by Hinge creator Justin McLeod that uses AI to make \"highly curated introductions\", raised $18M (Amanda Silberling/TechCrunch)",
-          "standfirst": "Amanda Silberling / TechCrunch: Overtone, a &ldquo;voice- and audio-forward&rdquo; dating service founded by Hinge creator Justin McLeod that uses AI to make &ldquo;highly curated introductions&rdquo;, raised $18M &mdash; Hinge founder Justin McLeod announced an $18 million fundraise for his new dating company, Overtone.",
-          "content": "Amanda Silberling / TechCrunch: Overtone, a &ldquo;voice- and audio-forward&rdquo; dating service founded by Hinge creator Justin McLeod that uses AI to make &ldquo;highly curated introductions&rdquo;, raised $18M &mdash; Hinge founder Justin McLeod announced an $18 million fundraise for his new dating company, Overtone.",
-          "feed_position": 10,
-          "image_url": "http://www.techmeme.com/260714/i41.jpg"
-        },
-        {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/",
-          "published_at": "Tue, 14 Jul 2026 19:39:39 +0000",
-          "title": "The founder of Hinge raised $18M to build a new AI dating service, Overtone",
-          "standfirst": "Overtone describes itself as \"a voice- and audio-forward service, enabled by AI, that provides highly curated introductions.\"",
-          "content": "Overtone describes itself as \"a voice- and audio-forward service, enabled by AI, that provides highly curated introductions.\"",
-          "feed_position": 6
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/260714/i41.jpg",
-      "popularity_score": 2016.2783355555555
-    },
-    {
-      "id": "cluster_27",
-      "coverage": 2,
-      "updated_at": "Tue, 14 Jul 2026 19:42:27 +0000",
-      "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
-      "neutral_headline": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
-      "bullet_summary": [
-        "Reported by TechCrunch, Wired Tech"
-      ],
-      "items": [
-        {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
-          "published_at": "Tue, 14 Jul 2026 19:42:27 +0000",
-          "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
-          "standfirst": "If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its AI-powered assistant and other new features before the software’s official launch this fall.",
-          "content": "If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its AI-powered assistant and other new features before the software’s official launch this fall.",
-          "feed_position": 4
-        },
-        {
-          "source": "Wired Tech",
-          "url": "https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/",
-          "published_at": "Mon, 13 Jul 2026 21:39:09 +0000",
-          "title": "Siri AI Is Becoming Apple’s Everything Tool",
-          "standfirst": "Apple’s revamped Siri is more than a voice assistant; it’s now the backbone of the iPhone user experience. You can try it now through the iOS 27 public beta.",
-          "content": "Apple’s revamped Siri is more than a voice assistant; it’s now the backbone of the iPhone user experience. You can try it now through the iOS 27 public beta.",
-          "feed_position": 28,
-          "image_url": "https://media.wired.com/photos/6a55464e20012bbe11800495/master/pass/Siri-Apple-Everything-Tool-Gear-2260718787.jpg"
-        }
-      ],
-      "featured_image": "https://media.wired.com/photos/6a55464e20012bbe11800495/master/pass/Siri-Apple-Everything-Tool-Gear-2260718787.jpg",
-      "popularity_score": 2015.9719466666666
-    },
-    {
-      "id": "cluster_52",
+      "id": "cluster_65",
       "coverage": 2,
       "updated_at": "Tue, 14 Jul 2026 16:28:14 +0000",
       "title": "Google revamps image search for its 25th anniversary with more images and more AI",
@@ -197,10 +258,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg",
-      "popularity_score": 2012.7350022222222
+      "popularity_score": 2007.073823611111
     },
     {
-      "id": "cluster_6",
+      "id": "cluster_25",
       "coverage": 1,
       "updated_at": "Tue, 14 Jul 2026 22:20:48 +0000",
       "title": "Microsoft’s Secure Boot has been broken for a decade and no one noticed until now",
@@ -221,10 +282,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/computer-start-button-1152x648.jpg",
-      "popularity_score": 363.6111133333333
+      "popularity_score": 357.9499347222222
     },
     {
-      "id": "cluster_24",
+      "id": "cluster_38",
       "coverage": 1,
       "updated_at": "Tue, 14 Jul 2026 20:05:53 +0000",
       "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
@@ -245,10 +306,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/meta-ai-1152x648-1784056210.jpg",
-      "popularity_score": 344.36250222222225
+      "popularity_score": 338.7013236111111
     },
     {
-      "id": "cluster_8",
+      "id": "cluster_27",
       "coverage": 1,
       "updated_at": "Tue, 14 Jul 2026 22:09:31 +0000",
       "title": "Trump admin puts Americans in Congo on \"do-not-board\" list, barring return",
@@ -269,10 +330,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2278375280-1-1024x648.jpg",
-      "popularity_score": 341.4230577777778
+      "popularity_score": 335.7618791666667
     },
     {
-      "id": "cluster_32",
+      "id": "cluster_45",
       "coverage": 1,
       "updated_at": "Tue, 14 Jul 2026 19:00:02 +0000",
       "title": "Probe into explosive diarrheal cases points to Taco Bell and bad lettuce",
@@ -294,10 +355,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2278289810-1152x648.jpg",
-      "popularity_score": 318.2650022222222
+      "popularity_score": 312.6038236111111
     },
     {
-      "id": "cluster_42",
+      "id": "cluster_55",
       "coverage": 1,
       "updated_at": "Tue, 14 Jul 2026 17:31:58 +0000",
       "title": "These painted e-tattoos could be the future of wearable biosensors",
@@ -318,10 +379,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/tattooTOP-1152x648.jpg",
-      "popularity_score": 311.79722444444445
+      "popularity_score": 306.13604583333336
     },
     {
-      "id": "cluster_38",
+      "id": "cluster_52",
       "coverage": 1,
       "updated_at": "Tue, 14 Jul 2026 18:00:01 +0000",
       "title": "US military sent explosive drone boats into combat for the first time",
@@ -342,10 +403,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/US-military-drone-boat-attack-on-Iranian-port-1152x648.png",
-      "popularity_score": 307.2647244444444
+      "popularity_score": 301.6035458333333
     },
     {
-      "id": "cluster_66",
+      "id": "cluster_82",
       "coverage": 1,
       "updated_at": "Tue, 14 Jul 2026 13:19:16 +0000",
       "title": "Boomers, not Gen Z, are the generation cutting back most on alcohol",
@@ -366,10 +427,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-609621216-1152x648.jpg",
-      "popularity_score": 262.58555777777775
+      "popularity_score": 256.92437916666665
     },
     {
-      "id": "cluster_91",
+      "id": "cluster_110",
       "coverage": 1,
       "updated_at": "Tue, 14 Jul 2026 01:17:14 +0000",
       "title": "SpaceX is gearing up for Starship's 13th test flight later this week",
@@ -393,7 +454,7 @@
       "popularity_score": 256
     },
     {
-      "id": "cluster_100",
+      "id": "cluster_120",
       "coverage": 1,
       "updated_at": "Mon, 13 Jul 2026 19:17:51 +0000",
       "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
@@ -417,7 +478,7 @@
       "popularity_score": 160
     },
     {
-      "id": "cluster_97",
+      "id": "cluster_117",
       "coverage": 1,
       "updated_at": "Mon, 13 Jul 2026 20:41:26 +0000",
       "title": "Ukrainian drone strikes forced Russia to stop shipping in vital sea corridor",
@@ -441,7 +502,7 @@
       "popularity_score": 148
     },
     {
-      "id": "cluster_105",
+      "id": "cluster_126",
       "coverage": 1,
       "updated_at": "Mon, 13 Jul 2026 17:49:56 +0000",
       "title": "Tom Cruise is utterly transformed in Digger trailer",
@@ -465,7 +526,7 @@
       "popularity_score": 148
     },
     {
-      "id": "cluster_106",
+      "id": "cluster_127",
       "coverage": 1,
       "updated_at": "Mon, 13 Jul 2026 17:18:25 +0000",
       "title": "Apple and Samsung benefit as memory shortage pushes smartphone shipments to historic lows",
@@ -489,7 +550,7 @@
       "popularity_score": 145
     },
     {
-      "id": "cluster_96",
+      "id": "cluster_115",
       "coverage": 1,
       "updated_at": "Mon, 13 Jul 2026 21:03:07 +0000",
       "title": "The US government warns that Russia state hackers are coming after your router",
@@ -513,7 +574,7 @@
       "popularity_score": 143
     },
     {
-      "id": "cluster_99",
+      "id": "cluster_119",
       "coverage": 1,
       "updated_at": "Mon, 13 Jul 2026 19:52:48 +0000",
       "title": "California creates $3,500 rebate for new electric vehicle buyers",
@@ -537,7 +598,7 @@
       "popularity_score": 139
     },
     {
-      "id": "cluster_102",
+      "id": "cluster_122",
       "coverage": 1,
       "updated_at": "Mon, 13 Jul 2026 19:00:47 +0000",
       "title": "Solution to Feynman's reverse sprinkler puzzle also applies to \"silly sprinklers\"",
@@ -561,7 +622,7 @@
       "popularity_score": 139
     },
     {
-      "id": "cluster_95",
+      "id": "cluster_114",
       "coverage": 1,
       "updated_at": "Mon, 13 Jul 2026 22:07:34 +0000",
       "title": "US continues to shun Ebola-infected citizens; second American sent to Germany",
@@ -586,7 +647,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_103",
+      "id": "cluster_123",
       "coverage": 1,
       "updated_at": "Mon, 13 Jul 2026 18:34:35 +0000",
       "title": "States sue to block Paramount/WBD merger that was approved by Trump admin",
@@ -610,7 +671,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_108",
+      "id": "cluster_129",
       "coverage": 1,
       "updated_at": "Mon, 13 Jul 2026 16:49:35 +0000",
       "title": "Colorado will decide whether a \"right to natural gas\" is added to state constitution",
