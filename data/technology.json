@@ -1,44 +1,67 @@
 {
-  "updated_at": "2026-07-20T09:51:52.593Z",
+  "updated_at": "2026-07-20T13:00:54.021Z",
   "clusters": [
     {
-      "id": "cluster_17",
+      "id": "cluster_9",
       "coverage": 2,
-      "updated_at": "Sun, 19 Jul 2026 23:01:01 -0400",
-      "title": "France's National Gambling Authority blocks access to Polymarket's website, citing concerns of exposing users to significant losses and manipulated trading (Sudip Kar-Gupta/Reuters)",
-      "neutral_headline": "France doubles down on restricting access to Polymarket",
+      "updated_at": "2026-07-20T07:16:32-04:00",
+      "title": "AliExpress fined almost $630 million over illegal product sales",
+      "neutral_headline": "AliExpress fined almost $630 million over illegal product sales",
       "bullet_summary": [
-        "Reported by TechMeme, Engadget"
+        "Reported by The Verge, TechMeme"
       ],
       "items": [
         {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/260719/p17#a260719p17",
-          "published_at": "Sun, 19 Jul 2026 23:01:01 -0400",
-          "title": "France's National Gambling Authority blocks access to Polymarket's website, citing concerns of exposing users to significant losses and manipulated trading (Sudip Kar-Gupta/Reuters)",
-          "standfirst": "Sudip Kar-Gupta / Reuters: France's National Gambling Authority blocks access to Polymarket's website, citing concerns of exposing users to significant losses and manipulated trading &mdash; France has blocked access to the Polymarket betting website, the country's gambling regulator said on Friday, citing concerns &hellip;",
-          "content": "Sudip Kar-Gupta / Reuters: France's National Gambling Authority blocks access to Polymarket's website, citing concerns of exposing users to significant losses and manipulated trading &mdash; France has blocked access to the Polymarket betting website, the country's gambling regulator said on Friday, citing concerns &hellip;",
-          "feed_position": 14,
-          "image_url": "http://www.techmeme.com/260719/i17.jpg"
+          "source": "The Verge",
+          "url": "https://www.theverge.com/policy/967802/aliexpress-eu-dsa-fine-illegal-products",
+          "published_at": "2026-07-20T07:16:32-04:00",
+          "title": "AliExpress fined almost $630 million over illegal product sales",
+          "standfirst": "AliExpress has been hit with a &#8364;550 million (about $629 million) fine for violating Europe's Digital Services Act (DSA) rules by failing to prevent illegal, unsafe, or counterfeit products from being sold on the e-commerce platform. The European Commission ruled that AliExpress didn't take effective measures to reduce the dissemination of illegal products, noting the [&#8230;]",
+          "content": "The fine is more than double the penalty that Temu was slapped with for similar DSA violations. | Illustration: The Verge AliExpress has been hit with a &euro;550 million (about $629 million) fine for violating Europe's Digital Services Act (DSA) rules by failing to prevent illegal, unsafe, or counterfeit products from being sold on the e-commerce platform. The European Commission ruled that AliExpress didn't take effective measures to reduce the dissemination of illegal products, noting the company \"allocated insufficient staff\" to verify products, and failed to remove unsafe toys and dangerous cosmetics for \"multiple weeks\" after they were detected. \"The spread of counterfeit clothing, unsafe toys, dangerous cosmetics and other illegal and harmful products is not … Read the full story at The Verge.",
+          "feed_position": 0
         },
         {
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2218130/france-doubles-down-on-restricting-access-to-polymarket/",
-          "published_at": "Sat, 18 Jul 2026 19:41:51 +0000",
-          "title": "France doubles down on restricting access to Polymarket",
-          "standfirst": "The country's gambling authority ordered ISPs to block access to the prediction market's website.",
-          "content": "The country's gambling authority ordered ISPs to block access to the prediction market's website.",
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/260720/p13#a260720p13",
+          "published_at": "Mon, 20 Jul 2026 06:11:16 -0400",
+          "title": "The EU fines Alibaba's online marketplace AliExpress €550M for failing to do enough to prevent the sale of illegal products, the largest DSA fine to date (Barbara Moens/Financial Times)",
+          "standfirst": "Barbara Moens / Financial Times: The EU fines Alibaba's online marketplace AliExpress &euro;550M for failing to do enough to prevent the sale of illegal products, the largest DSA fine to date &mdash; Record penalty under bloc's Digital Services Act comes amid broader crackdown on Chinese ecommerce platforms",
+          "content": "Barbara Moens / Financial Times: The EU fines Alibaba's online marketplace AliExpress &euro;550M for failing to do enough to prevent the sale of illegal products, the largest DSA fine to date &mdash; Record penalty under bloc's Digital Services Act comes amid broader crackdown on Chinese ecommerce platforms",
           "feed_position": 5,
-          "image_url": "https://www.engadget.com/img/gallery/france-doubles-down-on-restricting-access-to-polymarket/l-intro-1784402768.jpg"
+          "image_url": "http://www.techmeme.com/260720/i13.jpg"
         }
       ],
-      "featured_image": "http://www.techmeme.com/260719/i17.jpg",
-      "popularity_score": 2013.1523352777779
+      "featured_image": "http://www.techmeme.com/260720/i13.jpg",
+      "popularity_score": 2018.2605497222223
+    },
+    {
+      "id": "cluster_7",
+      "coverage": 1,
+      "updated_at": "Mon, 20 Jul 2026 11:20:10 +0000",
+      "title": "Beyond grep: The case for a context-rich AI coding harness",
+      "neutral_headline": "Beyond grep: The case for a context-rich AI coding harness",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
+          "published_at": "Mon, 20 Jul 2026 11:20:10 +0000",
+          "title": "Beyond grep: The case for a context-rich AI coding harness",
+          "standfirst": "Augment Code's Vinay Perneti talks models, harnesses, and context.",
+          "content": "There are a lot of AI coding applications out there, and as impressive as large language models and the agents they enable have become, many of the most recent developments in AI-assisted development have been in the software that manages those models, not just the models themselves. Earlier this summer, I spoke with the head of product for Claude Code, Anthropic's Cat Wu, about that company's approach to building that software.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Vinay-Perneti-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Vinay-Perneti-1152x648.jpg",
+      "popularity_score": 366.3211052777778
     },
     {
       "id": "cluster_0",
       "coverage": 1,
-      "updated_at": "2026-07-20T09:51:52.566Z",
+      "updated_at": "2026-07-20T13:00:53.981Z",
       "title": "2026 Lucid Gravity Touring review: A strong act 2",
       "neutral_headline": "2026 Lucid Gravity Touring review: A strong act 2",
       "bullet_summary": [
@@ -48,17 +71,17 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/cars/2026/07/2026-lucid-gravity-touring-review-a-strong-act-2/",
-          "published_at": "2026-07-20T09:51:52.566Z",
+          "published_at": "2026-07-20T13:00:53.981Z",
           "title": "2026 Lucid Gravity Touring review: A strong act 2",
           "standfirst": "",
           "content": "",
           "feed_position": 0
         }
       ],
-      "popularity_score": 360.9999925
+      "popularity_score": 360.9999888888889
     },
     {
-      "id": "cluster_19",
+      "id": "cluster_33",
       "coverage": 1,
       "updated_at": "Sun, 19 Jul 2026 22:11:21 +0000",
       "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
@@ -74,15 +97,37 @@
           "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
           "standfirst": "\"On the first attempt, reaching orbit, I never thought it was possible.\"",
           "content": "Indian space officials celebrated the debut flight of Skyroot Aerospace's Vikram-1 rocket, India's first fully commercial satellite launcher, as a \"grand success\" Saturday after an on-target climb into a 280-mile-high orbit following liftoff from an island spaceport in the Bay of Bengal. The Vikram-1 lifted off from India's primary spaceport on Sriharikota Island at 1:35 am EDT (06:35 UTC) Saturday, around midday at the launch base along India's southeast coast. The launch was delayed more than a half-hour to resolve a last-minute technical problem. The countdown resumed, culminating in the command to ignite Vikram-1's solid-fueled first stage booster to propel the rocket off the launch pad. Vikram-1 is modest in size compared to India's larger workhorse rockets. Skyroot's rocket stands about 72 feet (22 meters) tall, with the capability to place payloads of up to 770 pounds (350 kilograms) into low-Earth orbit. This makes Vikram-1 somewhat larger than the Electron launch vehicle developed by Rocket Lab, the world's most successful dedicated small satellite launcher.Read full article Comments",
-          "feed_position": 0,
+          "feed_position": 1,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2285958264-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2285958264-1152x648.jpg",
-      "popularity_score": 347.3245575
+      "popularity_score": 334.17416083333336
     },
     {
-      "id": "cluster_40",
+      "id": "cluster_4",
+      "coverage": 1,
+      "updated_at": "2026-07-20T13:00:53.982Z",
+      "title": "Will AI fix prior authorization—or make it worse?",
+      "neutral_headline": "Will AI fix prior authorization—or make it worse",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
+          "published_at": "2026-07-20T13:00:53.982Z",
+          "title": "Will AI fix prior authorization—or make it worse?",
+          "standfirst": "",
+          "content": "",
+          "feed_position": 4
+        }
+      ],
+      "popularity_score": 324.99998916666664
+    },
+    {
+      "id": "cluster_53",
       "coverage": 1,
       "updated_at": "Sun, 19 Jul 2026 11:19:31 +0000",
       "title": "As mosquito ranges expand, better monitoring is key to preventing disease",
@@ -98,41 +143,17 @@
           "title": "As mosquito ranges expand, better monitoring is key to preventing disease",
           "standfirst": "Monitoring is expensive and labor intensive. But it helps public health officials stop outbreaks.",
           "content": "With summer heat comes pool parties, beach days, backyard cookouts, and, of course, swarms of bloodthirsty mosquitoes. But while insect bites have always been a side effect of time spent outdoors, the species doing the biting are changing in historically temperate regions like New England. As climate change makes these areas warmer and wetter, their ranges are expanding—and any diseases they carry come with them. In Connecticut, for example, a statewide mosquito monitoring program has detected 54 different species, including invasives like the Asian tiger mosquito, which can transmit potentially serious diseases including dengue and Zika. The mosquito’s historical territory is in hot and humid climates farther south, but it has been moving north.Read full article Comments",
-          "feed_position": 1,
+          "feed_position": 2,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/GettyImages-1247505555-1152x648.jpeg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/GettyImages-1247505555-1152x648.jpeg",
-      "popularity_score": 329
+      "popularity_score": 319
     },
     {
-      "id": "cluster_68",
+      "id": "cluster_5",
       "coverage": 1,
-      "updated_at": "Sat, 18 Jul 2026 11:18:25 +0000",
-      "title": "Will AI fix prior authorization—or make it worse?",
-      "neutral_headline": "Will AI fix prior authorization—or make it worse",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
-          "published_at": "Sat, 18 Jul 2026 11:18:25 +0000",
-          "title": "Will AI fix prior authorization—or make it worse?",
-          "standfirst": "The government is piloting a program that uses AI for insurance-coverage decisions.",
-          "content": "If you’re like me, you or a loved one has struggled through the process of gaining pre-approval for the medical care that your physician has recommended. Personal stories abound regarding the tribulations of patients as they go through hoops to get their health insurer to pay for certain prescription medications, medical procedures, and more. When used judiciously, this process—known as prior authorization—serves as a check on overuse and spending on services or technologies for which there are less costly alternatives. But a large majority of physicians voice concerns about care delays, which can cause patients to abandon recommended treatments while waiting for the insurance company to verify their eligibility and confirm that the treatment is, indeed, medically necessary. Patients who are denied care may submit an appeal, but that requires more time. AI might be able to help. With its ability to efficiently sort through vast reams of information, artificial intelligence could theoretically expedite approval of unambiguously allowable claims, thereby reducing care delays. However, AI-driven prior authorization is facing resistance, as it may increase wrongful denials of health insurance coverage. A 2025 American Medical Association survey of physicians revealed significant concern about the application of AI tools, with 61 percent of doctors worrying that AI will exacerbate denials of what they deem are necessary treatments.Read full article Comments",
-          "feed_position": 2,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264310821-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264310821-1152x648.jpg",
-      "popularity_score": 325
-    },
-    {
-      "id": "cluster_4",
-      "coverage": 1,
-      "updated_at": "2026-07-20T09:51:52.566Z",
+      "updated_at": "2026-07-20T13:00:53.982Z",
       "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
       "neutral_headline": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
       "bullet_summary": [
@@ -142,19 +163,19 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
-          "published_at": "2026-07-20T09:51:52.566Z",
+          "published_at": "2026-07-20T13:00:53.982Z",
           "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
           "standfirst": "",
           "content": "",
-          "feed_position": 4
+          "feed_position": 5
         }
       ],
-      "popularity_score": 324.9999925
+      "popularity_score": 314.99998916666664
     },
     {
-      "id": "cluster_5",
+      "id": "cluster_6",
       "coverage": 1,
-      "updated_at": "2026-07-20T09:51:52.566Z",
+      "updated_at": "2026-07-20T13:00:53.982Z",
       "title": "The Pentagon&#8217;s Space Development Agency hasn&#8217;t moved as fast as anyone would like",
       "neutral_headline": "The Pentagon&#8217;s Space Development Agency hasn&#8217;t moved as fast...",
       "bullet_summary": [
@@ -164,19 +185,19 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/space/2026/07/the-pentagons-space-development-agency-hasnt-moved-as-fast-as-anyone-would-like/",
-          "published_at": "2026-07-20T09:51:52.566Z",
+          "published_at": "2026-07-20T13:00:53.982Z",
           "title": "The Pentagon&#8217;s Space Development Agency hasn&#8217;t moved as fast as anyone would like",
           "standfirst": "",
           "content": "",
-          "feed_position": 5
+          "feed_position": 6
         }
       ],
-      "popularity_score": 316.9999925
+      "popularity_score": 306.99998916666664
     },
     {
-      "id": "cluster_6",
+      "id": "cluster_7",
       "coverage": 1,
-      "updated_at": "2026-07-20T09:51:52.566Z",
+      "updated_at": "2026-07-20T13:00:53.982Z",
       "title": "Hegseth wants a &#8220;High-T&#8221; military; doctors call it a clinical minefield",
       "neutral_headline": "Hegseth wants a &#8220;High-T&#8221; military; doctors call it a clinical minefield",
       "bullet_summary": [
@@ -186,19 +207,19 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/health/2026/07/hegseth-wants-a-high-t-military-doctors-call-it-a-clinical-minefield/",
-          "published_at": "2026-07-20T09:51:52.566Z",
+          "published_at": "2026-07-20T13:00:53.982Z",
           "title": "Hegseth wants a &#8220;High-T&#8221; military; doctors call it a clinical minefield",
           "standfirst": "",
           "content": "",
-          "feed_position": 6
+          "feed_position": 7
         }
       ],
-      "popularity_score": 292.9999925
+      "popularity_score": 282.99998916666664
     },
     {
-      "id": "cluster_8",
+      "id": "cluster_9",
       "coverage": 1,
-      "updated_at": "2026-07-20T09:51:52.566Z",
+      "updated_at": "2026-07-20T13:00:53.982Z",
       "title": "Troubling new details emerge on diabetes ouster controversy",
       "neutral_headline": "Troubling new details emerge on diabetes ouster controversy",
       "bullet_summary": [
@@ -208,19 +229,19 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/science/2026/07/troubling-new-details-emerge-on-diabetes-ouster-controversy/",
-          "published_at": "2026-07-20T09:51:52.566Z",
+          "published_at": "2026-07-20T13:00:53.982Z",
           "title": "Troubling new details emerge on diabetes ouster controversy",
           "standfirst": "",
           "content": "",
-          "feed_position": 8
+          "feed_position": 9
         }
       ],
-      "popularity_score": 287.9999925
+      "popularity_score": 277.99998916666664
     },
     {
-      "id": "cluster_7",
+      "id": "cluster_8",
       "coverage": 1,
-      "updated_at": "2026-07-20T09:51:52.566Z",
+      "updated_at": "2026-07-20T13:00:53.982Z",
       "title": "Taco Bell iceberg lettuce identified as source of cyclosporiasis in 5 states",
       "neutral_headline": "Taco Bell iceberg lettuce identified as source of cyclosporiasis in 5 states",
       "bullet_summary": [
@@ -230,36 +251,14 @@
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/health/2026/07/taco-bell-iceburg-lettuce-identified-as-source-of-cyclosporiasis-in-5-states/",
-          "published_at": "2026-07-20T09:51:52.566Z",
+          "published_at": "2026-07-20T13:00:53.982Z",
           "title": "Taco Bell iceberg lettuce identified as source of cyclosporiasis in 5 states",
           "standfirst": "",
           "content": "",
-          "feed_position": 7
+          "feed_position": 8
         }
       ],
-      "popularity_score": 282.9999925
-    },
-    {
-      "id": "cluster_9",
-      "coverage": 1,
-      "updated_at": "2026-07-20T09:51:52.566Z",
-      "title": "Will Russia&#8217;s answer to the Falcon 9 rocket ever take flight?",
-      "neutral_headline": "Will Russia&#8217;s answer to the Falcon 9 rocket ever take flight",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/07/will-russias-answer-to-the-falcon-9-rocket-ever-take-flight/",
-          "published_at": "2026-07-20T09:51:52.566Z",
-          "title": "Will Russia&#8217;s answer to the Falcon 9 rocket ever take flight?",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 9
-        }
-      ],
-      "popularity_score": 268.9999925
+      "popularity_score": 272.99998916666664
     }
   ]
 }
