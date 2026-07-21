@@ -1,17 +1,40 @@
 {
   "clinical": {
-    "updated_at": "2026-07-21T05:42:00.334Z",
+    "updated_at": "2026-07-21T09:22:51.188Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-07-21T05:42:00.334Z",
+    "updated_at": "2026-07-21T09:22:51.188Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-07-21T05:42:02.209Z",
+    "updated_at": "2026-07-21T09:22:53.660Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Tue, 21 Jul 2026 09:00:00 GMT",
+        "title": "Inside Health",
+        "neutral_headline": "Inside Health",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.co.uk/sounds/play/m002z735?at_medium=RSS&at_campaign=rss",
+            "published_at": "Tue, 21 Jul 2026 09:00:00 GMT",
+            "title": "Inside Health",
+            "standfirst": "Also, running during pregnancy and how to recover.",
+            "content": "Also, running during pregnancy and how to recover.",
+            "feed_position": 43,
+            "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1r8h6.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1r8h6.jpg"
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Tue, 21 Jul 2026 02:42:44 GMT",
         "title": "Tropical Storm Bertha threatens US Gulf coast",
@@ -34,7 +57,30 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce22/live/7cb71d20-84ad-11f1-b976-0b9c15b0ccfc.jpg"
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Tue, 21 Jul 2026 00:16:08 GMT",
+        "title": "Your tips on getting a fussy child to eat, and six recipes they'll love",
+        "neutral_headline": "Your tips on getting a fussy child to eat, and six recipes they'll love",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.co.uk/news/articles/c5yrjgj984qo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Tue, 21 Jul 2026 00:16:08 GMT",
+            "title": "Your tips on getting a fussy child to eat, and six recipes they'll love",
+            "standfirst": "Want to avoid battles over broccoli and squabbles over spinach? We've asked you for your advice on how to cope at mealtimes over the summer holidays.",
+            "content": "Want to avoid battles over broccoli and squabbles over spinach? We've asked you for your advice on how to cope at mealtimes over the summer holidays.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5ec/live/5e399080-8435-11f1-bee8-53ce494e1abc.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5ec/live/5e399080-8435-11f1-bee8-53ce494e1abc.jpg"
+      },
+      {
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Tue, 21 Jul 2026 00:12:17 GMT",
         "title": "Is UK facing drought for second summer in a row?",
@@ -51,13 +97,13 @@
             "standfirst": "The longest dry spell in over 30 years for central England raises concerns about drought and when it might rain.",
             "content": "The longest dry spell in over 30 years for central England raises concerns about drought and when it might rain.",
             "feed_position": 1,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/933d/live/138470f0-4236-11f1-b55d-0f258dce1735.jpg"
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fce/live/c622f500-84db-11f1-b976-0b9c15b0ccfc.jpg"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/933d/live/138470f0-4236-11f1-b55d-0f258dce1735.jpg"
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fce/live/c622f500-84db-11f1-b976-0b9c15b0ccfc.jpg"
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Tue, 21 Jul 2026 00:01:32 GMT",
         "title": "Bumblebees are struggling in UK heatwaves - but you can help them",
@@ -80,7 +126,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d8f/live/15884120-842a-11f1-96d8-4b9d5565f166.jpg"
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Mon, 20 Jul 2026 18:16:51 GMT",
         "title": "Canadian wildfires rage as Trump warns Carney again over 'poisoning' US air",
@@ -103,7 +149,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8062/live/7ae1e690-846e-11f1-b286-f1d324aa6c22.jpg"
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Mon, 20 Jul 2026 18:01:00 GMT",
         "title": "'If only people knew what a tick could do' - the deadly meat allergy caused by tick bites",
@@ -119,14 +165,14 @@
             "title": "'If only people knew what a tick could do' - the deadly meat allergy caused by tick bites",
             "standfirst": "Mammalian meat allergy is a growing problem along Australia's east coast - and it's caused by tick bites.",
             "content": "Mammalian meat allergy is a growing problem along Australia's east coast - and it's caused by tick bites.",
-            "feed_position": 0,
+            "feed_position": 1,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43f6/live/c2149510-76ab-11f1-9b91-4ff46439d279.png"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43f6/live/c2149510-76ab-11f1-9b91-4ff46439d279.png"
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Mon, 20 Jul 2026 16:50:31 GMT",
         "title": "How AI can help with healthcare",
@@ -149,7 +195,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fabf/live/c2412530-8452-11f1-b976-0b9c15b0ccfc.jpg"
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Mon, 20 Jul 2026 16:28:06 GMT",
         "title": "Palantir isn’t the only option for the NHS | Letter",
@@ -170,13 +216,13 @@
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Mon, 20 Jul 2026 12:57:32 GMT",
         "title": "Rare identical quadruplets born in Australia",
         "neutral_headline": "Rare identical quadruplets born in Australia",
         "bullet_summary": [
-          "The parents of the four naturally-conceived girls were taken by \"immense surprise\" with the pregnancy, the hospital said",
+          "The parents of the four naturally conceived girls were taken by \"immense surprise\" with the pregnancy, the hospital said",
           "Reported by BBC Health"
         ],
         "items": [
@@ -185,16 +231,16 @@
             "url": "https://www.bbc.co.uk/news/articles/cx2jnj3428lo?at_medium=RSS&at_campaign=rss",
             "published_at": "Mon, 20 Jul 2026 12:57:32 GMT",
             "title": "Rare identical quadruplets born in Australia",
-            "standfirst": "The parents of the four naturally-conceived girls were taken by \"immense surprise\" with the pregnancy, the hospital said.",
-            "content": "The parents of the four naturally-conceived girls were taken by \"immense surprise\" with the pregnancy, the hospital said.",
-            "feed_position": 1,
+            "standfirst": "The parents of the four naturally conceived girls were taken by \"immense surprise\" with the pregnancy, the hospital said.",
+            "content": "The parents of the four naturally conceived girls were taken by \"immense surprise\" with the pregnancy, the hospital said.",
+            "feed_position": 2,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5ad/live/ba2bc6c0-842a-11f1-96d8-4b9d5565f166.png"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5ad/live/ba2bc6c0-842a-11f1-96d8-4b9d5565f166.png"
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Mon, 20 Jul 2026 12:25:57 GMT",
         "title": "The hunger-striking engineer demanding education reforms in India",
@@ -217,7 +263,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/956d/live/76fe5780-8431-11f1-b976-0b9c15b0ccfc.jpg"
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Mon, 20 Jul 2026 12:20:00 GMT",
         "title": "FDA says review of Taylor Farms lettuce shows cyclospora finding was false positive",
@@ -239,7 +285,7 @@
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Mon, 20 Jul 2026 10:06:44 GMT",
         "title": "Why do we procrastinate?",
@@ -262,7 +308,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/177d/live/ba9944b0-8421-11f1-bee8-53ce494e1abc.jpg"
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Mon, 20 Jul 2026 08:20:07 GMT",
         "title": "Going with the flow: Renewable energy battery breakthrough",
@@ -285,7 +331,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2de3/live/19e368b0-811b-11f1-96bf-6155b9f8d82a.jpg"
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Mon, 20 Jul 2026 08:00:51 GMT",
         "title": "‘We need to talk about how difficult it is’: why one couple are pinning surrogacy hopes on Mexico",
@@ -306,7 +352,7 @@
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Mon, 20 Jul 2026 06:57:55 GMT",
         "title": "Granny wins care home Happy Hour law change",
@@ -322,14 +368,14 @@
             "title": "Granny wins care home Happy Hour law change",
             "standfirst": "Anita Le Brun, the face of a campaign to allow for alcohol to be served at care homes without a licence, is celebrating its success.",
             "content": "Anita Le Brun, the face of a campaign to allow for alcohol to be served at care homes without a licence, is celebrating its success.",
-            "feed_position": 2,
+            "feed_position": 3,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10c0/live/35605820-8407-11f1-926f-c90d1bcfbc84.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10c0/live/35605820-8407-11f1-926f-c90d1bcfbc84.jpg"
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Mon, 20 Jul 2026 06:12:30 GMT",
         "title": "Fight to save rare ecosystem of chalk streams",
@@ -352,7 +398,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d10/live/b25b47d0-8205-11f1-bee8-53ce494e1abc.jpg"
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Mon, 20 Jul 2026 05:49:38 GMT",
         "title": "Controversial farm subsidy scheme gets billion pound budget",
@@ -375,7 +421,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2b9/live/03604bf0-839e-11f1-8c34-fb0b540950a3.jpg"
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Mon, 20 Jul 2026 05:25:27 GMT",
         "title": "'Hidden time-capsule of UK biodiversity' unlocked",
@@ -398,7 +444,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7783/live/a626ed90-8064-11f1-bf5f-a7a6eeea7412.jpg"
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Mon, 20 Jul 2026 05:02:03 GMT",
         "title": "'You are not alone with endometriosis pain'",
@@ -419,55 +465,11 @@
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae29/live/0c63a410-7866-11f1-ab53-3dbca6ef5ee1.jpg"
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Mon, 20 Jul 2026 05:00:49 GMT",
-        "title": "Rising numbers of younger midwives quitting NHS in England, data shows",
-        "neutral_headline": "Rising numbers of younger midwives quitting NHS in England, data shows",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2026/jul/20/younger-midwives-nhs-england-burnout-maternity-staffing",
-            "published_at": "Mon, 20 Jul 2026 05:00:49 GMT",
-            "title": "Rising numbers of younger midwives quitting NHS in England, data shows",
-            "standfirst": "Exclusive: Maternity staffing shortages worsen as more and more under-35s quit because of burnoutMore and more midwives are leaving the NHS before they reach 35 because of burnout, worsening the staffing problems that are affecting maternity units.The growing trend of early career quitting has sparked fears it poses a threat to the quality and safety of care that mothers and babies receive from already-understaffed childbirth services. Continue reading...",
-            "content": "Exclusive: Maternity staffing shortages worsen as more and more under-35s quit because of burnoutMore and more midwives are leaving the NHS before they reach 35 because of burnout, worsening the staffing problems that are affecting maternity units.The growing trend of early career quitting has sparked fears it poses a threat to the quality and safety of care that mothers and babies receive from already-understaffed childbirth services. Continue reading...",
-            "feed_position": 3
-          }
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Sun, 19 Jul 2026 23:09:18 GMT",
-        "title": "My fitness tracker knew I was pregnant before I did",
-        "neutral_headline": "My fitness tracker knew I was pregnant before I did",
-        "bullet_summary": [
-          "Reported by BBC Health"
-        ],
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.co.uk/news/articles/cr474z1qyn6o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Sun, 19 Jul 2026 23:09:18 GMT",
-            "title": "My fitness tracker knew I was pregnant before I did",
-            "standfirst": "Ravika is one of hundreds of women who are noticing early pregnancy signs through the data on their fitness trackers.",
-            "content": "Ravika is one of hundreds of women who are noticing early pregnancy signs through the data on their fitness trackers.",
-            "feed_position": 3,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/443f/live/4d8e16d0-8425-11f1-8aab-7b42b0ff0499.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/443f/live/4d8e16d0-8425-11f1-8aab-7b42b0ff0499.jpg"
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-07-21T05:42:02.209Z",
+    "updated_at": "2026-07-21T09:22:53.660Z",
     "clusters": []
   }
 }
