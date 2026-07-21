@@ -1,24 +1,67 @@
 {
-  "updated_at": "2026-07-21T20:15:50.714Z",
+  "updated_at": "2026-07-21T23:50:44.670Z",
   "clusters": [
     {
-      "id": "cluster_5",
+      "id": "cluster_4",
+      "coverage": 3,
+      "updated_at": "Tue, 21 Jul 2026 22:50:01 +0000",
+      "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
+      "neutral_headline": "OpenAI Models Escaped Containment and Hacked Hugging Face",
+      "bullet_summary": [
+        "Reported by Wired Tech, The Verge, TechMeme"
+      ],
+      "items": [
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
+          "published_at": "Tue, 21 Jul 2026 22:50:01 +0000",
+          "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
+          "standfirst": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet to pull off the attack.",
+          "content": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet to pull off the attack.",
+          "feed_position": 1,
+          "image_url": "https://media.wired.com/photos/6a5ff5b0f95e7d91469f8f3d/master/pass/security_openai_hack_huggingface.jpg"
+        },
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+          "published_at": "2026-07-21T17:48:54-04:00",
+          "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
+          "standfirst": "OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and \"an even more capable pre-release model\" discovered vulnerabilities within their sandboxed testing environment, allowing them to gain access to the internet and target Hugging Face. On July 16th, [&#8230;]",
+          "content": "OpenAI CEO Sam Altman. | Bloomberg via Getty Images OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and \"an even more capable pre-release model\" discovered vulnerabilities within their sandboxed testing environment, allowing them to gain access to the internet and target Hugging Face. On July 16th, Hugging Face disclosed a security incident that it says was driven by \"an autonomous AI agent system.\" Hugging Face's AI agents detected and stopped the breach, which OpenAI has now admitted occurred during an evaluation of its models' cybersecurity capabilities. OpenAI says \"all e … Read the full story at The Verge.",
+          "feed_position": 1
+        },
+        {
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/260721/p43#a260721p43",
+          "published_at": "Tue, 21 Jul 2026 15:55:02 -0400",
+          "title": "OpenAI says its models, including GPT-5.6 Sol and \"an even more capable pre-release model\", breached Hugging Face while OpenAI tested their cyber capabilities (Ina Fried/Axios)",
+          "standfirst": "Ina Fried / Axios: OpenAI says its models, including GPT-5.6 Sol and &ldquo;an even more capable pre-release model&rdquo;, breached Hugging Face while OpenAI tested their cyber capabilities &mdash; OpenAI said Tuesday that models it was testing escaped their sandbox and compromised parts of AI platform Hugging Face's production infrastructure last week.",
+          "content": "Ina Fried / Axios: OpenAI says its models, including GPT-5.6 Sol and &ldquo;an even more capable pre-release model&rdquo;, breached Hugging Face while OpenAI tested their cyber capabilities &mdash; OpenAI said Tuesday that models it was testing escaped their sandbox and compromised parts of AI platform Hugging Face's production infrastructure last week.",
+          "feed_position": 10,
+          "image_url": "http://www.techmeme.com/260721/i43.jpg"
+        }
+      ],
+      "featured_image": "https://media.wired.com/photos/6a5ff5b0f95e7d91469f8f3d/master/pass/security_openai_hack_huggingface.jpg",
+      "popularity_score": 3018.9878694444446
+    },
+    {
+      "id": "cluster_25",
       "coverage": 2,
       "updated_at": "Tue, 21 Jul 2026 19:39:10 +0000",
       "title": "Confusion swirls on source of diarrhea outbreak, but it’s still Taylor Farms",
       "neutral_headline": "Confusion swirls on source of diarrhea outbreak, but it’s still Taylor Farms",
       "bullet_summary": [
-        "Reported by Ars Technica Main, Wired Tech"
+        "Reported by Ars Technica, Wired Tech"
       ],
       "items": [
         {
-          "source": "Ars Technica Main",
+          "source": "Ars Technica",
           "url": "https://arstechnica.com/health/2026/07/confusion-swirls-on-source-of-diarrhea-outbreak-but-its-still-taylor-farms/",
           "published_at": "Tue, 21 Jul 2026 19:39:10 +0000",
           "title": "Confusion swirls on source of diarrhea outbreak, but it’s still Taylor Farms",
           "standfirst": "Taylor Farms stirred confusion on FDA test and provided a vague recall list.",
           "content": "Federal officials on Monday reaffirmed that iceberg lettuce from Taylor Farms still appears to be the source of Cyclospora, the microscopic parasite behind a multi-state surge in explosive diarrhea cases. The assertion was intended to clear up confusion that began swirling over the weekend around a false positive test from the Food and Drug Administration—which Taylor Farms celebrated, sparking confusion. Still, many details of the outbreak remain murky, largely due to the vague recall information Taylor Farms has publicly provided. On Friday, the FDA, along with the Centers for Disease Control and Prevention, announced that the FDA's traceback investigations for the outbreak converged on Taylor Farms. Traceback investigations work by tracking backward from sick people and the foods they ate to where those foods came from through the supply chain, down to individual farms or production facilities. When the FDA said their investigation converged on Taylor Farms, the agency means that, over and over again, tracebacks led them to shredded iceberg lettuce grown in Central Mexico and supplied by Taylor Farms—which also goes by Taylor Fresh Foods.Read full article Comments",
-          "feed_position": 1,
+          "feed_position": 3,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2285922416-1152x648.jpg"
         },
         {
@@ -28,15 +71,15 @@
           "title": "The FDA Says It Didn't Apologize to Supplier Linked to Diarrhea Outbreak, Actually",
           "standfirst": "The agency stressed that the July 17 voluntary recall from Taylor Farms still stands. The supplier has been linked to the ongoing cyclospora outbreak.",
           "content": "The agency stressed that the July 17 voluntary recall from Taylor Farms still stands. The supplier has been linked to the ongoing cyclospora outbreak.",
-          "feed_position": 16,
+          "feed_position": 19,
           "image_url": "https://media.wired.com/photos/6a5e48bf29aba36a671fd7bb/master/pass/This-Week-in-Taylor-Farms-Fuck-Ups-Business-2285922020.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2285922416-1152x648.jpg",
-      "popularity_score": 2019.3886908333334
+      "popularity_score": 2015.807036111111
     },
     {
-      "id": "cluster_39",
+      "id": "cluster_58",
       "coverage": 2,
       "updated_at": "Tue, 21 Jul 2026 17:11:50 +0000",
       "title": "Google releases three new Gemini models — but no 3.5 Pro",
@@ -52,7 +95,7 @@
           "title": "Google releases three new Gemini models — but no 3.5 Pro",
           "standfirst": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
           "content": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
-          "feed_position": 7
+          "feed_position": 9
         },
         {
           "source": "Ars Technica",
@@ -61,49 +104,15 @@
           "title": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
           "standfirst": "There are new 3.6 and 3.5 models today, but Google is already training Gemini 4.",
           "content": "Google announced a significant evolution of its AI models at I/O in May with the release of Gemini 3.5 Flash, and it's not slowing down. The company revealed three new AI models today, including its first version of Gemini geared toward cybersecurity. However, none of the new models is the delayed Gemini 3.5 Pro, which was supposed to launch in June. Gemini 3.5 Flash, which was the star of the show at I/O, has already been deprecated. In its place, developers and users will find Gemini 3.6 Flash. Google makes the usual claims about this model—it's marginally more capable and better at coding, and it has great multimodal features. Google says the changes to 3.6 Flash were made in response to user feedback on the 3.5 release. In general, Gemini 3.5 Flash didn't appear to live up to Google's promises around code generation. Perhaps that is simply a consequence of Google's intense focus on efficiency as businesses have started to fret over the cost of AI tokens.Read full article Comments",
-          "feed_position": 5,
+          "feed_position": 9,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-7-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-7-1152x648.jpg",
-      "popularity_score": 2016.9331352777779
+      "popularity_score": 2013.3514805555556
     },
     {
-      "id": "cluster_43",
-      "coverage": 2,
-      "updated_at": "Tue, 21 Jul 2026 12:50:04 -0400",
-      "title": "Meta adds the Xbox Game Pass starter edition to its Horizon Plus plan, which costs $60/year or $8/month; the starter pass allows 10 hours of gaming per month (Scott Stein/CNET)",
-      "neutral_headline": "Meta Horizon+ subscriptions now include Xbox Game Pass starter edition",
-      "bullet_summary": [
-        "Reported by TechMeme, Engadget"
-      ],
-      "items": [
-        {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/260721/p36#a260721p36",
-          "published_at": "Tue, 21 Jul 2026 12:50:04 -0400",
-          "title": "Meta adds the Xbox Game Pass starter edition to its Horizon Plus plan, which costs $60/year or $8/month; the starter pass allows 10 hours of gaming per month (Scott Stein/CNET)",
-          "standfirst": "Scott Stein / CNET: Meta adds the Xbox Game Pass starter edition to its Horizon Plus plan, which costs $60/year or $8/month; the starter pass allows 10 hours of gaming per month &mdash; Meta's throwing Xbox cloud gaming Into Its Horizon Plus Quest subscription, and converting its controllers to work with it. &mdash; Editor at Large",
-          "content": "Scott Stein / CNET: Meta adds the Xbox Game Pass starter edition to its Horizon Plus plan, which costs $60/year or $8/month; the starter pass allows 10 hours of gaming per month &mdash; Meta's throwing Xbox cloud gaming Into Its Horizon Plus Quest subscription, and converting its controllers to work with it. &mdash; Editor at Large",
-          "feed_position": 7,
-          "image_url": "http://www.techmeme.com/260721/i36.jpg"
-        },
-        {
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2219796/meta-horizon-subscriptions-now-include-xbox-game-pass-starter-edition/",
-          "published_at": "Tue, 21 Jul 2026 16:08:33 +0000",
-          "title": "Meta Horizon+ subscriptions now include Xbox Game Pass starter edition",
-          "standfirst": "Meta Horizon+ subscriptions are now bundled with the starter edition of Xbox Game Pass.",
-          "content": "Meta Horizon+ subscriptions are now bundled with the starter edition of Xbox Game Pass.",
-          "feed_position": 10,
-          "image_url": "https://www.engadget.com/img/gallery/meta-horizon-subscriptions-now-include-xbox-game-pass-starter-edition/l-intro-1784650037.jpg"
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/260721/i36.jpg",
-      "popularity_score": 2016.5703575
-    },
-    {
-      "id": "cluster_85",
+      "id": "cluster_93",
       "coverage": 2,
       "updated_at": "Tue, 21 Jul 2026 13:19:38 +0000",
       "title": "Apps targeted at US troops contain Chinese and Russian code",
@@ -120,7 +129,7 @@
           "title": "Apps targeted at US troops contain Chinese and Russian code",
           "standfirst": "More than one-eighth of apps analyzed contained foreign code.",
           "content": "A recent examination of hundreds of mobile apps marketed toward US military personnel found more than one in eight contained software built by companies in China, Russia, or other foreign nations, raising fresh concerns that adversary governments could harvest data revealing where service members live, work, and deploy. According to researchers at Purdue University, the US Military Academy at West Point, and Florida International University, one popular app used by service members to rate living conditions on their own bases include code from Huawei, the Chinese telecom that US regulators flagged as a national security threat in 2020. Two others were built by Russian companies and incorporate the Russian ad service Yandex. The largely unregulated advertising industry that tracks Americans online treats civilians and service members mostly the same—unless there is profit in telling them apart—despite evidence that exposure can reveal troop deployments, unit movements, and the routines of personnel within intelligence facilities and hardened shelters where nuclear weapons are believed to be stored.Read full article Comments",
-          "feed_position": 8,
+          "feed_position": 12,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/china-russia-1152x648.jpg"
         },
         {
@@ -130,43 +139,91 @@
           "title": "Apps Marketed to US Troops Are Shipping Chinese and Russian Code",
           "standfirst": "A first-of-its-kind analysis found more than one in eight apps built for US service members carried foreign code—some from firms in nations the Pentagon designates as adversaries.",
           "content": "A first-of-its-kind analysis found more than one in eight apps built for US service members carried foreign code—some from firms in nations the Pentagon designates as adversaries.",
-          "feed_position": 24,
+          "feed_position": 27,
           "image_url": "https://media.wired.com/photos/6a590c08ef566878c27c1e0d/master/pass/Security_Apps%20Marketed%20to%20US%20Troops%20Are%20Shipping%20Chinese%20and%20Russian%20Code,%20Study%20Finds_v1.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/china-russia-1152x648.jpg",
-      "popularity_score": 2013.0631352777777
+      "popularity_score": 2009.4814805555557
     },
     {
-      "id": "cluster_2",
+      "id": "cluster_1",
+      "coverage": 1,
+      "updated_at": "Tue, 21 Jul 2026 23:01:23 +0000",
+      "title": "Range Rover answers the question: \"What if we built a not-SUV?\"",
+      "neutral_headline": "Range Rover answers the question: \"What if we built a not-SUV?\"",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/cars/2026/07/heres-range-rovers-first-not-suv-the-range-rover-gt/",
+          "published_at": "Tue, 21 Jul 2026 23:01:23 +0000",
+          "title": "Range Rover answers the question: \"What if we built a not-SUV?\"",
+          "standfirst": "The Range Rover GT will debut as an EV with a hybrid version to follow.",
+          "content": "Range Rover provided flights from Washington, DC, to London and accommodation so Ars could see the RR GT, as well as some other things you can read about in early September. Ars does not accept paid editorial content. WOLVERHAMPTON, England—One can argue about whether or not Range Rover invented the luxury SUV category, but there's no question that since the first Range Rover went on sale in 1970, the brand has made itself the standard that other luxury SUVs have to measure against. But what if Range Rover built something that wasn't an SUV? That's exactly what it's doing with the new Range Rover GT. Spy shots have been circulating for at least a year of what was believed to be an all-electric replacement for the Range Rover Velar. It turns out that was a misapprehension; the heavily camouflaged prototypes were examples of the Range Rover GT being tested at the Nürburgring and the Arctic Circle. Will this be Range Rover's answer to the Lucid Air and Porsche Taycan? Credit: Range Rover Range Rover still isn't ready to reveal an uncamouflaged GT, but the car you see is much less disguised than the boxy-looking prototypes seen in earlier spy shots.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/RR_GT_FRONT-3-4-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/RR_GT_FRONT-3-4-1152x648.jpg",
+      "popularity_score": 352.1773138888889
+    },
+    {
+      "id": "cluster_22",
       "coverage": 1,
       "updated_at": "Tue, 21 Jul 2026 19:50:10 +0000",
       "title": "Sony releases one last trailer for Spider-Man: Brand New Day",
       "neutral_headline": "Sony releases one last trailer for Spider-Man: Brand New Day",
       "bullet_summary": [
-        "Reported by Ars Technica Main"
+        "Reported by Ars Technica"
       ],
       "items": [
         {
-          "source": "Ars Technica Main",
+          "source": "Ars Technica",
           "url": "https://arstechnica.com/culture/2026/07/sony-releases-one-last-trailer-for-spider-man-brand-new-day/",
           "published_at": "Tue, 21 Jul 2026 19:50:10 +0000",
           "title": "Sony releases one last trailer for Spider-Man: Brand New Day",
           "standfirst": "\"Maybe that's my responsibility, to live alone with the truth.\"",
           "content": "The Odyssey might be cleaning up at the box office at the moment, but in two weeks another mega-blockbuster hits theaters: Spider-Man: Brand New Day, directed by Destin Daniel Cretton (Shang-Chi and the Legend of the Ten Rings). Sony Pictures dropped one last trailer for this follow-up to 2021’s No Way Home, which is purportedly intended to launch a fresh trilogy of films with Tom Holland in the title role. No Way Home ended on a pretty bleak note, with Peter Parker (Holland) asking Doctor Strange (Benedict Cumberbatch) to erase him from everyone’s memory to protect the multiverse, including his girlfriend MJ (Zendaya). Per the official synopsis: It’s a Brand New Day for Peter Parker. Fighting crime full-time as Spider-Man in a world that doesn’t remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves–a powerful villain no one can even see. The world may have forgotten Peter Parker, but he hasn’t forgotten them. Holland is reprising his role as Peter Parker/Spider-Man, along with Zendaya as MJ and Jacob Batalon as Peter’s former bestie Ned Leeds. The film also features Jon Bernthal as Frank Castle/Punisher, Mark Ruffalo as Bruce Banner/Hulk, Michael Mando as Mac Gargan/Scorpion (captured by Spider-Man in Homecoming), Marvin Jones III as albino crime lord Lonnie Lincoln/Tombstone, Charlie Cox as Matt Murdock/Daredevil (briefly Peter’s lawyer in No Way Home); Liza Colon-Zayas as detective Jean DeWolf; Eman Esfandi as MJ's new boyfriend; and Trammell Tillman as Bill Metzger of the Department of Damage Control (DODC) who is policing superpowered individuals.Read full article Comments",
-          "feed_position": 0,
+          "feed_position": 2,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/spideyTOP-1152x648-1784661224.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/spideyTOP-1152x648-1784661224.jpg",
-      "popularity_score": 367.57202416666667
+      "popularity_score": 343.99036944444447
     },
     {
-      "id": "cluster_12",
+      "id": "cluster_9",
+      "coverage": 1,
+      "updated_at": "Tue, 21 Jul 2026 22:04:56 +0000",
+      "title": "On the run for 20 years, most-wanted fugitive caught hiding as a biotech exec",
+      "neutral_headline": "On the run for 20 years, most-wanted fugitive caught hiding as a biotech exec",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/07/on-the-run-for-20-years-most-wanted-fugitive-caught-hiding-as-a-biotech-exec/",
+          "published_at": "Tue, 21 Jul 2026 22:04:56 +0000",
+          "title": "On the run for 20 years, most-wanted fugitive caught hiding as a biotech exec",
+          "standfirst": "Ronald Fischer, aka Richard Graydon, was arrested in New York last week.",
+          "content": "One of Rhode Island's most-wanted fugitives was arrested in New York last week after being on the run for more than 20 years, which was at least partially spent hiding as a biotech executive, according to Stat News. In a Securities and Exchange Commission filing Monday, California-based Immix Biopharma noted that Richard Graydon was terminated Friday for \"reasons unrelated to his activities at the Company.\" It turns out, Richard Graydon was an alias for Ronald Fischer, a 70-year-old former anesthesiologist licensed in Rhode Island and Massachusetts, who fled amid his 2005 trial for first-degree sexual assault. Fischer was accused of raping a woman during a date on his yacht, Lion King.Read full article Comments",
+          "feed_position": 1,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/748938905_1530072209161286_286265153798584974_n-1080x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/748938905_1530072209161286_286265153798584974_n-1080x648.jpg",
+      "popularity_score": 341.23648055555554
+    },
+    {
+      "id": "cluster_32",
       "coverage": 1,
       "updated_at": "Tue, 21 Jul 2026 19:09:19 +0000",
-      "title": "Nintendo customers have no legal right to tariff refunds, company tells judge",
-      "neutral_headline": "Nintendo customers have no legal right to tariff refunds, company tells judge",
+      "title": "Nintendo says users voluntarily paid higher prices, have no right to tariff refunds",
+      "neutral_headline": "Nintendo says users voluntarily paid higher prices, have no right to tariff refunds",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -175,18 +232,18 @@
           "source": "Ars Technica",
           "url": "https://arstechnica.com/tech-policy/2026/07/nintendo-customers-have-no-legal-right-to-tariff-refunds-company-tells-judge/",
           "published_at": "Tue, 21 Jul 2026 19:09:19 +0000",
-          "title": "Nintendo customers have no legal right to tariff refunds, company tells judge",
+          "title": "Nintendo says users voluntarily paid higher prices, have no right to tariff refunds",
           "standfirst": "Nintendo says Switch buyers got what they paid for, urges court to dismiss lawsuit.",
           "content": "Nintendo urged a court to dismiss a lawsuit demanding that it pass tariff refunds on to customers, saying that people who bought a Switch console or other products have no legal right to refunds that Nintendo is due to receive from the government. Nintendo said in a motion to dismiss yesterday that plaintiffs are \"ask[ing] this Court to invent a legal duty out of whole cloth to retroactively re-price completed sales simply because the legal landscape has changed.\" Nintendo said the plaintiffs \"have no legal entitlement to the tariff refunds Nintendo stands to receive.\" The lawsuit was filed in April by two customers who seek to represent a class of all US residents who bought Nintendo products from February 2025 to February 2026. California resident Gregory Hoffert and Washington resident Prashant Sharan filed the class action complaint in US District Court for the Western District of Washington, alleging unjust enrichment and a violation of the Washington Consumer Protection Act's prohibition on unfair or deceptive acts.Read full article Comments",
-          "feed_position": 0,
+          "feed_position": 4,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/nintendo-switch-1152x648-1776887603.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/nintendo-switch-1152x648-1776887603.jpg",
-      "popularity_score": 351.8911908333333
+      "popularity_score": 323.30953611111113
     },
     {
-      "id": "cluster_21",
+      "id": "cluster_41",
       "coverage": 1,
       "updated_at": "Tue, 21 Jul 2026 18:17:55 +0000",
       "title": "Let Tom Hiddleston be your guide to Pompeii's final day",
@@ -202,15 +259,15 @@
           "title": "Let Tom Hiddleston be your guide to Pompeii's final day",
           "standfirst": "NatGeo's Pompeii: Out of Time fuses historical fact and imagination to bring city's last 24 hours to life.",
           "content": "When Mount Vesuvius erupted in 79 CE, it spewed molten rock, pumice, and hot ash over the cities of Pompeii and Herculaneum, killing thousands of people. It's one of the most famous natural disasters in human history, so naturally there have been countless documentaries about Pompeii (and at least one popular song). But only one features actor Tom Hiddleston taking on the role of a \"time detective\" to bring the people of Pompeii to vivid life. That would be National Geographic's new three-part docuseries, Pompeii: Out of Time. The Marvel connection made Out of Time happen. Executive producer Kevin Wright was also a producer on the Disney+ series Loki, which included a scene where Hiddleston's Loki travels through time to visit Pompeii. Hiddleston also studied classics at Cambridge University and had visited the Pompeii archaeological site as a teenager, which the Marvel star attributes to indirectly influencing his career path into acting. \"There is just a passion to the way Tom tells stories that's infectious,\" Wright told Ars. \"We knew that if we could capture that and put it into [the series], it might interest people who wouldn't normally want to watch a documentary about Pompeii. \"Read full article Comments",
-          "feed_position": 1,
+          "feed_position": 5,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/pompeii1-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/pompeii1-1152x648.jpg",
-      "popularity_score": 341.03452416666664
+      "popularity_score": 297.45286944444445
     },
     {
-      "id": "cluster_29",
+      "id": "cluster_49",
       "coverage": 1,
       "updated_at": "Tue, 21 Jul 2026 17:51:52 +0000",
       "title": "Naked mole-rat queens use a chemical signal to suppress fertility in rivals",
@@ -226,15 +283,15 @@
           "title": "Naked mole-rat queens use a chemical signal to suppress fertility in rivals",
           "standfirst": "A single chemical made by mole-rat queens enforces the social order.",
           "content": "Naked mole rats are weird. They spend their lives almost entirely underground, are largely insensitive to some kinds of pain, can persist without oxygen for a long time, rarely develop cancer, and can live past 30 years, which is decades longer than similarly sized rodents. They are also eusocial, like ants, bees, or termites—in a colony that can hold more than a hundred animals, only one female, the queen, breeds. We didn’t know how exactly naked mole-rat queens stop other females from breeding. For a long time, our leading hypothesis was bullying and violence, but that may be a bit impractical, given their kingdoms are vast networks of tunnels that can stretch for up to three kilometers. But now a team of Lewin Lab scientists at Max Delbrück Center for Molecular Medicine in Berlin discovered it’s actually just one part of a sophisticated olfactory signaling program. Running on smell \"It's very clear that mole rats actually have quite big noses and smell a lot,\" says Gary Lewin, a neurobiologist at the Max Delbrück Center for Molecular Medicine and senior author of the study. Naked mole rats have around 1200 olfactory receptor genes, more than mice (which have roughly 1,000 of them) and way more than the few hundred in humans. They're also blind. \"They have to be able to navigate and move around without vision, so smell is one of those things that’s enhanced,\" Lewin said.Read full article Comments",
-          "feed_position": 2,
+          "feed_position": 6,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2276125539-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2276125539-1152x648.jpg",
-      "popularity_score": 330.6003575
+      "popularity_score": 287.0187027777778
     },
     {
-      "id": "cluster_32",
+      "id": "cluster_52",
       "coverage": 1,
       "updated_at": "Tue, 21 Jul 2026 17:33:14 +0000",
       "title": "Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out",
@@ -250,15 +307,15 @@
           "title": "Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out",
           "standfirst": "Anthropic blocks authors from opting out of $1.5B settlement at last minute.",
           "content": "On Monday, a judge approved a $1.5 billion settlement between Anthropic and authors, ending the largest copyright class-action ever certified and granting the largest copyright settlement ever reached. Back in May, some authors fought to block the settlement, which was proposed after the court ruled that Anthropic training AI on books was fair use; however, its piracy of works was likely not. Authors opposing the settlement argued that lawyers’ fees were too high and authors’ payouts were too low. Hoping to avoid accepting the estimated $3,000-per-work payout and file separate lawsuits to seek higher damages, a handful of authors tried to opt out past the deadline.Read full article Comments",
-          "feed_position": 3,
+          "feed_position": 7,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-592014704-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-592014704-1152x648.jpg",
-      "popularity_score": 320.28980194444443
+      "popularity_score": 276.70814722222224
     },
     {
-      "id": "cluster_37",
+      "id": "cluster_56",
       "coverage": 1,
       "updated_at": "Tue, 21 Jul 2026 17:12:34 +0000",
       "title": "Sales of Valve's Steam Deck crater after recent price hike",
@@ -274,87 +331,15 @@
           "title": "Sales of Valve's Steam Deck crater after recent price hike",
           "standfirst": "Analysis of bestseller charts shows an 80 percent dip from 2025's sales rate.",
           "content": "Since its 2022 launch, the Steam Deck has consistently been at or near the top of the company's \"top selling products by revenue\" charts, with brief dips outside of the top 10 treated as newsworthy events. But sales of the popular handheld gaming PC have apparently been on a steep decline since the system relaunched at a higher price in May. Linux-focused gaming site Boiling Steam breaks down the historical data, showing how the Deck's chart position has fallen from fifth place immediately after orders resumed in late May down to 14th place for two weeks in early July (the hardware sits at 12th place in the current edition of those charts). That's in sharp contrast to 2025, when the Steam Deck never dropped below seventh place on the bestseller charts and was only rarely outside the Top 5. Then Valve warned of \"intermittent shortages\" for the Steam Deck starting in February, leading to weeks of lower chart positions before the Deck became completely unavailable until May.Read full article Comments",
-          "feed_position": 4,
+          "feed_position": 8,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_8144-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_8144-1152x648.jpg",
-      "popularity_score": 309.9453575
+      "popularity_score": 266.3637027777778
     },
     {
-      "id": "cluster_63",
-      "coverage": 1,
-      "updated_at": "Tue, 21 Jul 2026 15:18:23 +0000",
-      "title": "TreeSize won't renew perpetual-license support unless users subscribe",
-      "neutral_headline": "TreeSize won't renew perpetual-license support unless users subscribe",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/07/treesize-wont-renew-perpetual-license-support-unless-users-subscribe/",
-          "published_at": "Tue, 21 Jul 2026 15:18:23 +0000",
-          "title": "TreeSize won't renew perpetual-license support unless users subscribe",
-          "standfirst": "\"Current economic conditions\" have shifted TreeSize's business model.",
-          "content": "The company behind the disk space analyzer TreeSize has irked some users by no longer offering support or updates for perpetual licenses beyond their maintenance period unless customers subscribe. Further frustration has come from JAM Software's long-standing policy of not providing license keys or installers to TreeSize perpetual license holders after that support period ends. Since 2025, JAM Software has been transitioning most TreeSize editions to subscription models. Today, it sells perpetual licenses only for personal use, which include 12 months of updates, support, and “downloads of older versions, and your license,” plus the option to extend the support period. TreeSize currently has \"no plans to discontinue the sale of perpetual licenses for TreeSize Personal,\" product manager Hendrik Christ told Ars Technica. As perpetual-license maintenance periods expire, customers are discovering that extending support now generally requires subscribing to software they already own the right to use.Read full article Comments",
-          "feed_position": 6,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/TreeSize-1152x648.png"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/TreeSize-1152x648.png",
-      "popularity_score": 288.04230194444443
-    },
-    {
-      "id": "cluster_80",
-      "coverage": 1,
-      "updated_at": "Tue, 21 Jul 2026 13:36:17 +0000",
-      "title": "When your vehicle outlives its cloud: What happens next?",
-      "neutral_headline": "When your vehicle outlives its cloud: What happens next",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/07/when-your-vehicle-outlives-its-cloud-what-happens-next/",
-          "published_at": "Tue, 21 Jul 2026 13:36:17 +0000",
-          "title": "When your vehicle outlives its cloud: What happens next?",
-          "standfirst": "Automakers love connected vehicles, but support isn't open-ended.",
-          "content": "Do you use your vehicle’s app to pre‑cool the cabin on a scorching day, confirm the doors are locked from bed, or have the car automatically call for help when the airbags go off? Savor those connected, cloud‑based conveniences while you can—the clock is already ticking on their obsolescence. In a few short years, you may be driving today’s vehicle without many of the features you currently enjoy. How we got hooked on the cloud \"Connected services\"—cloud-based and networked features that let a vehicle communicate with external systems to deliver apps, data, and remote functions to drivers and passengers—have been around since the 1990s, when GM introduced OnStar as an option. Those early systems were mostly voice‑centric, but they still depended on centralized back‑end systems. Modern versions, which are fully data-driven and cloud-hosted, use much more sophisticated over-the-air data links to allow a considerably better feature set.Read full article Comments",
-          "feed_position": 7,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/car-cloud-sands-of-time-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/car-cloud-sands-of-time-1152x648.jpg",
-      "popularity_score": 276.3406352777778
-    },
-    {
-      "id": "cluster_89",
-      "coverage": 1,
-      "updated_at": "Tue, 21 Jul 2026 13:00:08 +0000",
-      "title": "2027 Kia Seltos first drive gives you plenty of SUV for not much $",
-      "neutral_headline": "2027 Kia Seltos first drive gives you plenty of SUV for not much $",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/07/2027-kia-seltos-first-drive-telluride-vibes-in-a-smaller-package/",
-          "published_at": "Tue, 21 Jul 2026 13:00:08 +0000",
-          "title": "2027 Kia Seltos first drive gives you plenty of SUV for not much $",
-          "standfirst": "It starts at just under $25,000, but the hybrid won't arrive until next year.",
-          "content": "Kia provided flights from Washington, DC, to Orange County, California, and accommodation so Ars could drive the Seltos. Ars does not accept paid editorial content. NEWPORT BEACH, Calif.—Although it sometimes feels like automakers have all but abandoned everything other than high-end luxury model vehicles, it's not universally true. While some car companies have lobbied the government, terrified, asking to build protective walls to fend off cheap Chinese competition, others have looked at the problem from a different angle, trying to meet the moment. One such effort is the new Kia Seltos, a small SUV that takes inspiration from the Telluride but with a starting price of just $24,990 plus delivery charge. The US almost didn't get the Seltos in the first place; the first-generation model was designed with China in mind. Seltos take two is more considered, and also a little more substantial. The new body with its Telluride-like design cues has been stretched, mostly in the wheelbase. That said, at 174.4 inches (4,430 mm) long, 72 inches (1,829 mm) wide, and 64.9 inches (1,648 mm) tall, it's still a subcompact, one segment smaller than something like a Toyota RAV4 or Mazda CX-5. Kia is offering a choice of three different powertrain variants. The 1.6 L hybrid is the one we're most interested in. But that version won't be in showrooms until Q4 this year; don't expect an Ars first drive of the hybrid Seltos until early next year. Or any other details in this first drive report—the hybrid Seltos is still undergoing its EPA certification, and Kia isn't prepared to talk power, torque, or efficiency until that's done and dusted.Read full article Comments",
-          "feed_position": 9,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/24914_2027_Seltos-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/24914_2027_Seltos-1152x648.jpg",
-      "popularity_score": 255.738135
-    },
-    {
-      "id": "cluster_124",
+      "id": "cluster_129",
       "coverage": 1,
       "updated_at": "Mon, 20 Jul 2026 18:06:05 +0000",
       "title": "RIP bargain bin: The price impact of Sony's disc-free PlayStation plan",
@@ -370,7 +355,7 @@
           "title": "RIP bargain bin: The price impact of Sony's disc-free PlayStation plan",
           "standfirst": "Used discs are often cheaper than even deep digital discounts.",
           "content": "Since Sony announced that it was planning to stop producing physical PlayStation discs in 2028, many people have been justifiably worried about how they will maintain ownership and long-term game access in a disc-free world. But halting production of PlayStation discs also means eliminating the market for cheap used PlayStation discs, which are often available for well below the price of a digital download. How much is this disc-based discount worth? To find out, Ars analyzed how the prices of 19 current top-selling PlayStation games varied between digital downloads and physical discs (both new and used). We found that, while used discs are the cheapest option for most games for most of the year, the frequent and periodic deep discounts offered on the PlayStation Store often undercut the cheapest game disc options. That state of affairs will likely persist even in a future without PlayStation discs. Our prices are so low, you'll think we've suffered brain damage For our analysis, we started with Sony's list of the bestsellers on the PlayStation Store. We eliminated any games that weren't available on a physical disc, then used the database over at PlatPrices.com to determine both the \"Standard\" price and the lowest \"Discount\" price offered for those games on the PlayStation Store in the last year (as well as the total number of days the discount price was offered).Read full article Comments",
-          "feed_position": 15,
+          "feed_position": 19,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/disccrack-1152x648.jpg"
         }
       ],
@@ -378,55 +363,7 @@
       "popularity_score": 148
     },
     {
-      "id": "cluster_131",
-      "coverage": 1,
-      "updated_at": "Mon, 20 Jul 2026 15:32:45 +0000",
-      "title": "AliExpress hit with record $625M fine after failing to make EU-ordered fixes",
-      "neutral_headline": "AliExpress hit with record $625M fine after failing to make EU-ordered fixes",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/07/aliexpress-fined-625m-for-failing-to-remove-unsafe-toys-dangerous-cosmetics/",
-          "published_at": "Mon, 20 Jul 2026 15:32:45 +0000",
-          "title": "AliExpress hit with record $625M fine after failing to make EU-ordered fixes",
-          "standfirst": "Online retailer AliExpress says it's shocked by largest DSA fine yet.",
-          "content": "Yesterday, the European Commission slapped AliExpress with the largest fine yet under the Digital Services Act (DSA), exceeding $625 million. In a press release, the EC said that AliExpress failed to “diligently assess and mitigate risks relating to the sale of illegal, unsafe, or counterfeit products on its e-commerce platform.” Officials found that AliExpress not only failed to staff teams dedicated to removing counterfeit and dangerous items from the platform, but it also made it easy for bad actors to evade detection.Read full article Comments",
-          "feed_position": 17,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2283652155-1024x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2283652155-1024x648.jpg",
-      "popularity_score": 148
-    },
-    {
-      "id": "cluster_133",
-      "coverage": 1,
-      "updated_at": "Mon, 20 Jul 2026 14:33:46 +0000",
-      "title": "The first trailer for Avengers: Doomsday is finally here",
-      "neutral_headline": "The first trailer for Avengers: Doomsday is finally here",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/culture/2026/07/the-first-trailer-for-avengers-doomsday-is-finally-here/",
-          "published_at": "Mon, 20 Jul 2026 14:33:46 +0000",
-          "title": "The first trailer for Avengers: Doomsday is finally here",
-          "standfirst": "\"Something's coming. Something we may not be able to deter.\"",
-          "content": "With San Diego Comic-Con kicking off later this week, Marvel Studios has released the first official full trailer for Avengers: Doomsday, the penultimate film in the MCU's Phase Six and the end of the so-called \"Multiverse Saga.\" (Spoilers for prior relevant MCU films below.) Marvel Studios originally planned to build its Phase Six Avengers arc (The Kang Dynasty) around Jonathan Majors’ Kang the Conqueror (and associated variants), introduced in Loki and Ant-Man and the Wasp: Quantumania. But then Majors was convicted of domestic violence, and Marvel fired the actor soon after. That meant the studio needed to retool its Phase Six plans, culminating in the announced return of the Russo brothers, who directed four of the Marvel Cinematic Universe’s most successful films, which brought in more than $6 billion at the global box office.Read full article Comments",
-          "feed_position": 18,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/doomsdayTOP-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/doomsdayTOP-1152x648.jpg",
-      "popularity_score": 148
-    },
-    {
-      "id": "cluster_114",
+      "id": "cluster_119",
       "coverage": 1,
       "updated_at": "Mon, 20 Jul 2026 22:15:51 +0000",
       "title": "DA: Cop covered bodycam to snap nude prisoners on his iPhone—but other cams caught him",
@@ -442,7 +379,7 @@
           "title": "DA: Cop covered bodycam to snap nude prisoners on his iPhone—but other cams caught him",
           "standfirst": "Pennsylvania cop charged with oppression and obstruction.",
           "content": "On March 31, 2026, a rather odd complaint arrived at the Bucks County, Pennsylvania District Attorney's Office. It came from the local sheriff's office, and it concerned one of their own, Deputy Sheriff Ryan Gaffney. The allegation was unusual: Gaffney had used his iPhone to snap photos of nude prisoners he had encountered in his job—and he had then shared those photos with \"several female civilian employees inside the Sheriff's Office.\" The main claim involved a local man suffering a mental health crisis on the morning of January 30, 2026. Five fully uniformed deputies had arrived at the house and were in the upstairs bedroom. Their detainee was naked from the waist down and had just been persuaded to put on some pants.Read full article Comments",
-          "feed_position": 10,
+          "feed_position": 14,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1402604764-1152x648.jpg"
         }
       ],
@@ -450,7 +387,79 @@
       "popularity_score": 145
     },
     {
-      "id": "cluster_119",
+      "id": "cluster_73",
+      "coverage": 1,
+      "updated_at": "Tue, 21 Jul 2026 15:18:23 +0000",
+      "title": "TreeSize won't renew perpetual-license support unless users subscribe",
+      "neutral_headline": "TreeSize won't renew perpetual-license support unless users subscribe",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/07/treesize-wont-renew-perpetual-license-support-unless-users-subscribe/",
+          "published_at": "Tue, 21 Jul 2026 15:18:23 +0000",
+          "title": "TreeSize won't renew perpetual-license support unless users subscribe",
+          "standfirst": "\"Current economic conditions\" have shifted TreeSize's business model.",
+          "content": "The company behind the disk space analyzer TreeSize has irked some users by no longer offering support or updates for perpetual licenses beyond their maintenance period unless customers subscribe. Further frustration has come from JAM Software's long-standing policy of not providing license keys or installers to TreeSize perpetual license holders after that support period ends. Since 2025, JAM Software has been transitioning most TreeSize editions to subscription models. Today, it sells perpetual licenses only for personal use, which include 12 months of updates, support, and “downloads of older versions, and your license,” plus the option to extend the support period. TreeSize currently has \"no plans to discontinue the sale of perpetual licenses for TreeSize Personal,\" product manager Hendrik Christ told Ars Technica. As perpetual-license maintenance periods expire, customers are discovering that extending support now generally requires subscribing to software they already own the right to use.Read full article Comments",
+          "feed_position": 10,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/TreeSize-1152x648.png"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/TreeSize-1152x648.png",
+      "popularity_score": 144.46064722222224
+    },
+    {
+      "id": "cluster_89",
+      "coverage": 1,
+      "updated_at": "Tue, 21 Jul 2026 13:36:17 +0000",
+      "title": "When your vehicle outlives its cloud: What happens next?",
+      "neutral_headline": "When your vehicle outlives its cloud: What happens next",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/cars/2026/07/when-your-vehicle-outlives-its-cloud-what-happens-next/",
+          "published_at": "Tue, 21 Jul 2026 13:36:17 +0000",
+          "title": "When your vehicle outlives its cloud: What happens next?",
+          "standfirst": "Automakers love connected vehicles, but support isn't open-ended.",
+          "content": "Do you use your vehicle’s app to pre‑cool the cabin on a scorching day, confirm the doors are locked from bed, or have the car automatically call for help when the airbags go off? Savor those connected, cloud‑based conveniences while you can—the clock is already ticking on their obsolescence. In a few short years, you may be driving today’s vehicle without many of the features you currently enjoy. How we got hooked on the cloud \"Connected services\"—cloud-based and networked features that let a vehicle communicate with external systems to deliver apps, data, and remote functions to drivers and passengers—have been around since the 1990s, when GM introduced OnStar as an option. Those early systems were mostly voice‑centric, but they still depended on centralized back‑end systems. Modern versions, which are fully data-driven and cloud-hosted, use much more sophisticated over-the-air data links to allow a considerably better feature set.Read full article Comments",
+          "feed_position": 11,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/car-cloud-sands-of-time-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/car-cloud-sands-of-time-1152x648.jpg",
+      "popularity_score": 142.75898055555555
+    },
+    {
+      "id": "cluster_96",
+      "coverage": 1,
+      "updated_at": "Tue, 21 Jul 2026 13:00:08 +0000",
+      "title": "2027 Kia Seltos first drive gives you plenty of SUV for not much $",
+      "neutral_headline": "2027 Kia Seltos first drive gives you plenty of SUV for not much $",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/cars/2026/07/2027-kia-seltos-first-drive-telluride-vibes-in-a-smaller-package/",
+          "published_at": "Tue, 21 Jul 2026 13:00:08 +0000",
+          "title": "2027 Kia Seltos first drive gives you plenty of SUV for not much $",
+          "standfirst": "It starts at just under $25,000, but the hybrid won't arrive until next year.",
+          "content": "Kia provided flights from Washington, DC, to Orange County, California, and accommodation so Ars could drive the Seltos. Ars does not accept paid editorial content. NEWPORT BEACH, Calif.—Although it sometimes feels like automakers have all but abandoned everything other than high-end luxury model vehicles, it's not universally true. While some car companies have lobbied the government, terrified, asking to build protective walls to fend off cheap Chinese competition, others have looked at the problem from a different angle, trying to meet the moment. One such effort is the new Kia Seltos, a small SUV that takes inspiration from the Telluride but with a starting price of just $24,990 plus delivery charge. The US almost didn't get the Seltos in the first place; the first-generation model was designed with China in mind. Seltos take two is more considered, and also a little more substantial. The new body with its Telluride-like design cues has been stretched, mostly in the wheelbase. That said, at 174.4 inches (4,430 mm) long, 72 inches (1,829 mm) wide, and 64.9 inches (1,648 mm) tall, it's still a subcompact, one segment smaller than something like a Toyota RAV4 or Mazda CX-5. Kia is offering a choice of three different powertrain variants. The 1.6 L hybrid is the one we're most interested in. But that version won't be in showrooms until Q4 this year; don't expect an Ars first drive of the hybrid Seltos until early next year. Or any other details in this first drive report—the hybrid Seltos is still undergoing its EPA certification, and Kia isn't prepared to talk power, torque, or efficiency until that's done and dusted.Read full article Comments",
+          "feed_position": 13,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/24914_2027_Seltos-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/24914_2027_Seltos-1152x648.jpg",
+      "popularity_score": 142.15648055555556
+    },
+    {
+      "id": "cluster_124",
       "coverage": 1,
       "updated_at": "Mon, 20 Jul 2026 20:30:25 +0000",
       "title": "The Space Force is now seeking to buy up to $30 billion in rocket launches",
@@ -466,7 +475,7 @@
           "title": "The Space Force is now seeking to buy up to $30 billion in rocket launches",
           "standfirst": "The Trump administration is asking the Space Force to do a lot. This will require more launches.",
           "content": "It seems as though $5.6 billion wasn't enough. That was the news from the US Space Force on Friday, when military officials announced they were tripling the maximum value of one of the service's National Security Space Launch contracts to $17 billion. The expansion of the Space Force's National Security Space Launch (NSSL) Phase 3 contract comes as the Pentagon signals rising demand for military satellite launches. The NSSL program is set up to allow Space Systems Command, which oversees the Space Force's launch program, to select from a pool of launch providers for individual missions to deliver the military's satellites to orbit. The NSSL program has two parts. Lane 1 covers the Space Force's more risk-tolerant missions, such as medium-lift launches with experimental payloads or rideshare missions carrying satellites for the Pentagon's surveillance or data relay constellations. Lane 2 includes higher-priority strategic missions, like the government's largest and most expensive spy satellites, or radiation-hardened communications satellites designed to survive a nuclear war.Read full article Comments",
-          "feed_position": 13,
+          "feed_position": 17,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/KSC-20241014-PH-SPX01_0003orig-1152x648-1784578136.jpg"
         }
       ],
@@ -474,7 +483,7 @@
       "popularity_score": 141
     },
     {
-      "id": "cluster_115",
+      "id": "cluster_120",
       "coverage": 1,
       "updated_at": "Mon, 20 Jul 2026 21:55:52 +0000",
       "title": "Firefighting drones in the works as wildfires plague US nearly year-round",
@@ -490,7 +499,7 @@
           "title": "Firefighting drones in the works as wildfires plague US nearly year-round",
           "standfirst": "California and XPRIZE competition tests whether drones can stop wildfires early.",
           "content": "Drones capable of spraying water and fire retardants have been practicing how to snuff out wildfires early in California and Alaska this summer—demonstrating a possible rapid-response tool for firefighting as climate change transforms wildfire season into a nearly year-round risk for much of the United States. Most drones are significantly smaller than crewed aircraft and have shorter flight ranges, meaning they cannot replace large airtankers in delivering massive payloads of water or other fire-suppressing payloads to remote wildfires. But companies and fire agencies—along with organizers of the $11 million XPRIZE competition—are testing whether drones can help firefighting crews respond more quickly to small fires and put them out before they become more destructive. The California Department of Forestry and Fire Protection, also known as CAL FIRE, ran its own field test involving five autonomous drones that worked together to deploy between 500 and 1,000 gallons of foam combined for suppressing fires on July 15, according to the TV station KPMH. The demonstration was organized with the help of the nonprofit FireWERX and the California-based company Seneca, which is making the drones commercially available starting in 2026.Read full article Comments",
-          "feed_position": 11,
+          "feed_position": 15,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Screenshot-2026-07-20-at-5.24.12-PM-1152x648.png"
         }
       ],
@@ -498,7 +507,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_117",
+      "id": "cluster_122",
       "coverage": 1,
       "updated_at": "Mon, 20 Jul 2026 21:10:14 +0000",
       "title": "Judge halts Paramount's $111B purchase of Warner Bros. in win for US states",
@@ -514,7 +523,7 @@
           "title": "Judge halts Paramount's $111B purchase of Warner Bros. in win for US states",
           "standfirst": "Judge grants restraining order, saying merger \"likely to violate antitrust laws.\"",
           "content": "A federal judge today ordered Paramount Skydance and Warner Bros. Discovery to halt their $111 billion merger, handing an early win to states that sued to block the deal. The ruling granted a temporary restraining order prohibiting the firms from completing the merger and from consolidating their operations. The temporary order is only in effect for 14 days, but it can be converted into a preliminary injunction that would prevent the merger from being completed until the case is resolved. The temporary restraining order can be extended past the 14-day period if more time is needed to rule on a preliminary injunction. A group of 12 states led by California sued the companies last week in an attempt to block the deal, which had been approved by the Trump administration. The states say the merger will eliminate competition by combining two of the five major Hollywood movie studios, and two of the five major owners of basic cable TV channels.Read full article Comments",
-          "feed_position": 12,
+          "feed_position": 16,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/paramount-warner-bros-1152x648.jpg"
         }
       ],
@@ -522,7 +531,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_121",
+      "id": "cluster_126",
       "coverage": 1,
       "updated_at": "Mon, 20 Jul 2026 19:20:49 +0000",
       "title": "AT&T loses key ruling in bid to stop offering basic phone service in California",
@@ -538,60 +547,12 @@
           "title": "AT&T loses key ruling in bid to stop offering basic phone service in California",
           "standfirst": "AT&#038;T suffers setback but will keep asking court and FCC to preempt state rules.",
           "content": "California can keep enforcing rules that require AT&T to offer basic phone service to new customers in its wireline territory, following a federal judge's ruling last week. AT&T sued California in May in a bid to end the state's Carrier of Last Resort (COLR) rules that require it to offer telephone service to any potential customer in its territory. AT&T asked for a preliminary injunction that would prevent California from enforcing the COLR rules while the litigation continues. To win a preliminary injunction, AT&T had to show it is likely to succeed on the merits of its claim that California rules are preempted by a Federal Communications Commission order. US District Judge Linda Lopez denied AT&T's request for a preliminary injunction during a motion hearing on Thursday, according to a docket entry. The case is in US District Court for the Southern District of California.Read full article Comments",
-          "feed_position": 14,
+          "feed_position": 18,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2020/12/getty-att-logo-1152x648-1745953050.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2020/12/getty-att-logo-1152x648-1745953050.jpg",
       "popularity_score": 133
-    },
-    {
-      "id": "cluster_135",
-      "coverage": 1,
-      "updated_at": "Mon, 20 Jul 2026 14:00:50 +0000",
-      "title": "Pay up or not? Ransomware surge has victims facing tough choices.",
-      "neutral_headline": "Pay up or not? Ransomware surge has victims facing tough choices.",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/07/pay-up-or-not-ransomware-surge-has-victims-facing-tough-choices/",
-          "published_at": "Mon, 20 Jul 2026 14:00:50 +0000",
-          "title": "Pay up or not? Ransomware surge has victims facing tough choices.",
-          "standfirst": "Governments look at banning ransom payments in face of increasingly sophisticated threats.",
-          "content": "Nearly half of companies that are targets of a ransomware cyber attack end up paying a ransom to release their data or systems, according to 2025 research from cybersecurity group Sophos, while the median amount demanded is rising. Globally, some jurisdictions are responding by banning payments to hackers. In the UK, for example, the government is advancing plans to prohibit public sector bodies and critical national infrastructure groups—including the National Health Service, local councils and schools—from making payouts. The potential veto comes as ransomware hackers have become more advanced and meticulous in their targeting of companies, particularly vulnerable small and medium-sized businesses, over time.Read full article Comments",
-          "feed_position": 19,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/ransomware-screen-1000x648.jpeg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/ransomware-screen-1000x648.jpeg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_130",
-      "coverage": 1,
-      "updated_at": "Mon, 20 Jul 2026 15:59:18 +0000",
-      "title": "F1 in Belgium: Machine learning algorithms are ruining the sport",
-      "neutral_headline": "F1 in Belgium: Machine learning algorithms are ruining the sport",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/07/f1-in-belgium-the-2026-cars-look-pathetic-on-all-the-best-racetracks/",
-          "published_at": "Mon, 20 Jul 2026 15:59:18 +0000",
-          "title": "F1 in Belgium: Machine learning algorithms are ruining the sport",
-          "standfirst": "Many will say Spa is the best racetrack on earth, but not for these F1 cars.",
-          "content": "Formula 1 returned to the Spa-Francorchamps circuit for the Belgium Grand Prix this weekend. This ribbon of tarmac in the Ardennes is one of the sport's historic venues, featuring in the first F1 season way back in 1950. But as yesterday's race showed, the current F1 machinery is utterly ill-suited to this dramatic venue. As we saw at Suzuka in Japan earlier this year, a 2026 F1 battery is able to power the race car's electric motor for only a few seconds a lap; for much of the rest of the lap, the energy-starved cars have less power going to their rear wheels than in the junior F2 feeder series. The best race track in the world For many, including much of the current F1 grid, Spa is considered perhaps the planet's greatest race track. In fact, both Spa and the Belgian Grand Prix predate the F1 world championship, with its first race held in 1922. Back then, the circuit was a 9-mile loop of public roads, taking in the towns of Malmedy and Stavelot before returning to Francorchamps. In the postwar years, the layout shrank slightly to 8.7 miles (14.1 km) and was ferociously fast, with average lap speeds of up to 150 mph (240 km/h)—and ferociously dangerous, given cars with huge amounts of power and minimal concessions to safety.Read full article Comments",
-          "feed_position": 16,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2286209291-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2286209291-1152x648.jpg",
-      "popularity_score": 130
     }
   ]
 }
