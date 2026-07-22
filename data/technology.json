@@ -1,51 +1,8 @@
 {
-  "updated_at": "2026-07-21T23:50:44.670Z",
+  "updated_at": "2026-07-22T05:40:56.333Z",
   "clusters": [
     {
-      "id": "cluster_4",
-      "coverage": 3,
-      "updated_at": "Tue, 21 Jul 2026 22:50:01 +0000",
-      "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
-      "neutral_headline": "OpenAI Models Escaped Containment and Hacked Hugging Face",
-      "bullet_summary": [
-        "Reported by Wired Tech, The Verge, TechMeme"
-      ],
-      "items": [
-        {
-          "source": "Wired Tech",
-          "url": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
-          "published_at": "Tue, 21 Jul 2026 22:50:01 +0000",
-          "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
-          "standfirst": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet to pull off the attack.",
-          "content": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet to pull off the attack.",
-          "feed_position": 1,
-          "image_url": "https://media.wired.com/photos/6a5ff5b0f95e7d91469f8f3d/master/pass/security_openai_hack_huggingface.jpg"
-        },
-        {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
-          "published_at": "2026-07-21T17:48:54-04:00",
-          "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
-          "standfirst": "OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and \"an even more capable pre-release model\" discovered vulnerabilities within their sandboxed testing environment, allowing them to gain access to the internet and target Hugging Face. On July 16th, [&#8230;]",
-          "content": "OpenAI CEO Sam Altman. | Bloomberg via Getty Images OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and \"an even more capable pre-release model\" discovered vulnerabilities within their sandboxed testing environment, allowing them to gain access to the internet and target Hugging Face. On July 16th, Hugging Face disclosed a security incident that it says was driven by \"an autonomous AI agent system.\" Hugging Face's AI agents detected and stopped the breach, which OpenAI has now admitted occurred during an evaluation of its models' cybersecurity capabilities. OpenAI says \"all e … Read the full story at The Verge.",
-          "feed_position": 1
-        },
-        {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/260721/p43#a260721p43",
-          "published_at": "Tue, 21 Jul 2026 15:55:02 -0400",
-          "title": "OpenAI says its models, including GPT-5.6 Sol and \"an even more capable pre-release model\", breached Hugging Face while OpenAI tested their cyber capabilities (Ina Fried/Axios)",
-          "standfirst": "Ina Fried / Axios: OpenAI says its models, including GPT-5.6 Sol and &ldquo;an even more capable pre-release model&rdquo;, breached Hugging Face while OpenAI tested their cyber capabilities &mdash; OpenAI said Tuesday that models it was testing escaped their sandbox and compromised parts of AI platform Hugging Face's production infrastructure last week.",
-          "content": "Ina Fried / Axios: OpenAI says its models, including GPT-5.6 Sol and &ldquo;an even more capable pre-release model&rdquo;, breached Hugging Face while OpenAI tested their cyber capabilities &mdash; OpenAI said Tuesday that models it was testing escaped their sandbox and compromised parts of AI platform Hugging Face's production infrastructure last week.",
-          "feed_position": 10,
-          "image_url": "http://www.techmeme.com/260721/i43.jpg"
-        }
-      ],
-      "featured_image": "https://media.wired.com/photos/6a5ff5b0f95e7d91469f8f3d/master/pass/security_openai_hack_huggingface.jpg",
-      "popularity_score": 3018.9878694444446
-    },
-    {
-      "id": "cluster_25",
+      "id": "cluster_36",
       "coverage": 2,
       "updated_at": "Tue, 21 Jul 2026 19:39:10 +0000",
       "title": "Confusion swirls on source of diarrhea outbreak, but it’s still Taylor Farms",
@@ -76,10 +33,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2285922416-1152x648.jpg",
-      "popularity_score": 2015.807036111111
+      "popularity_score": 2009.9704630555555
     },
     {
-      "id": "cluster_58",
+      "id": "cluster_65",
       "coverage": 2,
       "updated_at": "Tue, 21 Jul 2026 17:11:50 +0000",
       "title": "Google releases three new Gemini models — but no 3.5 Pro",
@@ -95,7 +52,7 @@
           "title": "Google releases three new Gemini models — but no 3.5 Pro",
           "standfirst": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
           "content": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
-          "feed_position": 9
+          "feed_position": 12
         },
         {
           "source": "Ars Technica",
@@ -109,10 +66,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-7-1152x648.jpg",
-      "popularity_score": 2013.3514805555556
+      "popularity_score": 2007.5149075
     },
     {
-      "id": "cluster_93",
+      "id": "cluster_95",
       "coverage": 2,
       "updated_at": "Tue, 21 Jul 2026 13:19:38 +0000",
       "title": "Apps targeted at US troops contain Chinese and Russian code",
@@ -144,10 +101,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/china-russia-1152x648.jpg",
-      "popularity_score": 2009.4814805555557
+      "popularity_score": 2003.6449075
     },
     {
-      "id": "cluster_1",
+      "id": "cluster_14",
       "coverage": 1,
       "updated_at": "Tue, 21 Jul 2026 23:01:23 +0000",
       "title": "Range Rover answers the question: \"What if we built a not-SUV?\"",
@@ -168,10 +125,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/RR_GT_FRONT-3-4-1152x648.jpg",
-      "popularity_score": 352.1773138888889
+      "popularity_score": 346.3407408333333
     },
     {
-      "id": "cluster_22",
+      "id": "cluster_33",
       "coverage": 1,
       "updated_at": "Tue, 21 Jul 2026 19:50:10 +0000",
       "title": "Sony releases one last trailer for Spider-Man: Brand New Day",
@@ -192,10 +149,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/spideyTOP-1152x648-1784661224.jpg",
-      "popularity_score": 343.99036944444447
+      "popularity_score": 338.1537963888889
     },
     {
-      "id": "cluster_9",
+      "id": "cluster_22",
       "coverage": 1,
       "updated_at": "Tue, 21 Jul 2026 22:04:56 +0000",
       "title": "On the run for 20 years, most-wanted fugitive caught hiding as a biotech exec",
@@ -216,10 +173,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/748938905_1530072209161286_286265153798584974_n-1080x648.jpg",
-      "popularity_score": 341.23648055555554
+      "popularity_score": 335.3999075
     },
     {
-      "id": "cluster_32",
+      "id": "cluster_42",
       "coverage": 1,
       "updated_at": "Tue, 21 Jul 2026 19:09:19 +0000",
       "title": "Nintendo says users voluntarily paid higher prices, have no right to tariff refunds",
@@ -240,10 +197,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/nintendo-switch-1152x648-1776887603.jpg",
-      "popularity_score": 323.30953611111113
+      "popularity_score": 317.47296305555557
     },
     {
-      "id": "cluster_41",
+      "id": "cluster_50",
       "coverage": 1,
       "updated_at": "Tue, 21 Jul 2026 18:17:55 +0000",
       "title": "Let Tom Hiddleston be your guide to Pompeii's final day",
@@ -264,10 +221,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/pompeii1-1152x648.jpg",
-      "popularity_score": 297.45286944444445
+      "popularity_score": 291.6162963888889
     },
     {
-      "id": "cluster_49",
+      "id": "cluster_57",
       "coverage": 1,
       "updated_at": "Tue, 21 Jul 2026 17:51:52 +0000",
       "title": "Naked mole-rat queens use a chemical signal to suppress fertility in rivals",
@@ -288,10 +245,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2276125539-1152x648.jpg",
-      "popularity_score": 287.0187027777778
+      "popularity_score": 281.1821297222222
     },
     {
-      "id": "cluster_52",
+      "id": "cluster_60",
       "coverage": 1,
       "updated_at": "Tue, 21 Jul 2026 17:33:14 +0000",
       "title": "Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out",
@@ -312,10 +269,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-592014704-1152x648.jpg",
-      "popularity_score": 276.70814722222224
+      "popularity_score": 270.8715741666667
     },
     {
-      "id": "cluster_56",
+      "id": "cluster_63",
       "coverage": 1,
       "updated_at": "Tue, 21 Jul 2026 17:12:34 +0000",
       "title": "Sales of Valve's Steam Deck crater after recent price hike",
@@ -336,10 +293,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_8144-1152x648.jpg",
-      "popularity_score": 266.3637027777778
+      "popularity_score": 260.52712972222224
     },
     {
-      "id": "cluster_129",
+      "id": "cluster_131",
       "coverage": 1,
       "updated_at": "Mon, 20 Jul 2026 18:06:05 +0000",
       "title": "RIP bargain bin: The price impact of Sony's disc-free PlayStation plan",
@@ -363,7 +320,7 @@
       "popularity_score": 148
     },
     {
-      "id": "cluster_119",
+      "id": "cluster_121",
       "coverage": 1,
       "updated_at": "Mon, 20 Jul 2026 22:15:51 +0000",
       "title": "DA: Cop covered bodycam to snap nude prisoners on his iPhone—but other cams caught him",
@@ -387,79 +344,7 @@
       "popularity_score": 145
     },
     {
-      "id": "cluster_73",
-      "coverage": 1,
-      "updated_at": "Tue, 21 Jul 2026 15:18:23 +0000",
-      "title": "TreeSize won't renew perpetual-license support unless users subscribe",
-      "neutral_headline": "TreeSize won't renew perpetual-license support unless users subscribe",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/07/treesize-wont-renew-perpetual-license-support-unless-users-subscribe/",
-          "published_at": "Tue, 21 Jul 2026 15:18:23 +0000",
-          "title": "TreeSize won't renew perpetual-license support unless users subscribe",
-          "standfirst": "\"Current economic conditions\" have shifted TreeSize's business model.",
-          "content": "The company behind the disk space analyzer TreeSize has irked some users by no longer offering support or updates for perpetual licenses beyond their maintenance period unless customers subscribe. Further frustration has come from JAM Software's long-standing policy of not providing license keys or installers to TreeSize perpetual license holders after that support period ends. Since 2025, JAM Software has been transitioning most TreeSize editions to subscription models. Today, it sells perpetual licenses only for personal use, which include 12 months of updates, support, and “downloads of older versions, and your license,” plus the option to extend the support period. TreeSize currently has \"no plans to discontinue the sale of perpetual licenses for TreeSize Personal,\" product manager Hendrik Christ told Ars Technica. As perpetual-license maintenance periods expire, customers are discovering that extending support now generally requires subscribing to software they already own the right to use.Read full article Comments",
-          "feed_position": 10,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/TreeSize-1152x648.png"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/TreeSize-1152x648.png",
-      "popularity_score": 144.46064722222224
-    },
-    {
-      "id": "cluster_89",
-      "coverage": 1,
-      "updated_at": "Tue, 21 Jul 2026 13:36:17 +0000",
-      "title": "When your vehicle outlives its cloud: What happens next?",
-      "neutral_headline": "When your vehicle outlives its cloud: What happens next",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/07/when-your-vehicle-outlives-its-cloud-what-happens-next/",
-          "published_at": "Tue, 21 Jul 2026 13:36:17 +0000",
-          "title": "When your vehicle outlives its cloud: What happens next?",
-          "standfirst": "Automakers love connected vehicles, but support isn't open-ended.",
-          "content": "Do you use your vehicle’s app to pre‑cool the cabin on a scorching day, confirm the doors are locked from bed, or have the car automatically call for help when the airbags go off? Savor those connected, cloud‑based conveniences while you can—the clock is already ticking on their obsolescence. In a few short years, you may be driving today’s vehicle without many of the features you currently enjoy. How we got hooked on the cloud \"Connected services\"—cloud-based and networked features that let a vehicle communicate with external systems to deliver apps, data, and remote functions to drivers and passengers—have been around since the 1990s, when GM introduced OnStar as an option. Those early systems were mostly voice‑centric, but they still depended on centralized back‑end systems. Modern versions, which are fully data-driven and cloud-hosted, use much more sophisticated over-the-air data links to allow a considerably better feature set.Read full article Comments",
-          "feed_position": 11,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/car-cloud-sands-of-time-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/car-cloud-sands-of-time-1152x648.jpg",
-      "popularity_score": 142.75898055555555
-    },
-    {
-      "id": "cluster_96",
-      "coverage": 1,
-      "updated_at": "Tue, 21 Jul 2026 13:00:08 +0000",
-      "title": "2027 Kia Seltos first drive gives you plenty of SUV for not much $",
-      "neutral_headline": "2027 Kia Seltos first drive gives you plenty of SUV for not much $",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/07/2027-kia-seltos-first-drive-telluride-vibes-in-a-smaller-package/",
-          "published_at": "Tue, 21 Jul 2026 13:00:08 +0000",
-          "title": "2027 Kia Seltos first drive gives you plenty of SUV for not much $",
-          "standfirst": "It starts at just under $25,000, but the hybrid won't arrive until next year.",
-          "content": "Kia provided flights from Washington, DC, to Orange County, California, and accommodation so Ars could drive the Seltos. Ars does not accept paid editorial content. NEWPORT BEACH, Calif.—Although it sometimes feels like automakers have all but abandoned everything other than high-end luxury model vehicles, it's not universally true. While some car companies have lobbied the government, terrified, asking to build protective walls to fend off cheap Chinese competition, others have looked at the problem from a different angle, trying to meet the moment. One such effort is the new Kia Seltos, a small SUV that takes inspiration from the Telluride but with a starting price of just $24,990 plus delivery charge. The US almost didn't get the Seltos in the first place; the first-generation model was designed with China in mind. Seltos take two is more considered, and also a little more substantial. The new body with its Telluride-like design cues has been stretched, mostly in the wheelbase. That said, at 174.4 inches (4,430 mm) long, 72 inches (1,829 mm) wide, and 64.9 inches (1,648 mm) tall, it's still a subcompact, one segment smaller than something like a Toyota RAV4 or Mazda CX-5. Kia is offering a choice of three different powertrain variants. The 1.6 L hybrid is the one we're most interested in. But that version won't be in showrooms until Q4 this year; don't expect an Ars first drive of the hybrid Seltos until early next year. Or any other details in this first drive report—the hybrid Seltos is still undergoing its EPA certification, and Kia isn't prepared to talk power, torque, or efficiency until that's done and dusted.Read full article Comments",
-          "feed_position": 13,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/24914_2027_Seltos-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/24914_2027_Seltos-1152x648.jpg",
-      "popularity_score": 142.15648055555556
-    },
-    {
-      "id": "cluster_124",
+      "id": "cluster_126",
       "coverage": 1,
       "updated_at": "Mon, 20 Jul 2026 20:30:25 +0000",
       "title": "The Space Force is now seeking to buy up to $30 billion in rocket launches",
@@ -483,7 +368,79 @@
       "popularity_score": 141
     },
     {
-      "id": "cluster_120",
+      "id": "cluster_79",
+      "coverage": 1,
+      "updated_at": "Tue, 21 Jul 2026 15:18:23 +0000",
+      "title": "TreeSize won't renew perpetual-license support unless users subscribe",
+      "neutral_headline": "TreeSize won't renew perpetual-license support unless users subscribe",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/07/treesize-wont-renew-perpetual-license-support-unless-users-subscribe/",
+          "published_at": "Tue, 21 Jul 2026 15:18:23 +0000",
+          "title": "TreeSize won't renew perpetual-license support unless users subscribe",
+          "standfirst": "\"Current economic conditions\" have shifted TreeSize's business model.",
+          "content": "The company behind the disk space analyzer TreeSize has irked some users by no longer offering support or updates for perpetual licenses beyond their maintenance period unless customers subscribe. Further frustration has come from JAM Software's long-standing policy of not providing license keys or installers to TreeSize perpetual license holders after that support period ends. Since 2025, JAM Software has been transitioning most TreeSize editions to subscription models. Today, it sells perpetual licenses only for personal use, which include 12 months of updates, support, and “downloads of older versions, and your license,” plus the option to extend the support period. TreeSize currently has \"no plans to discontinue the sale of perpetual licenses for TreeSize Personal,\" product manager Hendrik Christ told Ars Technica. As perpetual-license maintenance periods expire, customers are discovering that extending support now generally requires subscribing to software they already own the right to use.Read full article Comments",
+          "feed_position": 10,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/TreeSize-1152x648.png"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/TreeSize-1152x648.png",
+      "popularity_score": 138.62407416666667
+    },
+    {
+      "id": "cluster_93",
+      "coverage": 1,
+      "updated_at": "Tue, 21 Jul 2026 13:36:17 +0000",
+      "title": "When your vehicle outlives its cloud: What happens next?",
+      "neutral_headline": "When your vehicle outlives its cloud: What happens next",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/cars/2026/07/when-your-vehicle-outlives-its-cloud-what-happens-next/",
+          "published_at": "Tue, 21 Jul 2026 13:36:17 +0000",
+          "title": "When your vehicle outlives its cloud: What happens next?",
+          "standfirst": "Automakers love connected vehicles, but support isn't open-ended.",
+          "content": "Do you use your vehicle’s app to pre‑cool the cabin on a scorching day, confirm the doors are locked from bed, or have the car automatically call for help when the airbags go off? Savor those connected, cloud‑based conveniences while you can—the clock is already ticking on their obsolescence. In a few short years, you may be driving today’s vehicle without many of the features you currently enjoy. How we got hooked on the cloud \"Connected services\"—cloud-based and networked features that let a vehicle communicate with external systems to deliver apps, data, and remote functions to drivers and passengers—have been around since the 1990s, when GM introduced OnStar as an option. Those early systems were mostly voice‑centric, but they still depended on centralized back‑end systems. Modern versions, which are fully data-driven and cloud-hosted, use much more sophisticated over-the-air data links to allow a considerably better feature set.Read full article Comments",
+          "feed_position": 11,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/car-cloud-sands-of-time-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/car-cloud-sands-of-time-1152x648.jpg",
+      "popularity_score": 136.9224075
+    },
+    {
+      "id": "cluster_98",
+      "coverage": 1,
+      "updated_at": "Tue, 21 Jul 2026 13:00:08 +0000",
+      "title": "2027 Kia Seltos first drive gives you plenty of SUV for not much $",
+      "neutral_headline": "2027 Kia Seltos first drive gives you plenty of SUV for not much $",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/cars/2026/07/2027-kia-seltos-first-drive-telluride-vibes-in-a-smaller-package/",
+          "published_at": "Tue, 21 Jul 2026 13:00:08 +0000",
+          "title": "2027 Kia Seltos first drive gives you plenty of SUV for not much $",
+          "standfirst": "It starts at just under $25,000, but the hybrid won't arrive until next year.",
+          "content": "Kia provided flights from Washington, DC, to Orange County, California, and accommodation so Ars could drive the Seltos. Ars does not accept paid editorial content. NEWPORT BEACH, Calif.—Although it sometimes feels like automakers have all but abandoned everything other than high-end luxury model vehicles, it's not universally true. While some car companies have lobbied the government, terrified, asking to build protective walls to fend off cheap Chinese competition, others have looked at the problem from a different angle, trying to meet the moment. One such effort is the new Kia Seltos, a small SUV that takes inspiration from the Telluride but with a starting price of just $24,990 plus delivery charge. The US almost didn't get the Seltos in the first place; the first-generation model was designed with China in mind. Seltos take two is more considered, and also a little more substantial. The new body with its Telluride-like design cues has been stretched, mostly in the wheelbase. That said, at 174.4 inches (4,430 mm) long, 72 inches (1,829 mm) wide, and 64.9 inches (1,648 mm) tall, it's still a subcompact, one segment smaller than something like a Toyota RAV4 or Mazda CX-5. Kia is offering a choice of three different powertrain variants. The 1.6 L hybrid is the one we're most interested in. But that version won't be in showrooms until Q4 this year; don't expect an Ars first drive of the hybrid Seltos until early next year. Or any other details in this first drive report—the hybrid Seltos is still undergoing its EPA certification, and Kia isn't prepared to talk power, torque, or efficiency until that's done and dusted.Read full article Comments",
+          "feed_position": 13,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/24914_2027_Seltos-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/24914_2027_Seltos-1152x648.jpg",
+      "popularity_score": 136.3199075
+    },
+    {
+      "id": "cluster_122",
       "coverage": 1,
       "updated_at": "Mon, 20 Jul 2026 21:55:52 +0000",
       "title": "Firefighting drones in the works as wildfires plague US nearly year-round",
@@ -507,7 +464,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_122",
+      "id": "cluster_124",
       "coverage": 1,
       "updated_at": "Mon, 20 Jul 2026 21:10:14 +0000",
       "title": "Judge halts Paramount's $111B purchase of Warner Bros. in win for US states",
@@ -531,7 +488,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_126",
+      "id": "cluster_128",
       "coverage": 1,
       "updated_at": "Mon, 20 Jul 2026 19:20:49 +0000",
       "title": "AT&T loses key ruling in bid to stop offering basic phone service in California",

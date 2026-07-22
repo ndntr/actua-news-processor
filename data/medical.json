@@ -1,26 +1,36 @@
 {
   "clinical": {
-    "updated_at": "2026-07-21T23:50:38.339Z",
+    "updated_at": "2026-07-22T05:40:50.474Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-07-21T23:50:38.340Z",
+    "updated_at": "2026-07-22T05:40:50.474Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-07-21T23:50:39.559Z",
+    "updated_at": "2026-07-22T05:40:52.239Z",
     "clusters": [
       {
-        "id": "cluster_0",
-        "coverage": 1,
-        "updated_at": "Tue, 21 Jul 2026 22:39:00 GMT",
-        "title": "Health worker monitored for Ebola in London hospital after working in DRC",
-        "neutral_headline": "Health worker monitored for Ebola in London hospital after working in DRC",
+        "id": "cluster_3",
+        "coverage": 2,
+        "updated_at": "Wed, 22 Jul 2026 00:52:35 GMT",
+        "title": "UK humanitarian worker monitored for Ebola in London hospital",
+        "neutral_headline": "UK humanitarian worker monitored for Ebola in London hospital",
         "bullet_summary": [
           "The UK resident was medically evacuated from the Democratic Republic of the Congo (DRC) where the worker had been treating patients with the disease, the UK Health Security Agency (UKHSA) said",
-          "Reported by Guardian Health"
+          "Reported by BBC Health, Guardian Health"
         ],
         "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.co.uk/news/articles/cdewk5r308jo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Wed, 22 Jul 2026 00:52:35 GMT",
+            "title": "UK humanitarian worker monitored for Ebola in London hospital",
+            "standfirst": "The health worker was evacuated to the UK from the DR Congo after being potentially exposed to the virus.",
+            "content": "The health worker was evacuated to the UK from the DR Congo after being potentially exposed to the virus.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22c0/live/117a7b30-8555-11f1-b976-0b9c15b0ccfc.jpg"
+          },
           {
             "source": "Guardian Health",
             "url": "https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc",
@@ -30,14 +40,105 @@
             "content": "UK resident was evacuated from Democratic Republic of the Congo where there is an outbreak of the diseaseA humanitarian worker is being monitored at a specialist hospital in London after potential exposure to the Ebola virus.The UK resident was medically evacuated from the Democratic Republic of the Congo (DRC) where the worker had been treating patients with the disease, the UK Health Security Agency (UKHSA) said. Continue reading...",
             "feed_position": 1
           }
-        ]
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22c0/live/117a7b30-8555-11f1-b976-0b9c15b0ccfc.jpg"
+      },
+      {
+        "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Wed, 22 Jul 2026 05:29:25 GMT",
+        "title": "Removing tax from sanitary products 'pointless'",
+        "neutral_headline": "Removing tax from sanitary products 'pointless'",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.co.uk/news/articles/cn8k0n0rdz0o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Wed, 22 Jul 2026 05:29:25 GMT",
+            "title": "Removing tax from sanitary products 'pointless'",
+            "standfirst": "Jersey's government has spent more than £500,000 on its free period product scheme since 2022.",
+            "content": "Jersey's government has spent more than £500,000 on its free period product scheme since 2022.",
+            "feed_position": 23,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ff9/live/69771cd0-8514-11f1-a08a-6d526d664753.png"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ff9/live/69771cd0-8514-11f1-a08a-6d526d664753.png"
       },
       {
         "id": "cluster_1",
         "coverage": 1,
+        "updated_at": "Wed, 22 Jul 2026 05:23:44 GMT",
+        "title": "How farmers could fix Wales' polluted rivers and save money",
+        "neutral_headline": "How farmers could fix Wales' polluted rivers and save money",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/news/articles/cvgj2vdl8r2o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Wed, 22 Jul 2026 05:23:44 GMT",
+            "title": "How farmers could fix Wales' polluted rivers and save money",
+            "standfirst": "Farmers have a crucial role in cleaning up one of the UK's most polluted river systems, a study shows.",
+            "content": "Farmers have a crucial role in cleaning up one of the UK's most polluted river systems, a study shows.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ef3/live/4394b1d0-858c-11f1-b106-61783e9e0f97.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ef3/live/4394b1d0-858c-11f1-b106-61783e9e0f97.jpg"
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Wed, 22 Jul 2026 05:00:06 GMT",
+        "title": "Lack of defibrillators could put 16m at risk of death by cardiac arrest in England and Wales",
+        "neutral_headline": "Lack of defibrillators could put 16m at risk of death by...",
+        "bullet_summary": [
+          "Reported by Guardian Health"
+        ],
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/society/2026/jul/22/lack-defibrillators-risk-dying-of-cardiac-arrest-england-wales",
+            "published_at": "Wed, 22 Jul 2026 05:00:06 GMT",
+            "title": "Lack of defibrillators could put 16m at risk of death by cardiac arrest in England and Wales",
+            "standfirst": "Exclusive: Research shows millions live more than a 1km round trip from 24/7 accessible deviceMore than 16 million people in England and Wales risk dying from a cardiac arrest because they live farther than a 1km round trip from the nearest 24/7 defibrillator, according to exclusive research. Analysis of publicly available defibrillators by the Heart Restart campaign found that in England and Wales alone, 35 million people – more than half the population – do not live within the recommended three- to five-minute brisk walk of a defibrillator. Of these, about half live more than a 1km round trip from a 24/7 accessible defibrillator.There are more than 40,000 out-of-hospital cardiac arrests each year in the UK, but fewer than one in 10 people survive. However, early cardiopulmonary resuscitation (CPR) and defibrillation can more than double the chance of survival. Continue reading...",
+            "content": "Exclusive: Research shows millions live more than a 1km round trip from 24/7 accessible deviceMore than 16 million people in England and Wales risk dying from a cardiac arrest because they live farther than a 1km round trip from the nearest 24/7 defibrillator, according to exclusive research. Analysis of publicly available defibrillators by the Heart Restart campaign found that in England and Wales alone, 35 million people – more than half the population – do not live within the recommended three- to five-minute brisk walk of a defibrillator. Of these, about half live more than a 1km round trip from a 24/7 accessible defibrillator.There are more than 40,000 out-of-hospital cardiac arrests each year in the UK, but fewer than one in 10 people survive. However, early cardiopulmonary resuscitation (CPR) and defibrillation can more than double the chance of survival. Continue reading...",
+            "feed_position": 0
+          }
+        ]
+      },
+      {
+        "id": "cluster_4",
+        "coverage": 1,
+        "updated_at": "Wed, 22 Jul 2026 00:03:43 GMT",
+        "title": "More young women in their 20s are getting type 2 diabetes",
+        "neutral_headline": "More young women in their 20s are getting type 2 diabetes",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.co.uk/news/articles/cdx8vw5k2x8o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Wed, 22 Jul 2026 00:03:43 GMT",
+            "title": "More young women in their 20s are getting type 2 diabetes",
+            "standfirst": "England is seeing \"a worrying increase\" in women in their 20s developing type 2 diabetes, say experts. Here's what to look out for.",
+            "content": "England is seeing \"a worrying increase\" in women in their 20s developing type 2 diabetes, say experts. Here's what to look out for.",
+            "feed_position": 1,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13dc/live/eb3abd90-84d2-11f1-8a1f-271692b35cb6.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13dc/live/eb3abd90-84d2-11f1-8a1f-271692b35cb6.jpg"
+      },
+      {
+        "id": "cluster_5",
+        "coverage": 1,
         "updated_at": "Tue, 21 Jul 2026 22:26:19 GMT",
-        "title": "Tokyo urges men to wear shorts to work, but women say it's 'leg hair harassment'",
-        "neutral_headline": "Tokyo urges men to wear shorts to work, but women say it's 'leg hair harassment'",
+        "title": "Tokyo urges men to wear shorts to work, but some women say it's 'leg hair harassment'",
+        "neutral_headline": "Tokyo urges men to wear shorts to work, but some women say it's 'leg hair harassment'",
         "bullet_summary": [
           "Reported by BBC Science"
         ],
@@ -46,17 +147,17 @@
             "source": "BBC Science",
             "url": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&at_campaign=rss",
             "published_at": "Tue, 21 Jul 2026 22:26:19 GMT",
-            "title": "Tokyo urges men to wear shorts to work, but women say it's 'leg hair harassment'",
+            "title": "Tokyo urges men to wear shorts to work, but some women say it's 'leg hair harassment'",
             "standfirst": "The Tokyo Metropolitan Government wants workers to ditch the suit and tie for t-shirts, trainers - and shorts.",
             "content": "The Tokyo Metropolitan Government wants workers to ditch the suit and tie for t-shirts, trainers - and shorts.",
-            "feed_position": 0,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd1c/live/66a05f50-84d6-11f1-8a1f-271692b35cb6.jpg"
+            "feed_position": 1,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/423b/live/cc155220-8560-11f1-8e86-f3b77f0936bf.jpg"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd1c/live/66a05f50-84d6-11f1-8a1f-271692b35cb6.jpg"
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/423b/live/cc155220-8560-11f1-8e86-f3b77f0936bf.jpg"
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Tue, 21 Jul 2026 19:49:20 GMT",
         "title": "Richard Johns obituary",
@@ -77,7 +178,7 @@
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Tue, 21 Jul 2026 17:21:29 GMT",
         "title": "PFAS treatment 'could cost £210m and higher bills'",
@@ -93,14 +194,14 @@
             "title": "PFAS treatment 'could cost £210m and higher bills'",
             "standfirst": "The final report from a scientific panel recommends Jersey Water adheres to a lower PFAS levels.",
             "content": "The final report from a scientific panel recommends Jersey Water adheres to a lower PFAS levels.",
-            "feed_position": 13,
+            "feed_position": 14,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d67/live/fae710c0-8524-11f1-97e8-4f50dea2b016.png"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d67/live/fae710c0-8524-11f1-97e8-4f50dea2b016.png"
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Tue, 21 Jul 2026 17:21:19 GMT",
         "title": "Ozempic maker Novo Nordisk sues US rival over ‘materially misleading’ ads",
@@ -121,7 +222,7 @@
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Tue, 21 Jul 2026 16:58:11 GMT",
         "title": "Yet another wake-up call on declining child health | Letters",
@@ -142,7 +243,7 @@
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Tue, 21 Jul 2026 16:58:07 GMT",
         "title": "Broaden newborn screening programmes | Letters",
@@ -158,12 +259,12 @@
             "title": "Broaden newborn screening programmes | Letters",
             "standfirst": "Screening for spinal muscular atrophy is a step forward, says Dr Janet Hoskin, but what about other serious genetic conditions such as Duchenne muscular dystrophy?The decision to introduce newborn screening for spinal muscular atrophy (SMA) is a major breakthrough for families and campaigners (All newborns in England to be screened for spinal muscular atrophy from 2027, 16 July). Early diagnosis means children can access treatment sooner, improving outcomes and giving families clarity at a crucial time.However, this success raises an important question: why are other serious genetic conditions, such as Duchenne muscular dystrophy (DMD), still excluded from newborn screening programmes? About 100 boys are born with DMD each year. It causes progressive muscle weakness and is often diagnosed only after years of uncertainty. Although new treatments such as Givinostat are beginning to offer hope for some young people, early diagnosis remains vital. It can help families access information, specialist care and support much sooner, and may allow more children to benefit from emerging treatments. Continue reading...",
             "content": "Screening for spinal muscular atrophy is a step forward, says Dr Janet Hoskin, but what about other serious genetic conditions such as Duchenne muscular dystrophy?The decision to introduce newborn screening for spinal muscular atrophy (SMA) is a major breakthrough for families and campaigners (All newborns in England to be screened for spinal muscular atrophy from 2027, 16 July). Early diagnosis means children can access treatment sooner, improving outcomes and giving families clarity at a crucial time.However, this success raises an important question: why are other serious genetic conditions, such as Duchenne muscular dystrophy (DMD), still excluded from newborn screening programmes? About 100 boys are born with DMD each year. It causes progressive muscle weakness and is often diagnosed only after years of uncertainty. Although new treatments such as Givinostat are beginning to offer hope for some young people, early diagnosis remains vital. It can help families access information, specialist care and support much sooner, and may allow more children to benefit from emerging treatments. Continue reading...",
-            "feed_position": 0
+            "feed_position": 5
           }
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Tue, 21 Jul 2026 16:57:55 GMT",
         "title": "Yoga for scoliosis can be life-changing | Letters",
@@ -179,12 +280,12 @@
             "title": "Yoga for scoliosis can be life-changing | Letters",
             "standfirst": "I’ve worked to cope with the chronic pain through ashtanga yoga, says Louise Zamparutti. Plus letters from Kirie Pedersen and Alice DevonThank you for publishing Natasha Livingstone’s article (A moment that changed me: I started yoga – and saw my scoliosis in a surprising new light, 15 July). I have been ashamed of my scoliosis my entire life. It wasn’t diagnosed until my early 20s, and by that time I had begun a career as a dancer and choreographer. My dance teachers were always criticising my off-kilter posture and I constantly felt that I didn’t deserve to pursue a career in dance due to my disfigured spine. My curvature is both thoracic and lumbar, and runs both sideways and forward-backward. I, too, have an uneven waistline, a hip curve on one side and straight rib-to-hip line on the other. Pants fit unevenly on me, and for years I would never wear an open-backed top.Reading this piece made me recognise how hard I’ve worked to cope with the chronic pain, through ashtanga yoga, which I taught for over 10 years, and now through lap swimming. But I haven’t come to terms with the shame. This piece gave me the sense that I am not alone – that there are others of us who have scoliosis and deal with it in a myriad of ways. As the author of this article shows, there should be no shame in having the strength to cope with it and do whatever we want to do in our lives. Louise ZamparuttiSun Prairie, Wisconsin, US Continue reading...",
             "content": "I’ve worked to cope with the chronic pain through ashtanga yoga, says Louise Zamparutti. Plus letters from Kirie Pedersen and Alice DevonThank you for publishing Natasha Livingstone’s article (A moment that changed me: I started yoga – and saw my scoliosis in a surprising new light, 15 July). I have been ashamed of my scoliosis my entire life. It wasn’t diagnosed until my early 20s, and by that time I had begun a career as a dancer and choreographer. My dance teachers were always criticising my off-kilter posture and I constantly felt that I didn’t deserve to pursue a career in dance due to my disfigured spine. My curvature is both thoracic and lumbar, and runs both sideways and forward-backward. I, too, have an uneven waistline, a hip curve on one side and straight rib-to-hip line on the other. Pants fit unevenly on me, and for years I would never wear an open-backed top.Reading this piece made me recognise how hard I’ve worked to cope with the chronic pain, through ashtanga yoga, which I taught for over 10 years, and now through lap swimming. But I haven’t come to terms with the shame. This piece gave me the sense that I am not alone – that there are others of us who have scoliosis and deal with it in a myriad of ways. As the author of this article shows, there should be no shame in having the strength to cope with it and do whatever we want to do in our lives. Louise ZamparuttiSun Prairie, Wisconsin, US Continue reading...",
-            "feed_position": 5
+            "feed_position": 6
           }
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Tue, 21 Jul 2026 16:20:38 GMT",
         "title": "Record number of osprey chicks for nature reserve",
@@ -200,14 +301,14 @@
             "title": "Record number of osprey chicks for nature reserve",
             "standfirst": "Cumbria Wildlife Trust says it is delighted to see a new breeding pair boosting numbers.",
             "content": "Cumbria Wildlife Trust says it is delighted to see a new breeding pair boosting numbers.",
-            "feed_position": 14,
+            "feed_position": 15,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f637/live/677cd370-8514-11f1-b976-0b9c15b0ccfc.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f637/live/677cd370-8514-11f1-b976-0b9c15b0ccfc.jpg"
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Tue, 21 Jul 2026 15:57:29 GMT",
         "title": "Brazil's Amazon sees sharp decline in size of area burned in 2025",
@@ -223,14 +324,14 @@
             "title": "Brazil's Amazon sees sharp decline in size of area burned in 2025",
             "standfirst": "The amount of land burned in the world's largest rainforest was the smallest since MapBiomas records began in 1985.",
             "content": "The amount of land burned in the world's largest rainforest was the smallest since MapBiomas records began in 1985.",
-            "feed_position": 1,
+            "feed_position": 2,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cbf/live/3257b150-84de-11f1-8a1f-271692b35cb6.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cbf/live/3257b150-84de-11f1-8a1f-271692b35cb6.jpg"
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Tue, 21 Jul 2026 15:00:51 GMT",
         "title": "Ads call ovarian cancer a ‘silent killer’. But does urging women to undergo early detection testing do more harm than good? | Antiviral",
@@ -246,12 +347,12 @@
             "title": "Ads call ovarian cancer a ‘silent killer’. But does urging women to undergo early detection testing do more harm than good? | Antiviral",
             "standfirst": "Website offering blood check is aimed at people with a higher risk of disease – and false positives can create fearRead more in the Antiviral series“Early detection blood testing” for ovarian cancer “is now available in Australia”, the online ads say, warning that “it’s not just women with a family history” who can be diagnosed.The ad calls the cancer a “silent killer” and says women who wish to be “proactive” can visit a website for early detection. It lists general symptoms including bloating, pelvic pain and the urge to urinate more frequently as potential signs of the disease.Melissa Davey is Guardian Australia’s medical editorAntiviral is a fortnightly column that interrogates the evidence behind the health headlines and factchecks popular wellness claims Continue reading...",
             "content": "Website offering blood check is aimed at people with a higher risk of disease – and false positives can create fearRead more in the Antiviral series“Early detection blood testing” for ovarian cancer “is now available in Australia”, the online ads say, warning that “it’s not just women with a family history” who can be diagnosed.The ad calls the cancer a “silent killer” and says women who wish to be “proactive” can visit a website for early detection. It lists general symptoms including bloating, pelvic pain and the urge to urinate more frequently as potential signs of the disease.Melissa Davey is Guardian Australia’s medical editorAntiviral is a fortnightly column that interrogates the evidence behind the health headlines and factchecks popular wellness claims Continue reading...",
-            "feed_position": 6
+            "feed_position": 7
           }
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Tue, 21 Jul 2026 13:46:28 GMT",
         "title": "Fourth person dies in New York City legionnaires’ disease outbreak",
@@ -267,12 +368,12 @@
             "title": "Fourth person dies in New York City legionnaires’ disease outbreak",
             "standfirst": "US health officials say source of Upper East Side cluster has probably been eliminated after 76 people fell illAn outbreak of legionnaires’ disease in New York City has claimed a fourth life, officials have said, as they again expressed confidence the source of the exposure had been eliminated.A statement from the city’s health department on Monday said the outbreak, which was traced to cooling towers in buildings in Manhattan’s Upper East Side, had sickened 76 people – with 53 discharged after hospital treatment, and 12 others managing their recovery at home. Continue reading...",
             "content": "US health officials say source of Upper East Side cluster has probably been eliminated after 76 people fell illAn outbreak of legionnaires’ disease in New York City has claimed a fourth life, officials have said, as they again expressed confidence the source of the exposure had been eliminated.A statement from the city’s health department on Monday said the outbreak, which was traced to cooling towers in buildings in Manhattan’s Upper East Side, had sickened 76 people – with 53 discharged after hospital treatment, and 12 others managing their recovery at home. Continue reading...",
-            "feed_position": 7
+            "feed_position": 8
           }
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Tue, 21 Jul 2026 13:46:05 GMT",
         "title": "Parts of the UK move closer to drought",
@@ -288,14 +389,14 @@
             "title": "Parts of the UK move closer to drought",
             "standfirst": "Eight areas across England are now in prolonged dry weather – the stage before drought.",
             "content": "Eight areas across England are now in prolonged dry weather – the stage before drought.",
-            "feed_position": 2,
+            "feed_position": 3,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbfc/live/260f1bc0-84fe-11f1-bee8-53ce494e1abc.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbfc/live/260f1bc0-84fe-11f1-bee8-53ce494e1abc.jpg"
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Tue, 21 Jul 2026 12:02:58 GMT",
         "title": "Hosepipe ban in force for millions of households - is your area affected?",
@@ -311,14 +412,14 @@
             "title": "Hosepipe ban in force for millions of households - is your area affected?",
             "standfirst": "More than eight million households have been placed under hosepipe bans - which has raised questions about how effectively water resources are being managed.",
             "content": "More than eight million households have been placed under hosepipe bans - which has raised questions about how effectively water resources are being managed.",
-            "feed_position": 3,
+            "feed_position": 4,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c74b/live/69a57380-7fa8-11f1-a5f4-433bb9aa2e5a.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c74b/live/69a57380-7fa8-11f1-a5f4-433bb9aa2e5a.jpg"
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Tue, 21 Jul 2026 11:13:10 GMT",
         "title": "UK's bumblebees are struggling in heatwaves",
@@ -334,7 +435,7 @@
             "title": "UK's bumblebees are struggling in heatwaves",
             "standfirst": "UK bumblebees could suffer sharp falls in their numbers as heatwaves become more frequent.",
             "content": "UK bumblebees could suffer sharp falls in their numbers as heatwaves become more frequent.",
-            "feed_position": 16,
+            "feed_position": 17,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9683/live/aefd0bc0-84f1-11f1-bee8-53ce494e1abc.jpg"
           },
           {
@@ -344,14 +445,14 @@
             "title": "Bumblebees are struggling in UK heatwaves - but you can help them",
             "standfirst": "The furry bodies of UK bumblebees are specially adapted for cold weather - making heatwaves a struggle.",
             "content": "The furry bodies of UK bumblebees are specially adapted for cold weather - making heatwaves a struggle.",
-            "feed_position": 5,
+            "feed_position": 6,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d8f/live/15884120-842a-11f1-96d8-4b9d5565f166.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9683/live/aefd0bc0-84f1-11f1-bee8-53ce494e1abc.jpg"
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Tue, 21 Jul 2026 10:00:42 GMT",
         "title": "Healthy diet too expensive for one in three people globally, UN report finds",
@@ -368,106 +469,14 @@
             "title": "Healthy diet too expensive for one in three people globally, UN report finds",
             "standfirst": "Global hunger declined for the third year in a row in 2025 but experts call for action to bring down costs of fruit, vegetables and dairy as report shows 2.69bn people can’t afford to eat wellOne in three people cannot afford to eat a healthy diet, a new report has found, prompting calls for urgent action on food affordability.There are 2.69 billion people unable to afford a diverse diet that meets their energy and nutrient needs, and it will take “immense” amounts of work to achieve the global target of zero hunger by 2030, the annual report from five UN agencies warned. Continue reading...",
             "content": "Global hunger declined for the third year in a row in 2025 but experts call for action to bring down costs of fruit, vegetables and dairy as report shows 2.69bn people can’t afford to eat wellOne in three people cannot afford to eat a healthy diet, a new report has found, prompting calls for urgent action on food affordability.There are 2.69 billion people unable to afford a diverse diet that meets their energy and nutrient needs, and it will take “immense” amounts of work to achieve the global target of zero hunger by 2030, the annual report from five UN agencies warned. Continue reading...",
-            "feed_position": 8
+            "feed_position": 9
           }
         ]
-      },
-      {
-        "id": "cluster_16",
-        "coverage": 1,
-        "updated_at": "Tue, 21 Jul 2026 09:00:00 GMT",
-        "title": "Inside Health",
-        "neutral_headline": "Inside Health",
-        "bullet_summary": [
-          "Reported by BBC Health"
-        ],
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.co.uk/sounds/play/m002z735?at_medium=RSS&at_campaign=rss",
-            "published_at": "Tue, 21 Jul 2026 09:00:00 GMT",
-            "title": "Inside Health",
-            "standfirst": "Also, running during pregnancy and how to recover.",
-            "content": "Also, running during pregnancy and how to recover.",
-            "feed_position": 43,
-            "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1r8h6.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1r8h6.jpg"
-      },
-      {
-        "id": "cluster_17",
-        "coverage": 1,
-        "updated_at": "Tue, 21 Jul 2026 02:42:44 GMT",
-        "title": "Tropical Storm Bertha threatens US Gulf coast",
-        "neutral_headline": "Tropical Storm Bertha threatens US Gulf coast",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/news/articles/cqjxzzdrl4lo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Tue, 21 Jul 2026 02:42:44 GMT",
-            "title": "Tropical Storm Bertha threatens US Gulf coast",
-            "standfirst": "Storm surges up to 4ft are possible along parts of the Louisiana and Mississippi coasts, officials say.",
-            "content": "Storm surges up to 4ft are possible along parts of the Louisiana and Mississippi coasts, officials say.",
-            "feed_position": 4,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce22/live/7cb71d20-84ad-11f1-b976-0b9c15b0ccfc.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce22/live/7cb71d20-84ad-11f1-b976-0b9c15b0ccfc.jpg"
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Tue, 21 Jul 2026 00:16:08 GMT",
-        "title": "Your tips on getting a fussy child to eat, and six recipes they'll love",
-        "neutral_headline": "Your tips on getting a fussy child to eat, and six recipes they'll love",
-        "bullet_summary": [
-          "Reported by BBC Health"
-        ],
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.co.uk/news/articles/c5yrjgj984qo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Tue, 21 Jul 2026 00:16:08 GMT",
-            "title": "Your tips on getting a fussy child to eat, and six recipes they'll love",
-            "standfirst": "Want to avoid battles over broccoli and squabbles over spinach? We've asked you for your advice on how to cope at mealtimes over the summer holidays.",
-            "content": "Want to avoid battles over broccoli and squabbles over spinach? We've asked you for your advice on how to cope at mealtimes over the summer holidays.",
-            "feed_position": 0,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5ec/live/5e399080-8435-11f1-bee8-53ce494e1abc.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5ec/live/5e399080-8435-11f1-bee8-53ce494e1abc.jpg"
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Mon, 20 Jul 2026 18:16:51 GMT",
-        "title": "Canadian wildfires rage as Trump warns Carney again over 'poisoning' US air",
-        "neutral_headline": "Canadian wildfires rage as Trump warns Carney again over 'poisoning' US air",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/news/articles/crl7n6j7gr3o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Mon, 20 Jul 2026 18:16:51 GMT",
-            "title": "Canadian wildfires rage as Trump warns Carney again over 'poisoning' US air",
-            "standfirst": "The US president raised the issue with the the Canadian prime minister while the pair attended the World Cup Final in New Jersey.",
-            "content": "The US president raised the issue with the the Canadian prime minister while the pair attended the World Cup Final in New Jersey.",
-            "feed_position": 6,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8062/live/7ae1e690-846e-11f1-b286-f1d324aa6c22.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8062/live/7ae1e690-846e-11f1-b286-f1d324aa6c22.jpg"
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-07-21T23:50:39.559Z",
+    "updated_at": "2026-07-22T05:40:52.239Z",
     "clusters": []
   }
 }
