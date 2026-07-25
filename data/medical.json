@@ -1,17 +1,63 @@
 {
   "clinical": {
-    "updated_at": "2026-07-24T23:57:12.795Z",
+    "updated_at": "2026-07-25T05:36:02.698Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-07-24T23:57:12.795Z",
+    "updated_at": "2026-07-25T05:36:02.698Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-07-24T23:57:15.509Z",
+    "updated_at": "2026-07-25T05:36:04.901Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Sat, 25 Jul 2026 02:29:36 GMT",
+        "title": "More than 220,000 evacuated in France and Spain due to wildfires",
+        "neutral_headline": "More than 220,000 evacuated in France and Spain due to wildfires",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sat, 25 Jul 2026 02:29:36 GMT",
+            "title": "More than 220,000 evacuated in France and Spain due to wildfires",
+            "standfirst": "French firefighters battle a blaze heading towards Bordeaux while officials in Madrid say they face the \"worst fire in the history of the region\".",
+            "content": "French firefighters battle a blaze heading towards Bordeaux while officials in Madrid say they face the \"worst fire in the history of the region\".",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/638c/live/3592d2f0-87ae-11f1-9e55-1d545cca1941.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/638c/live/3592d2f0-87ae-11f1-9e55-1d545cca1941.jpg"
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Sat, 25 Jul 2026 00:41:50 GMT",
+        "title": "Watch: SpaceX's successful test flight and splashdown for Starship",
+        "neutral_headline": "Watch: SpaceX's successful test flight and splashdown for Starship",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/news/articles/czxqnwzqqw8o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sat, 25 Jul 2026 00:41:50 GMT",
+            "title": "Watch: SpaceX's successful test flight and splashdown for Starship",
+            "standfirst": "The megarocket pulls off a soft splashdown in the Indian Ocean an hour after launch.",
+            "content": "The megarocket pulls off a soft splashdown in the Indian Ocean an hour after launch.",
+            "feed_position": 1,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b01/live/95fde850-87bd-11f1-b8ee-9b3c26ad07bb.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b01/live/95fde850-87bd-11f1-b8ee-9b3c26ad07bb.jpg"
+      },
+      {
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Fri, 24 Jul 2026 22:03:36 GMT",
         "title": "Are BuzzBallz actually recyclable?",
@@ -27,7 +73,7 @@
             "title": "Are BuzzBallz actually recyclable?",
             "standfirst": "BuzzBallz cannot be recycled as the metal lid and plastic body are attached, say experts.",
             "content": "BuzzBallz cannot be recycled as the metal lid and plastic body are attached, say experts.",
-            "feed_position": 0,
+            "feed_position": 2,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e76/live/59efbb20-8751-11f1-b2ab-0dd01740f9f6.jpg"
           },
           {
@@ -37,14 +83,14 @@
             "title": "It's the cocktail taking young drinkers by storm - but the packaging is 'unrecyclable'",
             "standfirst": "BuzzBallz cannot be recycled because the metal lid and plastic body are attached, say experts.",
             "content": "BuzzBallz cannot be recycled because the metal lid and plastic body are attached, say experts.",
-            "feed_position": 1,
+            "feed_position": 3,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19cc/live/976e3410-84f2-11f1-ae95-69a18db8092b.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e76/live/59efbb20-8751-11f1-b2ab-0dd01740f9f6.jpg"
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Fri, 24 Jul 2026 22:00:58 GMT",
         "title": "Judge rules FDA restrictions on mifepristone are arbitrary and capricious",
@@ -65,30 +111,7 @@
         ]
       },
       {
-        "id": "cluster_2",
-        "coverage": 1,
-        "updated_at": "Fri, 24 Jul 2026 21:47:16 GMT",
-        "title": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
-        "neutral_headline": "Firefighters struggle to contain Madrid wildfires, as more than 140,000...",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Fri, 24 Jul 2026 21:47:16 GMT",
-            "title": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
-            "standfirst": "Authorities face the \"worst fire in the history of the region\", Madrid officials say, as French firefighters battle a blaze heading towards Bordeaux.",
-            "content": "Authorities face the \"worst fire in the history of the region\", Madrid officials say, as French firefighters battle a blaze heading towards Bordeaux.",
-            "feed_position": 2,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/638c/live/3592d2f0-87ae-11f1-9e55-1d545cca1941.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/638c/live/3592d2f0-87ae-11f1-9e55-1d545cca1941.jpg"
-      },
-      {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Fri, 24 Jul 2026 20:45:23 GMT",
         "title": "Is strength training secretly just diet culture? – Stateside with Kai and Carter",
@@ -118,7 +141,7 @@
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Fri, 24 Jul 2026 19:09:29 GMT",
         "title": "US surpasses 2025’s record number of measles infections as cases climb",
@@ -139,7 +162,7 @@
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Fri, 24 Jul 2026 18:43:41 GMT",
         "title": "Existing care workers could be exempt from UK’s tough new immigration rules",
@@ -160,7 +183,7 @@
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Fri, 24 Jul 2026 16:48:48 GMT",
         "title": "'Buck Moon' set to light up sky",
@@ -176,14 +199,14 @@
             "title": "'Buck Moon' set to light up sky",
             "standfirst": "July's full Moon is set to be a special one - Sophia Herod explains why.",
             "content": "July's full Moon is set to be a special one - Sophia Herod explains why.",
-            "feed_position": 3,
+            "feed_position": 4,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f62/live/e118e1f0-874a-11f1-b8ee-9b3c26ad07bb.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f62/live/e118e1f0-874a-11f1-b8ee-9b3c26ad07bb.jpg"
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Fri, 24 Jul 2026 16:12:53 GMT",
         "title": "Rain returns for some parts of the UK",
@@ -199,14 +222,14 @@
             "title": "Rain returns for some parts of the UK",
             "standfirst": "Rain is returning for some of us this weekend – but is it enough for places that have seen little or now rain for weeks?",
             "content": "Rain is returning for some of us this weekend – but is it enough for places that have seen little or now rain for weeks?",
-            "feed_position": 4,
+            "feed_position": 5,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ce2/live/c032fd10-8770-11f1-b8ee-9b3c26ad07bb.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ce2/live/c032fd10-8770-11f1-b8ee-9b3c26ad07bb.jpg"
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Fri, 24 Jul 2026 16:01:50 GMT",
         "title": "From high heels to ‘Zara death pants’: how fashion falls foul of women’s safety",
@@ -227,7 +250,7 @@
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Fri, 24 Jul 2026 15:41:33 GMT",
         "title": "Migraines are so much more than just banging headaches | Letters",
@@ -249,7 +272,7 @@
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Fri, 24 Jul 2026 15:33:53 GMT",
         "title": "My advice to new Tate director – show us more art | Brief letters",
@@ -270,7 +293,7 @@
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Fri, 24 Jul 2026 15:02:19 GMT",
         "title": "US cyclosporiasis outbreak expands to nine states as CDC investigates 7,400 cases",
@@ -292,7 +315,7 @@
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Fri, 24 Jul 2026 14:59:24 GMT",
         "title": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
@@ -308,14 +331,14 @@
             "title": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
             "standfirst": "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula.",
             "content": "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula.",
-            "feed_position": 5,
+            "feed_position": 6,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb06/live/2f9183e0-8738-11f1-a10e-a5d4f08bc20c.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb06/live/2f9183e0-8738-11f1-a10e-a5d4f08bc20c.jpg"
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Fri, 24 Jul 2026 14:43:51 GMT",
         "title": "First person gets new experimental vaccine for Ebola",
@@ -338,7 +361,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3db/live/e54a8ca0-8769-11f1-b279-1737aab624f9.jpg"
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Fri, 24 Jul 2026 14:00:16 GMT",
         "title": "13 surprising reasons you’re always dog tired – and what to do about it",
@@ -359,7 +382,7 @@
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Fri, 24 Jul 2026 06:00:06 GMT",
         "title": "One year, 17 towns, dozens of voices: what we heard along the coast of England and Wales",
@@ -380,7 +403,7 @@
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Fri, 24 Jul 2026 05:20:55 GMT",
         "title": "Play area aims to interest children in rare habitat",
@@ -403,7 +426,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8738/live/808718e0-86c6-11f1-bf7f-25405e28486d.jpg"
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Fri, 24 Jul 2026 05:17:57 GMT",
         "title": "Rare night heron spotted at National Trust site",
@@ -426,7 +449,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f415/live/a6d6a320-8686-11f1-b976-0b9c15b0ccfc.png"
       },
       {
-        "id": "cluster_18",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Fri, 24 Jul 2026 05:00:04 GMT",
         "title": "Replacing gas stove can help asthmatics as much as some drugs, US experts find",
@@ -445,34 +468,11 @@
             "feed_position": 11
           }
         ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Fri, 24 Jul 2026 04:52:22 GMT",
-        "title": "Female veterans support group makes national impact",
-        "neutral_headline": "Female veterans support group makes national impact",
-        "bullet_summary": [
-          "Reported by BBC Health"
-        ],
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.co.uk/news/articles/cg7mzv73jjdo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Fri, 24 Jul 2026 04:52:22 GMT",
-            "title": "Female veterans support group makes national impact",
-            "standfirst": "Chelley Tulloch, a former RAF medic, is one of 48 female veterans to benefit from the groups' help.",
-            "content": "Chelley Tulloch, a former RAF medic, is one of 48 female veterans to benefit from the groups' help.",
-            "feed_position": 23,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/362c/live/67742e10-871b-11f1-a4e0-e589dd7408b0.png"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/362c/live/67742e10-871b-11f1-a4e0-e589dd7408b0.png"
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-07-24T23:57:15.509Z",
+    "updated_at": "2026-07-25T05:36:04.901Z",
     "clusters": []
   }
 }
