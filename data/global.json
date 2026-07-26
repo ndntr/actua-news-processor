@@ -1,209 +1,35 @@
 {
-  "updated_at": "2026-07-26T09:07:46.073Z",
+  "updated_at": "2026-07-26T11:56:27.791Z",
   "clusters": [
     {
-      "id": "cluster_0",
-      "coverage": 7,
-      "updated_at": "Sun, 26 Jul 2026 09:01:00 GMT",
-      "title": "Wildfires keep southwest France on edge: Evacuations top 200,000",
-      "neutral_headline": "France battles fire 'whirlwinds' as another 55,000 evacuated",
-      "bullet_summary": [
-        "Reported by France24, BBC World, Al Jazeera and others"
-      ],
-      "items": [
-        {
-          "source": "France24",
-          "url": "https://www.france24.com/en/wildfires-keep-southwest-france-on-edge-evacuations-top-200-000",
-          "published_at": "Sun, 26 Jul 2026 09:01:00 GMT",
-          "title": "Wildfires keep southwest France on edge: Evacuations top 200,000",
-          "standfirst": "FRANCE 24 reporter Luke Shrago has more.",
-          "content": "FRANCE 24 reporter Luke Shrago has more.",
-          "feed_position": 0,
-          "image_url": "https://s.france24.com/media/display/18401acc-88cc-11f1-b75a-005056a90284/w:1024/p:16x9/EN-20260726-090114-090331-CS.jpg"
-        },
-        {
-          "source": "France24",
-          "url": "https://www.france24.com/en/video/20260726-spain-struggles-to-contain-wildfires-60-000-evacuated-around-madrid",
-          "published_at": "Sun, 26 Jul 2026 08:49:21 GMT",
-          "title": "Spain struggles to contain wildfires: 60,000 evacuated around Madrid",
-          "standfirst": "Spain has evacuated tens of thousands of people from villages west of the capital Madrid where wildfires and extremely dry conditions have been worsened by heatwaves and strong winds.",
-          "content": "Spain has evacuated tens of thousands of people from villages west of the capital Madrid where wildfires and extremely dry conditions have been worsened by heatwaves and strong winds.",
-          "feed_position": 1,
-          "image_url": "https://s.france24.com/media/display/832eb486-88ce-11f1-9573-005056a90284/w:1024/p:16x9/capture-11656799786a65c96cb08094-23625553.jpg"
-        },
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 26 Jul 2026 07:21:11 GMT",
-          "title": "France battles fire 'whirlwinds' as another 55,000 evacuated",
-          "standfirst": "More than 340,000 people have now been evacuated from wildfires in France and Spain.",
-          "content": "More than 340,000 people have now been evacuated from wildfires in France and Spain.",
-          "feed_position": 1,
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d055/live/c69c5bb0-88b5-11f1-b7ca-b5f2b9ce39f1.png"
-        },
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/french-wildfires-trigger-mass-evacuations-around-bordeaux?traffic_source=rss",
-          "published_at": "Sun, 26 Jul 2026 03:03:17 +0000",
-          "title": "French wildfires trigger mass evacuations around Bordeaux",
-          "standfirst": "Around 200,000 people have been evacuated around Bordeaux as wildfires tear through southwestern France.",
-          "content": "Around 200,000 people have been evacuated around Bordeaux as wildfires tear through southwestern France.",
-          "feed_position": 13
-        },
-        {
-          "source": "NPR News",
-          "url": "https://www.npr.org/2026/07/25/nx-s1-5907963/wildfires-spain-france-evacuations",
-          "published_at": "Sat, 25 Jul 2026 21:05:45 -0400",
-          "title": "France and Spain fires force more than 200,000 to flee homes",
-          "standfirst": "At least one person has died in a fire in Spain, according to officials.",
-          "content": "At least one person has died in a fire in Spain, according to officials.(Image credit: Emma Da Silva)",
-          "feed_position": 4
-        },
-        {
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/wildfires-france-spain-madrid-bordeaux-evacuations-europe/",
-          "published_at": "Sat, 25 Jul 2026 20:53:10 -0400",
-          "title": "Thousands of people flee raging wildfires in France and Spain",
-          "standfirst": "The fires in Spain and France advanced quickly because of tinderbox conditions worsened by successive heat waves.",
-          "content": "The fires in Spain and France advanced quickly because of tinderbox conditions worsened by successive heat waves.",
-          "feed_position": 16
-        },
-        {
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/europe-battling-multiple-fire-fronts-threatening-major-cities-unprecedented-conditions/",
-          "published_at": "Sat, 25 Jul 2026 20:49:00 -0400",
-          "title": "Europe battling multiple fire fronts, threatening major cities in unprecedented conditions",
-          "standfirst": "Wildfires burned out of control in France and Spain in what authorities described as \"unprecedented conditions.\" Strong winds stoked multiple fire fronts threatening major cities, with 300,000 people evacuated from their homes. Anna Coren reports.",
-          "content": "Wildfires burned out of control in France and Spain in what authorities described as \"unprecedented conditions.\" Strong winds stoked multiple fire fronts threatening major cities, with 300,000 people evacuated from their homes. Anna Coren reports.",
-          "feed_position": 18
-        },
-        {
-          "source": "France24",
-          "url": "https://www.france24.com/en/spain-wildfires-force-70-000-people-to-evacuate-in-madrid-region",
-          "published_at": "Sat, 25 Jul 2026 16:34:20 GMT",
-          "title": "Spain: Wildfires force 70,000 people to evacuate in Madrid region",
-          "standfirst": "Sarah Morris has more.",
-          "content": "Sarah Morris has more.",
-          "feed_position": 14,
-          "image_url": "https://s.france24.com/media/display/91355584-8843-11f1-b3d9-005056a97e36/w:1024/p:16x9/EN-20260725-170455-170729-CS.jpg"
-        },
-        {
-          "source": "France24",
-          "url": "https://www.france24.com/en/200-000-people-flee-their-homes-in-france-as-wildfires-continue",
-          "published_at": "Sat, 25 Jul 2026 16:31:21 GMT",
-          "title": "200,000 people flee their homes in France as wildfires continue",
-          "standfirst": "Luke Shrago has more.",
-          "content": "Luke Shrago has more.",
-          "feed_position": 15,
-          "image_url": "https://s.france24.com/media/display/80895a2e-8842-11f1-bf0e-005056bfb2b6/w:1024/p:16x9/EN-20260725-150135-150255-CS.jpg"
-        },
-        {
-          "source": "Guardian World",
-          "url": "https://www.theguardian.com/world/2026/jul/25/wildfires-force-250000-people-to-evacuate-in-france-and-spain",
-          "published_at": "Sat, 25 Jul 2026 16:23:17 GMT",
-          "title": "More than 250,000 people flee wildfires in France and Spain",
-          "standfirst": "Hundreds of firefighters battle blazes as strong winds drive fires towards Bordeaux and smoke prompts health warnings in Madrid Unrestrained wildfires in Spain and France have forced more than 250,000 people to flee, authorities from both countries have said, as they struggle to contain the blazes.About 70,000 people were evacuated from central Spain, while 197,000 people fled in France, including tens of thousands from the wine region city of Bordeaux. Continue reading...",
-          "content": "Hundreds of firefighters battle blazes as strong winds drive fires towards Bordeaux and smoke prompts health warnings in Madrid Unrestrained wildfires in Spain and France have forced more than 250,000 people to flee, authorities from both countries have said, as they struggle to contain the blazes.About 70,000 people were evacuated from central Spain, while 197,000 people fled in France, including tens of thousands from the wine region city of Bordeaux. Continue reading...",
-          "feed_position": 24
-        },
-        {
-          "source": "NBC World",
-          "url": "https://www.nbcnews.com/video/wildfires-in-france-force-more-than-10-000-people-to-flee-267214405522",
-          "published_at": "Fri, 24 Jul 2026 10:59:43 GMT",
-          "title": "Wildfires in France force more than 10,000 people to flee",
-          "standfirst": "Wildfires in France force thousands to flee amid an ongoing European heatwave, as scientists warn that climate change is worsening the continent's water shortages.",
-          "content": "Wildfires in France force thousands to flee amid an ongoing European heatwave, as scientists warn that climate change is worsening the continent's water shortages.",
-          "feed_position": 3,
-          "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_07/wildfires-sjcsam.jpg"
-        }
-      ],
-      "featured_image": "https://s.france24.com/media/display/18401acc-88cc-11f1-b75a-005056a90284/w:1024/p:16x9/EN-20260726-090114-090331-CS.jpg",
-      "popularity_score": 7019.887201944444
-    },
-    {
-      "id": "cluster_4",
-      "coverage": 5,
-      "updated_at": "Sun, 26 Jul 2026 08:58:50 GMT",
-      "title": "What we know so far about the Berlin Pride ramming attack",
-      "neutral_headline": "What we know so far about the Berlin Pride ramming attack",
-      "bullet_summary": [
-        "A 21-year-old suspect has been identified by police, but he has not been found",
-        "Berlin police did not identify the suspect, who is still at large, by name but said that he was already known to police and is from Berlin",
-        "Berlin police said they have identified a suspect who \"is known to police\" and has links to \"Islamist circles"
-      ],
-      "items": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 26 Jul 2026 08:58:50 GMT",
-          "title": "What we know so far about the Berlin Pride ramming attack",
-          "standfirst": "A police manhunt is underway after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.",
-          "content": "A police manhunt is underway after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.",
-          "feed_position": 0,
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dda8/live/0a15f7b0-88c6-11f1-8155-cf5eb1f28fd2.jpg"
-        },
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/c74gzknyyz2o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 26 Jul 2026 08:14:55 GMT",
-          "title": "Watch: At the scene of Berlin Pride attack as manhunt continues",
-          "standfirst": "A 21-year-old suspect has been identified by police, but he has not been found.",
-          "content": "A 21-year-old suspect has been identified by police, but he has not been found.",
-          "feed_position": 21,
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b81f/live/5ba2aae0-88c8-11f1-b2ab-0dd01740f9f6.jpg"
-        },
-        {
-          "source": "Financial Times",
-          "url": "https://www.ft.com/content/6bd2290f-209d-4b30-9fac-dcfcd32bfb5d?syn-25a6b1a6=1",
-          "published_at": "Sun, 26 Jul 2026 07:05:40 GMT",
-          "title": "One dead and 16 injured after van drives into Berlin Pride crowd",
-          "standfirst": "Police seek suspect as city’s mayor condemns ‘attack on our free and open society’",
-          "content": "Police seek suspect as city’s mayor condemns ‘attack on our free and open society’",
-          "feed_position": 2,
-          "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6834ca8a-5591-4a5f-9023-1c7c8c7b09cd.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
-        },
-        {
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/berlin-lgbtq-pride-car-crash/",
-          "published_at": "Sat, 25 Jul 2026 21:39:20 -0400",
-          "title": "Suspect in Berlin LGBTQ+ parade attack has ties to Islamic \"circles,\" police say",
-          "standfirst": "Berlin police did not identify the suspect, who is still at large, by name but said that he was already known to police and is from Berlin.",
-          "content": "Berlin police did not identify the suspect, who is still at large, by name but said that he was already known to police and is from Berlin.",
-          "feed_position": 9
-        },
-        {
-          "source": "NPR News",
-          "url": "https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured-pride",
-          "published_at": "Sat, 25 Jul 2026 21:10:56 -0400",
-          "title": "One dead, several injured after vehicle plows through crowd at Berlin Pride event",
-          "standfirst": "Berlin police said they have identified a suspect who \"is known to police\" and has links to \"Islamist circles.\"",
-          "content": "Berlin police said they have identified a suspect who \"is known to police\" and has links to \"Islamist circles.\"(Image credit: Andreas Rabenstein)",
-          "feed_position": 3
-        },
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/25/one-dead-14-injured-as-car-reportedly-strikes-crowd-at-berlin-lgbtq-event?traffic_source=rss",
-          "published_at": "Sat, 25 Jul 2026 22:31:19 +0000",
-          "title": "One dead, 16 injured as car slams into crowd at Berlin LGBTQ event",
-          "standfirst": "German police say a white car drove into Tiergarten Park, near the route of a Pride march, hitting several people.",
-          "content": "German police say a white car drove into Tiergarten Park, near the route of a Pride march, hitting several people.",
-          "feed_position": 22
-        }
-      ],
-      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dda8/live/0a15f7b0-88c6-11f1-8155-cf5eb1f28fd2.jpg",
-      "popularity_score": 5019.851090833334
-    },
-    {
-      "id": "cluster_99",
-      "coverage": 5,
-      "updated_at": "Sat, 25 Jul 2026 17:44:46 GMT",
-      "title": "India's 'cockroach' protest called off after education minister quits",
-      "neutral_headline": "Protesters celebrate resignation of India's education minister",
+      "id": "cluster_24",
+      "coverage": 6,
+      "updated_at": "Sun, 26 Jul 2026 10:33:58 +0000",
+      "title": "Who is India’s new education minister?",
+      "neutral_headline": "Who is India’s new education minister",
       "bullet_summary": [
         "In a statement on Saturday afternoon, Pradhan said he had submitted his letter of resignation to the prime minister after student pressure",
-        "Reported by BBC World, France24, Guardian World and others"
+        "Reported by Al Jazeera, BBC World, France24 and others"
       ],
       "items": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/who-is-indias-new-education-minister?traffic_source=rss",
+          "published_at": "Sun, 26 Jul 2026 10:33:58 +0000",
+          "title": "Who is India’s new education minister?",
+          "standfirst": "India’s government has picked Pralhad Joshi as the new education minister after weeks of protests over exam scandals.",
+          "content": "India’s government has picked Pralhad Joshi as the new education minister after weeks of protests over exam scandals.",
+          "feed_position": 6
+        },
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/the-listening-post/2026/7/26/the-cockroach-effect-modi-vs-indias-gen-z?traffic_source=rss",
+          "published_at": "Sun, 26 Jul 2026 09:08:52 +0000",
+          "title": "The Cockroach Effect: Modi vs India’s Gen Z",
+          "standfirst": "Protests by India&#039;s Cockroach Janta Party suggest the young generation is becoming harder to intimidate and to silence.",
+          "content": "Protests by India&#039;s Cockroach Janta Party suggest the young generation is becoming harder to intimidate and to silence.",
+          "feed_position": 10
+        },
         {
           "source": "BBC World",
           "url": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
@@ -211,7 +37,7 @@
           "title": "India's 'cockroach' protest called off after education minister quits",
           "standfirst": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
           "content": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
-          "feed_position": 3,
+          "feed_position": 4,
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba11/live/52ef7480-884d-11f1-a7ab-8b30adf0800a.jpg"
         },
         {
@@ -221,18 +47,8 @@
           "title": "India's 'cockroach' party says ending protest after minister resigns",
           "standfirst": "Andrew Hilliar analyses the situation.",
           "content": "Andrew Hilliar analyses the situation.",
-          "feed_position": 12,
-          "image_url": "https://s.france24.com/media/display/c75a47a6-8842-11f1-adb7-005056bfb2b6/w:1024/p:16x9/EN-20260725-150657-151039-CS.jpg"
-        },
-        {
-          "source": "France24",
-          "url": "https://www.france24.com/en/india-s-cockroach-movement-ends-protests-after-education-minister-resigns",
-          "published_at": "Sat, 25 Jul 2026 16:24:18 GMT",
-          "title": "India’s 'Cockroach' movement ends protests after education minister resigns",
-          "standfirst": "Sarah Jacob has more.",
-          "content": "Sarah Jacob has more.",
-          "feed_position": 16,
-          "image_url": "https://s.france24.com/media/display/786abf94-8843-11f1-843f-005056a90284/w:1024/p:16x9/EN-20260725-160714-161140-CS.jpg"
+          "feed_position": 21,
+          "image_url": "https://s.france24.com/media/display/2d9122ea-88e0-11f1-8ba4-005056bfb2b6/w:1024/p:16x9/000-C37Z7XK.jpg"
         },
         {
           "source": "Guardian World",
@@ -250,7 +66,7 @@
           "title": "Protesters celebrate resignation of India's education minister",
           "standfirst": "The youth-led Cockroach Janta Party (CJP) has called off its protest, hours after the resignation of India's education minister",
           "content": "The youth-led Cockroach Janta Party (CJP) has called off its protest, hours after the resignation of India's education minister",
-          "feed_position": 22,
+          "feed_position": 23,
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16d6/live/3284c7d0-882b-11f1-b8ee-9b3c26ad07bb.jpg"
         },
         {
@@ -261,16 +77,6 @@
           "standfirst": "Bollywood stars accused of ‘cowardice’ as hundreds of thousands of young Indians take to the streets to challenge governmentBollywood stars and other Indian celebrities have faced fierce criticism for staying silent in the face of some of the biggest protests India has seen in years.Hundreds of thousands of young Indians took to the streets this week as part of a new youth movement that calls itself the Cockroach Janata party (CJP), demanding accountability over exam paper leaks in an unprecedented challenge to prime minister Narendra Modi’s government. Many vented their anger against what they saw as “cowardice” from India’s biggest celebrities. Continue reading...",
           "content": "Bollywood stars accused of ‘cowardice’ as hundreds of thousands of young Indians take to the streets to challenge governmentBollywood stars and other Indian celebrities have faced fierce criticism for staying silent in the face of some of the biggest protests India has seen in years.Hundreds of thousands of young Indians took to the streets this week as part of a new youth movement that calls itself the Cockroach Janata party (CJP), demanding accountability over exam paper leaks in an unprecedented challenge to prime minister Narendra Modi’s government. Many vented their anger against what they saw as “cowardice” from India’s biggest celebrities. Continue reading...",
           "feed_position": 31
-        },
-        {
-          "source": "France24",
-          "url": "https://www.france24.com/en/india-s-education-minister-resigns-in-major-victory-for-youth-protesters",
-          "published_at": "Sat, 25 Jul 2026 12:47:33 GMT",
-          "title": "India's education minister resigns in major victory for youth protesters",
-          "standfirst": "Navodita Kumari has more.",
-          "content": "Navodita Kumari has more.",
-          "feed_position": 23,
-          "image_url": "https://s.france24.com/media/display/c5748f8a-8826-11f1-be35-005056a90284/w:1024/p:16x9/000-C36Q7G4-1.jpg"
         },
         {
           "source": "NBC World",
@@ -303,13 +109,138 @@
         }
       ],
       "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba11/live/52ef7480-884d-11f1-a7ab-8b30adf0800a.jpg",
-      "popularity_score": 5004.6166463888885
+      "popularity_score": 6018.625058055555
     },
     {
-      "id": "cluster_14",
+      "id": "cluster_7",
+      "coverage": 5,
+      "updated_at": "Sun, 26 Jul 2026 11:29:07 GMT",
+      "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
+      "neutral_headline": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
+      "bullet_summary": [
+        "Reported by BBC World, France24, Al Jazeera and others"
+      ],
+      "items": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 26 Jul 2026 11:29:07 GMT",
+          "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
+          "standfirst": "More than 330,000 people have now been evacuated from wildfires across France and Spain.",
+          "content": "More than 330,000 people have now been evacuated from wildfires across France and Spain.",
+          "feed_position": 1,
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32ef/live/845a1320-88e5-11f1-bcf5-0bde7672ed32.jpg"
+        },
+        {
+          "source": "France24",
+          "url": "https://www.france24.com/en/wildfires-ravage-southwest-france-thousands-face-devastation-after-evacuation",
+          "published_at": "Sun, 26 Jul 2026 10:29:55 GMT",
+          "title": "Wildfires ravage southwest France: Thousands face devastation after evacuation",
+          "standfirst": "A raging wildfire in southwest France forced the evacuation of 55,000 people overnight Sunday, bringing the total forced out of their homes to 220,000 in one region alone, as flames crept ever closer to the wine region city of Bordeaux. Authorities in France's Gironde region, where Bordeaux is located, issued overnight evacuation orders for five more localities southwest of the historic city, as shifting, gusting winds and arid conditions complicated the massive effort to limit the spread of the monster blaze that has burned out of control since midweek",
+          "content": "A raging wildfire in southwest France forced the evacuation of 55,000 people overnight Sunday, bringing the total forced out of their homes to 220,000 in one region alone, as flames crept ever closer to the wine region city of Bordeaux. Authorities in France's Gironde region, where Bordeaux is located, issued overnight evacuation orders for five more localities southwest of the historic city, as shifting, gusting winds and arid conditions complicated the massive effort to limit the spread of the monster blaze that has burned out of control since midweek",
+          "feed_position": 2,
+          "image_url": "https://s.france24.com/media/display/ba476a00-88db-11f1-a2b8-005056bf30b7/w:1024/p:16x9/EN-20260726-120320-120502-CS.jpg"
+        },
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/gallery/2026/7/26/photos-wildfires-in-france-drive-250000-people-from-their-homes?traffic_source=rss",
+          "published_at": "Sun, 26 Jul 2026 10:08:04 +0000",
+          "title": "Photos: Wildfires in France drive 250,000 people from their homes",
+          "standfirst": "As the flames approached the city of Bordeaux, 55,000 more people had to be evacuated from their homes overnight.",
+          "content": "As the flames approached the city of Bordeaux, 55,000 more people had to be evacuated from their homes overnight.",
+          "feed_position": 8
+        },
+        {
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/europe-battling-multiple-fire-fronts-threatening-major-cities-unprecedented-conditions/",
+          "published_at": "Sat, 25 Jul 2026 20:49:00 -0400",
+          "title": "Europe battling multiple fire fronts, threatening major cities in unprecedented conditions",
+          "standfirst": "Wildfires burned out of control in France and Spain in what authorities described as \"unprecedented conditions.\" Strong winds stoked multiple fire fronts threatening major cities, with 300,000 people evacuated from their homes. Anna Coren reports.",
+          "content": "Wildfires burned out of control in France and Spain in what authorities described as \"unprecedented conditions.\" Strong winds stoked multiple fire fronts threatening major cities, with 300,000 people evacuated from their homes. Anna Coren reports.",
+          "feed_position": 21
+        },
+        {
+          "source": "Guardian World",
+          "url": "https://www.theguardian.com/world/2026/jul/25/wildfires-force-250000-people-to-evacuate-in-france-and-spain",
+          "published_at": "Sat, 25 Jul 2026 16:23:17 GMT",
+          "title": "More than 250,000 people flee wildfires in France and Spain",
+          "standfirst": "Hundreds of firefighters battle blazes as strong winds drive fires towards Bordeaux and smoke prompts health warnings in Madrid Unrestrained wildfires in Spain and France have forced more than 250,000 people to flee, authorities from both countries have said, as they struggle to contain the blazes.About 70,000 people were evacuated from central Spain, while 197,000 people fled in France, including tens of thousands from the wine region city of Bordeaux. Continue reading...",
+          "content": "Hundreds of firefighters battle blazes as strong winds drive fires towards Bordeaux and smoke prompts health warnings in Madrid Unrestrained wildfires in Spain and France have forced more than 250,000 people to flee, authorities from both countries have said, as they struggle to contain the blazes.About 70,000 people were evacuated from central Spain, while 197,000 people fled in France, including tens of thousands from the wine region city of Bordeaux. Continue reading...",
+          "feed_position": 24
+        }
+      ],
+      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32ef/live/845a1320-88e5-11f1-bcf5-0bde7672ed32.jpg",
+      "popularity_score": 5019.544224722222
+    },
+    {
+      "id": "cluster_1",
+      "coverage": 4,
+      "updated_at": "Sun, 26 Jul 2026 11:41:04 GMT",
+      "title": "What we know so far about the Berlin Pride ramming attack",
+      "neutral_headline": "What we know so far about the Berlin Pride ramming attack",
+      "bullet_summary": [
+        "A 21-year-old suspect has been identified by police, but he has not been found",
+        "Berlin police did not identify the suspect, who is still at large, by name but said that he was already known to police and is from Berlin",
+        "Berlin police said they have identified a suspect who \"is known to police\" and has links to \"Islamist circles"
+      ],
+      "items": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 26 Jul 2026 11:41:04 GMT",
+          "title": "What we know so far about the Berlin Pride ramming attack",
+          "standfirst": "A police manhunt is underway after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.",
+          "content": "A police manhunt is underway after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.",
+          "feed_position": 0,
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb2d/live/2eaac610-88e8-11f1-bcf5-0bde7672ed32.jpg"
+        },
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/c74gzknyyz2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 26 Jul 2026 08:14:55 GMT",
+          "title": "Watch: At the scene of Berlin Pride attack as manhunt continues",
+          "standfirst": "A 21-year-old suspect has been identified by police, but he has not been found.",
+          "content": "A 21-year-old suspect has been identified by police, but he has not been found.",
+          "feed_position": 22,
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b81f/live/5ba2aae0-88c8-11f1-b2ab-0dd01740f9f6.jpg"
+        },
+        {
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/6bd2290f-209d-4b30-9fac-dcfcd32bfb5d?syn-25a6b1a6=1",
+          "published_at": "Sun, 26 Jul 2026 07:05:40 GMT",
+          "title": "One dead and 16 injured as vehicle drives into Berlin Pride crowd",
+          "standfirst": "Police seek suspect as city’s mayor condemns ‘attack on our free and open society’",
+          "content": "Police seek suspect as city’s mayor condemns ‘attack on our free and open society’",
+          "feed_position": 4,
+          "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6834ca8a-5591-4a5f-9023-1c7c8c7b09cd.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+        },
+        {
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/berlin-lgbtq-pride-car-crash/",
+          "published_at": "Sat, 25 Jul 2026 21:39:20 -0400",
+          "title": "Suspect in Berlin LGBTQ+ parade attack has ties to Islamic \"circles,\" police say",
+          "standfirst": "Berlin police did not identify the suspect, who is still at large, by name but said that he was already known to police and is from Berlin.",
+          "content": "Berlin police did not identify the suspect, who is still at large, by name but said that he was already known to police and is from Berlin.",
+          "feed_position": 12
+        },
+        {
+          "source": "NPR News",
+          "url": "https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured-pride",
+          "published_at": "Sat, 25 Jul 2026 21:10:56 -0400",
+          "title": "One dead, several injured after vehicle plows through crowd at Berlin Pride event",
+          "standfirst": "Berlin police said they have identified a suspect who \"is known to police\" and has links to \"Islamist circles.\"",
+          "content": "Berlin police said they have identified a suspect who \"is known to police\" and has links to \"Islamist circles.\"(Image credit: Andreas Rabenstein)",
+          "feed_position": 5
+        }
+      ],
+      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb2d/live/2eaac610-88e8-11f1-bcf5-0bde7672ed32.jpg",
+      "popularity_score": 4019.743391388889
+    },
+    {
+      "id": "cluster_3",
       "coverage": 3,
-      "updated_at": "Sun, 26 Jul 2026 07:33:35 GMT",
-      "title": "After chaotic return, where does Joshua win leave Fury fight?",
+      "updated_at": "Sun, 26 Jul 2026 11:33:43 GMT",
+      "title": "Highlights - Joshua beats Prenga after early scare",
       "neutral_headline": "Joshua comes back twice to knock out Prenga and set up Fury showdown",
       "bullet_summary": [
         "Reported by BBC Top Stories, Al Jazeera, Sky News World"
@@ -317,12 +248,22 @@
       "items": [
         {
           "source": "BBC Top Stories",
+          "url": "https://www.bbc.co.uk/sport/boxing/videos/cvgvp7n45e5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 26 Jul 2026 11:33:43 GMT",
+          "title": "Highlights - Joshua beats Prenga after early scare",
+          "standfirst": "In his comeback fight, Anthony Joshua suffered two early knockdowns but recovered to dramatically stop Kristian Prenga in the second round in Saudi Arabia.",
+          "content": "In his comeback fight, Anthony Joshua suffered two early knockdowns but recovered to dramatically stop Kristian Prenga in the second round in Saudi Arabia.",
+          "feed_position": 29,
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f016/live/f54fd6c0-88e3-11f1-b8ee-9b3c26ad07bb.jpg"
+        },
+        {
+          "source": "BBC Top Stories",
           "url": "https://www.bbc.co.uk/sport/boxing/articles/cgr7gyv8zq0o?at_medium=RSS&at_campaign=rss",
           "published_at": "Sun, 26 Jul 2026 07:33:35 GMT",
           "title": "After chaotic return, where does Joshua win leave Fury fight?",
           "standfirst": "Where does Anthony Joshua's chaotic comeback win over Kristian Prenga leave the super-fight with Tyson Fury?",
           "content": "Where does Anthony Joshua's chaotic comeback win over Kristian Prenga leave the super-fight with Tyson Fury?",
-          "feed_position": 14,
+          "feed_position": 26,
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cd0/live/5b4574b0-8891-11f1-9694-4f3a1914e2ba.jpg"
         },
         {
@@ -332,7 +273,7 @@
           "title": "Joshua comes back twice to knock out Prenga and set up Fury showdown",
           "standfirst": "Anthony Joshua survives two knockdowns by Albania&#039;s Kristian Prenga before winning the fight in the second round.",
           "content": "Anthony Joshua survives two knockdowns by Albania&#039;s Kristian Prenga before winning the fight in the second round.",
-          "feed_position": 4
+          "feed_position": 18
         },
         {
           "source": "Sky News World",
@@ -345,20 +286,124 @@
           "image_url": "https://e3.365dm.com/26/07/1920x1080/skynews-anthony-joshua-kristian-prenga_7306842.jpg?20260726000117"
         }
       ],
-      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cd0/live/5b4574b0-8891-11f1-9694-4f3a1914e2ba.jpg",
-      "popularity_score": 3018.4302575
+      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f016/live/f54fd6c0-88e3-11f1-b8ee-9b3c26ad07bb.jpg",
+      "popularity_score": 3019.620891388889
     },
     {
-      "id": "cluster_9",
+      "id": "cluster_17",
       "coverage": 2,
-      "updated_at": "Sun, 26 Jul 2026 08:02:13 GMT",
-      "title": "Police hunt for suspect after one killed and 16 injured in attack at Berlin Pride",
-      "neutral_headline": "Van rams into Berlin Pride crowd, killing one and injuring 16",
+      "updated_at": "Sun, 26 Jul 2026 06:58:07 -0400",
+      "title": "More than 300,000 displaced in France and Spain as wildfires rage",
+      "neutral_headline": "More than 300,000 displaced in France and Spain as wildfires rage",
       "bullet_summary": [
-        "They said he was believed to have injured several people with a moving vehicle on Saturday night, and that one or more people apparently then left that vehicle",
-        "Reported by Guardian World, France24"
+        "Reported by CBS News, France24"
       ],
       "items": [
+        {
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/wildfires-firefighters-france-spain-madrid-bordeaux-valencia/",
+          "published_at": "Sun, 26 Jul 2026 06:58:07 -0400",
+          "title": "More than 300,000 displaced in France and Spain as wildfires rage",
+          "standfirst": "Forests in Spain and France have been parched by successive heatwaves since May that have brought drought to many areas.",
+          "content": "Forests in Spain and France have been parched by successive heatwaves since May that have brought drought to many areas.",
+          "feed_position": 1
+        },
+        {
+          "source": "France24",
+          "url": "https://www.france24.com/en/video/20260726-spain-struggles-to-contain-wildfires-60-000-evacuated-around-madrid",
+          "published_at": "Sun, 26 Jul 2026 08:49:21 GMT",
+          "title": "Spain struggles to contain wildfires: 60,000 evacuated around Madrid",
+          "standfirst": "Spain has evacuated tens of thousands of people from villages west of the capital Madrid where wildfires and extremely dry conditions have been worsened by heatwaves and strong winds.",
+          "content": "Spain has evacuated tens of thousands of people from villages west of the capital Madrid where wildfires and extremely dry conditions have been worsened by heatwaves and strong winds.",
+          "feed_position": 10,
+          "image_url": "https://s.france24.com/media/display/832eb486-88ce-11f1-9573-005056a90284/w:1024/p:16x9/capture-11656799786a65c96cb08094-23625553.jpg"
+        },
+        {
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/wildfires-france-spain-madrid-bordeaux-evacuations-europe/",
+          "published_at": "Sat, 25 Jul 2026 20:53:10 -0400",
+          "title": "Thousands of people flee raging wildfires in France and Spain",
+          "standfirst": "The fires in Spain and France advanced quickly because of tinderbox conditions worsened by successive heat waves.",
+          "content": "The fires in Spain and France advanced quickly because of tinderbox conditions worsened by successive heat waves.",
+          "feed_position": 19
+        }
+      ],
+      "featured_image": "https://s.france24.com/media/display/832eb486-88ce-11f1-9573-005056a90284/w:1024/p:16x9/capture-11656799786a65c96cb08094-23625553.jpg",
+      "popularity_score": 2019.0275580555556
+    },
+    {
+      "id": "cluster_26",
+      "coverage": 2,
+      "updated_at": "Sun, 26 Jul 2026 10:26:05 GMT",
+      "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+      "neutral_headline": "Israeli protesters denounce deadly settler violence",
+      "bullet_summary": [
+        "Reported by BBC World, Al Jazeera"
+      ],
+      "items": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 26 Jul 2026 10:26:05 GMT",
+          "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+          "standfirst": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tell, which left four Palestinians and two Israelis dead.",
+          "content": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tell, which left four Palestinians and two Israelis dead.",
+          "feed_position": 3,
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdda/live/a8b251b0-88db-11f1-aeef-edf7e578a56d.jpg"
+        },
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israeli-protesters-denounce-deadly-settler-violence?traffic_source=rss",
+          "published_at": "Sun, 26 Jul 2026 10:06:52 +0000",
+          "title": "Israeli protesters denounce deadly settler violence",
+          "standfirst": "Dozens of Israeli activists protested in Tel Aviv against settler violence in the occupied West Bank.",
+          "content": "Dozens of Israeli activists protested in Tel Aviv against settler violence in the occupied West Bank.",
+          "feed_position": 9
+        },
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israeli-settlers-set-fire-to-mosque-in-occupied-west-bank?traffic_source=rss",
+          "published_at": "Sun, 26 Jul 2026 07:12:26 +0000",
+          "title": "Israeli settlers set fire to mosque in occupied West Bank",
+          "standfirst": "Israeli settlers set fire to Al-Rahma Mosque in Qusra, near Nablus, as Israeli forces arrested dozens of Palestinians",
+          "content": "Israeli settlers set fire to Al-Rahma Mosque in Qusra, near Nablus, as Israeli forces arrested dozens of Palestinians",
+          "feed_position": 16
+        },
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Fri, 24 Jul 2026 22:49:59 GMT",
+          "title": "Four Palestinians and two Israelis killed in West Bank shooting",
+          "standfirst": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
+          "content": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
+          "feed_position": 8,
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c838/live/07344060-8759-11f1-a0f1-fd76e1e0297b.jpg"
+        }
+      ],
+      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdda/live/a8b251b0-88db-11f1-aeef-edf7e578a56d.jpg",
+      "popularity_score": 2018.4936691666667
+    },
+    {
+      "id": "cluster_37",
+      "coverage": 2,
+      "updated_at": "Sun, 26 Jul 2026 09:53:33 GMT",
+      "title": "German police hunt suspect in Berlin Pride attack: 1 dead and 16 injured",
+      "neutral_headline": "German police hunt suspect in Berlin Pride attack: 1 dead and 16 injured",
+      "bullet_summary": [
+        "They said he was believed to have injured several people with a moving vehicle on Saturday night, and that one or more people apparently then left that vehicle",
+        "Reported by France24, Guardian World"
+      ],
+      "items": [
+        {
+          "source": "France24",
+          "url": "https://www.france24.com/en/german-police-hunt-suspect-in-berlin-pride-attack-1-dead-and-16-injured",
+          "published_at": "Sun, 26 Jul 2026 09:53:33 GMT",
+          "title": "German police hunt suspect in Berlin Pride attack: 1 dead and 16 injured",
+          "standfirst": "German authorities on Sunday issued a wanted notice for a fugitive suspect in the van rammingnear Berlin’s Pride festival that left one person dead and injured at least 16 others.",
+          "content": "German authorities on Sunday issued a wanted notice for a fugitive suspect in the van rammingnear Berlin’s Pride festival that left one person dead and injured at least 16 others.",
+          "feed_position": 5,
+          "image_url": "https://s.france24.com/media/display/d31571a0-88d4-11f1-a6c3-005056bfb2b6/w:1024/p:16x9/EN-20260726-110136-110301-CS.jpg"
+        },
         {
           "source": "Guardian World",
           "url": "https://www.theguardian.com/world/2026/jul/25/berlin-pride-march-called-off-after-car-crashes-into-crowd-of-people-near-route",
@@ -375,66 +420,15 @@
           "title": "Van rams into Berlin Pride crowd, killing one and injuring 16",
           "standfirst": "A van ploughed into crowds at Berlin's annual LGBTQ+ Pride celebrations on Saturday, killing one person and injuring at least 16 others before crashing into a tree. Police and prosecutors on Sunday issued a wanted notice for a 21-year-old identified only as Abdul B, and warned members of the public to avoid direct contact with him.",
           "content": "A van ploughed into crowds at Berlin's annual LGBTQ+ Pride celebrations on Saturday, killing one person and injuring at least 16 others before crashing into a tree. Police and prosecutors on Sunday issued a wanted notice for a 21-year-old identified only as Abdul B, and warned members of the public to avoid direct contact with him.",
-          "feed_position": 9,
+          "feed_position": 18,
           "image_url": "https://s.france24.com/media/display/22c9b038-8873-11f1-a450-005056a90284/w:1024/p:16x9/2026-07-25T212920Z-751832449-RC29LMAQGT6T-RTRMADP-3-GERMANY-LGBT-PRIDE-ACCIDENT.jpg"
         }
       ],
-      "featured_image": "https://s.france24.com/media/display/22c9b038-8873-11f1-a450-005056a90284/w:1024/p:16x9/2026-07-25T212920Z-751832449-RC29LMAQGT6T-RTRMADP-3-GERMANY-LGBT-PRIDE-ACCIDENT.jpg",
-      "popularity_score": 2018.9074797222222
+      "featured_image": "https://s.france24.com/media/display/d31571a0-88d4-11f1-a6c3-005056bfb2b6/w:1024/p:16x9/EN-20260726-110136-110301-CS.jpg",
+      "popularity_score": 2017.9514469444443
     },
     {
-      "id": "cluster_11",
-      "coverage": 2,
-      "updated_at": "Sun, 26 Jul 2026 07:55:30 +0000",
-      "title": "Israel raids West Bank live: Dozens of Palestinians detained during assault",
-      "neutral_headline": "Israel raids West Bank live: Dozens of Palestinians detained during assault",
-      "bullet_summary": [
-        "Reported by Al Jazeera, BBC World"
-      ],
-      "items": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/26/israel-raids-west-bank-live-dozens-of-palestinians-detained-during-assault?traffic_source=rss",
-          "published_at": "Sun, 26 Jul 2026 07:55:30 +0000",
-          "title": "Israel raids West Bank live: Dozens of Palestinians detained during assault",
-          "standfirst": "Incursions and arrests ongoing as terrified Palestinian residents brace for military and settler attacks.",
-          "content": "Incursions and arrests ongoing as terrified Palestinian residents brace for military and settler attacks.",
-          "feed_position": 0
-        },
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israeli-settlers-set-fire-to-mosque-in-occupied-west-bank?traffic_source=rss",
-          "published_at": "Sun, 26 Jul 2026 07:12:26 +0000",
-          "title": "Israeli settlers set fire to mosque in occupied West Bank",
-          "standfirst": "Israeli settlers set fire to Al-Rahma Mosque in Qusra, near Nablus, as Israeli forces arrested dozens of Palestinians",
-          "content": "Israeli settlers set fire to Al-Rahma Mosque in Qusra, near Nablus, as Israeli forces arrested dozens of Palestinians",
-          "feed_position": 2
-        },
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/7/25/whats-behind-the-israeli-crackdown-in-the-occupied-west-bank?traffic_source=rss",
-          "published_at": "Sat, 25 Jul 2026 23:30:45 +0000",
-          "title": "What’s behind the Israeli crackdown in the occupied West Bank?",
-          "standfirst": "Israeli forces intensify West Bank raids as settlers escalate attacks and settlement expansion accelerates.",
-          "content": "Israeli forces intensify West Bank raids as settlers escalate attacks and settlement expansion accelerates.",
-          "feed_position": 19
-        },
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Fri, 24 Jul 2026 22:49:59 GMT",
-          "title": "Four Palestinians and two Israelis killed in West Bank shooting",
-          "standfirst": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
-          "content": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
-          "feed_position": 7,
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c838/live/07344060-8759-11f1-a0f1-fd76e1e0297b.jpg"
-        }
-      ],
-      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c838/live/07344060-8759-11f1-a0f1-fd76e1e0297b.jpg",
-      "popularity_score": 2018.7955352777778
-    },
-    {
-      "id": "cluster_28",
+      "id": "cluster_70",
       "coverage": 2,
       "updated_at": "Sun, 26 Jul 2026 05:29:14 +0000",
       "title": "Typhoon Noul makes landfall in China, with hundreds of thousands evacuated",
@@ -450,7 +444,7 @@
           "title": "Typhoon Noul makes landfall in China, with hundreds of thousands evacuated",
           "standfirst": "Noul hit southern Guangdong province and neighbouring Hong Kong, bringing strong winds and heavy rain to the region.",
           "content": "Noul hit southern Guangdong province and neighbouring Hong Kong, bringing strong winds and heavy rain to the region.",
-          "feed_position": 6
+          "feed_position": 20
         },
         {
           "source": "CBS News",
@@ -459,122 +453,13 @@
           "title": "Typhoon Noul hits southern China as more than 700,000 evacuate, flights canceled",
           "standfirst": "Typhoon Noul is battering southern China and Hong Kong with winds and heavy rain.",
           "content": "Typhoon Noul is battering southern China and Hong Kong with winds and heavy rain.",
-          "feed_position": 6
+          "feed_position": 9
         }
       ],
-      "popularity_score": 2016.3577575
+      "popularity_score": 2013.5461691666667
     },
     {
-      "id": "cluster_52",
-      "coverage": 2,
-      "updated_at": "Sun, 26 Jul 2026 02:19:58 +0000",
-      "title": "Flavio Bolsonaro launches Brazil presidential bid with Milei support",
-      "neutral_headline": "Flavio Bolsonaro launches Brazil presidential bid with Milei support",
-      "bullet_summary": [
-        "Reported by Al Jazeera, France24"
-      ],
-      "items": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/flavio-bolsonaro-launches-brazil-presidential-bid-with-milei-support?traffic_source=rss",
-          "published_at": "Sun, 26 Jul 2026 02:19:58 +0000",
-          "title": "Flavio Bolsonaro launches Brazil presidential bid with Milei support",
-          "standfirst": "Flavio Bolsonaro, son of disgraced former Brazilian President Jair, has launched his bid to unseat President Lula.",
-          "content": "Flavio Bolsonaro, son of disgraced former Brazilian President Jair, has launched his bid to unseat President Lula.",
-          "feed_position": 14
-        },
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/26/bolsonaros-son-begins-brazil-presidential-bid-with-netanyahu-milei-kudos?traffic_source=rss",
-          "published_at": "Sun, 26 Jul 2026 00:08:16 +0000",
-          "title": "Bolsonaro’s son begins Brazil presidential bid with Netanyahu, Milei kudos",
-          "standfirst": "Right-wing candidate Flavio Bolsonaro attracts foreign support, but struggles in polls ahead of matchup with Lula.",
-          "content": "Right-wing candidate Flavio Bolsonaro attracts foreign support, but struggles in polls ahead of matchup with Lula.",
-          "feed_position": 17
-        },
-        {
-          "source": "France24",
-          "url": "https://www.france24.com/en/americas/20260725-crisis-hit-flavio-bolsonaro-launches-presidential-candidacy-in-brazil",
-          "published_at": "Sat, 25 Jul 2026 15:51:14 GMT",
-          "title": "Flavio Bolsonaro launches presidential bid in Brazil despite challenges",
-          "standfirst": "Flavio Bolsonaro on Saturday formally launched his campaign for Brazil's October presidential election, seeking to extend his family's grip on the country's far-right movement despite a series of scandals that have dented his once-strong challenge to incumbent President Luiz Inacio Lula da Silva.",
-          "content": "Flavio Bolsonaro on Saturday formally launched his campaign for Brazil's October presidential election, seeking to extend his family's grip on the country's far-right movement despite a series of scandals that have dented his once-strong challenge to incumbent President Luiz Inacio Lula da Silva.",
-          "feed_position": 18,
-          "image_url": "https://s.france24.com/media/display/aa5911fc-8840-11f1-8b26-005056a97e36/w:1024/p:16x9/67851d78550c573827e884f77978181dd44299c3.jpg"
-        }
-      ],
-      "featured_image": "https://s.france24.com/media/display/aa5911fc-8840-11f1-8b26-005056a97e36/w:1024/p:16x9/67851d78550c573827e884f77978181dd44299c3.jpg",
-      "popularity_score": 2013.2033130555556
-    },
-    {
-      "id": "cluster_92",
-      "coverage": 2,
-      "updated_at": "Sat, 25 Jul 2026 19:11:21 GMT",
-      "title": "Police investigate payments to Reform UK first revealed by The Guardian",
-      "neutral_headline": "Police investigate payments to Reform UK first revealed by The Guardian",
-      "bullet_summary": [
-        "Reported by Guardian World, BBC Top Stories"
-      ],
-      "items": [
-        {
-          "source": "Guardian World",
-          "url": "https://www.theguardian.com/politics/2026/jul/25/police-investigate-payments-reform-uk-guardian",
-          "published_at": "Sat, 25 Jul 2026 19:11:21 GMT",
-          "title": "Police investigate payments to Reform UK first revealed by The Guardian",
-          "standfirst": "Scotland Yard is looking at two £250,000 donations to the party by Britain Means Business before the 2024 electionPayments to Reform UK first revealed by the Guardian are now being investigated by the Metropolitan police.The inquiry is scrutinising payments made to the party via a company controlled by its deputy leader, Richard Tice. Continue reading...",
-          "content": "Scotland Yard is looking at two £250,000 donations to the party by Britain Means Business before the 2024 electionPayments to Reform UK first revealed by the Guardian are now being investigated by the Metropolitan police.The inquiry is scrutinising payments made to the party via a company controlled by its deputy leader, Richard Tice. Continue reading...",
-          "feed_position": 39
-        },
-        {
-          "source": "BBC Top Stories",
-          "url": "https://www.bbc.co.uk/news/articles/c5yv4r5g55do?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 25 Jul 2026 18:04:50 GMT",
-          "title": "Police investigate donations by Tice company to Reform UK",
-          "standfirst": "Britain Means Business, owned by the party’s deputy leader Richard Tice, made two donations of £250,000 in the run-up to the 2024 general election.",
-          "content": "Britain Means Business, owned by the party’s deputy leader Richard Tice, made two donations of £250,000 in the run-up to the 2024 general election.",
-          "feed_position": 4,
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/098c/live/b1e152d0-8819-11f1-981c-7d4dd1ef3d1d.jpg"
-        }
-      ],
-      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/098c/live/b1e152d0-8819-11f1-981c-7d4dd1ef3d1d.jpg",
-      "popularity_score": 2006.0597019444444
-    },
-    {
-      "id": "cluster_104",
-      "coverage": 2,
-      "updated_at": "Sat, 25 Jul 2026 16:25:59 GMT",
-      "title": "Paris awaits as Pogacar poised to join Tour greats with fifth title",
-      "neutral_headline": "Paris awaits as Pogacar poised to join Tour greats with fifth title",
-      "bullet_summary": [
-        "Reported by BBC Top Stories, France24"
-      ],
-      "items": [
-        {
-          "source": "BBC Top Stories",
-          "url": "https://www.bbc.co.uk/sport/cycling/articles/c1d141dl2qro?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sat, 25 Jul 2026 16:25:59 GMT",
-          "title": "Paris awaits as Pogacar poised to join Tour greats with fifth title",
-          "standfirst": "Tadej Pogacar is set to win a record-equalling fifth Tour de France after Ecuador's Richard Carapaz takes a dramatic stage 20 to Alpe d'Huez.",
-          "content": "Tadej Pogacar is set to win a record-equalling fifth Tour de France after Ecuador's Richard Carapaz takes a dramatic stage 20 to Alpe d'Huez.",
-          "feed_position": 30,
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61bd/live/f298d840-888f-11f1-b8ee-9b3c26ad07bb.jpg"
-        },
-        {
-          "source": "France24",
-          "url": "https://www.france24.com/en/sport/20260725-pogacar-closes-in-on-tour-de-france-victory-carapaz-wins-queen-stage",
-          "published_at": "Sat, 25 Jul 2026 15:10:22 GMT",
-          "title": "Pogacar closes in on Tour de France victory, Carapaz wins Queen stage",
-          "standfirst": "Tadej Pogacar is set to join cycling's all-time greats after all but sealing a record-equalling fifth Tour de France title on Saturday as Ecuadorian Richard Carapaz won the 20th stage on Alpe d'Huez.",
-          "content": "Tadej Pogacar is set to join cycling's all-time greats after all but sealing a record-equalling fifth Tour de France title on Saturday as Ecuadorian Richard Carapaz won the 20th stage on Alpe d'Huez.",
-          "feed_position": 19,
-          "image_url": "https://s.france24.com/media/display/c92d3cc4-8837-11f1-8e8e-005056a97e36/w:1024/p:16x9/AP26206527977034.jpg"
-        }
-      ],
-      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61bd/live/f298d840-888f-11f1-b8ee-9b3c26ad07bb.jpg",
-      "popularity_score": 2003.3035908333334
-    },
-    {
-      "id": "cluster_110",
+      "id": "cluster_128",
       "coverage": 2,
       "updated_at": "Sat, 25 Jul 2026 13:51:07 GMT",
       "title": "Trump takes swipes at press during White House Correspondents' Dinner",
@@ -600,14 +485,14 @@
           "title": "Trump cracks jokes at White House Correspondents&#039; Dinner redo",
           "standfirst": "President Trump cracked jokes at the redo of the White House Correspondents&#039; Dinner on Friday night, after an armed assailant upended April&#039;s dinner.",
           "content": "President Trump cracked jokes at the redo of the White House Correspondents&#039; Dinner on Friday night, after an armed assailant upended April&#039;s dinner.",
-          "feed_position": 23
+          "feed_position": 26
         }
       ],
       "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31ee/live/b6cd03e0-8826-11f1-b2ab-0dd01740f9f6.jpg",
-      "popularity_score": 2000.7224797222223
+      "popularity_score": 2000
     },
     {
-      "id": "cluster_133",
+      "id": "cluster_146",
       "coverage": 2,
       "updated_at": "Sat, 25 Jul 2026 02:23:09 GMT",
       "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
@@ -623,7 +508,7 @@
           "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
           "standfirst": "The Trump administration has often accused the world's largest research museum of harbouring an anti-American bias.",
           "content": "The Trump administration has often accused the world's largest research museum of harbouring an anti-American bias.",
-          "feed_position": 11,
+          "feed_position": 12,
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ada/live/69a18890-87cf-11f1-b948-61d0d1524256.jpg"
         },
         {
@@ -633,7 +518,7 @@
           "title": "Trump orders signs placed outside Smithsonian warning of \"inaccurate\" information",
           "standfirst": "President Trump ordered federal officials to install signs outside the National Museum of American History that correct what he says is \"inaccurate\" information presented by the institution about American history.",
           "content": "President Trump ordered federal officials to install signs outside the National Museum of American History that correct what he says is \"inaccurate\" information presented by the institution about American history.",
-          "feed_position": 25
+          "feed_position": 27
         }
       ],
       "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ada/live/69a18890-87cf-11f1-b948-61d0d1524256.jpg",
