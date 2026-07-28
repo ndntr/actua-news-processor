@@ -1,8 +1,41 @@
 {
-  "updated_at": "2026-07-27T23:56:33.307Z",
+  "updated_at": "2026-07-28T05:39:42.109Z",
   "clusters": [
     {
-      "id": "cluster_0",
+      "id": "cluster_6",
+      "coverage": 2,
+      "updated_at": "Tue, 28 Jul 2026 00:45:01 -0400",
+      "title": "Cursor introduces Cursor Start, a ~$7 monthly subscription exclusive to India, its third-largest market, priced below its standard $20 Pro monthly subscription (Jagmeet Singh/TechCrunch)",
+      "neutral_headline": "Cursor makes its biggest India push yet ahead of...",
+      "bullet_summary": [
+        "Reported by TechMeme, TechCrunch"
+      ],
+      "items": [
+        {
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/260728/p2#a260728p2",
+          "published_at": "Tue, 28 Jul 2026 00:45:01 -0400",
+          "title": "Cursor introduces Cursor Start, a ~$7 monthly subscription exclusive to India, its third-largest market, priced below its standard $20 Pro monthly subscription (Jagmeet Singh/TechCrunch)",
+          "standfirst": "Jagmeet Singh / TechCrunch: Cursor introduces Cursor Start, a ~$7 monthly subscription exclusive to India, its third-largest market, priced below its standard $20 Pro monthly subscription &mdash; Weeks before its expected acquisition by SpaceX closes, AI coding startup Cursor is making its biggest push into India yet &hellip;",
+          "content": "Jagmeet Singh / TechCrunch: Cursor introduces Cursor Start, a ~$7 monthly subscription exclusive to India, its third-largest market, priced below its standard $20 Pro monthly subscription &mdash; Weeks before its expected acquisition by SpaceX closes, AI coding startup Cursor is making its biggest push into India yet &hellip;",
+          "feed_position": 0,
+          "image_url": "http://www.techmeme.com/260728/i2.jpg"
+        },
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+          "published_at": "Tue, 28 Jul 2026 04:30:00 +0000",
+          "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+          "standfirst": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
+          "content": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
+          "feed_position": 0
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/260728/i2.jpg",
+      "popularity_score": 2019.0885808333333
+    },
+    {
+      "id": "cluster_13",
       "coverage": 2,
       "updated_at": "Mon, 27 Jul 2026 19:40:05 -0400",
       "title": "Apple releases updates for iOS, macOS, iPadOS, watchOS, tvOS, and visionOS with a huge number of security fixes; macOS Tahoe 26.6 alone addresses 155 CVEs (Zac Hall/9to5Mac)",
@@ -18,7 +51,7 @@
           "title": "Apple releases updates for iOS, macOS, iPadOS, watchOS, tvOS, and visionOS with a huge number of security fixes; macOS Tahoe 26.6 alone addresses 155 CVEs (Zac Hall/9to5Mac)",
           "standfirst": "Zac Hall / 9to5Mac: Apple releases updates for iOS, macOS, iPadOS, watchOS, tvOS, and visionOS with a huge number of security fixes; macOS Tahoe 26.6 alone addresses 155 CVEs &mdash; Following the release of iOS 26.6, iPadOS 26.6, and related software updates, Apple has detailed a huge number of security fixes included in today's new OS versions.",
           "content": "Zac Hall / 9to5Mac: Apple releases updates for iOS, macOS, iPadOS, watchOS, tvOS, and visionOS with a huge number of security fixes; macOS Tahoe 26.6 alone addresses 155 CVEs &mdash; Following the release of iOS 26.6, iPadOS 26.6, and related software updates, Apple has detailed a huge number of security fixes included in today's new OS versions.",
-          "feed_position": 0,
+          "feed_position": 5,
           "image_url": "http://www.techmeme.com/260727/i34.jpg"
         },
         {
@@ -33,10 +66,10 @@
         }
       ],
       "featured_image": "http://www.techmeme.com/260727/i34.jpg",
-      "popularity_score": 2019.7254702777777
+      "popularity_score": 2014.0063586111112
     },
     {
-      "id": "cluster_2",
+      "id": "cluster_15",
       "coverage": 2,
       "updated_at": "Mon, 27 Jul 2026 18:35:01 -0400",
       "title": "Claude chats showed in Google and Bing search results, despite Anthropic's robots.txt saying not to crawl them, likely because the pages lacked a \"noindex\" tag (Maddy Varner/Wired)",
@@ -53,7 +86,7 @@
           "title": "Claude chats showed in Google and Bing search results, despite Anthropic's robots.txt saying not to crawl them, likely because the pages lacked a \"noindex\" tag (Maddy Varner/Wired)",
           "standfirst": "Maddy Varner / Wired: Claude chats showed in Google and Bing search results, despite Anthropic's robots.txt saying not to crawl them, likely because the pages lacked a &ldquo;noindex&rdquo; tag &mdash; The screwup shows how tricky it can be to stop web crawlers from making ostensibly private conversations with AI chatbots entirely too public.",
           "content": "Maddy Varner / Wired: Claude chats showed in Google and Bing search results, despite Anthropic's robots.txt saying not to crawl them, likely because the pages lacked a &ldquo;noindex&rdquo; tag &mdash; The screwup shows how tricky it can be to stop web crawlers from making ostensibly private conversations with AI chatbots entirely too public.",
-          "feed_position": 1,
+          "feed_position": 6,
           "image_url": "http://www.techmeme.com/260727/i33.jpg"
         },
         {
@@ -63,81 +96,15 @@
           "title": "Private Claude Chats Exposed in Google and Bing Search Results",
           "standfirst": "The screwup shows how tricky it can be to stop web crawlers from making ostensibly private conversations with AI chatbots entirely too public.",
           "content": "The screwup shows how tricky it can be to stop web crawlers from making ostensibly private conversations with AI chatbots entirely too public.",
-          "feed_position": 3,
+          "feed_position": 20,
           "image_url": "https://media.wired.com/photos/6a678683a61c4389773966d4/master/pass/Security_GoogleSearchScrew-UpExposedPrivateClaudeChat-.gif"
         }
       ],
       "featured_image": "http://www.techmeme.com/260727/i33.jpg",
-      "popularity_score": 2018.6410258333333
+      "popularity_score": 2012.9219141666667
     },
     {
-      "id": "cluster_31",
-      "coverage": 2,
-      "updated_at": "Mon, 27 Jul 2026 18:32:11 +0000",
-      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-      "neutral_headline": "Microsoft launches its first cybersecurity model, plus a...",
-      "bullet_summary": [
-        "Reported by TechCrunch, TechMeme"
-      ],
-      "items": [
-        {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-          "published_at": "Mon, 27 Jul 2026 18:32:11 +0000",
-          "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-          "standfirst": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
-          "content": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
-          "feed_position": 4
-        },
-        {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/260727/p23#a260727p23",
-          "published_at": "Mon, 27 Jul 2026 12:50:03 -0400",
-          "title": "Microsoft introduces MAI-Cyber-1-Flash, an AI model trained for cybersecurity, and launches Perception, an agentic security system to patch vulnerabilities (New York Times)",
-          "standfirst": "New York Times: Microsoft introduces MAI-Cyber-1-Flash, an AI model trained for cybersecurity, and launches Perception, an agentic security system to patch vulnerabilities &mdash; As some executives fret over the safety of new A.I. systems, protecting against them could be a big business for tech companies.",
-          "content": "New York Times: Microsoft introduces MAI-Cyber-1-Flash, an AI model trained for cybersecurity, and launches Perception, an agentic security system to patch vulnerabilities &mdash; As some executives fret over the safety of new A.I. systems, protecting against them could be a big business for tech companies.",
-          "feed_position": 11,
-          "image_url": "http://www.techmeme.com/260727/i23.jpg"
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/260727/i23.jpg",
-      "popularity_score": 2014.593803611111
-    },
-    {
-      "id": "cluster_37",
-      "coverage": 2,
-      "updated_at": "Mon, 27 Jul 2026 17:49:28 +0000",
-      "title": "Antares raises $470M to build nuclear reactors for the US military",
-      "neutral_headline": "Antares raises $470M to build nuclear reactors for the US military",
-      "bullet_summary": [
-        "Reported by TechCrunch, TechMeme"
-      ],
-      "items": [
-        {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/",
-          "published_at": "Mon, 27 Jul 2026 17:49:28 +0000",
-          "title": "Antares raises $470M to build nuclear reactors for the US military",
-          "standfirst": "Antares has raised $470 million to build small modular reactors — 100 kW to 1 MW — for U.S. Air Force bases.",
-          "content": "Antares has raised $470 million to build small modular reactors — 100 kW to 1 MW — for U.S. Air Force bases.",
-          "feed_position": 7
-        },
-        {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/260727/p20#a260727p20",
-          "published_at": "Mon, 27 Jul 2026 12:00:49 -0400",
-          "title": "Antares, which is developing reactors with 1 MW of capacity for US military bases, raised $370M in equity and $100M in debt co-led by Paradigm and Caffeinated (Will Wade/Bloomberg)",
-          "standfirst": "Will Wade / Bloomberg: Antares, which is developing reactors with 1 MW of capacity for US military bases, raised $370M in equity and $100M in debt co-led by Paradigm and Caffeinated &mdash; California startup Antares Nuclear Inc. raised $470 million to advance plans to build small reactors aimed at supplying power to US military bases.",
-          "content": "Will Wade / Bloomberg: Antares, which is developing reactors with 1 MW of capacity for US military bases, raised $370M in equity and $100M in debt co-led by Paradigm and Caffeinated &mdash; California startup Antares Nuclear Inc. raised $470 million to advance plans to build small reactors aimed at supplying power to US military bases.",
-          "feed_position": 14,
-          "image_url": "http://www.techmeme.com/260727/i20.jpg"
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/260727/i20.jpg",
-      "popularity_score": 2013.8818591666666
-    },
-    {
-      "id": "cluster_43",
+      "id": "cluster_55",
       "coverage": 2,
       "updated_at": "Mon, 27 Jul 2026 17:00:10 +0000",
       "title": "YouTube Premium will soon include Peacock at no extra cost",
@@ -167,10 +134,10 @@
         }
       ],
       "featured_image": "https://www.engadget.com/img/gallery/youtube-premium-will-soon-include-peacock-at-no-extra-cost/l-intro-1785171408.jpg",
-      "popularity_score": 2013.0601925
+      "popularity_score": 2007.3410808333333
     },
     {
-      "id": "cluster_48",
+      "id": "cluster_59",
       "coverage": 2,
       "updated_at": "Mon, 27 Jul 2026 16:45:24 +0000",
       "title": "Threads users can now chat with Meta AI in their DMs",
@@ -187,7 +154,7 @@
           "title": "Threads users can now chat with Meta AI in their DMs",
           "standfirst": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
           "content": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
-          "feed_position": 9
+          "feed_position": 11
         },
         {
           "source": "Engadget",
@@ -201,10 +168,10 @@
         }
       ],
       "featured_image": "https://www.engadget.com/img/gallery/all-threads-users-can-now-dm-meta-ai/l-intro-1785149253.jpg",
-      "popularity_score": 2012.8140813888888
+      "popularity_score": 2007.0949697222222
     },
     {
-      "id": "cluster_6",
+      "id": "cluster_19",
       "coverage": 1,
       "updated_at": "Mon, 27 Jul 2026 21:56:14 +0000",
       "title": "Microsoft unveils AI security tools it says outperform competing platforms",
@@ -225,10 +192,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg",
-      "popularity_score": 387.99463694444444
+      "popularity_score": 382.2755252777778
     },
     {
-      "id": "cluster_8",
+      "id": "cluster_21",
       "coverage": 1,
       "updated_at": "Mon, 27 Jul 2026 21:40:27 +0000",
       "title": "Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made routers",
@@ -249,10 +216,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/starlink-router-1152x648-1785186848.jpg",
-      "popularity_score": 348.7315813888889
+      "popularity_score": 343.01246972222225
     },
     {
-      "id": "cluster_13",
+      "id": "cluster_26",
       "coverage": 1,
       "updated_at": "Mon, 27 Jul 2026 20:42:13 +0000",
       "title": "Epic diarrhea outbreak has 40% of Americans avoiding fruits and veggies",
@@ -273,10 +240,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2015/02/salad.jpg",
-      "popularity_score": 329.76102583333335
+      "popularity_score": 324.0419141666667
     },
     {
-      "id": "cluster_17",
+      "id": "cluster_30",
       "coverage": 1,
       "updated_at": "Mon, 27 Jul 2026 20:32:45 +0000",
       "title": "iOS and macOS 26.6 arrive today, paving the way for iOS and macOS 27",
@@ -297,10 +264,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/macOS-26-6-update-1152x648-1785182231.jpg",
-      "popularity_score": 319.6032480555556
+      "popularity_score": 313.88413638888886
     },
     {
-      "id": "cluster_22",
+      "id": "cluster_35",
       "coverage": 1,
       "updated_at": "Mon, 27 Jul 2026 20:12:42 +0000",
       "title": "“Google and Reddit do not own the Internet,\" web scraper says after court win",
@@ -321,10 +288,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264310791-1152x648.jpg",
-      "popularity_score": 311.2690813888889
+      "popularity_score": 305.5499697222222
     },
     {
-      "id": "cluster_19",
+      "id": "cluster_32",
       "coverage": 1,
       "updated_at": "Mon, 27 Jul 2026 20:22:03 +0000",
       "title": "A missing underscore sent innocent man to prison for 18 months",
@@ -345,10 +312,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2170708705-1152x648.jpg",
-      "popularity_score": 309.42491472222224
+      "popularity_score": 303.7058030555556
     },
     {
-      "id": "cluster_29",
+      "id": "cluster_41",
       "coverage": 1,
       "updated_at": "Mon, 27 Jul 2026 18:48:41 +0000",
       "title": "Verizon touts $1B dark fiber deal for Google data centers as first of many",
@@ -369,10 +336,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Verizon-Times-Square-Store-1152x648.jpg",
-      "popularity_score": 289.8688036111111
+      "popularity_score": 284.14969194444444
     },
     {
-      "id": "cluster_27",
+      "id": "cluster_40",
       "coverage": 1,
       "updated_at": "Mon, 27 Jul 2026 19:18:02 +0000",
       "title": "5th Circuit blocks Texas law requiring websites to filter \"harmful\" speech",
@@ -393,10 +360,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/texas-flag-1152x648-1785178684.jpg",
-      "popularity_score": 288.3579702777778
+      "popularity_score": 282.6388586111111
     },
     {
-      "id": "cluster_44",
+      "id": "cluster_56",
       "coverage": 1,
       "updated_at": "Mon, 27 Jul 2026 16:58:46 +0000",
       "title": "ChatGPT starts blocking direct requests to copy an author's style",
@@ -417,10 +384,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264560291-1152x648.jpg",
-      "popularity_score": 271.03685916666666
+      "popularity_score": 265.3177475
     },
     {
-      "id": "cluster_30",
+      "id": "cluster_42",
       "coverage": 1,
       "updated_at": "Mon, 27 Jul 2026 18:34:40 +0000",
       "title": "Experts warn current Starship heat shield tech is a \"dead end\" for rapid reuse",
@@ -441,10 +408,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/heat-shield-streaks-1152x648.png",
-      "popularity_score": 267.6351925
+      "popularity_score": 261.91608083333335
     },
     {
-      "id": "cluster_64",
+      "id": "cluster_73",
       "coverage": 1,
       "updated_at": "Mon, 27 Jul 2026 15:02:45 +0000",
       "title": "Framework Laptop 13 Pro review: Much better battery, much worse price",
@@ -465,10 +432,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/IMG_8936-1-1152x648-1785150222.jpeg",
-      "popularity_score": 155.10324805555555
+      "popularity_score": 149.3841363888889
     },
     {
-      "id": "cluster_87",
+      "id": "cluster_96",
       "coverage": 1,
       "updated_at": "Mon, 27 Jul 2026 10:50:37 +0000",
       "title": "Artist sues AI meme generator for selling deeply personal comic as ad template",
@@ -489,34 +456,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/comictest-1152x648-1784918491.jpg",
-      "popularity_score": 154.90102583333334
+      "popularity_score": 149.18191416666667
     },
     {
-      "id": "cluster_54",
-      "coverage": 1,
-      "updated_at": "Mon, 27 Jul 2026 15:58:34 +0000",
-      "title": "Activist charged with felony after giving border agent \"duress code\" that wiped his phone",
-      "neutral_headline": "Activist charged with felony after giving border agent \"duress...",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/07/activist-charged-with-felony-after-giving-border-agent-duress-code-that-wiped-his-phone/",
-          "published_at": "Mon, 27 Jul 2026 15:58:34 +0000",
-          "title": "Activist charged with felony after giving border agent \"duress code\" that wiped his phone",
-          "standfirst": "The government says destroying his own data during an airport interrogation was illegal.",
-          "content": "In early 2025, Atlanta resident Samuel Tunick was on his way home following a trip abroad. After landing in the US, customs agents demanded access to his Pixel phone, which was running an alternative version of Android called GrapheneOS. Rather than hand over his data, Tunick used a clever feature of the software to delete everything. Now, he's facing federal charges. The first hearing in this case happened last week, according to The Guardian, during which government attorneys and agents claimed that Tunick was subjected to a standard secondary interrogation at an international airport. During that encounter, agents were \"looking for anything that’s prohibited.\" However, Tunick's legal team alleges he was targeted for his activism. Tunick was involved with a group called Defend the Atlanta Forest, which opposed the construction of an enormous law enforcement training facility in the area often known as Cop City. What Tunick didn't know, according to his lawyers, was that he'd been placed on a watch list for his actions and that Customs and Border Protection had discussed over email plans to detain him upon his arrival back in the US for \"suspected terrorism activities.\"Read full article Comments",
-          "feed_position": 10,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Google-Pixel-10-18-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Google-Pixel-10-18-1152x648.jpg",
-      "popularity_score": 145.03352583333333
-    },
-    {
-      "id": "cluster_107",
+      "id": "cluster_115",
       "coverage": 1,
       "updated_at": "Sun, 26 Jul 2026 19:48:43 +0000",
       "title": "First teaser for Apple TV's Neuromancer debuts at SDCC",
@@ -540,7 +483,31 @@
       "popularity_score": 145
     },
     {
-      "id": "cluster_73",
+      "id": "cluster_63",
+      "coverage": 1,
+      "updated_at": "Mon, 27 Jul 2026 15:58:34 +0000",
+      "title": "Activist charged with felony after giving border agent \"duress code\" that wiped his phone",
+      "neutral_headline": "Activist charged with felony after giving border agent \"duress...",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/07/activist-charged-with-felony-after-giving-border-agent-duress-code-that-wiped-his-phone/",
+          "published_at": "Mon, 27 Jul 2026 15:58:34 +0000",
+          "title": "Activist charged with felony after giving border agent \"duress code\" that wiped his phone",
+          "standfirst": "The government says destroying his own data during an airport interrogation was illegal.",
+          "content": "In early 2025, Atlanta resident Samuel Tunick was on his way home following a trip abroad. After landing in the US, customs agents demanded access to his Pixel phone, which was running an alternative version of Android called GrapheneOS. Rather than hand over his data, Tunick used a clever feature of the software to delete everything. Now, he's facing federal charges. The first hearing in this case happened last week, according to The Guardian, during which government attorneys and agents claimed that Tunick was subjected to a standard secondary interrogation at an international airport. During that encounter, agents were \"looking for anything that’s prohibited.\" However, Tunick's legal team alleges he was targeted for his activism. Tunick was involved with a group called Defend the Atlanta Forest, which opposed the construction of an enormous law enforcement training facility in the area often known as Cop City. What Tunick didn't know, according to his lawyers, was that he'd been placed on a watch list for his actions and that Customs and Border Protection had discussed over email plans to detain him upon his arrival back in the US for \"suspected terrorism activities.\"Read full article Comments",
+          "feed_position": 10,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Google-Pixel-10-18-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Google-Pixel-10-18-1152x648.jpg",
+      "popularity_score": 139.31441416666667
+    },
+    {
+      "id": "cluster_82",
       "coverage": 1,
       "updated_at": "Mon, 27 Jul 2026 14:01:56 +0000",
       "title": "What public health professionals can learn from anti-vaccine storytelling",
@@ -561,7 +528,7 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/vaccinator-1000x648.jpg",
-      "popularity_score": 143.08963694444444
+      "popularity_score": 137.37052527777777
     }
   ]
 }
