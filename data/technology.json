@@ -1,42 +1,148 @@
 {
-  "updated_at": "2026-07-28T09:31:22.103Z",
+  "updated_at": "2026-07-28T12:48:59.708Z",
   "clusters": [
     {
-      "id": "cluster_0",
-      "coverage": 2,
-      "updated_at": "Tue, 28 Jul 2026 09:05:25 +0000",
-      "title": "ChatGPT is now refusing requests to write in famous authors' styles",
-      "neutral_headline": "ChatGPT is now refusing requests to write in famous authors' styles",
+      "id": "cluster_14",
+      "coverage": 4,
+      "updated_at": "Tue, 28 Jul 2026 11:22:27 +0000",
+      "title": "Hugging Face reportedly plagued with AI models generating adult deepfakes",
+      "neutral_headline": "Hugging Face reportedly plagued with AI models generating adult deepfakes",
       "bullet_summary": [
-        "Reported by Engadget, TechMeme"
+        "Researchers investigating Hugging Face found the majority of its models would generate non-consensual deepfakes",
+        "Researchers tested top image editing models on Hugging Face and found they could easily create explicit deepfakes—and 1,000 image editing prompts show how people use the software"
       ],
       "items": [
         {
           "source": "Engadget",
-          "url": "https://www.engadget.com/2224867/chatgpt-refusing-to-write-in-famous-authors-styles/",
-          "published_at": "Tue, 28 Jul 2026 09:05:25 +0000",
-          "title": "ChatGPT is now refusing requests to write in famous authors' styles",
-          "standfirst": "ChatGPT has been refusing to imitate the writing of famous authors, both living and dead.",
-          "content": "ChatGPT has been refusing to imitate the writing of famous authors, both living and dead.",
-          "feed_position": 0,
-          "image_url": "https://www.engadget.com/img/gallery/chatgpt-is-now-refusing-requests-to-write-in-famous-authors-styles/l-intro-1785229454.jpg"
+          "url": "https://www.engadget.com/2224899/hugging-face-reportedly-plagued-with-deepfakes/",
+          "published_at": "Tue, 28 Jul 2026 11:22:27 +0000",
+          "title": "Hugging Face reportedly plagued with AI models generating adult deepfakes",
+          "standfirst": "Researchers investigating Hugging Face found the majority of its models would generate non-consensual deepfakes.",
+          "content": "Researchers investigating Hugging Face found the majority of its models would generate non-consensual deepfakes.",
+          "feed_position": 1,
+          "image_url": "https://www.engadget.com/img/gallery/hugging-face-reportedly-plagued-with-ai-models-generating-adult-deepfakes/l-intro-1785237563.jpg"
         },
         {
           "source": "TechMeme",
-          "url": "https://www.techmeme.com/260727/p36#a260727p36",
-          "published_at": "Mon, 27 Jul 2026 21:40:01 -0400",
-          "title": "ChatGPT appears to block direct requests to copy an author's style, instead offering to capture the overall \"feeling\", amid its legal battles with book authors (Kyle Orland/Ars Technica)",
-          "standfirst": "Kyle Orland / Ars Technica: ChatGPT appears to block direct requests to copy an author's style, instead offering to capture the overall &ldquo;feeling&rdquo;, amid its legal battles with book authors &mdash; OpenAI's ChatGPT is now refusing requests to generate text that directly mimics the style of famous authors.",
-          "content": "Kyle Orland / Ars Technica: ChatGPT appears to block direct requests to copy an author's style, instead offering to capture the overall &ldquo;feeling&rdquo;, amid its legal battles with book authors &mdash; OpenAI's ChatGPT is now refusing requests to generate text that directly mimics the style of famous authors.",
+          "url": "https://www.techmeme.com/260728/p10#a260728p10",
+          "published_at": "Tue, 28 Jul 2026 06:35:01 -0400",
+          "title": "AI Forensics: seven out of the nine top AI image models on Hugging Face edited an image of a clothed woman into a topless one using a simple six-word prompt (Matt Burgess/Wired)",
+          "standfirst": "Matt Burgess / Wired: AI Forensics: seven out of the nine top AI image models on Hugging Face edited an image of a clothed woman into a topless one using a simple six-word prompt &mdash; Researchers tested top image editing models on Hugging Face and found they could easily create explicit deepfakes &hellip;",
+          "content": "Matt Burgess / Wired: AI Forensics: seven out of the nine top AI image models on Hugging Face edited an image of a clothed woman into a topless one using a simple six-word prompt &mdash; Researchers tested top image editing models on Hugging Face and found they could easily create explicit deepfakes &hellip;",
           "feed_position": 5,
-          "image_url": "http://www.techmeme.com/260727/i36.jpg"
+          "image_url": "http://www.techmeme.com/260728/i10.jpg"
+        },
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
+          "published_at": "2026-07-28T05:07:14-04:00",
+          "title": "Hugging Face is being used to easily undress women and children",
+          "standfirst": "Hugging Face is being used to make nonconsensual deepfakes, and the popular open-source AI model repository is doing very little to prevent it. That's according to a new report published by the European nonprofit AI Forensics, which found that seven out of the top nine image editing models hosted by Hugging Face readily complied with [&#8230;]",
+          "content": "Hugging Face isn’t doing much to prevent the AI models it hosts from spitting out sexualized deepfakes. | Image: Cath Virginia / The Verge | Photos from Getty Images Hugging Face is being used to make nonconsensual deepfakes, and the popular open-source AI model repository is doing very little to prevent it. That's according to a new report published by the European nonprofit AI Forensics, which found that seven out of the top nine image editing models hosted by Hugging Face readily complied with requests to undress women using simple prompts. While most mainstream generative AI models like Google's Gemini and OpenAI's ChatGPT have guardrails in place to block prompts that undress or sexualize people, that seemingly isn't the case for the models on Hugging Face tested by AI Forensics. The nonprofit says … Read the full story at The Verge.",
+          "feed_position": 4
+        },
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/",
+          "published_at": "Tue, 28 Jul 2026 05:30:00 +0000",
+          "title": "Hugging Face Has a Deepfake Nudes Problem",
+          "standfirst": "Researchers tested top image editing models on Hugging Face and found they could easily create explicit deepfakes—and 1,000 image editing prompts show how people use the software.",
+          "content": "Researchers tested top image editing models on Hugging Face and found they could easily create explicit deepfakes—and 1,000 image editing prompts show how people use the software.",
+          "feed_position": 9,
+          "image_url": "https://media.wired.com/photos/6a67cfabae27b42b1eabd681/master/pass/Security_HuggingFaceHasaDeepfakeNudesProblem_v1.gif"
         }
       ],
-      "featured_image": "https://www.engadget.com/img/gallery/chatgpt-is-now-refusing-requests-to-write-in-famous-authors-styles/l-intro-1785229454.jpg",
-      "popularity_score": 2019.5674713888889
+      "featured_image": "https://www.engadget.com/img/gallery/hugging-face-reportedly-plagued-with-ai-models-generating-adult-deepfakes/l-intro-1785237563.jpg",
+      "popularity_score": 4018.557581111111
     },
     {
-      "id": "cluster_16",
+      "id": "cluster_1",
+      "coverage": 3,
+      "updated_at": "Tue, 28 Jul 2026 12:44:16 +0000",
+      "title": "Apple Upgrade is a subscription program for the company's devices",
+      "neutral_headline": "Apple Upgrade is a subscription program for the company's devices",
+      "bullet_summary": [
+        "Reported by Engadget, TechMeme, The Verge"
+      ],
+      "items": [
+        {
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2224951/apple-upgrade-program-announced-klarna/",
+          "published_at": "Tue, 28 Jul 2026 12:44:16 +0000",
+          "title": "Apple Upgrade is a subscription program for the company's devices",
+          "standfirst": "Apple's new program gives you lease options for iPhone, iPad, Apple Watch and Mac.",
+          "content": "Apple's new program gives you lease options for iPhone, iPad, Apple Watch and Mac.",
+          "feed_position": 0,
+          "image_url": "https://www.engadget.com/img/gallery/apple-upgrade-is-a-subscription-program-for-the-companys-devices/l-intro-1785242474.jpg"
+        },
+        {
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/260728/p15#a260728p15",
+          "published_at": "Tue, 28 Jul 2026 08:25:01 -0400",
+          "title": "Apple launches Apple Upgrade, a new US leasing program in partnership with Klarna that replaces the iPhone Upgrade Program, starting at $17.99/month for iPhones (Juli Clover/MacRumors)",
+          "standfirst": "Juli Clover / MacRumors: Apple launches Apple Upgrade, a new US leasing program in partnership with Klarna that replaces the iPhone Upgrade Program, starting at $17.99/month for iPhones &mdash; Apple today launched Apple Upgrade, a new U.S. leasing program for iPhone, iPad, Mac, and Apple Watch.",
+          "content": "Juli Clover / MacRumors: Apple launches Apple Upgrade, a new US leasing program in partnership with Klarna that replaces the iPhone Upgrade Program, starting at $17.99/month for iPhones &mdash; Apple today launched Apple Upgrade, a new U.S. leasing program for iPhone, iPad, Mac, and Apple Watch.",
+          "feed_position": 0,
+          "image_url": "http://www.techmeme.com/260728/i15.jpg"
+        },
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/971220/apple-upgrade-program-iphone-mac-ipad-lease-launch",
+          "published_at": "2026-07-28T08:23:50-04:00",
+          "title": "Apple launches ‘Upgrade’ program to lease new devices",
+          "standfirst": "Apple has officially introduced \"Apple Upgrade,\" a new leasing program that aims to make it easier to get your hands on the latest iPhone, Mac, iPad, and Apple Watch models. The service is launching today in the US, and works like a car lease - allowing users to keep a device at the end of [&#8230;]",
+          "content": "This image shows which Apple devices are included in its new leasing program. | Image: Apple Apple has officially introduced \"Apple Upgrade,\" a new leasing program that aims to make it easier to get your hands on the latest iPhone, Mac, iPad, and Apple Watch models. The service is launching today in the US, and works like a car lease - allowing users to keep a device at the end of their subscription period, pay off the device early, or upgrade early to a new model. This leasing program is rolling out just weeks after Apple hiked the prices of its MacBooks, iPads, and other devices in response to the ongoing memory and storage shortages. While iPhones were spared, current Apple CEO Tim Cook warned last month that \"the situation has … Read the full story at The Verge.",
+          "feed_position": 2
+        }
+      ],
+      "featured_image": "https://www.engadget.com/img/gallery/apple-upgrade-is-a-subscription-program-for-the-companys-devices/l-intro-1785242474.jpg",
+      "popularity_score": 3019.921192222222
+    },
+    {
+      "id": "cluster_21",
+      "coverage": 3,
+      "updated_at": "Tue, 28 Jul 2026 06:15:01 -0400",
+      "title": "Baidu begins testing its purpose-built Apollo Go RT6 robotaxis with human safety operators in outer London; Baidu plans to deploy the taxis on Lyft's Freenow (Kirsten Korosec/TechCrunch)",
+      "neutral_headline": "Lyft and Baidu start testing robotaxis in London",
+      "bullet_summary": [
+        "Reported by TechMeme, Engadget, TechCrunch"
+      ],
+      "items": [
+        {
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/260728/p8#a260728p8",
+          "published_at": "Tue, 28 Jul 2026 06:15:01 -0400",
+          "title": "Baidu begins testing its purpose-built Apollo Go RT6 robotaxis with human safety operators in outer London; Baidu plans to deploy the taxis on Lyft's Freenow (Kirsten Korosec/TechCrunch)",
+          "standfirst": "Kirsten Korosec / TechCrunch: Baidu begins testing its purpose-built Apollo Go RT6 robotaxis with human safety operators in outer London; Baidu plans to deploy the taxis on Lyft's Freenow &mdash; Chinese tech giant Baidu has started testing autonomous vehicles in London as part of its partnership with Lyft and Freenow &hellip;",
+          "content": "Kirsten Korosec / TechCrunch: Baidu begins testing its purpose-built Apollo Go RT6 robotaxis with human safety operators in outer London; Baidu plans to deploy the taxis on Lyft's Freenow &mdash; Chinese tech giant Baidu has started testing autonomous vehicles in London as part of its partnership with Lyft and Freenow &hellip;",
+          "feed_position": 7,
+          "image_url": "http://www.techmeme.com/260728/i8.jpg"
+        },
+        {
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2224882/lyft-and-baidu-start-testing-robotaxis-in-london/",
+          "published_at": "Tue, 28 Jul 2026 10:04:49 +0000",
+          "title": "Lyft and Baidu start testing robotaxis in London",
+          "standfirst": "As it promised last year, Baidu has started testing its robotaxis in London along with partners Lyft and Freenow.",
+          "content": "As it promised last year, Baidu has started testing its robotaxis in London along with partners Lyft and Freenow.",
+          "feed_position": 2,
+          "image_url": "https://www.engadget.com/img/gallery/lyft-and-baidu-start-testing-robotaxis-in-london/l-intro-1785232992.jpg"
+        },
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/",
+          "published_at": "Tue, 28 Jul 2026 08:00:00 +0000",
+          "title": "Lyft and Baidu enter London&#8217;s robotaxi battleground as testing begins",
+          "standfirst": "Baidu's Apollo Go autonomous vehicles will be available on Freenow, the mobility network that Lyft acquired in 2025.",
+          "content": "Baidu's Apollo Go autonomous vehicles will be available on Freenow, the mobility network that Lyft acquired in 2025.",
+          "feed_position": 0
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/260728/i8.jpg",
+      "popularity_score": 3017.4336922222224
+    },
+    {
+      "id": "cluster_43",
       "coverage": 2,
       "updated_at": "Tue, 28 Jul 2026 00:45:01 -0400",
       "title": "Cursor introduces Cursor Start, a ~$7 monthly subscription exclusive to India, its third-largest market, priced below its standard $20 Pro monthly subscription (Jagmeet Singh/TechCrunch)",
@@ -52,7 +158,7 @@
           "title": "Cursor introduces Cursor Start, a ~$7 monthly subscription exclusive to India, its third-largest market, priced below its standard $20 Pro monthly subscription (Jagmeet Singh/TechCrunch)",
           "standfirst": "Jagmeet Singh / TechCrunch: Cursor introduces Cursor Start, a ~$7 monthly subscription exclusive to India, its third-largest market, priced below its standard $20 Pro monthly subscription &mdash; Weeks before its expected acquisition by SpaceX closes, AI coding startup Cursor is making its biggest push into India yet &hellip;",
           "content": "Jagmeet Singh / TechCrunch: Cursor introduces Cursor Start, a ~$7 monthly subscription exclusive to India, its third-largest market, priced below its standard $20 Pro monthly subscription &mdash; Weeks before its expected acquisition by SpaceX closes, AI coding startup Cursor is making its biggest push into India yet &hellip;",
-          "feed_position": 2,
+          "feed_position": 13,
           "image_url": "http://www.techmeme.com/260728/i2.jpg"
         },
         {
@@ -66,111 +172,10 @@
         }
       ],
       "featured_image": "http://www.techmeme.com/260728/i2.jpg",
-      "popularity_score": 2015.227471388889
+      "popularity_score": 2011.9336922222221
     },
     {
-      "id": "cluster_24",
-      "coverage": 2,
-      "updated_at": "Mon, 27 Jul 2026 19:40:05 -0400",
-      "title": "Apple releases updates for iOS, macOS, iPadOS, watchOS, tvOS, and visionOS with a huge number of security fixes; macOS Tahoe 26.6 alone addresses 155 CVEs (Zac Hall/9to5Mac)",
-      "neutral_headline": "IOS 26.6, macOS 26.6 and the rest are out, addressing security fixes",
-      "bullet_summary": [
-        "Reported by TechMeme, Engadget"
-      ],
-      "items": [
-        {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/260727/p34#a260727p34",
-          "published_at": "Mon, 27 Jul 2026 19:40:05 -0400",
-          "title": "Apple releases updates for iOS, macOS, iPadOS, watchOS, tvOS, and visionOS with a huge number of security fixes; macOS Tahoe 26.6 alone addresses 155 CVEs (Zac Hall/9to5Mac)",
-          "standfirst": "Zac Hall / 9to5Mac: Apple releases updates for iOS, macOS, iPadOS, watchOS, tvOS, and visionOS with a huge number of security fixes; macOS Tahoe 26.6 alone addresses 155 CVEs &mdash; Following the release of iOS 26.6, iPadOS 26.6, and related software updates, Apple has detailed a huge number of security fixes included in today's new OS versions.",
-          "content": "Zac Hall / 9to5Mac: Apple releases updates for iOS, macOS, iPadOS, watchOS, tvOS, and visionOS with a huge number of security fixes; macOS Tahoe 26.6 alone addresses 155 CVEs &mdash; Following the release of iOS 26.6, iPadOS 26.6, and related software updates, Apple has detailed a huge number of security fixes included in today's new OS versions.",
-          "feed_position": 7,
-          "image_url": "http://www.techmeme.com/260727/i34.jpg"
-        },
-        {
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2224488/ios26-6-macos26-6-and-the-rest-are-out-addressing-security-fixes/",
-          "published_at": "Mon, 27 Jul 2026 20:07:47 +0000",
-          "title": "iOS 26.6, macOS 26.6 and the rest are out, addressing security fixes",
-          "standfirst": "Apple's latest software updates are primarily focused on security fixes.",
-          "content": "Apple's latest software updates are primarily focused on security fixes.",
-          "feed_position": 4,
-          "image_url": "https://www.engadget.com/img/gallery/ios-26-6-macos-26-6-and-the-rest-are-out-addressing-security-fixes/l-intro-1785182814.jpg"
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/260727/i34.jpg",
-      "popularity_score": 2010.1452491666666
-    },
-    {
-      "id": "cluster_26",
-      "coverage": 2,
-      "updated_at": "Mon, 27 Jul 2026 18:35:01 -0400",
-      "title": "Claude chats appeared in Google and Bing results, despite Anthropic's robots.txt saying not to crawl them, likely because the pages lacked a \"noindex\" tag (Maddy Varner/Wired)",
-      "neutral_headline": "Private Claude Chats Exposed in Google and Bing Search Results",
-      "bullet_summary": [
-        "Reported by TechMeme, Wired Tech"
-      ],
-      "items": [
-        {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/260727/p33#a260727p33",
-          "published_at": "Mon, 27 Jul 2026 18:35:01 -0400",
-          "title": "Claude chats appeared in Google and Bing results, despite Anthropic's robots.txt saying not to crawl them, likely because the pages lacked a \"noindex\" tag (Maddy Varner/Wired)",
-          "standfirst": "Maddy Varner / Wired: Claude chats appeared in Google and Bing results, despite Anthropic's robots.txt saying not to crawl them, likely because the pages lacked a &ldquo;noindex&rdquo; tag &mdash; The screwup shows how tricky it can be to stop web crawlers from making ostensibly private conversations with AI chatbots entirely too public.",
-          "content": "Maddy Varner / Wired: Claude chats appeared in Google and Bing results, despite Anthropic's robots.txt saying not to crawl them, likely because the pages lacked a &ldquo;noindex&rdquo; tag &mdash; The screwup shows how tricky it can be to stop web crawlers from making ostensibly private conversations with AI chatbots entirely too public.",
-          "feed_position": 8,
-          "image_url": "http://www.techmeme.com/260727/i33.jpg"
-        },
-        {
-          "source": "Wired Tech",
-          "url": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
-          "published_at": "Mon, 27 Jul 2026 20:08:00 +0000",
-          "title": "Private Claude Chats Exposed in Google and Bing Search Results",
-          "standfirst": "The screwup shows how tricky it can be to stop web crawlers from making ostensibly private conversations with AI chatbots entirely too public.",
-          "content": "The screwup shows how tricky it can be to stop web crawlers from making ostensibly private conversations with AI chatbots entirely too public.",
-          "feed_position": 21,
-          "image_url": "https://media.wired.com/photos/6a678683a61c4389773966d4/master/pass/Security_GoogleSearchScrew-UpExposedPrivateClaudeChat-.gif"
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/260727/i33.jpg",
-      "popularity_score": 2009.0608047222222
-    },
-    {
-      "id": "cluster_65",
-      "coverage": 2,
-      "updated_at": "Mon, 27 Jul 2026 17:00:10 +0000",
-      "title": "YouTube Premium will soon include Peacock at no extra cost",
-      "neutral_headline": "YouTube Premium will soon include Peacock at no extra cost",
-      "bullet_summary": [
-        "Reported by Engadget, The Verge"
-      ],
-      "items": [
-        {
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2224217/youtube-premium-will-soon-include-peacock-at-no-extra-cost/",
-          "published_at": "Mon, 27 Jul 2026 17:00:10 +0000",
-          "title": "YouTube Premium will soon include Peacock at no extra cost",
-          "standfirst": "Ad-supported Peacock will be available for free to YouTube Premium subscribers early next year.",
-          "content": "Ad-supported Peacock will be available for free to YouTube Premium subscribers early next year.",
-          "feed_position": 8,
-          "image_url": "https://www.engadget.com/img/gallery/youtube-premium-will-soon-include-peacock-at-no-extra-cost/l-intro-1785171408.jpg"
-        },
-        {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/streaming/971452/youtube-premium-peacock-streaming-deal",
-          "published_at": "2026-07-27T12:18:52-04:00",
-          "title": "YouTube Premium will include Peacock starting next year",
-          "standfirst": "YouTube's ad-free Premium subscription is getting another perk: access to Peacock. In an announcement on Monday, NBCUniversal says the multi-year agreement will allow Premium subscribers to stream Peacock's ad-supported shows, movies, and live sports directly through the YouTube app in 2027. YouTube will bundle Peacock in its standard subscription, which increased to $15.99 / month [&#8230;]",
-          "content": "YouTube's ad-free Premium subscription is getting another perk: access to Peacock. In an announcement on Monday, NBCUniversal says the multi-year agreement will allow Premium subscribers to stream Peacock's ad-supported shows, movies, and live sports directly through the YouTube app in 2027. YouTube will bundle Peacock in its standard subscription, which increased to $15.99 / month in April, YouTube spokesperson Jessica Gibby confirmed to The Verge. That makes it cheaper than subscribing to both services individually, as Peacock currently starts at $10.99 / month for its ad-supported plan. The news of the deal comes at a pivotal time for P … Read the full story at The Verge.",
-          "feed_position": 5
-        }
-      ],
-      "featured_image": "https://www.engadget.com/img/gallery/youtube-premium-will-soon-include-peacock-at-no-extra-cost/l-intro-1785171408.jpg",
-      "popularity_score": 2003.479971388889
-    },
-    {
-      "id": "cluster_69",
+      "id": "cluster_86",
       "coverage": 2,
       "updated_at": "Mon, 27 Jul 2026 16:45:24 +0000",
       "title": "Threads users can now chat with Meta AI in their DMs",
@@ -196,15 +201,15 @@
           "title": "All Threads users can now DM Meta AI",
           "standfirst": "Meta AI is coming to Threads DMs, following availability inside Facebook, Instagram, and WhatsApp DMs.",
           "content": "Meta AI is coming to Threads DMs, following availability inside Facebook, Instagram, and WhatsApp DMs.",
-          "feed_position": 11,
+          "feed_position": 14,
           "image_url": "https://www.engadget.com/img/gallery/all-threads-users-can-now-dm-meta-ai/l-intro-1785149253.jpg"
         }
       ],
       "featured_image": "https://www.engadget.com/img/gallery/all-threads-users-can-now-dm-meta-ai/l-intro-1785149253.jpg",
-      "popularity_score": 2003.2338602777777
+      "popularity_score": 2000
     },
     {
-      "id": "cluster_30",
+      "id": "cluster_51",
       "coverage": 1,
       "updated_at": "Mon, 27 Jul 2026 21:56:14 +0000",
       "title": "Microsoft unveils AI security tools it says outperform competing platforms",
@@ -225,10 +230,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg",
-      "popularity_score": 378.41441583333335
+      "popularity_score": 375.12063666666666
     },
     {
-      "id": "cluster_32",
+      "id": "cluster_52",
       "coverage": 1,
       "updated_at": "Mon, 27 Jul 2026 21:40:27 +0000",
       "title": "Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made routers",
@@ -249,10 +254,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/starlink-router-1152x648-1785186848.jpg",
-      "popularity_score": 339.15136027777777
+      "popularity_score": 335.85758111111113
     },
     {
-      "id": "cluster_37",
+      "id": "cluster_56",
       "coverage": 1,
       "updated_at": "Mon, 27 Jul 2026 20:42:13 +0000",
       "title": "Epic diarrhea outbreak has 40% of Americans avoiding fruits and veggies",
@@ -273,10 +278,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2015/02/salad.jpg",
-      "popularity_score": 320.1808047222222
+      "popularity_score": 316.88702555555557
     },
     {
-      "id": "cluster_41",
+      "id": "cluster_60",
       "coverage": 1,
       "updated_at": "Mon, 27 Jul 2026 20:32:45 +0000",
       "title": "iOS and macOS 26.6 arrive today, paving the way for iOS and macOS 27",
@@ -297,10 +302,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/macOS-26-6-update-1152x648-1785182231.jpg",
-      "popularity_score": 310.02302694444444
+      "popularity_score": 306.7292477777778
     },
     {
-      "id": "cluster_46",
+      "id": "cluster_64",
       "coverage": 1,
       "updated_at": "Mon, 27 Jul 2026 20:12:42 +0000",
       "title": "“Google and Reddit do not own the Internet,\" web scraper says after court win",
@@ -321,10 +326,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264310791-1152x648.jpg",
-      "popularity_score": 301.6888602777778
+      "popularity_score": 298.3950811111111
     },
     {
-      "id": "cluster_43",
+      "id": "cluster_62",
       "coverage": 1,
       "updated_at": "Mon, 27 Jul 2026 20:22:03 +0000",
       "title": "A missing underscore sent innocent man to prison for 18 months",
@@ -345,10 +350,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2170708705-1152x648.jpg",
-      "popularity_score": 299.8446936111111
+      "popularity_score": 296.55091444444446
     },
     {
-      "id": "cluster_52",
+      "id": "cluster_70",
       "coverage": 1,
       "updated_at": "Mon, 27 Jul 2026 18:48:41 +0000",
       "title": "Verizon touts $1B dark fiber deal for Google data centers as first of many",
@@ -369,10 +374,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Verizon-Times-Square-Store-1152x648.jpg",
-      "popularity_score": 280.2885825
+      "popularity_score": 276.9948033333333
     },
     {
-      "id": "cluster_51",
+      "id": "cluster_69",
       "coverage": 1,
       "updated_at": "Mon, 27 Jul 2026 19:18:02 +0000",
       "title": "5th Circuit blocks Texas law requiring websites to filter \"harmful\" speech",
@@ -393,10 +398,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/texas-flag-1152x648-1785178684.jpg",
-      "popularity_score": 278.7777491666667
+      "popularity_score": 275.48397
     },
     {
-      "id": "cluster_66",
+      "id": "cluster_83",
       "coverage": 1,
       "updated_at": "Mon, 27 Jul 2026 16:58:46 +0000",
       "title": "ChatGPT starts blocking direct requests to copy an author's style",
@@ -417,10 +422,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264560291-1152x648.jpg",
-      "popularity_score": 261.4566380555556
+      "popularity_score": 258.1628588888889
     },
     {
-      "id": "cluster_53",
+      "id": "cluster_71",
       "coverage": 1,
       "updated_at": "Mon, 27 Jul 2026 18:34:40 +0000",
       "title": "Experts warn current Starship heat shield tech is a \"dead end\" for rapid reuse",
@@ -441,10 +446,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/heat-shield-streaks-1152x648.png",
-      "popularity_score": 258.0549713888889
+      "popularity_score": 254.76119222222223
     },
     {
-      "id": "cluster_106",
+      "id": "cluster_117",
       "coverage": 1,
       "updated_at": "Mon, 27 Jul 2026 10:50:37 +0000",
       "title": "Artist sues AI meme generator for selling deeply personal comic as ad template",
@@ -468,31 +473,7 @@
       "popularity_score": 148
     },
     {
-      "id": "cluster_83",
-      "coverage": 1,
-      "updated_at": "Mon, 27 Jul 2026 15:02:45 +0000",
-      "title": "Framework Laptop 13 Pro review: Much better battery, much worse price",
-      "neutral_headline": "Framework Laptop 13 Pro review: Much better battery, much worse price",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/",
-          "published_at": "Mon, 27 Jul 2026 15:02:45 +0000",
-          "title": "Framework Laptop 13 Pro review: Much better battery, much worse price",
-          "standfirst": "Framework's latest modular laptop trades one set of problems for another.",
-          "content": "I've liked the Framework Laptop 13 since the first time I used it, partly because I just think the idea of a repairable and upgradeable laptop is cool and partly because it's not Yet Another Ultraportable Trying To Be A MacBook Air Clone. But the design has always had real shortcomings—the most noticeable and serious being its mediocre battery life. Enter the Framework Laptop 13 Pro. While all previous Laptop 13 refreshes have tinkered around the edges with the original design (a tweaked lid design here, new hinges or new speakers there), the Laptop 13 Pro is as close as we've gotten to a second-generation revision for the original design. This means that it breaks backward compatibility for some (but not all) Laptop 13 components, most notably the bottom case, the keyboard and trackpad, and the original 55 WHr and 61 WHr battery designs. But by allowing itself to make larger changes to the design, Framework has made major strides in battery life and general fit and finish.Read full article Comments",
-          "feed_position": 11,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/IMG_8936-1-1152x648-1785150222.jpeg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/IMG_8936-1-1152x648-1785150222.jpeg",
-      "popularity_score": 145.52302694444444
-    },
-    {
-      "id": "cluster_122",
+      "id": "cluster_130",
       "coverage": 1,
       "updated_at": "Sun, 26 Jul 2026 19:48:43 +0000",
       "title": "First teaser for Apple TV's Neuromancer debuts at SDCC",
@@ -516,7 +497,31 @@
       "popularity_score": 145
     },
     {
-      "id": "cluster_73",
+      "id": "cluster_99",
+      "coverage": 1,
+      "updated_at": "Mon, 27 Jul 2026 15:02:45 +0000",
+      "title": "Framework Laptop 13 Pro review: Much better battery, much worse price",
+      "neutral_headline": "Framework Laptop 13 Pro review: Much better battery, much worse price",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/",
+          "published_at": "Mon, 27 Jul 2026 15:02:45 +0000",
+          "title": "Framework Laptop 13 Pro review: Much better battery, much worse price",
+          "standfirst": "Framework's latest modular laptop trades one set of problems for another.",
+          "content": "I've liked the Framework Laptop 13 since the first time I used it, partly because I just think the idea of a repairable and upgradeable laptop is cool and partly because it's not Yet Another Ultraportable Trying To Be A MacBook Air Clone. But the design has always had real shortcomings—the most noticeable and serious being its mediocre battery life. Enter the Framework Laptop 13 Pro. While all previous Laptop 13 refreshes have tinkered around the edges with the original design (a tweaked lid design here, new hinges or new speakers there), the Laptop 13 Pro is as close as we've gotten to a second-generation revision for the original design. This means that it breaks backward compatibility for some (but not all) Laptop 13 components, most notably the bottom case, the keyboard and trackpad, and the original 55 WHr and 61 WHr battery designs. But by allowing itself to make larger changes to the design, Framework has made major strides in battery life and general fit and finish.Read full article Comments",
+          "feed_position": 11,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/IMG_8936-1-1152x648-1785150222.jpeg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/IMG_8936-1-1152x648-1785150222.jpeg",
+      "popularity_score": 144
+    },
+    {
+      "id": "cluster_90",
       "coverage": 1,
       "updated_at": "Mon, 27 Jul 2026 15:58:34 +0000",
       "title": "Activist charged with felony after giving border agent \"duress code\" that wiped his phone",
@@ -537,10 +542,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Google-Pixel-10-18-1152x648.jpg",
-      "popularity_score": 135.4533047222222
+      "popularity_score": 133
     },
     {
-      "id": "cluster_92",
+      "id": "cluster_105",
       "coverage": 1,
       "updated_at": "Mon, 27 Jul 2026 14:01:56 +0000",
       "title": "What public health professionals can learn from anti-vaccine storytelling",
@@ -561,7 +566,7 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/vaccinator-1000x648.jpg",
-      "popularity_score": 133.50941583333332
+      "popularity_score": 133
     }
   ]
 }
