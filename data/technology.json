@@ -1,16 +1,25 @@
 {
-  "updated_at": "2026-07-29T09:32:54.505Z",
+  "updated_at": "2026-07-29T12:56:10.507Z",
   "clusters": [
     {
-      "id": "cluster_4",
+      "id": "cluster_0",
       "coverage": 3,
-      "updated_at": "Wed, 29 Jul 2026 08:40:56 +0000",
-      "title": "OpenAI says the rogue agent that hacked Hugging Face also breached other services",
-      "neutral_headline": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
+      "updated_at": "Wed, 29 Jul 2026 12:38:38 GMT",
+      "title": "Rogue OpenAI agent that hacked startup tried to attack other firms",
+      "neutral_headline": "Rogue OpenAI agent that hacked startup tried to attack other firms",
       "bullet_summary": [
-        "Reported by Engadget, TechMeme, Wired Tech"
+        "Reported by Guardian Tech, Engadget, Wired Tech"
       ],
       "items": [
+        {
+          "source": "Guardian Tech",
+          "url": "https://www.theguardian.com/technology/2026/jul/29/rogue-openai-agent-that-hacked-startup-tried-to-attack-other-firms",
+          "published_at": "Wed, 29 Jul 2026 12:38:38 GMT",
+          "title": "Rogue OpenAI agent that hacked startup tried to attack other firms",
+          "standfirst": "ChatGPT developer says activity by autonomous tool was not at severity or scale of what occurred at Hugging FaceOpenAI has revealed that a cyber-attack carried out by a rogue AI agent had more than one victim.The ChatGPT developer said the agent – an autonomous tool that can carry out sequences of commands without human help – had located and used four logins to access four other, unnamed “publicly-available services” in addition to the US startup Hugging Face. Continue reading...",
+          "content": "ChatGPT developer says activity by autonomous tool was not at severity or scale of what occurred at Hugging FaceOpenAI has revealed that a cyber-attack carried out by a rogue AI agent had more than one victim.The ChatGPT developer said the agent – an autonomous tool that can carry out sequences of commands without human help – had located and used four logins to access four other, unnamed “publicly-available services” in addition to the US startup Hugging Face. Continue reading...",
+          "feed_position": 0
+        },
         {
           "source": "Engadget",
           "url": "https://www.engadget.com/2225812/openai-rogue-agent-hacked-hugging-face-breached-other-services/",
@@ -18,18 +27,8 @@
           "title": "OpenAI says the rogue agent that hacked Hugging Face also breached other services",
           "standfirst": "OpenAI's investigation starts shedding light on the activities of its rogue agent that hacked Hugging Face.",
           "content": "OpenAI's investigation starts shedding light on the activities of its rogue agent that hacked Hugging Face.",
-          "feed_position": 0,
+          "feed_position": 2,
           "image_url": "https://www.engadget.com/img/gallery/openai-says-the-rogue-agent-that-hacked-hugging-face-also-breached-other-services/l-intro-1785313177.jpg"
-        },
-        {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/260728/p51#a260728p51",
-          "published_at": "Tue, 28 Jul 2026 21:10:02 -0400",
-          "title": "OpenAI says the rogue AI that breached Hugging Face used exposed credentials from \"four accounts\" tied to four \"publicly available\" third-party services (Wired)",
-          "standfirst": "Wired: OpenAI says the rogue AI that breached Hugging Face used exposed credentials from &ldquo;four accounts&rdquo; tied to four &ldquo;publicly available&rdquo; third-party services &mdash; In a new disclosure, OpenAI says its agent used exposed logins to gain access to at least four &hellip;",
-          "content": "Wired: OpenAI says the rogue AI that breached Hugging Face used exposed credentials from &ldquo;four accounts&rdquo; tied to four &ldquo;publicly available&rdquo; third-party services &mdash; In a new disclosure, OpenAI says its agent used exposed logins to gain access to at least four &hellip;",
-          "feed_position": 10,
-          "image_url": "http://www.techmeme.com/260728/i51.jpg"
         },
         {
           "source": "Wired Tech",
@@ -38,15 +37,15 @@
           "title": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
           "standfirst": "In a new disclosure, OpenAI says its agent used exposed logins to gain access to at least four “publicly available services” in its unhinged quest to solve a test.",
           "content": "In a new disclosure, OpenAI says its agent used exposed logins to gain access to at least four “publicly available services” in its unhinged quest to solve a test.",
-          "feed_position": 9,
+          "feed_position": 20,
           "image_url": "https://media.wired.com/photos/6a6929c87648cc825532f98e/master/pass/Runaway-OpenAI-Model-Even-Worse-Than-It-Seemed-Business-1393231668.jpg"
         }
       ],
       "featured_image": "https://www.engadget.com/img/gallery/openai-says-the-rogue-agent-that-hacked-hugging-face-also-breached-other-services/l-intro-1785313177.jpg",
-      "popularity_score": 3019.133748611111
+      "popularity_score": 3019.7076369444444
     },
     {
-      "id": "cluster_43",
+      "id": "cluster_64",
       "coverage": 3,
       "updated_at": "2026-07-28T17:11:11-04:00",
       "title": "eBay&#8217;s bizarre cyberstalking saga ends with a $56 million settlement",
@@ -63,7 +62,7 @@
           "title": "eBay&#8217;s bizarre cyberstalking saga ends with a $56 million settlement",
           "standfirst": "eBay and three former executives will pay $55.7 million as part of a settlement with a Massachusetts couple targeted with a bizarre harassment and cyberstalking campaign in 2019, as reported earlier by CNBC. The settlement will resolve a lengthy legal saga that revealed how eBay's former executives sent live insects, a bloody pig mask, a [&#8230;]",
           "content": "eBay and three former executives will pay $55.7 million as part of a settlement with a Massachusetts couple targeted with a bizarre harassment and cyberstalking campaign in 2019, as reported earlier by CNBC. The settlement will resolve a lengthy legal saga that revealed how eBay's former executives sent live insects, a bloody pig mask, a funeral wreath, and other strange items to David and Ina Steiner over their newsletter's coverage of eBay. The Steiners, who operate the EcommerceBytes newsletter, sued eBay and its former executives - including ex-CEO Devin Wenig - in 2021. The lawsuit accused the company and its executives of launching a … Read the full story at The Verge.",
-          "feed_position": 3
+          "feed_position": 9
         },
         {
           "source": "Ars Technica",
@@ -72,7 +71,7 @@
           "title": "eBay pays $46M to journalists it targeted in bizarre harassment campaign",
           "standfirst": "eBay sent bloody pig mask and other macabre deliveries to journalists' home.",
           "content": "eBay and three former executives agreed to pay nearly $56 million in a settlement over a macabre campaign of cyberstalking and harassment that targeted two journalists in 2019. As we've previously written, the case involved deliveries of live cockroaches, a funeral wreath, a book about surviving the loss of a spouse, and a bloody pig mask to the home of a couple who run a news website. There were also harassing messages sent via email and Twitter, and an attempt to install a GPS tracking device on the victims' car. Criminal charges resulted in guilty pleas and prison terms for former eBay employees. The victims were Ina and David Steiner of Natick, Massachusetts, who run the news website EcommerceBytes. \"David and I officially settled the lawsuit we filed in 2021 against eBay and its former executives over the stalking and harassment campaign we endured in 2019 designed to stop our reporting,\" Ina Steiner wrote on EcommerceBytes yesterday. \"The landmark civil rights settlement includes $55.7 million in compensation and charitable commitments.\"Read full article Comments",
-          "feed_position": 4,
+          "feed_position": 6,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2020/06/ebay-pig-mask-1152x648-1785271314.jpeg"
         },
         {
@@ -82,14 +81,113 @@
           "title": "Ebay and ex-executives to pay $55.7m to couple sent cockroaches in harassment campaign",
           "standfirst": "Bloggers David and Ina Steiner were stalked by eBay executives over their critical coverage of the companyEbay and three former top executives have agreed to pay $55.7m to resolve a lawsuit by a Massachusetts couple who fell victim ⁠to a bizarre stalking and ⁠harassment campaign carried out ​by several of its employees in retaliation for their coverage of the e-commerce company in a newsletter they publish.David and Ina Steiner announced the settlement late on Monday, bringing an end to a ⁠case they filed in 2021 in Boston federal court after several former eBay employees were prosecuted for targeting them in a cyberstalking campaign that involved sending the couple cockroaches, fly larvae and a bloody Halloween pig mask. Continue reading...",
           "content": "Bloggers David and Ina Steiner were stalked by eBay executives over their critical coverage of the companyEbay and three former top executives have agreed to pay $55.7m to resolve a lawsuit by a Massachusetts couple who fell victim ⁠to a bizarre stalking and ⁠harassment campaign carried out ​by several of its employees in retaliation for their coverage of the e-commerce company in a newsletter they publish.David and Ina Steiner announced the settlement late on Monday, bringing an end to a ⁠case they filed in 2021 in Boston federal court after several former eBay employees were prosecuted for targeting them in a cyberstalking campaign that involved sending the couple cockroaches, fly larvae and a bloody Halloween pig mask. Continue reading...",
-          "feed_position": 3
+          "feed_position": 4
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2020/06/ebay-pig-mask-1152x648-1785271314.jpeg",
-      "popularity_score": 3007.6379152777777
+      "popularity_score": 3004.2501369444444
     },
     {
-      "id": "cluster_31",
+      "id": "cluster_1",
+      "coverage": 2,
+      "updated_at": "Wed, 29 Jul 2026 08:35:01 -0400",
+      "title": "Samsung Galaxy Z Fold 8 review: comfortable when shut, 4:3 inner display is great, and impressive battery life, but no telephoto or IP68 and some app errors (Dominic Preston/The Verge)",
+      "neutral_headline": "Samsung’s Galaxy Z Fold 8 feels like the future",
+      "bullet_summary": [
+        "Reported by TechMeme, The Verge"
+      ],
+      "items": [
+        {
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/260729/p16#a260729p16",
+          "published_at": "Wed, 29 Jul 2026 08:35:01 -0400",
+          "title": "Samsung Galaxy Z Fold 8 review: comfortable when shut, 4:3 inner display is great, and impressive battery life, but no telephoto or IP68 and some app errors (Dominic Preston/The Verge)",
+          "standfirst": "Dominic Preston / The Verge: Samsung Galaxy Z Fold 8 review: comfortable when shut, 4:3 inner display is great, and impressive battery life, but no telephoto or IP68 and some app errors &mdash; Is this the future of foldable phones? &mdash; Samsung clearly thinks so. The company has given its new wide foldable the &ldquo;Z Fold 8&rdquo; &hellip;",
+          "content": "Dominic Preston / The Verge: Samsung Galaxy Z Fold 8 review: comfortable when shut, 4:3 inner display is great, and impressive battery life, but no telephoto or IP68 and some app errors &mdash; Is this the future of foldable phones? &mdash; Samsung clearly thinks so. The company has given its new wide foldable the &ldquo;Z Fold 8&rdquo; &hellip;",
+          "feed_position": 0,
+          "image_url": "http://www.techmeme.com/260729/i16.jpg"
+        },
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/972387/samsung-galaxy-z-fold-8-review",
+          "published_at": "2026-07-29T08:22:03-04:00",
+          "title": "Samsung’s Galaxy Z Fold 8 feels like the future",
+          "standfirst": "Is this the future of foldable phones? Samsung clearly thinks so. The company has given its new wide foldable the \"Z Fold 8\" name, positioning the phone not as a widescreen oddity, but as the new normal, the default design for foldables going forward. Rumor has it that Apple feels the same way, with a [&#8230;]",
+          "content": "A short king. Is this the future of foldable phones? Samsung clearly thinks so. The company has given its new wide foldable the \"Z Fold 8\" name, positioning the phone not as a widescreen oddity, but as the new normal, the default design for foldables going forward. Rumor has it that Apple feels the same way, with a similar squat shape widely predicted for the first foldable iPhone, expected to launch in September. Whether you want to give the credit to Apple, Samsung, or even Huawei (which got here first with the Pura X Max), I think they might be onto something. After a week, the Z Fold 8 feels comfortable, natural, and normal, despite being the short … Read the full story at The Verge.",
+          "feed_position": 1
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/260729/i16.jpg",
+      "popularity_score": 2019.6473591666668
+    },
+    {
+      "id": "cluster_14",
+      "coverage": 2,
+      "updated_at": "Wed, 29 Jul 2026 07:15:02 -0400",
+      "title": "New York-based AI detection startup Pangram raised $9M led by Menlo, and releases Pangram 4.0 and its first AI image detection model, claiming 99.5% accuracy (Niko Gallogly/New York Times)",
+      "neutral_headline": "As AI content floods the internet, Pangram raises $9M to detect it",
+      "bullet_summary": [
+        "Reported by TechMeme, TechCrunch"
+      ],
+      "items": [
+        {
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/260729/p14#a260729p14",
+          "published_at": "Wed, 29 Jul 2026 07:15:02 -0400",
+          "title": "New York-based AI detection startup Pangram raised $9M led by Menlo, and releases Pangram 4.0 and its first AI image detection model, claiming 99.5% accuracy (Niko Gallogly/New York Times)",
+          "standfirst": "Niko Gallogly / New York Times: New York-based AI detection startup Pangram raised $9M led by Menlo, and releases Pangram 4.0 and its first AI image detection model, claiming 99.5% accuracy &mdash; Pangram, an A.I. detection start-up, promises near-perfect accuracy in sniffing out writing and imagery that wasn't made by humans.",
+          "content": "Niko Gallogly / New York Times: New York-based AI detection startup Pangram raised $9M led by Menlo, and releases Pangram 4.0 and its first AI image detection model, claiming 99.5% accuracy &mdash; Pangram, an A.I. detection start-up, promises near-perfect accuracy in sniffing out writing and imagery that wasn't made by humans.",
+          "feed_position": 2,
+          "image_url": "http://www.techmeme.com/260729/i14.jpg"
+        },
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+          "published_at": "Wed, 29 Jul 2026 11:00:00 +0000",
+          "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+          "standfirst": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
+          "content": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
+          "feed_position": 1
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/260729/i14.jpg",
+      "popularity_score": 2018.3143036111112
+    },
+    {
+      "id": "cluster_25",
+      "coverage": 2,
+      "updated_at": "Wed, 29 Jul 2026 06:20:00 -0400",
+      "title": "Lake Mary, Florida-based Spur Intelligence, which helps distinguish human and bot traffic to find fake users and threats, raised $200M led by Insight Partners (Julie Bort/TechCrunch)",
+      "neutral_headline": "Bot-detection startup Spur nabs $200M from Insight",
+      "bullet_summary": [
+        "Reported by TechMeme, TechCrunch"
+      ],
+      "items": [
+        {
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/260729/p11#a260729p11",
+          "published_at": "Wed, 29 Jul 2026 06:20:00 -0400",
+          "title": "Lake Mary, Florida-based Spur Intelligence, which helps distinguish human and bot traffic to find fake users and threats, raised $200M led by Insight Partners (Julie Bort/TechCrunch)",
+          "standfirst": "Julie Bort / TechCrunch: Lake Mary, Florida-based Spur Intelligence, which helps distinguish human and bot traffic to find fake users and threats, raised $200M led by Insight Partners &mdash; Spur Intelligence, a cybersecurity startup based in Lake Mary, Florida, has raised a $200 million round led by Insight Partners.",
+          "content": "Julie Bort / TechCrunch: Lake Mary, Florida-based Spur Intelligence, which helps distinguish human and bot traffic to find fake users and threats, raised $200M led by Insight Partners &mdash; Spur Intelligence, a cybersecurity startup based in Lake Mary, Florida, has raised a $200 million round led by Insight Partners.",
+          "feed_position": 5,
+          "image_url": "http://www.techmeme.com/260729/i11.jpg"
+        },
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+          "published_at": "Tue, 28 Jul 2026 21:29:34 +0000",
+          "title": "Bot-detection startup Spur nabs $200M from Insight",
+          "standfirst": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+          "content": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+          "feed_position": 3
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/260729/i11.jpg",
+      "popularity_score": 2017.3970813888889
+    },
+    {
+      "id": "cluster_54",
       "coverage": 2,
       "updated_at": "Tue, 28 Jul 2026 23:24:15 GMT",
       "title": "US bans humanoid robots from China, citing ‘unacceptable risks’",
@@ -106,7 +204,7 @@
           "title": "US bans humanoid robots from China, citing ‘unacceptable risks’",
           "standfirst": "Move comes as the Trump administration has increasingly sought to keep Chinese technology out of the USThe Federal Communications Commission announced a ban on humanoid robots from China on Tuesday, saying that the technology poses “unacceptable risks” to the country’s national security. The move comes as the Trump administration has increasingly sought to keep Chinese technology out of the US.The FCC defines the banned robots as “advanced robotic devices”, which include humanoids and animal-like quadrupeds. Continue reading...",
           "content": "Move comes as the Trump administration has increasingly sought to keep Chinese technology out of the USThe Federal Communications Commission announced a ban on humanoid robots from China on Tuesday, saying that the technology poses “unacceptable risks” to the country’s national security. The move comes as the Trump administration has increasingly sought to keep Chinese technology out of the US.The FCC defines the banned robots as “advanced robotic devices”, which include humanoids and animal-like quadrupeds. Continue reading...",
-          "feed_position": 2
+          "feed_position": 3
         },
         {
           "source": "The Verge",
@@ -115,13 +213,61 @@
           "title": "The US is banning foreign robots",
           "standfirst": "The US government is targeting China with a new import ban on \"advanced robotic devices\" and power inverters made in foreign countries, as reported earlier by Reuters. In an announcement on Tuesday, the Federal Communications Commission says the ban will include \"mobile\" robots, such as humanoid and quadruped models - but it is not limited [&#8230;]",
           "content": "The Chinese robot maker, Unitree, will likely be impacted by the ban. | Bloomberg via Getty Images The US government is targeting China with a new import ban on \"advanced robotic devices\" and power inverters made in foreign countries, as reported earlier by Reuters. In an announcement on Tuesday, the Federal Communications Commission says the ban will include \"mobile\" robots, such as humanoid and quadruped models - but it is not limited to robots that walk around. Though the FCC says the move isn't targeted at a specific country, it will have a major impact on China as the country ramps up efforts to produce humanoid robots, some of which we've seen in viral videos stumbling to Michael Jackson, partaking in MMA fights, and even appearing … Read the full story at The Verge.",
-          "feed_position": 0
+          "feed_position": 6
         }
       ],
-      "popularity_score": 2009.8556930555555
+      "popularity_score": 2006.4679147222223
     },
     {
-      "id": "cluster_36",
+      "id": "cluster_15",
+      "coverage": 1,
+      "updated_at": "Wed, 29 Jul 2026 11:00:39 +0000",
+      "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI misinformation",
+      "neutral_headline": "Google's SynthID watermark is hard to break, but it doesn't solve AI misinformation",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
+          "published_at": "Wed, 29 Jul 2026 11:00:39 +0000",
+          "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI misinformation",
+          "standfirst": "Deciding what's real on the Internet won't be easy in the future.",
+          "content": "The scale of AI-generated media can be hard to grasp. Starling Lab, a research collaboration from Stanford University and the University of Southern California, estimates that it took until 1975—149 years after the invention of the camera—for humanity to create 1.5 billion images. It took generative AI just 18 months to do the same. And AI didn't stop there. This spring, Google announced at I/O that its tools had been used to create more than 100 billion AI images and videos in just a couple of years, and Google is far from the only source of AI content. The company coupled this staggering statistic with a slew of partnerships to expand the use of its SynthID watermarking technology, which can be used to label AI-generated content and potentially help people identify what's real.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/synthid-fingerprint-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/synthid-fingerprint-1152x648.jpg",
+      "popularity_score": 378.0745813888889
+    },
+    {
+      "id": "cluster_27",
+      "coverage": 1,
+      "updated_at": "Wed, 29 Jul 2026 10:00:51 +0000",
+      "title": "Elon Musk finally launches X Money. What could possibly go wrong?",
+      "neutral_headline": "Elon Musk finally launches X Money. What could possibly go wrong",
+      "bullet_summary": [
+        "Reported by Ars Technica Main"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica Main",
+          "url": "https://arstechnica.com/tech-policy/2026/07/elon-musk-finally-launches-x-money-what-could-possibly-go-wrong/",
+          "published_at": "Wed, 29 Jul 2026 10:00:51 +0000",
+          "title": "Elon Musk finally launches X Money. What could possibly go wrong?",
+          "standfirst": "Expect bumps with X Money rollout as major US financial markets are excluded.",
+          "content": "Imagine you’re an X user who's actually excited to make the app your primary payments app after X Money finally launched Monday, after years of delays, for US Premium and Premium+ subscribers. You transfer funds and set things up so that your paychecks automatically deposit to X, where you expect to receive cashback rewards and a high annual yield of 6 percent on your funds—a rate that’s genuinely competitive with some banks. But once you’ve put your money in the app, you realize that X Money has a lot of limitations. Most glaringly, you can currently only send peer-to-peer payments to other X users who have access to X Money and are 18 and older.Read full article Comments",
+          "feed_position": 1,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2239391568-1024x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2239391568-1024x648.jpg",
+      "popularity_score": 340.0779147222222
+    },
+    {
+      "id": "cluster_58",
       "coverage": 1,
       "updated_at": "Tue, 28 Jul 2026 22:09:00 +0000",
       "title": "Reaction wheel failures leave Swift rescue mission spinning in orbit",
@@ -137,15 +283,15 @@
           "title": "Reaction wheel failures leave Swift rescue mission spinning in orbit",
           "standfirst": "\"Preliminary investigation shows that two of Link's three reaction wheels currently are not operable.\"",
           "content": "Nearly a month since its launch, a first-of-its-kind commercial satellite built to save NASA's Swift gamma-ray telescope from a fiery reentry is having problems of its own, the agency announced Tuesday. The Link satellite developed by Katalyst Space Technologies \"experienced issues with attitude control\" over the weekend, NASA said, causing the spacecraft to spin and resulting in sporadic communications. \"Preliminary investigation shows that two of Link's three reaction wheels currently are not operable, and there is some loss of functionality in its cold gas thruster system,\" NASA said.Read full article Comments",
-          "feed_position": 1,
+          "feed_position": 3,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/link_arrays_katalyst-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/link_arrays_katalyst-1152x648.jpg",
-      "popularity_score": 346.6015263888889
+      "popularity_score": 323.2137480555556
     },
     {
-      "id": "cluster_24",
+      "id": "cluster_50",
       "coverage": 1,
       "updated_at": "Wed, 29 Jul 2026 01:00:36 +0000",
       "title": "Audi has a new flagship designed with the US in mind: The 2027 Q9",
@@ -161,15 +307,15 @@
           "title": "Audi has a new flagship designed with the US in mind: The 2027 Q9",
           "standfirst": "The new full-size flagship SUV starts at $87,700 when it goes on sale in Q4.",
           "content": "Audi provided flights from Washington, DC, to Munich, Germany, and accommodation so Ars could see the Q9 and Q7. And we also drove the new RS5. Ars does not accept paid editorial content. MUNICH—It has taken Audi a little longer than its rivals, but with the debut of the 2027 Q9 this evening, the company has joined them in offering a range-topping full-size SUV. No, not the Q7, although a third-generation version of that vehicle broke cover in June. The car was designed first and foremost for Europe, with a third row of seats that's fine for small children or occasional use. But in America, there's a segment one size larger, pioneered by the Cadillac Escalade, and it's here we find the new Audi. With no concrete plans to replace the A8 sedan yet, the Q9 SUV becomes the brand's new flagship. At 209 inches (5,309 mm) long, 79.2 inches (2,012 mm) wide, and 71.4 inches (1,814 mm) tall, it's definitely not diminutive, although parked next to the aforementioned Caddy, you'll find the American SUV exceeds this one by a few inches here and there. The 123.5-inch wheelbase (3,137 mm) is 5.6 inches (142 mm) longer than the Q7's, much of which translates to more room for the third row. The silhouette is like a station wagon, but scaled up by 1.3x. Credit: Audi OLED rear lights are an option. Credit: Audi The Q9 looked big in the studio, but it was less imposing than a Mercedes-Benz GLS or BMW X7. The body panels feature more curves and more subtle creases than the Audis of a few years ago. And there are definite station wagon vibes, but that’s mostly because its big wheels make it look smaller and closer rather than bigger and farther away (aka, the Father Dougal principle.)Read full article Comments",
-          "feed_position": 0,
+          "feed_position": 2,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/A263825_large-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/A263825_large-1152x648.jpg",
-      "popularity_score": 344.4615263888889
+      "popularity_score": 321.07374805555554
     },
     {
-      "id": "cluster_39",
+      "id": "cluster_61",
       "coverage": 1,
       "updated_at": "Tue, 28 Jul 2026 21:36:39 +0000",
       "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
@@ -185,15 +331,15 @@
           "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
           "standfirst": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.",
           "content": "Last week’s unprecedented security event in which two OpenAI security hacking models trespassed into the network of fellow AI company Hugging Face was enabled by exploiting one or more zero-day vulnerabilities in Artifactory, JFrog, the product’s developer, said Monday. In an incident mimicking a dystopian sci-fi novel, two OpenAI models broke out of the restricted environment meant to keep them from accessing the Internet during an internal test, the AI company revealed last week. The models went on to breach Hugging Face’s network and steal confidential information and credentials. OpenAI said its agent achieved the feat by exploiting a previously unknown vulnerability. The company called the event “unprecedented,” and outsiders largely agreed. Not the triumph made out to be OpenAI said the models exploited multiple attack vectors, including stolen credentials and zero-days, to gain remote code execution capabilities, but until now, the vulnerable software was unknown. JFrog’s Monday disclosure said the product was a self-managed instance Artifactory, a repository management system that secures and streamlines customers’ software development operations. JFrog says Artifactory is used by more than 7,500 developer Teams, 80 percent of which work for Fortune 100 companies.Read full article Comments",
-          "feed_position": 3,
+          "feed_position": 5,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
-      "popularity_score": 336.0623597222222
+      "popularity_score": 312.6745813888889
     },
     {
-      "id": "cluster_37",
+      "id": "cluster_59",
       "coverage": 1,
       "updated_at": "Tue, 28 Jul 2026 21:49:52 +0000",
       "title": "College lab class ends with 32 people on antibiotics for deadly germ exposure",
@@ -209,15 +355,15 @@
           "title": "College lab class ends with 32 people on antibiotics for deadly germ exposure",
           "standfirst": "Lab students were supposed to ID a mild germ. They all identified a deadly pathogen.",
           "content": "A bizarre series of events in a college microbiology lab class left 33 people—including students, professors, and lab workers—believing they were exposed to a deadly germ. Of those, 32 began taking an antibiotic regimen as a precaution to prevent a life-threatening infection. Two also underwent lumbar punctures—aka spinal taps—after developing mild symptoms. But none of them had actually been exposed to a dangerous pathogen, a fortunate twist in the strange incident, which otherwise stands to be a cautionary tale for the ages. The incident was published in a recent issue of Morbidity and Mortality Weekly Report. It began with a simple laboratory exercise. The microbiology lab students were supposed to be given mystery bacteria by their instructors and then identify the microbe based on a series of biochemical tests and morphological characterization.Read full article Comments",
-          "feed_position": 2,
+          "feed_position": 4,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2163393367-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2163393367-1152x648.jpg",
-      "popularity_score": 321.2826375
+      "popularity_score": 297.89485916666666
     },
     {
-      "id": "cluster_48",
+      "id": "cluster_69",
       "coverage": 1,
       "updated_at": "Tue, 28 Jul 2026 20:20:20 +0000",
       "title": "Despite AI hype, Google's data shows workers aren't automating themselves away",
@@ -233,15 +379,15 @@
           "title": "Despite AI hype, Google's data shows workers aren't automating themselves away",
           "standfirst": "Analysis of 15 million real AI interactions finds most tasks at most jobs are unaffected.",
           "content": "Anyone following the AI space is by now familiar with lofty claims that AI models will soon be better than humans at everything and capable of replacing vast swaths of the human workforce. In a new study from Google Research, though, a team that looked at how workers are actually using Gemini \"[did] not find evidence... to support the claims that AI is about to cause massive automation and displacement of white-collar work...\" The paper, released last week, introduces the \"AI & Economy ATLAS,\" an Activity, Task, Landscape, and Adoption Study of 15 million anonymized AI interactions across the Gemini App, Google's AI Mode, and the Gemini API. Their initial review of the data finds that, while AI sees some significant use across a wide variety of occupations, that use \"remains shallow and overwhelmingly collaborative in nature, with end-to-end task automation limited in scope.\" \"AI appears useful for a subset of tasks...\" To come to these conclusions, Google researchers used an automated classifier to sort work-based AI interactions using the Bureau of Labor Statistics' Standard Occupational Classifications and O*NET's more detailed database of specific work interactions. While this method required some probabilistic classification of \"inherently uncertain\" interactions, verification by human reviewers found it to be a reliable gauge of how Gemini prompts were being used for work.Read full article Comments",
-          "feed_position": 7,
+          "feed_position": 9,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1711353151-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1711353151-1152x648.jpg",
-      "popularity_score": 296.79041527777775
+      "popularity_score": 273.40263694444445
     },
     {
-      "id": "cluster_44",
+      "id": "cluster_65",
       "coverage": 1,
       "updated_at": "Tue, 28 Jul 2026 20:51:45 +0000",
       "title": "Study: Dinosaurs were charbroiled after Chicxulub impact",
@@ -257,15 +403,15 @@
           "title": "Study: Dinosaurs were charbroiled after Chicxulub impact",
           "standfirst": "“We're in the realm where we might be essentially killing off everything within that first hour or two.\"",
           "content": "Some 66 million years ago, an asteroid impact wiped out three-quarters of all plant and animal species on Earth, most notably taking down the dinosaurs. But exactly how that impact caused those extinctions has been the subject of fierce debate. According to a new paper published in the Journal of Geophysical Research: Biogeosciences, the impact would have produced an immense cloud of dust that superheated the upper atmosphere, charbroiling living organisms unable to take shelter and igniting widespread wildfires. As previously reported, the most widely accepted explanation for what triggered that catastrophic mass extinction is known as the “Alvarez hypothesis,” after the late physicist Luis Alvarez and his geologist son, Walter. In 1980, they proposed that the extinction event may have been caused by a massive asteroid or comet hitting the Earth. They based this conclusion on their analysis of sedimentary layers at the Cretaceous-Paleogene boundary(the K-Pg boundary, formerly known as the K-T boundary) found all over the world, which included unusually high concentrations of iridium—a metal more commonly found in asteroids than on Earth. (That same year, Dutch geophysicist Jan Smit independently arrived at a similar conclusion.) Since then, scientists have identified a likely impact site: a large crater in Chicxulub, Mexico, in the Yucatan Peninsula, first discovered by geophysicists in the late 1970s. The impactor that created it was sufficiently large (between 11 and 81 kilometers, or 7 to 50 miles) to melt, shock, and eject granite from deep inside the Earth, probably causing a megatsunami and ejecting vaporized rock and sulfates into the atmosphere. It has been estimated that the impact would have released energy over a billion times higher than the atomic bombs dropped on Hiroshima and Nagasaki in 1945.Read full article Comments",
-          "feed_position": 5,
+          "feed_position": 7,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/asteroid1-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/asteroid1-1152x648.jpg",
-      "popularity_score": 290.31402638888886
+      "popularity_score": 266.92624805555556
     },
     {
-      "id": "cluster_46",
+      "id": "cluster_67",
       "coverage": 1,
       "updated_at": "Tue, 28 Jul 2026 20:43:19 +0000",
       "title": "Philly suburb: Sure, build that data center—but first meet our 43 demands",
@@ -281,63 +427,15 @@
           "title": "Philly suburb: Sure, build that data center—but first meet our 43 demands",
           "standfirst": "The final condition will shock you! (It won’t. It’s taxes.)",
           "content": "From New York to Texas, state and local governments have heard the message: Their constituents are wary of data centers. Across the political spectrum, large numbers of Americans agree that these facilities should pay taxes, cover the bill for water and power upgrades, keep noise to a minimum, and employ locals at decent wages. In other words, data centers should legitimately benefit the communities whose land and power they use. Developers often express a willingness to do these things—until they see the specific list of requirements. A pitched battle in the Philadelphia suburbs provides a vivid illustration of this dynamic. Developer Brian O'Neill wants to build a 2 million-square-foot data center in a former steel plant. Under Pennsylvania law, Plymouth Township (in which the plant is located) cannot simply say \"no\" to any lawful land use, but it can enforce zoning rules and require project mitigations in the name of health and safety.Read full article Comments",
-          "feed_position": 6,
+          "feed_position": 8,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2285796281-1152x648-1785270408.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2285796281-1152x648-1785270408.jpg",
-      "popularity_score": 280.17347083333334
+      "popularity_score": 256.7856925
     },
     {
-      "id": "cluster_65",
-      "coverage": 1,
-      "updated_at": "Tue, 28 Jul 2026 18:43:36 +0000",
-      "title": "New airliner sets record flying 24 hrs nonstop from Australia to France",
-      "neutral_headline": "New airliner sets record flying 24 hrs nonstop from Australia to France",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/07/new-airliner-sets-record-flying-24-hrs-nonstop-from-australia-to-france/",
-          "published_at": "Tue, 28 Jul 2026 18:43:36 +0000",
-          "title": "New airliner sets record flying 24 hrs nonstop from Australia to France",
-          "standfirst": "Record flight shows viability of Qantas Airways’ Project Sunrise routes in 2027.",
-          "content": "A new Airbus passenger jet completed an ultra-long test flight between Australia and France lasting more than 24 hours—paving the way for the world’s longest nonstop commercial flights starting up next year. The Airbus A350-1000ULR was developed specifically for Qantas Airways’ planned nonstop flights between Sydney and either New York or London. The Australian airline has ordered a dozen of the new airliners for its Project Sunrise routes that aim to start offering tickets for sale in 2027. The aircraft had been doing initial test flights near the Airbus facilities in Toulouse, France, with a small team of test pilots and test engineers before conducting its first ultra long-haul test flight last week. After taking off from Toulouse on July 23, it flew for 19 hours and 13 minutes before landing in Melbourne, Australia, on July 24.Read full article Comments",
-          "feed_position": 8,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/A350-1000ULR-MSN707-Qantas-First-flight-landing_AI-PHO-0383-08-04-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/A350-1000ULR-MSN707-Qantas-First-flight-landing_AI-PHO-0383-08-04-1152x648.jpg",
-      "popularity_score": 273.17819305555554
-    },
-    {
-      "id": "cluster_68",
-      "coverage": 1,
-      "updated_at": "Tue, 28 Jul 2026 18:31:13 +0000",
-      "title": "Judge blocks first state law that would have banned prediction markets",
-      "neutral_headline": "Judge blocks first state law that would have banned prediction markets",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/07/judge-blocks-first-state-law-that-would-have-banned-prediction-markets/",
-          "published_at": "Tue, 28 Jul 2026 18:31:13 +0000",
-          "title": "Judge blocks first state law that would have banned prediction markets",
-          "standfirst": "Judge may allow Minnesota to ban some types of bets, but not all of them.",
-          "content": "Minnesota, the first US state to prohibit prediction markets, was prevented from enforcing the law by a federal court ruling just days before the ban was scheduled to take effect. But while Minnesota was stopped from enforcing a total ban, the state may ultimately be allowed to prohibit some types of prediction-market wagers. The Trump administration and the two largest prediction markets—Kalshi and Polymarket—sued Minnesota after the state enacted the law in May. The cases were consolidated, and a ruling issued yesterday imposed a preliminary injunction blocking the law that was scheduled to take effect on August 1. Minnesota lawmakers saw prediction markets as indistinguishable from gambling, but the US Commodity Futures Trading Commission (CFTC) argues it has exclusive authority to regulate the platforms under federal law. One of the primary legal questions is whether event contracts are \"swaps,\" which are regulated by the CFTC.Read full article Comments",
-          "feed_position": 9,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/polymarket-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/polymarket-1152x648.jpg",
-      "popularity_score": 247.97180416666666
-    },
-    {
-      "id": "cluster_125",
+      "id": "cluster_134",
       "coverage": 1,
       "updated_at": "Mon, 27 Jul 2026 21:56:14 +0000",
       "title": "Microsoft unveils AI security tools it says outperform competing platforms",
@@ -353,7 +451,7 @@
           "title": "Microsoft unveils AI security tools it says outperform competing platforms",
           "standfirst": "Microsoft says tools cost less than competing ones and outperform them, too.",
           "content": "Microsoft is introducing new AI tools designed to help customers continuously streamline and automate the process of identifying and reducing their exposure to security risks. The new tools come less than a week after OpenAI lost control of two of its security models when they infiltrated the servers of startup Hugging Face. The hack, Hugging Face added, involved “a swarm of tens of thousands of automated actions” that stole internal Hugging Face credentials. The OpenAI models achieved this feat by exploiting a zero-day flaw in Hugging Face’s data-processing pipeline to run malicious code that escalated the models’ access to the company’s high-value cloud and server clusters. Microsoft’s announcements on Monday made no reference to the event, which OpenAI said was “unprecedented.” The company also didn’t say what would prevent the new tools from similarly going rogue.Read full article Comments",
-          "feed_position": 12,
+          "feed_position": 14,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg"
         }
       ],
@@ -361,7 +459,31 @@
       "popularity_score": 170
     },
     {
-      "id": "cluster_132",
+      "id": "cluster_80",
+      "coverage": 1,
+      "updated_at": "Tue, 28 Jul 2026 18:43:36 +0000",
+      "title": "New airliner sets record flying 24 hrs nonstop from Australia to France",
+      "neutral_headline": "New airliner sets record flying 24 hrs nonstop from Australia to France",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/07/new-airliner-sets-record-flying-24-hrs-nonstop-from-australia-to-france/",
+          "published_at": "Tue, 28 Jul 2026 18:43:36 +0000",
+          "title": "New airliner sets record flying 24 hrs nonstop from Australia to France",
+          "standfirst": "Record flight shows viability of Qantas Airways’ Project Sunrise routes in 2027.",
+          "content": "A new Airbus passenger jet completed an ultra-long test flight between Australia and France lasting more than 24 hours—paving the way for the world’s longest nonstop commercial flights starting up next year. The Airbus A350-1000ULR was developed specifically for Qantas Airways’ planned nonstop flights between Sydney and either New York or London. The Australian airline has ordered a dozen of the new airliners for its Project Sunrise routes that aim to start offering tickets for sale in 2027. The aircraft had been doing initial test flights near the Airbus facilities in Toulouse, France, with a small team of test pilots and test engineers before conducting its first ultra long-haul test flight last week. After taking off from Toulouse on July 23, it flew for 19 hours and 13 minutes before landing in Melbourne, Australia, on July 24.Read full article Comments",
+          "feed_position": 10,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/A350-1000ULR-MSN707-Qantas-First-flight-landing_AI-PHO-0383-08-04-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/A350-1000ULR-MSN707-Qantas-First-flight-landing_AI-PHO-0383-08-04-1152x648.jpg",
+      "popularity_score": 149.79041472222224
+    },
+    {
+      "id": "cluster_139",
       "coverage": 1,
       "updated_at": "Mon, 27 Jul 2026 20:12:42 +0000",
       "title": "“Google and Reddit do not own the Internet,\" web scraper says after court win",
@@ -377,7 +499,7 @@
           "title": "“Google and Reddit do not own the Internet,\" web scraper says after court win",
           "standfirst": "Google's and Reddit's use of DMCA to fight web scraper is bizarre, expert says.",
           "content": "After a big court loss last week, Google has confirmed that it won’t give up its fight to block AI bots from scraping its search results. And Reddit is weirdly along for the ride. Curiously invoking the Digital Millennium Copyright Act (DMCA), Google sued SerpApi last December. The search giant accused the web scraper of circumventing its anti-scraping technology and then selling content scraped from Google search results through an unauthorized “Google Search API” software service. According to Google, the anti-scraping tech was in place to protect copyrighted content in search results. Allegedly, SerpApi’s circumvention threatened to disrupt Google’s relationships with rights holders, including some who license content to Google to appear in so-called “knowledge panels” that are displayed in some search results for well-known people or entities.Read full article Comments",
-          "feed_position": 17,
+          "feed_position": 19,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264310791-1152x648.jpg"
         }
       ],
@@ -386,30 +508,6 @@
     },
     {
       "id": "cluster_135",
-      "coverage": 1,
-      "updated_at": "Mon, 27 Jul 2026 18:48:41 +0000",
-      "title": "Verizon touts $1B dark fiber deal for Google data centers as first of many",
-      "neutral_headline": "Verizon touts $1B dark fiber deal for Google data centers as first of many",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
-          "published_at": "Mon, 27 Jul 2026 18:48:41 +0000",
-          "title": "Verizon touts $1B dark fiber deal for Google data centers as first of many",
-          "standfirst": "Telecom expects AI revenue from dark fiber deals and retrofitted data centers.",
-          "content": "Verizon is seeking to tap into Silicon Valley’s AI spending in a big way. The telecom giant revealed a deal worth more than $1 billion to link Google data centers using Verizon’s dark fiber routes—and it’s also tearing copper wiring out of central offices as it converts them into small data centers suitable for supporting AI inference workloads. The telecom company publicly disclosed the Google partnership and data center conversion efforts as part of a new “AI Connect” business initiative during an earnings conference call covering the second quarter of 2026. Verizon also expects to announce additional AI-related deals by the end of the year that would be “worth multiple billions of dollars in revenue over the next several years,” said Dan Schulman, CEO of Verizon Communications, during the earnings call. “Now it really is about, 'how do you connect data center to data center to assure that you can optimize to maximize the ever-exploding need for compute?'” Schulman said. “And while that data center connectivity demand is exploding, there's an equal amount of desire and demand to power inference models and applications that need ultra-low latency, like robotics or remote surgery, autonomous driving, and move that out into the edge, as opposed to these big, massive data centers.”Read full article Comments",
-          "feed_position": 19,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Verizon-Times-Square-Store-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Verizon-Times-Square-Store-1152x648.jpg",
-      "popularity_score": 145
-    },
-    {
-      "id": "cluster_126",
       "coverage": 1,
       "updated_at": "Mon, 27 Jul 2026 21:40:27 +0000",
       "title": "Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made routers",
@@ -425,7 +523,7 @@
           "title": "Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made routers",
           "standfirst": "Starlink has a Texas factory but also makes routers in Vietnam.",
           "content": "The Trump administration today exempted SpaceX's Starlink routers from the Federal Communications Commission ban on foreign-made routers. A public notice issued by the FCC said Starlink routers received approval from the Department of War (also known as the Department of Defense). SpaceX's exemption is good until February 1, 2028. The FCC kicked off an industry-wide scramble when it updated the Covered List to include all consumer-grade routers made at least partly outside the US, except those that are granted exemptions. The Covered List includes devices deemed to pose an unacceptable risk to national security. Given that routers are generally built outside the US or at least contain foreign-made components, all major vendors need exemptions.Read full article Comments",
-          "feed_position": 13,
+          "feed_position": 15,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/starlink-router-1152x648-1785186848.jpg"
         }
       ],
@@ -433,7 +531,7 @@
       "popularity_score": 141
     },
     {
-      "id": "cluster_100",
+      "id": "cluster_114",
       "coverage": 1,
       "updated_at": "Tue, 28 Jul 2026 13:32:23 +0000",
       "title": "As US measles cases rise, biotech firms start developing new treatments",
@@ -449,7 +547,7 @@
           "title": "As US measles cases rise, biotech firms start developing new treatments",
           "standfirst": "The US is making measles great again, so treatment options are needed for the most vulnerable.",
           "content": "Up until recently, measles vaccination has been so effective that there’s been little medical or financial incentive to develop treatments for the disease. But as measles cases hit a 35-year high and vaccination rates continue to decline in the US, a handful of biotech companies and academic groups have started working on measles treatments for those infected with the virus as well as vulnerable individuals needing short-term protection. It will likely be years, however, before these countermeasures are available, and it’s even more uncertain if those who refuse vaccines would take such treatments. Fueled by large outbreaks in South Carolina and Utah, the US had already surpassed last year’s 2,289 measles cases, and it’s only July. For comparison, there were just 285 cases in all of 2024.Read full article Comments",
-          "feed_position": 11,
+          "feed_position": 13,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2201696919-1152x648.jpg"
         }
       ],
@@ -457,7 +555,31 @@
       "popularity_score": 139
     },
     {
-      "id": "cluster_81",
+      "id": "cluster_83",
+      "coverage": 1,
+      "updated_at": "Tue, 28 Jul 2026 18:31:13 +0000",
+      "title": "Judge blocks first state law that would have banned prediction markets",
+      "neutral_headline": "Judge blocks first state law that would have banned prediction markets",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/07/judge-blocks-first-state-law-that-would-have-banned-prediction-markets/",
+          "published_at": "Tue, 28 Jul 2026 18:31:13 +0000",
+          "title": "Judge blocks first state law that would have banned prediction markets",
+          "standfirst": "Judge may allow Minnesota to ban some types of bets, but not all of them.",
+          "content": "Minnesota, the first US state to prohibit prediction markets, was prevented from enforcing the law by a federal court ruling just days before the ban was scheduled to take effect. But while Minnesota was stopped from enforcing a total ban, the state may ultimately be allowed to prohibit some types of prediction-market wagers. The Trump administration and the two largest prediction markets—Kalshi and Polymarket—sued Minnesota after the state enacted the law in May. The cases were consolidated, and a ruling issued yesterday imposed a preliminary injunction blocking the law that was scheduled to take effect on August 1. Minnesota lawmakers saw prediction markets as indistinguishable from gambling, but the US Commodity Futures Trading Commission (CFTC) argues it has exclusive authority to regulate the platforms under federal law. One of the primary legal questions is whether event contracts are \"swaps,\" which are regulated by the CFTC.Read full article Comments",
+          "feed_position": 11,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/polymarket-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/polymarket-1152x648.jpg",
+      "popularity_score": 134.58402583333333
+    },
+    {
+      "id": "cluster_97",
       "coverage": 1,
       "updated_at": "Tue, 28 Jul 2026 16:16:25 +0000",
       "title": "Report: Trump mad RFK Jr. hasn’t cut more vaccines or proven autism link",
@@ -473,15 +595,15 @@
           "title": "Report: Trump mad RFK Jr. hasn’t cut more vaccines or proven autism link",
           "standfirst": "Trump is fixated on the false, long-debunked claim that vaccines cause autism.",
           "content": "Ardent anti-vaccine activist and current US Health Secretary Robert F. Kennedy Jr. is reportedly on thin ice with Trump for not being anti-vaccine enough for the president's liking, according to a report late Monday from The Wall Street Journal. Trump has become fixated on the completely false, thoroughly debunked claim that vaccines cause autism, the Journal reported. People familiar with the president's scattered thinking say Trump wants an autism remedy to be part of his legacy and thinks scaling back childhood vaccinations is a way to secure that achievement. As such, he has grown frustrated and disappointed that Kennedy hasn't done more to cut back federal childhood vaccine recommendations or confirm a link to the neurodevelopmental disorder. In May, the president reportedly aired his disappointment, calling out Kennedy for having \"the yips\" that were preventing him from acting on his zealous anti-vaccine agenda while holding the highest health position in the country. In June, Trump reportedly vented in the Oval Office to Kennedy that he wasn't doing enough.Read full article Comments",
-          "feed_position": 10,
+          "feed_position": 12,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2262712176-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2262712176-1152x648.jpg",
-      "popularity_score": 135.7251375
+      "popularity_score": 133
     },
     {
-      "id": "cluster_128",
+      "id": "cluster_136",
       "coverage": 1,
       "updated_at": "Mon, 27 Jul 2026 20:42:13 +0000",
       "title": "Epic diarrhea outbreak has 40% of Americans avoiding fruits and veggies",
@@ -497,7 +619,7 @@
           "title": "Epic diarrhea outbreak has 40% of Americans avoiding fruits and veggies",
           "standfirst": "Kennedy has focused on nutrition but has neglected food safety, critics say.",
           "content": "Anti-vaccine Health Secretary Robert F. Kennedy Jr. has made it one of his top priorities to convince Americans to \"eat real food,\" including more fresh fruits and vegetables. But, it's a hard sell when those real foods are causing real eruptions of explosive diarrhea across the country. The Food and Drug Administration is investigating six outbreaks of foodborne diarrheal illnesses caused by Cyclospora, a unicellular parasite known for spreading from human feces onto fresh produce. Past outbreaks have been linked to leafy greens, fresh basil, fresh cilantro, snow peas, green onions, and raspberries. The Centers for Disease Control and Prevention has tallied a record high of over 11,500 confirmed and probable cases across 41 states, with over 300 requiring hospitalization. And that case total is almost certainly an undercount. The largest of the outbreaks is linked to Taylor Farms' iceberg lettuce that was sold at Taco Bell restaurants and many other companies. The outbreak has sickened thousands of people across nine states, up from five states identified last week. One of the affected states is Michigan, which alone has reported 9,253 cases as of July 27. The other five outbreaks have no identified source.Read full article Comments",
-          "feed_position": 14,
+          "feed_position": 16,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2015/02/salad.jpg"
         }
       ],
@@ -505,7 +627,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_130",
+      "id": "cluster_137",
       "coverage": 1,
       "updated_at": "Mon, 27 Jul 2026 20:32:45 +0000",
       "title": "iOS and macOS 26.6 arrive today, paving the way for iOS and macOS 27",
@@ -521,7 +643,7 @@
           "title": "iOS and macOS 26.6 arrive today, paving the way for iOS and macOS 27",
           "standfirst": "These are likely the last updates of note before Apple's bigger fall updates.",
           "content": "Apple has released iOS, iPadOS, macOS, watchOS, and tvOS 26.6. Apart from potential security hotfixes, these are likely the last updates before the arrival of iOS 27, macOS 27, and so on. All of today's releases include minor bug fixes, and there are numerous security updates: more than 150 for macOS 26.6. Apple also rolled out macOS 14.8.8 and macOS 15.7.8 for older devices, also focused on security fixes. In terms of new features, you won't find many in these releases, as they mainly pave the way for the next major OS update, likely to hit sometime in September. Most notably, the release notes for iOS and iPadOS 26.6 say the update \"optimizes the Spotlight index to prepare for iOS 27.\" This update will kick off some indexing work that will then be leveraged in an ostensibly much more robust Spotlight search feature when iOS 27 launches next month.Read full article Comments",
-          "feed_position": 15,
+          "feed_position": 17,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/macOS-26-6-update-1152x648-1785182231.jpg"
         }
       ],
@@ -529,7 +651,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_131",
+      "id": "cluster_138",
       "coverage": 1,
       "updated_at": "Mon, 27 Jul 2026 20:22:03 +0000",
       "title": "A missing underscore sent innocent man to prison for 18 months",
@@ -545,35 +667,11 @@
           "title": "A missing underscore sent innocent man to prison for 18 months",
           "standfirst": "When the first step goes wrong, bad results follow.",
           "content": "One missing underscore in a Skyrim-themed username put an innocent Nova Scotia man in prison for 18 months. A 2018 child-luring investigation, which began in Madison, Wisconsin, and eventually extended to Halifax, Canada, was based on a false premise. Police were looking for a man using the Kik messaging service under the name \"fus__ro_dah\" (two underscores after \"fus\"), but they accidentally requested records for the username \"fus_ro_dah\" (one underscore after \"fus\"). This one-character difference led them not to the perpetrator but to a Canadian man named Brandon Klayme.Read full article Comments",
-          "feed_position": 16,
+          "feed_position": 18,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2170708705-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2170708705-1152x648.jpg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_134",
-      "coverage": 1,
-      "updated_at": "Mon, 27 Jul 2026 19:18:02 +0000",
-      "title": "5th Circuit blocks Texas law requiring websites to filter \"harmful\" speech",
-      "neutral_headline": "5th Circuit blocks Texas law requiring websites to filter \"harmful\" speech",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/07/5th-circuit-blocks-texas-law-requiring-websites-to-filter-harmful-speech/",
-          "published_at": "Mon, 27 Jul 2026 19:18:02 +0000",
-          "title": "5th Circuit blocks Texas law requiring websites to filter \"harmful\" speech",
-          "standfirst": "Age verification is okay, but filtering is preempted by Section 230, judges find.",
-          "content": "Texas cannot enforce a law's requirement that websites block minors from seeing harmful speech, the US Court of Appeals for the 5th Circuit ruled on Friday. Big Tech lobby groups challenged the Texas \"law’s requirement that certain social media-based 'digital service providers' (DSPs) monitor and filter content accessible to known minors to prevent exposure to several categories of potentially harmful speech,\" judges wrote. In a 2-1 ruling in favor of the tech groups' challenge, judges said the monitoring and filtering requirement is preempted by Section 230 of the federal Communications Decency Act of 1996. The Computer & Communications Industry Association (CCIA) and NetChoice challenged portions of the Securing Children Online through Parental Empowerment Act (SCOPE Act), which applies to websites and online applications that collect or process personally identifying information. The tech groups won a preliminary injunction from a district court. Texas Attorney General Ken Paxton appealed to the 5th Circuit but wasn't able to convince judges to reverse the injunction that prevents enforcement of the monitoring and filtering rules.Read full article Comments",
-          "feed_position": 18,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/texas-flag-1152x648-1785178684.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/texas-flag-1152x648-1785178684.jpg",
       "popularity_score": 133
     }
   ]
