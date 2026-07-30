@@ -1,17 +1,40 @@
 {
   "clinical": {
-    "updated_at": "2026-07-30T20:11:25.569Z",
+    "updated_at": "2026-07-30T23:55:40.711Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-07-30T20:11:25.569Z",
+    "updated_at": "2026-07-30T23:55:40.711Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-07-30T20:11:30.969Z",
+    "updated_at": "2026-07-30T23:55:47.219Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Thu, 30 Jul 2026 22:04:09 GMT",
+        "title": "India wants to join the strawberry superpowers",
+        "neutral_headline": "India wants to join the strawberry superpowers",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 30 Jul 2026 22:04:09 GMT",
+            "title": "India wants to join the strawberry superpowers",
+            "standfirst": "Indian strawberry farmers rely on varieties imported from the US and Europe, but that could change.",
+            "content": "Indian strawberry farmers rely on varieties imported from the US and Europe, but that could change.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dc8/live/4bdd6170-7920-11f1-a627-714adb4eed6e.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dc8/live/4bdd6170-7920-11f1-a627-714adb4eed6e.jpg"
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Thu, 30 Jul 2026 20:00:00 GMT",
         "title": "BBC Inside Science",
@@ -34,7 +57,7 @@
         "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Thu, 30 Jul 2026 17:55:24 GMT",
         "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
@@ -50,14 +73,14 @@
             "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
             "standfirst": "Romania, Bulgaria and Serbia are also grappling with the effects of a series of prolonged heatwaves and low rainfall.",
             "content": "Romania, Bulgaria and Serbia are also grappling with the effects of a series of prolonged heatwaves and low rainfall.",
-            "feed_position": 0,
+            "feed_position": 1,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b843/live/97441f30-8c37-11f1-b2ab-0dd01740f9f6.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b843/live/97441f30-8c37-11f1-b2ab-0dd01740f9f6.jpg"
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Thu, 30 Jul 2026 17:16:13 GMT",
         "title": "American Red Cross declares second-ever national blood supply crisis",
@@ -78,7 +101,7 @@
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Thu, 30 Jul 2026 17:04:27 GMT",
         "title": "The cost and burden of avoiding ‘forever chemicals’ should not fall on parents | Letter",
@@ -99,7 +122,7 @@
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Thu, 30 Jul 2026 14:50:42 GMT",
         "title": "Hosepipe bans in force as drought declared - is your area affected?",
@@ -115,14 +138,14 @@
             "title": "Hosepipe bans in force as drought declared - is your area affected?",
             "standfirst": "More than 20 million households have been placed under hosepipe bans due to higher demand and low rainfall.",
             "content": "More than 20 million households have been placed under hosepipe bans due to higher demand and low rainfall.",
-            "feed_position": 1,
+            "feed_position": 2,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c74b/live/69a57380-7fa8-11f1-a5f4-433bb9aa2e5a.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c74b/live/69a57380-7fa8-11f1-a5f4-433bb9aa2e5a.jpg"
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Thu, 30 Jul 2026 14:21:19 GMT",
         "title": "‘It’s a peptide wild west’: how RFK Jr is clearing way for a market of untested drugs",
@@ -143,7 +166,7 @@
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Thu, 30 Jul 2026 14:15:09 GMT",
         "title": "Drought declared across whole of Wales as conditions 'deteriorate'",
@@ -159,14 +182,14 @@
             "title": "Drought declared across whole of Wales as conditions 'deteriorate'",
             "standfirst": "Wales is on course for its driest July on record in almost 190 years.",
             "content": "Wales is on course for its driest July on record in almost 190 years.",
-            "feed_position": 2,
+            "feed_position": 3,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e536/live/233a64d0-8c39-11f1-b8ee-9b3c26ad07bb.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e536/live/233a64d0-8c39-11f1-b8ee-9b3c26ad07bb.jpg"
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Thu, 30 Jul 2026 13:44:23 GMT",
         "title": "Dashcam captures tornado toppling power lines onto car",
@@ -182,14 +205,14 @@
             "title": "Dashcam captures tornado toppling power lines onto car",
             "standfirst": "Video obtained by the BBC provides a firsthand look at the powerful storm system that ripped through parts of eastern Wisconsin on 27 July.",
             "content": "Video obtained by the BBC provides a firsthand look at the powerful storm system that ripped through parts of eastern Wisconsin on 27 July.",
-            "feed_position": 3,
+            "feed_position": 4,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb08/live/19495d00-8c1b-11f1-a7ab-8b30adf0800a.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb08/live/19495d00-8c1b-11f1-a7ab-8b30adf0800a.jpg"
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Thu, 30 Jul 2026 13:22:37 GMT",
         "title": "Farmwatch: Farmer on mental health issues",
@@ -212,7 +235,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa3c/live/39319da0-8c19-11f1-a7ab-8b30adf0800a.jpg"
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Thu, 30 Jul 2026 13:00:15 GMT",
         "title": "The US public is fed up with RFK Jr. To really ‘make America healthy again’, it should look to Europe | Devi Sridhar",
@@ -233,7 +256,7 @@
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Thu, 30 Jul 2026 12:18:04 GMT",
         "title": "Vow to tackle city problem of nitrous oxide misuse",
@@ -256,7 +279,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/287b/live/49066200-8c0b-11f1-8665-e382dc49dfdb.jpg"
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Thu, 30 Jul 2026 12:14:00 GMT",
         "title": "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect",
@@ -272,7 +295,7 @@
             "title": "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect",
             "standfirst": "Foul play is ruled out in the record number of elephant deaths for decades in this area of southern Kenya.",
             "content": "Foul play is ruled out in the record number of elephant deaths for decades in this area of southern Kenya.",
-            "feed_position": 4,
+            "feed_position": 5,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3a9/live/40129860-8c0d-11f1-b2ab-0dd01740f9f6.png"
           },
           {
@@ -282,14 +305,14 @@
             "title": "Mysterious deaths of elephants in Kenya prompts urgent inquiry",
             "standfirst": "It is the highest number of elephant deaths to be recorded in this area of southern Kenya in decades.",
             "content": "It is the highest number of elephant deaths to be recorded in this area of southern Kenya in decades.",
-            "feed_position": 11,
+            "feed_position": 12,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f024/live/62e983e0-8a9f-11f1-b8ee-9b3c26ad07bb.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3a9/live/40129860-8c0d-11f1-b2ab-0dd01740f9f6.png"
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Thu, 30 Jul 2026 11:10:02 GMT",
         "title": "Holidaymakers warned about 'explosive diarrhoea' cyclospora parasite infection",
@@ -312,7 +335,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64fc/live/9ebf33b0-8c02-11f1-9dc7-8f4fc2aa9fe5.jpg"
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Thu, 30 Jul 2026 10:33:19 GMT",
         "title": "England on track for record heat-related deaths this summer, official data shows",
@@ -334,7 +357,7 @@
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Thu, 30 Jul 2026 10:15:52 GMT",
         "title": "Bagpipes - the first defence against alien invaders?",
@@ -357,7 +380,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9a3/live/e66fb2b0-8bfe-11f1-a52a-dba993a97936.png"
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Thu, 30 Jul 2026 10:00:11 GMT",
         "title": "I’ve spent years researching what it means to be alive. This is what I’ve learned | Melanie Challenger",
@@ -378,7 +401,7 @@
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Thu, 30 Jul 2026 09:17:18 GMT",
         "title": "Mountaineer who began fossil hunting after near-death experience discovers rare 'sea dragon'",
@@ -394,14 +417,14 @@
             "title": "Mountaineer who began fossil hunting after near-death experience discovers rare 'sea dragon'",
             "standfirst": "Matthew Myerscough swapped mountains for fossil-laden beaches after becoming trapped in snow on Yr Wyddfa.",
             "content": "Matthew Myerscough swapped mountains for fossil-laden beaches after becoming trapped in snow on Yr Wyddfa.",
-            "feed_position": 5,
+            "feed_position": 6,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d91c/live/b9fc7600-8b54-11f1-8322-5bf52455cf04.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d91c/live/b9fc7600-8b54-11f1-8322-5bf52455cf04.jpg"
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Thu, 30 Jul 2026 08:43:54 GMT",
         "title": "'It was heartbreaking to attend a fertility appointment in a maternity unit'",
@@ -424,7 +447,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e891/live/3b03c590-89a8-11f1-a7ab-8b30adf0800a.jpg"
       },
       {
-        "id": "cluster_18",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Thu, 30 Jul 2026 08:31:53 GMT",
         "title": "Stunning photos capture July's Buck Moon over the UK",
@@ -440,7 +463,7 @@
             "title": "Stunning photos capture July's Buck Moon over the UK",
             "standfirst": "Skygazers captured brilliant photos of July's full Moon as it rose over the UK on Wednesday.",
             "content": "Skygazers captured brilliant photos of July's full Moon as it rose over the UK on Wednesday.",
-            "feed_position": 6,
+            "feed_position": 7,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb21/live/0f8dad20-8be9-11f1-861c-757141bb522d.jpg"
           },
           {
@@ -450,7 +473,7 @@
             "title": "How to see July's Buck Moon light up the night sky",
             "standfirst": "July's full Moon, know as the Buck Moon, is set to light up the night sky on Wednesday.",
             "content": "July's full Moon, know as the Buck Moon, is set to light up the night sky on Wednesday.",
-            "feed_position": 10,
+            "feed_position": 11,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78a9/live/8b5b9130-8b29-11f1-841c-ef08db9db338.jpg"
           },
           {
@@ -465,34 +488,11 @@
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb21/live/0f8dad20-8be9-11f1-861c-757141bb522d.jpg"
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Thu, 30 Jul 2026 08:02:02 GMT",
-        "title": "'I want to break the stigma around herpes'",
-        "neutral_headline": "'I want to break the stigma around herpes'",
-        "bullet_summary": [
-          "Reported by BBC Health"
-        ],
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.co.uk/news/videos/cvg894vz999o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Thu, 30 Jul 2026 08:02:02 GMT",
-            "title": "'I want to break the stigma around herpes'",
-            "standfirst": "The psychological effect of a herpes diagnosis can be greater than the physical symptoms, experts say.",
-            "content": "The psychological effect of a herpes diagnosis can be greater than the physical symptoms, experts say.",
-            "feed_position": 48,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/deed/live/a50e5120-8b66-11f1-b8ee-9b3c26ad07bb.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/deed/live/a50e5120-8b66-11f1-b8ee-9b3c26ad07bb.jpg"
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-07-30T20:11:30.969Z",
+    "updated_at": "2026-07-30T23:55:47.219Z",
     "clusters": []
   }
 }
