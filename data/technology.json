@@ -1,8 +1,62 @@
 {
-  "updated_at": "2026-07-30T23:55:49.600Z",
+  "updated_at": "2026-07-31T05:58:11.572Z",
   "clusters": [
     {
-      "id": "cluster_40",
+      "id": "cluster_14",
+      "coverage": 3,
+      "updated_at": "Fri, 31 Jul 2026 01:24:26 +0000",
+      "title": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
+      "neutral_headline": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
+      "bullet_summary": [
+        "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+        "Reported by Wired Tech, TechCrunch, TechMeme"
+      ],
+      "items": [
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
+          "published_at": "Fri, 31 Jul 2026 01:24:26 +0000",
+          "title": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
+          "standfirst": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real organizations during third-party evaluations.",
+          "content": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real organizations during third-party evaluations.",
+          "feed_position": 3,
+          "image_url": "https://media.wired.com/photos/6a6bef5432fc2d440b7d5e3e/master/pass/Business_Claude-Escape.jpg"
+        },
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+          "published_at": "Fri, 31 Jul 2026 01:06:54 +0000",
+          "title": "Anthropic says its own AI models breached three companies during security tests",
+          "standfirst": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+          "content": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+          "feed_position": 0
+        },
+        {
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/260730/p62#a260730p62",
+          "published_at": "Thu, 30 Jul 2026 20:05:01 -0400",
+          "title": "Anthropic says the models that breached three companies include Opus 4.7, Mythos 5, and an unnamed research model, and the earliest incidents date back to April (Robert McMillan/Wall Street Journal)",
+          "standfirst": "Robert McMillan / Wall Street Journal: Anthropic says the models that breached three companies include Opus 4.7, Mythos 5, and an unnamed research model, and the earliest incidents date back to April &mdash; The breaches, which follow a similar incident involving rival OpenAI and startup Hugging Face, were due to a mistake, Anthropic said",
+          "content": "Robert McMillan / Wall Street Journal: Anthropic says the models that breached three companies include Opus 4.7, Mythos 5, and an unnamed research model, and the earliest incidents date back to April &mdash; The breaches, which follow a similar incident involving rival OpenAI and startup Hugging Face, were due to a mistake, Anthropic said",
+          "feed_position": 13,
+          "image_url": "http://www.techmeme.com/260730/i62.jpg"
+        },
+        {
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/260730/p61#a260730p61",
+          "published_at": "Thu, 30 Jul 2026 19:30:01 -0400",
+          "title": "Anthropic says it discovered three of its models had breached three organizations after launching a review in response to the OpenAI-Hugging Face incident (Anthropic)",
+          "standfirst": "Anthropic: Anthropic says it discovered three of its models had breached three organizations after launching a review in response to the OpenAI-Hugging Face incident &mdash; In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet &hellip;",
+          "content": "Anthropic: Anthropic says it discovered three of its models had breached three organizations after launching a review in response to the OpenAI-Hugging Face incident &mdash; In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet &hellip;",
+          "feed_position": 14,
+          "image_url": "http://www.techmeme.com/260730/i61.jpg"
+        }
+      ],
+      "featured_image": "https://media.wired.com/photos/6a6bef5432fc2d440b7d5e3e/master/pass/Business_Claude-Escape.jpg",
+      "popularity_score": 3015.437341111111
+    },
+    {
+      "id": "cluster_45",
       "coverage": 3,
       "updated_at": "2026-07-30T14:43:26-04:00",
       "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
@@ -27,7 +81,7 @@
           "title": "LinkedIn adds a button to report AI-generated &#8216;slop&#8217;",
           "standfirst": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
           "content": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
-          "feed_position": 10
+          "feed_position": 11
         },
         {
           "source": "Engadget",
@@ -41,10 +95,78 @@
         }
       ],
       "featured_image": "https://www.engadget.com/img/gallery/linkedin-is-testing-a-seems-like-ai-slop-reporting-tool/l-intro-1785430425.jpg",
-      "popularity_score": 3014.7934444444445
+      "popularity_score": 3008.7540077777776
     },
     {
-      "id": "cluster_4",
+      "id": "cluster_7",
+      "coverage": 2,
+      "updated_at": "Fri, 31 Jul 2026 00:00:14 -0400",
+      "title": "A leaked memo, issued by the water utilities information sharing group WaterISAC, links dozens of cyberattacks against Minnesota water utilities to Iran (Andy Greenberg/Wired)",
+      "neutral_headline": "A Leaked Memo Ties Cyberattacks on Minnesota Water Utilities to Iran",
+      "bullet_summary": [
+        "Reported by TechMeme, Wired Tech"
+      ],
+      "items": [
+        {
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/260731/p1#a260731p1",
+          "published_at": "Fri, 31 Jul 2026 00:00:14 -0400",
+          "title": "A leaked memo, issued by the water utilities information sharing group WaterISAC, links dozens of cyberattacks against Minnesota water utilities to Iran (Andy Greenberg/Wired)",
+          "standfirst": "Andy Greenberg / Wired: A leaked memo, issued by the water utilities information sharing group WaterISAC, links dozens of cyberattacks against Minnesota water utilities to Iran &mdash; A memo obtained by WIRED, issued by the water utilities information sharing group WaterISAC, links dozens of cyberattacks against Minnesota water utilities to Tehran.",
+          "content": "Andy Greenberg / Wired: A leaked memo, issued by the water utilities information sharing group WaterISAC, links dozens of cyberattacks against Minnesota water utilities to Iran &mdash; A memo obtained by WIRED, issued by the water utilities information sharing group WaterISAC, links dozens of cyberattacks against Minnesota water utilities to Tehran.",
+          "feed_position": 4,
+          "image_url": "http://www.techmeme.com/260731/i1.jpg"
+        },
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/a-leaked-memo-ties-cyberattacks-on-minnesota-water-utilities-to-iran/",
+          "published_at": "Thu, 30 Jul 2026 21:20:00 +0000",
+          "title": "A Leaked Memo Ties Cyberattacks on Minnesota Water Utilities to Iran",
+          "standfirst": "A memo obtained by WIRED, issued by the water utilities information sharing group WaterISAC, links dozens of cyberattacks against Minnesota water utilities to Tehran.",
+          "content": "A memo obtained by WIRED, issued by the water utilities information sharing group WaterISAC, links dozens of cyberattacks against Minnesota water utilities to Tehran.",
+          "feed_position": 5,
+          "image_url": "https://media.wired.com/photos/6a6b857e3e12d1f6b4b61e35/master/pass/GettyImages-1138939276.jpg"
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/260731/i1.jpg",
+      "popularity_score": 2018.0340077777778
+    },
+    {
+      "id": "cluster_15",
+      "coverage": 2,
+      "updated_at": "Thu, 30 Jul 2026 21:10:01 -0400",
+      "title": "Apple CFO Kevan Parekh says Services surpassed 1.5B paid subscriptions, up from 1B in January 2025, but a gaming slowdown and App Store changes hurt growth (Sarah Perez/TechCrunch)",
+      "neutral_headline": "Apple says gaming slowdown and App Store changes hurt services growth",
+      "bullet_summary": [
+        "Apple said a slowdown in mobile gaming and changes to the App Store’s business model — including court-ordered payment rule changes in the U",
+        "Reported by TechMeme, TechCrunch"
+      ],
+      "items": [
+        {
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/260730/p65#a260730p65",
+          "published_at": "Thu, 30 Jul 2026 21:10:01 -0400",
+          "title": "Apple CFO Kevan Parekh says Services surpassed 1.5B paid subscriptions, up from 1B in January 2025, but a gaming slowdown and App Store changes hurt growth (Sarah Perez/TechCrunch)",
+          "standfirst": "Sarah Perez / TechCrunch: Apple CFO Kevan Parekh says Services surpassed 1.5B paid subscriptions, up from 1B in January 2025, but a gaming slowdown and App Store changes hurt growth &mdash; Apple says it has now topped 1.5 billion subscribers for its services business, up from 1 billion in January 2025.",
+          "content": "Sarah Perez / TechCrunch: Apple CFO Kevan Parekh says Services surpassed 1.5B paid subscriptions, up from 1B in January 2025, but a gaming slowdown and App Store changes hurt growth &mdash; Apple says it has now topped 1.5 billion subscribers for its services business, up from 1 billion in January 2025.",
+          "feed_position": 10,
+          "image_url": "http://www.techmeme.com/260730/i65.jpg"
+        },
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/30/apple-says-gaming-slowdown-and-app-store-changes-hurt-services-growth/",
+          "published_at": "Thu, 30 Jul 2026 22:37:06 +0000",
+          "title": "Apple says gaming slowdown and App Store changes hurt services growth",
+          "standfirst": "Apple said a slowdown in mobile gaming and changes to the App Store’s business model — including court-ordered payment rule changes in the U.S. — weighed on its services business, even as the company topped 1.5 billion paid subscriptions.",
+          "content": "Apple said a slowdown in mobile gaming and changes to the App Store’s business model — including court-ordered payment rule changes in the U.S. — weighed on its services business, even as the company topped 1.5 billion paid subscriptions.",
+          "feed_position": 5
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/260730/i65.jpg",
+      "popularity_score": 2015.1970633333333
+    },
+    {
+      "id": "cluster_20",
       "coverage": 2,
       "updated_at": "Thu, 30 Jul 2026 23:17:46 +0000",
       "title": "How the FCC’s New Rule Will Affect Robot Vacuums",
@@ -60,7 +182,7 @@
           "title": "How the FCC’s New Rule Will Affect Robot Vacuums",
           "standfirst": "A new restriction on foreign-made mobile robots affects robotic vacuums, pool cleaners, and lawn mowers. Here’s what it means for the bots already in your home—and the ones you may never get to buy.",
           "content": "A new restriction on foreign-made mobile robots affects robotic vacuums, pool cleaners, and lawn mowers. Here’s what it means for the bots already in your home—and the ones you may never get to buy.",
-          "feed_position": 0,
+          "feed_position": 4,
           "image_url": "https://media.wired.com/photos/6a6bd3709585cd0b1c9cc267/master/pass/The-FCC-Is-Coming-for-Robot-Vacuums.-How-Soon-Will-It-Be-a-Problem-.jpg"
         },
         {
@@ -74,43 +196,10 @@
         }
       ],
       "featured_image": "https://media.wired.com/photos/6a6bd3709585cd0b1c9cc267/master/pass/The-FCC-Is-Coming-for-Robot-Vacuums.-How-Soon-Will-It-Be-a-Problem-.jpg",
-      "popularity_score": 2019.3656666666666
+      "popularity_score": 2013.32623
     },
     {
-      "id": "cluster_5",
-      "coverage": 2,
-      "updated_at": "Thu, 30 Jul 2026 19:15:02 -0400",
-      "title": "In a memo to employees, Xbox CEO Asha Sharma lays out priorities for the unit, including returning to player and revenue growth by the end of fiscal year 2027 (The Verge)",
-      "neutral_headline": "Xbox CEO lays out priorities in memo after major &#8216;reset&#8217;",
-      "bullet_summary": [
-        "Reported by TechMeme, The Verge"
-      ],
-      "items": [
-        {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/260730/p59#a260730p59",
-          "published_at": "Thu, 30 Jul 2026 19:15:02 -0400",
-          "title": "In a memo to employees, Xbox CEO Asha Sharma lays out priorities for the unit, including returning to player and revenue growth by the end of fiscal year 2027 (The Verge)",
-          "standfirst": "The Verge: In a memo to employees, Xbox CEO Asha Sharma lays out priorities for the unit, including returning to player and revenue growth by the end of fiscal year 2027 &mdash; Asha Sharma wants Xbox to return to growth. Asha Sharma wants Xbox to return to growth.",
-          "content": "The Verge: In a memo to employees, Xbox CEO Asha Sharma lays out priorities for the unit, including returning to player and revenue growth by the end of fiscal year 2027 &mdash; Asha Sharma wants Xbox to return to growth. Asha Sharma wants Xbox to return to growth.",
-          "feed_position": 2,
-          "image_url": "http://www.techmeme.com/260730/i59.jpg"
-        },
-        {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth",
-          "published_at": "2026-07-30T18:10:13-04:00",
-          "title": "Xbox CEO lays out priorities in memo after major &#8216;reset&#8217;",
-          "standfirst": "After a massive Xbox \"reset\" that laid off thousands of employees and spun off four studios, Xbox CEO Asha Sharma wants to get Xbox back to growth. In a memo obtained by The Verge, Sharma told staff by the end of fiscal year 2027 (which runs through next June), \"we will return XBOX to player [&#8230;]",
-          "content": "Asha Sharma. | Image: The Verge, Microsoft After a massive Xbox \"reset\" that laid off thousands of employees and spun off four studios, Xbox CEO Asha Sharma wants to get Xbox back to growth. In a memo obtained by The Verge, Sharma told staff by the end of fiscal year 2027 (which runs through next June), \"we will return XBOX to player and revenue growth.\" Xbox will also \"improve profits back in line with industry averages,\" Sharma said. \"Every function and studio will own part of that outcome.\" Since taking over Xbox in February, Sharma has made sweeping changes to attempt to turn things around. Previously, she has cited challenges like a low accountability margin, increasing compone … Read the full story at The Verge.",
-          "feed_position": 1
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/260730/i59.jpg",
-      "popularity_score": 2019.3201111111111
-    },
-    {
-      "id": "cluster_14",
+      "id": "cluster_27",
       "coverage": 1,
       "updated_at": "Thu, 30 Jul 2026 22:05:35 +0000",
       "title": "Tim Cook passes the baton in Apple&#039;s Q3 2026 earnings call",
@@ -131,10 +220,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2017/12/GettyImages-869824586-1152x648.jpg",
-      "popularity_score": 363.1626111111111
+      "popularity_score": 357.12317444444443
     },
     {
-      "id": "cluster_22",
+      "id": "cluster_30",
       "coverage": 1,
       "updated_at": "Thu, 30 Jul 2026 20:57:22 +0000",
       "title": "Max-severity Exchange server flaw under active exploitation by Kremlin hackers",
@@ -155,10 +244,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
-      "popularity_score": 356.02566666666667
+      "popularity_score": 349.98623
     },
     {
-      "id": "cluster_77",
+      "id": "cluster_82",
       "coverage": 1,
       "updated_at": "Thu, 30 Jul 2026 14:53:07 +0000",
       "title": "New MCP specification addresses the main barrier to enterprise adoption",
@@ -179,10 +268,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/MCP-logo-1152x648.jpg",
-      "popularity_score": 348.95483333333334
+      "popularity_score": 342.91539666666665
     },
     {
-      "id": "cluster_68",
+      "id": "cluster_73",
       "coverage": 1,
       "updated_at": "Thu, 30 Jul 2026 15:59:37 +0000",
       "title": "Quantum computers outperform classical ones, with results you can trust",
@@ -203,10 +292,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/image-4-1152x648.png",
-      "popularity_score": 345.0631666666667
+      "popularity_score": 339.02373
     },
     {
-      "id": "cluster_27",
+      "id": "cluster_34",
       "coverage": 1,
       "updated_at": "Thu, 30 Jul 2026 20:45:39 +0000",
       "title": "Iran struck Amazon data centers again amid widening war, satellites show",
@@ -227,10 +316,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/AWS-logo-1024x648.jpg",
-      "popularity_score": 334.8303888888889
+      "popularity_score": 328.79095222222224
     },
     {
-      "id": "cluster_25",
+      "id": "cluster_32",
       "coverage": 1,
       "updated_at": "Thu, 30 Jul 2026 20:48:47 +0000",
       "title": "Trump FCC faces blowback in attempt to police speech on broadcast TV",
@@ -251,10 +340,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/brendan-carr-concordia-1152x648-1758655744.jpg",
-      "popularity_score": 329.8826111111111
+      "popularity_score": 323.84317444444446
     },
     {
-      "id": "cluster_116",
+      "id": "cluster_122",
       "coverage": 1,
       "updated_at": "Wed, 29 Jul 2026 20:57:35 +0000",
       "title": "Musk went to “war,” sought jail time for X ad boycotts—but case ends with a whimper",
@@ -278,7 +367,7 @@
       "popularity_score": 318
     },
     {
-      "id": "cluster_112",
+      "id": "cluster_118",
       "coverage": 1,
       "updated_at": "Wed, 29 Jul 2026 22:07:06 +0000",
       "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
@@ -303,7 +392,7 @@
       "popularity_score": 313
     },
     {
-      "id": "cluster_32",
+      "id": "cluster_38",
       "coverage": 1,
       "updated_at": "Thu, 30 Jul 2026 20:12:50 +0000",
       "title": "Just because a game is on disc doesn’t mean it will work in the future",
@@ -324,10 +413,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/discburn-1152x648.jpg",
-      "popularity_score": 309.28344444444446
+      "popularity_score": 303.24400777777777
     },
     {
-      "id": "cluster_47",
+      "id": "cluster_52",
       "coverage": 1,
       "updated_at": "Thu, 30 Jul 2026 17:58:02 +0000",
       "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
@@ -348,34 +437,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/gemini-robotics-2-1152x648.png",
-      "popularity_score": 305.0367777777778
+      "popularity_score": 298.9973411111111
     },
     {
-      "id": "cluster_36",
-      "coverage": 1,
-      "updated_at": "Thu, 30 Jul 2026 19:26:56 +0000",
-      "title": "Chrome may get faster updates with no restart required",
-      "neutral_headline": "Chrome may get faster updates with no restart required",
-      "bullet_summary": [
-        "Reported by Ars Technica Main"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica Main",
-          "url": "https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/",
-          "published_at": "Thu, 30 Jul 2026 19:26:56 +0000",
-          "title": "Chrome may get faster updates with no restart required",
-          "standfirst": "The last two versions of Chrome have included more patches than the previous 23 combined.",
-          "content": "With Chrome, Google pioneered the rapid release model for browser security. Now, Google says updates may need to change in the face of AI security analysis. According to the company, the number of bug fixes in Chrome releases has skyrocketed in recent months because AI is detecting so many flaws. We could be looking at more frequent updates soon, but Google is also working on ways to get those updates rolled out without bothering you as much. Google has released two major Chrome milestone builds recently—Chrome 149 in early June and Chrome 150 just a few weeks later. These two updates had a total of 1,072 bug fixes, which is more than the previous 23 releases combined. Such is the impact of giant cybersecurity AI models that can probe software for vulnerabilities at light speed. Some of these vulnerabilities were serious, too, with one bug hiding in the Chrome codebase for 13 years. If it had been exploited, an attacker could have bypassed the Chrome sandbox to make the browser access local files. Number of security bugs fixed in recent Chrome Stable release milestones. Credit: Google With the vastly higher rate of vulnerability identification, Google is worried bad actors will also be able to identify software flaws faster. Its goal is to ensure your Chrome install is always up to date or as close to it as possible. The first step toward that is the two-week update cycle the company announced earlier in 2026, but it's now piloting a system that would update Chrome twice per week. This would get patches out the door faster, ensuring that browsers are ready for the threat of AI-fueled attacks.Read full article Comments",
-          "feed_position": 5,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Chrome-shield-1152x648.png"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Chrome-shield-1152x648.png",
-      "popularity_score": 298.51844444444447
-    },
-    {
-      "id": "cluster_120",
+      "id": "cluster_126",
       "coverage": 1,
       "updated_at": "Wed, 29 Jul 2026 19:33:55 +0000",
       "title": "Comcast store punished low sales by smashing pies in workers' faces, lawsuit claims",
@@ -399,7 +464,7 @@
       "popularity_score": 298
     },
     {
-      "id": "cluster_118",
+      "id": "cluster_124",
       "coverage": 1,
       "updated_at": "Wed, 29 Jul 2026 20:03:42 +0000",
       "title": "Who wins and who loses after US bans foreign robots?",
@@ -423,7 +488,31 @@
       "popularity_score": 293
     },
     {
-      "id": "cluster_127",
+      "id": "cluster_42",
+      "coverage": 1,
+      "updated_at": "Thu, 30 Jul 2026 19:26:56 +0000",
+      "title": "Chrome may get faster updates with no restart required",
+      "neutral_headline": "Chrome may get faster updates with no restart required",
+      "bullet_summary": [
+        "Reported by Ars Technica Main"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica Main",
+          "url": "https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/",
+          "published_at": "Thu, 30 Jul 2026 19:26:56 +0000",
+          "title": "Chrome may get faster updates with no restart required",
+          "standfirst": "The last two versions of Chrome have included more patches than the previous 23 combined.",
+          "content": "With Chrome, Google pioneered the rapid release model for browser security. Now, Google says updates may need to change in the face of AI security analysis. According to the company, the number of bug fixes in Chrome releases has skyrocketed in recent months because AI is detecting so many flaws. We could be looking at more frequent updates soon, but Google is also working on ways to get those updates rolled out without bothering you as much. Google has released two major Chrome milestone builds recently—Chrome 149 in early June and Chrome 150 just a few weeks later. These two updates had a total of 1,072 bug fixes, which is more than the previous 23 releases combined. Such is the impact of giant cybersecurity AI models that can probe software for vulnerabilities at light speed. Some of these vulnerabilities were serious, too, with one bug hiding in the Chrome codebase for 13 years. If it had been exploited, an attacker could have bypassed the Chrome sandbox to make the browser access local files. Number of security bugs fixed in recent Chrome Stable release milestones. Credit: Google With the vastly higher rate of vulnerability identification, Google is worried bad actors will also be able to identify software flaws faster. Its goal is to ensure your Chrome install is always up to date or as close to it as possible. The first step toward that is the two-week update cycle the company announced earlier in 2026, but it's now piloting a system that would update Chrome twice per week. This would get patches out the door faster, ensuring that browsers are ready for the threat of AI-fueled attacks.Read full article Comments",
+          "feed_position": 5,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Chrome-shield-1152x648.png"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Chrome-shield-1152x648.png",
+      "popularity_score": 292.4790077777778
+    },
+    {
+      "id": "cluster_133",
       "coverage": 1,
       "updated_at": "Wed, 29 Jul 2026 18:08:22 +0000",
       "title": "Google's \"privacy-preserving\" age verification system is coming to the Play Store",
@@ -447,7 +536,7 @@
       "popularity_score": 285
     },
     {
-      "id": "cluster_54",
+      "id": "cluster_59",
       "coverage": 1,
       "updated_at": "Thu, 30 Jul 2026 17:35:57 +0000",
       "title": "Space Force-backed mission does its best impression of Top Gun in orbit",
@@ -468,10 +557,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/victus_1.jpg",
-      "popularity_score": 284.66872222222224
+      "popularity_score": 278.62928555555555
     },
     {
-      "id": "cluster_122",
+      "id": "cluster_128",
       "coverage": 1,
       "updated_at": "Wed, 29 Jul 2026 19:23:27 +0000",
       "title": "Customize Ars your way with an Ars Pro subscription",
@@ -495,7 +584,7 @@
       "popularity_score": 273
     },
     {
-      "id": "cluster_129",
+      "id": "cluster_135",
       "coverage": 1,
       "updated_at": "Wed, 29 Jul 2026 17:58:24 +0000",
       "title": "Elon Musk’s xAI is trying to sue its way out of a Grok reckoning",
@@ -519,7 +608,7 @@
       "popularity_score": 268
     },
     {
-      "id": "cluster_130",
+      "id": "cluster_136",
       "coverage": 1,
       "updated_at": "Wed, 29 Jul 2026 17:37:47 +0000",
       "title": "Yet more qubit tech: New quantum dot options, diamond vacancies",
@@ -543,7 +632,7 @@
       "popularity_score": 243
     },
     {
-      "id": "cluster_150",
+      "id": "cluster_156",
       "coverage": 1,
       "updated_at": "Wed, 29 Jul 2026 11:00:39 +0000",
       "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI disinformation",
@@ -567,7 +656,7 @@
       "popularity_score": 160
     },
     {
-      "id": "cluster_135",
+      "id": "cluster_141",
       "coverage": 1,
       "updated_at": "Wed, 29 Jul 2026 15:16:22 +0000",
       "title": "Gaming and IRL worlds collide in Jumanji: Open World trailer",
@@ -591,7 +680,7 @@
       "popularity_score": 148
     },
     {
-      "id": "cluster_142",
+      "id": "cluster_148",
       "coverage": 1,
       "updated_at": "Wed, 29 Jul 2026 13:23:31 +0000",
       "title": "What happens when you put AI to work deciphering lost languages?",
@@ -615,7 +704,7 @@
       "popularity_score": 148
     },
     {
-      "id": "cluster_133",
+      "id": "cluster_139",
       "coverage": 1,
       "updated_at": "Wed, 29 Jul 2026 15:52:48 +0000",
       "title": "Anthropic is finding bugs faster than Microsoft can fix them",
@@ -639,7 +728,7 @@
       "popularity_score": 145
     },
     {
-      "id": "cluster_131",
+      "id": "cluster_137",
       "coverage": 1,
       "updated_at": "Wed, 29 Jul 2026 17:24:41 +0000",
       "title": "Actually, Starliner might fly into space this year",
@@ -664,7 +753,7 @@
       "popularity_score": 138
     },
     {
-      "id": "cluster_134",
+      "id": "cluster_140",
       "coverage": 1,
       "updated_at": "Wed, 29 Jul 2026 15:33:20 +0000",
       "title": "New AMD Linux patch boosts low-end gaming performance on Steam Deck",
@@ -688,7 +777,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_155",
+      "id": "cluster_161",
       "coverage": 1,
       "updated_at": "Wed, 29 Jul 2026 10:00:51 +0000",
       "title": "Elon Musk finally launches X Money. What could possibly go wrong?",
@@ -709,30 +798,6 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2239391568-1024x648.jpg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_163",
-      "coverage": 1,
-      "updated_at": "Wed, 29 Jul 2026 01:00:36 +0000",
-      "title": "Audi has a new flagship designed with the US in mind: The 2027 Q9",
-      "neutral_headline": "Audi has a new flagship designed with the US in mind: The 2027 Q9",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/07/audi-has-a-new-flagship-designed-with-the-us-in-mind-the-2027-q9/",
-          "published_at": "Wed, 29 Jul 2026 01:00:36 +0000",
-          "title": "Audi has a new flagship designed with the US in mind: The 2027 Q9",
-          "standfirst": "The new full-size flagship SUV starts at $87,700 when it goes on sale in Q4.",
-          "content": "Audi provided flights from Washington, DC, to Munich, Germany, and accommodation so Ars could see the Q9 and Q7. And we also drove the new RS5. Ars does not accept paid editorial content. MUNICH—It has taken Audi a little longer than its rivals, but with the debut of the 2027 Q9 this evening, the company has joined them in offering a range-topping full-size SUV. No, not the Q7, although a third-generation version of that vehicle broke cover in June. The car was designed first and foremost for Europe, with a third row of seats that's fine for small children or occasional use. But in America, there's a segment one size larger, pioneered by the Cadillac Escalade, and it's here we find the new Audi. With no concrete plans to replace the A8 sedan yet, the Q9 SUV becomes the brand's new flagship. At 209 inches (5,309 mm) long, 79.2 inches (2,012 mm) wide, and 71.4 inches (1,814 mm) tall, it's definitely not diminutive, although parked next to the aforementioned Caddy, you'll find the American SUV exceeds this one by a few inches here and there. The 123.5-inch wheelbase (3,137 mm) is 5.6 inches (142 mm) longer than the Q7's, much of which translates to more room for the third row. The silhouette is like a station wagon, but scaled up by 1.3x. Credit: Audi OLED rear lights are an option. Credit: Audi The Q9 looked big in the studio, but it was less imposing than a Mercedes-Benz GLS or BMW X7. The body panels feature more curves and more subtle creases than the Audis of a few years ago. And there are definite station wagon vibes, but that’s mostly because its big wheels make it look smaller and closer rather than bigger and farther away (aka, the Father Dougal principle.)Read full article Comments",
-          "feed_position": 17,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/A263825_large-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/A263825_large-1152x648.jpg",
       "popularity_score": 133
     }
   ]
