@@ -1,17 +1,27 @@
 {
-  "updated_at": "2026-07-31T05:58:11.572Z",
+  "updated_at": "2026-07-31T09:37:52.081Z",
   "clusters": [
     {
       "id": "cluster_14",
-      "coverage": 3,
-      "updated_at": "Fri, 31 Jul 2026 01:24:26 +0000",
-      "title": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
-      "neutral_headline": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
+      "coverage": 4,
+      "updated_at": "Fri, 31 Jul 2026 06:10:12 +0000",
+      "title": "Anthropic says its AI models also hacked three organizations on their own",
+      "neutral_headline": "Anthropic says its AI models also hacked three organizations on their own",
       "bullet_summary": [
         "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
-        "Reported by Wired Tech, TechCrunch, TechMeme"
+        "Reported by Engadget, Wired Tech, TechCrunch and others"
       ],
       "items": [
+        {
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2227630/anthropic-ai-models-hacked-three-organizations-on-their-own/",
+          "published_at": "Fri, 31 Jul 2026 06:10:12 +0000",
+          "title": "Anthropic says its AI models also hacked three organizations on their own",
+          "standfirst": "After OpenAI's admission that its models broke into Hugging Face, Anthropic has now admitted that the models it was testing also hacked other organizations.",
+          "content": "After OpenAI's admission that its models broke into Hugging Face, Anthropic has now admitted that the models it was testing also hacked other organizations.",
+          "feed_position": 4,
+          "image_url": "https://www.engadget.com/img/gallery/anthropic-says-its-ai-models-also-hacked-three-organizations-on-their-own/l-intro-1785477729.jpg"
+        },
         {
           "source": "Wired Tech",
           "url": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
@@ -19,7 +29,7 @@
           "title": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
           "standfirst": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real organizations during third-party evaluations.",
           "content": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real organizations during third-party evaluations.",
-          "feed_position": 3,
+          "feed_position": 4,
           "image_url": "https://media.wired.com/photos/6a6bef5432fc2d440b7d5e3e/master/pass/Business_Claude-Escape.jpg"
         },
         {
@@ -32,31 +42,20 @@
           "feed_position": 0
         },
         {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/260730/p62#a260730p62",
-          "published_at": "Thu, 30 Jul 2026 20:05:01 -0400",
-          "title": "Anthropic says the models that breached three companies include Opus 4.7, Mythos 5, and an unnamed research model, and the earliest incidents date back to April (Robert McMillan/Wall Street Journal)",
-          "standfirst": "Robert McMillan / Wall Street Journal: Anthropic says the models that breached three companies include Opus 4.7, Mythos 5, and an unnamed research model, and the earliest incidents date back to April &mdash; The breaches, which follow a similar incident involving rival OpenAI and startup Hugging Face, were due to a mistake, Anthropic said",
-          "content": "Robert McMillan / Wall Street Journal: Anthropic says the models that breached three companies include Opus 4.7, Mythos 5, and an unnamed research model, and the earliest incidents date back to April &mdash; The breaches, which follow a similar incident involving rival OpenAI and startup Hugging Face, were due to a mistake, Anthropic said",
-          "feed_position": 13,
-          "image_url": "http://www.techmeme.com/260730/i62.jpg"
-        },
-        {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/260730/p61#a260730p61",
-          "published_at": "Thu, 30 Jul 2026 19:30:01 -0400",
-          "title": "Anthropic says it discovered three of its models had breached three organizations after launching a review in response to the OpenAI-Hugging Face incident (Anthropic)",
-          "standfirst": "Anthropic: Anthropic says it discovered three of its models had breached three organizations after launching a review in response to the OpenAI-Hugging Face incident &mdash; In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet &hellip;",
-          "content": "Anthropic: Anthropic says it discovered three of its models had breached three organizations after launching a review in response to the OpenAI-Hugging Face incident &mdash; In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet &hellip;",
-          "feed_position": 14,
-          "image_url": "http://www.techmeme.com/260730/i61.jpg"
+          "source": "Guardian Tech",
+          "url": "https://www.theguardian.com/technology/2026/jul/30/anthropic-ai-claude-hack",
+          "published_at": "Fri, 31 Jul 2026 00:22:16 GMT",
+          "title": "Anthropic’s AI Claude escaped testing environment and hacked organizations",
+          "standfirst": "Company says it discovered unauthorized access during ‘proactive review’ after rival OpenAI revealed rogue agentAnthropic ⁠said on Thursday its AI Claude model hacked ⁠systems of ⁠three ​organizations during testing, days after rival OpenAI ⁠revealed a rogue agent had gone on a days-long ⁠hacking spree at AI ​firm Hugging ‌Face.Claude gained ‌unauthorized access to the ‌systems during cybersecurity evaluations after a misconfiguration allowed the models to reach the internet from testing environments that ‌were supposed to be isolated, Anthropic said. Continue reading...",
+          "content": "Company says it discovered unauthorized access during ‘proactive review’ after rival OpenAI revealed rogue agentAnthropic ⁠said on Thursday its AI Claude model hacked ⁠systems of ⁠three ​organizations during testing, days after rival OpenAI ⁠revealed a rogue agent had gone on a days-long ⁠hacking spree at AI ​firm Hugging ‌Face.Claude gained ‌unauthorized access to the ‌systems during cybersecurity evaluations after a misconfiguration allowed the models to reach the internet from testing environments that ‌were supposed to be isolated, Anthropic said. Continue reading...",
+          "feed_position": 0
         }
       ],
-      "featured_image": "https://media.wired.com/photos/6a6bef5432fc2d440b7d5e3e/master/pass/Business_Claude-Escape.jpg",
-      "popularity_score": 3015.437341111111
+      "featured_image": "https://www.engadget.com/img/gallery/anthropic-says-its-ai-models-also-hacked-three-organizations-on-their-own/l-intro-1785477729.jpg",
+      "popularity_score": 4016.538866388889
     },
     {
-      "id": "cluster_45",
+      "id": "cluster_58",
       "coverage": 3,
       "updated_at": "2026-07-30T14:43:26-04:00",
       "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
@@ -90,15 +89,49 @@
           "title": "LinkedIn is testing a 'seems like AI slop' reporting tool",
           "standfirst": "The company is also removing some of its own AI-writing features.",
           "content": "The company is also removing some of its own AI-writing features.",
-          "feed_position": 11,
+          "feed_position": 16,
           "image_url": "https://www.engadget.com/img/gallery/linkedin-is-testing-a-seems-like-ai-slop-reporting-tool/l-intro-1785430425.jpg"
         }
       ],
       "featured_image": "https://www.engadget.com/img/gallery/linkedin-is-testing-a-seems-like-ai-slop-reporting-tool/l-intro-1785430425.jpg",
-      "popularity_score": 3008.7540077777776
+      "popularity_score": 3005.092755277778
     },
     {
-      "id": "cluster_7",
+      "id": "cluster_9",
+      "coverage": 2,
+      "updated_at": "Fri, 31 Jul 2026 08:18:25 +0000",
+      "title": "Amazon's Zoox is the first steering wheel-free robotaxi to get regulatory approval for paid rides",
+      "neutral_headline": "Amazon's Zoox is the first steering wheel-free robotaxi to get...",
+      "bullet_summary": [
+        "Reported by Engadget, Wired Tech"
+      ],
+      "items": [
+        {
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2227649/amazon-zoox-first-steering-wheel-free-robotaxi-regulatory-approval-paid-rides/",
+          "published_at": "Fri, 31 Jul 2026 08:18:25 +0000",
+          "title": "Amazon's Zoox is the first steering wheel-free robotaxi to get regulatory approval for paid rides",
+          "standfirst": "The NHTSA has given Amazon's Zoox permission to charge for rides. It's the first AV with no manual controls to get it.",
+          "content": "The NHTSA has given Amazon's Zoox permission to charge for rides. It's the first AV with no manual controls to get it.",
+          "feed_position": 1,
+          "image_url": "https://www.engadget.com/img/gallery/amazons-zoox-is-the-first-steering-wheel-free-robotaxi-to-get-regulatory-approval-for-paid-rides/l-intro-1785485776.jpg"
+        },
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/zoox-becomes-the-first-steering-wheel-free-robotaxi-to-charge-for-rides-in-the-us/",
+          "published_at": "Thu, 30 Jul 2026 17:06:13 +0000",
+          "title": "For the First Time, Zoox Can Charge People for Rides in Its Steering-Wheel-Free Robotaxis",
+          "standfirst": "The temporary exemption from federal safety standards will let Amazon’s Zoox launch a real, paid robotaxi service in Las Vegas.",
+          "content": "The temporary exemption from federal safety standards will let Amazon’s Zoox launch a real, paid robotaxi service in Las Vegas.",
+          "feed_position": 10,
+          "image_url": "https://media.wired.com/photos/6a6b6dfa2b183a271524a823/master/pass/GettyImages-2264121440.jpg"
+        }
+      ],
+      "featured_image": "https://www.engadget.com/img/gallery/amazons-zoox-is-the-first-steering-wheel-free-robotaxi-to-get-regulatory-approval-for-paid-rides/l-intro-1785485776.jpg",
+      "popularity_score": 2018.6758108333333
+    },
+    {
+      "id": "cluster_22",
       "coverage": 2,
       "updated_at": "Fri, 31 Jul 2026 00:00:14 -0400",
       "title": "A leaked memo, issued by the water utilities information sharing group WaterISAC, links dozens of cyberattacks against Minnesota water utilities to Iran (Andy Greenberg/Wired)",
@@ -114,7 +147,7 @@
           "title": "A leaked memo, issued by the water utilities information sharing group WaterISAC, links dozens of cyberattacks against Minnesota water utilities to Iran (Andy Greenberg/Wired)",
           "standfirst": "Andy Greenberg / Wired: A leaked memo, issued by the water utilities information sharing group WaterISAC, links dozens of cyberattacks against Minnesota water utilities to Iran &mdash; A memo obtained by WIRED, issued by the water utilities information sharing group WaterISAC, links dozens of cyberattacks against Minnesota water utilities to Tehran.",
           "content": "Andy Greenberg / Wired: A leaked memo, issued by the water utilities information sharing group WaterISAC, links dozens of cyberattacks against Minnesota water utilities to Iran &mdash; A memo obtained by WIRED, issued by the water utilities information sharing group WaterISAC, links dozens of cyberattacks against Minnesota water utilities to Tehran.",
-          "feed_position": 4,
+          "feed_position": 8,
           "image_url": "http://www.techmeme.com/260731/i1.jpg"
         },
         {
@@ -124,15 +157,15 @@
           "title": "A Leaked Memo Ties Cyberattacks on Minnesota Water Utilities to Iran",
           "standfirst": "A memo obtained by WIRED, issued by the water utilities information sharing group WaterISAC, links dozens of cyberattacks against Minnesota water utilities to Tehran.",
           "content": "A memo obtained by WIRED, issued by the water utilities information sharing group WaterISAC, links dozens of cyberattacks against Minnesota water utilities to Tehran.",
-          "feed_position": 5,
+          "feed_position": 6,
           "image_url": "https://media.wired.com/photos/6a6b857e3e12d1f6b4b61e35/master/pass/GettyImages-1138939276.jpg"
         }
       ],
       "featured_image": "http://www.techmeme.com/260731/i1.jpg",
-      "popularity_score": 2018.0340077777778
+      "popularity_score": 2014.3727552777777
     },
     {
-      "id": "cluster_15",
+      "id": "cluster_30",
       "coverage": 2,
       "updated_at": "Thu, 30 Jul 2026 21:10:01 -0400",
       "title": "Apple CFO Kevan Parekh says Services surpassed 1.5B paid subscriptions, up from 1B in January 2025, but a gaming slowdown and App Store changes hurt growth (Sarah Perez/TechCrunch)",
@@ -149,7 +182,7 @@
           "title": "Apple CFO Kevan Parekh says Services surpassed 1.5B paid subscriptions, up from 1B in January 2025, but a gaming slowdown and App Store changes hurt growth (Sarah Perez/TechCrunch)",
           "standfirst": "Sarah Perez / TechCrunch: Apple CFO Kevan Parekh says Services surpassed 1.5B paid subscriptions, up from 1B in January 2025, but a gaming slowdown and App Store changes hurt growth &mdash; Apple says it has now topped 1.5 billion subscribers for its services business, up from 1 billion in January 2025.",
           "content": "Sarah Perez / TechCrunch: Apple CFO Kevan Parekh says Services surpassed 1.5B paid subscriptions, up from 1B in January 2025, but a gaming slowdown and App Store changes hurt growth &mdash; Apple says it has now topped 1.5 billion subscribers for its services business, up from 1 billion in January 2025.",
-          "feed_position": 10,
+          "feed_position": 14,
           "image_url": "http://www.techmeme.com/260730/i65.jpg"
         },
         {
@@ -163,10 +196,10 @@
         }
       ],
       "featured_image": "http://www.techmeme.com/260730/i65.jpg",
-      "popularity_score": 2015.1970633333333
+      "popularity_score": 2011.5358108333332
     },
     {
-      "id": "cluster_20",
+      "id": "cluster_33",
       "coverage": 2,
       "updated_at": "Thu, 30 Jul 2026 23:17:46 +0000",
       "title": "How the FCC’s New Rule Will Affect Robot Vacuums",
@@ -182,7 +215,7 @@
           "title": "How the FCC’s New Rule Will Affect Robot Vacuums",
           "standfirst": "A new restriction on foreign-made mobile robots affects robotic vacuums, pool cleaners, and lawn mowers. Here’s what it means for the bots already in your home—and the ones you may never get to buy.",
           "content": "A new restriction on foreign-made mobile robots affects robotic vacuums, pool cleaners, and lawn mowers. Here’s what it means for the bots already in your home—and the ones you may never get to buy.",
-          "feed_position": 4,
+          "feed_position": 5,
           "image_url": "https://media.wired.com/photos/6a6bd3709585cd0b1c9cc267/master/pass/The-FCC-Is-Coming-for-Robot-Vacuums.-How-Soon-Will-It-Be-a-Problem-.jpg"
         },
         {
@@ -192,14 +225,14 @@
           "title": "What the FCC ban on foreign-made robot vacuums means for your Roomba",
           "standfirst": "The FCC's robot ban includes many of the world's most popular vacuums and lawn mowers. Is that Roomba in your closet a security risk?",
           "content": "The FCC's robot ban includes many of the world's most popular vacuums and lawn mowers. Is that Roomba in your closet a security risk?",
-          "feed_position": 0
+          "feed_position": 2
         }
       ],
       "featured_image": "https://media.wired.com/photos/6a6bd3709585cd0b1c9cc267/master/pass/The-FCC-Is-Coming-for-Robot-Vacuums.-How-Soon-Will-It-Be-a-Problem-.jpg",
-      "popularity_score": 2013.32623
+      "popularity_score": 2009.6649775
     },
     {
-      "id": "cluster_27",
+      "id": "cluster_40",
       "coverage": 1,
       "updated_at": "Thu, 30 Jul 2026 22:05:35 +0000",
       "title": "Tim Cook passes the baton in Apple&#039;s Q3 2026 earnings call",
@@ -220,10 +253,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2017/12/GettyImages-869824586-1152x648.jpg",
-      "popularity_score": 357.12317444444443
+      "popularity_score": 353.46192194444444
     },
     {
-      "id": "cluster_30",
+      "id": "cluster_43",
       "coverage": 1,
       "updated_at": "Thu, 30 Jul 2026 20:57:22 +0000",
       "title": "Max-severity Exchange server flaw under active exploitation by Kremlin hackers",
@@ -244,10 +277,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
-      "popularity_score": 349.98623
+      "popularity_score": 346.3249775
     },
     {
-      "id": "cluster_82",
+      "id": "cluster_94",
       "coverage": 1,
       "updated_at": "Thu, 30 Jul 2026 14:53:07 +0000",
       "title": "New MCP specification addresses the main barrier to enterprise adoption",
@@ -268,10 +301,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/MCP-logo-1152x648.jpg",
-      "popularity_score": 342.91539666666665
+      "popularity_score": 339.25414416666666
     },
     {
-      "id": "cluster_73",
+      "id": "cluster_85",
       "coverage": 1,
       "updated_at": "Thu, 30 Jul 2026 15:59:37 +0000",
       "title": "Quantum computers outperform classical ones, with results you can trust",
@@ -292,10 +325,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/image-4-1152x648.png",
-      "popularity_score": 339.02373
+      "popularity_score": 335.3624775
     },
     {
-      "id": "cluster_34",
+      "id": "cluster_47",
       "coverage": 1,
       "updated_at": "Thu, 30 Jul 2026 20:45:39 +0000",
       "title": "Iran struck Amazon data centers again amid widening war, satellites show",
@@ -316,10 +349,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/AWS-logo-1024x648.jpg",
-      "popularity_score": 328.79095222222224
+      "popularity_score": 325.1296997222222
     },
     {
-      "id": "cluster_32",
+      "id": "cluster_45",
       "coverage": 1,
       "updated_at": "Thu, 30 Jul 2026 20:48:47 +0000",
       "title": "Trump FCC faces blowback in attempt to police speech on broadcast TV",
@@ -340,10 +373,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/brendan-carr-concordia-1152x648-1758655744.jpg",
-      "popularity_score": 323.84317444444446
+      "popularity_score": 320.18192194444447
     },
     {
-      "id": "cluster_122",
+      "id": "cluster_129",
       "coverage": 1,
       "updated_at": "Wed, 29 Jul 2026 20:57:35 +0000",
       "title": "Musk went to “war,” sought jail time for X ad boycotts—but case ends with a whimper",
@@ -367,7 +400,7 @@
       "popularity_score": 318
     },
     {
-      "id": "cluster_118",
+      "id": "cluster_125",
       "coverage": 1,
       "updated_at": "Wed, 29 Jul 2026 22:07:06 +0000",
       "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
@@ -392,7 +425,7 @@
       "popularity_score": 313
     },
     {
-      "id": "cluster_38",
+      "id": "cluster_51",
       "coverage": 1,
       "updated_at": "Thu, 30 Jul 2026 20:12:50 +0000",
       "title": "Just because a game is on disc doesn’t mean it will work in the future",
@@ -413,34 +446,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/discburn-1152x648.jpg",
-      "popularity_score": 303.24400777777777
+      "popularity_score": 299.5827552777778
     },
     {
-      "id": "cluster_52",
-      "coverage": 1,
-      "updated_at": "Thu, 30 Jul 2026 17:58:02 +0000",
-      "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
-      "neutral_headline": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
-      "bullet_summary": [
-        "Reported by Ars Technica Main"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica Main",
-          "url": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
-          "published_at": "Thu, 30 Jul 2026 17:58:02 +0000",
-          "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
-          "standfirst": "Gemini Robotics 2 includes three models, but only one is publicly available right now.",
-          "content": "Robots powered by Google's Gemini AI models are now more capable. With the debut of Gemini Robotics 2, these physical bots can now accomplish more complex tasks, continuously analyze changing environments, and collaborate with other robots. This is thanks to a trio of new sub-models, one of which is publicly available for developers starting today. Videos of robots running, dancing, and backflipping have been a staple of the Internet for years, but these machines were programmed to perform these very narrow tasks. The goal of Gemini robotics is to create a generalist robot, one that can do anything a human could do. Google DeepMind scientists sometimes call this \"physical AGI.\" Essentially, you tell a robot what to do, and it does it. With the 2.0 release, Google says its robotics AI can control an entire humanoid robot with improved dexterity, even for machines with complex humanoid hands. Gemini Robotics 2 brings whole-body intelligence to robots. This starts with Gemini Robotics ER 2, an upgraded \"embodied reasoning\" model that DeepMind claims is a significant leap over the previous 1.6 release. It's integrated with the Gemini Live API, giving developers the opportunity to experience that supposed leap forward.Read full article Comments",
-          "feed_position": 6,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/gemini-robotics-2-1152x648.png"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/gemini-robotics-2-1152x648.png",
-      "popularity_score": 298.9973411111111
-    },
-    {
-      "id": "cluster_126",
+      "id": "cluster_133",
       "coverage": 1,
       "updated_at": "Wed, 29 Jul 2026 19:33:55 +0000",
       "title": "Comcast store punished low sales by smashing pies in workers' faces, lawsuit claims",
@@ -464,7 +473,31 @@
       "popularity_score": 298
     },
     {
-      "id": "cluster_124",
+      "id": "cluster_65",
+      "coverage": 1,
+      "updated_at": "Thu, 30 Jul 2026 17:58:02 +0000",
+      "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
+      "neutral_headline": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
+      "bullet_summary": [
+        "Reported by Ars Technica Main"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica Main",
+          "url": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
+          "published_at": "Thu, 30 Jul 2026 17:58:02 +0000",
+          "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
+          "standfirst": "Gemini Robotics 2 includes three models, but only one is publicly available right now.",
+          "content": "Robots powered by Google's Gemini AI models are now more capable. With the debut of Gemini Robotics 2, these physical bots can now accomplish more complex tasks, continuously analyze changing environments, and collaborate with other robots. This is thanks to a trio of new sub-models, one of which is publicly available for developers starting today. Videos of robots running, dancing, and backflipping have been a staple of the Internet for years, but these machines were programmed to perform these very narrow tasks. The goal of Gemini robotics is to create a generalist robot, one that can do anything a human could do. Google DeepMind scientists sometimes call this \"physical AGI.\" Essentially, you tell a robot what to do, and it does it. With the 2.0 release, Google says its robotics AI can control an entire humanoid robot with improved dexterity, even for machines with complex humanoid hands. Gemini Robotics 2 brings whole-body intelligence to robots. This starts with Gemini Robotics ER 2, an upgraded \"embodied reasoning\" model that DeepMind claims is a significant leap over the previous 1.6 release. It's integrated with the Gemini Live API, giving developers the opportunity to experience that supposed leap forward.Read full article Comments",
+          "feed_position": 6,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/gemini-robotics-2-1152x648.png"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/gemini-robotics-2-1152x648.png",
+      "popularity_score": 295.3360886111111
+    },
+    {
+      "id": "cluster_131",
       "coverage": 1,
       "updated_at": "Wed, 29 Jul 2026 20:03:42 +0000",
       "title": "Who wins and who loses after US bans foreign robots?",
@@ -488,7 +521,7 @@
       "popularity_score": 293
     },
     {
-      "id": "cluster_42",
+      "id": "cluster_55",
       "coverage": 1,
       "updated_at": "Thu, 30 Jul 2026 19:26:56 +0000",
       "title": "Chrome may get faster updates with no restart required",
@@ -509,10 +542,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Chrome-shield-1152x648.png",
-      "popularity_score": 292.4790077777778
+      "popularity_score": 288.8177552777778
     },
     {
-      "id": "cluster_133",
+      "id": "cluster_140",
       "coverage": 1,
       "updated_at": "Wed, 29 Jul 2026 18:08:22 +0000",
       "title": "Google's \"privacy-preserving\" age verification system is coming to the Play Store",
@@ -536,7 +569,7 @@
       "popularity_score": 285
     },
     {
-      "id": "cluster_59",
+      "id": "cluster_72",
       "coverage": 1,
       "updated_at": "Thu, 30 Jul 2026 17:35:57 +0000",
       "title": "Space Force-backed mission does its best impression of Top Gun in orbit",
@@ -557,10 +590,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/victus_1.jpg",
-      "popularity_score": 278.62928555555555
+      "popularity_score": 274.96803305555557
     },
     {
-      "id": "cluster_128",
+      "id": "cluster_135",
       "coverage": 1,
       "updated_at": "Wed, 29 Jul 2026 19:23:27 +0000",
       "title": "Customize Ars your way with an Ars Pro subscription",
@@ -584,7 +617,7 @@
       "popularity_score": 273
     },
     {
-      "id": "cluster_135",
+      "id": "cluster_142",
       "coverage": 1,
       "updated_at": "Wed, 29 Jul 2026 17:58:24 +0000",
       "title": "Elon Musk’s xAI is trying to sue its way out of a Grok reckoning",
@@ -608,7 +641,7 @@
       "popularity_score": 268
     },
     {
-      "id": "cluster_136",
+      "id": "cluster_143",
       "coverage": 1,
       "updated_at": "Wed, 29 Jul 2026 17:37:47 +0000",
       "title": "Yet more qubit tech: New quantum dot options, diamond vacancies",
@@ -632,7 +665,7 @@
       "popularity_score": 243
     },
     {
-      "id": "cluster_156",
+      "id": "cluster_159",
       "coverage": 1,
       "updated_at": "Wed, 29 Jul 2026 11:00:39 +0000",
       "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI disinformation",
@@ -656,7 +689,7 @@
       "popularity_score": 160
     },
     {
-      "id": "cluster_141",
+      "id": "cluster_148",
       "coverage": 1,
       "updated_at": "Wed, 29 Jul 2026 15:16:22 +0000",
       "title": "Gaming and IRL worlds collide in Jumanji: Open World trailer",
@@ -680,7 +713,7 @@
       "popularity_score": 148
     },
     {
-      "id": "cluster_148",
+      "id": "cluster_154",
       "coverage": 1,
       "updated_at": "Wed, 29 Jul 2026 13:23:31 +0000",
       "title": "What happens when you put AI to work deciphering lost languages?",
@@ -704,7 +737,7 @@
       "popularity_score": 148
     },
     {
-      "id": "cluster_139",
+      "id": "cluster_146",
       "coverage": 1,
       "updated_at": "Wed, 29 Jul 2026 15:52:48 +0000",
       "title": "Anthropic is finding bugs faster than Microsoft can fix them",
@@ -728,7 +761,7 @@
       "popularity_score": 145
     },
     {
-      "id": "cluster_137",
+      "id": "cluster_144",
       "coverage": 1,
       "updated_at": "Wed, 29 Jul 2026 17:24:41 +0000",
       "title": "Actually, Starliner might fly into space this year",
@@ -753,7 +786,7 @@
       "popularity_score": 138
     },
     {
-      "id": "cluster_140",
+      "id": "cluster_147",
       "coverage": 1,
       "updated_at": "Wed, 29 Jul 2026 15:33:20 +0000",
       "title": "New AMD Linux patch boosts low-end gaming performance on Steam Deck",
@@ -777,7 +810,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_161",
+      "id": "cluster_164",
       "coverage": 1,
       "updated_at": "Wed, 29 Jul 2026 10:00:51 +0000",
       "title": "Elon Musk finally launches X Money. What could possibly go wrong?",
