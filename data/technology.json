@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-02T11:56:14.835Z",
+  "updated_at": "2026-08-02T20:06:14.495Z",
   "clusters": [
     {
-      "id": "cluster_22",
+      "id": "cluster_42",
       "coverage": 3,
       "updated_at": "Sat, 01 Aug 2026 20:26:04 +0000",
       "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
@@ -18,7 +18,7 @@
           "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
           "standfirst": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
           "content": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
-          "feed_position": 1
+          "feed_position": 4
         },
         {
           "source": "TechMeme",
@@ -27,7 +27,7 @@
           "title": "US judge refuses xAI's request to stop a Minnesota law banning \"nudify\" apps, noting the request came only three days before the law was to take effect (NBC News)",
           "standfirst": "NBC News: US judge refuses xAI's request to stop a Minnesota law banning &ldquo;nudify&rdquo; apps, noting the request came only three days before the law was to take effect &mdash; The ruling clears the way for the first-in-the-nation law to go into effect on Saturday. &mdash; A federal judge on Friday denied &hellip;",
           "content": "NBC News: US judge refuses xAI's request to stop a Minnesota law banning &ldquo;nudify&rdquo; apps, noting the request came only three days before the law was to take effect &mdash; The ruling clears the way for the first-in-the-nation law to go into effect on Saturday. &mdash; A federal judge on Friday denied &hellip;",
-          "feed_position": 7,
+          "feed_position": 10,
           "image_url": "http://www.techmeme.com/260801/i16.jpg"
         },
         {
@@ -37,48 +37,83 @@
           "title": "Judge refuses xAI's request to stop a Minnesota law banning 'nudify' apps",
           "standfirst": "xAI filed a lawsuit a few days ago to prevent Minnesota's law banning 'nudify' apps from taking effect.",
           "content": "xAI filed a lawsuit a few days ago to prevent Minnesota's law banning 'nudify' apps from taking effect.",
-          "feed_position": 5,
+          "feed_position": 12,
           "image_url": "https://www.engadget.com/img/gallery/judge-refuses-xais-request-to-stop-a-minnesota-law-banning-nudify-apps/l-intro-1785599591.jpg"
         }
       ],
       "featured_image": "http://www.techmeme.com/260801/i16.jpg",
-      "popularity_score": 3004.496990277778
+      "popularity_score": 3000
     },
     {
-      "id": "cluster_102",
+      "id": "cluster_5",
       "coverage": 2,
-      "updated_at": "Fri, 31 Jul 2026 19:11:08 +0000",
-      "title": "Snapchat is cracking down on AI slop in Spotlight",
-      "neutral_headline": "Snapchat is cracking down on AI slop in Spotlight",
+      "updated_at": "Sun, 02 Aug 2026 13:45:14 -0400",
+      "title": "Experts say US law is unprepared for rogue AI agents and models, as recent OpenAI and Anthropic incidents raise questions over legal liability and repercussions (Lily Hay Newman/Wired)",
+      "neutral_headline": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
       "bullet_summary": [
-        "Reported by Engadget, TechCrunch"
+        "Reported by TechMeme, Wired Tech"
+      ],
+      "items": [
+        {
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/260802/p8#a260802p8",
+          "published_at": "Sun, 02 Aug 2026 13:45:14 -0400",
+          "title": "Experts say US law is unprepared for rogue AI agents and models, as recent OpenAI and Anthropic incidents raise questions over legal liability and repercussions (Lily Hay Newman/Wired)",
+          "standfirst": "Lily Hay Newman / Wired: Experts say US law is unprepared for rogue AI agents and models, as recent OpenAI and Anthropic incidents raise questions over legal liability and repercussions &mdash; Both major AI labs' models broke containment, escaped onto the internet, and hacked other companies.",
+          "content": "Lily Hay Newman / Wired: Experts say US law is unprepared for rogue AI agents and models, as recent OpenAI and Anthropic incidents raise questions over legal liability and repercussions &mdash; Both major AI labs' models broke containment, escaped onto the internet, and hacked other companies.",
+          "feed_position": 1,
+          "image_url": "http://www.techmeme.com/260802/i8.jpg"
+        },
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
+          "published_at": "Sat, 01 Aug 2026 09:30:00 +0000",
+          "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
+          "standfirst": "Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be against them. But a bot?",
+          "content": "Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be against them. But a bot?",
+          "feed_position": 17,
+          "image_url": "https://media.wired.com/photos/6a6d14b8b61d0975176f3aa8/master/pass/Security_The%20OpenAI%20and%20Anthropic%20Hacking%20Sprees%20May%20Have%20Legal%20Consequences_v1.jpg"
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/260802/i8.jpg",
+      "popularity_score": 2017.6498627777778
+    },
+    {
+      "id": "cluster_6",
+      "coverage": 2,
+      "updated_at": "Sun, 02 Aug 2026 17:30:00 +0000",
+      "title": "Here's where you want to be to see the 2026 solar eclipse",
+      "neutral_headline": "Here's where you want to be to see the 2026 solar eclipse",
+      "bullet_summary": [
+        "Reported by Engadget, Wired Tech"
       ],
       "items": [
         {
           "source": "Engadget",
-          "url": "https://www.engadget.com/2228152/snapchat-is-cracking-down-on-ai-slop-in-spotlight/",
-          "published_at": "Fri, 31 Jul 2026 19:11:08 +0000",
-          "title": "Snapchat is cracking down on AI slop in Spotlight",
-          "standfirst": "Videos made with AI will no longer appear in Snapchat's public recommendations.",
-          "content": "Videos made with AI will no longer appear in Snapchat's public recommendations.",
-          "feed_position": 16,
-          "image_url": "https://www.engadget.com/img/gallery/snapchat-is-cracking-down-on-ai-slop-in-spotlight/l-intro-1785524986.jpg"
+          "url": "https://www.engadget.com/2226181/2026-solar-eclipse-what-part-of-united-states-can-see/",
+          "published_at": "Sun, 02 Aug 2026 17:30:00 +0000",
+          "title": "Here's where you want to be to see the 2026 solar eclipse",
+          "standfirst": "If you want the best view of the 2026 solar eclipse, you'll need to travel to Spain or Iceland.",
+          "content": "If you want the best view of the 2026 solar eclipse, you'll need to travel to Spain or Iceland.",
+          "feed_position": 2,
+          "image_url": "https://www.engadget.com/img/gallery/heres-where-you-want-to-be-to-see-the-2026-solar-eclipse/l-intro-1785248566.jpg"
         },
         {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
-          "published_at": "Fri, 31 Jul 2026 16:49:08 +0000",
-          "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
-          "standfirst": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
-          "content": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
-          "feed_position": 17
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/two-eclipses-august-how-to-see-them/",
+          "published_at": "Sun, 02 Aug 2026 10:30:00 +0000",
+          "title": "There Are 2 Eclipses This August. Here’s How to See Them",
+          "standfirst": "Everything you need to know about the solar eclipse and lunar eclipse that will occur in August 2026.",
+          "content": "Everything you need to know about the solar eclipse and lunar eclipse that will occur in August 2026.",
+          "feed_position": 3,
+          "image_url": "https://media.wired.com/photos/6a6cc802e820d2debdfeee44/master/pass/eclipsesolar.jpg"
         }
       ],
-      "featured_image": "https://www.engadget.com/img/gallery/snapchat-is-cracking-down-on-ai-slop-in-spotlight/l-intro-1785524986.jpg",
-      "popularity_score": 2000
+      "featured_image": "https://www.engadget.com/img/gallery/heres-where-you-want-to-be-to-see-the-2026-solar-eclipse/l-intro-1785248566.jpg",
+      "popularity_score": 2017.3959738888889
     },
     {
-      "id": "cluster_56",
+      "id": "cluster_70",
       "coverage": 1,
       "updated_at": "Sat, 01 Aug 2026 12:30:36 +0000",
       "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
@@ -102,31 +137,7 @@
       "popularity_score": 340
     },
     {
-      "id": "cluster_30",
-      "coverage": 1,
-      "updated_at": "Sat, 01 Aug 2026 18:20:11 +0000",
-      "title": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
-      "neutral_headline": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
-          "published_at": "Sat, 01 Aug 2026 18:20:11 +0000",
-          "title": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
-          "standfirst": "\"We believe that a capture of Swift, an attempted capture of Swift, is very much in the cards.\"",
-          "content": "One week ago, more than 200 miles above the Earth, a refrigerator-size satellite making its way toward an attempted rescue of NASA's $500 million Swift gamma-ray observatory suddenly spun out of control. It didn't look good. The spacecraft, named Link, was rotating on multiple axes, rendering it unable to maintain a reliable communications link with the ground and complicating efforts to arrest the spin. Two of the satellite's three reaction wheels, used for pointing, also stopped working. Through sporadic radio contact, engineers discovered a problem with some of the spacecraft's cold gas thrusters used for finer attitude control. The Link satellite is built, owned, and operated by Katalyst Space Technologies, a satellite servicing startup that won a $30 million contract from NASA to fly up to the Swift observatory, grab onto it, and boost its orbit before succumbing to aerodynamic drag and burning up int he atmosphere.Read full article Comments",
-          "feed_position": 0,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Swift_and_LINK_withEarthartist_concept-1152x648.png"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Swift_and_LINK_withEarthartist_concept-1152x648.png",
-      "popularity_score": 335.39893472222224
-    },
-    {
-      "id": "cluster_43",
+      "id": "cluster_62",
       "coverage": 1,
       "updated_at": "Sat, 01 Aug 2026 15:19:04 +0000",
       "title": "Review: Yes, we're still arguing about Nolan's The Odyssey",
@@ -150,7 +161,31 @@
       "popularity_score": 334
     },
     {
-      "id": "cluster_62",
+      "id": "cluster_50",
+      "coverage": 1,
+      "updated_at": "Sat, 01 Aug 2026 18:20:11 +0000",
+      "title": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
+      "neutral_headline": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
+          "published_at": "Sat, 01 Aug 2026 18:20:11 +0000",
+          "title": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
+          "standfirst": "\"We believe that a capture of Swift, an attempted capture of Swift, is very much in the cards.\"",
+          "content": "One week ago, more than 200 miles above the Earth, a refrigerator-size satellite making its way toward an attempted rescue of NASA's $500 million Swift gamma-ray observatory suddenly spun out of control. It didn't look good. The spacecraft, named Link, was rotating on multiple axes, rendering it unable to maintain a reliable communications link with the ground and complicating efforts to arrest the spin. Two of the satellite's three reaction wheels, used for pointing, also stopped working. Through sporadic radio contact, engineers discovered a problem with some of the spacecraft's cold gas thrusters used for finer attitude control. The Link satellite is built, owned, and operated by Katalyst Space Technologies, a satellite servicing startup that won a $30 million contract from NASA to fly up to the Swift observatory, grab onto it, and boost its orbit before succumbing to aerodynamic drag and burning up int he atmosphere.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Swift_and_LINK_withEarthartist_concept-1152x648.png"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Swift_and_LINK_withEarthartist_concept-1152x648.png",
+      "popularity_score": 333
+    },
+    {
+      "id": "cluster_75",
       "coverage": 1,
       "updated_at": "Sat, 01 Aug 2026 11:30:54 +0000",
       "title": "After noise complaints, judge orders Waymo to stop overnight charging in Santa Monica",
@@ -174,7 +209,7 @@
       "popularity_score": 318
     },
     {
-      "id": "cluster_71",
+      "id": "cluster_84",
       "coverage": 1,
       "updated_at": "Sat, 01 Aug 2026 10:05:21 +0000",
       "title": "Defcon's new badge is a security key you can see inside",
@@ -198,7 +233,7 @@
       "popularity_score": 303
     },
     {
-      "id": "cluster_74",
+      "id": "cluster_87",
       "coverage": 1,
       "updated_at": "Sat, 01 Aug 2026 10:00:19 +0000",
       "title": "How fruit flies chase invisible ribbons of smell to get to their source",
@@ -222,7 +257,7 @@
       "popularity_score": 283
     },
     {
-      "id": "cluster_91",
+      "id": "cluster_100",
       "coverage": 1,
       "updated_at": "Fri, 31 Jul 2026 21:51:52 +0000",
       "title": "Doctors took a look at man's painful shoulder—they found the joint was missing",
@@ -246,7 +281,7 @@
       "popularity_score": 278
     },
     {
-      "id": "cluster_86",
+      "id": "cluster_97",
       "coverage": 1,
       "updated_at": "Fri, 31 Jul 2026 22:17:05 +0000",
       "title": "Not just Neanderthals: Ghost lineage in Africa left its mark on our DNA",
@@ -270,7 +305,7 @@
       "popularity_score": 273
     },
     {
-      "id": "cluster_92",
+      "id": "cluster_101",
       "coverage": 1,
       "updated_at": "Fri, 31 Jul 2026 21:35:56 +0000",
       "title": "Google plans to exempt sanctioned nations from Android developer verification",
@@ -294,7 +329,7 @@
       "popularity_score": 271
     },
     {
-      "id": "cluster_93",
+      "id": "cluster_102",
       "coverage": 1,
       "updated_at": "Fri, 31 Jul 2026 21:19:39 +0000",
       "title": "Reddit keeps its strange DMCA fight over Google search results alive",
@@ -318,7 +353,7 @@
       "popularity_score": 255
     },
     {
-      "id": "cluster_98",
+      "id": "cluster_105",
       "coverage": 1,
       "updated_at": "Fri, 31 Jul 2026 20:21:05 +0000",
       "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
@@ -344,150 +379,6 @@
     {
       "id": "cluster_104",
       "coverage": 1,
-      "updated_at": "Fri, 31 Jul 2026 19:04:56 +0000",
-      "title": "Would you get tattooed just to interview at a 7-days-a-week AI startup?",
-      "neutral_headline": "Would you get tattooed just to interview at a 7-days-a-week AI startup",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/",
-          "published_at": "Fri, 31 Jul 2026 19:04:56 +0000",
-          "title": "Would you get tattooed just to interview at a 7-days-a-week AI startup?",
-          "standfirst": "LemonLime’s CEO got “carried away” with tattoo gimmick.",
-          "content": "Everyone knows that great gimmicks are the key to hiring top developers for your startup. That's why small AI startup LemonLime—which \"optimizes your existing data to work with AI\"—has so many of them. Want a job interview? Score a perfect 7/7 on the company's own \"Is it a Lemon or a Lime?\" game. Or—hear me out—get something permanently tattooed on your flesh. LemonLime has tried both tactics in the past few weeks. The tattoo stunt generated the most publicity, of course, much of it negative. According to a writeup in Inc., seven people took the deal and got tattooed with the LemonLime logo during a party.Read full article Comments",
-          "feed_position": 12,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2277100086-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2277100086-1152x648.jpg",
-      "popularity_score": 148
-    },
-    {
-      "id": "cluster_108",
-      "coverage": 1,
-      "updated_at": "Fri, 31 Jul 2026 18:11:55 +0000",
-      "title": "High school defends staying silent while boys made AI nudes of 59 classmates",
-      "neutral_headline": "High school defends staying silent while boys made AI nudes of 59 classmates",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
-          "published_at": "Fri, 31 Jul 2026 18:11:55 +0000",
-          "title": "High school defends staying silent while boys made AI nudes of 59 classmates",
-          "standfirst": "Gaps in laws may help Pennsylvania high school escape AI nudes scandal.",
-          "content": "One of the first schools to shut down after students were found making AI nudes of female classmates is now asking a court to toss a lawsuit filed by victims who claimed that the school stayed silent for months while the emboldened boys targeted many more girls. In a motion to dismiss this week, Lancaster Country Day School (LCDS)—a private K-12 school in Pennsylvania with fewer than 600 students—argued that it was false to say the school never reported the harm to law enforcement. The tip that the school received came from the Pennsylvania Office of the Attorney General, which is itself a law enforcement agency, the filing said. It’s also false to say the school knew that girls were being targeted, the school argued, because the tip did not mention any specific student victims.Read full article Comments",
-          "feed_position": 13,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2150797132-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2150797132-1152x648.jpg",
-      "popularity_score": 148
-    },
-    {
-      "id": "cluster_132",
-      "coverage": 1,
-      "updated_at": "Fri, 31 Jul 2026 14:01:40 +0000",
-      "title": "AI scammers outperform humans when it comes to building trust",
-      "neutral_headline": "AI scammers outperform humans when it comes to building trust",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/",
-          "published_at": "Fri, 31 Jul 2026 14:01:40 +0000",
-          "title": "AI scammers outperform humans when it comes to building trust",
-          "standfirst": "The AI chatbot was more effective at creating “exploitable trust” than the humans.",
-          "content": "The notion that scammers can use AI to sharpen their deceptions, polish their language, and lubricate their banter with victims is now a reality for anyone fighting the fraud operations that steal tens of billions of dollars a year worldwide. But can AI fully replace a human scammer, autonomously building the web of deception leading up to the fake investment that defrauds the mark? One study's experiment suggests that it can—and may even be able to carry out the majority of that long con more effectively than humans. Researchers from four universities—Amrita Vishwa Vidyapeetham in India, Foscari University of Venice, the University of Melbourne, and Ben Gurion University of the Negev—carried out a broad study on the use and potential of generative AI chatbots in the growing scam industry centered around a form of fraud known as “pig butchering,” text-based romance scams that eventually shift to fake crypto investments that steal as much as six-figure sums from victims. In their study, the researchers pitted AI chatbots directly against humans in a simulation of the scamming process—or more specifically, the long, trust-building conversations that eventually lead up to soliciting a fake investment from the scam’s target. They found that for the relationship-establishing stages of the scam—the stage that in real-world scams typically represents the longest part of the interactions with the victim, often stretching to months—an AI chatbot performed remarkably effectively, successfully impersonating a human and by some measures outperforming the real human “scammers” in their experiment.Read full article Comments",
-          "feed_position": 18,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/scammer-1-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/scammer-1-1152x648.jpg",
-      "popularity_score": 148
-    },
-    {
-      "id": "cluster_134",
-      "coverage": 1,
-      "updated_at": "Fri, 31 Jul 2026 13:00:18 +0000",
-      "title": "Pathogenic review: Damn, it feels good to be a virus",
-      "neutral_headline": "Pathogenic review: Damn, it feels good to be a virus",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gaming/2026/07/pathogenic-review-damn-it-feels-good-to-be-a-virus/",
-          "published_at": "Fri, 31 Jul 2026 13:00:18 +0000",
-          "title": "Pathogenic review: Damn, it feels good to be a virus",
-          "standfirst": "The hot new roguelite twin-stick shooter lives up to the hype.",
-          "content": "Over the past couple of weeks, my immune system has been struggling to fight off a cold. It’s been unpleasant, as all colds are. But throughout this time—in defiance of my plight—I’ve been waging my own war against immune systems, thanks to Pathogenic, a new roguelite twin-stick shooter from developer Aberrant Labs. As I've downed endless shots of ineffective cough syrup, I’ve done little else with my free time than repeatedly take on the role of a bodily invader. And let me tell you: Being on the enemy’s side is much more fun. Really fun, as it turns out. Action roguelites are a dime a dozen these days, and it takes something special to stand out. So as quiet Internet whispers turned into widespread cacophonous praise—the little indie game quickly racked up 100,000 sales and an “overwhelmingly positive” review score on Steam—I set aside my default skepticism and gave it a shot.Read full article Comments",
-          "feed_position": 19,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/pathogenic1-1152x648.png"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/pathogenic1-1152x648.png",
-      "popularity_score": 144
-    },
-    {
-      "id": "cluster_110",
-      "coverage": 1,
-      "updated_at": "Fri, 31 Jul 2026 17:58:38 +0000",
-      "title": "Researchers devise a full-color night vision goggle",
-      "neutral_headline": "Researchers devise a full-color night vision goggle",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/07/see-the-heat-an-infrared-imaging-system-that-outputs-in-color/",
-          "published_at": "Fri, 31 Jul 2026 17:58:38 +0000",
-          "title": "Researchers devise a full-color night vision goggle",
-          "standfirst": "Wavelength and intensity in the infrared are translated into colors in the visible.",
-          "content": "Human eyes don’t register the infrared portion of the light spectrum because infrared photons don't carry enough energy to trigger the signaling pathway inside our light-sensing cells. But we’ve been able to make devices that give us a visual representation of what’s happening in the infrared. A team at the Beijing Institute of Technology, led by Xin Tang and Ge Mu, has now built a device that lets people see infrared in a new way. Instead of just translating it to visible shades of green as it’s done in standard night-vision goggles, it translates different infrared wavelengths into distinct parts of the visual spectrum, giving the eye something closer to natural vision. Researchers achieved that by combining mercury telluride colloidal quantum dots, which absorb infrared light, and a dual-layer OLED, which converts that absorbed energy into visible color. Stacked together with the right internal wiring, they make incoming infrared radiation come out the other side as an ordinary-looking, full-color image.Read full article Comments",
-          "feed_position": 14,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2235260160-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2235260160-1152x648.jpg",
-      "popularity_score": 139
-    },
-    {
-      "id": "cluster_113",
-      "coverage": 1,
-      "updated_at": "Fri, 31 Jul 2026 17:29:21 +0000",
-      "title": "China could supply EV manufacturing boom with recycled EVs",
-      "neutral_headline": "China could supply EV manufacturing boom with recycled EVs",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/07/china-could-supply-ev-manufacturing-boom-with-recycled-evs/",
-          "published_at": "Fri, 31 Jul 2026 17:29:21 +0000",
-          "title": "China could supply EV manufacturing boom with recycled EVs",
-          "standfirst": "Look at chemistry of batteries and motors shows big opportunity for recycling.",
-          "content": "While recycling is a mathematically obvious response to the finite, non-renewable nature of many resources, the economic math is often challenging. For many materials, it can be hard to compete with virgin materials on a cost basis. Fast-moving technologies like electric vehicles throw in an added complication: By the time a car is scrapped, the industry may have moved on to a different battery chemistry. That reduces the value of recycling the car’s battery back into the production chain. Still, a study led by Xin Xiong at Nanjing University finds that in China, recycling could become the dominant source of many key materials needed to manufacture EV components over the coming decades. Modeling manufacturing needs The researchers set out to model how the supply of recycled materials compares to manufacturing demand in China between 2010 and 2050. It covers materials relevant to batteries across hybrid, battery-electric, and even fuel-cell vehicles (lithium, cobalt, nickel, manganese, phosphorus, sodium, sulfur, and graphite), as well as several critical elements used in electric motors (copper, neodymium, dysprosium, samarium, and cerium).Read full article Comments",
-          "feed_position": 15,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1756050492-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1756050492-1152x648.jpg",
-      "popularity_score": 139
-    },
-    {
-      "id": "cluster_97",
-      "coverage": 1,
       "updated_at": "Fri, 31 Jul 2026 20:39:14 +0000",
       "title": "Claude published malicious code to the Internet and attacked 3 real companies",
       "neutral_headline": "Claude published malicious code to the Internet and attacked 3 real companies",
@@ -507,54 +398,6 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/robot-in-handcuffs-1152x648.jpg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_115",
-      "coverage": 1,
-      "updated_at": "Fri, 31 Jul 2026 17:07:42 +0000",
-      "title": "Sony acknowledges backlash, “cautiously” moves ahead with end of PlayStation discs",
-      "neutral_headline": "Sony acknowledges backlash, “cautiously” moves ahead with end of PlayStation discs",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gaming/2026/07/sony-acknowledges-backlash-will-cautiously-move-forward-with-end-of-discs/",
-          "published_at": "Fri, 31 Jul 2026 17:07:42 +0000",
-          "title": "Sony acknowledges backlash, “cautiously” moves ahead with end of PlayStation discs",
-          "standfirst": "Sony doesn't think the move will hurt it financially.",
-          "content": "Sony is “cautiously” moving forward with plans to stop producing discs for PlayStation games as of January 2028, CFO Lin Tao said through an interpreter today. During an earnings call, Tao said there are “various reasons” for Sony's decision, with the biggest being that the “digitalization of [content] overall has been progressing.” “When we think about the future, and we put in a lot of thought and time, and we cautiously considered this, and we came to this conclusion. And we’re going to cautiously move this forward,” Tao said.Read full article Comments",
-          "feed_position": 16,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2283657893-1024x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2283657893-1024x648.jpg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_122",
-      "coverage": 1,
-      "updated_at": "Fri, 31 Jul 2026 16:17:55 +0000",
-      "title": "Man invested $45M in a Nicolas Cage movie. It got stolen off Netflix’s desk.",
-      "neutral_headline": "Man invested $45M in a Nicolas Cage movie. It got stolen off Netflix’s desk.",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/07/man-invested-45m-in-a-nicolas-cage-movie-it-got-stolen-off-netflixs-desk/",
-          "published_at": "Fri, 31 Jul 2026 16:17:55 +0000",
-          "title": "Man invested $45M in a Nicolas Cage movie. It got stolen off Netflix’s desk.",
-          "standfirst": "Filmmaker sues Netflix over stolen screener of unreleased Nicolas Cage movie.",
-          "content": "Netflix has been sued after admitting that an unencrypted drive containing an unreleased, hotly anticipated 2026 blockbuster starring Nicolas Cage was stolen from its offices. In a lawsuit filed Wednesday, Netflix was accused of waiting a week to warn the production company, Op-Fortitude, that the movie, Fortitude, was swiped, along with other drives that were “stolen right off a Netflix desk.” “Someone stole a good amount of drives from our office desks this past week,” Sean Berney, director of Netflix Original Film, said in an email to a production company representative after several attempts to get Netflix to return the drives were allegedly ignored.Read full article Comments",
-          "feed_position": 17,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2275512221-1024x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2275512221-1024x648.jpg",
       "popularity_score": 133
     }
   ]
