@@ -1,17 +1,40 @@
 {
   "clinical": {
-    "updated_at": "2026-08-01T23:50:39.415Z",
+    "updated_at": "2026-08-02T05:48:28.017Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-08-01T23:50:39.415Z",
+    "updated_at": "2026-08-02T05:48:28.018Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-08-01T23:50:41.479Z",
+    "updated_at": "2026-08-02T05:48:32.007Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Sun, 02 Aug 2026 04:50:40 GMT",
+        "title": "Hundreds of dead fish in river linked to heatwave",
+        "neutral_headline": "Hundreds of dead fish in river linked to heatwave",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/news/articles/ckgd4d3280yo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sun, 02 Aug 2026 04:50:40 GMT",
+            "title": "Hundreds of dead fish in river linked to heatwave",
+            "standfirst": "The Environment Agency believes the fish were killed as a result of the heat and drain water.",
+            "content": "The Environment Agency believes the fish were killed as a result of the heat and drain water.",
+            "feed_position": 13,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fefa/live/003b00f0-8e2f-11f1-9802-ed93799f16b7.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fefa/live/003b00f0-8e2f-11f1-9802-ed93799f16b7.jpg"
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Sat, 01 Aug 2026 17:51:46 GMT",
         "title": "Italy putting nearly all major cities on highest heat alert",
@@ -34,7 +57,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f990/live/6272fba0-8dd1-11f1-b8ee-9b3c26ad07bb.jpg"
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Sat, 01 Aug 2026 16:00:56 GMT",
         "title": "Ultra-processed food companies hindering health drives by suing countries, says WHO",
@@ -55,7 +78,7 @@
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Sat, 01 Aug 2026 12:50:03 GMT",
         "title": "Free diver, 21, wants to 'give back' to the ocean that has helped him",
@@ -78,7 +101,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f981/live/bdfc6960-8cd3-11f1-a7ab-8b30adf0800a.jpg"
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Sat, 01 Aug 2026 12:00:51 GMT",
         "title": "Biohacker Bryan Johnson is keeping his girlfriend’s menstrual blood in his freezer | Arwa Mahdawi",
@@ -99,7 +122,7 @@
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Sat, 01 Aug 2026 11:00:52 GMT",
         "title": "Brazil’s HIV advocates say they predicted USAID funding cuts: ‘We would see the trends’",
@@ -120,7 +143,7 @@
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Sat, 01 Aug 2026 11:00:51 GMT",
         "title": "The great British switch-off: how floating retreats, mobile-free pubs and sauna book groups are freeing people from their smartphones",
@@ -142,7 +165,7 @@
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Sat, 01 Aug 2026 06:07:05 GMT",
         "title": "Should you take the plunge? How to tell how clean the sea is",
@@ -158,14 +181,14 @@
             "title": "Should you take the plunge? How to tell how clean the sea is",
             "standfirst": "From beach ratings to apps and flags, we take a look at how swimmers can check water quality.",
             "content": "From beach ratings to apps and flags, we take a look at how swimmers can check water quality.",
-            "feed_position": 13,
+            "feed_position": 14,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c188/live/d53053e0-8be2-11f1-9d57-5bf4695bf6fa.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c188/live/d53053e0-8be2-11f1-9d57-5bf4695bf6fa.jpg"
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Sat, 01 Aug 2026 05:00:45 GMT",
         "title": "‘I felt sick that he was near my mum’: a top amputation surgeon had his own legs removed due to a fetish. Were his patients safe?",
@@ -186,7 +209,7 @@
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Fri, 31 Jul 2026 23:43:10 GMT",
         "title": "Scientist's lifelong obsession with mystery of elusive 'pink zebra' seaweed",
@@ -209,7 +232,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067d/live/adc26530-8d7e-11f1-b2ab-0dd01740f9f6.jpg"
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Fri, 31 Jul 2026 17:51:09 GMT",
         "title": "Is the cyclosporiasis outbreak slowing? Test-makers are hopeful",
@@ -231,7 +254,7 @@
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Fri, 31 Jul 2026 17:04:09 GMT",
         "title": "Pine marten babies born on Exmoor for first time in 100 years",
@@ -247,14 +270,14 @@
             "title": "Pine marten babies born on Exmoor for first time in 100 years",
             "standfirst": "Nine females and 10 males were introduced to the area by the Two Moors Pine Marten Project last year.",
             "content": "Nine females and 10 males were introduced to the area by the Two Moors Pine Marten Project last year.",
-            "feed_position": 15,
+            "feed_position": 16,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b9a/live/8af96580-8d01-11f1-a7ab-8b30adf0800a.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b9a/live/8af96580-8d01-11f1-a7ab-8b30adf0800a.jpg"
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Fri, 31 Jul 2026 16:29:14 GMT",
         "title": "HIV prevention drug could reduce cases globally but USAID cuts prevent access, say experts",
@@ -275,7 +298,7 @@
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Fri, 31 Jul 2026 16:00:27 GMT",
         "title": "Hobbies can improve your health – here are four tips for choosing one",
@@ -296,7 +319,7 @@
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Fri, 31 Jul 2026 15:37:17 GMT",
         "title": "England and Wales on course for driest July on record",
@@ -319,7 +342,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4802/live/67853de0-8c25-11f1-bdac-871e920411eb.jpg"
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Fri, 31 Jul 2026 12:34:45 GMT",
         "title": "How to advocate for your health",
@@ -342,7 +365,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dd2/live/153848e0-8cdc-11f1-b2ab-0dd01740f9f6.jpg"
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Fri, 31 Jul 2026 10:00:10 GMT",
         "title": "The dead doctor and a dicey diet: how a ban made a hero of Egypt’s rogue medic",
@@ -363,7 +386,7 @@
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Fri, 31 Jul 2026 06:00:06 GMT",
         "title": "Medical colleges condemn scrapping of NHS placements for overseas doctors",
@@ -382,79 +405,11 @@
             "feed_position": 9
           }
         ]
-      },
-      {
-        "id": "cluster_17",
-        "coverage": 1,
-        "updated_at": "Fri, 31 Jul 2026 05:45:50 GMT",
-        "title": "Friday briefing: Why attacks on hospitals from Ukraine to Lebanon now happen with impunity",
-        "neutral_headline": "Friday briefing: Why attacks on hospitals from Ukraine to...",
-        "bullet_summary": [
-          "In today’s newsletter: ​The legal protections once considered foundational ​in conflict are now routinely bypassed​,​ with healthcare personnel treated as legitimate targetsGood morning",
-          "UK news | The co-founder of Palestine Action has won permission to challenge the ban against the group at the UK’s highest court"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/world/2026/jul/31/friday-briefing-why-attacks-on-hospitals-from-ukraine-to-lebanon-now-happen-with-impunity",
-            "published_at": "Fri, 31 Jul 2026 05:45:50 GMT",
-            "title": "Friday briefing: Why attacks on hospitals from Ukraine to Lebanon now happen with impunity",
-            "standfirst": "In today’s newsletter: ​The legal protections once considered foundational ​in conflict are now routinely bypassed​,​ with healthcare personnel treated as legitimate targetsGood morning. While you were asleep, Donald Trump claimed a deal had been reached for the “complete disarmament of Hamas” in Gaza. His announcement, characteristically, does not seem watertight, with briefings from both sides revealing points of contention, and as such is being treated with caution by some world leaders.As anyone paying attention knows, the conflict has seen Israel and Hamas accused of war crimes, and two years ago, the international criminal court issued an arrest warrant for Benjamin Netanyahu. Elsewhere in the region, the Israel-US military operation in Iran has been repeatedly declared as “illegal”. That label now feels almost obsolete on the global stage, as laws are ignored, norms tossed aside, and multinational institutions degraded.England news | Hundreds of people have been evacuated and a major incident declared after a wildfire spread over more than 80 hectares (200 acres) on the coast of Suffolk, just a few miles from the Sizewell B nuclear power station.UK politics | Labour has accused Reform UK of being “up to its neck in sleaze” as it called on the Electoral Commission to urgently investigate substantial donations made to the party by the mother of a convicted fraudster.Middle East | Donald Trump has said a deal has been reached for Hamas to disarm and for Israel to withdraw its forces from Gaza, however briefings from both sides exposed disputes over its implementation that could prove difficult to overcome.Europe | The Spanish government is deploying extra troops and police officers to its north African enclave of Ceuta after thousands of people swam and waded into the tiny territory from neighbouring Morocco in a matter of hours.UK news | The co-founder of Palestine Action has won permission to challenge the ban against the group at the UK’s highest court. Continue reading...",
-            "content": "In today’s newsletter: ​The legal protections once considered foundational ​in conflict are now routinely bypassed​,​ with healthcare personnel treated as legitimate targetsGood morning. While you were asleep, Donald Trump claimed a deal had been reached for the “complete disarmament of Hamas” in Gaza. His announcement, characteristically, does not seem watertight, with briefings from both sides revealing points of contention, and as such is being treated with caution by some world leaders.As anyone paying attention knows, the conflict has seen Israel and Hamas accused of war crimes, and two years ago, the international criminal court issued an arrest warrant for Benjamin Netanyahu. Elsewhere in the region, the Israel-US military operation in Iran has been repeatedly declared as “illegal”. That label now feels almost obsolete on the global stage, as laws are ignored, norms tossed aside, and multinational institutions degraded.England news | Hundreds of people have been evacuated and a major incident declared after a wildfire spread over more than 80 hectares (200 acres) on the coast of Suffolk, just a few miles from the Sizewell B nuclear power station.UK politics | Labour has accused Reform UK of being “up to its neck in sleaze” as it called on the Electoral Commission to urgently investigate substantial donations made to the party by the mother of a convicted fraudster.Middle East | Donald Trump has said a deal has been reached for Hamas to disarm and for Israel to withdraw its forces from Gaza, however briefings from both sides exposed disputes over its implementation that could prove difficult to overcome.Europe | The Spanish government is deploying extra troops and police officers to its north African enclave of Ceuta after thousands of people swam and waded into the tiny territory from neighbouring Morocco in a matter of hours.UK news | The co-founder of Palestine Action has won permission to challenge the ban against the group at the UK’s highest court. Continue reading...",
-            "feed_position": 10
-          }
-        ]
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Fri, 31 Jul 2026 05:11:46 GMT",
-        "title": "Hedgehog road deaths 'devastating' populations",
-        "neutral_headline": "Hedgehog road deaths 'devastating' populations",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/news/articles/cvgv6zg1rd3o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Fri, 31 Jul 2026 05:11:46 GMT",
-            "title": "Hedgehog road deaths 'devastating' populations",
-            "standfirst": "A study finds road traffic kills have an exaggerated impact on the viability of small groups.",
-            "content": "A study finds road traffic kills have an exaggerated impact on the viability of small groups.",
-            "feed_position": 16,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad1e/live/601d5650-8c25-11f1-bdac-871e920411eb.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad1e/live/601d5650-8c25-11f1-bdac-871e920411eb.jpg"
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Fri, 31 Jul 2026 05:09:42 GMT",
-        "title": "Where to see the biggest solar eclipse since 1999",
-        "neutral_headline": "Where to see the biggest solar eclipse since 1999",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/news/articles/cjrvn0wez48o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Fri, 31 Jul 2026 05:09:42 GMT",
-            "title": "Where to see the biggest solar eclipse since 1999",
-            "standfirst": "The UK's biggest solar eclipse since 1999 arrives on 12 August. Here's where to see it safely.",
-            "content": "The UK's biggest solar eclipse since 1999 arrives on 12 August. Here's where to see it safely.",
-            "feed_position": 4,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0040/live/ba1ceac0-8b5e-11f1-b422-3b36120ef864.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0040/live/ba1ceac0-8b5e-11f1-b422-3b36120ef864.jpg"
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-08-01T23:50:41.480Z",
+    "updated_at": "2026-08-02T05:48:32.007Z",
     "clusters": []
   }
 }
