@@ -1,17 +1,63 @@
 {
   "clinical": {
-    "updated_at": "2026-08-04T05:40:35.377Z",
+    "updated_at": "2026-08-04T09:34:31.913Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-08-04T05:40:35.377Z",
+    "updated_at": "2026-08-04T09:34:31.913Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-08-04T05:40:40.052Z",
+    "updated_at": "2026-08-04T09:34:38.147Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Tue, 04 Aug 2026 09:13:37 GMT",
+        "title": "What will happen when a SpaceX rocket collides with the Moon?",
+        "neutral_headline": "What will happen when a SpaceX rocket collides with the Moon",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/news/articles/cx25yn22l97o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Tue, 04 Aug 2026 09:13:37 GMT",
+            "title": "What will happen when a SpaceX rocket collides with the Moon?",
+            "standfirst": "Our satellite has endured countless blows over millions of years - and astronomers think this one could be a useful accident.",
+            "content": "Our satellite has endured countless blows over millions of years - and astronomers think this one could be a useful accident.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd55/live/3fa78630-8f5d-11f1-9c32-a3e1fce5018b.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd55/live/3fa78630-8f5d-11f1-9c32-a3e1fce5018b.jpg"
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Tue, 04 Aug 2026 06:55:45 GMT",
+        "title": "Top-rated mental health trust asked to save £24m",
+        "neutral_headline": "Top-rated mental health trust asked to save £24m",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.co.uk/news/articles/cd9wk27y05zo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Tue, 04 Aug 2026 06:55:45 GMT",
+            "title": "Top-rated mental health trust asked to save £24m",
+            "standfirst": "An NHS trust could lose up to 330 posts and a union says there will be \"consequences\" for patients.",
+            "content": "An NHS trust could lose up to 330 posts and a union says there will be \"consequences\" for patients.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/548a/live/beda4270-8f95-11f1-9fab-17cb342cbbd7.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/548a/live/beda4270-8f95-11f1-9fab-17cb342cbbd7.jpg"
+      },
+      {
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Tue, 04 Aug 2026 05:24:16 GMT",
         "title": "Young white-tailed eagles released on Exmoor",
@@ -34,7 +80,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25a0/live/80796850-8f4d-11f1-9818-6fa9a4d75fb0.jpg"
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Tue, 04 Aug 2026 05:14:51 GMT",
         "title": "Are current breast cancer checks good enough?",
@@ -60,14 +106,14 @@
             "title": "Breast cancer checks missing most women under 50 who are at risk, says study",
             "standfirst": "Up to 95% of younger women who are at higher risk of developing breast cancer are being missed by current NHS checks, researchers warn.",
             "content": "Up to 95% of younger women who are at higher risk of developing breast cancer are being missed by current NHS checks, researchers warn.",
-            "feed_position": 0,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d894/live/92ce6890-8f37-11f1-bd9f-4361c301d82b.jpg"
+            "feed_position": 1,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cb3/live/9266a900-8fda-11f1-a7ab-8b30adf0800a.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0ce/live/e3339670-8f5f-11f1-a7ab-8b30adf0800a.jpg"
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Tue, 04 Aug 2026 05:08:37 GMT",
         "title": "Curlew revival continues at nature reserve",
@@ -90,7 +136,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b42/live/26594570-8fc5-11f1-9754-a39c928de36f.jpg"
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Tue, 04 Aug 2026 05:00:14 GMT",
         "title": "Cancer survivors need protection from future discrimination, say German politicians",
@@ -111,7 +157,7 @@
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Tue, 04 Aug 2026 05:00:13 GMT",
         "title": "GPs’ breast cancer guidelines ‘miss’ 95% of women who will develop disease",
@@ -132,7 +178,7 @@
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Mon, 03 Aug 2026 23:10:05 GMT",
         "title": "There's a reason child vaccination rates are falling - and it's not social media",
@@ -155,7 +201,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b837/live/ead19d70-8f44-11f1-a7ab-8b30adf0800a.jpg"
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Mon, 03 Aug 2026 23:01:05 GMT",
         "title": "NHS radiographers report rise in overt racist abuse by patients",
@@ -176,7 +222,7 @@
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Mon, 03 Aug 2026 18:49:24 GMT",
         "title": "US cyclosporiasis outbreak kills two people in Michigan, officials say",
@@ -197,7 +243,7 @@
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Mon, 03 Aug 2026 17:10:26 GMT",
         "title": "The body snatchers: how a young Nigerian man was lured to London in an organ-trafficking plot",
@@ -218,7 +264,7 @@
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Mon, 03 Aug 2026 16:27:43 GMT",
         "title": "Rhine falls to record low levels as drought strains Europe's rivers",
@@ -234,14 +280,14 @@
             "title": "Rhine falls to record low levels as drought strains Europe's rivers",
             "standfirst": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
             "content": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
-            "feed_position": 0,
+            "feed_position": 1,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0473/live/63c04990-8f39-11f1-973f-390a1966f1f1.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0473/live/63c04990-8f39-11f1-973f-390a1966f1f1.jpg"
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Mon, 03 Aug 2026 15:27:07 GMT",
         "title": "The best way to protect NHS patients’ data | Letter",
@@ -262,7 +308,7 @@
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Mon, 03 Aug 2026 12:35:31 GMT",
         "title": "Initiatives aim to help breastfeeding difficulties",
@@ -285,7 +331,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ade3/live/8f4c73f0-8f1a-11f1-9a6b-afa7ab10ffdf.jpg"
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Mon, 03 Aug 2026 12:14:37 GMT",
         "title": "Health service reviews cost almost £188,000",
@@ -308,7 +354,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8f6/live/db986120-8f23-11f1-b5a8-c9ccaae98ebb.jpg"
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Mon, 03 Aug 2026 12:14:30 GMT",
         "title": "Student quits university due to epilepsy medicine shortages",
@@ -332,7 +378,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7a5/live/13c0a660-8f34-11f1-b2ab-0dd01740f9f6.jpg"
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Mon, 03 Aug 2026 12:00:17 GMT",
         "title": "‘Just cruel’: Medicaid halt in California and Minnesota plunges caregivers and disabled people into uncertainty",
@@ -353,7 +399,7 @@
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Mon, 03 Aug 2026 09:56:52 GMT",
         "title": "Find funding and save Jodrell Bank, stars say",
@@ -369,14 +415,14 @@
             "title": "Find funding and save Jodrell Bank, stars say",
             "standfirst": "Astronaut Tim Peake, guitarist Johnny Marr and 150 other public figures have signed an open letter.",
             "content": "Astronaut Tim Peake, guitarist Johnny Marr and 150 other public figures have signed an open letter.",
-            "feed_position": 18,
+            "feed_position": 19,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c35d/live/45bd48e0-8f29-11f1-ad38-d1c77c68a0b1.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c35d/live/45bd48e0-8f29-11f1-ad38-d1c77c68a0b1.jpg"
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Mon, 03 Aug 2026 09:00:46 GMT",
         "title": "The one change that worked: I learned to love my arms – after decades of hating and hiding them",
@@ -397,7 +443,7 @@
         ]
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Mon, 03 Aug 2026 09:00:46 GMT",
         "title": "‘I spent a week crying. I’ve never had an injury in my life!’ Why do so many fitness fans end up needing surgery?",
@@ -416,57 +462,11 @@
             "feed_position": 8
           }
         ]
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Mon, 03 Aug 2026 05:09:06 GMT",
-        "title": "Volunteers clear brook to reduce flood risk",
-        "neutral_headline": "Volunteers clear brook to reduce flood risk",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/news/articles/c4gwr53qrw7o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Mon, 03 Aug 2026 05:09:06 GMT",
-            "title": "Volunteers clear brook to reduce flood risk",
-            "standfirst": "With a hot summer drying out Syston Brook, volunteers have prepared the waterway ready for rain.",
-            "content": "With a hot summer drying out Syston Brook, volunteers have prepared the waterway ready for rain.",
-            "feed_position": 15,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5074/live/ece0deb0-8ac0-11f1-9997-a1a12b7801e6.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5074/live/ece0deb0-8ac0-11f1-9997-a1a12b7801e6.jpg"
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Mon, 03 Aug 2026 05:02:25 GMT",
-        "title": "Woman has pioneering womb surgery to fix 'miracle' baby with intestines outside its body",
-        "neutral_headline": "Woman has pioneering womb surgery to fix 'miracle' baby...",
-        "bullet_summary": [
-          "Reported by BBC Health"
-        ],
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.co.uk/news/articles/c86ngegz9qno?at_medium=RSS&at_campaign=rss",
-            "published_at": "Mon, 03 Aug 2026 05:02:25 GMT",
-            "title": "Woman has pioneering womb surgery to fix 'miracle' baby with intestines outside its body",
-            "standfirst": "Theo became the first British baby to be operated on in the womb to correct complex gastroschisis, as part of a pioneering clinical trial.",
-            "content": "Theo became the first British baby to be operated on in the womb to correct complex gastroschisis, as part of a pioneering clinical trial.",
-            "feed_position": 1,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07d3/live/42a93070-8f3c-11f1-b8ee-9b3c26ad07bb.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07d3/live/42a93070-8f3c-11f1-b8ee-9b3c26ad07bb.jpg"
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-08-04T05:40:40.052Z",
+    "updated_at": "2026-08-04T09:34:38.147Z",
     "clusters": []
   }
 }
