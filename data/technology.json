@@ -1,15 +1,82 @@
 {
-  "updated_at": "2026-08-05T20:20:58.875Z",
+  "updated_at": "2026-08-05T23:52:45.579Z",
   "clusters": [
     {
       "id": "cluster_10",
-      "coverage": 3,
+      "coverage": 2,
+      "updated_at": "2026-08-05T18:19:55-04:00",
+      "title": "X product chief Nikita Bier is leaving after one year",
+      "neutral_headline": "X product chief Nikita Bier is leaving after one year",
+      "bullet_summary": [
+        "Reported by The Verge, TechMeme"
+      ],
+      "items": [
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/975955/x-twitter-nikita-bier-leaving",
+          "published_at": "2026-08-05T18:19:55-04:00",
+          "title": "X product chief Nikita Bier is leaving after one year",
+          "standfirst": "X head of product Nikita Bier is stepping down and says he will move into a role as an advisor, writing that \"it's time to pass the torch and demote myself to my natural state: a poster.\" He shared the update just over a month after celebrating his one-year anniversary on the job, and just [&#8230;]",
+          "content": "X head of product Nikita Bier is stepping down and says he will move into a role as an advisor, writing that \"it's time to pass the torch and demote myself to my natural state: a poster.\" He shared the update just over a month after celebrating his one-year anniversary on the job, and just weeks after Elon Musk's combined SpaceX / X / xAI companies went public. He says that \"almost every aspect of X\" has been rebuilt while he was head of product, including its timeline, Android app, chat, and notifications. Going forward, the \"next leaders\" mentioned are Benji Taylor leading design with iOS lead Jonah Katz and Mridul Singhai leading the pr … Read the full story at The Verge.",
+          "feed_position": 0
+        },
+        {
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/260805/p39#a260805p39",
+          "published_at": "Wed, 05 Aug 2026 17:00:14 -0400",
+          "title": "Nikita Bier says he will step back from leading product for X and continue as an adviser (Nikita Bier/@nikitabier)",
+          "standfirst": "Nikita Bier / @nikitabier: Nikita Bier says he will step back from leading product for X and continue as an adviser &mdash; Ladies and gentlemen, it's time to pass the torch and demote myself to my natural state: a poster. I'll be stepping back from leading product for &#120143; and will continue on as an advisor. Serving the X community has been the privilege of a lifetime. X is, and will remain, the most [video]",
+          "content": "Nikita Bier / @nikitabier: Nikita Bier says he will step back from leading product for X and continue as an adviser &mdash; Ladies and gentlemen, it's time to pass the torch and demote myself to my natural state: a poster. I'll be stepping back from leading product for &#120143; and will continue on as an advisor. Serving the X community has been the privilege of a lifetime. X is, and will remain, the most [video]",
+          "feed_position": 9,
+          "image_url": "http://www.techmeme.com/img/pml.png"
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/img/pml.png",
+      "popularity_score": 2018.4526169444443
+    },
+    {
+      "id": "cluster_11",
+      "coverage": 2,
+      "updated_at": "Wed, 05 Aug 2026 21:57:52 +0000",
+      "title": "Meta introduces Muse Code, its take on a coding agent",
+      "neutral_headline": "Meta introduces Muse Code, its take on a coding agent",
+      "bullet_summary": [
+        "Reported by Engadget, TechMeme"
+      ],
+      "items": [
+        {
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2231285/meta-introduces-muse-code-its-take-on-a-coding-agent/",
+          "published_at": "Wed, 05 Aug 2026 21:57:52 +0000",
+          "title": "Meta introduces Muse Code, its take on a coding agent",
+          "standfirst": "The terminal-based coding tool is powered by a new AI model, Muse Spark 1.2.",
+          "content": "The terminal-based coding tool is powered by a new AI model, Muse Spark 1.2.",
+          "feed_position": 1,
+          "image_url": "https://www.engadget.com/img/gallery/meta-introduces-muse-code-its-take-on-a-coding-agent/l-intro-1785967017.jpg"
+        },
+        {
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/260805/p34#a260805p34",
+          "published_at": "Wed, 05 Aug 2026 15:43:30 -0400",
+          "title": "Meta releases Muse Code in beta, a terminal coding agent powered by Muse Spark 1.2, a coding-focused model priced at $1.25/1M input and $4.25/1M output tokens (Jonathan Vanian/CNBC)",
+          "standfirst": "Jonathan Vanian / CNBC: Meta releases Muse Code in beta, a terminal coding agent powered by Muse Spark 1.2, a coding-focused model priced at $1.25/1M input and $4.25/1M output tokens &mdash; Meta is rolling out its first coding agent called Muse Code as the company tries to challenge leading AI labs Anthropic and OpenAI.",
+          "content": "Jonathan Vanian / CNBC: Meta releases Muse Code in beta, a terminal coding agent powered by Muse Spark 1.2, a coding-focused model priced at $1.25/1M input and $4.25/1M output tokens &mdash; Meta is rolling out its first coding agent called Muse Code as the company tries to challenge leading AI labs Anthropic and OpenAI.",
+          "feed_position": 14,
+          "image_url": "http://www.techmeme.com/260805/i34.jpg"
+        }
+      ],
+      "featured_image": "https://www.engadget.com/img/gallery/meta-introduces-muse-code-its-take-on-a-coding-agent/l-intro-1785967017.jpg",
+      "popularity_score": 2018.0851169444445
+    },
+    {
+      "id": "cluster_37",
+      "coverage": 2,
       "updated_at": "Wed, 05 Aug 2026 19:30:19 +0000",
       "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
       "neutral_headline": "Google’s Top AI Brains Are Leaving to Launch Discovery Loop",
       "bullet_summary": [
         "Jeff Dean and other high-profile Google executives have founded Discovery Loop, a startup that will seek AI-powered breakthroughs in everything from drug discovery to chip design",
-        "Reported by TechCrunch, TechMeme, Wired Tech"
+        "Reported by TechCrunch, Wired Tech"
       ],
       "items": [
         {
@@ -19,17 +86,7 @@
           "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
           "standfirst": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
           "content": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
-          "feed_position": 1
-        },
-        {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/260805/p27#a260805p27",
-          "published_at": "Wed, 05 Aug 2026 12:11:34 -0400",
-          "title": "Jeff Dean and three other Google execs are leaving to launch Discovery Loop, which will seek AI-powered breakthroughs in drug discovery, chip design, and more (Steven Levy/Wired)",
-          "standfirst": "Steven Levy / Wired: Jeff Dean and three other Google execs are leaving to launch Discovery Loop, which will seek AI-powered breakthroughs in drug discovery, chip design, and more &mdash; Jeff Dean and other high-profile Google executives have founded Discovery Loop, a startup that will seek AI-powered breakthroughs &hellip;",
-          "content": "Steven Levy / Wired: Jeff Dean and three other Google execs are leaving to launch Discovery Loop, which will seek AI-powered breakthroughs in drug discovery, chip design, and more &mdash; Jeff Dean and other high-profile Google executives have founded Discovery Loop, a startup that will seek AI-powered breakthroughs &hellip;",
-          "feed_position": 9,
-          "image_url": "http://www.techmeme.com/260805/i27.jpg"
+          "feed_position": 9
         },
         {
           "source": "Wired Tech",
@@ -38,148 +95,87 @@
           "title": "Google’s Top AI Brains Are Leaving to Launch Discovery Loop",
           "standfirst": "Jeff Dean and other high-profile Google executives have founded Discovery Loop, a startup that will seek AI-powered breakthroughs in everything from drug discovery to chip design.",
           "content": "Jeff Dean and other high-profile Google executives have founded Discovery Loop, a startup that will seek AI-powered breakthroughs in everything from drug discovery to chip design.",
-          "feed_position": 5,
+          "feed_position": 10,
           "image_url": "https://media.wired.com/photos/6a731599a89f1c896d22f70e/master/pass/Discovery%20Loop%20-%20Founders%202.jpg"
         }
       ],
-      "featured_image": "http://www.techmeme.com/260805/i27.jpg",
-      "popularity_score": 3019.1555905555556
+      "featured_image": "https://media.wired.com/photos/6a731599a89f1c896d22f70e/master/pass/Discovery%20Loop%20-%20Founders%202.jpg",
+      "popularity_score": 2015.6259502777777
     },
     {
-      "id": "cluster_15",
-      "coverage": 2,
-      "updated_at": "Wed, 05 Aug 2026 19:01:02 +0000",
-      "title": "Google DeepMind CEO Demis Hassabis is stepping down, but will remain with the company",
-      "neutral_headline": "Google DeepMind CEO Demis Hassabis is stepping down, but will remain with the company",
+      "id": "cluster_9",
+      "coverage": 1,
+      "updated_at": "Wed, 05 Aug 2026 22:35:20 +0000",
+      "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
+      "neutral_headline": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
       "bullet_summary": [
-        "Reported by Engadget, TechMeme"
+        "Reported by Ars Technica"
       ],
       "items": [
         {
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2231124/google-deepmind-ceo-demis-hassabis-is-stepping-down-but-will-remain-with-the-company/",
-          "published_at": "Wed, 05 Aug 2026 19:01:02 +0000",
-          "title": "Google DeepMind CEO Demis Hassabis is stepping down, but will remain with the company",
-          "standfirst": "A handful of high-level personnel changes are coming to DeepMind.",
-          "content": "A handful of high-level personnel changes are coming to DeepMind.",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
+          "published_at": "Wed, 05 Aug 2026 22:35:20 +0000",
+          "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
+          "standfirst": "Baseboard management controllers from the world's biggest manufacturers are a security mess.",
+          "content": "Thousands of Internet-connected servers sold by the world’s biggest manufacturers can be remotely backdoored by exploiting critical vulnerabilities—some more than a decade old—that lurk deep inside system motherboards, according to research presented Wednesday. Baseboard management controllers are miniature computers that are embedded into the motherboards of virtually every enterprise server. The microcontrollers, typically abbreviated as BMCs, run with their own operating system firmware, network stack, and IP address. Administrators rely on them to monitor the physical status of large fleets of servers and to perform a variety of tasks, including rebooting machines, installing updates, and even reinstalling operating systems. BMCs provide what’s known as “lights out” and “out-of-band” management because they work even when servers they’re attached to are turned off or are unresponsive. A “pervasive, under-monitored, under-patched parallel attack surface” Researchers have warned since at least 2013 that BMCs present a golden opportunity for hackers looking for ways to gain deep and persistent access to datacenters. The chief culprit was IPMI, the protocol that allows BMCs to operate independently of servers and to perform administrative tasks. Vulnerabilities in this firmware made it possible for attackers to remotely execute malicious code on the controllers and, from there, infect the servers they manage.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg",
+      "popularity_score": 351.7095613888889
+    },
+    {
+      "id": "cluster_25",
+      "coverage": 1,
+      "updated_at": "Wed, 05 Aug 2026 20:47:11 +0000",
+      "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
+      "neutral_headline": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
+          "published_at": "Wed, 05 Aug 2026 20:47:11 +0000",
+          "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
+          "standfirst": "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests.",
+          "content": "Routine cybersecurity testing of frontier AI models sparked a series of unexpected security incidents—the most serious case arising when Anthropic’s Mythos 5 model attempted to insert malicious code into an open source software application and created fake identities to deceive the human developers maintaining the project. The security incidents occurred during a cyber evaluation of seven leading AI models’ capabilities by the AI Security Institute (AISI), a research organization within the UK government, in late July. The researchers discovered 19 instances in which “AI agents took unsanctioned action on the live Internet, including cases that targeted real people and organizations,” according to an AISI blog post published on August 4. Almost all the “autonomous, unsanctioned” actions came from Anthropic’s Mythos 5 model, with two such actions coming from OpenAI’s GPT-5.6 Sol. The AI Security Institute’s security team first realized that something was amiss on the morning of July 28, when its commercial security monitoring service flagged data leaving one of the testing systems through the Tor anonymity network.Read full article Comments",
           "feed_position": 2,
-          "image_url": "https://www.engadget.com/img/gallery/google-deepmind-ceo-demis-hassabis-is-stepping-down-but-will-remain-with-the-company/l-intro-1785956327.jpg"
-        },
-        {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/260805/p26#a260805p26",
-          "published_at": "Wed, 05 Aug 2026 12:07:02 -0400",
-          "title": "Demis Hassabis is stepping down as CEO of Google DeepMind to be the unit's chairman and will add the title of Alphabet chief scientist; GOOG drops 3%+ (Axios)",
-          "standfirst": "Axios: Demis Hassabis is stepping down as CEO of Google DeepMind to be the unit's chairman and will add the title of Alphabet chief scientist; GOOG drops 3%+ &mdash; Demis Hassabis is leaving his role as CEO of Google DeepMind to be the unit's chairman. Chief scientist Jeff Dean and several Google AI colleagues &hellip;",
-          "content": "Axios: Demis Hassabis is stepping down as CEO of Google DeepMind to be the unit's chairman and will add the title of Alphabet chief scientist; GOOG drops 3%+ &mdash; Demis Hassabis is leaving his role as CEO of Google DeepMind to be the unit's chairman. Chief scientist Jeff Dean and several Google AI colleagues &hellip;",
-          "feed_position": 10,
-          "image_url": "http://www.techmeme.com/260805/i26.jpg"
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285051730-1152x648.jpg"
         }
       ],
-      "featured_image": "https://www.engadget.com/img/gallery/google-deepmind-ceo-demis-hassabis-is-stepping-down-but-will-remain-with-the-company/l-intro-1785956327.jpg",
-      "popularity_score": 2018.667535
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285051730-1152x648.jpg",
+      "popularity_score": 344.9070613888889
     },
     {
-      "id": "cluster_31",
-      "coverage": 2,
-      "updated_at": "Wed, 05 Aug 2026 13:20:03 -0400",
-      "title": "Reddit expands its test of Rules Hub, a suite of tools that rely on LLMs to help moderators manage their communities, and plans a full launch later this year (Jay Peters/The Verge)",
-      "neutral_headline": "Reddit is introducing a new moderator: AI",
+      "id": "cluster_18",
+      "coverage": 1,
+      "updated_at": "Wed, 05 Aug 2026 21:03:18 +0000",
+      "title": "Schwartz confirmed as CDC director after bungling confirmation hearing",
+      "neutral_headline": "Schwartz confirmed as CDC director after bungling confirmation hearing",
       "bullet_summary": [
-        "Reported by TechMeme, The Verge"
+        "Reported by Ars Technica"
       ],
       "items": [
         {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/260805/p31#a260805p31",
-          "published_at": "Wed, 05 Aug 2026 13:20:03 -0400",
-          "title": "Reddit expands its test of Rules Hub, a suite of tools that rely on LLMs to help moderators manage their communities, and plans a full launch later this year (Jay Peters/The Verge)",
-          "standfirst": "Jay Peters / The Verge: Reddit expands its test of Rules Hub, a suite of tools that rely on LLMs to help moderators manage their communities, and plans a full launch later this year &mdash; It's also planning big changes for developers and old Reddit. &hellip; Reddit is enlisting AI to help moderate new subreddits &mdash; and eventually the rest of site.",
-          "content": "Jay Peters / The Verge: Reddit expands its test of Rules Hub, a suite of tools that rely on LLMs to help moderators manage their communities, and plans a full launch later this year &mdash; It's also planning big changes for developers and old Reddit. &hellip; Reddit is enlisting AI to help moderate new subreddits &mdash; and eventually the rest of site.",
-          "feed_position": 5,
-          "image_url": "http://www.techmeme.com/260805/i31.jpg"
-        },
-        {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
-          "published_at": "2026-08-05T12:00:00-04:00",
-          "title": "Reddit is introducing a new moderator: AI",
-          "standfirst": "Reddit is enlisting AI to help moderate new subreddits - and eventually the rest of site. The company is introducing automated moderation tools that rely on LLMs to help mods manage their communities, and it's expanding who can use those tools today ahead of a full launch later this year. The company calls the suite [&#8230;]",
-          "content": "Reddit is enlisting AI to help moderate new subreddits - and eventually the rest of site. The company is introducing automated moderation tools that rely on LLMs to help mods manage their communities, and it's expanding who can use those tools today ahead of a full launch later this year. The company calls the suite of tools \"Rules Hub,\" and the tools let mods decide what rules should be automatically enforced and what should happen when a rule is triggered. Rules Hub relies on LLMs to evaluate \"whether a post or comment matches the intent of a rule,\" which \"allows Rules Hub to better handle nuance, natural language, and edge cases while pr … Read the full story at The Verge.",
-          "feed_position": 6
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/08/schwartz-confirmed-as-cdc-director-after-bungling-confirmation-hearing/",
+          "published_at": "Wed, 05 Aug 2026 21:03:18 +0000",
+          "title": "Schwartz confirmed as CDC director after bungling confirmation hearing",
+          "standfirst": "Schwartz is well-qualified for the role, but crashed and burned in Senate hearing.",
+          "content": "In a 51–44 vote Wednesday, the US Senate confirmed Erica Schwartz as director of the Centers for Disease Control and Prevention, despite failing miserably to convince senators last month that she could stand up to anti-vaccine Health Secretary Robert F. Kennedy Jr. The confirmation ends a near yearlong vacancy for the position since Kennedy fired the previous CDC director, Susan Monarez, last August. Monarez was ousted after she refused to rubber-stamp vaccine recommendations from a panel of Kennedy's hand-selected advisors, who hold similar anti-vaccine views to his own. Schwartz is highly qualified for the role, coming to the CDC with a medical degree, a master’s degree in public health, and a law degree. She previously had a long stint as a Navy officer and held leadership roles including chief medical officer for the US Coast Guard and deputy surgeon general in the first Trump administration. Notably, she has been a public advocate for vaccines and outbreak preparedness.Read full article Comments",
+          "feed_position": 1,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Rear_Admiral_Erica_Schwartz-1152x648-1776453357.jpg"
         }
       ],
-      "featured_image": "http://www.techmeme.com/260805/i31.jpg",
-      "popularity_score": 2016.9844794444443
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Rear_Admiral_Erica_Schwartz-1152x648-1776453357.jpg",
+      "popularity_score": 340.1756725
     },
     {
-      "id": "cluster_57",
-      "coverage": 2,
-      "updated_at": "Wed, 05 Aug 2026 11:30:02 -0400",
-      "title": "Amazon's Zoox will start charging for rides in Las Vegas from August 10, marking the launch of its commercial operations after offering free rides since 2025 (Kirsten Korosec/TechCrunch)",
-      "neutral_headline": "Zoox to start charging for robotaxi rides in Las Vegas",
-      "bullet_summary": [
-        "Reported by TechMeme, TechCrunch"
-      ],
-      "items": [
-        {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/260805/p24#a260805p24",
-          "published_at": "Wed, 05 Aug 2026 11:30:02 -0400",
-          "title": "Amazon's Zoox will start charging for rides in Las Vegas from August 10, marking the launch of its commercial operations after offering free rides since 2025 (Kirsten Korosec/TechCrunch)",
-          "standfirst": "Kirsten Korosec / TechCrunch: Amazon's Zoox will start charging for rides in Las Vegas from August 10, marking the launch of its commercial operations after offering free rides since 2025 &mdash; Nearly a year ago, Zoox opened its robotaxi service to the public in Las Vegas. Now, it is ready to start charging for those rides.",
-          "content": "Kirsten Korosec / TechCrunch: Amazon's Zoox will start charging for rides in Las Vegas from August 10, marking the launch of its commercial operations after offering free rides since 2025 &mdash; Nearly a year ago, Zoox opened its robotaxi service to the public in Las Vegas. Now, it is ready to start charging for those rides.",
-          "feed_position": 12,
-          "image_url": "http://www.techmeme.com/260805/i24.jpg"
-        },
-        {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/05/zoox-to-start-charging-for-robotaxi-rides-in-las-vegas/",
-          "published_at": "Wed, 05 Aug 2026 15:06:42 +0000",
-          "title": "Zoox to start charging for robotaxi rides in Las Vegas",
-          "standfirst": "This marks the official launch of Zoox's commercial operations.",
-          "content": "This marks the official launch of Zoox's commercial operations.",
-          "feed_position": 8
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/260805/i24.jpg",
-      "popularity_score": 2015.1508683333334
-    },
-    {
-      "id": "cluster_76",
-      "coverage": 2,
-      "updated_at": "Wed, 05 Aug 2026 13:49:14 +0000",
-      "title": "Disney partners with TikTok to bring fan-made shorts to Disney+",
-      "neutral_headline": "Disney partners with TikTok to bring fan-made shorts to Disney+",
-      "bullet_summary": [
-        "Reported by Engadget, TechCrunch"
-      ],
-      "items": [
-        {
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2230726/disney-partners-with-tiktok-fan-made-shorts-disney/",
-          "published_at": "Wed, 05 Aug 2026 13:49:14 +0000",
-          "title": "Disney partners with TikTok to bring fan-made shorts to Disney+",
-          "standfirst": "Creators will be granted access to a deep library of Disney assets to use in their videos.",
-          "content": "Creators will be granted access to a deep library of Disney assets to use in their videos.",
-          "feed_position": 12,
-          "image_url": "https://www.engadget.com/img/gallery/disney-partners-with-tiktok-to-bring-fan-made-shorts-to-disney/l-intro-1785937589.jpg"
-        },
-        {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/05/disney-looks-to-tiktok-creators-to-bring-fan-content-to-its-short-form-video-feed/",
-          "published_at": "Wed, 05 Aug 2026 13:21:43 +0000",
-          "title": "Disney+ looks to TikTok creators to bring fan content to its short-form video feed",
-          "standfirst": "As streamers compete with social media giants for viewer attention, Disney+ is partnering with TikTok to bring creator content to its app.",
-          "content": "As streamers compete with social media giants for viewer attention, Disney+ is partnering with TikTok to bring creator content to its app.",
-          "feed_position": 13
-        }
-      ],
-      "featured_image": "https://www.engadget.com/img/gallery/disney-partners-with-tiktok-to-bring-fan-made-shorts-to-disney/l-intro-1785937589.jpg",
-      "popularity_score": 2013.4708683333333
-    },
-    {
-      "id": "cluster_5",
+      "id": "cluster_33",
       "coverage": 1,
       "updated_at": "Wed, 05 Aug 2026 19:51:40 +0000",
       "title": "Hank Green found the AI problem that YouTube labels can’t catch",
@@ -195,15 +191,15 @@
           "title": "Hank Green found the AI problem that YouTube labels can’t catch",
           "standfirst": "\"Slop\" isn't the only problem.",
           "content": "YouTube currently requires that content creators let viewers know \"when they use AI to meaningfully alter or generate photorealistic content.\" The policy draws some strange boundaries. It applies to \"AI-generated music\" (not photorealistic) but not to \"riding a unicorn through a fantastical world\" (this could be photorealistic, though it is not plausible). YouTube then summarizes the policy in a different way: \"Realistic AI content and meaningful changes require disclosure, while non-realistic or minor edits don’t.\" But AI uses that require no disclosure can include everything from \"idea generation\" up through \"production assistance, like using generative AI tools to create or improve a video outline, script, thumbnail, title, or infographic.\" Creators are free to clone their own voices for voiceovers. They can also use \"AI-generated or altered animation of a missile in a fully animated video.\"Read full article Comments",
-          "feed_position": 0,
+          "feed_position": 4,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2194534888-1152x648.jpeg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2194534888-1152x648.jpeg",
-      "popularity_score": 367.5114238888889
+      "popularity_score": 323.9817836111111
     },
     {
-      "id": "cluster_8",
+      "id": "cluster_35",
       "coverage": 1,
       "updated_at": "Wed, 05 Aug 2026 19:38:56 +0000",
       "title": "SpaceX claims Starlink Mobile will be better than AT&T, T-Mobile, and Verizon",
@@ -219,43 +215,43 @@
           "title": "SpaceX claims Starlink Mobile will be better than AT&T, T-Mobile, and Verizon",
           "standfirst": "SpaceX won't build large cell towers but plans small base stations across US.",
           "content": "SpaceX says it has a plan for Starlink Mobile to compete against the big three wireless carriers and take a large number of customers away from them. SpaceX has so far partnered with traditional mobile carriers to supplement their ground-based networks with Starlink satellite capacity, mainly to ensure coverage from space in dead zones not reached by cell towers. But SpaceX is buying spectrum licenses that would let it offer its own terrestrial service to compete directly against the big carriers, and the firm's top executives said in yesterday's earnings call they plan to do just that. \"The spectrum that we purchased from EchoStar does have terrestrial components, so we definitely intend to build out the terrestrial component,\" SpaceX President Gwynne Shotwell said in response to questions on the earnings call. \"So you will have not only the capacity from the satellites themselves, but you will have a buildout of the terrestrial, basically the hardware and systems necessary to make a true mobile service exactly what you want it to be.\"Read full article Comments",
-          "feed_position": 1,
+          "feed_position": 5,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/starlink-dominance-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/starlink-dominance-1152x648.jpg",
-      "popularity_score": 365.29920166666665
+      "popularity_score": 321.76956138888886
     },
     {
-      "id": "cluster_4",
+      "id": "cluster_32",
       "coverage": 1,
       "updated_at": "Wed, 05 Aug 2026 20:01:32 +0000",
       "title": "Reddit signals ominous upcoming \"changes” for old.reddit.com",
       "neutral_headline": "Reddit signals ominous upcoming \"changes” for old.reddit.com",
       "bullet_summary": [
-        "Reported by Ars Technica Main"
+        "Reported by Ars Technica"
       ],
       "items": [
         {
-          "source": "Ars Technica Main",
+          "source": "Ars Technica",
           "url": "https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/",
           "published_at": "Wed, 05 Aug 2026 20:01:32 +0000",
           "title": "Reddit signals ominous upcoming \"changes” for old.reddit.com",
           "standfirst": "Reddit says the beloved site is used for some \"bad behavior.\"",
           "content": "Old.reddit.com’s days appear to be numbered. Reddit has strayed from saying that it will shutter the website, which many long-time Redditors prefer for its layout, navigation, and fewer feed recommendations. In a blog post today, Reddit made a vague statement about upcoming “changes” to Old Reddit:Read full article Comments",
-          "feed_position": 0,
+          "feed_position": 3,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2256966963-1152x648-1785958066.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2256966963-1152x648-1785958066.jpg",
-      "popularity_score": 352.6758683333333
+      "popularity_score": 319.1462280555555
     },
     {
-      "id": "cluster_14",
+      "id": "cluster_41",
       "coverage": 1,
       "updated_at": "Wed, 05 Aug 2026 19:05:58 +0000",
-      "title": "Google's AI shakeup: DeepMind's Hassabis steps aside, senior scientists depart",
-      "neutral_headline": "Google's AI shakeup: DeepMind's Hassabis steps aside, senior scientists depart",
+      "title": "Google's AI shake-up: DeepMind's Hassabis steps aside, senior scientists depart",
+      "neutral_headline": "Google's AI shake-up: DeepMind's Hassabis steps aside, senior scientists depart",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -264,18 +260,18 @@
           "source": "Ars Technica",
           "url": "https://arstechnica.com/gadgets/2026/08/googles-ai-shakeup-deepminds-hassabis-steps-aside-senior-scientists-depart/",
           "published_at": "Wed, 05 Aug 2026 19:05:58 +0000",
-          "title": "Google's AI shakeup: DeepMind's Hassabis steps aside, senior scientists depart",
+          "title": "Google's AI shake-up: DeepMind's Hassabis steps aside, senior scientists depart",
           "standfirst": "Google's AI brain drain continues.",
           "content": "Google got a slow start with generative AI after seemingly being caught flat-footed by Microsoft's Copilot reveal. What a difference a few years make. Now, Google is at the forefront of AI development (for better or worse), but new cracks are beginning to show. The company's string of high-profile personnel departures continues, and DeepMind CEO Demis Hassabis has now said he will hand off day-to-day responsibilities to take on an oversight role at parent company Alphabet. Hassabis was one of the founders of DeepMind, and he maintained a key leadership role after Google acquired it. As the generative AI boom took off, Hassabis has been one of the loudest voices predicting the impending creation of artificial general intelligence (AGI), which is typically described as an AI with human-like capabilities and intelligence. In his memo announcing his decision to leave DeepMind, Hassabis again leans on the promise of AGI. \"I've been working towards AGI my whole life and now, like many of you, I feel it is close at hand,\" said Hassabis.Read full article Comments",
-          "feed_position": 3,
+          "feed_position": 7,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2261835158-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2261835158-1152x648.jpg",
-      "popularity_score": 348.74975722222223
+      "popularity_score": 305.22011694444444
     },
     {
-      "id": "cluster_12",
+      "id": "cluster_39",
       "coverage": 1,
       "updated_at": "Wed, 05 Aug 2026 19:19:04 +0000",
       "title": "This Atlantic hurricane season is looking like a dud, but there will be a price to pay",
@@ -291,15 +287,15 @@
           "title": "This Atlantic hurricane season is looking like a dud, but there will be a price to pay",
           "standfirst": "\"The models are forecasting something outside the envelope of anything we have ever observed.\"",
           "content": "The city of Houston, where I live, has been ground zero for the 2026 Atlantic hurricane season. So far this year there have been two named storms, Arthur and Bertha, that have formed. And the centers of both have passed near or directly over Houston. Two \"strikes\" in a year might seem notable, but like the middling hurricane season to date, Arthur and Bertha were both middle-of-the road tropical storms in terms of intensity. As a resident of a coastal region prone to hurricanes, one never wants to tempt fate. And in truth, since it is only early August, the bulk of seasonal activity definitely lies ahead of us. But all indications are we can look forward to a quiet season.Read full article Comments",
-          "feed_position": 2,
+          "feed_position": 6,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/newplot-1152x648.png"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/newplot-1152x648.png",
-      "popularity_score": 331.96809055555553
+      "popularity_score": 288.4384502777778
     },
     {
-      "id": "cluster_19",
+      "id": "cluster_46",
       "coverage": 1,
       "updated_at": "Wed, 05 Aug 2026 18:27:15 +0000",
       "title": "Review: Spider-Man: Brand New Day reminds us that superhero movies can be good",
@@ -315,15 +311,15 @@
           "title": "Review: Spider-Man: Brand New Day reminds us that superhero movies can be good",
           "standfirst": "It's as much about grounded characters and well-timed emotional beats as CGI-filled action extravaganzas.",
           "content": "Over the past few years, it has become a rather rare treat when I end up genuinely, unequivocally enjoying the latest superhero film. Mostly I find them to be middling entertainment, sometimes a bit dull—and for The Eternals, nearly unwatchable—with the notable exception of 2024's Deadpool & Wolverine and last year's Thunderbolts*. Add Spider-Man: Brand New Day to that list of exceptions. Tom Holland's latest outing as the titular web-slinger reminds us that superhero movies can still be very, very good—as much about well-drawn characters with interesting developmental arcs and well-timed emotional beats as CGI-filled action extravaganzas. There's plenty of the latter in Brand New Day, of course, but it's the grounded humanity at its heart that makes director Destin Daniel Cretton's film work so well. (Spoilers below but no major reveals until after the gallery. We'll give you a heads up when we get there)Read full article Comments",
-          "feed_position": 4,
+          "feed_position": 8,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/spidey2-1152x637.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/spidey2-1152x637.jpg",
-      "popularity_score": 322.10447944444445
+      "popularity_score": 278.57483916666666
     },
     {
-      "id": "cluster_21",
+      "id": "cluster_47",
       "coverage": 1,
       "updated_at": "Wed, 05 Aug 2026 18:11:11 +0000",
       "title": "Weeks into explosive diarrhea outbreak, sluggish CDC plans response team",
@@ -339,63 +335,15 @@
           "title": "Weeks into explosive diarrhea outbreak, sluggish CDC plans response team",
           "standfirst": "Reports of cases began in June, and the national tally is now nearing 23,000.",
           "content": "The Trump administration continues to respond sluggishly to the explosive, nationwide outbreak of Cyclospora—a unicellular parasite spread from human feces that has now sickened nearly 23,000 people in 47 states, killing two and sending over 500 to the hospital. Michigan health officials reported the two deaths Monday, and The Washington Post first reported Tuesday that federal health officials have expanded a list of states with linked cases from nine to 15. But those updates still have not appeared on public outbreak pages for the Centers for Disease Control and Prevention or the Food and Drug Administration, and Americans are struggling to understand the risk of eating fresh fruits and vegetables. In comments to Ars Technica on Monday, a spokesperson for the Department of Health and Human Services, which oversees CDC and FDA, said the outbreak information will be updated sometime \"this week.\" Sources for The New York Times said that the CDC plans to set up a \"formal response team\" for the outbreak sometime this week. Cases in the outbreak began in June.Read full article Comments",
-          "feed_position": 5,
+          "feed_position": 9,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2278289810-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2278289810-1152x648.jpg",
-      "popularity_score": 300.83670166666667
+      "popularity_score": 257.3070613888889
     },
     {
-      "id": "cluster_34",
-      "coverage": 1,
-      "updated_at": "Wed, 05 Aug 2026 17:12:39 +0000",
-      "title": "After jacking up prices, Disney+ and Netflix consider offering free alternatives",
-      "neutral_headline": "After jacking up prices, Disney+ and Netflix consider offering free alternatives",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/08/after-jacking-up-prices-disney-and-netflix-consider-offering-free-alternatives/",
-          "published_at": "Wed, 05 Aug 2026 17:12:39 +0000",
-          "title": "After jacking up prices, Disney+ and Netflix consider offering free alternatives",
-          "standfirst": "Disney is interested in \"price-sensitive\" streaming customers.",
-          "content": "Disney is “exploring a free product” for streaming customers, CEO Josh D’Amaro confirmed in a call with investors today. D’Amaro, who succeeded Bob Iger as Disney’s chief in March, said that a free Disney-owned streaming service would help Disney reach more “price-sensitive” customers, which is a “strategic priority” for Disney, according to a transcript of the call. A free streaming service would also generate more ad revenue, which has become increasingly important for streaming services challenged by plateauing subscriber numbers, subscriber churn, and competition from cheaper and free rivals.Read full article Comments",
-          "feed_position": 6,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1232471426-1152x648-1758659091.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1232471426-1152x648-1758659091.jpg",
-      "popularity_score": 289.8611461111111
-    },
-    {
-      "id": "cluster_36",
-      "coverage": 1,
-      "updated_at": "Wed, 05 Aug 2026 17:00:38 +0000",
-      "title": "EVgo starts building Tesla Superchargers under license",
-      "neutral_headline": "EVgo starts building Tesla Superchargers under license",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/08/evgo-starts-building-tesla-superchargers-under-license/",
-          "published_at": "Wed, 05 Aug 2026 17:00:38 +0000",
-          "title": "EVgo starts building Tesla Superchargers under license",
-          "standfirst": "The V4 Superchargers will show up in the Tesla nav app and have NACS and CCS1 plugs.",
-          "content": "For most of its existence, the Tesla Supercharger network was both the automaker's crown jewel and a walled garden. Tightly integrated to work only with Tesla electric vehicles, the DC fast-charging experience for Tesla customers was painless in ways that EV drivers dependent on CCS1 chargers operated by a patchwork of networks could only dream of. Then, in 2023, Tesla began opening up the network to other EVs. Ford was the first to sign a deal, and by the following year, the CCS1 plug, which was the de facto non-Tesla standard, was living on borrowed time. But it's not just other automakers that are adopting the J3400 standard, better known as NACS. Manufacturers of DC fast charging equipment can also license Tesla's Supercharger design. In fact, the first license-built Superchargers were deployed in the UK in 2024. And today we learned that's what EVgo will be doing here in the US. It says it will start deploying EVgo-made Tesla V4 Superchargers onto its network later this fall. The DC chargers can deliver up to 500 kW (operating at up to 1,000 V) and support both NACS and CCS1 plugs. And because they're Tesla Superchargers built under license, the EVgo units will appear in Tesla's in-car navigation app and be included when a Tesla driver uses their onboard route planner. The hardware will be owned and operated by EVgo, which will also \"manage activities such as site host engagement, utility interconnection, and price management at EVgo Supercharger sites,\" the company told Ars.Read full article Comments",
-          "feed_position": 7,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/evgo-tesla-partnership-1920x1080.jpg-1152x648.webp"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/evgo-tesla-partnership-1920x1080.jpg-1152x648.webp",
-      "popularity_score": 285.66086805555557
-    },
-    {
-      "id": "cluster_56",
+      "id": "cluster_76",
       "coverage": 1,
       "updated_at": "Wed, 05 Aug 2026 15:30:02 +0000",
       "title": "Google plans to kill Assistant on your phone on September 4",
@@ -411,39 +359,39 @@
           "title": "Google plans to kill Assistant on your phone on September 4",
           "standfirst": "Assistant will disappear, leaving only Gemini for voice control in the coming weeks.",
           "content": "Google Assistant's days have been numbered for a while, but the company has now settled on a date to retire its pre-AI assistant robot. In an email being sent out to users, Google confirms that Assistant on Android devices will be shut down starting on September 4, forcing everyone over to Gemini. Google told us it was coming, but that doesn't make it hurt any less. The initial plan was to retire Assistant in late 2025, but the service got a brief reprieve as Google shored up some aspects of Gemini. Now that Gemini is ready to take over, Google will begin ending support for the old system on September 4, but the email notes that it may take several weeks for the process to complete. So those stubbornly clinging to Assistant may still be able to use it a bit longer before the option disappears. For those who made the switch already, nothing will change. By ending Assistant on mobile devices, Google is also killing it on myriad other gadgets that connect to your phone for smart features. So smartwatches, headphones, and cars with Android Auto are also being forcibly moved to Gemini. Most of Google's smart home devices have already transitioned to Gemini.Read full article Comments",
-          "feed_position": 9,
+          "feed_position": 13,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg",
-      "popularity_score": 270.1508680555556
+      "popularity_score": 156.62122805555555
     },
     {
-      "id": "cluster_42",
+      "id": "cluster_59",
       "coverage": 1,
-      "updated_at": "Wed, 05 Aug 2026 16:37:07 +0000",
-      "title": "D-Wave shows off its new entry in quantum computing race",
-      "neutral_headline": "D-Wave shows off its new entry in quantum computing race",
+      "updated_at": "Wed, 05 Aug 2026 17:00:38 +0000",
+      "title": "EVgo starts building Tesla Superchargers under license",
+      "neutral_headline": "EVgo starts building Tesla Superchargers under license",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/08/d-wave-on-rails-company-tests-entanglement-on-its-dual-rail-qubits/",
-          "published_at": "Wed, 05 Aug 2026 16:37:07 +0000",
-          "title": "D-Wave shows off its new entry in quantum computing race",
-          "standfirst": "Company noted for building quantum annealers now also making gate-based hardware.",
-          "content": "D-Wave is a bit of an oddity in the quantum computing space, having been founded back in the last century. And its initial offering wasn't a quantum computer like those being developed by IBM or Google. Instead, the company built what's now called a quantum annealer, a machine that isn't general-purpose but can solve a large class of optimization problems. While the hardware shares some similarities with the qubits used in gate-based quantum computers, it operates in a fundamentally different way. But a few years back, D-Wave started working on gate-based hardware, apparently choosing a somewhat unusual qubit technology called fluxonium. And this year, the company acquired a startup called Quantum Circuits that spun out of Yale University and has been developing what's called a dual-rail qubit (the same technology used by Amazon), which promises to make most errors very easy to detect, simplifying error correction. On Wednesday, the company is publishing a paper in Nature that describes a key step in validating this dual-rail technology, showing that two of the qubits can be entangled without altering their best feature: Most are a single type that is easy to detect.Read full article Comments",
-          "feed_position": 8,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/v5-834x648.webp"
+          "url": "https://arstechnica.com/cars/2026/08/evgo-starts-building-tesla-superchargers-under-license/",
+          "published_at": "Wed, 05 Aug 2026 17:00:38 +0000",
+          "title": "EVgo starts building Tesla Superchargers under license",
+          "standfirst": "The V4 Superchargers will show up in the Tesla nav app and have NACS and CCS1 plugs.",
+          "content": "For most of its existence, the Tesla Supercharger network was both the automaker's crown jewel and a walled garden. Tightly integrated to work only with Tesla electric vehicles, the DC fast-charging experience for Tesla customers was painless in ways that EV drivers dependent on CCS1 chargers operated by a patchwork of networks could only dream of. Then, in 2023, Tesla began opening up the network to other EVs. Ford was the first to sign a deal, and by the following year, the CCS1 plug, which was the de facto non-Tesla standard, was living on borrowed time. But it's not just other automakers that are adopting the J3400 standard, better known as NACS. Manufacturers of DC fast charging equipment can also license Tesla's Supercharger design. In fact, the first license-built Superchargers were deployed in the UK in 2024. And today we learned that's what EVgo will be doing here in the US. It says it will start deploying EVgo-made Tesla V4 Superchargers onto its network later this fall. The DC chargers can deliver up to 500 kW (operating at up to 1,000 V) and support both NACS and CCS1 plugs. And because they're Tesla Superchargers built under license, the EVgo units will appear in Tesla's in-car navigation app and be included when a Tesla driver uses their onboard route planner. The hardware will be owned and operated by EVgo, which will also \"manage activities such as site host engagement, utility interconnection, and price management at EVgo Supercharger sites,\" the company told Ars.Read full article Comments",
+          "feed_position": 11,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/evgo-tesla-partnership-1920x1080.jpg-1152x648.webp"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/v5-834x648.webp",
-      "popularity_score": 269.2689236111111
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/evgo-tesla-partnership-1920x1080.jpg-1152x648.webp",
+      "popularity_score": 152.13122805555557
     },
     {
-      "id": "cluster_74",
+      "id": "cluster_90",
       "coverage": 1,
       "updated_at": "Wed, 05 Aug 2026 13:59:17 +0000",
       "title": "SpaceX spooks investors with debut earnings report",
@@ -459,15 +407,63 @@
           "title": "SpaceX spooks investors with debut earnings report",
           "standfirst": "Shares slide in pre-market trading even as group says its quarterly revenues nearly doubled.",
           "content": "SpaceX shares dropped on Wednesday after Elon Musk’s plans for blockbuster spending to position his AI and rocket company as a data center developer spooked investors. SpaceX surpassed analysts’ expectations in Tuesday’s debut earnings report, posting quarterly revenues of $7.8 billion, well above analysts’ estimates of $6.82 billion and up 92 percent from a year earlier. It posted a net loss of about $541 million, better than estimates of $2.12 billion. But shares in SpaceX fell 10 percent in early trading after it reported capital expenditure of almost $16 billion on AI, double the previous quarter and well above Wall Street’s expectations. It said spending would persist at current levels for at least two more quarters.Read full article Comments",
-          "feed_position": 10,
+          "feed_position": 14,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/spacex-nasdaq-1024x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/spacex-nasdaq-1024x648.jpg",
-      "popularity_score": 151.63836805555556
+      "popularity_score": 148.10872805555556
     },
     {
-      "id": "cluster_92",
+      "id": "cluster_57",
+      "coverage": 1,
+      "updated_at": "Wed, 05 Aug 2026 17:12:39 +0000",
+      "title": "After jacking up prices, Disney+ and Netflix consider offering free alternatives",
+      "neutral_headline": "After jacking up prices, Disney+ and Netflix consider offering free alternatives",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/08/after-jacking-up-prices-disney-and-netflix-consider-offering-free-alternatives/",
+          "published_at": "Wed, 05 Aug 2026 17:12:39 +0000",
+          "title": "After jacking up prices, Disney+ and Netflix consider offering free alternatives",
+          "standfirst": "Disney is interested in \"price-sensitive\" streaming customers.",
+          "content": "Disney is “exploring a free product” for streaming customers, CEO Josh D’Amaro confirmed in a call with investors today. D’Amaro, who succeeded Bob Iger as Disney’s chief in March, said that a free Disney-owned streaming service would help Disney reach more “price-sensitive” customers, which is a “strategic priority” for Disney, according to a transcript of the call. A free streaming service would also generate more ad revenue, which has become increasingly important for streaming services challenged by plateauing subscriber numbers, subscriber churn, and competition from cheaper and free rivals.Read full article Comments",
+          "feed_position": 10,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1232471426-1152x648-1758659091.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1232471426-1152x648-1758659091.jpg",
+      "popularity_score": 146.33150583333332
+    },
+    {
+      "id": "cluster_64",
+      "coverage": 1,
+      "updated_at": "Wed, 05 Aug 2026 16:37:07 +0000",
+      "title": "D-Wave shows off its new entry in quantum computing race",
+      "neutral_headline": "D-Wave shows off its new entry in quantum computing race",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/08/d-wave-on-rails-company-tests-entanglement-on-its-dual-rail-qubits/",
+          "published_at": "Wed, 05 Aug 2026 16:37:07 +0000",
+          "title": "D-Wave shows off its new entry in quantum computing race",
+          "standfirst": "Company noted for building quantum annealers now also making gate-based hardware.",
+          "content": "D-Wave is a bit of an oddity in the quantum computing space, having been founded back in the last century. And its initial offering wasn't a quantum computer like those being developed by IBM or Google. Instead, the company built what's now called a quantum annealer, a machine that isn't general-purpose but can solve a large class of optimization problems. While the hardware shares some similarities with the qubits used in gate-based quantum computers, it operates in a fundamentally different way. But a few years back, D-Wave started working on gate-based hardware, apparently choosing a somewhat unusual qubit technology called fluxonium. And this year, the company acquired a startup called Quantum Circuits that spun out of Yale University and has been developing what's called a dual-rail qubit (the same technology used by Amazon), which promises to make most errors very easy to detect, simplifying error correction. On Wednesday, the company is publishing a paper in Nature that describes a key step in validating this dual-rail technology, showing that two of the qubits can be entangled without altering their best feature: Most are a single type that is easy to detect.Read full article Comments",
+          "feed_position": 12,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/v5-834x648.webp"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/v5-834x648.webp",
+      "popularity_score": 145.73928361111112
+    },
+    {
+      "id": "cluster_105",
       "coverage": 1,
       "updated_at": "Wed, 05 Aug 2026 11:00:26 +0000",
       "title": "Pushing the limits: Infinite Machine's Olto is barely a bicycle",
@@ -483,15 +479,15 @@
           "title": "Pushing the limits: Infinite Machine's Olto is barely a bicycle",
           "standfirst": "Scooter layout makes pedaling a bad experience. But it does have pedals.",
           "content": "The Infinite Machine Olto is a great electric scooter, one with an overall layout that echoes the classic Vespa. It's comfortable, and it accelerates well, handles nicely, and has a capacious battery. It has a rugged design that seems capable of handling a lot of abuse, but it also comes with thoughtful touches and security features that mean you can park it anywhere with confidence. And it provides all that at less than half the cost of its full-featured stablemate, the P1 scooter. The reason is that the Olto is also a bicycle. Sort of. This may technically be a bicycle, but it's not one you'd ever want to pedal. While you can set it to operate as either a Class 2 or Class 3 e-bike, it works best when the pedals are both locked in a forward position, acting as footrests. The Olto was designed to provide riders with the experience of a scooter while still allowing them to take advantage of the growing bike lane networks in many urban areas across the country.Read full article Comments",
-          "feed_position": 11,
+          "feed_position": 15,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/IMG_1971-1152x648-1785165291.jpeg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/IMG_1971-1152x648-1785165291.jpeg",
-      "popularity_score": 143.6575347222222
+      "popularity_score": 140.1278947222222
     },
     {
-      "id": "cluster_128",
+      "id": "cluster_136",
       "coverage": 1,
       "updated_at": "Tue, 04 Aug 2026 17:34:48 +0000",
       "title": "China is Tesla's cash cow, but for how much longer?",
@@ -507,7 +503,7 @@
           "title": "China is Tesla's cash cow, but for how much longer?",
           "standfirst": "Tesla's Shanghai factory is busier than ever but might be cut loose.",
           "content": "Tesla's factory in Shanghai had its best June ever, according to the China Passenger ⁠Car Association. Tesla built 93,579 cars in China that month, a hefty 38 percent increase compared to June 2025, according to CPCA's data. But that production isn't translating into bumper sales to Chinese customers. Rather, sales have been down quarter on quarter in China for more than a year now, particularly as buyers tire of the Model 3 sedan. Almost 40 percent of the EVs that Tesla built in June were destined for export. And in Q2 in total, more than 50 percent—just—of the cars it built were for Europe, Canada, and other Asian markets: 128,394 versus the 126,157 Chinese-built Teslas that were sold to Chinese buyers. Low labor costs compared to Germany or the US are a big boon here, as are cheaper components from local suppliers. Throw in some export-related tax rebates from the Chinese government, and it's not hard to see how Tesla's Shanghai plant is an extremely valuable asset. Despite this seemingly critical importance to the automaker at a time when its profit margins are evaporating, Tesla may be contemplating a future without China. Last week, The Wall Street Journal reported that some Tesla executives have been tasked with separating Chinese and non-Chinese parts of the company, although Tesla denied such preparations were underway.Read full article Comments",
-          "feed_position": 15,
+          "feed_position": 19,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2270890949-1152x648.jpg"
         }
       ],
@@ -515,31 +511,7 @@
       "popularity_score": 139
     },
     {
-      "id": "cluster_141",
-      "coverage": 1,
-      "updated_at": "Tue, 04 Aug 2026 14:45:08 +0000",
-      "title": "2027 Chevrolet Corvette Grand Sport X proves code is as important as hardware",
-      "neutral_headline": "2027 Chevrolet Corvette Grand Sport X proves code is as important as hardware",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/08/2027-chevrolet-corvette-grand-sport-x-proves-code-is-as-important-as-hardware/",
-          "published_at": "Tue, 04 Aug 2026 14:45:08 +0000",
-          "title": "2027 Chevrolet Corvette Grand Sport X proves code is as important as hardware",
-          "standfirst": "Chevy's 721-hp hybrid ups the ante with few compromises, but at a steep cost.",
-          "content": "Chevrolet provided flights from Albany, New York, to Denver and accommodation so Ars could drive the Grand Sport X. Ars does not accept paid editorial content. When Chevrolet introduced a hybrid system to the Corvette lineup in 2023, creating the E-Ray, many fans were confused. If it was meant to be a performance option, where did it fit alongside the ZR1 and ZR1X? Was this a concession to emissions, or was it a sign of the fabled Stingray getting soft? Promises of silent cruising through neighborhoods and the application of all-season tires didn't help the situation. Three years later, the E-Ray is dead, but the hybrid system lives on in the new Grand Sport X. This, though, isn't intended to be a direct successor. A series of subtle and not-so-subtle software tweaks, plus some additional drive modes and a whole new engine, conspire to create a machine that sounds and feels far more edgy and exciting. From E-Ray to Grand Sport X \"There were some customers who didn't necessarily understand the car,\" Keith Badgley said of the E-Ray. He was the lead development engineer for that machine, as well as the Grand Sport X and the ZR1X. I spoke with him after spending a few days behind the wheel of the Grand Sport X.Read full article Comments",
-          "feed_position": 19,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/2026-Chevrolet-Corvette-Grand-Sport-X-005-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/2026-Chevrolet-Corvette-Grand-Sport-X-005-1152x648.jpg",
-      "popularity_score": 136
-    },
-    {
-      "id": "cluster_122",
+      "id": "cluster_130",
       "coverage": 1,
       "updated_at": "Tue, 04 Aug 2026 21:52:31 +0000",
       "title": "Senators demand crackdown on wildfire \"prediction market\" bets",
@@ -555,7 +527,7 @@
           "title": "Senators demand crackdown on wildfire \"prediction market\" bets",
           "standfirst": "Fire experts warn such markets could incentivize arson.",
           "content": "Several US senators have written a letter to the Commodity Futures Trading Commission (CFTC), inquiring about the agency’s “plans to crack down on prediction markets” that offer “contracts for individuals to bet on wildfires.” “Offering bets on destructive wildfires threatens to minimize communities’ suffering, all so the rich and powerful can profit,” wrote the group of senators, who represent Oregon, California, Nevada, Minnesota, and New Hampshire. The document specifically cites that Polymarket hosted bets in January 2025 on the wildfires in Los Angeles, and it mentions another website that specifically accepts “simulated bets” exclusively on California wildfires.Read full article Comments",
-          "feed_position": 12,
+          "feed_position": 16,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2170814475-1152x648.jpg"
         }
       ],
@@ -563,7 +535,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_123",
+      "id": "cluster_131",
       "coverage": 1,
       "updated_at": "Tue, 04 Aug 2026 21:27:05 +0000",
       "title": "Trump killed the Digital Equity Act but US was forced to bring part of it back",
@@ -579,7 +551,7 @@
           "title": "Trump killed the Digital Equity Act but US was forced to bring part of it back",
           "standfirst": "$1.25 billion program restored, but judge ruled race provision unconstitutional.",
           "content": "The Trump administration said it will reinstate a broadband grant program to comply with a court ruling that prevented it from fully ignoring the Digital Equity Act enacted by Congress in 2021. The US government said in a court filing that it plans to start taking applications for grants in December. However, the Trump administration won a partial victory because the judge ruled the government can't allocate money based on the race or ethnicity of people who would benefit from grants. The government program can still award broadband grants based on factors like income, age, and disability. The Digital Equity Act of 2021 provided $2.75 billion for three grant programs aimed at closing gaps in broadband access. The Biden administration started awarding $60 million in planning grants to states in 2022, and in 2024 it started taking applications to distribute the rest of the $2.75 billion. Trump announced in May 2025 that he would end the grant programs, claiming the Digital Equity Act itself is racist and unconstitutional.Read full article Comments",
-          "feed_position": 13,
+          "feed_position": 17,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/trump-with-smartphone-1152x648-1785876893.jpg"
         }
       ],
@@ -587,7 +559,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_125",
+      "id": "cluster_133",
       "coverage": 1,
       "updated_at": "Tue, 04 Aug 2026 20:34:28 +0000",
       "title": "Texas halts data center connections to power grid amid overwhelming demand",
@@ -603,84 +575,11 @@
           "title": "Texas halts data center connections to power grid amid overwhelming demand",
           "standfirst": "Governor who touted Texas as AI “epicenter” pauses data center grid connections.",
           "content": "Nowhere is the US data center boom bigger than in Texas. But less than a year after declaring Texas the “epicenter of AI development,” Governor Greg Abbott has declared a moratorium on all new power grid connections for data centers—at least until developers provide more information about their projects’ potential impacts on the grid and communities. The Republican governor directed regulators in an August 3 announcement at the Public Utility Commission of Texas and the grid operators at the Electric Reliability Council of Texas (ERCOT) to perform a “comprehensive verification and audit of all data centers advancing through ERCOT’s interconnection process.” As an independent system operator, ERCOT oversees a power grid that operates separately from the rest of the United States and provides services to most of Texas. Texas has aggressively courted data center development with its availability of cheap land and relatively abundant energy resources, along with offering state incentives, like tax breaks and fewer regulations. That puts the state on track to surpass Virginia in becoming the largest US data center market.Read full article Comments",
-          "feed_position": 14,
+          "feed_position": 18,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2288039036-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2288039036-1152x648.jpg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_131",
-      "coverage": 1,
-      "updated_at": "Tue, 04 Aug 2026 16:11:05 +0000",
-      "title": "The Pixel 11's \"glow\" feature is actually called HiLight—here's what it does",
-      "neutral_headline": "The Pixel 11's \"glow\" feature is actually called HiLight—here's what it does",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/08/the-pixel-11s-glow-feature-is-actually-called-hilight-heres-what-it-does/",
-          "published_at": "Tue, 04 Aug 2026 16:11:05 +0000",
-          "title": "The Pixel 11's \"glow\" feature is actually called HiLight—here's what it does",
-          "standfirst": "The camera flash will evolve into a multicolor LED that illuminates when your phone is face down.",
-          "content": "Google will reveal the Pixel 11 series later this month, but leaks and teasers so far have painted a picture of phones that have barely changed since last year. One notable exception seems to be the illuminated dot from some of the teasers. This has been rumored as \"Pixel Glow,\" but a new leak all but confirms a different (and less interesting) name. Say hello to HiLight. A post on Bluesky by WinFuture's Roland Quandt shows the new LED inside the camera module of the Pixel 11 Pro Fold. We can see the actual body of the device rather than a shadowy outline as in Google's teasers, and it does look a bit different than the previous Pixel Fold. The camera bump on the Pixel 11 Pro Fold is smaller, with no separate section for the flash off to the right. It appears that HiLight is the flash. Presumably, it still works as a flashlight and camera flash, but it can also produce a range of colors.Read full article Comments",
-          "feed_position": 16,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/HiLight-crop-1152x648-1785858816.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/HiLight-crop-1152x648-1785858816.jpg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_132",
-      "coverage": 1,
-      "updated_at": "Tue, 04 Aug 2026 15:51:00 +0000",
-      "title": "Tom DeLay helped create TV ownership cap—he says Trump FCC has no authority to repeal it",
-      "neutral_headline": "Tom DeLay helped create TV ownership cap—he says Trump FCC has...",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/08/can-trump-fcc-repeal-39-tv-ownership-cap-republican-who-wrote-cap-into-law-says-no/",
-          "published_at": "Tue, 04 Aug 2026 15:51:00 +0000",
-          "title": "Tom DeLay helped create TV ownership cap—he says Trump FCC has no authority to repeal it",
-          "standfirst": "Congress set ownership limit at 39%, but FCC claims authority to kill the rule.",
-          "content": "Tom DeLay, the Texas Republican who was House majority leader from 2003 to 2005, said the Federal Communications Commission has no legal authority to repeal the National Television Ownership Rule. Despite DeLay's warning, the Trump FCC appears ready to eliminate the rule at its meeting this week. DeLay wrote an op-ed describing how he helped write the law that prohibited any single broadcast station owner from reaching more than 39 percent of all TV households in the US. DeLay said that only Congress, not the Trump FCC, can change the cap because the 39 percent limit is specified in US law and wasn't chosen by the commission. DeLay gave his view in an op-ed for The Daily Wire yesterday, less than three weeks after FCC Chairman Brendan Carr announced a plan to eliminate the cap. The FCC is scheduled to vote on Carr's proposal on Thursday.Read full article Comments",
-          "feed_position": 17,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/brendan-carr-fcc-crest-1152x648-1771622570.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/brendan-carr-fcc-crest-1152x648-1771622570.jpg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_137",
-      "coverage": 1,
-      "updated_at": "Tue, 04 Aug 2026 15:06:07 +0000",
-      "title": "Trump admin \"aware\" of deaths in explosive diarrhea outbreak, delays reporting",
-      "neutral_headline": "Trump admin \"aware\" of deaths in explosive diarrhea outbreak, delays reporting",
-      "bullet_summary": [
-        "Federal officials will update the outbreak sometime \"this week,\" a spokesperson said",
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/health/2026/08/trump-admin-aware-of-deaths-in-explosive-diarrhea-outbreak-delays-reporting/",
-          "published_at": "Tue, 04 Aug 2026 15:06:07 +0000",
-          "title": "Trump admin \"aware\" of deaths in explosive diarrhea outbreak, delays reporting",
-          "standfirst": "Federal officials will update the outbreak sometime \"this week,\" a spokesperson said.",
-          "content": "Two people have died amid the ongoing record-breaking outbreak of explosive diarrhea from the foodborne parasite Cyclospora, Michigan health officials announced Monday. Cyclosporiasis fatalities are extremely rare, and despite the massive size of the outbreak, some experts were still surprised by the deaths. The Michigan Department of Health and Human Services on Monday said that medical records of both individuals indicated that they had \"significant underlying health conditions that may have been impacted by cyclosporiasis and dehydration.\" MDHHS noted that both fell ill with the diarrheal infection before Taylor Farms recalled its shredded iceberg lettuce grown in Mexico, which has been linked to thousands of cases in at least nine states. Cyclospora is a unicellular parasite that spreads in human feces and is often transmitted via contaminated fresh produce, such as lettuces and other fruits and vegetables that have uneven surfaces for the parasite to grip. Past culprits have included fresh herbs, raspberries, green onions, and snow peas.Read full article Comments",
-          "feed_position": 18,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2285922416-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2285922416-1152x648.jpg",
       "popularity_score": 133
     }
   ]
