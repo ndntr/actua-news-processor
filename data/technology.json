@@ -1,59 +1,35 @@
 {
-  "updated_at": "2026-08-07T11:39:18.751Z",
+  "updated_at": "2026-08-07T19:46:17.765Z",
   "clusters": [
     {
-      "id": "cluster_17",
-      "coverage": 2,
-      "updated_at": "2026-08-07T05:10:01-04:00",
-      "title": "Meta ordered to pay an additional $567 million in public nuisance ruling",
-      "neutral_headline": "Meta ordered to pay an additional $567 million in public nuisance ruling",
+      "id": "cluster_48",
+      "coverage": 3,
+      "updated_at": "Fri, 07 Aug 2026 14:28:31 +0000",
+      "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
+      "neutral_headline": "Chinese AI model Moonshot Kimi K3 also escaped its testing environment",
       "bullet_summary": [
-        "\" In a ruling published on Thursday, the Santa Fe district court found that Meta's platforms are a \"significant contributing cause\" of a teen mental [&#8230;]",
-        "Reported by The Verge, Engadget"
+        "Kimi K3 also found loopholes in its sandbox environment that allowed it to access the internet",
+        "Reported by TechCrunch, Engadget, Wired Tech"
       ],
       "items": [
         {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/976537/meta-new-mexico-cild-safety-fine-public-nuisance",
-          "published_at": "2026-08-07T05:10:01-04:00",
-          "title": "Meta ordered to pay an additional $567 million in public nuisance ruling",
-          "standfirst": "Meta has been ordered to pay $567 million in the second phase of New Mexico's landmark child safety case, bringing total charges to nearly $1 billion for being a \"public nuisance.\" In a ruling published on Thursday, the Santa Fe district court found that Meta's platforms are a \"significant contributing cause\" of a teen mental [&#8230;]",
-          "content": "Meta has been ordered to pay $567 million in the second phase of New Mexico's landmark child safety case, bringing total charges to nearly $1 billion for being a \"public nuisance.\" In a ruling published on Thursday, the Santa Fe district court found that Meta's platforms are a \"significant contributing cause\" of a teen mental health crisis affecting public health and safety throughout New Mexico. \"This case has always been about protecting children, standing up for families, and making sure that one of the world's largest technology companies cannot profit from practices that endanger young people without consequence,\" New Mexico Attorney G … Read the full story at The Verge.",
-          "feed_position": 1
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/",
+          "published_at": "Fri, 07 Aug 2026 14:28:31 +0000",
+          "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
+          "standfirst": "In the Kimi test, the sandbox designed to contain the experiment was not properly configured.",
+          "content": "In the Kimi test, the sandbox designed to contain the experiment was not properly configured.",
+          "feed_position": 5
         },
         {
           "source": "Engadget",
-          "url": "https://www.engadget.com/2232202/meta-additional-567-million-fine-new-mexico-child-safety-case/",
-          "published_at": "Fri, 07 Aug 2026 05:08:32 +0000",
-          "title": "Court orders Meta to pay an additional $567 million in New Mexico child safety case",
-          "standfirst": "A judge has ruled that Meta is a public nuisance and has to pay fine that will go towards funding state programs.",
-          "content": "A judge has ruled that Meta is a public nuisance and has to pay fine that will go towards funding state programs.",
-          "feed_position": 1,
-          "image_url": "https://www.engadget.com/img/gallery/meta-additional-567-million-fine-new-mexico-child-safety-case/l-intro-1786082724.jpg"
-        }
-      ],
-      "featured_image": "https://www.engadget.com/img/gallery/meta-additional-567-million-fine-new-mexico-child-safety-case/l-intro-1786082724.jpg",
-      "popularity_score": 2017.5117358333334
-    },
-    {
-      "id": "cluster_33",
-      "coverage": 2,
-      "updated_at": "Thu, 06 Aug 2026 22:01:36 -0400",
-      "title": "Security researchers claim that Kimi K3 went outside of its sandbox during defensive cybersecurity tests, but did not hack anything after accessing the internet (Will Knight/Wired)",
-      "neutral_headline": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
-      "bullet_summary": [
-        "Reported by TechMeme, Wired Tech"
-      ],
-      "items": [
-        {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/260806/p58#a260806p58",
-          "published_at": "Thu, 06 Aug 2026 22:01:36 -0400",
-          "title": "Security researchers claim that Kimi K3 went outside of its sandbox during defensive cybersecurity tests, but did not hack anything after accessing the internet (Will Knight/Wired)",
-          "standfirst": "Will Knight / Wired: Security researchers claim that Kimi K3 went outside of its sandbox during defensive cybersecurity tests, but did not hack anything after accessing the internet &mdash; Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.",
-          "content": "Will Knight / Wired: Security researchers claim that Kimi K3 went outside of its sandbox during defensive cybersecurity tests, but did not hack anything after accessing the internet &mdash; Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.",
+          "url": "https://www.engadget.com/2232256/chinese-ai-kimi-k3-also-escaped-containment/",
+          "published_at": "Fri, 07 Aug 2026 10:44:04 +0000",
+          "title": "Chinese AI model Moonshot Kimi K3 also escaped its testing environment",
+          "standfirst": "Kimi K3 also found loopholes in its sandbox environment that allowed it to access the internet.",
+          "content": "Kimi K3 also found loopholes in its sandbox environment that allowed it to access the internet.",
           "feed_position": 14,
-          "image_url": "http://www.techmeme.com/260806/i58.jpg"
+          "image_url": "https://www.engadget.com/img/gallery/chinese-ai-model-moonshot-kimi-k3-also-escaped-its-testing-environment/l-intro-1786099329.jpg"
         },
         {
           "source": "Wired Tech",
@@ -62,15 +38,214 @@
           "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
           "standfirst": "Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.",
           "content": "Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.",
-          "feed_position": 20,
+          "feed_position": 25,
           "image_url": "https://media.wired.com/photos/6a749a84077eac6832213fdf/master/pass/BadKimi.jpg"
         }
       ],
-      "featured_image": "http://www.techmeme.com/260806/i58.jpg",
-      "popularity_score": 2010.3714580555556
+      "featured_image": "https://www.engadget.com/img/gallery/chinese-ai-model-moonshot-kimi-k3-also-escaped-its-testing-environment/l-intro-1786099329.jpg",
+      "popularity_score": 3014.703676388889
     },
     {
-      "id": "cluster_35",
+      "id": "cluster_6",
+      "coverage": 2,
+      "updated_at": "Fri, 07 Aug 2026 18:37:26 +0000",
+      "title": "Framework customer information was accessed as part of a data breach",
+      "neutral_headline": "Framework customer information was accessed as part of a data breach",
+      "bullet_summary": [
+        "Reported by Engadget, TechCrunch"
+      ],
+      "items": [
+        {
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2232708/framework-customer-information-was-accessed-as-part-of-a-data-breach/",
+          "published_at": "Fri, 07 Aug 2026 18:37:26 +0000",
+          "title": "Framework customer information was accessed as part of a data breach",
+          "standfirst": "Framework's customer database was accessed, but no payment info was released.",
+          "content": "Framework's customer database was accessed, but no payment info was released.",
+          "feed_position": 0,
+          "image_url": "https://www.engadget.com/img/gallery/framework-customer-information-was-accessed-as-part-of-a-data-breach/l-intro-1786127789.jpg"
+        },
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/",
+          "published_at": "Fri, 07 Aug 2026 16:09:04 +0000",
+          "title": "Computer maker Framework notifies &#8216;all customers&#8217; of a data breach",
+          "standfirst": "Framework told \"all\" of its customers that hackers accessed their names, email addresses, phone numbers, and physical addresses in a data breach.",
+          "content": "Framework told \"all\" of its customers that hackers accessed their names, email addresses, phone numbers, and physical addresses in a data breach.",
+          "feed_position": 1
+        }
+      ],
+      "featured_image": "https://www.engadget.com/img/gallery/framework-customer-information-was-accessed-as-part-of-a-data-breach/l-intro-1786127789.jpg",
+      "popularity_score": 2018.8522875
+    },
+    {
+      "id": "cluster_10",
+      "coverage": 2,
+      "updated_at": "Fri, 07 Aug 2026 14:15:03 -0400",
+      "title": "Microsoft plans to end support for Manifest V2 extensions in Edge starting this month, following Google Chrome, and for enterprise users in early 2027 (Stevie Bonifield/The Verge)",
+      "neutral_headline": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
+      "bullet_summary": [
+        "Reported by TechMeme, The Verge"
+      ],
+      "items": [
+        {
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/260807/p24#a260807p24",
+          "published_at": "Fri, 07 Aug 2026 14:15:03 -0400",
+          "title": "Microsoft plans to end support for Manifest V2 extensions in Edge starting this month, following Google Chrome, and for enterprise users in early 2027 (Stevie Bonifield/The Verge)",
+          "standfirst": "Stevie Bonifield / The Verge: Microsoft plans to end support for Manifest V2 extensions in Edge starting this month, following Google Chrome, and for enterprise users in early 2027 &mdash; &#65279;Microsoft's plan for Edge means that uBlock Origin users are losing one of their browser options.",
+          "content": "Stevie Bonifield / The Verge: Microsoft plans to end support for Manifest V2 extensions in Edge starting this month, following Google Chrome, and for enterprise users in early 2027 &mdash; &#65279;Microsoft's plan for Edge means that uBlock Origin users are losing one of their browser options.",
+          "feed_position": 2,
+          "image_url": "http://www.techmeme.com/260807/i24.jpg"
+        },
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
+          "published_at": "2026-08-07T13:43:34-04:00",
+          "title": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
+          "standfirst": "Microsoft Edge is ending support for the Manifest V2 extensions platform, which will cut off the uBlock Origin adblocker and others like it, just like Google Chrome did earlier this year. According to Microsoft, there are only 58 extensions on the Edge Add-On Store \"with any meaningful usage\" that still use MV2, and only three [&#8230;]",
+          "content": "Microsoft Edge is ending support for the Manifest V2 extensions platform, which will cut off the uBlock Origin adblocker and others like it, just like Google Chrome did earlier this year. According to Microsoft, there are only 58 extensions on the Edge Add-On Store \"with any meaningful usage\" that still use MV2, and only three of those aren't available on the newer MV3 platform. Anyone still using these extensions can switch to a different adblocker, like uBlock Origin Lite. Or they could use a different browser, like Opera, which still supports existing MV2 extensions and says it will continue to do so \"for as long as it's technically rea … Read the full story at The Verge.",
+          "feed_position": 4
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/260807/i24.jpg",
+      "popularity_score": 2018.4792319444443
+    },
+    {
+      "id": "cluster_12",
+      "coverage": 2,
+      "updated_at": "Fri, 07 Aug 2026 18:04:19 +0000",
+      "title": "Trump administration spends another $1.2 billion to kill offshore wind farm projects",
+      "neutral_headline": "Trump administration has spent nearly $4B to cancel offshore wind farms",
+      "bullet_summary": [
+        "Reported by Engadget, TechCrunch"
+      ],
+      "items": [
+        {
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2232653/trump-administration-spends-another-1-2-billion-to-kill-offshore-wind-farm-projects/",
+          "published_at": "Fri, 07 Aug 2026 18:04:19 +0000",
+          "title": "Trump administration spends another $1.2 billion to kill offshore wind farm projects",
+          "standfirst": "This is the fifth such deal in which the president and his team has paid big to cancel a green energy contract.",
+          "content": "This is the fifth such deal in which the president and his team has paid big to cancel a green energy contract.",
+          "feed_position": 5,
+          "image_url": "https://www.engadget.com/img/gallery/trump-administration-spends-another-1-2-billion-to-kill-offshore-wind-farm-projects/l-intro-1786125677.jpg"
+        },
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/07/trump-administration-has-spent-nearly-4b-to-cancel-offshore-wind-farms/",
+          "published_at": "Fri, 07 Aug 2026 15:11:03 +0000",
+          "title": "Trump administration has spent nearly $4B to cancel offshore wind farms",
+          "standfirst": "The Trump administration has now convinced developers to abandon 12 offshore wind leases. The latest will cost taxpayers $1.2 billion.",
+          "content": "The Trump administration has now convinced developers to abandon 12 offshore wind leases. The latest will cost taxpayers $1.2 billion.",
+          "feed_position": 3
+        }
+      ],
+      "featured_image": "https://www.engadget.com/img/gallery/trump-administration-spends-another-1-2-billion-to-kill-offshore-wind-farm-projects/l-intro-1786125677.jpg",
+      "popularity_score": 2018.3003430555555
+    },
+    {
+      "id": "cluster_14",
+      "coverage": 2,
+      "updated_at": "Fri, 07 Aug 2026 18:00:02 +0000",
+      "title": "New official 30th anniversary Quake mission pack adds new maps and mechanics",
+      "neutral_headline": "New official 30th anniversary Quake mission pack adds new maps and mechanics",
+      "bullet_summary": [
+        "Reported by Ars Technica, Engadget"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/",
+          "published_at": "Fri, 07 Aug 2026 18:00:02 +0000",
+          "title": "New official 30th anniversary Quake mission pack adds new maps and mechanics",
+          "standfirst": "19 new maps continue the story from MachineGames' other campaign additions.",
+          "content": "This year is the 30th anniversary of the launch of the original Quake by id Software, if you could believe it. To commemorate that, publisher Bethesda has released a new campaign chapter for the game, titled \"Dawn of the Machine.\" This is part of a series of new campaign chapters, all developed by MachineGames \"in collaboration with id Software.\" MachineGames is best known for making the games in the relatively recent Wolfenstein reboot series, as well as Indiana Jones and the Great Circle. The Quake maps are made by a team dubbed \"Quake Club,\" which includes several MachineGames employees who work on Quake maps in their spare time. The ambition and scope of some of these maps is beyond what was typical for Quake maps back in the late '90s, thanks in part to the team's use of Trenchbloom, a newer map editor that works well on modern systems and is easier to work with and more capable than what folks were using in those days.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/QUAKE_DLC_Xbox_TitledHero_1920x1080-02-JPG-9d514999ee7900fc9cfe-1600x900-1-1152x648-1786124877.jpg"
+        },
+        {
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2232022/quake-30th-anniversary-new-free-episode/",
+          "published_at": "Thu, 06 Aug 2026 20:05:13 +0000",
+          "title": "Quake celebrates its 30th anniversary with a new free episode",
+          "standfirst": "The Dawn of the Machine expansion was made by MachineGames in collaboration with id Software.",
+          "content": "The Dawn of the Machine expansion was made by MachineGames in collaboration with id Software.",
+          "feed_position": 19,
+          "image_url": "https://www.engadget.com/img/gallery/quake-celebrates-its-30th-anniversary-with-a-new-free-episode/l-intro-1786046645.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/QUAKE_DLC_Xbox_TitledHero_1920x1080-02-JPG-9d514999ee7900fc9cfe-1600x900-1-1152x648-1786124877.jpg",
+      "popularity_score": 2018.2289541666667
+    },
+    {
+      "id": "cluster_28",
+      "coverage": 2,
+      "updated_at": "Fri, 07 Aug 2026 12:50:02 -0400",
+      "title": "Cloudflare debuts Kitesurf, a cloud-hosted browser for AI agents built on top of its Workers serverless service, available for free while in beta in Browser Run (Sarah Perez/TechCrunch)",
+      "neutral_headline": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "bullet_summary": [
+        "Reported by TechMeme, TechCrunch"
+      ],
+      "items": [
+        {
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/260807/p21#a260807p21",
+          "published_at": "Fri, 07 Aug 2026 12:50:02 -0400",
+          "title": "Cloudflare debuts Kitesurf, a cloud-hosted browser for AI agents built on top of its Workers serverless service, available for free while in beta in Browser Run (Sarah Perez/TechCrunch)",
+          "standfirst": "Sarah Perez / TechCrunch: Cloudflare debuts Kitesurf, a cloud-hosted browser for AI agents built on top of its Workers serverless service, available for free while in beta in Browser Run &mdash; Cloudflare is the latest company to join the race to build a new web browser. But instead of pitching a Chrome alternative to consumers &hellip;",
+          "content": "Sarah Perez / TechCrunch: Cloudflare debuts Kitesurf, a cloud-hosted browser for AI agents built on top of its Workers serverless service, available for free while in beta in Browser Run &mdash; Cloudflare is the latest company to join the race to build a new web browser. But instead of pitching a Chrome alternative to consumers &hellip;",
+          "feed_position": 5,
+          "image_url": "http://www.techmeme.com/260807/i21.jpg"
+        },
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+          "published_at": "Fri, 07 Aug 2026 16:16:09 +0000",
+          "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+          "standfirst": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+          "content": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+          "feed_position": 0
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/260807/i21.jpg",
+      "popularity_score": 2017.0622875
+    },
+    {
+      "id": "cluster_76",
+      "coverage": 2,
+      "updated_at": "Fri, 07 Aug 2026 11:40:37 +0000",
+      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
+      "neutral_headline": "New Mexico court orders Meta to pay additional $567M in child safety case",
+      "bullet_summary": [
+        "Reported by TechCrunch, Engadget"
+      ],
+      "items": [
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
+          "published_at": "Fri, 07 Aug 2026 11:40:37 +0000",
+          "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
+          "standfirst": "Meta's total fine has raked up to $942 million in this case.",
+          "content": "Meta's total fine has raked up to $942 million in this case.",
+          "feed_position": 9
+        },
+        {
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2232202/meta-additional-567-million-fine-new-mexico-child-safety-case/",
+          "published_at": "Fri, 07 Aug 2026 05:08:32 +0000",
+          "title": "Court orders Meta to pay an additional $567 million in New Mexico child safety case",
+          "standfirst": "A judge has ruled that Meta is a public nuisance and has to pay fine that will go towards funding state programs.",
+          "content": "A judge has ruled that Meta is a public nuisance and has to pay fine that will go towards funding state programs.",
+          "feed_position": 15,
+          "image_url": "https://www.engadget.com/img/gallery/meta-additional-567-million-fine-new-mexico-child-safety-case/l-intro-1786082724.jpg"
+        }
+      ],
+      "featured_image": "https://www.engadget.com/img/gallery/meta-additional-567-million-fine-new-mexico-child-safety-case/l-intro-1786082724.jpg",
+      "popularity_score": 2011.9053430555555
+    },
+    {
+      "id": "cluster_93",
       "coverage": 2,
       "updated_at": "Thu, 06 Aug 2026 22:43:53 +0000",
       "title": "OpenAI&#8217;s new AI smart speaker will reportedly sell for between $300 and $400",
@@ -86,7 +261,7 @@
           "title": "OpenAI&#8217;s new AI smart speaker will reportedly sell for between $300 and $400",
           "standfirst": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
           "content": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
-          "feed_position": 0
+          "feed_position": 10
         },
         {
           "source": "Engadget",
@@ -95,15 +270,15 @@
           "title": "OpenAI's ring-shaped smart speaker will reportedly cost between $300 and $400",
           "standfirst": "It would be an ambitiously high price for the AI-powered hardware pivot.",
           "content": "It would be an ambitiously high price for the AI-powered hardware pivot.",
-          "feed_position": 4,
+          "feed_position": 18,
           "image_url": "https://www.engadget.com/img/gallery/openais-ring-shaped-smart-speaker-will-reportedly-cost-between-300-and-400/l-intro-1786052707.jpg"
         }
       ],
       "featured_image": "https://www.engadget.com/img/gallery/openais-ring-shaped-smart-speaker-will-reportedly-cost-between-300-and-400/l-intro-1786052707.jpg",
-      "popularity_score": 2007.0761802777777
+      "popularity_score": 2000
     },
     {
-      "id": "cluster_36",
+      "id": "cluster_94",
       "coverage": 2,
       "updated_at": "Thu, 06 Aug 2026 22:40:33 +0000",
       "title": "Google open-sources an AI model it says can help with earlier hurricane warnings",
@@ -119,7 +294,7 @@
           "title": "Google open-sources an AI model it says can help with earlier hurricane warnings",
           "standfirst": "WeatherNext can deliver a 15-day forecast predicting storms' track and intensity.",
           "content": "WeatherNext can deliver a 15-day forecast predicting storms' track and intensity.",
-          "feed_position": 2,
+          "feed_position": 16,
           "image_url": "https://www.engadget.com/img/gallery/google-open-sources-an-ai-model-it-says-can-help-with-earlier-hurricane-warnings/l-intro-1786055950.jpg"
         },
         {
@@ -129,138 +304,280 @@
           "title": "DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else",
           "standfirst": "Its WeatherNext model, which will be open-sourced, can accurately predict a storm’s track and intensity using lower-resolution weather data. Researchers don’t yet fully understand how it does this.",
           "content": "Its WeatherNext model, which will be open-sourced, can accurately predict a storm’s track and intensity using lower-resolution weather data. Researchers don’t yet fully understand how it does this.",
-          "feed_position": 25,
+          "feed_position": 30,
           "image_url": "https://media.wired.com/photos/6a748489077eac6832213fd9/master/pass/AICyclone.jpg"
         }
       ],
       "featured_image": "https://www.engadget.com/img/gallery/google-open-sources-an-ai-model-it-says-can-help-with-earlier-hurricane-warnings/l-intro-1786055950.jpg",
-      "popularity_score": 2007.0206247222222
-    },
-    {
-      "id": "cluster_47",
-      "coverage": 2,
-      "updated_at": "Thu, 06 Aug 2026 20:24:56 GMT",
-      "title": "Made by Google 2026: How to watch and what to expect from the big Pixel 11 event",
-      "neutral_headline": "Made by Google 2026: How to watch and what to expect from the big Pixel 11 event",
-      "bullet_summary": [
-        "Reported by ZDNet, Engadget"
-      ],
-      "items": [
-        {
-          "source": "ZDNet",
-          "url": "https://www.zdnet.com/article/what-to-expect-rumors-made-by-google-2026/",
-          "published_at": "Thu, 06 Aug 2026 20:24:56 GMT",
-          "title": "Made by Google 2026: How to watch and what to expect from the big Pixel 11 event",
-          "standfirst": "Google is set to announce its Pixel 11 series phones - here's what we know.",
-          "content": "Google is set to announce its Pixel 11 series phones - here's what we know.",
-          "feed_position": 4
-        },
-        {
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2231599/how-to-watch-google-pixel-11-event/",
-          "published_at": "Thu, 06 Aug 2026 14:34:57 +0000",
-          "title": "How to watch Google's Pixel 11 event",
-          "standfirst": "Expect several new phones, a refreshed Pixel Watch and perhaps price increases at Google's Pixel 11 event.",
-          "content": "Expect several new phones, a refreshed Pixel Watch and perhaps price increases at Google's Pixel 11 event.",
-          "feed_position": 17,
-          "image_url": "https://www.engadget.com/img/gallery/how-to-watch-googles-pixel-11-event/l-intro-1786026825.jpg"
-        }
-      ],
-      "featured_image": "https://www.engadget.com/img/gallery/how-to-watch-googles-pixel-11-event/l-intro-1786026825.jpg",
-      "popularity_score": 2004.7603469444443
-    },
-    {
-      "id": "cluster_73",
-      "coverage": 2,
-      "updated_at": "Thu, 06 Aug 2026 17:34:42 +0000",
-      "title": "ChatGPT brings unlimited text chats to free users",
-      "neutral_headline": "ChatGPT brings unlimited text chats to free users",
-      "bullet_summary": [
-        "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries",
-        "Reported by TechCrunch, The Verge"
-      ],
-      "items": [
-        {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-          "published_at": "Thu, 06 Aug 2026 17:34:42 +0000",
-          "title": "ChatGPT brings unlimited text chats to free users",
-          "standfirst": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
-          "content": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
-          "feed_position": 9
-        },
-        {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
-          "published_at": "2026-08-06T13:00:00-04:00",
-          "title": "OpenAI is giving ChatGPT free users unlimited text chats",
-          "standfirst": "OpenAI is making a big change for ChatGPT users on its free and Go tiers: Starting next week, users on those tiers will be able to have unlimited text chats with the chatbot, according to OpenAI. Right now, you may run into rate limits if you do too many text chats on those tiers, but [&#8230;]",
-          "content": "OpenAI is making a big change for ChatGPT users on its free and Go tiers: Starting next week, users on those tiers will be able to have unlimited text chats with the chatbot, according to OpenAI. Right now, you may run into rate limits if you do too many text chats on those tiers, but those limits, just for text, will be going away soon. Messages that include things like file uploads and images will continue to have limits. Next week, OpenAI is also adding a \"Think\" button for free and Go users that they can use to \"access higher reasoning for harder questions.\" This week, for those users, the company is additionally upgrading ChatGPT's def … Read the full story at The Verge.",
-          "feed_position": 8
-        }
-      ],
-      "popularity_score": 2001.9231247222222
-    },
-    {
-      "id": "cluster_103",
-      "coverage": 2,
-      "updated_at": "Thu, 06 Aug 2026 13:01:25 +0000",
-      "title": "Ford&#8217;s new electric truck, &#8216;Fathom,&#8217; starts at $28,350",
-      "neutral_headline": "Ford picks \"Fathom\" for its affordable truck name, starts at $28,350",
-      "bullet_summary": [
-        "Due in \"fall 2027,\" Ford said Thursday that it won't reveal what Fathom looks like until early next year",
-        "Reported by TechCrunch, Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/06/fords-new-electric-truck-fathom-starts-at-28350/",
-          "published_at": "Thu, 06 Aug 2026 13:01:25 +0000",
-          "title": "Ford&#8217;s new electric truck, &#8216;Fathom,&#8217; starts at $28,350",
-          "standfirst": "Due in \"fall 2027,\" Ford said Thursday that it won't reveal what Fathom looks like until early next year.",
-          "content": "Due in \"fall 2027,\" Ford said Thursday that it won't reveal what Fathom looks like until early next year.",
-          "feed_position": 19
-        },
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/08/ford-picks-fathom-for-its-affordable-truck-name-starts-at-28350/",
-          "published_at": "Thu, 06 Aug 2026 13:00:44 +0000",
-          "title": "Ford picks \"Fathom\" for its affordable truck name, starts at $28,350",
-          "standfirst": "Deliveries of the new electric pickup are slated for later next year.",
-          "content": "Ford's second attempt at an electric vehicle strategy is getting closer to primetime. After its initial approach of electrifying its best-selling F-150 fell a little flat, it decided to try something a little radical. An internal skunkworks was set up in California with a brief to rethink the idea of a universal EV platform from the ground up, taking into account the advances made by EV startups and clean-sheet designs both in the US but especially China. And today, we found out what that first new EV—an affordable four-door pickup truck—will be called: the Ford Fathom. We've known for some time that the first EV built on Ford's new UEV platform was going to be a pickup truck. And that it would use a new zonal architecture for its electronics, which massively reduces the amount of wiring needed by swapping the hundred or more discrete electronic control units you find in most new cars with a handful of powerful computers each controlling multiple domains.Read full article Comments",
-          "feed_position": 11,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ford-fathom-tease-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ford-fathom-tease-1152x648.jpg",
       "popularity_score": 2000
     },
     {
-      "id": "cluster_3",
+      "id": "cluster_1",
       "coverage": 1,
-      "updated_at": "Fri, 07 Aug 2026 11:00:06 +0000",
-      "title": "Remembering the pre-Google web, when search was an experiment",
-      "neutral_headline": "Remembering the pre-Google web, when search was an experiment",
+      "updated_at": "Fri, 07 Aug 2026 19:00:17 +0000",
+      "title": "The ultimate eclipse chase: A Concorde raced against the Moon&#039;s shadow",
+      "neutral_headline": "The ultimate eclipse chase: A Concorde raced against the Moon&#039;s shadow",
       "bullet_summary": [
         "Reported by Ars Technica Main"
       ],
       "items": [
         {
           "source": "Ars Technica Main",
+          "url": "https://arstechnica.com/science/2026/08/the-ultimate-eclipse-chase-a-concorde-raced-against-the-moons-shadow/",
+          "published_at": "Fri, 07 Aug 2026 19:00:17 +0000",
+          "title": "The ultimate eclipse chase: A Concorde raced against the Moon&#039;s shadow",
+          "standfirst": "Fitted with telescopes, the plane did our longest imaging of the Sun's corona.",
+          "content": "A walk down the tarmac at the National Air and Space Museum of France is guaranteed to thrill aviation enthusiasts. Several civilian and military aircraft of the past and the present are showcased in this museum, located at the Paris-Le Bourget airport. One of them is the legendary Concorde F-WTSS 001 prototype, the sight of which should give goosebumps to science enthusiasts as well. That’s because right behind its long nose is a painted map that traces the path of a June 1973 total solar eclipse across Africa. It’s there on the Concorde 001 prototype because a group of eight scientists set a new world record of observing a total solar eclipse for 74 minutes by flying this aircraft at more than twice the speed of sound. To put this figure into context, the maximum duration of totality on the ground is around 7.5 minutes when an eclipse is observed in the equatorial regions. For the upcoming solar eclipse of August 12, which can be seen from parts of Europe, the maximum duration of totality from the ground will be slightly more than two minutes.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/The-scientists-and-the-equipments-for-the-mission-Credit-F-Claudel-1152x648.jpeg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/The-scientists-and-the-equipments-for-the-mission-Credit-F-Claudel-1152x648.jpeg",
+      "popularity_score": 367.2331208333333
+    },
+    {
+      "id": "cluster_18",
+      "coverage": 1,
+      "updated_at": "Fri, 07 Aug 2026 17:51:05 +0000",
+      "title": "DOGE's wild, unverifiable savings claims discredited in US government report",
+      "neutral_headline": "DOGE's , unverifiable savings claims discredited in US government report",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/08/doges-inflated-wall-of-receipts-96-of-grant-savings-unverifiable-gao-says/",
+          "published_at": "Fri, 07 Aug 2026 17:51:05 +0000",
+          "title": "DOGE's wild, unverifiable savings claims discredited in US government report",
+          "standfirst": "DOGE's inflated \"Wall of Receipts\": 96% of grant savings unverifiable, GAO says.",
+          "content": "It won't come as a surprise that Trump's Department of Government Efficiency (DOGE) didn't save taxpayers nearly as much as it claimed. Analysis from outside the government showed savings claims were heavily inflated, and now the government's own watchdog has said it wasn't able to confirm savings claims made in DOGE's so-called \"Wall of Receipts.\" For example, DOGE reported savings of $49.2 billion from cutting grants, but almost none of it could be verified, the US Government Accountability Office (GAO) said in its report yesterday. The GAO is the auditing and investigating arm of Congress and issued the DOGE report in response to a June 2025 request from Sens. Gary Peters (D-Mich.) and Richard Blumenthal (D-Conn.). \"The Wall of Receipts did not provide sufficient information to verify the method DOGE used to calculate savings, or what the savings consisted of, for 13,553 of the 15,887 grants it reported as terminated. This corresponds to about 96 percent of the DOGE-reported grant savings,\" the GAO report said.Read full article Comments",
+          "feed_position": 1,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/musk-doge-shirt-1152x648-1743095864.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/musk-doge-shirt-1152x648-1743095864.jpg",
+      "popularity_score": 356.0797875
+    },
+    {
+      "id": "cluster_20",
+      "coverage": 1,
+      "updated_at": "Fri, 07 Aug 2026 17:36:22 +0000",
+      "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
+      "neutral_headline": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
+      "bullet_summary": [
+        "Gurman report claims OpenAI confirmed the speaker is not an Apple ripoff",
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
+          "published_at": "Fri, 07 Aug 2026 17:36:22 +0000",
+          "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
+          "standfirst": "Gurman report claims OpenAI confirmed the speaker is not an Apple ripoff.",
+          "content": "OpenAI’s upcoming smart speaker will probably cost over $300, “people familiar with the matter” have told Bloomberg’s Mark Gurman. The generative AI company has “discussed” charging up to $400, Bloomberg, which has been reporting on the yet-to-be-announced smart speaker since July, said today. The publication said that OpenAI is viewing the smart speaker as a smartphone replacement. OpenAI has declined to comment on its product roadmap.Read full article Comments",
+          "feed_position": 2,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/openai-logo-1152x648-1784833184.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/openai-logo-1152x648-1784833184.jpg",
+      "popularity_score": 345.8345097222222
+    },
+    {
+      "id": "cluster_22",
+      "coverage": 1,
+      "updated_at": "Fri, 07 Aug 2026 17:25:20 +0000",
+      "title": "How snails engineer their slime",
+      "neutral_headline": "How snails engineer their slime",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/08/how-snails-engineer-their-slime/",
+          "published_at": "Fri, 07 Aug 2026 17:25:20 +0000",
+          "title": "How snails engineer their slime",
+          "standfirst": "Collagen and calcium work in tandem to achieve varying mechanical properties of different kinds of mucus.",
+          "content": "Snails are well-known for their mucus. The slime is highly valued as an anti-inflammatory and anti-aging ingredient in certain skin care products, and snails can secrete different kinds of mucus with properties tailored to specific functions. A team of German scientists has determined a recipe for how snails achieve that so-called tunability: Collagen and calcium work in tandem to achieve the varying mechanical properties, according to a new paper in the journal Science. Snail mucus is mostly water; it's the mucins (glycoproteins) and complex carbohydrates that give it that slimy, viscous texture. In addition to cosmetics, the mucus holds great potential for drug delivery. In 2020, scientists found that combining snail slime from a common garden snail with gold nanoparticles helped accelerate wound healing and exhibited anti-inflammatory properties in mice. Most relevant to this latest paper is a 2023 study on garden snail slime that identified three distinct types of secreted mucus: a hydrating version to protect its skin, one that acts as an adhesive glue, and a third that serves as a lubricant so the snail can more easily glide across a surface. The team focused their research efforts on the grove snail/lemon snail (Cepaea nemoralis), which they deemed well-suited as subjects because the snails secrete five different kinds of mucus with distinct functions. As with the garden snails, there is one that acts as a lubricant to help with locomotion and an adhesive mucus to help the snail stick to various surfaces. Then there's a mucus layer known as the epiphragm that the snail secretes when it hibernates in winter, which contains calcite and effectively seals the shell to protect the snail from predators and harsh environmental conditions.Read full article Comments",
+          "feed_position": 3,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/snailslime-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/snailslime-1152x648.jpg",
+      "popularity_score": 332.65062083333333
+    },
+    {
+      "id": "cluster_24",
+      "coverage": 1,
+      "updated_at": "Fri, 07 Aug 2026 17:13:31 +0000",
+      "title": "Volkswagen plans to win America back with a pickup, report says",
+      "neutral_headline": "Volkswagen plans to win America back with a pickup, report says",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/cars/2026/08/volkswagen-plans-to-win-america-back-with-a-pickup-report-says/",
+          "published_at": "Fri, 07 Aug 2026 17:13:31 +0000",
+          "title": "Volkswagen plans to win America back with a pickup, report says",
+          "standfirst": "There's no evidence the truck will be a cheap EV truck, but what if it were?",
+          "content": "A US-made pickup truck by 2030 is part of Volkswagen Group's plan to revive its American business. According to a Reuters report, entering this competitive but high-margin market, as well as the large SUV segment, is the path forward, since both are areas the automaker currently ignores. The report is anonymously sourced, and VW declined to comment, so take the news with a pinch of salt. But it does make sense: Love it or hate it, the four-door pickup truck is the go-to for Americans who want one vehicle that can carry passengers and cargo that doesn't need to be shielded from the elements. You might think a hatchback or a station wagon would be just as good or better, but that's probably why you're reading Ars Technica in the first place. Tariffs and an antediluvian approach to emissions controls might make the US market a haven for vehicles that are uncompetitive or unsellable elsewhere, and the pickup truck market in the US will account for almost $200 billion in sales in 2026, with projections to continue growing each year, so one can certainly see merit in the idea. The global car might be dead, but that just means you need to develop cars for each region's taste. And Americans really like pickup trucks.Read full article Comments",
+          "feed_position": 4,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-997828604-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-997828604-1152x648.jpg",
+      "popularity_score": 310.4536763888889
+    },
+    {
+      "id": "cluster_56",
+      "coverage": 1,
+      "updated_at": "Fri, 07 Aug 2026 13:49:37 +0000",
+      "title": "AI chatbots have failed people in crisis. Can that be fixed?",
+      "neutral_headline": "AI chatbots have failed people in crisis. Can that be fixed",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
+          "published_at": "Fri, 07 Aug 2026 13:49:37 +0000",
+          "title": "AI chatbots have failed people in crisis. Can that be fixed?",
+          "standfirst": "Clinicians and researchers say AI companies need to open up their safety data.",
+          "content": "This year alone, there have been numerous known instances—often via lawsuits—of AI chatbots (most often, OpenAI’s ChatGPT) that have gone horrifically wrong. A January lawsuit described the story of a man who took his own life after being allegedly “coached” into suicide. A college student in Georgia sued OpenAI, claiming that ChatGPT “pushed him into psychosis.” In June, a Canadian family also sued OpenAI and argued that ChatGPT agreed with the young woman’s dismissiveness when it first gave her the option to seek professional mental health advice. ChatGPT allegedly “encouraged” her to end her life, too, and she did so.Read full article Comments",
+          "feed_position": 6,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/mentalhealthaichat-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/mentalhealthaichat-1152x648.jpg",
+      "popularity_score": 302.05534305555557
+    },
+    {
+      "id": "cluster_46",
+      "coverage": 1,
+      "updated_at": "Fri, 07 Aug 2026 14:41:34 +0000",
+      "title": "Report: White House drafting executive order linking vaccines and autism",
+      "neutral_headline": "Report: White House drafting executive order linking vaccines and autism",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/08/report-white-house-drafting-executive-order-linking-vaccines-and-autism/",
+          "published_at": "Fri, 07 Aug 2026 14:41:34 +0000",
+          "title": "Report: White House drafting executive order linking vaccines and autism",
+          "standfirst": "Trump determined to link life-saving shots to autism, despite science and political risk.",
+          "content": "The White House is drafting an executive order on the disproven link between vaccines and autism, according to independent reports from The Washington Post and Bloomberg, which both cited unnamed sources with knowledge of the efforts. Bloomberg reported that the executive order, which is still taking shape and is subject to change, could be issued as soon as next week. The Post said the order's drafting so far is aimed at the childhood vaccine schedule, autism research, and parental choice for vaccinations. Dozens of high-quality studies encompassing data from millions of children worldwide have already been carried out on the topic and have consistently found no link between childhood vaccines and autism. The claim of a link stems from an unethical, fraudulent study that was retracted years ago, and its author was stripped of his medical license.Read full article Comments",
+          "feed_position": 5,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2236379853-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2236379853-1152x648.jpg",
+      "popularity_score": 297.9211763888889
+    },
+    {
+      "id": "cluster_58",
+      "coverage": 1,
+      "updated_at": "Fri, 07 Aug 2026 13:29:22 +0000",
+      "title": "ByteDance trains massive AI model in bid to rival Anthropic",
+      "neutral_headline": "ByteDance trains massive AI model in bid to rival Anthropic",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
+          "published_at": "Fri, 07 Aug 2026 13:29:22 +0000",
+          "title": "ByteDance trains massive AI model in bid to rival Anthropic",
+          "standfirst": "TikTok owner training a model with 10 trillion parameters.",
+          "content": "ByteDance is training an AI model that could approach the size of Anthropic’s most cutting-edge Mythos system, as Chinese companies continue to narrow the gap with the top US labs. The Chinese tech giant is at an early stage of training a model with as many as 10 trillion parameters—three times larger than Moonshot’s Kimi K3, the biggest Chinese model released to date, according to three people with knowledge of the matter. The ByteDance model is being pre-trained—a stage that typically takes three to six months—before it is fine-tuned and released if all goes well, one of the people said. The exact model size would only be determined at a later stage.Read full article Comments",
+          "feed_position": 7,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/bytedance-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/bytedance-1152x648.jpg",
+      "popularity_score": 291.71784305555553
+    },
+    {
+      "id": "cluster_60",
+      "coverage": 1,
+      "updated_at": "Fri, 07 Aug 2026 13:20:46 +0000",
+      "title": "The world's biggest solar telescope caught vortexes on the Sun's surface",
+      "neutral_headline": "The world's biggest solar telescope caught vortexes on the Sun's surface",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/08/the-worlds-biggest-solar-telescope-caught-vortexes-on-the-suns-surface/",
+          "published_at": "Fri, 07 Aug 2026 13:20:46 +0000",
+          "title": "The world's biggest solar telescope caught vortexes on the Sun's surface",
+          "standfirst": "We expected them to be there, but they had previously been too small to see.",
+          "content": "Wherever two fluids slide past each other at different speeds, the boundary between them buckles, then curls, then rolls up into vortexes. It’s called the Kelvin-Helmholtz instability, and the physics behind it was worked out in the late 1860s. We know this instability explains why wind causes ripples on the surface of water and clouds shear into a row of curves. For decades scientists argued the same thing must be happening with plasma on the surface of the Sun, and yet nobody had been able to confirm it. Now, a team led by David Kuridze and Friedrich Wöger of the National Solar Observatory reports that Kelvin-Helmholtz instabilities are not just visible on the Sun, but they’re ubiquitous. Their new study proposes that this may change the way we think about how heat, mass, and magnetic energy move through the Sun's atmosphere. Telescope’s test drive The reason plasma whirlpools on the Sun stayed hidden for so long is rather trivial: They are very small. Their scale sits below what telescopes with mirrors smaller than 2 meters can resolve. For most of the history of solar physics, that has ruled out every telescope on Earth. This changed when the US National Science Foundation opened the Daniel K. Inouye Solar Telescope, a 4-meter instrument in Hawaii and the largest solar telescope in the world. The telescope entered its operational phase back in November 2021.Read full article Comments",
+          "feed_position": 8,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/image-1152x648.jpeg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/image-1152x648.jpeg",
+      "popularity_score": 266.5745097222222
+    },
+    {
+      "id": "cluster_64",
+      "coverage": 1,
+      "updated_at": "Fri, 07 Aug 2026 12:58:04 +0000",
+      "title": "Trump is losing his war on wind power",
+      "neutral_headline": "Trump is losing his war on wind power",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/08/trump-is-losing-his-war-on-wind-power/",
+          "published_at": "Fri, 07 Aug 2026 12:58:04 +0000",
+          "title": "Trump is losing his war on wind power",
+          "standfirst": "A court rules that a hold on all wind projects clearly violates the law.",
+          "content": "On Thursday, a US District Court in Oregon ordered the US government to restart the process of approving wind projects. All new wind development in the US has been on hold since August 2025, when the Department of Defense (DoD) stopped participating in a process that allows it to compel developers to alter projects in order to limit their interference with radar equipment. The court ruled, however, that the DoD's national security claims did not allow it to opt out of a process that is legally mandated. The Trump administration has made many attempts to block wind development, both offshore and land based. Its attempts to stop offshore wind included the same approach at issue in this case: Claim that drone developments mean that radar interference by wind turbines creates a national security risk. The courts were not sympathetic to this claim, including in cases where judges examined a classified report that the DoD was using to justify blocking offshore wind construction. As a result, the administration has turned to paying companies not to pursue wind development. In parallel, the government was pursuing a similar approach for onshore wind. Here, a law lays out a process for the DoD to evaluate any problems posed by wind turbines and negotiate changes to planned wind farms with the developers. As laid out in the new decision, the government simply stopped participating in this process in August 2025, first by refusing to sign off on previously negotiated agreements, and later by refusing to draft agreements entirely. Eventually, it simply refused to participate in negotiations at all. This has brought a halt to all wind development in the US.Read full article Comments",
+          "feed_position": 9,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2288322952-1024x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2288322952-1024x648.jpg",
+      "popularity_score": 253.1961763888889
+    },
+    {
+      "id": "cluster_79",
+      "coverage": 1,
+      "updated_at": "Fri, 07 Aug 2026 11:00:06 +0000",
+      "title": "Remembering the pre-Google web, when search was an experiment",
+      "neutral_headline": "Remembering the pre-Google web, when search was an experiment",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
           "url": "https://arstechnica.com/gadgets/2026/08/remembering-the-pre-google-web-when-search-was-an-experiment/",
           "published_at": "Fri, 07 Aug 2026 11:00:06 +0000",
           "title": "Remembering the pre-Google web, when search was an experiment",
           "standfirst": "\"Most people have completely forgotten how chaotic it really was.\"",
           "content": "In the mid-'90s, the web was exploding, but finding anything of actual value on it felt like an elaborate negotiation with whatever proto-search engine happened to be standing closest to the door. Unlike now, when Google is widely seen as both portal and gatekeeper, sites like AltaVista, Lycos, Excite, HotBot, and Ask Jeeves promised to tame the chaos, each with its own suite of quirks, charms, and flaws. The real story of pre-Google search is not that early engines were inferior. It's that they reflected a different Internet entirely, one where directories mattered, crawling was still an art, ranking was fragile, and the idea of “search” had not yet hardened into a single dominant interface. A different kind of web The first thing to remember about the pre-Google Internet is that there was no built-in assumption that you could search for everything. Many users found pages through Yahoo-style directories, bookmarks, newsgroups, email signatures, and links from site to site because the web was still small enough that human organization could compete with machine indexing. It was an era of Wild West-style discoverability. Search engines existed, but they were only one part of a larger ecosystem that blended curation and accident.Read full article Comments",
-          "feed_position": 0,
+          "feed_position": 10,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/90s-search-engines-1152x648-1785895106.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/90s-search-engines-1152x648-1785895106.jpg",
-      "popularity_score": 364.34645805555556
+      "popularity_score": 156.23006527777778
     },
     {
-      "id": "cluster_39",
+      "id": "cluster_97",
       "coverage": 1,
       "updated_at": "Thu, 06 Aug 2026 22:01:55 +0000",
       "title": "Explosive drone found hovering near Ukrainian cargo aircraft at German airport",
@@ -275,40 +592,16 @@
           "published_at": "Thu, 06 Aug 2026 22:01:55 +0000",
           "title": "Explosive drone found hovering near Ukrainian cargo aircraft at German airport",
           "standfirst": "Russian attack? Explosive drone targeted parked aircraft at Leipzig airport.",
-          "content": "German police disarmed a drone carrying explosives after it was discovered near Ukrainian cargo aircraft parked at Leipzig airport—and authorities are looking into the possibility of a second drone after an approaching aircraft collided with something midair. The drone was first spotted by an airport employee hovering close to the ground between two parked An-124 cargo aircraft owned by Ukraine’s Antonov Airlines shortly before midnight on August 4, according to The Guardian. It had apparently been modified to help avoid detection by the airport’s drone defense sensors, said Alexander Dobrindt, federal minister of the interior for Germany, during a press conference. Dobrindt described the drone as carrying a fist-sized package of a substance believed to be the plastic explosive Semtex. Only a failed detonator prevented the drone from exploding near the Ukrainian cargo aircraft, he said.Read full article Comments",
-          "feed_position": 1,
+          "content": "German police disarmed a drone carrying explosives after it was discovered near Ukrainian cargo aircraft parked at Leipzig airport—and authorities are looking into the possibility of a second drone after an approaching aircraft collided with something midair. The drone, first spotted by an airport employee, was hovering close to the ground between two parked An-124 cargo aircraft owned by Ukraine’s Antonov Airlines shortly before midnight on August 4, according to The Guardian. It had apparently been modified to help avoid detection by the airport’s drone defense sensors, said Alexander Dobrindt, federal minister of the interior for Germany, during a press conference. Dobrindt described the drone as carrying a fist-sized package of a substance believed to be the plastic explosive Semtex. Only a failed detonator prevented the drone from exploding near the Ukrainian cargo aircraft, he said.Read full article Comments",
+          "feed_position": 12,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Drone-and-Antonov-cargo-plane-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Drone-and-Antonov-cargo-plane-1152x648.jpg",
-      "popularity_score": 344.3767358333333
+      "popularity_score": 148
     },
     {
-      "id": "cluster_37",
-      "coverage": 1,
-      "updated_at": "Thu, 06 Aug 2026 22:20:50 +0000",
-      "title": "Organ donation group accused of trying to take living man's organs faces shutdown",
-      "neutral_headline": "Organ donation group accused of trying to take living man's organs faces shutdown",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/health/2026/08/us-to-shutter-organ-donation-group-accused-of-trying-to-take-living-mans-organs/",
-          "published_at": "Thu, 06 Aug 2026 22:20:50 +0000",
-          "title": "Organ donation group accused of trying to take living man's organs faces shutdown",
-          "standfirst": "The organization, Network for Hope, \"strongly disagrees\" with Trump admin's decision.",
-          "content": "The US health department is working to shut down a Kentucky-based organ procurement organization that made headlines over a 2021 incident in which it was accused of trying to harvest a man's organs while he was still alive. In an announcement Wednesday, the Department of Health and Human Services said it had begun the process to decertify the organization, Network for Hope (NFH). Losing its certification would effectively shutter the organization, which serves Kentucky as well as parts of Indiana, Ohio, and West Virginia. If decertified, another organization will be appointed to coordinate donations in the region. In a statement, NFH said it \"strongly disagrees\" with the HHS's finding and will appeal the decertification decision.Read full article Comments",
-          "feed_position": 0,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-1328467063-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-1328467063-1152x648.jpg",
-      "popularity_score": 339.6920136111111
-    },
-    {
-      "id": "cluster_49",
+      "id": "cluster_104",
       "coverage": 1,
       "updated_at": "Thu, 06 Aug 2026 20:17:36 +0000",
       "title": "Suno hopes to go legit with watermarks for AI-generated music",
@@ -324,111 +617,15 @@
           "title": "Suno hopes to go legit with watermarks for AI-generated music",
           "standfirst": "Suno plans watermarks and download limits to stop \"large-scale abuse.\"",
           "content": "The Internet is awash in AI content, and it's not always easy to tell it apart from genuine human creations. While images and videos are perhaps the most obvious type of AI slop, streaming music services like Spotify are also being inundated with AI-generated tunes. Suno is one of the most prolific sources of this AI music, but the company now says it's looking to clean up its act with watermarks and policy changes. In a blog post announcing the plans, Suno CEO and co-founder Mikey Shulman says this is a necessary change to meet \"emerging industry standards\" for the labeling of AI content. Soon, the company will add watermarks to all audio outputs from its models, giving platforms the option to mark content as AI or block it entirely. Shulman doesn't say if Suno will rely on an in-house solution or a ready-made solution like Google's SynthID. Google recently began licensing SynthID to other companies. Google says the tech has been used to label 60,000 years' worth of audio generated by its Gemini models, plus more than 100 billion images and videos.Read full article Comments",
-          "feed_position": 3,
+          "feed_position": 14,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/singing_robot_hero-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/singing_robot_hero-1152x648.jpg",
-      "popularity_score": 322.63812472222224
+      "popularity_score": 148
     },
     {
-      "id": "cluster_46",
-      "coverage": 1,
-      "updated_at": "Thu, 06 Aug 2026 20:29:51 +0000",
-      "title": "X wants to keep suing advertisers, asks 5th Circuit to overrule district judge",
-      "neutral_headline": "X wants to keep suing advertisers, asks 5th Circuit to overrule district judge",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-x-isnt-done-suing-advertisers-asks-court-to-revive-boycott-case/",
-          "published_at": "Thu, 06 Aug 2026 20:29:51 +0000",
-          "title": "X wants to keep suing advertisers, asks 5th Circuit to overrule district judge",
-          "standfirst": "Musk continues appeal despite court loss and settlement with advertiser group.",
-          "content": "Elon Musk's X is trying to revive a lawsuit against advertisers it's accusing of illegally boycotting the social media platform, despite previously reaching a settlement to end litigation against an ad-industry trade group. \"This case involves an unusually brazen group boycott,\" X said in a filing yesterday. \"That misconduct has drawn the attention of regulators and Congress. There is no valid reason that this effort by the direct victim to recover its massive economic losses from that boycott should not move forward.\" X's lawsuit was thrown out in March when US District Judge Jane Boyle in the Northern District of Texas ruled that advertisers did not commit any antitrust violation. Last week, Musk reached a settlement with the World Federation of Advertisers, the first defendant named in the lawsuit.Read full article Comments",
-          "feed_position": 2,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/Elon-Musk-X-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/Elon-Musk-X-1152x648.jpg",
-      "popularity_score": 317.8422913888889
-    },
-    {
-      "id": "cluster_51",
-      "coverage": 1,
-      "updated_at": "Thu, 06 Aug 2026 20:03:44 +0000",
-      "title": "Anthropic will design its own hardware to power Claude",
-      "neutral_headline": "Anthropic will design its own hardware to power Claude",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
-          "published_at": "Thu, 06 Aug 2026 20:03:44 +0000",
-          "title": "Anthropic will design its own hardware to power Claude",
-          "standfirst": "Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia.",
-          "content": "Anthropic is hiring a \"custom silicon team\" to design chips on which to run its models, the company has revealed. Yesterday, Business Insider noticed a job listing for a senior engineer with experience shipping semiconductor designs. (You can see listings for a silicon engineer and a technical program manager, silicon on Anthropic's job board right now.) A spokesperson for Anthropic then confirmed the plans to both Business Insider and TechCrunch.Read full article Comments",
-          "feed_position": 4,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/amodei_header_1-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/amodei_header_1-1152x648.jpg",
-      "popularity_score": 297.4070136111111
-    },
-    {
-      "id": "cluster_59",
-      "coverage": 1,
-      "updated_at": "Thu, 06 Aug 2026 19:04:57 +0000",
-      "title": "Large genome models used to design new viruses",
-      "neutral_headline": "Large genome models used to design new viruses",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
-          "published_at": "Thu, 06 Aug 2026 19:04:57 +0000",
-          "title": "Large genome models used to design new viruses",
-          "standfirst": "The AI system makes genetically distant versions of a bacteria-killing virus.",
-          "content": "A lot of the AI work in biology has been focused on designing proteins. That's partly because proteins do most of the business of life, catalyzing the interesting chemistry and structuring cells. So, figuring out how to make a new protein can mean directly tinkering with biochemistry, providing new and potentially useful functions. Since the genetic code provides a layer of abstraction between DNA and proteins, it wasn't obvious what a model trained on DNA could do. Yet people went ahead and made a large genome model, and it turned out to be able to output DNA sequences that could encode functional proteins in bacteria and mimic the gene structures found in complex cells. Now, those same models have been used to output the genomes of viruses that infect bacteria. This isn't science fiction—all the viruses the models created are closely related to an existing virus. But they do have some distinct features that would be challenging to evolve. And the researchers who did the work, based at Stanford University, suggest we may want to start thinking now about preparing for the potential that someone could develop a related AI that can design a virus that targets vertebrates.Read full article Comments",
-          "feed_position": 5,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2152061685-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2152061685-1152x648.jpg",
-      "popularity_score": 283.4272913888889
-    },
-    {
-      "id": "cluster_65",
-      "coverage": 1,
-      "updated_at": "Thu, 06 Aug 2026 18:20:32 +0000",
-      "title": "Blue Origin narrowing in on root cause of catastrophic rocket accident",
-      "neutral_headline": "Blue Origin narrowing in on root cause of catastrophic rocket accident",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/08/blue-origin-narrowing-in-on-root-cause-of-catastrophic-rocket-accident/",
-          "published_at": "Thu, 06 Aug 2026 18:20:32 +0000",
-          "title": "Blue Origin narrowing in on root cause of catastrophic rocket accident",
-          "standfirst": "\"The anomaly originated at the main oxygen valve on one of the BE-4 engines.\"",
-          "content": "Blue Origin provided its first substantive update this week on the cause of the catastrophic loss of the New Glenn rocket and most of its launch pad infrastructure at Cape Canaveral, Florida, in May. The space company's chief executive, Dave Limp, said investigative work is continuing into the anomaly that happened during a hot-fire test of the rocket during the evening of May 28, 2026. He confirmed, for the first time, widespread speculation that the problem started in one of the rocket's seven BE-4 engines that power the vehicle's first stage. \"The anomaly originated at the main oxygen valve on one of the BE-4 engines, which was later confirmed by hardware recovery and inspections,\" he said. \"Extensive component-level and engine hotfire tests have been conducted to understand the failure mode better and inform mitigations.\"Read full article Comments",
-          "feed_position": 6,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/ng4explosion-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/ng4explosion-1152x648.jpg",
-      "popularity_score": 275.6870136111111
-    },
-    {
-      "id": "cluster_80",
+      "id": "cluster_121",
       "coverage": 1,
       "updated_at": "Thu, 06 Aug 2026 16:40:58 +0000",
       "title": "Trump FCC kills TV ownership cap, claiming authority over limit set by Congress",
@@ -444,15 +641,135 @@
           "title": "Trump FCC kills TV ownership cap, claiming authority over limit set by Congress",
           "standfirst": "Change will let \"Trump-aligned billionaires\" buy more stations, advocacy group says.",
           "content": "The Federal Communications Commission voted 2–1 today to eliminate the National Television Ownership Rule, claiming authority to repeal a limit that was set by Congress over 20 years ago. The rule prohibits any single broadcast station owner from reaching more than 39 percent of all TV households in the US. Under Chairman Brendan Carr, the FCC is replacing the rule with a “case-by-case review” of each proposed merger. \"This will empower the FCC to approve deals that promote the public interest while allowing the agency to reject any deals that do not meet that standard,\" Carr's office said in a press release today. Without the 39 percent rule, broadcasters will be better able to compete against streaming companies that don't face similar limits, Carr's office said.Read full article Comments",
-          "feed_position": 8,
+          "feed_position": 19,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/trump-carr-1152x648-1734382746.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/trump-carr-1152x648-1734382746.jpg",
-      "popularity_score": 269.0275691666667
+      "popularity_score": 148
     },
     {
-      "id": "cluster_75",
+      "id": "cluster_95",
+      "coverage": 1,
+      "updated_at": "Thu, 06 Aug 2026 22:20:50 +0000",
+      "title": "Organ donation group accused of trying to take living man's organs faces shutdown",
+      "neutral_headline": "Organ donation group accused of trying to take living man's organs faces shutdown",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/08/us-to-shutter-organ-donation-group-accused-of-trying-to-take-living-mans-organs/",
+          "published_at": "Thu, 06 Aug 2026 22:20:50 +0000",
+          "title": "Organ donation group accused of trying to take living man's organs faces shutdown",
+          "standfirst": "The organization, Network for Hope, \"strongly disagrees\" with Trump admin's decision.",
+          "content": "The US health department is working to shut down a Kentucky-based organ procurement organization that made headlines over a 2021 incident in which it was accused of trying to harvest a man's organs while he was still alive. In an announcement Wednesday, the Department of Health and Human Services said it had begun the process to decertify the organization, Network for Hope (NFH). Losing its certification would effectively shutter the organization, which serves Kentucky as well as parts of Indiana, Ohio, and West Virginia. If decertified, another organization will be appointed to coordinate donations in the region. In a statement, NFH said it \"strongly disagrees\" with the HHS's finding and will appeal the decertification decision.Read full article Comments",
+          "feed_position": 11,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-1328467063-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-1328467063-1152x648.jpg",
+      "popularity_score": 133
+    },
+    {
+      "id": "cluster_101",
+      "coverage": 1,
+      "updated_at": "Thu, 06 Aug 2026 20:29:51 +0000",
+      "title": "X wants to keep suing advertisers, asks 5th Circuit to overrule district judge",
+      "neutral_headline": "X wants to keep suing advertisers, asks 5th Circuit to overrule district judge",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-x-isnt-done-suing-advertisers-asks-court-to-revive-boycott-case/",
+          "published_at": "Thu, 06 Aug 2026 20:29:51 +0000",
+          "title": "X wants to keep suing advertisers, asks 5th Circuit to overrule district judge",
+          "standfirst": "Musk continues appeal despite court loss and settlement with advertiser group.",
+          "content": "Elon Musk's X is trying to revive a lawsuit against advertisers it's accusing of illegally boycotting the social media platform, despite previously reaching a settlement to end litigation against an ad-industry trade group. \"This case involves an unusually brazen group boycott,\" X said in a filing yesterday. \"That misconduct has drawn the attention of regulators and Congress. There is no valid reason that this effort by the direct victim to recover its massive economic losses from that boycott should not move forward.\" X's lawsuit was thrown out in March when US District Judge Jane Boyle in the Northern District of Texas ruled that advertisers did not commit any antitrust violation. Last week, Musk reached a settlement with the World Federation of Advertisers, the first defendant named in the lawsuit.Read full article Comments",
+          "feed_position": 13,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/Elon-Musk-X-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/Elon-Musk-X-1152x648.jpg",
+      "popularity_score": 133
+    },
+    {
+      "id": "cluster_105",
+      "coverage": 1,
+      "updated_at": "Thu, 06 Aug 2026 20:03:44 +0000",
+      "title": "Anthropic will design its own hardware to power Claude",
+      "neutral_headline": "Anthropic will design its own hardware to power Claude",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
+          "published_at": "Thu, 06 Aug 2026 20:03:44 +0000",
+          "title": "Anthropic will design its own hardware to power Claude",
+          "standfirst": "Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia.",
+          "content": "Anthropic is hiring a \"custom silicon team\" to design chips on which to run its models, the company has revealed. Yesterday, Business Insider noticed a job listing for a senior engineer with experience shipping semiconductor designs. (You can see listings for a silicon engineer and a technical program manager, silicon on Anthropic's job board right now.) A spokesperson for Anthropic then confirmed the plans to both Business Insider and TechCrunch.Read full article Comments",
+          "feed_position": 15,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/amodei_header_1-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/amodei_header_1-1152x648.jpg",
+      "popularity_score": 133
+    },
+    {
+      "id": "cluster_113",
+      "coverage": 1,
+      "updated_at": "Thu, 06 Aug 2026 18:20:32 +0000",
+      "title": "Blue Origin narrowing in on root cause of catastrophic rocket accident",
+      "neutral_headline": "Blue Origin narrowing in on root cause of catastrophic rocket accident",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/08/blue-origin-narrowing-in-on-root-cause-of-catastrophic-rocket-accident/",
+          "published_at": "Thu, 06 Aug 2026 18:20:32 +0000",
+          "title": "Blue Origin narrowing in on root cause of catastrophic rocket accident",
+          "standfirst": "\"The anomaly originated at the main oxygen valve on one of the BE-4 engines.\"",
+          "content": "Blue Origin provided its first substantive update this week on the cause of the catastrophic loss of the New Glenn rocket and most of its launch pad infrastructure at Cape Canaveral, Florida, in May. The space company's chief executive, Dave Limp, said investigative work is continuing into the anomaly that happened during a hot-fire test of the rocket during the evening of May 28, 2026. He confirmed, for the first time, widespread speculation that the problem started in one of the rocket's seven BE-4 engines that power the vehicle's first stage. \"The anomaly originated at the main oxygen valve on one of the BE-4 engines, which was later confirmed by hardware recovery and inspections,\" he said. \"Extensive component-level and engine hotfire tests have been conducted to understand the failure mode better and inform mitigations.\"Read full article Comments",
+          "feed_position": 17,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/ng4explosion-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/ng4explosion-1152x648.jpg",
+      "popularity_score": 133
+    },
+    {
+      "id": "cluster_111",
+      "coverage": 1,
+      "updated_at": "Thu, 06 Aug 2026 19:04:57 +0000",
+      "title": "Large genome models used to design new viruses",
+      "neutral_headline": "Large genome models used to design new viruses",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
+          "published_at": "Thu, 06 Aug 2026 19:04:57 +0000",
+          "title": "Large genome models used to design new viruses",
+          "standfirst": "The AI system makes genetically distant versions of a bacteria-killing virus.",
+          "content": "A lot of the AI work in biology has been focused on designing proteins. That's partly because proteins do most of the business of life, catalyzing the interesting chemistry and structuring cells. So, figuring out how to make a new protein can mean directly tinkering with biochemistry, providing new and potentially useful functions. Since the genetic code provides a layer of abstraction between DNA and proteins, it wasn't obvious what a model trained on DNA could do. Yet people went ahead and made a large genome model, and it turned out to be able to output DNA sequences that could encode functional proteins in bacteria and mimic the gene structures found in complex cells. Now, those same models have been used to output the genomes of viruses that infect bacteria. This isn't science fiction—all the viruses the models created are closely related to an existing virus. But they do have some distinct features that would be challenging to evolve. And the researchers who did the work, based at Stanford University, suggest we may want to start thinking now about preparing for the potential that someone could develop a related AI that can design a virus that targets vertebrates.Read full article Comments",
+          "feed_position": 16,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2152061685-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2152061685-1152x648.jpg",
+      "popularity_score": 130
+    },
+    {
+      "id": "cluster_119",
       "coverage": 1,
       "updated_at": "Thu, 06 Aug 2026 17:13:45 +0000",
       "title": "Parasitic zombie-ant fungus thrives in mosses, too",
@@ -468,252 +785,12 @@
           "title": "Parasitic zombie-ant fungus thrives in mosses, too",
           "standfirst": "This may help fungi survive host scarcity and explains why infected hosts prefer the mosses as death sites.",
           "content": "The parasitic fungi in the Cordyceps genus are a favorite subject of nature documentaries. They've also infiltrated popular culture via the zombie-apocalypse video game The Last of Us (2013) and its TV adaptation, in which a parasitic fungus mutates to infect humans. Scientists are keen to study Cordyceps to learn more about the origins and intricate mechanisms underlying these pathogen-based diseases. The latest finding: DNA analysis revealed the same fungus in both parasitized insects and surrounding mosses, according to a paper published in the journal IMA Fungus. (Yes, really.) This suggests a second life stage during which the fungus lives inside the moss, possibly an evolutionary adaptation to survive when insect hosts may be scarce. It could also explain why the host species seems to prefer biting into mosses during their final death throes. As we've previously reported, there are more than 400 different species of Cordyceps fungi, each targeting a particular insect species, like ants, dragonflies, cockroaches, aphids, or beetles. The spores attach to the target insect, such as a carpenter ant, and germinate, spreading through the host’s body via long tendrils called mycelia. Cordyceps essentially turns its host into a zombie slave, compelling the ant to climb to the top of the nearest plant and clamp its tiny jaws in a death grip around a leaf or twig.Read full article Comments",
-          "feed_position": 7,
+          "feed_position": 18,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/fungi1-1152x648-1785957606.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/fungi1-1152x648-1785957606.jpg",
-      "popularity_score": 261.5739580555556
-    },
-    {
-      "id": "cluster_81",
-      "coverage": 1,
-      "updated_at": "Thu, 06 Aug 2026 16:31:06 +0000",
-      "title": "Moderna's mRNA flu shot earns FDA approval after rollercoaster review",
-      "neutral_headline": "Moderna's mRNA flu shot earns FDA approval after rollercoaster review",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/health/2026/08/modernas-mrna-flu-shot-earns-fda-approval-after-rollercoaster-review/",
-          "published_at": "Thu, 06 Aug 2026 16:31:06 +0000",
-          "title": "Moderna's mRNA flu shot earns FDA approval after rollercoaster review",
-          "standfirst": "Moderna's new flu vaccine, mFLUSIVA, is approved for all adults ages 50 and up.",
-          "content": "Despite significant drama from Trump officials this year, the Food and Drug Administration has for the first time approved a flu vaccine that uses mRNA technology. On Thursday, vaccine maker Moderna announced that its flu shot, mRNA-1010, aka mFLUSIVA, had earned approval for use in all adults ages 50 and up. The approval announcement follows a unanimous vote by FDA advisors in June to approve the vaccine. That vote was based on its superior efficacy to existing seasonal flu shots and a good safety record demonstrated in trials that included nearly 44,000 people. After that vote, the FDA set a goal of August 5 for a decision on the vaccine's fate. While the unanimous support from FDA advisors boded well for Moderna's shot, the overall path to approval was treacherous and uncertain, even until the end. For one thing, current Health Secretary Robert F. Kennedy Jr. is a well-established anti-vaccine advocate who has worked diligently in his time in office to thwart vaccinations. One of his first acts as health secretary was canceling a federal campaign to encourage people to get flu shots in the midst of a bad flu season—despite the fact that the Centers for Disease Control and Prevention had already paid for the campaign and the flu season was killing relatively high numbers of children.Read full article Comments",
-          "feed_position": 9,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2020/12/GettyImages-1290558683.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2020/12/GettyImages-1290558683.jpg",
-      "popularity_score": 254.8631247222222
-    },
-    {
-      "id": "cluster_140",
-      "coverage": 1,
-      "updated_at": "Wed, 05 Aug 2026 19:38:56 +0000",
-      "title": "SpaceX claims Starlink Mobile will be better than AT&T, T-Mobile, and Verizon",
-      "neutral_headline": "SpaceX claims Starlink Mobile will be better than AT&T, T-Mobile, and Verizon",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/08/spacex-claims-starlink-mobile-will-be-better-than-att-t-mobile-and-verizon/",
-          "published_at": "Wed, 05 Aug 2026 19:38:56 +0000",
-          "title": "SpaceX claims Starlink Mobile will be better than AT&T, T-Mobile, and Verizon",
-          "standfirst": "SpaceX won't build large cell towers but plans small base stations across US.",
-          "content": "SpaceX says it has a plan for Starlink Mobile to compete against the big three wireless carriers and take a large number of customers away from them. SpaceX has so far partnered with traditional mobile carriers to supplement their ground-based networks with Starlink satellite capacity, mainly to ensure coverage from space in dead zones not reached by cell towers. But SpaceX is buying spectrum licenses that would let it offer its own terrestrial service to compete directly against the big carriers, and the firm's top executives said in yesterday's earnings call they plan to do just that. \"The spectrum that we purchased from EchoStar does have terrestrial components, so we definitely intend to build out the terrestrial component,\" SpaceX President Gwynne Shotwell said in response to questions on the earnings call. \"So you will have not only the capacity from the satellites themselves, but you will have a buildout of the terrestrial, basically the hardware and systems necessary to make a true mobile service exactly what you want it to be.\"Read full article Comments",
-          "feed_position": 18,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/starlink-dominance-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/starlink-dominance-1152x648.jpg",
-      "popularity_score": 156
-    },
-    {
-      "id": "cluster_118",
-      "coverage": 1,
-      "updated_at": "Thu, 06 Aug 2026 11:00:44 +0000",
-      "title": "AI isn’t enough to protect social media communities from AI",
-      "neutral_headline": "AI isn’t enough to protect social media communities from AI",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/",
-          "published_at": "Thu, 06 Aug 2026 11:00:44 +0000",
-          "title": "AI isn’t enough to protect social media communities from AI",
-          "standfirst": "Why humans need to moderate humans.",
-          "content": "Sometimes you have to fight fire with fire. But when it comes to AI slop and hateful content threatening the safety and value of social media platforms, adding more fire—in this case, more AI—can make the problem worse. At its best, social media can be a haven for people who want to share their experiences and knowledge. It gets closest to this ideal when users contribute authentic, valuable content, whether that’s a uniquely thoughtful blog post or a helpful video on how to build a PC. Relying primarily on AI tools to preserve that authenticity misses what makes social media worthwhile in the first place: the people behind it. Erroneous erasures In April, a Slack channel for moderators of the r/AskHistorians Reddit community was usually busy. The channel, which automatically receives links to modmail messages, was flooded with alerts after dozens of comments and posts dating back 10 years were automatically removed from the subreddit.Read full article Comments",
-          "feed_position": 12,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2259634870-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2259634870-1152x648.jpg",
-      "popularity_score": 148
-    },
-    {
-      "id": "cluster_137",
-      "coverage": 1,
-      "updated_at": "Wed, 05 Aug 2026 20:47:11 +0000",
-      "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
-      "neutral_headline": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
-          "published_at": "Wed, 05 Aug 2026 20:47:11 +0000",
-          "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
-          "standfirst": "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests.",
-          "content": "Routine cybersecurity testing of frontier AI models sparked a series of unexpected security incidents—the most serious case arising when Anthropic’s Mythos 5 model attempted to insert malicious code into an open source software application and created fake identities to deceive the human developers maintaining the project. The security incidents occurred during a cyber evaluation of seven leading AI models’ capabilities by the AI Security Institute (AISI), a research organization within the UK government, in late July. The researchers discovered 19 instances in which “AI agents took unsanctioned action on the live Internet, including cases that targeted real people and organizations,” according to an AISI blog post published on August 4. Almost all the “autonomous, unsanctioned” actions came from Anthropic’s Mythos 5 model, with two such actions coming from OpenAI’s GPT-5.6 Sol. The AI Security Institute’s security team first realized that something was amiss on the morning of July 28, when its commercial security monitoring service flagged data leaving one of the testing systems through the Tor anonymity network.Read full article Comments",
-          "feed_position": 15,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285051730-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285051730-1152x648.jpg",
-      "popularity_score": 148
-    },
-    {
-      "id": "cluster_139",
-      "coverage": 1,
-      "updated_at": "Wed, 05 Aug 2026 19:51:40 +0000",
-      "title": "Hank Green found the AI problem that YouTube labels can’t catch",
-      "neutral_headline": "Hank Green found the AI problem that YouTube labels can’t catch",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/",
-          "published_at": "Wed, 05 Aug 2026 19:51:40 +0000",
-          "title": "Hank Green found the AI problem that YouTube labels can’t catch",
-          "standfirst": "\"Slop\" isn't the only problem.",
-          "content": "YouTube currently requires that content creators let viewers know \"when they use AI to meaningfully alter or generate photorealistic content.\" The policy draws some strange boundaries. It applies to \"AI-generated music\" (not photorealistic) but not to \"riding a unicorn through a fantastical world\" (this could be photorealistic, though it is not plausible). YouTube then summarizes the policy in a different way: \"Realistic AI content and meaningful changes require disclosure, while non-realistic or minor edits don’t.\" But AI uses that require no disclosure can include everything from \"idea generation\" up through \"production assistance, like using generative AI tools to create or improve a video outline, script, thumbnail, title, or infographic.\" Creators are free to clone their own voices for voiceovers. They can also use \"AI-generated or altered animation of a missile in a fully animated video.\"Read full article Comments",
-          "feed_position": 17,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2194534888-1152x648.jpeg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2194534888-1152x648.jpeg",
-      "popularity_score": 148
-    },
-    {
-      "id": "cluster_84",
-      "coverage": 1,
-      "updated_at": "Thu, 06 Aug 2026 16:15:30 +0000",
-      "title": "Cloudflare open-sources vibe-coding platform for people who aren't coders",
-      "neutral_headline": "Cloudflare open-sources vibe-coding platform for people who aren't coders",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/",
-          "published_at": "Thu, 06 Aug 2026 16:15:30 +0000",
-          "title": "Cloudflare open-sources vibe-coding platform for people who aren't coders",
-          "standfirst": "Cloudflare built an AI agent workspace for its employees. Now it’s open source.",
-          "content": "Cloudflare has open-sourced its Cloudflare OS platform, which it first developed as an internal workspace for employees to build apps using AI agents—including people who are not software developers or engineers. The company also touts a security framework designed to reduce the risk of employee vibe-coding sessions creating serious security flaws or leading to data breaches. The tech company spent several months building and internally testing Cloudflare OS, which allows employees to describe workflows in natural language so that an AI agent can code them into applications. In an August 5 blog post announcing the open source version’s availability on GitHub, the company claims thousands of Cloudflare employees use the platform on a daily basis to “create documents and slides, automate repeatable tasks, and build small apps to visualize data and help them do their work.” “This is a full-on personal app vibe coding platform, in which the sandbox is so secure that you can pretty much go wild—the AI cannot introduce a significant security bug,” said Kenton Varda, principal engineer at Cloudflare, in a post on the social media platform X. “We believe a company's security team can feel comfortable giving non-technical users permission to vibe code and then sleep soundly at night.”Read full article Comments",
-          "feed_position": 10,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Cloudflare-logo-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Cloudflare-logo-1152x648.jpg",
-      "popularity_score": 133.60312472222222
-    },
-    {
-      "id": "cluster_135",
-      "coverage": 1,
-      "updated_at": "Wed, 05 Aug 2026 22:35:20 +0000",
-      "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
-      "neutral_headline": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
-          "published_at": "Wed, 05 Aug 2026 22:35:20 +0000",
-          "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
-          "standfirst": "Baseboard management controllers from the world's biggest manufacturers are a security mess.",
-          "content": "Thousands of Internet-connected servers sold by the world’s biggest manufacturers can be remotely backdoored by exploiting critical vulnerabilities—some more than a decade old—that lurk deep inside system motherboards, according to research presented Wednesday. Baseboard management controllers are miniature computers that are embedded into the motherboards of virtually every enterprise server. The microcontrollers, typically abbreviated as BMCs, run with their own operating system firmware, network stack, and IP address. Administrators rely on them to monitor the physical status of large fleets of servers and to perform a variety of tasks, including rebooting machines, installing updates, and even reinstalling operating systems. BMCs provide what’s known as “lights out” and “out-of-band” management because they work even when servers they’re attached to are turned off or are unresponsive. A “pervasive, under-monitored, under-patched parallel attack surface” Researchers have warned since at least 2013 that BMCs present a golden opportunity for hackers looking for ways to gain deep and persistent access to datacenters. The chief culprit was IPMI, the protocol that allows BMCs to operate independently of servers and to perform administrative tasks. Vulnerabilities in this firmware made it possible for attackers to remotely execute malicious code on the controllers and, from there, infect the servers they manage.Read full article Comments",
-          "feed_position": 13,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_136",
-      "coverage": 1,
-      "updated_at": "Wed, 05 Aug 2026 21:03:18 +0000",
-      "title": "Schwartz confirmed as CDC director after bungling confirmation hearing",
-      "neutral_headline": "Schwartz confirmed as CDC director after bungling confirmation hearing",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/health/2026/08/schwartz-confirmed-as-cdc-director-after-bungling-confirmation-hearing/",
-          "published_at": "Wed, 05 Aug 2026 21:03:18 +0000",
-          "title": "Schwartz confirmed as CDC director after bungling confirmation hearing",
-          "standfirst": "Schwartz is well-qualified for the role, but crashed and burned in Senate hearing.",
-          "content": "In a 51–44 vote Wednesday, the US Senate confirmed Erica Schwartz as director of the Centers for Disease Control and Prevention, despite failing miserably to convince senators last month that she could stand up to anti-vaccine Health Secretary Robert F. Kennedy Jr. The confirmation ends a nearly yearlong vacancy for the position since Kennedy fired the previous CDC director, Susan Monarez, last August. Monarez was ousted after she refused to rubber-stamp vaccine recommendations from a panel of Kennedy's hand-selected advisors, who hold similar anti-vaccine views to his own. Schwartz is highly qualified for the role, coming to the CDC with a medical degree, a master’s degree in public health, and a law degree. She previously had a long stint as a Navy officer and held leadership roles including chief medical officer for the US Coast Guard and deputy surgeon general in the first Trump administration. Notably, she has been a public advocate for vaccines and outbreak preparedness.Read full article Comments",
-          "feed_position": 14,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Rear_Admiral_Erica_Schwartz-1152x648-1776453357.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Rear_Admiral_Erica_Schwartz-1152x648-1776453357.jpg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_138",
-      "coverage": 1,
-      "updated_at": "Wed, 05 Aug 2026 20:01:32 +0000",
-      "title": "Reddit signals ominous upcoming \"changes” for old.reddit.com",
-      "neutral_headline": "Reddit signals ominous upcoming \"changes” for old.reddit.com",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/",
-          "published_at": "Wed, 05 Aug 2026 20:01:32 +0000",
-          "title": "Reddit signals ominous upcoming \"changes” for old.reddit.com",
-          "standfirst": "Reddit says the beloved site is used for some \"bad behavior.\"",
-          "content": "Old.reddit.com’s days appear to be numbered. Reddit has strayed from saying that it will shutter the website, which many long-time Redditors prefer for its layout, navigation, and fewer feed recommendations. In a blog post today, Reddit made a vague statement about upcoming “changes” to Old Reddit:Read full article Comments",
-          "feed_position": 16,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2256966963-1152x648-1785958066.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2256966963-1152x648-1785958066.jpg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_141",
-      "coverage": 1,
-      "updated_at": "Wed, 05 Aug 2026 19:19:04 +0000",
-      "title": "This Atlantic hurricane season is looking like a dud, but there will be a price to pay",
-      "neutral_headline": "This Atlantic hurricane season is looking like a dud, but there...",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/08/this-atlantic-hurricane-season-is-looking-like-a-dud-but-there-will-be-a-price-to-pay/",
-          "published_at": "Wed, 05 Aug 2026 19:19:04 +0000",
-          "title": "This Atlantic hurricane season is looking like a dud, but there will be a price to pay",
-          "standfirst": "\"The models are forecasting something outside the envelope of anything we have ever observed.\"",
-          "content": "The city of Houston, where I live, has been ground zero for the 2026 Atlantic hurricane season. So far this year there have been two named storms, Arthur and Bertha, that have formed. And the centers of both have passed near or directly over Houston. Two \"strikes\" in a year might seem notable, but like the middling hurricane season to date, Arthur and Bertha were both middle-of-the road tropical storms in terms of intensity. As a resident of a coastal region prone to hurricanes, one never wants to tempt fate. And in truth, since it is only early August, the bulk of seasonal activity definitely lies ahead of us. But all indications are we can look forward to a quiet season.Read full article Comments",
-          "feed_position": 19,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/newplot-1152x648.png"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/newplot-1152x648.png",
-      "popularity_score": 133
+      "popularity_score": 130
     }
   ]
 }
