@@ -1,17 +1,327 @@
 {
   "clinical": {
-    "updated_at": "2026-08-06T12:52:00.347Z",
+    "updated_at": "2026-08-07T00:36:57.220Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-08-06T12:52:00.348Z",
+    "updated_at": "2026-08-07T00:36:57.220Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-08-06T12:52:02.717Z",
+    "updated_at": "2026-08-07T00:36:59.444Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Thu, 06 Aug 2026 22:31:18 GMT",
+        "title": "Where is Jackie? Beloved live cam eagle in critical condition",
+        "neutral_headline": "Where is Jackie? Beloved live cam eagle in critical condition",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/news/videos/c2el1dz7ge9o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 06 Aug 2026 22:31:18 GMT",
+            "title": "Where is Jackie? Beloved live cam eagle in critical condition",
+            "standfirst": "The bald eagle, who has gained worldwide fame as the protagonist of a nest live-stream in California, has been diagnosed with anemia.",
+            "content": "The bald eagle, who has gained worldwide fame as the protagonist of a nest live-stream in California, has been diagnosed with anemia.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d98e/live/29e5fd00-91e6-11f1-b2ab-0dd01740f9f6.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d98e/live/29e5fd00-91e6-11f1-b2ab-0dd01740f9f6.jpg"
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Thu, 06 Aug 2026 21:49:48 GMT",
+        "title": "Watch: Nasa astronauts conduct 6.5-hour spacewalk outside ISS",
+        "neutral_headline": "Watch: Nasa astronauts conduct 6.5-hour spacewalk outside ISS",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/news/videos/c89n8940vq8o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 06 Aug 2026 21:49:48 GMT",
+            "title": "Watch: Nasa astronauts conduct 6.5-hour spacewalk outside ISS",
+            "standfirst": "Astronauts Anil Menon and Jessica Meir ventured out to install a mounting hardware for the future addition of solar arrays to the space station.",
+            "content": "Astronauts Anil Menon and Jessica Meir ventured out to install a mounting hardware for the future addition of solar arrays to the space station.",
+            "feed_position": 1,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36a7/live/ae7b8b30-91e0-11f1-9bc8-c9e5b4077192.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36a7/live/ae7b8b30-91e0-11f1-9bc8-c9e5b4077192.jpg"
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Thu, 06 Aug 2026 21:11:52 GMT",
+        "title": "Wildfire-ravaged habitats could take centuries to recover, environmentalists say",
+        "neutral_headline": "Wildfire-ravaged habitats could take centuries to recover, environmentalists say",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/news/articles/c0qvp00x707o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 06 Aug 2026 21:11:52 GMT",
+            "title": "Wildfire-ravaged habitats could take centuries to recover, environmentalists say",
+            "standfirst": "Habitats belonging to snakes and rare moths have been destroyed after the wildfires this summer.",
+            "content": "Habitats belonging to snakes and rare moths have been destroyed after the wildfires this summer.",
+            "feed_position": 2,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e9e/live/ccafe250-90c2-11f1-b8f3-bf6a2c059a9b.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e9e/live/ccafe250-90c2-11f1-b8f3-bf6a2c059a9b.jpg"
+      },
+      {
+        "id": "cluster_3",
+        "coverage": 1,
+        "updated_at": "Thu, 06 Aug 2026 20:00:00 GMT",
+        "title": "BBC Inside Science",
+        "neutral_headline": "BBC Inside Science",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/sounds/play/w3ct977z?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 06 Aug 2026 20:00:00 GMT",
+            "title": "BBC Inside Science",
+            "standfirst": "The surprising science of how drought affects the health of our soils.",
+            "content": "The surprising science of how drought affects the health of our soils.",
+            "feed_position": 28,
+            "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
+      },
+      {
+        "id": "cluster_4",
+        "coverage": 1,
+        "updated_at": "Thu, 06 Aug 2026 18:01:52 GMT",
+        "title": "Artificial Intelligence used to design brand new viruses",
+        "neutral_headline": "Artificial Intelligence used to design brand new viruses",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 06 Aug 2026 18:01:52 GMT",
+            "title": "Artificial Intelligence used to design brand new viruses",
+            "standfirst": "Scientists made 16 successful viruses that had their genetic code designed by artificial intelligence.",
+            "content": "Scientists made 16 successful viruses that had their genetic code designed by artificial intelligence.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e150/live/81e84950-91b8-11f1-bab9-173de0e7d358.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e150/live/81e84950-91b8-11f1-bab9-173de0e7d358.jpg"
+      },
+      {
+        "id": "cluster_5",
+        "coverage": 1,
+        "updated_at": "Thu, 06 Aug 2026 18:00:04 GMT",
+        "title": "Safety fears as scientists make first viruses designed by AI",
+        "neutral_headline": "Safety fears as scientists make first viruses designed by AI",
+        "bullet_summary": [
+          "Reported by Guardian Health"
+        ],
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/science/2026/aug/06/safety-fears-as-scientists-make-first-viruses-designed-by-ai",
+            "published_at": "Thu, 06 Aug 2026 18:00:04 GMT",
+            "title": "Safety fears as scientists make first viruses designed by AI",
+            "standfirst": "Researchers say breakthrough offers hope for new medicines but also raises urgent biosecurity questionsScientists have made the first viruses designed by artificial intelligence in a milestone that raises hopes for new medicines but also concerns over how to ensure the technology remains safe.The viruses are specific kinds known as bacteriophages, which only infect bacteria and are used around the world to treat patients with persistent infections. In lab tests, a cocktail of the AI-designed viruses killed E coli bugs that were resistant to natural bacteriophages. Continue reading...",
+            "content": "Researchers say breakthrough offers hope for new medicines but also raises urgent biosecurity questionsScientists have made the first viruses designed by artificial intelligence in a milestone that raises hopes for new medicines but also concerns over how to ensure the technology remains safe.The viruses are specific kinds known as bacteriophages, which only infect bacteria and are used around the world to treat patients with persistent infections. In lab tests, a cocktail of the AI-designed viruses killed E coli bugs that were resistant to natural bacteriophages. Continue reading...",
+            "feed_position": 0
+          }
+        ]
+      },
+      {
+        "id": "cluster_6",
+        "coverage": 1,
+        "updated_at": "Thu, 06 Aug 2026 17:38:51 GMT",
+        "title": "South Korea space agency shares Moon images after SpaceX rocket debris crash",
+        "neutral_headline": "South Korea space agency shares Moon images after SpaceX rocket debris crash",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 06 Aug 2026 17:38:51 GMT",
+            "title": "South Korea space agency shares Moon images after SpaceX rocket debris crash",
+            "standfirst": "Seoul's lunar orbiter captured images of the Moon before and after part of SpaceX's rocket hit its surface on Wednesday.",
+            "content": "Seoul's lunar orbiter captured images of the Moon before and after part of SpaceX's rocket hit its surface on Wednesday.",
+            "feed_position": 3,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71f0/live/b4489d60-91b2-11f1-a7ab-8b30adf0800a.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71f0/live/b4489d60-91b2-11f1-a7ab-8b30adf0800a.jpg"
+      },
+      {
+        "id": "cluster_7",
+        "coverage": 1,
+        "updated_at": "Thu, 06 Aug 2026 17:30:06 GMT",
+        "title": "The Guardian view on mental health: the new secretary of state should make it a priority | Editorial",
+        "neutral_headline": "The Guardian view on mental health: the new secretary of state should...",
+        "bullet_summary": [
+          "Reported by Guardian Health"
+        ],
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/commentisfree/2026/aug/06/the-guardian-view-on-mental-health-the-new-secretary-of-state-should-make-it-a-priority",
+            "published_at": "Thu, 06 Aug 2026 17:30:06 GMT",
+            "title": "The Guardian view on mental health: the new secretary of state should make it a priority | Editorial",
+            "standfirst": "Parity for people with physical and psychological ailments has been promised for years. New neighbourhood clinics are a step in the right directionThe rise in children and young people with mental health problems makes this week’s announcement of a new network of community clinics in England particularly welcome. A&E departments have recorded an increase in difficult-to-manage symptoms including aggression and hallucinations. New specialist walk-in mental health services should take some of the pressure off. The bringing forward of a deadline for ending out-of-area acute placements, and a pledge to reduce waiting times for children, are also positive.Declining mental health was among the key themes of Alan Milburn’s interim report on young people and work. It is a big factor behind the rise in claims for illness and disability benefits. Children’s anxiety and other psychological difficulties are also among the many challenges facing schools. Recent years have seen steep rises in emotionally based school avoidance, as well as in autism and neurodiversity.Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...",
+            "content": "Parity for people with physical and psychological ailments has been promised for years. New neighbourhood clinics are a step in the right directionThe rise in children and young people with mental health problems makes this week’s announcement of a new network of community clinics in England particularly welcome. A&E departments have recorded an increase in difficult-to-manage symptoms including aggression and hallucinations. New specialist walk-in mental health services should take some of the pressure off. The bringing forward of a deadline for ending out-of-area acute placements, and a pledge to reduce waiting times for children, are also positive.Declining mental health was among the key themes of Alan Milburn’s interim report on young people and work. It is a big factor behind the rise in claims for illness and disability benefits. Children’s anxiety and other psychological difficulties are also among the many challenges facing schools. Recent years have seen steep rises in emotionally based school avoidance, as well as in autism and neurodiversity.Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...",
+            "feed_position": 1
+          }
+        ]
+      },
+      {
+        "id": "cluster_8",
+        "coverage": 1,
+        "updated_at": "Thu, 06 Aug 2026 15:00:03 GMT",
+        "title": "By day five of my labour, I didn’t want an ‘ideal birth’. I only wanted to survive | Natalie Morris",
+        "neutral_headline": "By day five of my labour, I didn’t want an ‘ideal birth’. I only...",
+        "bullet_summary": [
+          "Reported by Guardian Health"
+        ],
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/commentisfree/2026/aug/06/labour-ideal-birth-women-yvette-cooper-maternity-reforms",
+            "published_at": "Thu, 06 Aug 2026 15:00:03 GMT",
+            "title": "By day five of my labour, I didn’t want an ‘ideal birth’. I only wanted to survive | Natalie Morris",
+            "standfirst": "Yvette Cooper’s maternity reforms must change a system that too often fails women when they’re at their most vulnerableOn the third day of being in labour with my first child, I entered a new state of being. It was time to dig deep. This is what I had learned in all the childbirth classes. As long as I remained calm, breathed as instructed, moaned through the pain, things would happen as they were meant to. My body knew what it was doing. Only, it didn’t.On the fourth day, I started to beg. This wasn’t right. Despite contraction after relentless contraction, I wasn’t dilating. I hadn’t slept, I couldn’t even sit down. I needed help. And still, they waited. For what, I never understood.Natalie Morris is the author of Mixed/Other: Explorations of Multiraciality in Modern BritainDo you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...",
+            "content": "Yvette Cooper’s maternity reforms must change a system that too often fails women when they’re at their most vulnerableOn the third day of being in labour with my first child, I entered a new state of being. It was time to dig deep. This is what I had learned in all the childbirth classes. As long as I remained calm, breathed as instructed, moaned through the pain, things would happen as they were meant to. My body knew what it was doing. Only, it didn’t.On the fourth day, I started to beg. This wasn’t right. Despite contraction after relentless contraction, I wasn’t dilating. I hadn’t slept, I couldn’t even sit down. I needed help. And still, they waited. For what, I never understood.Natalie Morris is the author of Mixed/Other: Explorations of Multiraciality in Modern BritainDo you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...",
+            "feed_position": 2
+          }
+        ]
+      },
+      {
+        "id": "cluster_9",
+        "coverage": 1,
+        "updated_at": "Thu, 06 Aug 2026 14:59:41 GMT",
+        "title": "‘I have an ego that needs to be put in check’: ex-Gawker editor AJ Daulerio on life after addiction",
+        "neutral_headline": "‘I have an ego that needs to be put in check’: ex-Gawker editor...",
+        "bullet_summary": [
+          "Reported by Guardian Health"
+        ],
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/media/ng-interactive/2026/aug/06/aj-daulerio-gawker-sobriety-addiction",
+            "published_at": "Thu, 06 Aug 2026 14:59:41 GMT",
+            "title": "‘I have an ego that needs to be put in check’: ex-Gawker editor AJ Daulerio on life after addiction",
+            "standfirst": "After his fall from grace, media’s former enfant terrible is now sober and helping others with his addiction recovery newsletter and podcast, The Small BowEvery other Tuesday, AJ Daulerio wakes up at 5.30am and meditates for five to 20 minutes before beginning his multistep daily journaling protocol: reading a selection from a poetry anthology, then a passage from one of his daily wisdom readers (his go-to is a heavily annotated copy of Leo Tolstoy’s A Calendar of Wisdom); writing his Fear of the Day and gratitude list, then sharing his spiritual takeaway in a note to his three kids.After a banana and coffee, Daulerio trains Brazilian jujitsu before hitting a 9.45am meditation at Besant Lodge – a community center just below the Hollywood sign that once served as a meeting place for mid-century mystics – immediately followed by him leading a recovery meeting of his own through Zoom. Continue reading...",
+            "content": "After his fall from grace, media’s former enfant terrible is now sober and helping others with his addiction recovery newsletter and podcast, The Small BowEvery other Tuesday, AJ Daulerio wakes up at 5.30am and meditates for five to 20 minutes before beginning his multistep daily journaling protocol: reading a selection from a poetry anthology, then a passage from one of his daily wisdom readers (his go-to is a heavily annotated copy of Leo Tolstoy’s A Calendar of Wisdom); writing his Fear of the Day and gratitude list, then sharing his spiritual takeaway in a note to his three kids.After a banana and coffee, Daulerio trains Brazilian jujitsu before hitting a 9.45am meditation at Besant Lodge – a community center just below the Hollywood sign that once served as a meeting place for mid-century mystics – immediately followed by him leading a recovery meeting of his own through Zoom. Continue reading...",
+            "feed_position": 3
+          }
+        ]
+      },
+      {
+        "id": "cluster_10",
+        "coverage": 1,
+        "updated_at": "Thu, 06 Aug 2026 14:51:37 GMT",
+        "title": "Employees make plans for a windfall as SpaceX shares are unlocked",
+        "neutral_headline": "Employees make plans for a windfall as SpaceX shares are unlocked",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/news/videos/c1e145p5xw5o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 06 Aug 2026 14:51:37 GMT",
+            "title": "Employees make plans for a windfall as SpaceX shares are unlocked",
+            "standfirst": "SpaceX's shares are unlocked Thursday, and some early employees could see a massive windfall. The BBC's Samira Hussain explains.",
+            "content": "SpaceX's shares are unlocked Thursday, and some early employees could see a massive windfall. The BBC's Samira Hussain explains.",
+            "feed_position": 4,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2134/live/d42dd1c0-91a5-11f1-b2ab-0dd01740f9f6.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2134/live/d42dd1c0-91a5-11f1-b2ab-0dd01740f9f6.jpg"
+      },
+      {
+        "id": "cluster_11",
+        "coverage": 1,
+        "updated_at": "Thu, 06 Aug 2026 14:39:03 GMT",
+        "title": "Test rocket launch from Shetland spaceport put on hold",
+        "neutral_headline": "Test rocket launch from Shetland spaceport put on hold",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/news/articles/cj4kqkxdxkdo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 06 Aug 2026 14:39:03 GMT",
+            "title": "Test rocket launch from Shetland spaceport put on hold",
+            "standfirst": "The launch company has \"encountered an issue\" and will not use a five-week window starting on Monday.",
+            "content": "The launch company has \"encountered an issue\" and will not use a five-week window starting on Monday.",
+            "feed_position": 21,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8935/live/7b6e16b0-7a0a-11f1-92a1-2dcee5cd2863.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8935/live/7b6e16b0-7a0a-11f1-92a1-2dcee5cd2863.jpg"
+      },
+      {
+        "id": "cluster_12",
+        "coverage": 1,
+        "updated_at": "Thu, 06 Aug 2026 14:00:49 GMT",
+        "title": "Thirst by John Robins audiobook review – an ex-drinker’s darkly funny journey",
+        "neutral_headline": "Thirst by John Robins audiobook review – an ex-drinker’s darkly funny journey",
+        "bullet_summary": [
+          "Reported by Guardian Health"
+        ],
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/books/2026/aug/06/thirst-by-john-robins-audiobook-review-an-ex-drinkers-darkly-funny-journey",
+            "published_at": "Thu, 06 Aug 2026 14:00:49 GMT",
+            "title": "Thirst by John Robins audiobook review – an ex-drinker’s darkly funny journey",
+            "standfirst": "The comedian and broadcaster narrates the heartfelt and at times self-lacerating account of his relationship with alcoholA memoir chronicling the comic and broadcaster John Robins’s life in alcohol and his subsequent path to sobriety, Thirst is structured around the drinks that changed his life. There’s the bottle of Jacob’s Creek wine left out on a kitchen worktop which he helped himself to at the age of seven, secreting it into his orange juice, and the beer given to him at scout camp which he drank alone. There’s also his stomach-churning recreation, while on a comedy tour of Australia, of the white russians drunk by the Dude in The Big Lebowski using a gallon of milk, a litre of vodka and a bottle of Kahlua.As an adult, Robins, who is best known for his shows on Radio X and on BBC5 Live, romanticised pubs, which he saw as places of peacefulness and refuge. He even co-hosted the podcast The Moon Under Water where he invited guests to describe their ideal pub. Robins reveals that what kept him drinking for so long was the lie that he was in control. That he could, on occasion, get through a Dry January convinced him he couldn’t be an addict, although he got a wakeup call when a GP told him to “sort your fucking life out”. Continue reading...",
+            "content": "The comedian and broadcaster narrates the heartfelt and at times self-lacerating account of his relationship with alcoholA memoir chronicling the comic and broadcaster John Robins’s life in alcohol and his subsequent path to sobriety, Thirst is structured around the drinks that changed his life. There’s the bottle of Jacob’s Creek wine left out on a kitchen worktop which he helped himself to at the age of seven, secreting it into his orange juice, and the beer given to him at scout camp which he drank alone. There’s also his stomach-churning recreation, while on a comedy tour of Australia, of the white russians drunk by the Dude in The Big Lebowski using a gallon of milk, a litre of vodka and a bottle of Kahlua.As an adult, Robins, who is best known for his shows on Radio X and on BBC5 Live, romanticised pubs, which he saw as places of peacefulness and refuge. He even co-hosted the podcast The Moon Under Water where he invited guests to describe their ideal pub. Robins reveals that what kept him drinking for so long was the lie that he was in control. That he could, on occasion, get through a Dry January convinced him he couldn’t be an addict, although he got a wakeup call when a GP told him to “sort your fucking life out”. Continue reading...",
+            "feed_position": 4
+          }
+        ]
+      },
+      {
+        "id": "cluster_13",
+        "coverage": 1,
+        "updated_at": "Thu, 06 Aug 2026 13:56:28 GMT",
+        "title": "The mRNA technology behind Moderna’s Covid vaccine reaches the flu",
+        "neutral_headline": "The mRNA technology behind Moderna’s Covid vaccine reaches the flu",
+        "bullet_summary": [
+          "Reported by Guardian Health"
+        ],
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/us-news/2026/aug/06/flu-shot-covid-moderna-mrna-mflusiva",
+            "published_at": "Thu, 06 Aug 2026 13:56:28 GMT",
+            "title": "The mRNA technology behind Moderna’s Covid vaccine reaches the flu",
+            "standfirst": "The mFlusiva vaccine for older people is first made with mRNA platform key to ending coronavirus pandemicThe Food and Drug Administration has approved a new kind of flu vaccine for older people, the first made with the same mRNA technology that was key to ending the Covid-19 pandemic, Moderna, the manufacturer, said.The shot, named mFlusiva, is intended for adults aged 50 or older. Other brands of flu shots already have begun arriving in pharmacies ahead of fall vaccination season, and Moderna said late on Wednesday that it expected some of its new version to be available soon at select retailers. Continue reading...",
+            "content": "The mFlusiva vaccine for older people is first made with mRNA platform key to ending coronavirus pandemicThe Food and Drug Administration has approved a new kind of flu vaccine for older people, the first made with the same mRNA technology that was key to ending the Covid-19 pandemic, Moderna, the manufacturer, said.The shot, named mFlusiva, is intended for adults aged 50 or older. Other brands of flu shots already have begun arriving in pharmacies ahead of fall vaccination season, and Moderna said late on Wednesday that it expected some of its new version to be available soon at select retailers. Continue reading...",
+            "feed_position": 5
+          }
+        ]
+      },
+      {
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Thu, 06 Aug 2026 12:05:00 GMT",
         "title": "NHS must plan for heatwaves like it does for winter, health secretary says",
@@ -27,14 +337,14 @@
             "title": "NHS must plan for heatwaves like it does for winter, health secretary says",
             "standfirst": "The warning comes after the NHS sees a surge in patients and problems with equipment in high temperatures.",
             "content": "The warning comes after the NHS sees a surge in patients and problems with equipment in high temperatures.",
-            "feed_position": 0,
+            "feed_position": 1,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d3a/live/ed4858b0-9187-11f1-8e84-2d20095c7a4b.png"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d3a/live/ed4858b0-9187-11f1-8e84-2d20095c7a4b.png"
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Thu, 06 Aug 2026 11:14:27 GMT",
         "title": "Legal warning after rise in seahorse disturbances",
@@ -50,14 +360,14 @@
             "title": "Legal warning after rise in seahorse disturbances",
             "standfirst": "Conservationists say protected seahorses are being disturbed, both intentionally and unintentionally.",
             "content": "Conservationists say protected seahorses are being disturbed, both intentionally and unintentionally.",
-            "feed_position": 13,
+            "feed_position": 15,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4696/live/44fc6ac0-5826-11f0-988d-abc8933015ea.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4696/live/44fc6ac0-5826-11f0-988d-abc8933015ea.jpg"
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Thu, 06 Aug 2026 10:16:28 GMT",
         "title": "Fighting the world's most deadly animal… in an unexpected way",
@@ -80,11 +390,11 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48f0/live/1e742c00-90e0-11f1-a7ab-8b30adf0800a.jpg"
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Thu, 06 Aug 2026 10:00:06 GMT",
-        "title": "Majority of England's rivers and lakes fail new environmental review",
-        "neutral_headline": "Majority of England's rivers and lakes fail new environmental review",
+        "title": "All of England's rivers and lakes polluted with chemicals, officials say",
+        "neutral_headline": "All of England's rivers and lakes polluted with chemicals, officials say",
         "bullet_summary": [
           "Reported by BBC Science"
         ],
@@ -93,17 +403,17 @@
             "source": "BBC Science",
             "url": "https://www.bbc.co.uk/news/articles/cq6d0y5e3mjo?at_medium=RSS&at_campaign=rss",
             "published_at": "Thu, 06 Aug 2026 10:00:06 GMT",
-            "title": "Majority of England's rivers and lakes fail new environmental review",
+            "title": "All of England's rivers and lakes polluted with chemicals, officials say",
             "standfirst": "A comprehensive assessment of England's waterways is the first in six years and shows little improvement.",
             "content": "A comprehensive assessment of England's waterways is the first in six years and shows little improvement.",
-            "feed_position": 0,
+            "feed_position": 5,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3d9/live/abf40cb0-9182-11f1-b2ab-0dd01740f9f6.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3d9/live/abf40cb0-9182-11f1-b2ab-0dd01740f9f6.jpg"
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Thu, 06 Aug 2026 09:00:44 GMT",
         "title": "‘It can make you psychotic or give you a cardiac arrest’: why are so many children vaping the ‘prison drug’ spice?",
@@ -120,12 +430,12 @@
             "title": "‘It can make you psychotic or give you a cardiac arrest’: why are so many children vaping the ‘prison drug’ spice?",
             "standfirst": "Parents and teachers worry about the number of kids who vape cannabis. But many of them are using something far more dangerous – without even realising itI bumped into an old acquaintance the other day. Updating me on his children’s ages, he said, with an eyeroll of resignation: “My daughter’s 15 now; just found a cannabis vape in her room.” It’s an increasingly common and concerning situation for parents – with no way of telling if a vape does in fact contain weed (which comes with its own risks, just like vaping tobacco) or something much worse.Instead of the natural cannabinoids THC or CBD, these vapes can contain a much cheaper substitute: the “prison drug” spice. Last year scientists from the University of Bath analysed 1,923 vapes that had been confiscated from children in 114 schools in England, and found that 13% contained spice. In London and Lancashire it was 25%. And this is among vapes of all kinds, nicotine included, not just those that purported to contain cannabis. As for vapes labelled as containing THC, CBD or cannabis, when the drug-testing service Wedinos (part of Public Health Wales) examined 297 samples received in the year up to March 2025, it found that 39% contained spice. Continue reading...",
             "content": "Parents and teachers worry about the number of kids who vape cannabis. But many of them are using something far more dangerous – without even realising itI bumped into an old acquaintance the other day. Updating me on his children’s ages, he said, with an eyeroll of resignation: “My daughter’s 15 now; just found a cannabis vape in her room.” It’s an increasingly common and concerning situation for parents – with no way of telling if a vape does in fact contain weed (which comes with its own risks, just like vaping tobacco) or something much worse.Instead of the natural cannabinoids THC or CBD, these vapes can contain a much cheaper substitute: the “prison drug” spice. Last year scientists from the University of Bath analysed 1,923 vapes that had been confiscated from children in 114 schools in England, and found that 13% contained spice. In London and Lancashire it was 25%. And this is among vapes of all kinds, nicotine included, not just those that purported to contain cannabis. As for vapes labelled as containing THC, CBD or cannabis, when the drug-testing service Wedinos (part of Public Health Wales) examined 297 samples received in the year up to March 2025, it found that 39% contained spice. Continue reading...",
-            "feed_position": 0
+            "feed_position": 6
           }
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Thu, 06 Aug 2026 07:28:08 GMT",
         "title": "Walk-in mental health centres to open in banks and libraries across England",
@@ -141,350 +451,16 @@
             "title": "Walk-in mental health centres to open in banks and libraries across England",
             "standfirst": "Government plans network of nearly 200 specialist services to help those facing mental health crises.",
             "content": "Government plans network of nearly 200 specialist services to help those facing mental health crises.",
-            "feed_position": 1,
+            "feed_position": 2,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12f3/live/6670ee10-910f-11f1-b61e-4f9456542bbf.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12f3/live/6670ee10-910f-11f1-b61e-4f9456542bbf.jpg"
-      },
-      {
-        "id": "cluster_6",
-        "coverage": 1,
-        "updated_at": "Wed, 05 Aug 2026 23:49:46 GMT",
-        "title": "Sunshine to meal times: How to beat jet lag",
-        "neutral_headline": "Sunshine to meal times: How to beat jet lag",
-        "bullet_summary": [
-          "Reported by BBC Health"
-        ],
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.co.uk/news/articles/cvgj846q2veo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Wed, 05 Aug 2026 23:49:46 GMT",
-            "title": "Sunshine to meal times: How to beat jet lag",
-            "standfirst": "With bags packed and boarding passes at the ready, what can you do to keep your body clock on track?",
-            "content": "With bags packed and boarding passes at the ready, what can you do to keep your body clock on track?",
-            "feed_position": 2,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3751/live/8b9a1650-8f46-11f1-bea5-516364e5690e.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3751/live/8b9a1650-8f46-11f1-bea5-516364e5690e.jpg"
-      },
-      {
-        "id": "cluster_7",
-        "coverage": 1,
-        "updated_at": "Wed, 05 Aug 2026 23:14:22 GMT",
-        "title": "Half of vaccines are binned - 'fridge-free' versions could change that",
-        "neutral_headline": "Half of vaccines are binned - 'fridge-free' versions could change that",
-        "bullet_summary": [
-          "Reported by BBC Health"
-        ],
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.co.uk/news/articles/ce85qe8j0nzo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Wed, 05 Aug 2026 23:14:22 GMT",
-            "title": "Half of vaccines are binned - 'fridge-free' versions could change that",
-            "standfirst": "Scientists have kept vaccines stable at room temperature for a year, which could transform global vaccination.",
-            "content": "Scientists have kept vaccines stable at room temperature for a year, which could transform global vaccination.",
-            "feed_position": 3,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/449d/live/95d9d1b0-90d5-11f1-a5b9-331adf7bef90.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/449d/live/95d9d1b0-90d5-11f1-a5b9-331adf7bef90.jpg"
-      },
-      {
-        "id": "cluster_8",
-        "coverage": 1,
-        "updated_at": "Wed, 05 Aug 2026 21:56:38 GMT",
-        "title": "Marmots facing money troubles turn to OnlyFans",
-        "neutral_headline": "Marmots facing money troubles turn to OnlyFans",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/news/articles/c5ywqp5z5yzo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Wed, 05 Aug 2026 21:56:38 GMT",
-            "title": "Marmots facing money troubles turn to OnlyFans",
-            "standfirst": "A Colorado lab researching the ground-squirrels comes up with an innovative way to raise money after funding cuts.",
-            "content": "A Colorado lab researching the ground-squirrels comes up with an innovative way to raise money after funding cuts.",
-            "feed_position": 1,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0945/live/e7851cb0-9114-11f1-b8ee-9b3c26ad07bb.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0945/live/e7851cb0-9114-11f1-b8ee-9b3c26ad07bb.jpg"
-      },
-      {
-        "id": "cluster_9",
-        "coverage": 1,
-        "updated_at": "Wed, 05 Aug 2026 21:13:02 GMT",
-        "title": "Why haven't we seen images of SpaceX Moon crash yet?",
-        "neutral_headline": "Why haven't we seen images of SpaceX Moon crash yet",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/news/videos/ce3qznlqkp7o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Wed, 05 Aug 2026 21:13:02 GMT",
-            "title": "Why haven't we seen images of SpaceX Moon crash yet?",
-            "standfirst": "A rocket is believed to have crashed into the Moon, forming a new crater - but why haven't images been released yet?",
-            "content": "A rocket is believed to have crashed into the Moon, forming a new crater - but why haven't images been released yet?",
-            "feed_position": 18,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/429f/live/92e9dae0-911b-11f1-91ca-fd0f92f3ab2f.jpg"
-          },
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/news/videos/cevm8dyxgxgo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Wed, 05 Aug 2026 15:53:40 GMT",
-            "title": "Why haven't we seen images of SpaceX Moon crash yet?",
-            "standfirst": "The SpaceX rocket part has crashed into the Moon, forming a new crater, images from orbiting satellites should arrive in the coming hours and days.",
-            "content": "The SpaceX rocket part has crashed into the Moon, forming a new crater, images from orbiting satellites should arrive in the coming hours and days.",
-            "feed_position": 19,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b68a/live/ca3251a0-90e2-11f1-b2ab-0dd01740f9f6.jpg"
-          },
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/news/videos/cn8n19wz4e6o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Wed, 05 Aug 2026 15:41:15 GMT",
-            "title": "Part of SpaceX rocket believed to have struck Moon",
-            "standfirst": "A stray SpaceX rocket is believed to have crashed into the Moon, forming a crater",
-            "content": "A stray SpaceX rocket is believed to have crashed into the Moon, forming a crater",
-            "feed_position": 20,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c9d/live/3ab301c0-90e0-11f1-b2ab-0dd01740f9f6.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/429f/live/92e9dae0-911b-11f1-91ca-fd0f92f3ab2f.jpg"
-      },
-      {
-        "id": "cluster_10",
-        "coverage": 1,
-        "updated_at": "Wed, 05 Aug 2026 20:00:28 GMT",
-        "title": "NHS must prepare for annual summer heat pressures, says Yvette Cooper",
-        "neutral_headline": "NHS must prepare for annual summer heat pressures, says Yvette Cooper",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2026/aug/05/nhs-must-prepare-for-annual-summer-heat-pressures-says-yvette-cooper",
-            "published_at": "Wed, 05 Aug 2026 20:00:28 GMT",
-            "title": "NHS must prepare for annual summer heat pressures, says Yvette Cooper",
-            "standfirst": "Health secretary says global heating means UK hospitals and GPs will have to prepare for summer as well as winter peaks of demandAdapting to global heating: which UK public services are struggling in hot weather?The NHS has been warned to prepare for potential annual summer crises caused by extreme heat with the same pressures as winter, as heatwaves caused by the climate crisis become routine in the UK.The health secretary, Yvette Cooper, said NHS staff were feeling A&E pressures that would normally be expected only during flu season – and said the government would use major investment in NHS infrastructure to tackle the health service’s resilience to high summer temperatures. Continue reading...",
-            "content": "Health secretary says global heating means UK hospitals and GPs will have to prepare for summer as well as winter peaks of demandAdapting to global heating: which UK public services are struggling in hot weather?The NHS has been warned to prepare for potential annual summer crises caused by extreme heat with the same pressures as winter, as heatwaves caused by the climate crisis become routine in the UK.The health secretary, Yvette Cooper, said NHS staff were feeling A&E pressures that would normally be expected only during flu season – and said the government would use major investment in NHS infrastructure to tackle the health service’s resilience to high summer temperatures. Continue reading...",
-            "feed_position": 1
-          }
-        ]
-      },
-      {
-        "id": "cluster_11",
-        "coverage": 1,
-        "updated_at": "Wed, 05 Aug 2026 20:00:27 GMT",
-        "title": "Study finds three midlife health factors that could delay dementia for 13 years",
-        "neutral_headline": "Study finds three midlife health factors that could delay dementia for 13 years",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2026/aug/05/midlife-health-factors-delay-dementia-study",
-            "published_at": "Wed, 05 Aug 2026 20:00:27 GMT",
-            "title": "Study finds three midlife health factors that could delay dementia for 13 years",
-            "standfirst": "Research suggests addressing risk factors for poor cardiovascular health between the ages of 45 and 65 could help reduce risk of cognitive declineScientists claim to have identified three health measures in middle age that can ward off dementia for more than a decade.Having normal blood pressure, no type 2 diabetes, and not smoking between the ages of 45 and 65 were associated with almost 13 additional years, on average, of dementia-free life, a study shows. Continue reading...",
-            "content": "Research suggests addressing risk factors for poor cardiovascular health between the ages of 45 and 65 could help reduce risk of cognitive declineScientists claim to have identified three health measures in middle age that can ward off dementia for more than a decade.Having normal blood pressure, no type 2 diabetes, and not smoking between the ages of 45 and 65 were associated with almost 13 additional years, on average, of dementia-free life, a study shows. Continue reading...",
-            "feed_position": 2
-          }
-        ]
-      },
-      {
-        "id": "cluster_12",
-        "coverage": 1,
-        "updated_at": "Wed, 05 Aug 2026 15:11:18 GMT",
-        "title": "CDC reportedly expands scope of US cyclosporiasis outbreak to 15 states, including Arkansas and Missouri",
-        "neutral_headline": "CDC reportedly expands scope of US cyclosporiasis outbreak to 15...",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/us-news/2026/aug/04/cyclosporiasis-outbreak-15-states-cdc",
-            "published_at": "Wed, 05 Aug 2026 15:11:18 GMT",
-            "title": "CDC reportedly expands scope of US cyclosporiasis outbreak to 15 states, including Arkansas and Missouri",
-            "standfirst": "Six additional states caught up in investigation after Michigan reported first two US deaths linked to diseaseThe Centers for Disease Control and Prevention has reportedly expanded the scope of the largest known cyclosporiasis outbreak to more states, including Arkansas and Missouri.A spokesperson from Arkansas’s health department confirmed the outbreak expansion to their state in a statement to the Guardian: “Arkansas is one of the states the CDC is adding to the multi-state outbreak for cyclosporiasis.” Continue reading...",
-            "content": "Six additional states caught up in investigation after Michigan reported first two US deaths linked to diseaseThe Centers for Disease Control and Prevention has reportedly expanded the scope of the largest known cyclosporiasis outbreak to more states, including Arkansas and Missouri.A spokesperson from Arkansas’s health department confirmed the outbreak expansion to their state in a statement to the Guardian: “Arkansas is one of the states the CDC is adding to the multi-state outbreak for cyclosporiasis.” Continue reading...",
-            "feed_position": 3
-          }
-        ]
-      },
-      {
-        "id": "cluster_13",
-        "coverage": 1,
-        "updated_at": "Wed, 05 Aug 2026 15:01:33 GMT",
-        "title": "See the Sun like never before with most detailed images yet",
-        "neutral_headline": "See the Sun like never before with most detailed images yet",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/news/articles/c36d4376nd2o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Wed, 05 Aug 2026 15:01:33 GMT",
-            "title": "See the Sun like never before with most detailed images yet",
-            "standfirst": "New images and footage of the Sun show \"whirlpools\" of activity that it has not been possible to see before.",
-            "content": "New images and footage of the Sun show \"whirlpools\" of activity that it has not been possible to see before.",
-            "feed_position": 2,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8582/live/7244d890-90de-11f1-9bd2-e326e95c9722.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8582/live/7244d890-90de-11f1-9bd2-e326e95c9722.jpg"
-      },
-      {
-        "id": "cluster_14",
-        "coverage": 1,
-        "updated_at": "Wed, 05 Aug 2026 13:25:30 GMT",
-        "title": "Eclipse a 'once or twice in a lifetime' event",
-        "neutral_headline": "Eclipse a 'once or twice in a lifetime' event",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/news/articles/c75gvlrznzdo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Wed, 05 Aug 2026 13:25:30 GMT",
-            "title": "Eclipse a 'once or twice in a lifetime' event",
-            "standfirst": "A Guernsey astronomer says people will have to wait until 2081 for the next total eclipse.",
-            "content": "A Guernsey astronomer says people will have to wait until 2081 for the next total eclipse.",
-            "feed_position": 22,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28b6/live/e0329f40-90cf-11f1-a7ab-8b30adf0800a.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28b6/live/e0329f40-90cf-11f1-a7ab-8b30adf0800a.jpg"
-      },
-      {
-        "id": "cluster_15",
-        "coverage": 1,
-        "updated_at": "Wed, 05 Aug 2026 12:12:27 GMT",
-        "title": "Farm to become 'beacon of hope' nature reserve",
-        "neutral_headline": "Farm to become 'beacon of hope' nature reserve",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/news/articles/cpd76vep8yqo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Wed, 05 Aug 2026 12:12:27 GMT",
-            "title": "Farm to become 'beacon of hope' nature reserve",
-            "standfirst": "Avon Wildlife Trust says it will transform the 44-acre farm into a haven for birds, bats and newts.",
-            "content": "Avon Wildlife Trust says it will transform the 44-acre farm into a haven for birds, bats and newts.",
-            "feed_position": 15,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e48f/live/389143f0-201d-11f0-93d4-c157523ad7ce.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e48f/live/389143f0-201d-11f0-93d4-c157523ad7ce.jpg"
-      },
-      {
-        "id": "cluster_16",
-        "coverage": 1,
-        "updated_at": "Wed, 05 Aug 2026 12:00:18 GMT",
-        "title": "‘So destructive’: women are paying for face scans that tell them what cosmetic procedures to get",
-        "neutral_headline": "‘So destructive’: women are paying for face scans that tell them...",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/fashion/ng-interactive/2026/aug/05/facial-analysis-scans-qoves-epica-looksmaxxing",
-            "published_at": "Wed, 05 Aug 2026 12:00:18 GMT",
-            "title": "‘So destructive’: women are paying for face scans that tell them what cosmetic procedures to get",
-            "standfirst": "‘Looksmaxxing’ culture has led to the rise of facial analysis services – but experts warn they aren’t backed by science and can be harmful to usersDanielle, 37, didn’t always have issues with body image: she used to be a model and recalls receiving positive attention from men. However, when two years of unemployment plunged her into a period of financial insecurity, her confidence faded. “It was easy to wonder, if I was prettier, if some of my features were different, would that help?” she said.So, when Danielle saw videos on TikTok about a “facial analysis” service that claimed it could provide her with “science-backed” glow-up advice, she bought it without hesitation. Three-hundred and thirty dollars later, after sending in selfies to be analyzed, Danielle received her personalized 30-page report from the company Qoves. Continue reading...",
-            "content": "‘Looksmaxxing’ culture has led to the rise of facial analysis services – but experts warn they aren’t backed by science and can be harmful to usersDanielle, 37, didn’t always have issues with body image: she used to be a model and recalls receiving positive attention from men. However, when two years of unemployment plunged her into a period of financial insecurity, her confidence faded. “It was easy to wonder, if I was prettier, if some of my features were different, would that help?” she said.So, when Danielle saw videos on TikTok about a “facial analysis” service that claimed it could provide her with “science-backed” glow-up advice, she bought it without hesitation. Three-hundred and thirty dollars later, after sending in selfies to be analyzed, Danielle received her personalized 30-page report from the company Qoves. Continue reading...",
-            "feed_position": 4
-          }
-        ]
-      },
-      {
-        "id": "cluster_17",
-        "coverage": 1,
-        "updated_at": "Wed, 05 Aug 2026 11:39:16 GMT",
-        "title": "From flip flops to fisherman's sandals: How to look after your feet this summer",
-        "neutral_headline": "From flip flops to fisherman's sandals: How to look after your feet this summer",
-        "bullet_summary": [
-          "Reported by BBC Health"
-        ],
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.co.uk/news/articles/cnvney840l9o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Wed, 05 Aug 2026 11:39:16 GMT",
-            "title": "From flip flops to fisherman's sandals: How to look after your feet this summer",
-            "standfirst": "They may keep your feet cool but some styles could be doing more harm than good.",
-            "content": "They may keep your feet cool but some styles could be doing more harm than good.",
-            "feed_position": 4,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e21c/live/1836d2d0-90c1-11f1-b2ab-0dd01740f9f6.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e21c/live/1836d2d0-90c1-11f1-b2ab-0dd01740f9f6.jpg"
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Wed, 05 Aug 2026 11:19:24 GMT",
-        "title": "What can scientists learn from a stray SpaceX rocket hitting the Moon?",
-        "neutral_headline": "What can scientists learn from a stray SpaceX rocket hitting the Moon",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/news/articles/c62q0xerzrno?at_medium=RSS&at_campaign=rss",
-            "published_at": "Wed, 05 Aug 2026 11:19:24 GMT",
-            "title": "What can scientists learn from a stray SpaceX rocket hitting the Moon?",
-            "standfirst": "While the collision was an accident, it is a unique scientific gift for planetary geologists that could provide important data for future space missions.",
-            "content": "While the collision was an accident, it is a unique scientific gift for planetary geologists that could provide important data for future space missions.",
-            "feed_position": 3,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edcc/live/2b242690-911b-11f1-80bc-ffa85082409b.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edcc/live/2b242690-911b-11f1-80bc-ffa85082409b.jpg"
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Wed, 05 Aug 2026 10:12:00 GMT",
-        "title": "Inside Health",
-        "neutral_headline": "Inside Health",
-        "bullet_summary": [
-          "Reported by BBC Health"
-        ],
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.co.uk/sounds/play/m002zrmr?at_medium=RSS&at_campaign=rss",
-            "published_at": "Wed, 05 Aug 2026 10:12:00 GMT",
-            "title": "Inside Health",
-            "standfirst": "Millions of people still have long Covid, yet a cure still isn't quite within reach.",
-            "content": "Millions of people still have long Covid, yet a cure still isn't quite within reach.",
-            "feed_position": 43,
-            "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1r8h6.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1r8h6.jpg"
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-08-06T12:52:02.717Z",
+    "updated_at": "2026-08-07T00:36:59.444Z",
     "clusters": []
   }
 }
