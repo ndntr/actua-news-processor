@@ -1,8 +1,52 @@
 {
-  "updated_at": "2026-08-08T07:41:45.791Z",
+  "updated_at": "2026-08-08T11:21:03.991Z",
   "clusters": [
     {
-      "id": "cluster_23",
+      "id": "cluster_0",
+      "coverage": 3,
+      "updated_at": "Sat, 08 Aug 2026 11:05:50 +0000",
+      "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
+      "neutral_headline": "DeepMind’s hurricane breakthrough has surprised weather scientists",
+      "bullet_summary": [
+        "Reported by Ars Technica Main, Engadget, Wired Tech"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica Main",
+          "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
+          "published_at": "Sat, 08 Aug 2026 11:05:50 +0000",
+          "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
+          "standfirst": "Open source WeatherNext model can make accurate predictions with lower-resolution weather data.",
+          "content": "In October 2025, a storm brewed over the Caribbean Sea. Weather models differed on its trajectory. Would it remain weak and end up in Haiti, or would it intensify and head to Jamaica? Artificial intelligence model WeatherNext, developed by Google’s DeepMind and Google Research, went with the latter. Five days before landfall, it predicted with 80 percent confidence that the storm system would hit Jamaica as a Category 5 hurricane. Hurricane Melissa was catastrophic, causing flooding and landslides across Jamaica. But the AI model helped forecasters give an earlier warning to communities in its path, so they could better prepare. In a paper published on Thursday in Nature, researchers show that the WeatherNext AI model can predict cyclones with unprecedented accuracy. On average, it gives forecasters a day more lead time than existing models; this means its predictions three days out are as accurate as previous models’ predictions two days out. On the ground, that extra day can mean a lot.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/hurricane-1152x648.jpg"
+        },
+        {
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2232141/google-open-source-ai-model-can-help-with-earlier-hurricane-warnings/",
+          "published_at": "Thu, 06 Aug 2026 22:40:33 +0000",
+          "title": "Google open-sources an AI model it says can help with earlier hurricane warnings",
+          "standfirst": "WeatherNext can deliver a 15-day forecast predicting storms' track and intensity.",
+          "content": "WeatherNext can deliver a 15-day forecast predicting storms' track and intensity.",
+          "feed_position": 17,
+          "image_url": "https://www.engadget.com/img/gallery/google-open-sources-an-ai-model-it-says-can-help-with-earlier-hurricane-warnings/l-intro-1786055950.jpg"
+        },
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/",
+          "published_at": "Thu, 06 Aug 2026 16:23:04 +0000",
+          "title": "DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else",
+          "standfirst": "Its WeatherNext model, which will be open-sourced, can accurately predict a storm’s track and intensity using lower-resolution weather data. Researchers don’t yet fully understand how it does this.",
+          "content": "Its WeatherNext model, which will be open-sourced, can accurately predict a storm’s track and intensity using lower-resolution weather data. Researchers don’t yet fully understand how it does this.",
+          "feed_position": 39,
+          "image_url": "https://media.wired.com/photos/6a748489077eac6832213fd9/master/pass/AICyclone.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/hurricane-1152x648.jpg",
+      "popularity_score": 3019.746113611111
+    },
+    {
+      "id": "cluster_35",
       "coverage": 3,
       "updated_at": "Fri, 07 Aug 2026 19:49:27 +0000",
       "title": "Judge rules Meta caused \"public nuisance\" and must fund mental health treatment",
@@ -37,15 +81,15 @@
           "title": "Court orders Meta to pay an additional $567 million in New Mexico child safety case",
           "standfirst": "A judge has ruled that Meta is a public nuisance and has to pay fine that will go towards funding state programs.",
           "content": "A judge has ruled that Meta is a public nuisance and has to pay fine that will go towards funding state programs.",
-          "feed_position": 15,
+          "feed_position": 16,
           "image_url": "https://www.engadget.com/img/gallery/meta-additional-567-million-fine-new-mexico-child-safety-case/l-intro-1786082724.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/boy-with-phone-1152x648-1760722441.jpg",
-      "popularity_score": 3008.128113611111
+      "popularity_score": 3004.4730580555556
     },
     {
-      "id": "cluster_61",
+      "id": "cluster_73",
       "coverage": 3,
       "updated_at": "Fri, 07 Aug 2026 14:28:31 +0000",
       "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
@@ -71,7 +115,7 @@
           "title": "Chinese AI model Moonshot Kimi K3 also escaped its testing environment",
           "standfirst": "Kimi K3 also found loopholes in its sandbox environment that allowed it to access the internet.",
           "content": "Kimi K3 also found loopholes in its sandbox environment that allowed it to access the internet.",
-          "feed_position": 14,
+          "feed_position": 15,
           "image_url": "https://www.engadget.com/img/gallery/chinese-ai-model-moonshot-kimi-k3-also-escaped-its-testing-environment/l-intro-1786099329.jpg"
         },
         {
@@ -81,15 +125,49 @@
           "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
           "standfirst": "Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.",
           "content": "Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.",
-          "feed_position": 25,
+          "feed_position": 34,
           "image_url": "https://media.wired.com/photos/6a749a84077eac6832213fdf/master/pass/BadKimi.jpg"
         }
       ],
       "featured_image": "https://www.engadget.com/img/gallery/chinese-ai-model-moonshot-kimi-k3-also-escaped-its-testing-environment/l-intro-1786099329.jpg",
-      "popularity_score": 3002.7792247222224
+      "popularity_score": 3000
     },
     {
-      "id": "cluster_29",
+      "id": "cluster_3",
+      "coverage": 2,
+      "updated_at": "Sat, 08 Aug 2026 10:31:34 +0000",
+      "title": "X is replacing revenue sharing with a new original content rewards program",
+      "neutral_headline": "X is replacing revenue sharing with a new original content rewards program",
+      "bullet_summary": [
+        "Reported by Engadget, TechMeme"
+      ],
+      "items": [
+        {
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2232981/x-replacing-revenue-sharing-with-original-content-rewards-program/",
+          "published_at": "Sat, 08 Aug 2026 10:31:34 +0000",
+          "title": "X is replacing revenue sharing with a new original content rewards program",
+          "standfirst": "X is retiring its old rewards-sharing program after September 7.",
+          "content": "X is retiring its old rewards-sharing program after September 7.",
+          "feed_position": 0,
+          "image_url": "https://www.engadget.com/img/gallery/x-is-replacing-revenue-sharing-with-a-new-original-content-rewards-program/l-intro-1786184989.jpg"
+        },
+        {
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/260808/p1#a260808p1",
+          "published_at": "Sat, 08 Aug 2026 00:45:01 -0400",
+          "title": "X announces the Original Content Rewards Program and will discontinue Revenue Sharing on Sep. 7, saying existing Revenue Sharing members can apply for access (@xcreators)",
+          "standfirst": "@xcreators: X announces the Original Content Rewards Program and will discontinue Revenue Sharing on Sep. 7, saying existing Revenue Sharing members can apply for access &mdash; Today, we're introducing the Original Content Rewards Program, a new way to reward creators who bring original ideas, expertise &hellip;",
+          "content": "@xcreators: X announces the Original Content Rewards Program and will discontinue Revenue Sharing on Sep. 7, saying existing Revenue Sharing members can apply for access &mdash; Today, we're introducing the Original Content Rewards Program, a new way to reward creators who bring original ideas, expertise &hellip;",
+          "feed_position": 4,
+          "image_url": "http://www.techmeme.com/260808/i1.jpg"
+        }
+      ],
+      "featured_image": "https://www.engadget.com/img/gallery/x-is-replacing-revenue-sharing-with-a-new-original-content-rewards-program/l-intro-1786184989.jpg",
+      "popularity_score": 2019.1750025
+    },
+    {
+      "id": "cluster_40",
       "coverage": 2,
       "updated_at": "Fri, 07 Aug 2026 18:37:26 +0000",
       "title": "Framework customer information was accessed as part of a data breach",
@@ -105,7 +183,7 @@
           "title": "Framework customer information was accessed as part of a data breach",
           "standfirst": "Framework's customer database was accessed, but no payment info was released.",
           "content": "Framework's customer database was accessed, but no payment info was released.",
-          "feed_position": 0,
+          "feed_position": 1,
           "image_url": "https://www.engadget.com/img/gallery/framework-customer-information-was-accessed-as-part-of-a-data-breach/l-intro-1786127789.jpg"
         },
         {
@@ -119,10 +197,10 @@
         }
       ],
       "featured_image": "https://www.engadget.com/img/gallery/framework-customer-information-was-accessed-as-part-of-a-data-breach/l-intro-1786127789.jpg",
-      "popularity_score": 2006.9278358333333
+      "popularity_score": 2003.2727802777779
     },
     {
-      "id": "cluster_34",
+      "id": "cluster_45",
       "coverage": 2,
       "updated_at": "Fri, 07 Aug 2026 18:04:19 +0000",
       "title": "Trump administration spends another $1.2 billion to kill offshore wind farm projects",
@@ -138,7 +216,7 @@
           "title": "Trump administration spends another $1.2 billion to kill offshore wind farm projects",
           "standfirst": "This is the fifth such deal in which the president and his team has paid big to cancel a green energy contract.",
           "content": "This is the fifth such deal in which the president and his team has paid big to cancel a green energy contract.",
-          "feed_position": 5,
+          "feed_position": 6,
           "image_url": "https://www.engadget.com/img/gallery/trump-administration-spends-another-1-2-billion-to-kill-offshore-wind-farm-projects/l-intro-1786125677.jpg"
         },
         {
@@ -152,44 +230,10 @@
         }
       ],
       "featured_image": "https://www.engadget.com/img/gallery/trump-administration-spends-another-1-2-billion-to-kill-offshore-wind-farm-projects/l-intro-1786125677.jpg",
-      "popularity_score": 2006.375891388889
+      "popularity_score": 2002.7208358333332
     },
     {
-      "id": "cluster_36",
-      "coverage": 2,
-      "updated_at": "Fri, 07 Aug 2026 18:00:02 +0000",
-      "title": "New official 30th anniversary Quake mission pack adds new maps and mechanics",
-      "neutral_headline": "New official 30th anniversary Quake mission pack adds new maps and mechanics",
-      "bullet_summary": [
-        "Reported by Ars Technica, Engadget"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/",
-          "published_at": "Fri, 07 Aug 2026 18:00:02 +0000",
-          "title": "New official 30th anniversary Quake mission pack adds new maps and mechanics",
-          "standfirst": "19 new maps continue the story from MachineGames' other campaign additions.",
-          "content": "This year is the 30th anniversary of the launch of the original Quake by id Software, if you could believe it. To commemorate that, publisher Bethesda has released a new campaign chapter for the game, titled \"Dawn of the Machine.\" This is part of a series of new campaign chapters, all developed by MachineGames \"in collaboration with id Software.\" MachineGames is best known for making the games in the relatively recent Wolfenstein reboot series, as well as Indiana Jones and the Great Circle. The Quake maps are made by a team dubbed \"Quake Club,\" which includes several MachineGames employees who work on Quake maps in their spare time. The ambition and scope of some of these maps is beyond what was typical for Quake maps back in the late '90s, thanks in part to the team's use of TrenchBroom, a newer map editor that works well on modern systems and is easier to work with and more capable than what folks were using in those days.Read full article Comments",
-          "feed_position": 4,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/QUAKE_DLC_Xbox_TitledHero_1920x1080-02-JPG-9d514999ee7900fc9cfe-1600x900-1-1152x648-1786124877.jpg"
-        },
-        {
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2232022/quake-30th-anniversary-new-free-episode/",
-          "published_at": "Thu, 06 Aug 2026 20:05:13 +0000",
-          "title": "Quake celebrates its 30th anniversary with a new free episode",
-          "standfirst": "The Dawn of the Machine expansion was made by MachineGames in collaboration with id Software.",
-          "content": "The Dawn of the Machine expansion was made by MachineGames in collaboration with id Software.",
-          "feed_position": 19,
-          "image_url": "https://www.engadget.com/img/gallery/quake-celebrates-its-30th-anniversary-with-a-new-free-episode/l-intro-1786046645.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/QUAKE_DLC_Xbox_TitledHero_1920x1080-02-JPG-9d514999ee7900fc9cfe-1600x900-1-1152x648-1786124877.jpg",
-      "popularity_score": 2006.3045025
-    },
-    {
-      "id": "cluster_100",
+      "id": "cluster_113",
       "coverage": 2,
       "updated_at": "Thu, 06 Aug 2026 22:43:53 +0000",
       "title": "OpenAI&#8217;s new AI smart speaker will reportedly sell for between $300 and $400",
@@ -214,7 +258,7 @@
           "title": "OpenAI's ring-shaped smart speaker will reportedly cost between $300 and $400",
           "standfirst": "It would be an ambitiously high price for the AI-powered hardware pivot.",
           "content": "It would be an ambitiously high price for the AI-powered hardware pivot.",
-          "feed_position": 18,
+          "feed_position": 19,
           "image_url": "https://www.engadget.com/img/gallery/openais-ring-shaped-smart-speaker-will-reportedly-cost-between-300-and-400/l-intro-1786052707.jpg"
         }
       ],
@@ -222,41 +266,7 @@
       "popularity_score": 2000
     },
     {
-      "id": "cluster_101",
-      "coverage": 2,
-      "updated_at": "Thu, 06 Aug 2026 22:40:33 +0000",
-      "title": "Google open-sources an AI model it says can help with earlier hurricane warnings",
-      "neutral_headline": "Google open-sources an AI model it says can help with earlier hurricane warnings",
-      "bullet_summary": [
-        "Reported by Engadget, Wired Tech"
-      ],
-      "items": [
-        {
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2232141/google-open-source-ai-model-can-help-with-earlier-hurricane-warnings/",
-          "published_at": "Thu, 06 Aug 2026 22:40:33 +0000",
-          "title": "Google open-sources an AI model it says can help with earlier hurricane warnings",
-          "standfirst": "WeatherNext can deliver a 15-day forecast predicting storms' track and intensity.",
-          "content": "WeatherNext can deliver a 15-day forecast predicting storms' track and intensity.",
-          "feed_position": 16,
-          "image_url": "https://www.engadget.com/img/gallery/google-open-sources-an-ai-model-it-says-can-help-with-earlier-hurricane-warnings/l-intro-1786055950.jpg"
-        },
-        {
-          "source": "Wired Tech",
-          "url": "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/",
-          "published_at": "Thu, 06 Aug 2026 16:23:04 +0000",
-          "title": "DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else",
-          "standfirst": "Its WeatherNext model, which will be open-sourced, can accurately predict a storm’s track and intensity using lower-resolution weather data. Researchers don’t yet fully understand how it does this.",
-          "content": "Its WeatherNext model, which will be open-sourced, can accurately predict a storm’s track and intensity using lower-resolution weather data. Researchers don’t yet fully understand how it does this.",
-          "feed_position": 30,
-          "image_url": "https://media.wired.com/photos/6a748489077eac6832213fd9/master/pass/AICyclone.jpg"
-        }
-      ],
-      "featured_image": "https://www.engadget.com/img/gallery/google-open-sources-an-ai-model-it-says-can-help-with-earlier-hurricane-warnings/l-intro-1786055950.jpg",
-      "popularity_score": 2000
-    },
-    {
-      "id": "cluster_14",
+      "id": "cluster_26",
       "coverage": 1,
       "updated_at": "Fri, 07 Aug 2026 21:48:21 +0000",
       "title": "Europe's free satellite service just made it easier to track wildfires",
@@ -277,10 +287,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/2026-08-03-00_00_2026-08-03-23_59_Sentinel-2_L2A_Wildfires-1-1152x648.jpg",
-      "popularity_score": 343.10978027777776
+      "popularity_score": 339.45472472222224
     },
     {
-      "id": "cluster_19",
+      "id": "cluster_31",
       "coverage": 1,
       "updated_at": "Fri, 07 Aug 2026 21:09:00 +0000",
       "title": "Flesh-eating screwworms feast on humans in Mexico; human cases top 500",
@@ -302,10 +312,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2016/11/CSIRO_ScienceImage_115_The_Tip_of_a_Screw_Worm_Fly_Larvae.jpg",
-      "popularity_score": 332.45394694444445
+      "popularity_score": 328.7988913888889
     },
     {
-      "id": "cluster_25",
+      "id": "cluster_36",
       "coverage": 1,
       "updated_at": "Fri, 07 Aug 2026 19:00:17 +0000",
       "title": "The ultimate eclipse chase: A Concorde raced against the Moon's shadow",
@@ -326,10 +336,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/The-scientists-and-the-equipments-for-the-mission-Credit-F-Claudel-1152x648.jpeg",
-      "popularity_score": 325.3086691666667
+      "popularity_score": 321.6536136111111
     },
     {
-      "id": "cluster_39",
+      "id": "cluster_50",
       "coverage": 1,
       "updated_at": "Fri, 07 Aug 2026 17:51:05 +0000",
       "title": "DOGE's wild, unverifiable savings claims discredited in US government report",
@@ -350,10 +360,34 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/musk-doge-shirt-1152x648-1743095864.jpg",
-      "popularity_score": 304.1553358333333
+      "popularity_score": 300.5002802777778
     },
     {
-      "id": "cluster_42",
+      "id": "cluster_47",
+      "coverage": 1,
+      "updated_at": "Fri, 07 Aug 2026 18:00:02 +0000",
+      "title": "New official 30th anniversary Quake mission pack adds new maps and mechanics",
+      "neutral_headline": "New official 30th anniversary Quake mission pack adds new maps and mechanics",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/",
+          "published_at": "Fri, 07 Aug 2026 18:00:02 +0000",
+          "title": "New official 30th anniversary Quake mission pack adds new maps and mechanics",
+          "standfirst": "19 new maps continue the story from MachineGames' other campaign additions.",
+          "content": "This year is the 30th anniversary of the launch of the original Quake by id Software, if you could believe it. To commemorate that, publisher Bethesda has released a new campaign chapter for the game, titled \"Dawn of the Machine.\" This is part of a series of new campaign chapters, all developed by MachineGames \"in collaboration with id Software.\" MachineGames is best known for making the games in the relatively recent Wolfenstein reboot series, as well as Indiana Jones and the Great Circle. The Quake maps are made by a team dubbed \"Quake Club,\" which includes several MachineGames employees who work on Quake maps in their spare time. The ambition and scope of some of these maps is beyond what was typical for Quake maps back in the late '90s, thanks in part to the team's use of TrenchBroom, a newer map editor that works well on modern systems and is easier to work with and more capable than what folks were using in those days.Read full article Comments",
+          "feed_position": 4,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/QUAKE_DLC_Xbox_TitledHero_1920x1080-02-JPG-9d514999ee7900fc9cfe-1600x900-1-1152x648-1786124877.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/QUAKE_DLC_Xbox_TitledHero_1920x1080-02-JPG-9d514999ee7900fc9cfe-1600x900-1-1152x648-1786124877.jpg",
+      "popularity_score": 295.64944694444443
+    },
+    {
+      "id": "cluster_53",
       "coverage": 1,
       "updated_at": "Fri, 07 Aug 2026 17:36:22 +0000",
       "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
@@ -375,10 +409,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/openai-logo-1152x648-1784833184.jpg",
-      "popularity_score": 293.91005805555557
+      "popularity_score": 290.2550025
     },
     {
-      "id": "cluster_44",
+      "id": "cluster_55",
       "coverage": 1,
       "updated_at": "Fri, 07 Aug 2026 17:25:20 +0000",
       "title": "How snails engineer their slime",
@@ -399,10 +433,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/snailslime-1152x648.jpg",
-      "popularity_score": 280.7261691666667
+      "popularity_score": 277.0711136111111
     },
     {
-      "id": "cluster_45",
+      "id": "cluster_56",
       "coverage": 1,
       "updated_at": "Fri, 07 Aug 2026 17:13:31 +0000",
       "title": "Volkswagen plans to win America back with a pickup, report says",
@@ -423,10 +457,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-997828604-1152x648.jpg",
-      "popularity_score": 258.52922472222224
+      "popularity_score": 254.87416916666666
     },
     {
-      "id": "cluster_59",
+      "id": "cluster_71",
       "coverage": 1,
       "updated_at": "Fri, 07 Aug 2026 14:41:34 +0000",
       "title": "Report: White House drafting executive order linking vaccines and autism",
@@ -447,10 +481,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2236379853-1152x648.jpg",
-      "popularity_score": 245.9967247222222
+      "popularity_score": 243
     },
     {
-      "id": "cluster_67",
+      "id": "cluster_79",
       "coverage": 1,
       "updated_at": "Fri, 07 Aug 2026 13:49:37 +0000",
       "title": "AI chatbots have failed people in crisis. Can that be fixed?",
@@ -471,10 +505,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/mentalhealthaichat-1152x648.jpg",
-      "popularity_score": 150.1308913888889
+      "popularity_score": 148
     },
     {
-      "id": "cluster_69",
+      "id": "cluster_81",
       "coverage": 1,
       "updated_at": "Fri, 07 Aug 2026 13:29:22 +0000",
       "title": "ByteDance trains massive AI model in bid to rival Anthropic",
@@ -495,10 +529,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/bytedance-1152x648.jpg",
-      "popularity_score": 149.7933913888889
+      "popularity_score": 148
     },
     {
-      "id": "cluster_104",
+      "id": "cluster_116",
       "coverage": 1,
       "updated_at": "Thu, 06 Aug 2026 22:01:55 +0000",
       "title": "Explosive drone found hovering near Ukrainian cargo aircraft at German airport",
@@ -522,7 +556,7 @@
       "popularity_score": 148
     },
     {
-      "id": "cluster_111",
+      "id": "cluster_123",
       "coverage": 1,
       "updated_at": "Thu, 06 Aug 2026 20:17:36 +0000",
       "title": "Suno hopes to go legit with watermarks for AI-generated music",
@@ -546,7 +580,7 @@
       "popularity_score": 148
     },
     {
-      "id": "cluster_86",
+      "id": "cluster_98",
       "coverage": 1,
       "updated_at": "Fri, 07 Aug 2026 11:00:06 +0000",
       "title": "Remembering the pre-Google web, when search was an experiment",
@@ -570,7 +604,7 @@
       "popularity_score": 145
     },
     {
-      "id": "cluster_70",
+      "id": "cluster_82",
       "coverage": 1,
       "updated_at": "Fri, 07 Aug 2026 13:20:46 +0000",
       "title": "The world's biggest solar telescope caught vortexes on the Sun's surface",
@@ -591,10 +625,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/image-1152x648.jpeg",
-      "popularity_score": 134.65005805555555
+      "popularity_score": 133
     },
     {
-      "id": "cluster_102",
+      "id": "cluster_114",
       "coverage": 1,
       "updated_at": "Thu, 06 Aug 2026 22:20:50 +0000",
       "title": "Organ donation group accused of trying to take living man's organs faces shutdown",
@@ -618,7 +652,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_108",
+      "id": "cluster_120",
       "coverage": 1,
       "updated_at": "Thu, 06 Aug 2026 20:29:51 +0000",
       "title": "X wants to keep suing advertisers, asks 5th Circuit to overrule district judge",
@@ -642,7 +676,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_112",
+      "id": "cluster_124",
       "coverage": 1,
       "updated_at": "Thu, 06 Aug 2026 20:03:44 +0000",
       "title": "Anthropic will design its own hardware to power Claude",
@@ -666,7 +700,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_74",
+      "id": "cluster_86",
       "coverage": 1,
       "updated_at": "Fri, 07 Aug 2026 12:58:04 +0000",
       "title": "Trump is losing his war on wind power",
@@ -687,7 +721,7 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2288322952-1024x648.jpg",
-      "popularity_score": 131.27172472222222
+      "popularity_score": 130
     }
   ]
 }
