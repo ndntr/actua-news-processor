@@ -1,34 +1,68 @@
 {
-  "updated_at": "2026-08-08T19:23:04.524Z",
+  "updated_at": "2026-08-08T23:20:33.908Z",
   "clusters": [
+    {
+      "id": "cluster_1",
+      "coverage": 2,
+      "updated_at": "Sun, 09 Aug 2026 09:09:10 +1000",
+      "title": "Joe Biden’s cancer has spread, is very painful, son says",
+      "neutral_headline": "Joe Biden’s cancer has spread, is very painful, son says",
+      "bullet_summary": [
+        "The former US president revealed in May last year that he had been diagnosed with an “aggressive form” of prostate cancer",
+        "Reported by The Age, ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "The Age",
+          "url": "https://www.theage.com.au/world/north-america/joe-biden-s-cancer-has-spread-is-very-painful-son-says-20260809-p60mo3.html",
+          "published_at": "Sun, 09 Aug 2026 09:09:10 +1000",
+          "title": "Joe Biden’s cancer has spread, is very painful, son says",
+          "standfirst": "The former US president revealed in May last year that he had been diagnosed with an “aggressive form” of prostate cancer.",
+          "content": "The former US president revealed in May last year that he had been diagnosed with an “aggressive form” of prostate cancer.",
+          "feed_position": 0,
+          "image_url": "https://static.ffx.io/images/$zoom_0.2045%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/df0f4db8dd26c3b9f2f335fde2b158f59eb97fc0"
+        },
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2026-08-09/hunter-biden-says-his-father-s-prostate-cancer-is-causing-him-pa/107013844",
+          "published_at": "Sat, 08 Aug 2026 20:37:09 +0000",
+          "title": "'Very debilitating': Hunter Biden opens up about his father's cancer",
+          "standfirst": "Former US president Joe Biden's prostate cancer has spread to other parts of his body and is causing him pain, even as he continues to speak out on public issues, according to his son Hunter.",
+          "content": "Former US president Joe Biden's prostate cancer has spread to other parts of his body and is causing him pain, even as he continues to speak out on public issues, according to his son Hunter.",
+          "feed_position": 10
+        }
+      ],
+      "featured_image": "https://static.ffx.io/images/$zoom_0.2045%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/df0f4db8dd26c3b9f2f335fde2b158f59eb97fc0",
+      "popularity_score": 2019.8100255555555
+    },
     {
       "id": "cluster_0",
       "coverage": 1,
-      "updated_at": "Sat, 08 Aug 2026 19:18:50 +0000",
-      "title": "Sandwich generation navigating work, elderly parents and kids at home",
-      "neutral_headline": "Sandwich generation navigating work, elderly parents and kids at home",
+      "updated_at": "Sat, 08 Aug 2026 23:10:27 +0000",
+      "title": "'Always by my side': Argentina mourns death of Jorge Messi",
+      "neutral_headline": "'Always by my side': Argentina mourns death of Jorge Messi",
       "bullet_summary": [
         "Reported by ABC Just In"
       ],
       "items": [
         {
           "source": "ABC Just In",
-          "url": "https://www.abc.net.au/news/2026-08-09/sandwich-generation-work-elderly-parents-kids-still-at-home/107005466",
-          "published_at": "Sat, 08 Aug 2026 19:18:50 +0000",
-          "title": "Sandwich generation navigating work, elderly parents and kids at home",
-          "standfirst": "Broadcaster and author Sarah Macdonald is part of a growing army of silent unpaid workers, coping with the consequences of a housing crisis and a broken aged care system.",
-          "content": "Broadcaster and author Sarah Macdonald is part of a growing army of silent unpaid workers, coping with the consequences of a housing crisis and a broken aged care system.",
+          "url": "https://www.abc.net.au/news/2026-08-09/jorge-messi-dies-aged-68-after-short-illness/107013946",
+          "published_at": "Sat, 08 Aug 2026 23:10:27 +0000",
+          "title": "'Always by my side': Argentina mourns death of Jorge Messi",
+          "standfirst": "Jorge Messi, the father of Argentinian football superstar Lionel, is mourned after dying aged 68 following a short illness.",
+          "content": "Jorge Messi, the father of Argentinian football superstar Lionel, is mourned after dying aged 68 following a short illness.",
           "feed_position": 0
         }
       ],
-      "popularity_score": 352.92929888888887
+      "popularity_score": 352.8314144444444
     },
     {
-      "id": "cluster_25",
+      "id": "cluster_59",
       "coverage": 1,
       "updated_at": "Sat, 08 Aug 2026 18:42:24 +0000",
-      "title": "'People are still dying': Lasting scars of Australia's tainted blood scandal",
-      "neutral_headline": "'People are still dying': Lasting scars of Australia's tainted blood scandal",
+      "title": "Survivors uncover new evidence in Australia’s contaminated blood scandal",
+      "neutral_headline": "Survivors uncover new evidence in Australia’s contaminated blood scandal",
       "bullet_summary": [
         "The 1980s contaminated blood crisis devastated the lives of thousands of Australians who were infected with hepatitis C or HIV",
         "Reported by ABC News Australia"
@@ -38,20 +72,42 @@
           "source": "ABC News Australia",
           "url": "https://www.abc.net.au/news/2026-08-09/victims-of-australia-s-1980s-tainted-blood-donation-scandal/106898666",
           "published_at": "Sat, 08 Aug 2026 18:42:24 +0000",
-          "title": "'People are still dying': Lasting scars of Australia's tainted blood scandal",
+          "title": "Survivors uncover new evidence in Australia’s contaminated blood scandal",
           "standfirst": "The 1980s contaminated blood crisis devastated the lives of thousands of Australians who were infected with hepatitis C or HIV. Now, survivor Tristan Stanley, who contracted hep C as a child, has uncovered government documents that raise troubling questions about the scandal.",
           "content": "The 1980s contaminated blood crisis devastated the lives of thousands of Australians who were infected with hepatitis C or HIV. Now, survivor Tristan Stanley, who contracted hep C as a child, has uncovered government documents that raise troubling questions about the scandal.",
           "feed_position": 0
         }
       ],
-      "popularity_score": 352.32207666666665
+      "popularity_score": 348.36391444444445
     },
     {
-      "id": "cluster_24",
+      "id": "cluster_3",
+      "coverage": 1,
+      "updated_at": "Sat, 08 Aug 2026 23:03:08 +0000",
+      "title": "Historic farm's sale to carbon credit company raises community ire",
+      "neutral_headline": "Historic farm's sale to carbon credit company raises community ire",
+      "bullet_summary": [
+        "Reported by ABC Just In"
+      ],
+      "items": [
+        {
+          "source": "ABC Just In",
+          "url": "https://www.abc.net.au/news/2026-08-09/historic-cobungra-farm-sale-concerns-carbon-credit-scheme/106745848",
+          "published_at": "Sat, 08 Aug 2026 23:03:08 +0000",
+          "title": "Historic farm's sale to carbon credit company raises community ire",
+          "standfirst": "This 30,000-hectare property is the largest cattle farm in Victoria. But it's facing a very different future that will involve more native planting than before.",
+          "content": "This 30,000-hectare property is the largest cattle farm in Victoria. But it's facing a very different future that will involve more native planting than before.",
+          "feed_position": 1
+        }
+      ],
+      "popularity_score": 342.70947
+    },
+    {
+      "id": "cluster_58",
       "coverage": 1,
       "updated_at": "Sat, 08 Aug 2026 18:45:00 +0000",
-      "title": "How a day at the footy built the political career of Britain's new PM",
-      "neutral_headline": "How a day at the footy built the political career of Britain's new PM",
+      "title": "Britain's new PM is redefining populist anger",
+      "neutral_headline": "Britain's new PM is redefining populist anger",
       "bullet_summary": [
         "Reported by ABC News Australia"
       ],
@@ -60,16 +116,38 @@
           "source": "ABC News Australia",
           "url": "https://www.abc.net.au/news/2026-08-09/burnham-farage-grievance-politics-hanson-uk-prime-minister/107004586",
           "published_at": "Sat, 08 Aug 2026 18:45:00 +0000",
-          "title": "How a day at the footy built the political career of Britain's new PM",
+          "title": "Britain's new PM is redefining populist anger",
           "standfirst": "Britain's new left-leaning PM Andy Burnham has seized the same public discontent driving Nigel Farage on the populist right but with a very different agenda. As One Nation climbs in the polls, Australia should be paying attention.",
           "content": "Britain's new left-leaning PM Andy Burnham has seized the same public discontent driving Nigel Farage on the populist right but with a very different agenda. As One Nation climbs in the polls, Australia should be paying attention.",
           "feed_position": 1
         }
       ],
-      "popularity_score": 342.36541
+      "popularity_score": 335.4072477777778
     },
     {
-      "id": "cluster_26",
+      "id": "cluster_6",
+      "coverage": 1,
+      "updated_at": "Sat, 08 Aug 2026 22:37:23 +0000",
+      "title": "Trams are running but the Gold Coast's light rail fight is not over",
+      "neutral_headline": "Trams are running but the Gold Coast's light rail fight is not over",
+      "bullet_summary": [
+        "Reported by ABC Just In"
+      ],
+      "items": [
+        {
+          "source": "ABC Just In",
+          "url": "https://www.abc.net.au/news/2026-08-09/gold-coast-light-rail-stage-3-opens-qld-public-transport/107007798",
+          "published_at": "Sat, 08 Aug 2026 22:37:23 +0000",
+          "title": "Trams are running but the Gold Coast's light rail fight is not over",
+          "standfirst": "After four years of disruption and a $1.55 billion price tag, the Gold Coast light rail stage 3 has opened. But debate continues over the city's transport future.",
+          "content": "After four years of disruption and a $1.55 billion price tag, the Gold Coast light rail stage 3 has opened. But debate continues over the city's transport future.",
+          "feed_position": 2
+        }
+      ],
+      "popularity_score": 332.28030333333334
+    },
+    {
+      "id": "cluster_60",
       "coverage": 1,
       "updated_at": "Sat, 08 Aug 2026 18:42:24 +0000",
       "title": "After a big defeat, US pro-Israel lobby sets sights on midterms",
@@ -88,36 +166,124 @@
           "feed_position": 2
         }
       ],
-      "popularity_score": 332.32207666666665
+      "popularity_score": 328.36391444444445
     },
     {
-      "id": "cluster_27",
+      "id": "cluster_7",
       "coverage": 1,
-      "updated_at": "Sat, 08 Aug 2026 18:42:24 +0000",
-      "title": "The 19 questions asked in Australia's first complete census",
-      "neutral_headline": "The 19 questions asked in Australia's first complete census",
+      "updated_at": "Sat, 08 Aug 2026 22:33:36 +0000",
+      "title": "NFL star uses Hall of Fame speech to announce he has dementia",
+      "neutral_headline": "NFL star uses Hall of Fame speech to announce he has dementia",
+      "bullet_summary": [
+        "Reported by ABC Just In"
+      ],
+      "items": [
+        {
+          "source": "ABC Just In",
+          "url": "https://www.abc.net.au/news/2026-08-09/nfl-hall-of-fame-roger-craig-announces-dementia/107013916",
+          "published_at": "Sat, 08 Aug 2026 22:33:36 +0000",
+          "title": "NFL star uses Hall of Fame speech to announce he has dementia",
+          "standfirst": "Former NFL running back Roger Craig announces he has dementia, saying doctors believe concussions played a part in the diagnosis.",
+          "content": "Former NFL running back Roger Craig announces he has dementia, saying doctors believe concussions played a part in the diagnosis.",
+          "feed_position": 3
+        }
+      ],
+      "popularity_score": 322.2172477777778
+    },
+    {
+      "id": "cluster_22",
+      "coverage": 1,
+      "updated_at": "Sat, 08 Aug 2026 21:03:53 +0000",
+      "title": "Iron deficiency from too much cow's milk a 'hidden health crisis' for toddlers",
+      "neutral_headline": "Iron deficiency from too much cow's milk a 'hidden health crisis' for toddlers",
       "bullet_summary": [
         "Reported by ABC News Australia"
       ],
       "items": [
         {
           "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2026-08-09/australian-census-world-history/106974682",
-          "published_at": "Sat, 08 Aug 2026 18:42:24 +0000",
-          "title": "The 19 questions asked in Australia's first complete census",
-          "standfirst": "When you sit down to fill in the census, you will be taking part in an ancient human tradition.",
-          "content": "When you sit down to fill in the census, you will be taking part in an ancient human tradition.",
+          "url": "https://www.abc.net.au/news/2026-08-09/cows-milk-iron-deficiency-toddler-health-nutrition/106953518",
+          "published_at": "Sat, 08 Aug 2026 21:03:53 +0000",
+          "title": "Iron deficiency from too much cow's milk a 'hidden health crisis' for toddlers",
+          "standfirst": "Paediatricians across Australia are concerned about a jump in iron deficiency in young children due to excess cow's milk, and the need to better educate parents about the issue.",
+          "content": "Paediatricians across Australia are concerned about a jump in iron deficiency in young children due to excess cow's milk, and the need to better educate parents about the issue.",
           "feed_position": 3
         }
       ],
-      "popularity_score": 322.32207666666665
+      "popularity_score": 320.72197
     },
     {
-      "id": "cluster_2",
+      "id": "cluster_8",
+      "coverage": 1,
+      "updated_at": "Sat, 08 Aug 2026 22:19:22 +0000",
+      "title": "Exhausted Vollering reclaims yellow jersey with one stage remaining",
+      "neutral_headline": "Exhausted Vollering reclaims yellow jersey with one stage remaining",
+      "bullet_summary": [
+        "Reported by ABC Just In"
+      ],
+      "items": [
+        {
+          "source": "ABC Just In",
+          "url": "https://www.abc.net.au/news/2026-08-09/tour-de-france-femmes-demi-vollering-reclaims-yellow/107013888",
+          "published_at": "Sat, 08 Aug 2026 22:19:22 +0000",
+          "title": "Exhausted Vollering reclaims yellow jersey with one stage remaining",
+          "standfirst": "Demi Vollering takes the yellow jersey in the Tour de France Femmes as an exciting final stage looms.",
+          "content": "Demi Vollering takes the yellow jersey in the Tour de France Femmes as an exciting final stage looms.",
+          "feed_position": 4
+        }
+      ],
+      "popularity_score": 311.9800255555556
+    },
+    {
+      "id": "cluster_17",
+      "coverage": 1,
+      "updated_at": "Sat, 08 Aug 2026 21:15:07 +0000",
+      "title": "The phone taps, the $100k offer and the 'filthy schools' money'",
+      "neutral_headline": "The phone taps, the $100k offer and the 'filthy schools' money'",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2026-08-09/what-weve-learnt-after-two-weeks-icac-operation-rosny/107010690",
+          "published_at": "Sat, 08 Aug 2026 21:15:07 +0000",
+          "title": "The phone taps, the $100k offer and the 'filthy schools' money'",
+          "standfirst": "Here are some of the most notable moments from the first fortnight of NSW Independent Commission Against Corruption hearings under Operation Rosny.",
+          "content": "Here are some of the most notable moments from the first fortnight of NSW Independent Commission Against Corruption hearings under Operation Rosny.",
+          "feed_position": 4
+        }
+      ],
+      "popularity_score": 310.9091922222222
+    },
+    {
+      "id": "cluster_10",
+      "coverage": 1,
+      "updated_at": "Sat, 08 Aug 2026 22:02:57 +0000",
+      "title": "Side dish vegetable takes the spotlight as vegetable of the year",
+      "neutral_headline": "Side dish vegetable takes the spotlight as vegetable of the year",
+      "bullet_summary": [
+        "Reported by ABC Just In"
+      ],
+      "items": [
+        {
+          "source": "ABC Just In",
+          "url": "https://www.abc.net.au/news/2026-08-09/sugarloaf-cabbage-named-vegetable-of-the-year/106990250",
+          "published_at": "Sat, 08 Aug 2026 22:02:57 +0000",
+          "title": "Side dish vegetable takes the spotlight as vegetable of the year",
+          "standfirst": "Chefs say a variety called sugarloaf cabbage is changing people's minds on how the vegetable can be the star of the dish rather than simply a side.",
+          "content": "Chefs say a variety called sugarloaf cabbage is changing people's minds on how the vegetable can be the star of the dish rather than simply a side.",
+          "feed_position": 5
+        }
+      ],
+      "popularity_score": 301.7064144444444
+    },
+    {
+      "id": "cluster_49",
       "coverage": 1,
       "updated_at": "Sat, 08 Aug 2026 19:07:27 +0000",
-      "title": "Everything you need to know about Australia's bird flu surge",
-      "neutral_headline": "Everything you need to know about Australia's bird flu surge",
+      "title": "Bird flu is spreading across Australia — this is what you need to know",
+      "neutral_headline": "Bird flu is spreading across Australia — this is what you need to know",
       "bullet_summary": [
         "There are more than a hundred confirmed cases of the deadly H5N1 bird flu strain across Australia",
         "Reported by ABC News Australia"
@@ -127,20 +293,42 @@
           "source": "ABC News Australia",
           "url": "https://www.abc.net.au/news/2026-08-09/everything-you-need-to-know-about-australias-bird-flu-surge/106998006",
           "published_at": "Sat, 08 Aug 2026 19:07:27 +0000",
-          "title": "Everything you need to know about Australia's bird flu surge",
+          "title": "Bird flu is spreading across Australia — this is what you need to know",
           "standfirst": "There are more than a hundred confirmed cases of the deadly H5N1 bird flu strain across Australia. Here's how it spreads and what to know.",
           "content": "There are more than a hundred confirmed cases of the deadly H5N1 bird flu strain across Australia. Here's how it spreads and what to know.",
-          "feed_position": 4
+          "feed_position": 5
         }
       ],
-      "popularity_score": 312.73957666666666
+      "popularity_score": 298.78141444444447
     },
     {
-      "id": "cluster_4",
+      "id": "cluster_11",
+      "coverage": 1,
+      "updated_at": "Sat, 08 Aug 2026 21:49:03 +0000",
+      "title": "Murderer's appeal reignites grief for daughter dealing with mum's loss",
+      "neutral_headline": "Murderer's appeal reignites grief for daughter dealing with mum's loss",
+      "bullet_summary": [
+        "Reported by ABC Just In"
+      ],
+      "items": [
+        {
+          "source": "ABC Just In",
+          "url": "https://www.abc.net.au/news/2026-08-09/rachel-wake-killer-appeal-reignites-pain-after-christmas-murder/106999990",
+          "published_at": "Sat, 08 Aug 2026 21:49:03 +0000",
+          "title": "Murderer's appeal reignites grief for daughter dealing with mum's loss",
+          "standfirst": "It has been almost five years since Romany Wake's father murdered her mother, Rachel, on Christmas Day — and the 24-year-old is yet to be free from the legal ordeal.",
+          "content": "It has been almost five years since Romany Wake's father murdered her mother, Rachel, on Christmas Day — and the 24-year-old is yet to be free from the legal ordeal.",
+          "feed_position": 6
+        }
+      ],
+      "popularity_score": 291.4747477777778
+    },
+    {
+      "id": "cluster_51",
       "coverage": 1,
       "updated_at": "Sat, 08 Aug 2026 19:02:25 +0000",
-      "title": "Maps show Ukraine's extensive reach into Russian territory",
-      "neutral_headline": "Maps show Ukraine's extensive reach into Russian territory",
+      "title": "How Ukraine is striking Russia where it hurts most",
+      "neutral_headline": "How Ukraine is striking Russia where it hurts most",
       "bullet_summary": [
         "Reported by ABC News Australia"
       ],
@@ -149,38 +337,324 @@
           "source": "ABC News Australia",
           "url": "https://www.abc.net.au/news/2026-08-09/maps-show-ukraine-extensive-reach-into-russian-territory/107008704",
           "published_at": "Sat, 08 Aug 2026 19:02:25 +0000",
-          "title": "Maps show Ukraine's extensive reach into Russian territory",
-          "standfirst": "Ukraine's 40-day campaign to take the war to the heart of Russia has increased the strain on Russian businesses, people and air defences, analysts say.",
-          "content": "Ukraine's 40-day campaign to take the war to the heart of Russia has increased the strain on Russian businesses, people and air defences, analysts say.",
-          "feed_position": 5
+          "title": "How Ukraine is striking Russia where it hurts most",
+          "standfirst": "Ukraine's 40-day campaign to take the war to the heart of Russia increases the strain on Russian businesses, people and air defences, analysts say.",
+          "content": "Ukraine's 40-day campaign to take the war to the heart of Russia increases the strain on Russian businesses, people and air defences, analysts say.",
+          "feed_position": 6
         }
       ],
-      "popularity_score": 302.65568777777776
+      "popularity_score": 285.69752555555556
     },
     {
-      "id": "cluster_33",
+      "id": "cluster_13",
       "coverage": 1,
-      "updated_at": "Sat, 08 Aug 2026 09:14:12 +0000",
-      "title": "Todd Blanche confirmed as US attorney general after divisive hearing",
-      "neutral_headline": "Todd Blanche confirmed as US attorney general after divisive hearing",
+      "updated_at": "Sat, 08 Aug 2026 21:42:40 +0000",
+      "title": "Calls to provide historical cannon with antique firearm exemption",
+      "neutral_headline": "Calls to provide historical cannon with antique firearm exemption",
+      "bullet_summary": [
+        "Reported by ABC Just In"
+      ],
+      "items": [
+        {
+          "source": "ABC Just In",
+          "url": "https://www.abc.net.au/news/2026-08-09/maryborough-historical-time-cannon-weapon-classification-qld/106975856",
+          "published_at": "Sat, 08 Aug 2026 21:42:40 +0000",
+          "title": "Calls to provide historical cannon with antique firearm exemption",
+          "standfirst": "The firing of a cannon has served as a symbol of unity and historical pride for the regional city of Maryborough for nearly 150 years. But a categorisation issue could put the beloved tradition at risk.",
+          "content": "The firing of a cannon has served as a symbol of unity and historical pride for the regional city of Maryborough for nearly 150 years. But a categorisation issue could put the beloved tradition at risk.",
+          "feed_position": 7
+        }
+      ],
+      "popularity_score": 281.3683588888889
+    },
+    {
+      "id": "cluster_61",
+      "coverage": 1,
+      "updated_at": "Sat, 08 Aug 2026 18:42:24 +0000",
+      "title": "Here are the questions asked in Australia's first complete census",
+      "neutral_headline": "Here are the questions asked in Australia's first complete census",
       "bullet_summary": [
         "Reported by ABC News Australia"
       ],
       "items": [
         {
           "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2026-08-08/todd-blanche-confirmed-as-us-attorney-general/107013178",
-          "published_at": "Sat, 08 Aug 2026 09:14:12 +0000",
-          "title": "Todd Blanche confirmed as US attorney general after divisive hearing",
-          "standfirst": "The vote follows a tumultuous confirmation fight that exposed concerns — from some Republicans as well as Democrats — about putting Donald Trump's former defence lawyer in charge of a Justice Department that historically prides itself on its independence from the White House.",
-          "content": "The vote follows a tumultuous confirmation fight that exposed concerns — from some Republicans as well as Democrats — about putting Donald Trump's former defence lawyer in charge of a Justice Department that historically prides itself on its independence from the White House.",
-          "feed_position": 6
+          "url": "https://www.abc.net.au/news/2026-08-09/australian-census-world-history/106974682",
+          "published_at": "Sat, 08 Aug 2026 18:42:24 +0000",
+          "title": "Here are the questions asked in Australia's first complete census",
+          "standfirst": "When you sit down to fill in the census, you will be taking part in an ancient human tradition.",
+          "content": "When you sit down to fill in the census, you will be taking part in an ancient human tradition.",
+          "feed_position": 7
         }
       ],
-      "popularity_score": 282.8520766666667
+      "popularity_score": 278.36391444444445
     },
     {
-      "id": "cluster_1",
+      "id": "cluster_47",
+      "coverage": 1,
+      "updated_at": "Sat, 08 Aug 2026 19:18:50 +0000",
+      "title": "Sandwich generation navigating work, elderly parents and kids at home",
+      "neutral_headline": "Sandwich generation navigating work, elderly parents and kids at home",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2026-08-09/sandwich-generation-work-elderly-parents-kids-still-at-home/107005466",
+          "published_at": "Sat, 08 Aug 2026 19:18:50 +0000",
+          "title": "Sandwich generation navigating work, elderly parents and kids at home",
+          "standfirst": "Broadcaster and author Sarah Macdonald is part of a growing army of silent unpaid workers, coping with the consequences of a housing crisis and a broken aged care system.",
+          "content": "Broadcaster and author Sarah Macdonald is part of a growing army of silent unpaid workers, coping with the consequences of a housing crisis and a broken aged care system.",
+          "feed_position": 8
+        }
+      ],
+      "popularity_score": 268.97113666666667
+    },
+    {
+      "id": "cluster_33",
+      "coverage": 1,
+      "updated_at": "Sat, 08 Aug 2026 19:38:13 +0000",
+      "title": "Iran says Hormuz deal 'close' but reopening depends on other conditions",
+      "neutral_headline": "Iran says Hormuz deal 'close' but reopening depends on other conditions",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2026-08-09/iran-and-oman-close-to-new-route-strait-of-hormuz/107013264",
+          "published_at": "Sat, 08 Aug 2026 19:38:13 +0000",
+          "title": "Iran says Hormuz deal 'close' but reopening depends on other conditions",
+          "standfirst": "Iran and Oman are \"very close\" to reaching an accord on a new shipping route through the Strait of Hormuz, Iran's foreign minister says. This is your three-minute briefing on the key developments overnight in the Middle East.",
+          "content": "Iran and Oman are \"very close\" to reaching an accord on a new shipping route through the Strait of Hormuz, Iran's foreign minister says. This is your three-minute briefing on the key developments overnight in the Middle East.",
+          "feed_position": 9
+        }
+      ],
+      "popularity_score": 259.29419222222225
+    },
+    {
+      "id": "cluster_32",
+      "coverage": 1,
+      "updated_at": "Sat, 08 Aug 2026 19:52:35 +0000",
+      "title": "Six times our politicians reminded us not to take politics too seriously",
+      "neutral_headline": "Six times our politicians reminded us not to take politics too seriously",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2026-08-09/insiders-25-years-anniversary-politicians/107011570",
+          "published_at": "Sat, 08 Aug 2026 19:52:35 +0000",
+          "title": "Six times our politicians reminded us not to take politics too seriously",
+          "standfirst": "Over the past 25 years of Insiders covering Australian politics, the art of it has sometimes been more finger painting than masterpiece.",
+          "content": "Over the past 25 years of Insiders covering Australian politics, the art of it has sometimes been more finger painting than masterpiece.",
+          "feed_position": 11
+        }
+      ],
+      "popularity_score": 161.53363666666667
+    },
+    {
+      "id": "cluster_18",
+      "coverage": 1,
+      "updated_at": "Sat, 08 Aug 2026 21:14:02 +0000",
+      "title": "Melbourne Royal Show could cancel poultry exhibition amid bird flu fears",
+      "neutral_headline": "Melbourne Royal Show could cancel poultry exhibition amid bird flu fears",
+      "bullet_summary": [
+        "Reported by ABC Just In"
+      ],
+      "items": [
+        {
+          "source": "ABC Just In",
+          "url": "https://www.abc.net.au/news/2026-08-09/melbourne-royal-show-poultry-cancellation-fears-bird-flu/106901840",
+          "published_at": "Sat, 08 Aug 2026 21:14:02 +0000",
+          "title": "Melbourne Royal Show could cancel poultry exhibition amid bird flu fears",
+          "standfirst": "The Melbourne Royal Show committee is expected to meet as early as Monday to discuss whether poultry exhibitions will take place at this year's show.",
+          "content": "The Melbourne Royal Show committee is expected to meet as early as Monday to discuss whether poultry exhibitions will take place at this year's show.",
+          "feed_position": 10
+        }
+      ],
+      "popularity_score": 156.89113666666668
+    },
+    {
+      "id": "cluster_24",
+      "coverage": 1,
+      "updated_at": "Sat, 08 Aug 2026 20:17:03 +0000",
+      "title": "'I felt I wasn't worthy': Para athletes on barriers in elite sport",
+      "neutral_headline": "'I felt I wasn't worthy': Para athletes on barriers in elite sport",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2026-08-09/discrimination-barriers-sporting-success-elite-disabled-athletes/106976092",
+          "published_at": "Sat, 08 Aug 2026 20:17:03 +0000",
+          "title": "'I felt I wasn't worthy': Para athletes on barriers in elite sport",
+          "standfirst": "Paralympic gold medallist Nikki Ayers walked away from rowing, feeling devalued in the sport. She's not alone; disabled athletes have told ABC Sport they face discrimination and burnout due to a lack of funding and support.",
+          "content": "Paralympic gold medallist Nikki Ayers walked away from rowing, feeling devalued in the sport. She's not alone; disabled athletes have told ABC Sport they face discrimination and burnout due to a lack of funding and support.",
+          "feed_position": 13
+        }
+      ],
+      "popularity_score": 154.94141444444443
+    },
+    {
+      "id": "cluster_14",
+      "coverage": 1,
+      "updated_at": "Sat, 08 Aug 2026 21:36:27 +0000",
+      "title": "Victorian premier pledges to lift school funding to meet Gonski standards",
+      "neutral_headline": "Victorian premier pledges to lift school funding to meet Gonski standards",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2026-08-09/ben-carroll-gonski-inspired-school-funding-boost/107010038",
+          "published_at": "Sat, 08 Aug 2026 21:36:27 +0000",
+          "title": "Victorian premier pledges to lift school funding to meet Gonski standards",
+          "standfirst": "New premier Ben Carroll says Victoria will fulfil the state's funding obligations to public schools under the Gonski plan.",
+          "content": "New premier Ben Carroll says Victoria will fulfil the state's funding obligations to public schools under the Gonski plan.",
+          "feed_position": 19
+        }
+      ],
+      "popularity_score": 151.26474777777779
+    },
+    {
+      "id": "cluster_19",
+      "coverage": 1,
+      "updated_at": "Sat, 08 Aug 2026 21:12:05 +0000",
+      "title": "'Unusual' flu trend with SA cases to spike later than expected",
+      "neutral_headline": "'Unusual' flu trend with SA cases to spike later than expected",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2026-08-09/unusual-sa-flu-trend-cases-expected-to-spike-later/107004894",
+          "published_at": "Sat, 08 Aug 2026 21:12:05 +0000",
+          "title": "'Unusual' flu trend with SA cases to spike later than expected",
+          "standfirst": "An \"unusual\" flu trend will likely see more people sneezing and reaching for their tissues after the peak winter season, South Australia's health experts say.",
+          "content": "An \"unusual\" flu trend will likely see more people sneezing and reaching for their tissues after the peak winter season, South Australia's health experts say.",
+          "feed_position": 24
+        }
+      ],
+      "popularity_score": 150.85863666666665
+    },
+    {
+      "id": "cluster_20",
+      "coverage": 1,
+      "updated_at": "Sat, 08 Aug 2026 21:07:28 +0000",
+      "title": "Fijian rugby pro, 26, dies of suspected heat stroke after training",
+      "neutral_headline": "Fijian rugby pro, 26, dies of suspected heat stroke after training",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2026-08-09/saimoni-vunilagi-dies-aged-26-from-suspected-heat-stroke/107013866",
+          "published_at": "Sat, 08 Aug 2026 21:07:28 +0000",
+          "title": "Fijian rugby pro, 26, dies of suspected heat stroke after training",
+          "standfirst": "Fijian rugby player Saimoni Vunilagi, 26, dies after suffering from suspected heat stroke following a training session in Japan.",
+          "content": "Fijian rugby player Saimoni Vunilagi, 26, dies after suffering from suspected heat stroke following a training session in Japan.",
+          "feed_position": 12
+        }
+      ],
+      "popularity_score": 150.78169222222223
+    },
+    {
+      "id": "cluster_21",
+      "coverage": 1,
+      "updated_at": "Sat, 08 Aug 2026 21:05:11 +0000",
+      "title": "Flowers blooming, birds swooping amid unusually warm 'sprinter'",
+      "neutral_headline": "Flowers blooming, birds swooping amid unusually warm 'sprinter'",
+      "bullet_summary": [
+        "Reported by ABC Just In"
+      ],
+      "items": [
+        {
+          "source": "ABC Just In",
+          "url": "https://www.abc.net.au/news/2026-08-09/nsw-unusually-warm-winter-brings-early-blooms-magpies/107008174",
+          "published_at": "Sat, 08 Aug 2026 21:05:11 +0000",
+          "title": "Flowers blooming, birds swooping amid unusually warm 'sprinter'",
+          "standfirst": "An early magpie swooping season, underwhelming ski season and canola crops blooming a month in advance are some signs of an unusually warm winter across NSW.",
+          "content": "An early magpie swooping season, underwhelming ski season and canola crops blooming a month in advance are some signs of an unusually warm winter across NSW.",
+          "feed_position": 13
+        }
+      ],
+      "popularity_score": 150.74363666666667
+    },
+    {
+      "id": "cluster_23",
+      "coverage": 1,
+      "updated_at": "Sat, 08 Aug 2026 20:31:44 +0000",
+      "title": "Seal numbers on Victorian island plummet as pollution affects pups",
+      "neutral_headline": "Seal numbers on Victorian island plummet as pollution affects pups",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2026-08-09/deen-maar-australian-fur-seal-population-decline-pollution/106970960",
+          "published_at": "Sat, 08 Aug 2026 20:31:44 +0000",
+          "title": "Seal numbers on Victorian island plummet as pollution affects pups",
+          "standfirst": "Deen Maar Island was once home to Australia's largest fur seal colony before the pups started developing alopecia.",
+          "content": "Deen Maar Island was once home to Australia's largest fur seal colony before the pups started developing alopecia.",
+          "feed_position": 22
+        }
+      ],
+      "popularity_score": 150.18613666666667
+    },
+    {
+      "id": "cluster_25",
+      "coverage": 1,
+      "updated_at": "Sat, 08 Aug 2026 20:13:16 +0000",
+      "title": "Oats, water, salt the winning ingredients for porridge-making champ",
+      "neutral_headline": "Oats, water, salt the winning ingredients for porridge-making champ",
+      "bullet_summary": [
+        "Reported by ABC Just In"
+      ],
+      "items": [
+        {
+          "source": "ABC Just In",
+          "url": "https://www.abc.net.au/news/2026-08-09/australias-porridge-making-champion-crowned-nsw-central-coast/107007742",
+          "published_at": "Sat, 08 Aug 2026 20:13:16 +0000",
+          "title": "Oats, water, salt the winning ingredients for porridge-making champ",
+          "standfirst": "A former cafe owner from Sydney has been crowned Australia's porridge-making champion at an inaugural competition on the New South Wales Central Coast.",
+          "content": "A former cafe owner from Sydney has been crowned Australia's porridge-making champion at an inaugural competition on the New South Wales Central Coast.",
+          "feed_position": 18
+        }
+      ],
+      "popularity_score": 149.8783588888889
+    },
+    {
+      "id": "cluster_26",
+      "coverage": 1,
+      "updated_at": "Sat, 08 Aug 2026 20:06:05 +0000",
+      "title": "Ukraine denies targeting Bulgaria after drone explodes near pipeline",
+      "neutral_headline": "Ukraine denies targeting Bulgaria after drone explodes near pipeline",
+      "bullet_summary": [
+        "Reported by ABC News Australia"
+      ],
+      "items": [
+        {
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2026-08-09/bulgaria-says-drone-explodes-in-its-airspace/107013718",
+          "published_at": "Sat, 08 Aug 2026 20:06:05 +0000",
+          "title": "Ukraine denies targeting Bulgaria after drone explodes near pipeline",
+          "standfirst": "Ukraine has denied targeting Bulgaria after a drone entered Bulgaria's airspace exploded close to the strategic Trans-Balkan gas pipeline near the Romanian border.",
+          "content": "Ukraine has denied targeting Bulgaria after a drone entered Bulgaria's airspace exploded close to the strategic Trans-Balkan gas pipeline near the Romanian border.",
+          "feed_position": 21
+        }
+      ],
+      "popularity_score": 149.75863666666666
+    },
+    {
+      "id": "cluster_48",
       "coverage": 1,
       "updated_at": "Sat, 08 Aug 2026 19:10:39 +0000",
       "title": "These young women are redefining who belongs in agriculture",
@@ -196,57 +670,13 @@
           "title": "These young women are redefining who belongs in agriculture",
           "standfirst": "A university program challenges the idea that women need to grow up on a farm to build a career in agriculture.",
           "content": "A university program challenges the idea that women need to grow up on a farm to build a career in agriculture.",
-          "feed_position": 8
+          "feed_position": 17
         }
       ],
-      "popularity_score": 272.79291
+      "popularity_score": 148.83474777777778
     },
     {
-      "id": "cluster_38",
-      "coverage": 1,
-      "updated_at": "Sat, 08 Aug 2026 04:48:43 +0000",
-      "title": "Trump announces $560m critical minerals investment in tiny NSW town",
-      "neutral_headline": "Trump announces $560m critical minerals investment in tiny NSW town",
-      "bullet_summary": [
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2026-08-08/pentagon-loan-to-syerston-scandium-mine-in-nsw/107012648",
-          "published_at": "Sat, 08 Aug 2026 04:48:43 +0000",
-          "title": "Trump announces $560m critical minerals investment in tiny NSW town",
-          "standfirst": "The Pentagon is investing more than half a billion dollars to expand an Australian critical mineral project poised to become the world's first scandium mine.",
-          "content": "The Pentagon is investing more than half a billion dollars to expand an Australian critical mineral project poised to become the world's first scandium mine.",
-          "feed_position": 7
-        }
-      ],
-      "popularity_score": 268.42735444444446
-    },
-    {
-      "id": "cluster_31",
-      "coverage": 1,
-      "updated_at": "Sat, 08 Aug 2026 14:44:39 +0000",
-      "title": "China braces for Typhoon Dolphin after storm lashes Japan's southern islands",
-      "neutral_headline": "China braces for Typhoon Dolphin after storm lashes Japan's southern islands",
-      "bullet_summary": [
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2026-08-09/typhoon-dolphin-hits-japan-okinawa/107013284",
-          "published_at": "Sat, 08 Aug 2026 14:44:39 +0000",
-          "title": "China braces for Typhoon Dolphin after storm lashes Japan's southern islands",
-          "standfirst": "Typhoon Dolphin has lashed Japan's southern islands of Okinawa and turned towards China, where it is expected to make landfall late Sunday or early Monday local time.",
-          "content": "Typhoon Dolphin has lashed Japan's southern islands of Okinawa and turned towards China, where it is expected to make landfall late Sunday or early Monday local time.",
-          "feed_position": 9
-        }
-      ],
-      "popularity_score": 258.35957666666667
-    },
-    {
-      "id": "cluster_28",
+      "id": "cluster_62",
       "coverage": 1,
       "updated_at": "Sat, 08 Aug 2026 18:30:00 +0000",
       "title": "The race is on in a secret location to save one of our rarest orchids",
@@ -265,10 +695,10 @@
           "feed_position": 14
         }
       ],
-      "popularity_score": 152.11541
+      "popularity_score": 148.15724777777777
     },
     {
-      "id": "cluster_29",
+      "id": "cluster_63",
       "coverage": 1,
       "updated_at": "Sat, 08 Aug 2026 18:30:00 +0000",
       "title": "'If we don't tour, we don't eat': The Drones return after 10 years",
@@ -287,10 +717,10 @@
           "feed_position": 15
         }
       ],
-      "popularity_score": 152.11541
+      "popularity_score": 148.15724777777777
     },
     {
-      "id": "cluster_30",
+      "id": "cluster_64",
       "coverage": 1,
       "updated_at": "Sat, 08 Aug 2026 18:30:00 +0000",
       "title": "Do you believe in life after love? What about music quizzes?",
@@ -309,78 +739,32 @@
           "feed_position": 16
         }
       ],
-      "popularity_score": 152.11541
+      "popularity_score": 148.15724777777777
     },
     {
-      "id": "cluster_32",
+      "id": "cluster_65",
       "coverage": 1,
-      "updated_at": "Sat, 08 Aug 2026 12:31:44 +0000",
-      "title": "National Indigenous Music Awards winners, new Hall of Fame inductions revealed",
-      "neutral_headline": "National Indigenous Music Awards winners, new Hall of Fame inductions revealed",
-      "bullet_summary": [
-        "The National Indigenous Music Awards winners have been announced, with territory talent Baker Boy winning big",
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2026-08-08/2026-national-indigenous-music-awards-winners/107012584",
-          "published_at": "Sat, 08 Aug 2026 12:31:44 +0000",
-          "title": "National Indigenous Music Awards winners, new Hall of Fame inductions revealed",
-          "standfirst": "The National Indigenous Music Awards winners have been announced, with territory talent Baker Boy winning big.",
-          "content": "The National Indigenous Music Awards winners have been announced, with territory talent Baker Boy winning big.",
-          "feed_position": 11
-        }
-      ],
-      "popularity_score": 146.1442988888889
-    },
-    {
-      "id": "cluster_34",
-      "coverage": 1,
-      "updated_at": "Sat, 08 Aug 2026 08:30:56 +0000",
-      "title": "'Hurt ourselves': Wallabies survive scare as Les Kiss era begins with Japan win",
-      "neutral_headline": "'Hurt ourselves': Wallabies survive scare as Les Kiss era begins with Japan win",
+      "updated_at": "Sat, 08 Aug 2026 09:14:12 +0000",
+      "title": "Todd Blanche confirmed as US attorney general after divisive hearing",
+      "neutral_headline": "Todd Blanche confirmed as US attorney general after divisive hearing",
       "bullet_summary": [
         "Reported by ABC News Australia"
       ],
       "items": [
         {
           "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2026-08-08/wallabies-vs-japan-first-test-live-scores/106999438",
-          "published_at": "Sat, 08 Aug 2026 08:30:56 +0000",
-          "title": "'Hurt ourselves': Wallabies survive scare as Les Kiss era begins with Japan win",
-          "standfirst": "New Wallabies coach Les Kiss says his side will need to learn how to control their ambitions after Australia hangs on to win a frantic Test match against Japan in the Osaka heat.",
-          "content": "New Wallabies coach Les Kiss says his side will need to learn how to control their ambitions after Australia hangs on to win a frantic Test match against Japan in the Osaka heat.",
-          "feed_position": 10
+          "url": "https://www.abc.net.au/news/2026-08-08/todd-blanche-confirmed-as-us-attorney-general/107013178",
+          "published_at": "Sat, 08 Aug 2026 09:14:12 +0000",
+          "title": "Todd Blanche confirmed as US attorney general after divisive hearing",
+          "standfirst": "The vote follows a tumultuous confirmation fight that exposed concerns — from some Republicans as well as Democrats — about putting Donald Trump's former defence lawyer in charge of a Justice Department that historically prides itself on its independence from the White House.",
+          "content": "The vote follows a tumultuous confirmation fight that exposed concerns — from some Republicans as well as Democrats — about putting Donald Trump's former defence lawyer in charge of a Justice Department that historically prides itself on its independence from the White House.",
+          "feed_position": 23
         }
       ],
-      "popularity_score": 142.13096555555555
+      "popularity_score": 138.89391444444445
     },
     {
-      "id": "cluster_36",
-      "coverage": 1,
-      "updated_at": "Sat, 08 Aug 2026 05:26:32 +0000",
-      "title": "'Really far inland': Concerns over NSW new bird flu cases in native species",
-      "neutral_headline": "'Really far inland': Concerns over NSW new bird flu cases in native species",
-      "bullet_summary": [
-        "The New South Wales government has confirmed the state's first cases of H5 avian influenza in Australian native birds",
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2026-08-08/two-native-birds-test-positive-first-cases-h5-bird-flu-nsw/107012958",
-          "published_at": "Sat, 08 Aug 2026 05:26:32 +0000",
-          "title": "'Really far inland': Concerns over NSW new bird flu cases in native species",
-          "standfirst": "The New South Wales government has confirmed the state's first cases of H5 avian influenza in Australian native birds.",
-          "content": "The New South Wales government has confirmed the state's first cases of H5 avian influenza in Australian native birds.",
-          "feed_position": 20
-        }
-      ],
-      "popularity_score": 139.05763222222222
-    },
-    {
-      "id": "cluster_37",
+      "id": "cluster_68",
       "coverage": 1,
       "updated_at": "Sat, 08 Aug 2026 05:19:37 +0000",
       "title": "Gina Rinehart says ABC Ombudsman finding 'fails all Australian women'",
@@ -396,35 +780,13 @@
           "title": "Gina Rinehart says ABC Ombudsman finding 'fails all Australian women'",
           "standfirst": "The mining magnate says the ABC's Editorial Standards need \"significant improvement\" after a video describing a fictional scenario that involved a violent attack on her was aired on Race Around the World.",
           "content": "The mining magnate says the ABC's Editorial Standards need \"significant improvement\" after a video describing a fictional scenario that involved a violent attack on her was aired on Race Around the World.",
-          "feed_position": 12
-        }
-      ],
-      "popularity_score": 138.94235444444445
-    },
-    {
-      "id": "cluster_39",
-      "coverage": 1,
-      "updated_at": "Sat, 08 Aug 2026 04:45:22 +0000",
-      "title": "Rockliff adviser, ex-minister chosen as Liberal Senate replacements",
-      "neutral_headline": "Rockliff adviser, ex-minister chosen as Liberal Senate replacements",
-      "bullet_summary": [
-        "Reported by ABC Just In"
-      ],
-      "items": [
-        {
-          "source": "ABC Just In",
-          "url": "https://www.abc.net.au/news/2026-08-08/liberals-select-senate-replacements-for-tasmanians-duniam-askew/107012632",
-          "published_at": "Sat, 08 Aug 2026 04:45:22 +0000",
-          "title": "Rockliff adviser, ex-minister chosen as Liberal Senate replacements",
-          "standfirst": "A senior adviser to Tasmania's premier has been chosen to replace outgoing Liberal Senator Wendy Askew, while a former state minister will replace Senator Jonno Duniam when he finishes up at the end of the year.",
-          "content": "A senior adviser to Tasmania's premier has been chosen to replace outgoing Liberal Senator Wendy Askew, while a former state minister will replace Senator Jonno Duniam when he finishes up at the end of the year.",
           "feed_position": 18
         }
       ],
-      "popularity_score": 138.37152111111112
+      "popularity_score": 134.98419222222222
     },
     {
-      "id": "cluster_40",
+      "id": "cluster_69",
       "coverage": 1,
       "updated_at": "Sat, 08 Aug 2026 04:39:09 +0000",
       "title": "Perth man allegedly damaged 20 cars during 90-minute rampage",
@@ -440,209 +802,10 @@
           "title": "Perth man allegedly damaged 20 cars during 90-minute rampage",
           "standfirst": "Police charge a 45-year-old who allegedly got out of his car and smashed several stationary vehicles, before leading officers on a wild chase through Perth's northern suburbs.",
           "content": "Police charge a 45-year-old who allegedly got out of his car and smashed several stationary vehicles, before leading officers on a wild chase through Perth's northern suburbs.",
-          "feed_position": 13
+          "feed_position": 20
         }
       ],
-      "popularity_score": 138.26791
-    },
-    {
-      "id": "cluster_42",
-      "coverage": 1,
-      "updated_at": "Sat, 08 Aug 2026 04:36:52 +0000",
-      "title": "Alleged torturers to seek bail as 15yo assessed for electronic monitoring",
-      "neutral_headline": "Alleged torturers to seek bail as 15yo assessed for electronic monitoring",
-      "bullet_summary": [
-        "Details of the alleged torture of an intellectually disabled teenager can be revealed after the alleged offenders face court in North Queensland",
-        "Reported by ABC Just In"
-      ],
-      "items": [
-        {
-          "source": "ABC Just In",
-          "url": "https://www.abc.net.au/news/2026-08-08/alleged-torturers-face-townsville-court-teenager-bashing/107012738",
-          "published_at": "Sat, 08 Aug 2026 04:36:52 +0000",
-          "title": "Alleged torturers to seek bail as 15yo assessed for electronic monitoring",
-          "standfirst": "Details of the alleged torture of an intellectually disabled teenager can be revealed after the alleged offenders face court in North Queensland.",
-          "content": "Details of the alleged torture of an intellectually disabled teenager can be revealed after the alleged offenders face court in North Queensland.",
-          "feed_position": 21
-        }
-      ],
-      "popularity_score": 138.22985444444444
-    },
-    {
-      "id": "cluster_43",
-      "coverage": 1,
-      "updated_at": "Sat, 08 Aug 2026 04:31:34 +0000",
-      "title": "Why broadcasting row has Tour de France Femmes fans 'pissed off'",
-      "neutral_headline": "Why broadcasting row has Tour de France Femmes fans 'pissed off'",
-      "bullet_summary": [
-        "Reported by ABC Just In"
-      ],
-      "items": [
-        {
-          "source": "ABC Just In",
-          "url": "https://www.abc.net.au/news/2026-08-08/tour-de-france-femmes-fans-broadcast-row/107002508",
-          "published_at": "Sat, 08 Aug 2026 04:31:34 +0000",
-          "title": "Why broadcasting row has Tour de France Femmes fans 'pissed off'",
-          "standfirst": "In the Tour de France Femmes, less than 40 seconds separates the top three riders with only two stages to go. That's just one reason why supporters are questioning why they can't watch the entire race.",
-          "content": "In the Tour de France Femmes, less than 40 seconds separates the top three riders with only two stages to go. That's just one reason why supporters are questioning why they can't watch the entire race.",
-          "feed_position": 22
-        }
-      ],
-      "popularity_score": 138.1415211111111
-    },
-    {
-      "id": "cluster_44",
-      "coverage": 1,
-      "updated_at": "Sat, 08 Aug 2026 04:31:09 +0000",
-      "title": "Tokyo had 13,000 geisha in 1940. That number has plummeted",
-      "neutral_headline": "Tokyo had 13,000 geisha in 1940. That number has plummeted",
-      "bullet_summary": [
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2026-08-08/inside-the-closed-world-of-japans-geisha/106983434",
-          "published_at": "Sat, 08 Aug 2026 04:31:09 +0000",
-          "title": "Tokyo had 13,000 geisha in 1940. That number has plummeted",
-          "standfirst": "Foreign Correspondent secures rare access to the closed world of geisha, Japan's iconic art form struggling to survive.",
-          "content": "Foreign Correspondent secures rare access to the closed world of geisha, Japan's iconic art form struggling to survive.",
-          "feed_position": 17
-        }
-      ],
-      "popularity_score": 138.13457666666667
-    },
-    {
-      "id": "cluster_63",
-      "coverage": 1,
-      "updated_at": "Fri, 07 Aug 2026 18:41:01 +0000",
-      "title": "Grief-stricken mother of star footballer reveals AFL executive phone call",
-      "neutral_headline": "Grief-stricken mother of star footballer reveals AFL executive phone call",
-      "bullet_summary": [
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2026-08-08/adam-hunter-mother-accuses-afl-of-cover-up-on-brain-injury-cte/107008390",
-          "published_at": "Fri, 07 Aug 2026 18:41:01 +0000",
-          "title": "Grief-stricken mother of star footballer reveals AFL executive phone call",
-          "standfirst": "West Coast Eagles star Adam Hunter's grieving mother Joanne Brown says AFL executive Laura Kane reached out to her, but the phone call was \"too little, too late\".",
-          "content": "West Coast Eagles star Adam Hunter's grieving mother Joanne Brown says AFL executive Laura Kane reached out to her, but the phone call was \"too little, too late\".",
-          "feed_position": 24
-        }
-      ],
-      "popularity_score": 138
-    },
-    {
-      "id": "cluster_45",
-      "coverage": 1,
-      "updated_at": "Sat, 08 Aug 2026 04:16:36 +0000",
-      "title": "'Never seen anything like this': Britain's parks and pastures turn brown",
-      "neutral_headline": "'Never seen anything like this': Britain's parks and pastures turn brown",
-      "bullet_summary": [
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2026-08-08/britain-green-pastures-turn-brown-amid-drought/107011800",
-          "published_at": "Sat, 08 Aug 2026 04:16:36 +0000",
-          "title": "'Never seen anything like this': Britain's parks and pastures turn brown",
-          "standfirst": "London's parks turn brown and British farmers battle to salvage what is left of their produce as a drought grips multiple parts of the country.",
-          "content": "London's parks turn brown and British farmers battle to salvage what is left of their produce as a drought grips multiple parts of the country.",
-          "feed_position": 22
-        }
-      ],
-      "popularity_score": 137.89207666666667
-    },
-    {
-      "id": "cluster_47",
-      "coverage": 1,
-      "updated_at": "Sat, 08 Aug 2026 03:16:41 +0000",
-      "title": "Dogs to be euthanased after man's death in suspected attack",
-      "neutral_headline": "Dogs to be euthanased after man's death in suspected attack",
-      "bullet_summary": [
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2026-08-08/dogs-supected-of-fatal-attack-in-sydney-to-be-euthanased/107012384",
-          "published_at": "Sat, 08 Aug 2026 03:16:41 +0000",
-          "title": "Dogs to be euthanased after man's death in suspected attack",
-          "standfirst": "Dogs suspected of mauling a man to death at a distinctive large home in south-west Sydney will be euthanased, after also injuring a council worker.",
-          "content": "Dogs suspected of mauling a man to death at a distinctive large home in south-west Sydney will be euthanased, after also injuring a council worker.",
-          "feed_position": 21
-        }
-      ],
-      "popularity_score": 136.89346555555557
-    },
-    {
-      "id": "cluster_48",
-      "coverage": 1,
-      "updated_at": "Sat, 08 Aug 2026 03:08:42 +0000",
-      "title": "Crows get home after almighty Tigers scare in the wet",
-      "neutral_headline": "Crows get home after almighty Tigers scare in the wet",
-      "bullet_summary": [
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2026-08-08/afl-rd-22-live-melb-frem-syd-ptad-geel-ess-adel-rich/107007960",
-          "published_at": "Sat, 08 Aug 2026 03:08:42 +0000",
-          "title": "Crows get home after almighty Tigers scare in the wet",
-          "standfirst": "Izak Rankine stars as Adelaide manages to get the job done against Richmond in torrential rain at Adelaide Oval.",
-          "content": "Izak Rankine stars as Adelaide manages to get the job done against Richmond in torrential rain at Adelaide Oval.",
-          "feed_position": 18
-        }
-      ],
-      "popularity_score": 136.76041
-    },
-    {
-      "id": "cluster_41",
-      "coverage": 1,
-      "updated_at": "Sat, 08 Aug 2026 04:38:08 +0000",
-      "title": "Souths hang on to deny Eels remarkable comeback",
-      "neutral_headline": "Souths hang on to deny Eels remarkable comeback",
-      "bullet_summary": [
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2026-08-08/nrl-live-updates-storm-sea-eagles-dolphins-broncos-rabbitohs-eel/107012870",
-          "published_at": "Sat, 08 Aug 2026 04:38:08 +0000",
-          "title": "Souths hang on to deny Eels remarkable comeback",
-          "standfirst": "South Sydney concedes 24 unanswered second-half points but manage to hold on for a 28-24 victory, which consolidates the Rabbitohs' place in the league's top eight.",
-          "content": "South Sydney concedes 24 unanswered second-half points but manage to hold on for a 28-24 victory, which consolidates the Rabbitohs' place in the league's top eight.",
-          "feed_position": 19
-        }
-      ],
-      "popularity_score": 135.25096555555555
-    },
-    {
-      "id": "cluster_51",
-      "coverage": 1,
-      "updated_at": "Sat, 08 Aug 2026 01:13:54 +0000",
-      "title": "Death of model forces difficult conversation about divorce in India",
-      "neutral_headline": "Death of model forces difficult conversation about divorce in India",
-      "bullet_summary": [
-        "Reported by ABC News Australia"
-      ],
-      "items": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2026-08-08/divorce-indian-women-question-cultural-pressure-of-marriage/106916718",
-          "published_at": "Sat, 08 Aug 2026 01:13:54 +0000",
-          "title": "Death of model forces difficult conversation about divorce in India",
-          "standfirst": "Divorce is still frowned upon in India, where women face immense pressure to stay in toxic relationships.",
-          "content": "Divorce is still frowned upon in India, where women face immense pressure to stay in toxic relationships.",
-          "feed_position": 23
-        }
-      ],
-      "popularity_score": 134.84707666666668
+      "popularity_score": 134.30974777777777
     }
   ]
 }
