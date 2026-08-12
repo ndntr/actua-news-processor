@@ -1,17 +1,82 @@
 {
   "clinical": {
-    "updated_at": "2026-08-11T23:31:37.305Z",
+    "updated_at": "2026-08-12T04:41:55.280Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-08-11T23:31:37.305Z",
+    "updated_at": "2026-08-12T04:41:55.280Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-08-11T23:31:42.433Z",
+    "updated_at": "2026-08-12T04:42:02.853Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Wed, 12 Aug 2026 04:11:19 GMT",
+        "title": "British driver who broke sound barrier sets new speed record",
+        "neutral_headline": "British driver who broke sound barrier sets new speed record",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/news/articles/czjl2yzx8epo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Wed, 12 Aug 2026 04:11:19 GMT",
+            "title": "British driver who broke sound barrier sets new speed record",
+            "standfirst": "Andy Green set the fastest time ever recorded in a hydrogen-powered car, reaching 406mph (654km/h).",
+            "content": "Andy Green set the fastest time ever recorded in a hydrogen-powered car, reaching 406mph (654km/h).",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c1d/live/08dff490-95ff-11f1-a7ab-8b30adf0800a.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c1d/live/08dff490-95ff-11f1-a7ab-8b30adf0800a.jpg"
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Wed, 12 Aug 2026 04:00:19 GMT",
+        "title": "British man with dementia told to leave Sweden after losing migration case",
+        "neutral_headline": "British man with dementia told to leave Sweden after losing migration case",
+        "bullet_summary": [
+          "Reported by Guardian Health"
+        ],
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/world/2026/aug/12/british-man-dementia-leave-sweden-brexit-migration-case",
+            "published_at": "Wed, 12 Aug 2026 04:00:19 GMT",
+            "title": "British man with dementia told to leave Sweden after losing migration case",
+            "standfirst": "Exclusive: Horace Mason, 74, who has lived in Sweden for 25 years, faces being deported after court rulingA 74-year-old British man who has been living in Sweden for 25 years who needs round-the-clock care for dementia has been given 10 days to leave the country after he lost a post-Brexit migration court case.The deportation order comes after a Swedish court ruling in July that the government’s drive to reduce immigration trumped the needs of a man in full-time care. Continue reading...",
+            "content": "Exclusive: Horace Mason, 74, who has lived in Sweden for 25 years, faces being deported after court rulingA 74-year-old British man who has been living in Sweden for 25 years who needs round-the-clock care for dementia has been given 10 days to leave the country after he lost a post-Brexit migration court case.The deportation order comes after a Swedish court ruling in July that the government’s drive to reduce immigration trumped the needs of a man in full-time care. Continue reading...",
+            "feed_position": 0
+          }
+        ]
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Wed, 12 Aug 2026 04:00:19 GMT",
+        "title": "‘A mouse can’t tell us what works’: UK scientists to grow miniature human organs for drug testing",
+        "neutral_headline": "‘A mouse can’t tell us what works’: UK scientists to grow...",
+        "bullet_summary": [
+          "Reported by Guardian Health"
+        ],
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/science/2026/aug/12/organoids-human-organs-cambridge-shift-drug-testing-medicines-animals",
+            "published_at": "Wed, 12 Aug 2026 04:00:19 GMT",
+            "title": "‘A mouse can’t tell us what works’: UK scientists to grow miniature human organs for drug testing",
+            "standfirst": "Organoids and tissues grown from human cells promise more accurate results, with £20m Cambridge project to create standardised modelsMiniature human organs and other tissues are to be grown from NHS patients’ cells in a drive to improve medicine testing and reduce the number of animals used in drug development.Scientists will use the clumps of tissue to learn how diseases vary between patients, helping them identify which treatments are best for different people based on the particular pathology underlying their condition. Continue reading...",
+            "content": "Organoids and tissues grown from human cells promise more accurate results, with £20m Cambridge project to create standardised modelsMiniature human organs and other tissues are to be grown from NHS patients’ cells in a drive to improve medicine testing and reduce the number of animals used in drug development.Scientists will use the clumps of tissue to learn how diseases vary between patients, helping them identify which treatments are best for different people based on the particular pathology underlying their condition. Continue reading...",
+            "feed_position": 1
+          }
+        ]
+      },
+      {
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Tue, 11 Aug 2026 23:31:02 GMT",
         "title": "Children as young as nine hurt in growing number of e-scooter crashes",
@@ -34,7 +99,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/352e/live/5ead3ea0-95b4-11f1-a7ab-8b30adf0800a.jpg"
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Tue, 11 Aug 2026 23:17:15 GMT",
         "title": "UK to get best eclipse since 1999 as Moon blocks out Sun across Europe",
@@ -50,37 +115,14 @@
             "title": "UK to get best eclipse since 1999 as Moon blocks out Sun across Europe",
             "standfirst": "Up to 96% of the Sun will be covered by the Moon in the UK, while parts of Spain, Greenland, Iceland, Portugal and Russia will see a total eclipse.",
             "content": "Up to 96% of the Sun will be covered by the Moon in the UK, while parts of Spain, Greenland, Iceland, Portugal and Russia will see a total eclipse.",
-            "feed_position": 0,
+            "feed_position": 1,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ca0/live/fa935510-9583-11f1-8636-978a48bd79b6.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ca0/live/fa935510-9583-11f1-8636-978a48bd79b6.jpg"
       },
       {
-        "id": "cluster_2",
-        "coverage": 1,
-        "updated_at": "Tue, 11 Aug 2026 23:00:26 GMT",
-        "title": "Sun-tanned cauliflowers and knobbly spuds - the heatwave veg that's good to eat",
-        "neutral_headline": "Sun-tanned cauliflowers and knobbly spuds - the heatwave veg that's good to eat",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/news/articles/c4g360z8d2lo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Tue, 11 Aug 2026 23:00:26 GMT",
-            "title": "Sun-tanned cauliflowers and knobbly spuds - the heatwave veg that's good to eat",
-            "standfirst": "British shoppers should expect to see more wonky vegetables due to repeated heatwaves.",
-            "content": "British shoppers should expect to see more wonky vegetables due to repeated heatwaves.",
-            "feed_position": 1,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2e9/live/85ef6870-9583-11f1-870d-5d08c49babb2.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2e9/live/85ef6870-9583-11f1-870d-5d08c49babb2.jpg"
-      },
-      {
-        "id": "cluster_3",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Tue, 11 Aug 2026 20:56:08 GMT",
         "title": "Watch: Severe storms overturn vehicle and trigger flooding in Ohio",
@@ -103,7 +145,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/324c/live/a69aebb0-95c6-11f1-b2ab-0dd01740f9f6.jpg"
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Tue, 11 Aug 2026 17:58:11 GMT",
         "title": "Solar eclipse glasses 'sold out everywhere' as people look for alternatives",
@@ -126,7 +168,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ac1/live/92b08df0-95a6-11f1-b664-bb705b1b22f9.jpg"
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Tue, 11 Aug 2026 16:31:43 GMT",
         "title": "Eclipse chasers scramble for glasses as stocks run low",
@@ -149,7 +191,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/432b/live/d0752bb0-9578-11f1-bfbd-3fe7d55dcf7b.jpg"
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Tue, 11 Aug 2026 16:29:28 GMT",
         "title": "Three ways to watch the solar eclipse safely without glasses",
@@ -172,7 +214,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71cf/live/72e94700-95a1-11f1-a036-eb7cd99c5268.jpg"
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Tue, 11 Aug 2026 15:14:48 GMT",
         "title": "Thames Water 'flagship' chalk stream rated as poor",
@@ -195,7 +237,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ddf/live/eff8abd0-91ac-11f1-9c12-47c0acd34ba6.jpg"
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Tue, 11 Aug 2026 15:02:33 GMT",
         "title": "Solar eclipse 2026 weather forecast – where and when will the best view be?",
@@ -218,7 +260,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be4e/live/613f7de0-9596-11f1-af19-5b895ed53d0f.jpg"
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Tue, 11 Aug 2026 14:08:10 GMT",
         "title": "How to watch the solar eclipse safely",
@@ -241,7 +283,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7350/live/f6b3b040-958b-11f1-b8bb-1b597db1ad66.jpg"
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Tue, 11 Aug 2026 12:35:04 GMT",
         "title": "Best places to see partial solar eclipse across England",
@@ -264,13 +306,12 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/285c/live/352e1ed0-94c1-11f1-adb5-bd19050a74a5.jpg"
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Tue, 11 Aug 2026 12:07:04 GMT",
         "title": "Doctors at remote Devon hospital get ‘crash course’ after maternity unit shut",
         "neutral_headline": "Doctors at remote Devon hospital get ‘crash course’ after maternity unit shut",
         "bullet_summary": [
-          "“The next closest maternity unit is a full two hours away and we have a family history of labour taking under two hours from start to finish,” said Knight",
           "Reported by Guardian Health"
         ],
         "items": [
@@ -281,21 +322,12 @@
             "title": "Doctors at remote Devon hospital get ‘crash course’ after maternity unit shut",
             "standfirst": "Staff at North Devon district hospital given training in difficult births in case mothers-to-be cannot get to ExeterDoctors at one of England’s remotest hospitals have been given a “crash course” in birth emergencies after its maternity unit was shut and as fears grow that the safety of women and babies may be put at risk.From Tuesday, the maternity service at North Devon district hospital (NDDH) in Barnstaple has been suspended indefinitely owing to staff shortages, leaving many pregnant women facing a journey of at least an hour and a half when they go into labour. Continue reading...",
             "content": "Staff at North Devon district hospital given training in difficult births in case mothers-to-be cannot get to ExeterDoctors at one of England’s remotest hospitals have been given a “crash course” in birth emergencies after its maternity unit was shut and as fears grow that the safety of women and babies may be put at risk.From Tuesday, the maternity service at North Devon district hospital (NDDH) in Barnstaple has been suspended indefinitely owing to staff shortages, leaving many pregnant women facing a journey of at least an hour and a half when they go into labour. Continue reading...",
-            "feed_position": 0
-          },
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2026/aug/10/maternity-cuts-devon-women-stark-choices",
-            "published_at": "Mon, 10 Aug 2026 04:00:35 GMT",
-            "title": "‘Babies will be born in laybys’: maternity cuts leave women with stark choices in Devon",
-            "standfirst": "Concerns about feeling pressure to have caesarean section, or paying for hotel in Exeter after hospital in Barnstaple suspends birthing servicesFor mother-to-be Harriet Knight, the suspension of maternity services at one of England’s most remote hospitals means having to face horribly stark choices.“The next closest maternity unit is a full two hours away and we have a family history of labour taking under two hours from start to finish,” said Knight. Continue reading...",
-            "content": "Concerns about feeling pressure to have caesarean section, or paying for hotel in Exeter after hospital in Barnstaple suspends birthing servicesFor mother-to-be Harriet Knight, the suspension of maternity services at one of England’s most remote hospitals means having to face horribly stark choices.“The next closest maternity unit is a full two hours away and we have a family history of labour taking under two hours from start to finish,” said Knight. Continue reading...",
-            "feed_position": 10
+            "feed_position": 2
           }
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Tue, 11 Aug 2026 11:17:16 GMT",
         "title": "When and where to see the solar eclipse in Scotland",
@@ -318,7 +350,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5175/live/e90a9c00-94c9-11f1-8dc4-8907761852f3.jpg"
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Tue, 11 Aug 2026 10:00:57 GMT",
         "title": "Trump’s vaccine order is about feelings, not facts | Robert B Shpiner",
@@ -334,7 +366,7 @@
             "title": "Trump’s vaccine order is about feelings, not facts | Robert B Shpiner",
             "standfirst": "There’s no evidence that vaccines cause autism, or that we should separate MMR shots. This order is dangerous“This is based on what I feel.” That was the president last September, explaining why he wanted the measles, mumps and rubella (MMR) vaccine broken into three separate shots. On Monday, he signed an executive order instructing exactly that.Four decades in intensive care have taught me what a feeling costs once it becomes national policy. Children will be hospitalized who did not need to be. Some of them will die. No one can name those the vaccine has saved, because prevented harm is invisible by definition, and that invisibility is what makes preventive medicine easy to dismantle and hard to defend. Continue reading...",
             "content": "There’s no evidence that vaccines cause autism, or that we should separate MMR shots. This order is dangerous“This is based on what I feel.” That was the president last September, explaining why he wanted the measles, mumps and rubella (MMR) vaccine broken into three separate shots. On Monday, he signed an executive order instructing exactly that.Four decades in intensive care have taught me what a feeling costs once it becomes national policy. Children will be hospitalized who did not need to be. Some of them will die. No one can name those the vaccine has saved, because prevented harm is invisible by definition, and that invisibility is what makes preventive medicine easy to dismantle and hard to defend. Continue reading...",
-            "feed_position": 1
+            "feed_position": 3
           },
           {
             "source": "Guardian Health",
@@ -343,12 +375,12 @@
             "title": "Trump signs executive order with plan to reduce number of recommended childhood vaccines",
             "standfirst": "MMR vaccine would be broken into separate shots under order, putting a financial and logistical strain on familiesDonald Trump has signed an executive order with plans for sweeping changes to the childhood vaccination schedule that would require that the measles, mumps and rubella vaccine to be broken into three separate shots, once it becomes available in the US.The order recommends that all shots be given at separate medical visits, a frequent point Trump has made despite the safety, ease and lower costs of giving vaccines together. Continue reading...",
             "content": "MMR vaccine would be broken into separate shots under order, putting a financial and logistical strain on familiesDonald Trump has signed an executive order with plans for sweeping changes to the childhood vaccination schedule that would require that the measles, mumps and rubella vaccine to be broken into three separate shots, once it becomes available in the US.The order recommends that all shots be given at separate medical visits, a frequent point Trump has made despite the safety, ease and lower costs of giving vaccines together. Continue reading...",
-            "feed_position": 4
+            "feed_position": 6
           }
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Tue, 11 Aug 2026 09:00:09 GMT",
         "title": "‘I’m giving people a happy space’: the man clearing gardens for free – and letting light into strangers’ lives",
@@ -364,12 +396,12 @@
             "title": "‘I’m giving people a happy space’: the man clearing gardens for free – and letting light into strangers’ lives",
             "standfirst": "When he saw a messy yard being criticised on social media, Stephen Jalland grabbed his trimmer and decided to help. An overgrown garden, he discovered, often hides an overwhelmed ownerAnita Thursby had been dreading the gas engineer coming to service her boiler. They would have needed to enter her kitchen, where the window looked into the jungle of swirling, 2-metre-high brambles that made up her back garden, and her shame had spiralled. “I would have been horrified,” she says. For the same reason, the 54-year-old had stopped inviting friends over to her house and had been living in fear of a complaint from her housing association.Maintaining the garden had slipped from her grasp, becoming a source of constant worry, yet pride had stopped her asking for help – and tight finances from paying for it. Family barbecues had become a distant memory, even though she longed to have her 83-year-old mother round to sit in the sun; weeks ago, she bought a grill in Tesco with little hope of ever using it. Continue reading...",
             "content": "When he saw a messy yard being criticised on social media, Stephen Jalland grabbed his trimmer and decided to help. An overgrown garden, he discovered, often hides an overwhelmed ownerAnita Thursby had been dreading the gas engineer coming to service her boiler. They would have needed to enter her kitchen, where the window looked into the jungle of swirling, 2-metre-high brambles that made up her back garden, and her shame had spiralled. “I would have been horrified,” she says. For the same reason, the 54-year-old had stopped inviting friends over to her house and had been living in fear of a complaint from her housing association.Maintaining the garden had slipped from her grasp, becoming a source of constant worry, yet pride had stopped her asking for help – and tight finances from paying for it. Family barbecues had become a distant memory, even though she longed to have her 83-year-old mother round to sit in the sun; weeks ago, she bought a grill in Tesco with little hope of ever using it. Continue reading...",
-            "feed_position": 2
+            "feed_position": 4
           }
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Tue, 11 Aug 2026 09:00:00 GMT",
         "title": "Inside Health",
@@ -392,7 +424,7 @@
         "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1r8h6.jpg"
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Tue, 11 Aug 2026 08:54:57 GMT",
         "title": "England set to be one of the first countries to eliminate hepatitis C",
@@ -415,7 +447,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1b4/live/9d52a710-94e4-11f1-a7ab-8b30adf0800a.jpg"
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Tue, 11 Aug 2026 06:00:06 GMT",
         "title": "‘Drops take seconds but change a life for ever’: the women saving India’s remotest people from polio",
@@ -431,60 +463,14 @@
             "title": "‘Drops take seconds but change a life for ever’: the women saving India’s remotest people from polio",
             "standfirst": "Shameema and Tanzeela must trek for miles in summer heat to vaccinate children in Kashmir’s highlands as part of a vast national programmeBefore sunrise, Shameema slips on her worn rubber sandals and checks the insulated box – the ice packs inside must maintain the crucial cold chain at between 2C and 8C (35.6-46.4F). She hoists the container on one shoulder and steps out into the dark.Tanzeela follows with her own pack, after quickly retying the laces of her canvas shoes. Both women live in Pulwama, a district where summer temperatures climb to 37C. Their destination lies higher, out of the valley where asphalt turns to dirt track and then to a barely distinguishable footpath along the floor of the mountain pine forests. Continue reading...",
             "content": "Shameema and Tanzeela must trek for miles in summer heat to vaccinate children in Kashmir’s highlands as part of a vast national programmeBefore sunrise, Shameema slips on her worn rubber sandals and checks the insulated box – the ice packs inside must maintain the crucial cold chain at between 2C and 8C (35.6-46.4F). She hoists the container on one shoulder and steps out into the dark.Tanzeela follows with her own pack, after quickly retying the laces of her canvas shoes. Both women live in Pulwama, a district where summer temperatures climb to 37C. Their destination lies higher, out of the valley where asphalt turns to dirt track and then to a barely distinguishable footpath along the floor of the mountain pine forests. Continue reading...",
-            "feed_position": 3
+            "feed_position": 5
           }
         ]
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Tue, 11 Aug 2026 05:21:53 GMT",
-        "title": "What he told me made my blood run cold - Michael Sheen investigates Wales' toxic legacy",
-        "neutral_headline": "What he told me made my blood run cold - Michael...",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/news/articles/czekx5g39elo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Tue, 11 Aug 2026 05:21:53 GMT",
-            "title": "What he told me made my blood run cold - Michael Sheen investigates Wales' toxic legacy",
-            "standfirst": "The Hollywood actor investigates claims cancer-causing chemicals were dumped across Wales.",
-            "content": "The Hollywood actor investigates claims cancer-causing chemicals were dumped across Wales.",
-            "feed_position": 8,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/369f/live/f699a4f0-9551-11f1-a7ab-8b30adf0800a.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/369f/live/f699a4f0-9551-11f1-a7ab-8b30adf0800a.jpg"
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Tue, 11 Aug 2026 05:12:47 GMT",
-        "title": "Royal Golden Guernsey Goats join conservation herd",
-        "neutral_headline": "Royal Golden Guernsey Goats join conservation herd",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/news/articles/ceqewxjjn5zo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Tue, 11 Aug 2026 05:12:47 GMT",
-            "title": "Royal Golden Guernsey Goats join conservation herd",
-            "standfirst": "The six-month-old goats are welcomed by the Governor of Guernsey.",
-            "content": "The six-month-old goats are welcomed by the Governor of Guernsey.",
-            "feed_position": 15,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da30/live/4670a400-94b3-11f1-b2ab-0dd01740f9f6.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da30/live/4670a400-94b3-11f1-b2ab-0dd01740f9f6.jpg"
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-08-11T23:31:42.433Z",
+    "updated_at": "2026-08-12T04:42:02.853Z",
     "clusters": []
   }
 }
