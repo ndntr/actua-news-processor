@@ -1,185 +1,347 @@
 {
-  "updated_at": "2026-08-13T11:40:49.102Z",
+  "updated_at": "2026-08-13T19:52:26.364Z",
   "clusters": [
     {
-      "id": "cluster_52",
-      "coverage": 4,
-      "updated_at": "Wed, 12 Aug 2026 21:00:30 +0000",
-      "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
-      "neutral_headline": "Twitch content has trained Amazon AI for years, but users can opt out now",
+      "id": "cluster_1",
+      "coverage": 2,
+      "updated_at": "2026-08-13T15:28:39-04:00",
+      "title": "OpenAI is losing its second executive this week",
+      "neutral_headline": "OpenAI is losing its second executive this week",
       "bullet_summary": [
-        "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback",
-        "Reported by Ars Technica, TechCrunch, Engadget and others"
+        "Reported by The Verge, TechMeme"
+      ],
+      "items": [
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+          "published_at": "2026-08-13T15:28:39-04:00",
+          "title": "OpenAI is losing its second executive this week",
+          "standfirst": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to LinkedIn. Dali Rajic, president and COO of Wiz, will be taking over the [&#8230;]",
+          "content": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to LinkedIn. Dali Rajic, president and COO of Wiz, will be taking over the CRO role, OpenAI says. Dresser's departure is just the latest in a string of major exits. Earlier this week, special projects lead and former COO Brad Lightcap announced he would be leaving. (Dresser had taken over some of Lightcap's work when he moved to the special projects role.) Former AGI chief Fidji Simo and former CMO … Read the full story at The Verge.",
+          "feed_position": 0
+        },
+        {
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/260813/p35#a260813p35",
+          "published_at": "Thu, 13 Aug 2026 12:20:03 -0400",
+          "title": "OpenAI hires Dali Rajic, COO of Alphabet's Wiz, as chief revenue officer, replacing ex-Slack CEO Denise Dresser, who was hired in December 2025 and will leave (Shirin Ghaffary/Bloomberg)",
+          "standfirst": "Shirin Ghaffary / Bloomberg: OpenAI hires Dali Rajic, COO of Alphabet's Wiz, as chief revenue officer, replacing ex-Slack CEO Denise Dresser, who was hired in December 2025 and will leave &mdash; OpenAI is naming its second new chief revenue officer in less than a year, a sign of efforts to bolster sales growth ahead of a highly anticipated Wall Street debut.",
+          "content": "Shirin Ghaffary / Bloomberg: OpenAI hires Dali Rajic, COO of Alphabet's Wiz, as chief revenue officer, replacing ex-Slack CEO Denise Dresser, who was hired in December 2025 and will leave &mdash; OpenAI is naming its second new chief revenue officer in less than a year, a sign of efforts to bolster sales growth ahead of a highly anticipated Wall Street debut.",
+          "feed_position": 8,
+          "image_url": "http://www.techmeme.com/260813/i35.jpg"
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/260813/i35.jpg",
+      "popularity_score": 2019.60351
+    },
+    {
+      "id": "cluster_9",
+      "coverage": 2,
+      "updated_at": "Thu, 13 Aug 2026 18:52:06 +0000",
+      "title": "US government to allow private companies to carry out cyberattacks on its behalf",
+      "neutral_headline": "US government to allow private companies to carry out cyberattacks on its behalf",
+      "bullet_summary": [
+        "Reported by Engadget, TechCrunch"
+      ],
+      "items": [
+        {
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2236521/us-government-to-allow-private-companies-to-carry-out-cyberattacks-on-its-behalf/",
+          "published_at": "Thu, 13 Aug 2026 18:52:06 +0000",
+          "title": "US government to allow private companies to carry out cyberattacks on its behalf",
+          "standfirst": "US government to allow private companies to carry out cyberattacks on its behalf.",
+          "content": "US government to allow private companies to carry out cyberattacks on its behalf.",
+          "feed_position": 0,
+          "image_url": "https://www.engadget.com/img/gallery/us-government-to-allow-private-companies-to-carry-out-cyberattacks-on-its-behalf/l-intro-1786646964.jpg"
+        },
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/13/in-a-first-us-will-allow-some-private-firms-to-carry-out-cyberattacks/",
+          "published_at": "Thu, 13 Aug 2026 14:09:05 +0000",
+          "title": "In a first, US will allow some private firms to carry out cyberattacks",
+          "standfirst": "The new order sweeps away decades of existing U.S. cybersecurity policy prohibiting private companies from conducting 'hack back' attacks or offensive cyber operations.",
+          "content": "The new order sweeps away decades of existing U.S. cybersecurity policy prohibiting private companies from conducting 'hack back' attacks or offensive cyber operations.",
+          "feed_position": 11
+        }
+      ],
+      "featured_image": "https://www.engadget.com/img/gallery/us-government-to-allow-private-companies-to-carry-out-cyberattacks-on-its-behalf/l-intro-1786646964.jpg",
+      "popularity_score": 2018.9943433333333
+    },
+    {
+      "id": "cluster_27",
+      "coverage": 2,
+      "updated_at": "Thu, 13 Aug 2026 12:55:01 -0400",
+      "title": "X makes the source code for its For You timeline available on GitHub and adds tools to let users see if X's ranking systems \"shadowbanned\" them (Sarah Perez/TechCrunch)",
+      "neutral_headline": "X makes the source code for its For You timeline available on GitHub and adds tools to let users...",
+      "bullet_summary": [
+        "Reported by TechMeme, TechCrunch"
+      ],
+      "items": [
+        {
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/260813/p37#a260813p37",
+          "published_at": "Thu, 13 Aug 2026 12:55:01 -0400",
+          "title": "X makes the source code for its For You timeline available on GitHub and adds tools to let users see if X's ranking systems \"shadowbanned\" them (Sarah Perez/TechCrunch)",
+          "standfirst": "Sarah Perez / TechCrunch: X makes the source code for its For You timeline available on GitHub and adds tools to let users see if X's ranking systems &ldquo;shadowbanned&rdquo; them &mdash; X is significantly expanding its open-source codebase, which includes the app's &ldquo;For You&rdquo; algorithm and its core ranking engine &hellip;",
+          "content": "Sarah Perez / TechCrunch: X makes the source code for its For You timeline available on GitHub and adds tools to let users see if X's ranking systems &ldquo;shadowbanned&rdquo; them &mdash; X is significantly expanding its open-source codebase, which includes the app's &ldquo;For You&rdquo; algorithm and its core ranking engine &hellip;",
+          "feed_position": 6,
+          "image_url": "http://www.techmeme.com/260813/i37.jpg"
+        },
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/",
+          "published_at": "Thu, 13 Aug 2026 16:00:00 +0000",
+          "title": "X open sources its ranking algorithm, letting users see if they&#8217;ve been &#8216;shadowbanned&#8217;",
+          "standfirst": "X is expanding the open source code behind its 'For You' feed and launching new transparency tools that show users when its ranking systems have affected their accounts or posts.",
+          "content": "X is expanding the open source code behind its 'For You' feed and launching new transparency tools that show users when its ranking systems have affected their accounts or posts.",
+          "feed_position": 5
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/260813/i37.jpg",
+      "popularity_score": 2017.0429544444444
+    },
+    {
+      "id": "cluster_0",
+      "coverage": 1,
+      "updated_at": "Thu, 13 Aug 2026 19:38:58 +0000",
+      "title": "White House recruits security firms to hack overseas cybercriminals",
+      "neutral_headline": "White House recruits security firms to hack overseas cybercriminals",
+      "bullet_summary": [
+        "Reported by Ars Technica Main"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica Main",
+          "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
+          "published_at": "Thu, 13 Aug 2026 19:38:58 +0000",
+          "title": "White House recruits security firms to hack overseas cybercriminals",
+          "standfirst": "Trump memo is first time gov't has authorized private sector to perform cyber attacks.",
+          "content": "The Trump administration is recruiting private security firms to conduct federal government-authorized operations, including cyber attacks, against overseas-based criminal organizations that commit hacks on US persons, organizations, or government entities. In a National Security Presidential Memorandum issued Thursday, US President Donald Trump directed the National Coordination Center (NCC), which operates under the Homeland Security Task Force, to develop a program for conducting specific cyber operations that combat foreign transnational criminal organizations (TCOs). The Departments of Justice and Homeland Security will provide oversight. The lynchpin of that program is bringing in private sector companies to participate. Devil will be in the still-undefined details A fact sheet that accompanied Thursday’s memo listed ransomware, sextortion schemes, phishing campaigns, financial fraud, and impersonation scams as activities eligible for private-sector security firms to target. The memo said such firms could “conduct Cyber Surveillance Operations and Cyber Effects Operations” against “cyber-enabled” TCOs. Such groups are defined as “any foreign group that conducts cyber-enabled crime against the United States Government, a United States person, or United States interests, and that is not an institutional part of a foreign government or wholly operated under a foreign government’s direction.”Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/security-illustration-skull-1152x648-1783710141.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/security-illustration-skull-1152x648-1783710141.jpg",
+      "popularity_score": 362.77545444444445
+    },
+    {
+      "id": "cluster_6",
+      "coverage": 1,
+      "updated_at": "Thu, 13 Aug 2026 19:12:15 +0000",
+      "title": "Virgin Galactic wants your help naming its new Delta class spaceship",
+      "neutral_headline": "Virgin Galactic wants your help naming its new Delta class spaceship",
+      "bullet_summary": [
+        "Reported by Ars Technica Main"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica Main",
+          "url": "https://arstechnica.com/space/2026/08/virgin-galactic-wants-your-help-naming-its-new-delta-class-spaceship/",
+          "published_at": "Thu, 13 Aug 2026 19:12:15 +0000",
+          "title": "Virgin Galactic wants your help naming its new Delta class spaceship",
+          "standfirst": "Will it be the VSS... Horizon, Explorer, Ascend or Apeiron?",
+          "content": "As Virgin Galactic nears christening the first of its next-generation spaceship designed to launch customers on suborbital flights, it still is missing a key component—a name. The self-described \"commercial spaceline,\" which was founded by British tycoon Richard Branson, has turned to the public to vote on what to call the new vehicle. The spaceplane will be a member of Virgin Galactic's Delta-class fleet, succeeding SpaceShipTwo, which carried Branson and 31 others on 12 short hops above the US-defined boundary between Earth and space. \"You can vote for one of four finalist names for a spaceship that will join Virgin Galactic's growing fleet and the next chapter in our journey to expand access to space,\" the company announced on its website on Tuesday (Aug. 11). \"Name a Virgin Galactic spaceship, shape a piece of spaceflight history.\"Read full article Comments",
+          "feed_position": 1,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/news-081226a-lg-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/news-081226a-lg-1152x648.jpg",
+      "popularity_score": 350.33017666666666
+    },
+    {
+      "id": "cluster_57",
+      "coverage": 1,
+      "updated_at": "Thu, 13 Aug 2026 14:00:57 +0000",
+      "title": "Rivian's 2027 changes include its No. 1 most-requested feature",
+      "neutral_headline": "Rivian's 2027 changes include its No. 1 most-requested feature",
+      "bullet_summary": [
+        "Reported by Ars Technica"
       ],
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
-          "published_at": "Wed, 12 Aug 2026 21:00:30 +0000",
-          "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
-          "standfirst": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\"",
-          "content": "Twitch now lets users opt out of Amazon's use of content from their channels to train Amazon's \"generative AI content models.\" The change, announced today, comes more than two years after a company executive confirmed that Amazon was using Twitch content for AI training. In an updated support page, Twitch confirms that users must opt out if they don’t want their “streams, VODs, clips, stream chats, and pictures and text on your channel [to] be used in future training of a model developed by Amazon whose purpose is to generate or synthesize text, audio, images, or video.” To opt out, users must go to the proper settings at www.twitch.tv/settings/security.Read full article Comments",
+          "url": "https://arstechnica.com/cars/2026/08/rivian-tweaks-its-r1-range-for-model-year-2027/",
+          "published_at": "Thu, 13 Aug 2026 14:00:57 +0000",
+          "title": "Rivian's 2027 changes include its No. 1 most-requested feature",
+          "standfirst": "Pricing hasn't changed, and now you can get captain's chairs for the R1S.",
+          "content": "It's time for Rivian's changeover from model year 2026 to 2027, and the electric vehicle startup has decided to take a page from its recently released R2 SUV and apply it to the company's larger, more expensive R1 line. The changes aren't massive—the R1 got a refresh back in 2024 that saw the R1S SUV and R1T pickup each get some comprehensive re-engineering with new powertrain options, a new electronic architecture, and new batteries. But among them is the No. 1 most-requested feature by Rivian R1S customers, the automaker told Ars: captain's chairs for the second row. The six-seat interior is an alternative to a middle bench, and the Rivian captain's chair looks thoughtfully designed, with a hidden cupholder that I'm not sure I've seen on any other SUV before. The chairs are also spaced so it's easy to get to the third row, or use that volume between them for skis or snowboards or surfboards. Rivian has also changed the trims, bringing them into line with the offer structure on the recently released R2. Instead of choosing from Dual, Tri, or R1s, Rivian is now calling them Premium and Performance; Quad stays Quad. But the base price for each stays the same: The R1T still starts at $79,990 and the R1S at $83,990.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/260701_BRANDON-DELA-CRUZ_MY27-ESKER-R1_1441_final-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/260701_BRANDON-DELA-CRUZ_MY27-ESKER-R1_1441_final-1152x648.jpg",
+      "popularity_score": 347.1418433333333
+    },
+    {
+      "id": "cluster_10",
+      "coverage": 1,
+      "updated_at": "Thu, 13 Aug 2026 18:31:56 +0000",
+      "title": "Ukrainian drones wipe out entire US tank brigade in live war game",
+      "neutral_headline": "Ukrainian drones wipe out entire US tank brigade in live war game",
+      "bullet_summary": [
+        "Reported by Ars Technica Main"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica Main",
+          "url": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-wipe-out-entire-us-tank-brigade-in-live-war-game/",
+          "published_at": "Thu, 13 Aug 2026 18:31:56 +0000",
+          "title": "Ukrainian drones wipe out entire US tank brigade in live war game",
+          "standfirst": "Ukrainian drone pilots teach the US military and NATO hard battlefield lessons.",
+          "content": "Ukrainian drone teams demolished a brigade of US Army tanks and armored vehicles during a live war game held this year—but the US soldiers were lucky enough to get “respawn” attempts while learning from the experience. The semiannual military exercise, called Combined Resolve, gave the US military a firsthand taste of how modern drone warfare has evolved on the battlefields of Ukraine. The Ukrainian drone operators participating in the exercise were easily able to spot and destroy US armored vehicles by mimicking the actions of dropping bombs from above or moving close enough to simulate a kamikaze strike, according to US officials and a participant who spoke with The Wall Street Journal. US armored vehicles were being destroyed so quickly that they were “respawned” and sent back into the simulated fray, a US official told The Wall Street Journal. The US troops who participated in the exercise—held in Germany from April 9 to May 10—were on rotational deployment from Fort Hood, Texas.Read full article Comments",
+          "feed_position": 2,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/US-Army-Tank-in-Exercise-Combined-Resolve-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/US-Army-Tank-in-Exercise-Combined-Resolve-1152x648.jpg",
+      "popularity_score": 346.65823222222224
+    },
+    {
+      "id": "cluster_59",
+      "coverage": 1,
+      "updated_at": "Thu, 13 Aug 2026 13:58:56 +0000",
+      "title": "Anthropic could be worth $2 trillion when it goes public",
+      "neutral_headline": "Anthropic could be worth $2 trillion when it goes public",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
+          "published_at": "Thu, 13 Aug 2026 13:58:56 +0000",
+          "title": "Anthropic could be worth $2 trillion when it goes public",
+          "standfirst": "Rapid revenue growth fuels hope Claude maker's IPO is the biggest listing in history",
+          "content": "Anthropic investors expect the AI startup to float at a valuation of $2 trillion or more in October, a dizzying figure that would eclipse SpaceX and make the AI lab’s debut the largest-ever initial public offering. Half a dozen of the company’s backers told the FT that Anthropic’s rapidly rising revenue would enable it to more than double its current valuation in a planned autumn float. A listing at that level could unlock billions of dollars in gains for the five-year-old company’s early investors but would also test public markets that are growing more nervous about the AI boom.Read full article Comments",
+          "feed_position": 1,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg",
+      "popularity_score": 337.1082322222222
+    },
+    {
+      "id": "cluster_15",
+      "coverage": 1,
+      "updated_at": "Thu, 13 Aug 2026 18:10:14 +0000",
+      "title": "Flock “can’t tech its way out” of the stalker cop problem, experts say",
+      "neutral_headline": "Flock “can’t tech its way out” of the stalker cop problem, experts say",
+      "bullet_summary": [
+        "Reported by Ars Technica Main"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica Main",
+          "url": "https://arstechnica.com/tech-policy/2026/08/flock-cant-tech-its-way-out-of-the-stalker-cop-problem-experts-say/",
+          "published_at": "Thu, 13 Aug 2026 18:10:14 +0000",
+          "title": "Flock “can’t tech its way out” of the stalker cop problem, experts say",
+          "standfirst": "Flock to lock out cops who stalk exes, but agencies can still hide abuse.",
+          "content": "On Thursday, Flock announced plans to require all agencies with access to license plate reader data to use a safety tool that automatically detects abnormal activity and locks out cops who abuse their access to stalk people they know in their personal lives. Flock’s audit assistance tool suspends access when user activity “meets defined criteria for abnormal behavior,” Flock said. The suspension can only be lifted by administrator review, with the goal being “to intervene before misuse becomes recurring or widespread.” The tech has been available as an optional free feature since April, but only a third of agencies had opted in, Flock said. However, after a single Georgia sheriff’s office used the tool and subsequently arrested three cops who were separately using Flock cameras to stalk acquaintances, Flock CEO Garrett Langley told The Verge that dozens of incidents like these helped his company realize they made a mistake and had to act to correct it.Read full article Comments",
+          "feed_position": 3,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2288946074-1024x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2288946074-1024x648.jpg",
+      "popularity_score": 321.29656555555556
+    },
+    {
+      "id": "cluster_20",
+      "coverage": 1,
+      "updated_at": "Thu, 13 Aug 2026 17:32:10 +0000",
+      "title": "The new Instagram logo is the perfect embodiment of AI slop",
+      "neutral_headline": "The new Instagram logo is the perfect embodiment of AI slop",
+      "bullet_summary": [
+        "Reported by Ars Technica Main"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica Main",
+          "url": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
+          "published_at": "Thu, 13 Aug 2026 17:32:10 +0000",
+          "title": "The new Instagram logo is the perfect embodiment of AI slop",
+          "standfirst": "Opinion: Some remarks about the new wordmark accidentally being perfectly awful.",
+          "content": "Today, Instagram unveiled a refresh of its wordmark, accompanied by the usual bland corporate platitudes these kinds of announcements are always packaged with. Head of Instagram Adam Mosseri called it “leaner and more modern, with references to the original and the simplicity and craft that’s always made it Instagram.” Sure, Adam. Simplicity and craft are definitely what everyone thinks of when Instagram comes to mind.Read full article Comments",
+          "feed_position": 5,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/instagram-2026-wordmark.png"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/instagram-2026-wordmark.png",
+      "popularity_score": 315.6621211111111
+    },
+    {
+      "id": "cluster_73",
+      "coverage": 1,
+      "updated_at": "Thu, 13 Aug 2026 11:10:18 +0000",
+      "title": "Claude's new Scarlet Letter watermark is invisible—for now",
+      "neutral_headline": "Claude's new Scarlet Letter watermark is invisible—for now",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
+          "published_at": "Thu, 13 Aug 2026 11:10:18 +0000",
+          "title": "Claude's new Scarlet Letter watermark is invisible—for now",
+          "standfirst": "The mark flags anything Claude processed, even human writing it only edited.",
+          "content": "Anthropic has revealed that it will soon watermark content that is processed (not just generated!) by any of its models. In a support article, Anthropic explained that it was rolling out machine-readable watermarks to comply with the European Union’s AI Act, which requires all AI system providers to watermark AI-generated or manipulated audio, image, text, and video outputs. The law applies to any AI model released after August 2 and provides a grace period until December 2026 for providers to update previously released models. Anthropic confirmed that moving forward, all new models offered globally—not just in the EU—will mark AI-generated content “from day one.” Text outputs will “carry embedded watermarks,” invisible to the user, and other “generated files will include digitally signed provenance metadata where supported,” Anthropic said. Notably, Anthropic is deploying a \"nuke it from orbit\" approach, applying the watermarks to all processed content where supported, even though the EU does not require it for cases where an AI system performs \"an assistive function for standard editing\" (the guidance's own example is grammar correction), or where it doesn't \"substantially alter\" the user's text or its meaning.Read full article Comments",
+          "feed_position": 3,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/claude-psycho-watermark-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/claude-psycho-watermark-1152x648.jpg",
+      "popularity_score": 314.2976766666667
+    },
+    {
+      "id": "cluster_18",
+      "coverage": 1,
+      "updated_at": "Thu, 13 Aug 2026 17:53:53 +0000",
+      "title": "Pet owners say smart pet feeder outage led to furry ones going unfed",
+      "neutral_headline": "Pet owners say smart pet feeder outage led to furry ones going unfed",
+      "bullet_summary": [
+        "Reported by Ars Technica Main"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica Main",
+          "url": "https://arstechnica.com/gadgets/2026/08/pet-owners-say-smart-pet-feeder-outage-led-to-furry-ones-going-unfed/",
+          "published_at": "Thu, 13 Aug 2026 17:53:53 +0000",
+          "title": "Pet owners say smart pet feeder outage led to furry ones going unfed",
+          "standfirst": "\"I've lost trust ...\"",
+          "content": "Smart pet-feeder company Petlibro suffered an outage on Tuesday, giving users a harsh reminder of the risks of relying on smart devices. Petlibro makes pet feeders that connect to Wi-Fi and, for setup with Petlibro’s mobile companion app, Bluetooth. Users can set the feeders to automatically dispense food at scheduled times, which is handy for pet care when the owner is out of the home. In a statement to The Verge, Petlibro CEO York Wu said this week’s outage was “related to how the Petlibro app communicates with devices through its online servers.”Read full article Comments",
           "feed_position": 4,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2286491305-1024x648.jpg"
-        },
-        {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-          "published_at": "Wed, 12 Aug 2026 20:10:40 +0000",
-          "title": "Amazon will train on Twitch streamers&#8217; content by default, unless they opt out",
-          "standfirst": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
-          "content": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
-          "feed_position": 3
-        },
-        {
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2235647/twitch-streamers-can-now-refuse-to-let-amazon-train-its-gen-ai-models-on-their-content/",
-          "published_at": "Wed, 12 Aug 2026 17:46:29 +0000",
-          "title": "Twitch streamers can now refuse to let Amazon train its genAI models on their content",
-          "standfirst": "There's now an opt-out toggle for something that should have been opt-in to begin with.",
-          "content": "There's now an opt-out toggle for something that should have been opt-in to begin with.",
-          "feed_position": 12,
-          "image_url": "https://www.engadget.com/img/gallery/twitch-streamers-can-now-refuse-to-let-amazon-train-its-genai-models-on-their-content/l-intro-1786556726.jpg"
-        },
-        {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-          "published_at": "2026-08-12T13:29:10-04:00",
-          "title": "Twitch streamers can now opt out from training Amazon’s AI",
-          "standfirst": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose purpose is to generate or synthesize text, [&#8230;]",
-          "content": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose purpose is to generate or synthesize text, audio, images, or video,\" according to a Twitch support page. Other \"AI-supported\" features like captions and safety tools will still function if you opt-out of generative AI training. However, if you participate in a chat on another person's stream, \"their opt-out preferences govern if that chat can be used for training,\" Twitch … Read the full story at The Verge.",
-          "feed_position": 6
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/PDP-AF105-Carousel-07-1152x648.webp"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2286491305-1024x648.jpg",
-      "popularity_score": 4005.3280272222223
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/PDP-AF105-Carousel-07-1152x648.webp",
+      "popularity_score": 311.0240655555556
     },
     {
-      "id": "cluster_74",
-      "coverage": 3,
-      "updated_at": "Wed, 12 Aug 2026 17:34:05 GMT",
-      "title": "Every Amazon Google Pixel 11 preorder deal - get up to $350 on an Amazon gift card, free",
-      "neutral_headline": "How to preorder every new Google Pixel device - and the best deals I found",
+      "id": "cluster_26",
+      "coverage": 1,
+      "updated_at": "Thu, 13 Aug 2026 17:00:13 +0000",
+      "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+      "neutral_headline": "Google announces Gemini 3.7 Flash just three weeks after previous release",
       "bullet_summary": [
-        "Google's new flagship Pixel series was just announced, and T-Mobile has plenty of preorder offers to choose from",
-        "We've got the scoop on where you can preorder the latest Google devices announced at Made by Google, including the Pixel 11 lineup and the Pixel Watch 5",
-        "Google just announced the new Pixel 11 line, and right now at AT&T, you can get one for free when you trade in any older phone"
+        "Reported by Ars Technica Main"
       ],
       "items": [
         {
-          "source": "ZDNet",
-          "url": "https://www.zdnet.com/article/google-pixel-11-amazon-deals/",
-          "published_at": "Wed, 12 Aug 2026 17:34:05 GMT",
-          "title": "Every Amazon Google Pixel 11 preorder deal - get up to $350 on an Amazon gift card, free",
-          "standfirst": "Google's latest lineup of Pixel 11 phones is here, and Amazon has a free gift card offer on every single one.",
-          "content": "Google's latest lineup of Pixel 11 phones is here, and Amazon has a free gift card offer on every single one.",
-          "feed_position": 4
-        },
-        {
-          "source": "ZDNet",
-          "url": "https://www.zdnet.com/article/t-mobile-google-pixel-deals/",
-          "published_at": "Wed, 12 Aug 2026 15:29:00 GMT",
-          "title": "Every Pixel 11 deal at T-Mobile right now: Trade-in offers, free phones with new line, and more",
-          "standfirst": "Google's new flagship Pixel series was just announced, and T-Mobile has plenty of preorder offers to choose from.",
-          "content": "Google's new flagship Pixel series was just announced, and T-Mobile has plenty of preorder offers to choose from.",
-          "feed_position": 7
-        },
-        {
-          "source": "ZDNet",
-          "url": "https://www.zdnet.com/article/how-to-preorder-everything-announced-at-made-by-google-2026/",
-          "published_at": "Wed, 12 Aug 2026 15:23:00 GMT",
-          "title": "How to preorder every new Google Pixel device - and the best deals I found",
-          "standfirst": "We've got the scoop on where you can preorder the latest Google devices announced at Made by Google, including the Pixel 11 lineup and the Pixel Watch 5.",
-          "content": "We've got the scoop on where you can preorder the latest Google devices announced at Made by Google, including the Pixel 11 lineup and the Pixel Watch 5.",
-          "feed_position": 8
-        },
-        {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
-          "published_at": "Wed, 12 Aug 2026 14:20:33 +0000",
-          "title": "Everything announced at Made by Google &#8217;26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-          "standfirst": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
-          "content": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
-          "feed_position": 18
-        },
-        {
-          "source": "ZDNet",
-          "url": "https://www.zdnet.com/article/google-pixel-11-pro-at-t-deal/",
-          "published_at": "Wed, 12 Aug 2026 14:01:00 GMT",
-          "title": "AT&T will give you the new Google Pixel 11 Pro for free with trade-in - any year, any condition",
-          "standfirst": "Google just announced the new Pixel 11 line, and right now at AT&T, you can get one for free when you trade in any older phone.",
-          "content": "Google just announced the new Pixel 11 line, and right now at AT&T, you can get one for free when you trade in any older phone.",
-          "feed_position": 12
-        },
-        {
-          "source": "ZDNet",
-          "url": "https://www.zdnet.com/article/everything-announced-at-made-by-google-2026-pixel-11-pro-fold-pixel-watch-5/",
-          "published_at": "Wed, 12 Aug 2026 14:00:00 GMT",
-          "title": "Every Pixel device announced at Made by Google 2026: 11 Pro Fold, Pixel Watch 5, and more",
-          "standfirst": "Google's latest Pixel lineup is a little pricier, has a new LED lighting feature, and debuts alongside a new finder tag.",
-          "content": "Google's latest Pixel lineup is a little pricier, has a new LED lighting feature, and debuts alongside a new finder tag.",
-          "feed_position": 19
-        },
-        {
-          "source": "Wired Tech",
-          "url": "https://www.wired.com/story/new-camera-tricks-on-google-latest-pixel-11-smartphones/",
-          "published_at": "Wed, 12 Aug 2026 14:00:00 +0000",
-          "title": "4 New Camera Tricks on Google’s Latest Pixel 11 Smartphones",
-          "standfirst": "From Magic Capture and Instant Night Sight to a built-in teleprompter, here’s a look at a few camera features on Google’s new Pixel 11 series.",
-          "content": "From Magic Capture and Instant Night Sight to a built-in teleprompter, here’s a look at a few camera features on Google’s new Pixel 11 series.",
-          "feed_position": 24,
-          "image_url": "https://media.wired.com/photos/6a7b42c0e3ffed826d9fc63e/master/pass/Google%20Pixel%2011%20in%20Hibiscus%20SOURCE%20Julian%20Chokkattu.jpg"
-        },
-        {
-          "source": "Wired Tech",
-          "url": "https://www.wired.com/story/pixel-11-pixel-watch-5-pixel-tag-everything-google-announced-at-its-made-by-google-2026-event/",
-          "published_at": "Wed, 12 Aug 2026 14:00:00 +0000",
-          "title": "Google Pixel 11 Series, Pixel Watch 5, Pixel Tag: Specs, Features, Price, Release Date",
-          "standfirst": "The Pixel 11 smartphone lineup is here, alongside the Pixel Watch 5 and the all-new Pixel Tag.",
-          "content": "The Pixel 11 smartphone lineup is here, alongside the Pixel Watch 5 and the all-new Pixel Tag.",
-          "feed_position": 25,
-          "image_url": "https://media.wired.com/photos/6a7b4d94497594c1a2fa47c9/master/pass/Top%20Art%20of%20Pixel%2011%20Family%20SOURCE%20Julian%20Chokkattu.jpg"
+          "source": "Ars Technica Main",
+          "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+          "published_at": "Thu, 13 Aug 2026 17:00:13 +0000",
+          "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+          "standfirst": "Gemini 3.6 Flash debuted just 3 weeks ago, but Google says 3.7 has \"substantial improvements.\"",
+          "content": "Google is announcing a new Gemini model today, but it's not the long-awaited 3.5 Pro. Gemini 3.7 Flash is now rolling out to replace 3.6 Flash, which itself was released only three weeks ago. This new \"workhorse\" model is supposedly the product of core optimizations and developer feedback, offering improved coding and agentic performance. And Google is hoping to counter the lower cost of some competing models with a lower \"introductory price\" for 3.7 Flash. According to Senior Director Tulsee Doshi, Gemini 3.7 Flash is noticeably better at coding than the previous Flash release. She cites a jump in the FrontierCode 1.1 Main test from 34.4 to 43.6 percent and DeepSWE v1.1 going from 49 to 65.3 percent. As for the vibes, Gemini 3.7 Flash's WebDev Arena score has risen to 1,588 from 1,538. People turning to Gemini and hoping it will \"know\" things may also see modest improvements in Gemini 3.7 Flash. The GDP.pdf benchmark, which measures how well a model can process complex documents, has gone up to 34 percent versus 22 percent with 3.6 Flash. AutomationBench tests how well models can execute common business workflows, and Gemini 3.7 Flash rose to 30.4 percent from 3.6's 17 percent score.Read full article Comments",
+          "feed_position": 6,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-4-1152x648.jpg"
         }
       ],
-      "featured_image": "https://media.wired.com/photos/6a7b42c0e3ffed826d9fc63e/master/pass/Google%20Pixel%2011%20in%20Hibiscus%20SOURCE%20Julian%20Chokkattu.jpg",
-      "popularity_score": 3001.8877494444446
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-4-1152x648.jpg",
+      "popularity_score": 308.12962111111113
     },
     {
-      "id": "cluster_103",
-      "coverage": 2,
-      "updated_at": "Wed, 12 Aug 2026 14:07:59 +0000",
-      "title": "Google’s Pixel Watch 5 Can Now Detect Breathing Emergencies",
-      "neutral_headline": "Google’s Pixel Watch 5 Can Now Detect Breathing Emergencies",
-      "bullet_summary": [
-        "Reported by Wired Tech, Engadget"
-      ],
-      "items": [
-        {
-          "source": "Wired Tech",
-          "url": "https://www.wired.com/story/googles-pixel-watch-5-can-now-detect-breathing-emergencies/",
-          "published_at": "Wed, 12 Aug 2026 14:07:59 +0000",
-          "title": "Google’s Pixel Watch 5 Can Now Detect Breathing Emergencies",
-          "standfirst": "The company is also adding blood pressure and insulin resistance trends as proactive monitoring tools in the Google Health app.",
-          "content": "The company is also adding blood pressure and insulin resistance trends as proactive monitoring tools in the Google Health app.",
-          "feed_position": 23,
-          "image_url": "https://media.wired.com/photos/6a7b478be7d5fc6f31658ba9/master/pass/DSC_9248.jpg"
-        },
-        {
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2235228/google-health-guardian-pixel-watch-5-blood-pressure-insulin-resistance/",
-          "published_at": "Wed, 12 Aug 2026 14:04:14 +0000",
-          "title": "Google's newest Pixel Watch feature can monitor your blood pressure and insulin resistance",
-          "standfirst": "Google says its new tools can act as an early warning system for diabetes.",
-          "content": "Google says its new tools can act as an early warning system for diabetes.",
-          "feed_position": 18,
-          "image_url": "https://www.engadget.com/img/gallery/googles-newest-pixel-watch-feature-can-monitor-your-blood-pressure-and-insulin-resistance/l-intro-1786533440.jpg"
-        }
-      ],
-      "featured_image": "https://media.wired.com/photos/6a7b478be7d5fc6f31658ba9/master/pass/DSC_9248.jpg",
-      "popularity_score": 2000
-    },
-    {
-      "id": "cluster_41",
+      "id": "cluster_98",
       "coverage": 1,
       "updated_at": "Wed, 12 Aug 2026 22:31:19 +0000",
       "title": "Toddler's tragic death from brain-destroying amoeba offers lessons for doctors",
@@ -195,39 +357,15 @@
           "title": "Toddler's tragic death from brain-destroying amoeba offers lessons for doctors",
           "standfirst": "Boy's unusual symptoms could help identify the next case sooner.",
           "content": "A healthy toddler in Washington state fell ill abruptly. It began with vomiting, lethargy, and weakness on his right side. Then it progressed to a headache, fever, and trouble swallowing. At one point, he briefly became unresponsive, and he had episodes where he stopped breathing. Doctors admitted him to the hospital, but his condition only deteriorated. The boy was infected with an ultra-rare amoeba known for ravaging the brain. The opportunistic pathogen was first identified in 1986 from the brain of a San Diego Zoo monkey, which died from the infection. Since then, only about 200 human cases have been recorded worldwide. About 90 percent of them have been fatal. The initial symptoms can be vague and, given its rarity, the infection is notorious for being undiagnosed or misdiagnosed. Still, the scant medical literature does provide some telltale signs, clues of what it can look like on tests and scans. But for the toddler, the infection looked different, sending doctors down the wrong path.Read full article Comments",
-          "feed_position": 0,
+          "feed_position": 4,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2163387581-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2163387581-1152x648.jpg",
-      "popularity_score": 354.8416383333333
+      "popularity_score": 308
     },
     {
-      "id": "cluster_4",
-      "coverage": 1,
-      "updated_at": "Thu, 13 Aug 2026 11:10:18 +0000",
-      "title": "Claude&#039;s new Scarlet Letter watermark is invisible — for now",
-      "neutral_headline": "Claude&#039;s new Scarlet Letter watermark is invisible — for now",
-      "bullet_summary": [
-        "Reported by Ars Technica Main"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica Main",
-          "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
-          "published_at": "Thu, 13 Aug 2026 11:10:18 +0000",
-          "title": "Claude&#039;s new Scarlet Letter watermark is invisible — for now",
-          "standfirst": "The mark flags anything Claude processed, even human writing it only edited.",
-          "content": "Anthropic has revealed that it will soon watermark content that is processed (not just generated!) by any of its models. In a support article, Anthropic explained that it was rolling out machine-readable watermarks to comply with the European Union’s AI Act, which requires all AI system providers to watermark AI-generated or manipulated audio, image, text, and video outputs. The law applies to any AI model released after August 2 and provides a grace period until December 2026 for providers to update previously released models. Anthropic confirmed that moving forward, all new models offered globally—not just in the EU—will mark AI-generated content “from day one.” Text outputs will “carry embedded watermarks,” invisible to the user, and other “generated files will include digitally signed provenance metadata where supported,” Anthropic said. Notably, Anthropic is deploying a \"nuke it from orbit\" approach, applying the watermarks to all processed content where supported, even though the EU does not require it for cases where an AI system performs \"an assistive function for standard editing\" (the guidance's own example is grammar correction), or where it doesn't \"substantially alter\" the user's text or its meaning. A watermark applied at the model level can't tell wholesale generation from a comma fix, so Claude may end up stamping exactly the content the law was written to leave alone. How thoroughly it truly watermarks will not be known until Anthropic releases a detection tool that can be tested. The company said that it plans to eventually share details on how to detect marks in order to offer technical support that the EU’s law requires.Read full article Comments",
-          "feed_position": 0,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/claude-psycho-watermark-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/claude-psycho-watermark-1152x648.jpg",
-      "popularity_score": 352.49136055555556
-    },
-    {
-      "id": "cluster_46",
+      "id": "cluster_103",
       "coverage": 1,
       "updated_at": "Wed, 12 Aug 2026 22:02:25 +0000",
       "title": "The web’s newest weapon against AI scrapers is a font",
@@ -242,16 +380,16 @@
           "published_at": "Wed, 12 Aug 2026 22:02:25 +0000",
           "title": "The web’s newest weapon against AI scrapers is a font",
           "standfirst": "“ShieldFont” aims to poison AI training data without making pages unreadable for people.",
-          "content": "AI companies' penchant for scraping through large swathes of the public web in search of valuable training data has already led to lawsuits and technical fixes aimed at stopping the practice. Now, a pair of designers are hoping to stymie these scrapers with a new font designed to offer people a perfectly readable webpage while serving scrapers a subtly edited, nonsensical version in the underlying HTML. ShieldFont, as designers Isaque Seneda and Gabriel Abrucio write in a recent white paper, was made to offer web publishers \"a practical opt-out from unauthorized AI training and [to] disrupt what is collected when that choice is ignored.\" When is a horse a potato? The font is based around ligatures, a long-standing feature of many fonts that is usually used to replace certain letter pairs with a more readable version when they're smushed up next to each other. With ShieldFont, though, those ligatures are instead used to replace entire words with others in an attempt to destroy the text's value to scrapers. This substitution only happens when the font engine draws the page on screen, meaning scrapers that simply download plaintext source code get an altered version that end users never see.Read full article Comments",
-          "feed_position": 1,
+          "content": "AI companies' penchant for scraping through large swaths of the public web in search of valuable training data has already led to lawsuits and technical fixes aimed at stopping the practice. Now, a pair of designers is hoping to stymie these scrapers with a new font designed to offer people a perfectly readable webpage while serving scrapers a subtly edited, nonsensical version in the underlying HTML. ShieldFont, as designers Isaque Seneda and Gabriel Abrucio write in a recent white paper, was made to offer web publishers \"a practical opt-out from unauthorized AI training and [to] disrupt what is collected when that choice is ignored.\" When is a horse a potato? The font is based around ligatures, a long-standing feature of many fonts that is usually used to replace certain letter pairs with a more readable version when they're smushed up next to each other. With ShieldFont, though, those ligatures are instead used to replace entire words with others in an attempt to destroy the text's value to scrapers. This substitution only happens when the font engine draws the page onscreen, meaning scrapers that simply download plaintext source code get an altered version that end users never see.Read full article Comments",
+          "feed_position": 5,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2261896328-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2261896328-1152x648.jpg",
-      "popularity_score": 344.35997166666664
+      "popularity_score": 298
     },
     {
-      "id": "cluster_47",
+      "id": "cluster_104",
       "coverage": 1,
       "updated_at": "Wed, 12 Aug 2026 21:43:21 +0000",
       "title": "Terabytes of credentials leaked in massive supply-chain attack",
@@ -267,15 +405,15 @@
           "title": "Terabytes of credentials leaked in massive supply-chain attack",
           "standfirst": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
           "content": "Terabytes worth of credentials, many belonging to the world’s biggest and most sensitive organizations, have been exposed in a supply-chain attack on LiteLLM, an open source tool that streamlines AI-driven software development. Microsoft, Amazon, Cisco, Samsung, and Salesforce are only a handful of the entities whose access secrets were exposed. The revelation was posted on Tuesday and Wednesday by security firms CloudSEK and Hudson Rock. CloudSEK said it found cloud keys, repository tokens, SSH keys, Kubernetes secrets, package publishing credentials, environment variables, and AI provider keys that could allow attackers to gain access to more than 2,500 organizations. 40 minutes is all it takes The credentials were extracted during a 40-minute window in March while the victims used compromised versions of LiteLLM downloaded from the package’s official location in the Python Package Index repository. Hudson Rock said it made the discovery after analyzing a 195TB file that it obtained. Neither firm identified the source of the information.Read full article Comments",
-          "feed_position": 2,
+          "feed_position": 6,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/data-breach.jpeg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/data-breach.jpeg",
-      "popularity_score": 334.0421938888889
+      "popularity_score": 288
     },
     {
-      "id": "cluster_50",
+      "id": "cluster_105",
       "coverage": 1,
       "updated_at": "Wed, 12 Aug 2026 21:13:39 +0000",
       "title": "Have physicists finally discovered glueballs? New evidence points to yes.",
@@ -291,15 +429,63 @@
           "title": "Have physicists finally discovered glueballs? New evidence points to yes.",
           "standfirst": "“It’s the strongest evidence yet that particles dominated by a glueball component can exist in nature.”",
           "content": "Physicists with the Beijing Spectrometer III (BES III) experiment have uncovered convincing new evidence of the existence of so-called glueballs, an elusive composite particle made entirely of gluons predicted by quantum theory. The results appeared in a preprint posted to arXiv last month and were also presented last week at the International Conference on High Energy Physics (ICHEP). All the stuff we see around us is made up of quarks held together by gluons (carriers of the nuclear strong force) to form protons and neutrons, which comprise the core of every single atom. The Higgs boson, discovered in 2012 after decades of searching, was widely touted as the final missing piece of the Standard Model of Particle Physics. But there are still plenty of unanswered questions, including whether or not glueballs really exist. They should, if the Standard Model is correct; they're a direct prediction of quantum chromodynamics, i.e., the theory of the strong nuclear force. There should even be several kinds of glueballs. As Matthew Francis wrote for Ars in 2015:Read full article Comments",
-          "feed_position": 3,
+          "feed_position": 7,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/glueball1-1152x648-1786561096.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/glueball1-1152x648-1786561096.jpg",
-      "popularity_score": 314.5471938888889
+      "popularity_score": 269
     },
     {
-      "id": "cluster_56",
+      "id": "cluster_106",
+      "coverage": 1,
+      "updated_at": "Wed, 12 Aug 2026 21:00:30 +0000",
+      "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
+      "neutral_headline": "Twitch content has trained Amazon AI for years, but users can opt out now",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
+          "published_at": "Wed, 12 Aug 2026 21:00:30 +0000",
+          "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
+          "standfirst": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\"",
+          "content": "Twitch now lets users opt out of Amazon's use of content from their channels to train Amazon's \"generative AI content models.\" The change, announced today, comes more than two years after a company executive confirmed that Amazon was using Twitch content for AI training. In an updated support page, Twitch confirms that users must opt out if they don’t want their “streams, VODs, clips, stream chats, and pictures and text on your channel [to] be used in future training of a model developed by Amazon whose purpose is to generate or synthesize text, audio, images, or video.” To opt out, users must go to the proper settings at www.twitch.tv/settings/security.Read full article Comments",
+          "feed_position": 8,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2286491305-1024x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2286491305-1024x648.jpg",
+      "popularity_score": 268
+    },
+    {
+      "id": "cluster_60",
+      "coverage": 1,
+      "updated_at": "Thu, 13 Aug 2026 13:48:55 +0000",
+      "title": "We&#039;ve flown a radiation-blocking vest to the Moon and back, and it worked",
+      "neutral_headline": "We&#039;ve flown a radiation-blocking vest to the Moon and back, and it worked",
+      "bullet_summary": [
+        "Reported by Ars Technica Main"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica Main",
+          "url": "https://arstechnica.com/science/2026/08/weve-flown-a-radiation-blocking-vest-to-the-moon-and-back-and-it-worked/",
+          "published_at": "Thu, 13 Aug 2026 13:48:55 +0000",
+          "title": "We&#039;ve flown a radiation-blocking vest to the Moon and back, and it worked",
+          "standfirst": "Let's shield the astronauts instead of the spacecraft.",
+          "content": "Solar storms, like the one in August 1972 that hit during the gap between the Apollo 16 and Apollo 17 missions, throw bursts of protons intense enough to raise an astronaut's cancer risk or even cause radiation sickness. Earth's atmosphere and magnetic field absorb this radiation, but crews heading to the Moon or Mars won't have that protection, and no spacecraft built so far has enough shielding to stop it. A team led by Jordan Houri and Oren Milstein of StemRad, an Israeli-American startup developing personal protective equipment against radiation, proposed that we could solve this by shielding the astronauts instead of shielding the spacecraft. To test this idea, StemRad’s team flew a wearable radiation-shielding vest called AstroRad to the Moon and back aboard NASA's uncrewed Artemis I mission, then used the flight data to calculate how it would perform during an actual solar storm. It turns out the vest would perform roughly as well as the Orion’s heavily shielded onboard shelter the crew was supposed to hide in to wait out a storm.Read full article Comments",
+          "feed_position": 9,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/spacevest-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/spacevest-1152x648.jpg",
+      "popularity_score": 256.9412877777778
+    },
+    {
+      "id": "cluster_110",
       "coverage": 1,
       "updated_at": "Wed, 12 Aug 2026 20:20:52 +0000",
       "title": "Trump sued over \"brazen\" scheme to sell Truth Social API access for $100K a month",
@@ -315,135 +501,15 @@
           "title": "Trump sued over \"brazen\" scheme to sell Truth Social API access for $100K a month",
           "standfirst": "With Truth API, Trump is \"selling priority access to news he himself generates.\"",
           "content": "President Trump was sued by nonprofit news groups today over Truth Social's \"Truth API\" that sells real-time access to posts from Trump and other top users of the social network. Trump is profiting from selling preferential access to government information, the lawsuit said. Trump's social media company this month started charging customers up to $100,000 per month for the earliest access to posts that can have immediate impacts on financial markets. The first customers are mostly high-frequency trading firms that could benefit financially from getting official government news milliseconds before others. \"This scheme is profoundly corrupt. The President stands to gain financially by giving 'market-moving' government information to those who are willing and able to pay his personal company,\" the lawsuit said.Read full article Comments",
-          "feed_position": 5,
+          "feed_position": 9,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/trump-pointing-1152x648-1786564574.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/trump-pointing-1152x648-1786564574.jpg",
-      "popularity_score": 287.66747166666664
+      "popularity_score": 243
     },
     {
-      "id": "cluster_58",
-      "coverage": 1,
-      "updated_at": "Wed, 12 Aug 2026 19:40:46 +0000",
-      "title": "US boosts drone surveillance as flesh-eating screwworms spread in Texas",
-      "neutral_headline": "US boosts drone surveillance as flesh-eating screwworms spread in Texas",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/08/us-boosts-drone-surveillance-as-flesh-eating-screwworms-spread-in-texas/",
-          "published_at": "Wed, 12 Aug 2026 19:40:46 +0000",
-          "title": "US boosts drone surveillance as flesh-eating screwworms spread in Texas",
-          "standfirst": "Hundreds of Homeland Security drones retasked to survey wildlife and livestock.",
-          "content": "Hundreds of US government drones have switched from border surveillance to a different surveillance mission this summer—looking for signs of screwworm infestations in wild animals and livestock herds. The flesh-eating New World Screwworm is the parasitic larva that emerges from eggs laid by flies in the open wounds or body openings of warm-blooded animals and humans, with untreated cases potentially leading to severe injury or death. Since the first screwworm cases were detected in South Texas in June, the US Department of Agriculture and US Customs and Border Protection have been conducting “one of the most extensive animal-health surveillance operations in the country,” according to the USDA in social media posts on platforms like X and Facebook on August 10. The effort involves at least 200 drones owned by the Department of Homeland Security, which includes the Customs and Border Protection (CBP) agency. The USDA has described performing more than 1,000 drone flights and surveying more than 22,000 animals so far.Read full article Comments",
-          "feed_position": 6,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/CBP-drone-for-screwworm-surveillance-1152x648.jpeg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/CBP-drone-for-screwworm-surveillance-1152x648.jpeg",
-      "popularity_score": 276.99913833333335
-    },
-    {
-      "id": "cluster_77",
-      "coverage": 1,
-      "updated_at": "Wed, 12 Aug 2026 17:01:11 +0000",
-      "title": "Two hydrogen-burning engines powered this car to a new land speed record",
-      "neutral_headline": "Two hydrogen-burning engines powered this car to a new land speed record",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/08/jcb-sets-a-new-406-mph-speed-record-for-hydrogen-powered-cars/",
-          "published_at": "Wed, 12 Aug 2026 17:01:11 +0000",
-          "title": "Two hydrogen-burning engines powered this car to a new land speed record",
-          "standfirst": "JCB has invested heavily in hydrogen to power its diggers and other machinery.",
-          "content": "It's been far too long since I've been able to report a new land speed record. For a while, it looked like Bloodhound might have been able to make good on its 1,000 mph (1,609 km/h) attempt, but then the money ran out. As a result, Thrust SSC's two-way average of 763.6 mph (1,229 km/h), set in 1997, remains the fastest anyone has ever driven a wheeled vehicle over a timed mile. But yesterday, on the Bonneville Salt Flats in Utah, a new record was set by the JCB Hydromax for hydrogen-powered cars. JCB is a UK-based manufacturer of heavy industrial and agricultural equipment—think diggers, loaders, backhoes, tractors, and so on. And as JCB is based in the UK, it doesn't have the luxury of being able to ignore carbon emissions targets; it has to have alternatives to diesel engines. For some products, that means switching to batteries, but the company has also been working with hydrogen. At first, that meant fuel cells, but after developing prototypes, JCB concluded the tech was too expensive and too fragile for life on the farm or the construction site. Instead, in 2020, the company started developing its own hydrogen combustion engine. The idea of burning hydrogen in an internal combustion engine has been tried before with little success. For example, in 2006, BMW modified a naturally aspirated V12 engine in a 7 Series to run on hydrogen, which it did, but with 60 percent of the power and five times the fuel consumption compared to gasoline. More recently, Toyota's president Akio Toyoda has been among the drivers of an experimental hydrogen-burning Toyota Corolla in some Japanese endurance races. In this case, Toyota started with the GR Corolla's turbocharged three-cylinder engine; the forced induction from the turbocharger made up somewhat for the reduced energy density of hydrogen.Read full article Comments",
-          "feed_position": 7,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/06_08_26_JCB_HM_D4_JA_093-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/06_08_26_JCB_HM_D4_JA_093-1152x648.jpg",
-      "popularity_score": 264.3394161111111
-    },
-    {
-      "id": "cluster_94",
-      "coverage": 1,
-      "updated_at": "Wed, 12 Aug 2026 15:19:17 +0000",
-      "title": "Booksellers suspect AI firms are buying and then destroying rare books",
-      "neutral_headline": "Booksellers suspect AI firms are buying and then destroying rare books",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
-          "published_at": "Wed, 12 Aug 2026 15:19:17 +0000",
-          "title": "Booksellers suspect AI firms are buying and then destroying rare books",
-          "standfirst": "AI firms quietly bulk buying rare books face resistance from booksellers.",
-          "content": "If you can truly appreciate an old book—and maybe even marvel at how its fragile, yellowing pages contain some of the earliest ways that people tried to make sense of the world around them—then headlines about tech companies that are destroying books to train AI likely torture a tender part of your soul. It’s indeed depressing to imagine piles of book spines waiting to be fed into wood chippers while torn-out pages are cropped, scanned, and trashed. But that’s the cheapest and easiest way to scan books as fast as possible, and AI companies are in a race to advance their models by training on the kind of engaging, high-quality long-form texts that can only be found in books. So book lovers fear it’s likely that the practice is happening on a grander scale than is currently being reported and that some physical copies of books will be lost forever. What makes this destruction extra painful, though, is that it doesn’t have to be this way.Read full article Comments",
-          "feed_position": 9,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-162426304-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-162426304-1152x648.jpg",
-      "popularity_score": 258
-    },
-    {
-      "id": "cluster_84",
-      "coverage": 1,
-      "updated_at": "Wed, 12 Aug 2026 16:33:43 +0000",
-      "title": "US tries to override New York gambling laws, orders Kalshi to keep operating",
-      "neutral_headline": "US tries to override New York gambling laws, orders Kalshi to keep operating",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/08/us-tries-to-override-new-york-gambling-laws-orders-kalshi-to-keep-operating/",
-          "published_at": "Wed, 12 Aug 2026 16:33:43 +0000",
-          "title": "US tries to override New York gambling laws, orders Kalshi to keep operating",
-          "standfirst": "Trump admin claims New York suing Kalshi created \"market emergency.\"",
-          "content": "The Trump administration is trying to stop New York from enforcing its gambling laws against Kalshi, and yesterday said it ordered the prediction market to continue operating in the state. The Commodity Futures Trading Commission (CFTC) announced that it exercised its emergency authority in response to a \"market emergency.\" The CFTC said it acted \"to ensure market stability\" and \"ordered the exchange to continue to operate in accordance with the Commodity Exchange Act’s Core Principles.\" The Trump administration took the action after a request from Kalshi. The market emergency alleged by the CFTC is that New York Attorney General Letitia James sued Kalshi on July 31. James' lawsuit seeks a court order to permanently enjoin Kalshi \"from operating an unlawful gambling business\" in the state. The lawsuit also demands that Kalshi \"make full restitution to customers who have engaged in betting\" and pay financial penalties.Read full article Comments",
-          "feed_position": 8,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/kalshi-ad-1152x648-1783536871.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/kalshi-ad-1152x648-1783536871.jpg",
-      "popularity_score": 253.88163833333334
-    },
-    {
-      "id": "cluster_138",
-      "coverage": 1,
-      "updated_at": "Tue, 11 Aug 2026 19:48:12 +0000",
-      "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
-      "neutral_headline": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
-          "published_at": "Tue, 11 Aug 2026 19:48:12 +0000",
-          "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
-          "standfirst": "But will Gemini's surge survive slowing model releases?",
-          "content": "Google has been all-in with Gemini for the last several years, and despite some animosity online, the bet is paying off. CEO Sundar Pichai announced today that Gemini has reached 1 billion monthly active users (MAUs), an important milestone for any Google product. While 13 other Google products have managed that feat, Gemini has done it faster than any other. Gemini has wormed its way into virtually every Google product and service, powering email organization in Gmail, document summary in Drive, and much more. Gemini is also core to Google's flagship search experience, with AI Mode and AI Overviews becoming increasingly hard to avoid. The 1 billion-user metric has nothing to do with any of that, though. These 1 billion users may also be encountering Gemini in all those places, but that's not the MAU metric. Pichai is talking only about people who are opening the Gemini app or visiting the Gemini web interface to enter a prompt or access Gemini Live. If you used Gemini only once in the past month, you are part of this cohort.Read full article Comments",
-          "feed_position": 19,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-2-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-2-1152x648.jpg",
-      "popularity_score": 156
-    },
-    {
-      "id": "cluster_110",
+      "id": "cluster_132",
       "coverage": 1,
       "updated_at": "Wed, 12 Aug 2026 14:00:51 +0000",
       "title": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
@@ -459,7 +525,7 @@
           "title": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
           "standfirst": "Google focuses more on AI and curated experiences than spec upgrades in 2026.",
           "content": "Google has revealed its Pixel phone hardware for 2026, and you won't be surprised. The Pixel 11 series looks a lot like last year's lineup, featuring an evolution of the design Google adopted with the Pixel 9. There are some minor tweaks, a few new hardware goodies, and yes, even more Gemini-powered AI. The new phones are joined by an updated Pixel Watch 5 with much the same story, as well as Google's first in-house tracker device, the Pixel Tag. And you can place orders for all of Google's new hardware today. The Pixel 11 series is clearly the star of the show. You might even call it the highlight—or HiLight. Just as the leaks predicted, Google's most notable hardware innovation for the 2026 Pixel phones is the return of the notification LED (sort of). The new HiLight feature is available on the Pro phones, so the base model Pixel will remain unilluminated. HiLight consists of a ring of RGB LEDs inside the flash assembly on the back of the phone. It lights up when you're talking to Gemini, so you don't have to look at the screen of your phone to know you've been heard or that the AI is working. Thus, it makes the most sense when the phone is lying face down.Read full article Comments",
-          "feed_position": 10,
+          "feed_position": 14,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Google-2026-lineup-1152x648.jpg"
         }
       ],
@@ -467,31 +533,31 @@
       "popularity_score": 151
     },
     {
-      "id": "cluster_136",
+      "id": "cluster_124",
       "coverage": 1,
-      "updated_at": "Tue, 11 Aug 2026 20:59:52 +0000",
-      "title": "Chrome adopts what may be the best protection yet against account takeovers",
-      "neutral_headline": "Chrome adopts what may be the best protection yet against account takeovers",
+      "updated_at": "Wed, 12 Aug 2026 15:19:17 +0000",
+      "title": "Booksellers suspect AI firms are buying and then destroying rare books",
+      "neutral_headline": "Booksellers suspect AI firms are buying and then destroying rare books",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
-          "published_at": "Tue, 11 Aug 2026 20:59:52 +0000",
-          "title": "Chrome adopts what may be the best protection yet against account takeovers",
-          "standfirst": "Device-bound session credentials thwart an increasingly common form of account takeover.",
-          "content": "Google’s Chrome browser has added a new feature that could go a long way in preventing a form of account takeover that’s grown increasingly common as users adopt two-factor authentication, passkeys, and similar protections. The new Chrome protection is known as device-bound session credentials (DBSCs). The measure stores a unique encryption key in a silicon-resident fortress that’s built into the device running the browser. On Windows machines, this fortress is called a TPM, short for Trusted Platform Module. On macOS and iOS, it’s known as a secure enclave. Other platforms have differing names. Recently released versions of Chrome for Windows and macOS generate a key that’s stored in this fortress. An antidote to session cookie theft DBSCs protect against the theft of session cookies, the unique strings of characters that websites store on browsers. Session cookies greatly speed up browsing on sensitive sites that require user authentication. Instead of requiring the exchange of credentials each time a user opens a new site page, the server sets a session cookie that effectively proves the user has already successfully logged in.Read full article Comments",
-          "feed_position": 17,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/phishing-account-takeover-1152x648.jpg"
+          "url": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
+          "published_at": "Wed, 12 Aug 2026 15:19:17 +0000",
+          "title": "Booksellers suspect AI firms are buying and then destroying rare books",
+          "standfirst": "AI firms quietly bulk buying rare books face resistance from booksellers.",
+          "content": "If you can truly appreciate an old book—and maybe even marvel at how its fragile, yellowing pages contain some of the earliest ways that people tried to make sense of the world around them—then headlines about tech companies that are destroying books to train AI likely torture a tender part of your soul. It’s indeed depressing to imagine piles of book spines waiting to be fed into wood chippers while torn-out pages are cropped, scanned, and trashed. But that’s the cheapest and easiest way to scan books as fast as possible, and AI companies are in a race to advance their models by training on the kind of engaging, high-quality long-form texts that can only be found in books. So book lovers fear it’s likely that the practice is happening on a grander scale than is currently being reported and that some physical copies of books will be lost forever. What makes this destruction extra painful, though, is that it doesn’t have to be this way.Read full article Comments",
+          "feed_position": 13,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-162426304-1152x648.jpg"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/phishing-account-takeover-1152x648.jpg",
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-162426304-1152x648.jpg",
       "popularity_score": 148
     },
     {
-      "id": "cluster_113",
+      "id": "cluster_135",
       "coverage": 1,
       "updated_at": "Wed, 12 Aug 2026 13:37:12 +0000",
       "title": "Researchers found a way to hijack devices through Zoom screen sharing",
@@ -508,7 +574,7 @@
           "title": "Researchers found a way to hijack devices through Zoom screen sharing",
           "standfirst": "A public AI tool found the dangerous Zoom flaw in under 20 prompts.",
           "content": "As AI models gain advanced capabilities to find vulnerabilities in software, develop ways to exploit them, and even carry out autonomous hacking sprees, researchers offered a sobering new example on Tuesday, disclosing vulnerabilities in the video conferencing platform Zoom that could have been exploited to take over targets’ devices. Anyone on a call that involved screen sharing, whether participants or the host, would have been vulnerable to a silent attack that could be carried out with no indication and no interaction from the victim. Researchers from the digital defense firm A Security say the bug was discovered in early June using publicly available AI models, and that it took fewer than 20 prompts to uncover the vulnerabilities and create a working attack. Zoom issued a security advisory on Tuesday, including details about fixes the company has already begun rolling out to address the flaws, which affected devices running all operating systems that Zoom supports—Windows, macOS, Linux, iOS, and Android. “What is interesting for us and what we believe is dangerous is the democratization of these capabilities—the barrier to entry is dropping rapidly,” A Security cofounder Omer Gull told WIRED ahead of the disclosure. “Before it would have taken a team of five people maybe six months with a lot of refining and iteration to find this. Now people can reach the same results with under 20 prompts. And Zoom is an important type of target because people assume trust when using it. They don’t see it as a threat.”Read full article Comments",
-          "feed_position": 11,
+          "feed_position": 15,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-1233188488-1152x648.jpg"
         }
       ],
@@ -516,7 +582,7 @@
       "popularity_score": 139
     },
     {
-      "id": "cluster_115",
+      "id": "cluster_137",
       "coverage": 1,
       "updated_at": "Wed, 12 Aug 2026 12:34:38 +0000",
       "title": "Did poop enable the evolution of complex animals?",
@@ -532,7 +598,7 @@
           "title": "Did poop enable the evolution of complex animals?",
           "standfirst": "In a recent study, evolution gets even messier than usual.",
           "content": "The Cambrian explosion may have been fueled by poop. The first animals on Earth emerged about 600 million years ago, and 60 million years later, those simple early animals evolved in wildly different directions, branching out into a diverse menagerie of complicated new forms and conquering new ecological niches. Known as the Cambrian Explosion, this flurry of rapid evolution produced most of the animal phyla and ecosystems we see around us today. And it may have taken off because some of those early animals evolved a bizarre new ability: pooping. According to a recent study, the first poo pellets helped spread nutrients to deeper parts of the ocean, fueling the evolution of bigger animals in more diverse ecosystems.Read full article Comments",
-          "feed_position": 13,
+          "feed_position": 17,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/figureH-1-1098x648.jpg"
         }
       ],
@@ -540,7 +606,79 @@
       "popularity_score": 136
     },
     {
-      "id": "cluster_133",
+      "id": "cluster_113",
+      "coverage": 1,
+      "updated_at": "Wed, 12 Aug 2026 19:40:46 +0000",
+      "title": "US boosts drone surveillance as flesh-eating screwworms spread in Texas",
+      "neutral_headline": "US boosts drone surveillance as flesh-eating screwworms spread in Texas",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/08/us-boosts-drone-surveillance-as-flesh-eating-screwworms-spread-in-texas/",
+          "published_at": "Wed, 12 Aug 2026 19:40:46 +0000",
+          "title": "US boosts drone surveillance as flesh-eating screwworms spread in Texas",
+          "standfirst": "Hundreds of Homeland Security drones retasked to survey wildlife and livestock.",
+          "content": "Hundreds of US government drones have switched from border surveillance to a different surveillance mission this summer—looking for signs of screwworm infestations in wild animals and livestock herds. The flesh-eating New World Screwworm is the parasitic larva that emerges from eggs laid by flies in the open wounds or body openings of warm-blooded animals and humans, with untreated cases potentially leading to severe injury or death. Since the first screwworm cases were detected in South Texas in June, the US Department of Agriculture and US Customs and Border Protection have been conducting “one of the most extensive animal-health surveillance operations in the country,” according to the USDA in social media posts on platforms like X and Facebook on August 10. The effort involves at least 200 drones owned by the Department of Homeland Security, which includes the Customs and Border Protection (CBP) agency. The USDA has described performing more than 1,000 drone flights and surveying more than 22,000 animals so far.Read full article Comments",
+          "feed_position": 10,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/CBP-drone-for-screwworm-surveillance-1152x648.jpeg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/CBP-drone-for-screwworm-surveillance-1152x648.jpeg",
+      "popularity_score": 133
+    },
+    {
+      "id": "cluster_121",
+      "coverage": 1,
+      "updated_at": "Wed, 12 Aug 2026 17:01:11 +0000",
+      "title": "Two hydrogen-burning engines powered this car to a new land speed record",
+      "neutral_headline": "Two hydrogen-burning engines powered this car to a new land speed record",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/cars/2026/08/jcb-sets-a-new-406-mph-speed-record-for-hydrogen-powered-cars/",
+          "published_at": "Wed, 12 Aug 2026 17:01:11 +0000",
+          "title": "Two hydrogen-burning engines powered this car to a new land speed record",
+          "standfirst": "JCB has invested heavily in hydrogen to power its diggers and other machinery.",
+          "content": "It's been far too long since I've been able to report a new land speed record. For a while, it looked like Bloodhound might have been able to make good on its 1,000 mph (1,609 km/h) attempt, but then the money ran out. As a result, Thrust SSC's two-way average of 763.6 mph (1,229 km/h), set in 1997, remains the fastest anyone has ever driven a wheeled vehicle over a timed mile. But yesterday, on the Bonneville Salt Flats in Utah, a new record was set by the JCB Hydromax for hydrogen-powered cars. JCB is a UK-based manufacturer of heavy industrial and agricultural equipment—think diggers, loaders, backhoes, tractors, and so on. And as JCB is based in the UK, it doesn't have the luxury of being able to ignore carbon emissions targets; it has to have alternatives to diesel engines. For some products, that means switching to batteries, but the company has also been working with hydrogen. At first, that meant fuel cells, but after developing prototypes, JCB concluded the tech was too expensive and too fragile for life on the farm or the construction site. Instead, in 2020, the company started developing its own hydrogen combustion engine. The idea of burning hydrogen in an internal combustion engine has been tried before with little success. For example, in 2006, BMW modified a naturally aspirated V12 engine in a 7 Series to run on hydrogen, which it did, but with 60 percent of the power and five times the fuel consumption compared to gasoline. More recently, Toyota's president Akio Toyoda has been among the drivers of an experimental hydrogen-burning Toyota Corolla in some Japanese endurance races. In this case, Toyota started with the GR Corolla's turbocharged three-cylinder engine; the forced induction from the turbocharger made up somewhat for the reduced energy density of hydrogen.Read full article Comments",
+          "feed_position": 11,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/06_08_26_JCB_HM_D4_JA_093-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/06_08_26_JCB_HM_D4_JA_093-1152x648.jpg",
+      "popularity_score": 133
+    },
+    {
+      "id": "cluster_122",
+      "coverage": 1,
+      "updated_at": "Wed, 12 Aug 2026 16:33:43 +0000",
+      "title": "US tries to override New York gambling laws, orders Kalshi to keep operating",
+      "neutral_headline": "US tries to override New York gambling laws, orders Kalshi to keep operating",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/08/us-tries-to-override-new-york-gambling-laws-orders-kalshi-to-keep-operating/",
+          "published_at": "Wed, 12 Aug 2026 16:33:43 +0000",
+          "title": "US tries to override New York gambling laws, orders Kalshi to keep operating",
+          "standfirst": "Trump admin claims New York suing Kalshi created \"market emergency.\"",
+          "content": "The Trump administration is trying to stop New York from enforcing its gambling laws against Kalshi, and yesterday said it ordered the prediction market to continue operating in the state. The Commodity Futures Trading Commission (CFTC) announced that it exercised its emergency authority in response to a \"market emergency.\" The CFTC said it acted \"to ensure market stability\" and \"ordered the exchange to continue to operate in accordance with the Commodity Exchange Act’s Core Principles.\" The Trump administration took the action after a request from Kalshi. The market emergency alleged by the CFTC is that New York Attorney General Letitia James sued Kalshi on July 31. James' lawsuit seeks a court order to permanently enjoin Kalshi \"from operating an unlawful gambling business\" in the state. The lawsuit also demands that Kalshi \"make full restitution to customers who have engaged in betting\" and pay financial penalties.Read full article Comments",
+          "feed_position": 12,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/kalshi-ad-1152x648-1783536871.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/kalshi-ad-1152x648-1783536871.jpg",
+      "popularity_score": 133
+    },
+    {
+      "id": "cluster_156",
       "coverage": 1,
       "updated_at": "Wed, 12 Aug 2026 00:08:40 +0000",
       "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
@@ -556,7 +694,7 @@
           "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
           "standfirst": "FBI Atlanta confirms it's looking into the incident, no arrests made.",
           "content": "On Monday, passengers aboard Delta flight 591 going from Las Vegas to Atlanta allegedly spoofed the onboard Wi-Fi, raising the attention of federal law enforcement. The incident came one day after the DEF CON security conference concluded in Las Vegas and was first described on social media accounts that follow publicly available air-to-ground messages, known as ACARS. According to the “ACARS Drama” account, a message sent by pilots from the plane stated: “NO INFO AS OF NOW WE HAVE A BUNCH OF PAX THAT WERE AT A CYBER CONFERENCE IN LAS THEY WERE ABLE TO JAM OUR WIFI AND BROADCAST THEIR SIGNAL.”Read full article Comments",
-          "feed_position": 14,
+          "feed_position": 18,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/GettyImages-1233218421-scaled-1152x648-1786493250.jpg"
         }
       ],
@@ -564,7 +702,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_134",
+      "id": "cluster_157",
       "coverage": 1,
       "updated_at": "Tue, 11 Aug 2026 22:31:45 +0000",
       "title": "Trump wants Big Pharma to split MMR vaccine; Big Pharma thinks it's idiotic",
@@ -580,7 +718,7 @@
           "title": "Trump wants Big Pharma to split MMR vaccine; Big Pharma thinks it's idiotic",
           "standfirst": "It took just hours for the leading pharma group to reject the recommendations.",
           "content": "Backlash to Trump's vaccine order on Monday has been swift and sharp, with various public health and medical organizations and independent experts calling it \"dangerous,\" \"unscientific,\" \"false and misleading,\" \"so wrong,\" and saying it is \"putting children's health at risk.\" The responses are unsurprising; the medical and health communities have consistently fought against the anti-vaccine, anti-science agendas pushed by Trump and his health secretary, Robert F. Kennedy Jr., who has no background in science, medicine, or public health. The American Academy of Pediatrics—which called the order \"not only disheartening but dangerous\"—is leading a lawsuit against previous changes to federal childhood vaccine recommendations under Trump and Kennedy. In March, the organization, along with other medical groups, won a temporary injunction reversing most of the changes. However, less expected among the scorn for Trump's order is the immediate pushback from the pharmaceutical industry.Read full article Comments",
-          "feed_position": 15,
+          "feed_position": 19,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2236338199-1152x648.jpg"
         }
       ],
@@ -588,55 +726,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_135",
-      "coverage": 1,
-      "updated_at": "Tue, 11 Aug 2026 21:20:11 +0000",
-      "title": "Russian drones found near vital European offshore gas site, get blown up",
-      "neutral_headline": "Russian drones found near vital European offshore gas site, get blown up",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/08/romania-destroys-russian-drones-drifting-near-vital-european-offshore-gas-site/",
-          "published_at": "Tue, 11 Aug 2026 21:20:11 +0000",
-          "title": "Russian drones found near vital European offshore gas site, get blown up",
-          "standfirst": "This follows many drone incursions into Romania and a failed attack in Germany.",
-          "content": "Romanian army divers used explosives to destroy two Russian-made drones found floating in the Black Sea near Romania’s largest natural gas project, according to the NATO member country’s defense minister. Defense Minister Radu Miruță posted a Facebook video supposedly showing one of the drones being blown up in the water by explosive ordnance disposal divers of the Romanian army on August 11, as reported by Reuters and other news outlets. The drones were first spotted in the water by a ship working in the vicinity of the Neptun Deep—an offshore gas project under development in the Black Sea that will make Romania the largest gas producer in the European Union. A Romanian Coast Guard ship that responded with army soldiers aboard found two drifting Gerbera-type drones of Russian design along with other debris. Miruță also disclosed that Romania had reached out to “Ukrainian partners who confirmed that the systems do not belong to them.”Read full article Comments",
-          "feed_position": 16,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Screenshot-2026-08-11-at-4.40.55-PM.png"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Screenshot-2026-08-11-at-4.40.55-PM.png",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_137",
-      "coverage": 1,
-      "updated_at": "Tue, 11 Aug 2026 20:27:16 +0000",
-      "title": "Meta can't stop states' $1.4 trillion lawsuit from going to trial",
-      "neutral_headline": "Meta can't stop states' $1.4 trillion lawsuit from going to trial",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial/",
-          "published_at": "Tue, 11 Aug 2026 20:27:16 +0000",
-          "title": "Meta can't stop states' $1.4 trillion lawsuit from going to trial",
-          "standfirst": "Judges tell Meta that Section 230 provides a defense, not immunity from lawsuits.",
-          "content": "Meta and TikTok tried to defeat thousands of social media addiction lawsuits in one fell swoop, but an appeals court rejected the attempt in a ruling issued yesterday. First up among the lawsuits is a case brought against Meta by the California attorney general and other state AGs. Meta said in a July court filing that the state AGs' demands for damages would amount to more than $1.4 trillion. A trial in district court is scheduled to start on August 19, with jury selection beginning August 12. In a 3-0 ruling yesterday, a judges' panel from the US Court of Appeals for the 9th Circuit rejected the Meta and TikTok claims that they have legal immunity to the lawsuits under Section 230 of the Communications Decency Act.Read full article Comments",
-          "feed_position": 18,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/facebook-instagram-1152x648-1761326412.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/facebook-instagram-1152x648-1761326412.jpg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_114",
+      "id": "cluster_136",
       "coverage": 1,
       "updated_at": "Wed, 12 Aug 2026 13:35:30 +0000",
       "title": "Formula E finds a new home on Disney+, ESPN+",
@@ -652,7 +742,7 @@
           "title": "Formula E finds a new home on Disney+, ESPN+",
           "standfirst": "The deal starts with the arrival of the GEN4 car and 2026-27 season this December.",
           "content": "Formula E is set to make a big change in terms of visibility when season 12 gets underway this December. It has signed a new multiyear deal to broadcast the sport on Disney+ and ESPN+ in 144 countries, with live coverage of each entire ePrix, from practice through qualifying to the race. The new media deal means that here in the US, Formula E will be shown on the streaming networks from next season; since 2023, the sport has been shown live on Roku. \"This is a landmark moment for Formula E and reflects the incredible momentum behind our Championship,\" said Formula E's CEO Jeff Dodds. \"Disney’s unrivaled global reach and storytelling will introduce Formula E to millions of new fans while bringing them closer than ever to the drama, innovation, and excitement of electric racing. As we enter the GEN4 era, this provides an exceptional platform to accelerate our global growth and continue building one of the world’s most exciting sports properties.\" As we've previously covered here at Ars, next season was already shaping up to be a massive one for the electric racing series. It debuts the new GEN4 car in December as well. The new car has double the power of the current racer, with a nominal 603 hp (450 kW) from a twin-motor, all-wheel drive powertrain that goes up to 804 hp (600 kW) in Attack Mode. Which means that for much of a lap, a Formula E GEN4 car will generate as much power as a 2027-spec Formula 1 car; the F1 car is also stuck with just 602 hp from its V6 engine when the battery has no charge.Read full article Comments",
-          "feed_position": 12,
+          "feed_position": 16,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GEN4-HERO2-2048x2048-1-1152x648.jpg"
         }
       ],
