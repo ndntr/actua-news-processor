@@ -1,94 +1,88 @@
 {
-  "updated_at": "2026-08-14T11:38:25.734Z",
+  "updated_at": "2026-08-14T19:42:22.595Z",
   "clusters": [
     {
-      "id": "cluster_10",
-      "coverage": 2,
-      "updated_at": "Fri, 14 Aug 2026 10:44:30 +0000",
-      "title": "Uber and Pony.ai plan to bring 2,000 robotaxis to Europe",
-      "neutral_headline": "Uber and Pony.ai plan to bring 2,000 robotaxis to Europe",
+      "id": "cluster_3",
+      "coverage": 4,
+      "updated_at": "Fri, 14 Aug 2026 19:04:42 +0000",
+      "title": "Google will now allow users to remove visible watermarks from AI content",
+      "neutral_headline": "Google will now allow users to remove visible watermarks from AI content",
       "bullet_summary": [
-        "said it plans to deploy more than 2,000 robotaxis across Europe in partnership with Uber Technologies Inc",
-        "Reported by TechCrunch, TechMeme"
+        "Reported by Engadget, TechMeme, The Verge and others"
       ],
       "items": [
         {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/",
-          "published_at": "Fri, 14 Aug 2026 10:44:30 +0000",
-          "title": "Uber and Pony.ai plan to bring 2,000 robotaxis to Europe",
-          "standfirst": "The partnership is expanding beyond the initial market of Zagreb, Croatia to four additional European cities.",
-          "content": "The partnership is expanding beyond the initial market of Zagreb, Croatia to four additional European cities.",
-          "feed_position": 0
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2237340/google-will-now-allow-users-to-remove-visible-watermarks-from-ai-content/",
+          "published_at": "Fri, 14 Aug 2026 19:04:42 +0000",
+          "title": "Google will now allow users to remove visible watermarks from AI content",
+          "standfirst": "The invisible SynthID will remain.",
+          "content": "The invisible SynthID will remain.",
+          "feed_position": 0,
+          "image_url": "https://www.engadget.com/img/gallery/google-will-now-allow-users-to-remove-visible-watermarks-from-ai-content/l-intro-1786734224.jpg"
         },
         {
           "source": "TechMeme",
-          "url": "https://www.techmeme.com/260813/p56#a260813p56",
-          "published_at": "Thu, 13 Aug 2026 22:30:01 -0400",
-          "title": "Pony AI plans to deploy 2K+ robotaxis across Europe in partnership with Uber and add four more European cities, after Zagreb, with a later Middle East expansion (Bloomberg)",
-          "standfirst": "Bloomberg: Pony AI plans to deploy 2K+ robotaxis across Europe in partnership with Uber and add four more European cities, after Zagreb, with a later Middle East expansion &mdash; Pony AI Inc. said it plans to deploy more than 2,000 robotaxis across Europe in partnership with Uber Technologies Inc. &hellip;",
-          "content": "Bloomberg: Pony AI plans to deploy 2K+ robotaxis across Europe in partnership with Uber and add four more European cities, after Zagreb, with a later Middle East expansion &mdash; Pony AI Inc. said it plans to deploy more than 2,000 robotaxis across Europe in partnership with Uber Technologies Inc. &hellip;",
-          "feed_position": 13,
-          "image_url": "http://www.techmeme.com/260813/i56.jpg"
+          "url": "https://www.techmeme.com/260814/p18#a260814p18",
+          "published_at": "Fri, 14 Aug 2026 13:00:51 -0400",
+          "title": "Google adds a toggle in Gemini and Flow to remove visible watermarks from AI-generated images, videos, and music; SynthID watermarks and C2PA metadata remain (Emma Roth/The Verge)",
+          "standfirst": "Emma Roth / The Verge: Google adds a toggle in Gemini and Flow to remove visible watermarks from AI-generated images, videos, and music; SynthID watermarks and C2PA metadata remain &mdash; Google will still embed invisible SynthID and C2PA watermarks into AI-generated images, videos, and music.",
+          "content": "Emma Roth / The Verge: Google adds a toggle in Gemini and Flow to remove visible watermarks from AI-generated images, videos, and music; SynthID watermarks and C2PA metadata remain &mdash; Google will still embed invisible SynthID and C2PA watermarks into AI-generated images, videos, and music.",
+          "feed_position": 2,
+          "image_url": "http://www.techmeme.com/260814/i18.jpg"
+        },
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+          "published_at": "2026-08-14T12:39:32-04:00",
+          "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
+          "standfirst": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator, Flow. When toggled off, Google will remove the \"sparkle\" watermark that appears in the bottom-right corner of [&#8230;]",
+          "content": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator, Flow. When toggled off, Google will remove the \"sparkle\" watermark that appears in the bottom-right corner of content generated with the company's Nano Banana and Omni models. Though visible watermarks are now optional, AI-generated content will have invisible SynthID watermarks and C2PA metadata embedded in the background, according to Josh Woodward, the vice president of Google Labs, Gemini, and AI Studio. That means you … Read the full story at The Verge.",
+          "feed_position": 6
+        },
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+          "published_at": "Fri, 14 Aug 2026 16:13:40 +0000",
+          "title": "Google will now allow users to remove visible watermark from its AI generations",
+          "standfirst": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+          "content": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+          "feed_position": 4
         }
       ],
-      "featured_image": "http://www.techmeme.com/260813/i56.jpg",
-      "popularity_score": 2019.101185
+      "featured_image": "https://www.engadget.com/img/gallery/google-will-now-allow-users-to-remove-visible-watermarks-from-ai-content/l-intro-1786734224.jpg",
+      "popularity_score": 4019.3720569444445
     },
     {
-      "id": "cluster_12",
-      "coverage": 2,
-      "updated_at": "Fri, 14 Aug 2026 10:31:00 +0000",
-      "title": "Best Pixel 10 Cases and Accessories (2026): Mous, dbrand, Bellroy",
-      "neutral_headline": "Best Pixel 10 Cases and Accessories (2026): Mous, dbrand, Bellroy",
+      "id": "cluster_6",
+      "coverage": 3,
+      "updated_at": "Fri, 14 Aug 2026 18:38:40 +0000",
+      "title": "Google must make it easier to install alternative app stores, judge orders",
+      "neutral_headline": "Google must make it easier to install alternative app stores, judge orders",
       "bullet_summary": [
-        "Google's latest Pixel phones are here, and we found the best cases to protect your new Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL, or Pixel 11 Pro Fold",
-        "Reported by Wired Tech, ZDNet"
+        "Reported by Engadget, Ars Technica, TechMeme"
       ],
       "items": [
         {
-          "source": "Wired Tech",
-          "url": "https://www.wired.com/gallery/best-pixel-10-cases-and-accessories/",
-          "published_at": "Fri, 14 Aug 2026 10:31:00 +0000",
-          "title": "Best Pixel 10 Cases and Accessories (2026): Mous, dbrand, Bellroy",
-          "standfirst": "Protect your Pixel 10a, Pixel 10, or Pixel 10 Pro XL with a tried-and-true phone case, screen protector, and Qi2 charger.",
-          "content": "Protect your Pixel 10a, Pixel 10, or Pixel 10 Pro XL with a tried-and-true phone case, screen protector, and Qi2 charger.",
-          "feed_position": 3,
-          "image_url": "https://media.wired.com/photos/68bbcf49f02d871ebe651fbb/master/pass/Top%20Art%20Pixel%2010%20Cases%20SOURCE%20Julian%20Chokkattu.jpg"
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2237323/google-must-make-it-easier-to-install-alternative-app-stores-judge-orders/",
+          "published_at": "Fri, 14 Aug 2026 18:38:40 +0000",
+          "title": "Google must make it easier to install alternative app stores, judge orders",
+          "standfirst": "Google has a week to make it easier to find third-party app stores.",
+          "content": "Google has a week to make it easier to find third-party app stores.",
+          "feed_position": 1,
+          "image_url": "https://www.engadget.com/img/gallery/google-must-make-it-easier-to-install-alternative-app-stores-judge-orders/l-intro-1786732569.jpg"
         },
         {
-          "source": "Wired Tech",
-          "url": "https://www.wired.com/gallery/best-samsung-s26-cases-and-accessories/",
-          "published_at": "Thu, 13 Aug 2026 12:05:00 +0000",
-          "title": "The Best Samsung Galaxy S26 Cases (2026): S26, S26+, and S26 Ultra",
-          "standfirst": "Protect your Samsung phone with these cases and screen protectors.",
-          "content": "Protect your Samsung phone with these cases and screen protectors.",
-          "feed_position": 23,
-          "image_url": "https://media.wired.com/photos/69ced175c7a8ccda83fafc07/master/pass/The-Best-Samsung-Galaxy-S26-Cases-and-Accessories.jpg"
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/08/google-ordered-to-make-it-easier-to-download-alternative-android-app-stores/",
+          "published_at": "Fri, 14 Aug 2026 15:46:40 +0000",
+          "title": "Judge gives Google one week to fix \"anticompetitive\" app store download in Google Play",
+          "standfirst": "Third-party app stores are about to become more visible in Google Play.",
+          "content": "Google began offering third-party app store downloads in the Play Store earlier this week, but US District Judge James Donato says the company isn't doing enough. After reviewing the process for accessing the first non-Google store, Donato ruled that Google has added unnecessary \"anticompetitive friction,\" ordering the company to rectify the issues. While Epic and Google are patching things up with a global partnership agreement, the two are still on opposite sides of the antitrust case in the US. Google lost the case in 2023, and the intervening years have been about determining how to implement remedies to address Google's anticompetitive behavior. One of the court's key elements is the requirement that Google include third-party app stores in the Play Store, giving users an easy way to get apps from non-Google sources. Aptoide Games became the first such app store recently. However, Google worked hard to avoid this outcome, attempting to settle with Epic to keep third-party app stores out. When it was forced to admit the Aptoide store under the terms of the ruling, Google didn't exactly put up a banner welcoming third-party app stores. In fact, Judge Donato found in a Thursday hearing that Google's implementation was not good enough, according to The Verge.Read full article Comments",
+          "feed_position": 7,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/play-store-1152x648.jpg"
         },
-        {
-          "source": "ZDNet",
-          "url": "https://www.zdnet.com/article/best-google-pixel-11-cases/",
-          "published_at": "Wed, 12 Aug 2026 14:16:00 GMT",
-          "title": "The best Pixel 11 and Pixel 11 Pro cases of 2026: Expert recommended",
-          "standfirst": "Google's latest Pixel phones are here, and we found the best cases to protect your new Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL, or Pixel 11 Pro Fold.",
-          "content": "Google's latest Pixel phones are here, and we found the best cases to protect your new Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL, or Pixel 11 Pro Fold.",
-          "feed_position": 18
-        }
-      ],
-      "featured_image": "https://media.wired.com/photos/68bbcf49f02d871ebe651fbb/master/pass/Top%20Art%20Pixel%2010%20Cases%20SOURCE%20Julian%20Chokkattu.jpg",
-      "popularity_score": 2018.876185
-    },
-    {
-      "id": "cluster_16",
-      "coverage": 2,
-      "updated_at": "Fri, 14 Aug 2026 06:05:01 -0400",
-      "title": "Epic v. Google: in a compliance hearing, a judge orders Google to remove \"anticompetitive friction\" for installing third-party app stores from its Play Store (Sean Hollister/The Verge)",
-      "neutral_headline": "‘That is not acceptable’: Judge orders Google to make rival app store installs easier",
-      "bullet_summary": [
-        "Reported by TechMeme, The Verge"
-      ],
-      "items": [
         {
           "source": "TechMeme",
           "url": "https://www.techmeme.com/260814/p8#a260814p8",
@@ -96,100 +90,32 @@
           "title": "Epic v. Google: in a compliance hearing, a judge orders Google to remove \"anticompetitive friction\" for installing third-party app stores from its Play Store (Sean Hollister/The Verge)",
           "standfirst": "Sean Hollister / The Verge: Epic v. Google: in a compliance hearing, a judge orders Google to remove &ldquo;anticompetitive friction&rdquo; for installing third-party app stores from its Play Store &mdash; Judge Donato was not having Google's &lsquo;anticompetitive friction.&rsquo; &mdash; One month after Epic Games and Google seemingly stopped fighting &hellip;",
           "content": "Sean Hollister / The Verge: Epic v. Google: in a compliance hearing, a judge orders Google to remove &ldquo;anticompetitive friction&rdquo; for installing third-party app stores from its Play Store &mdash; Judge Donato was not having Google's &lsquo;anticompetitive friction.&rsquo; &mdash; One month after Epic Games and Google seemingly stopped fighting &hellip;",
-          "feed_position": 4,
+          "feed_position": 12,
           "image_url": "http://www.techmeme.com/260814/i8.jpg"
-        },
-        {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier",
-          "published_at": "2026-08-13T17:53:04-04:00",
-          "title": "‘That is not acceptable’: Judge orders Google to make rival app store installs easier",
-          "standfirst": "One month after Epic Games and Google seemingly stopped fighting over the future of Android app distribution, they were back in a San Francisco courtroom today - where Judge James Donato just ordered Google to make it easier to install rival app stores on Android. It's been nearly three years since a jury unanimously decided [&#8230;]",
-          "content": "One month after Epic Games and Google seemingly stopped fighting over the future of Android app distribution, they were back in a San Francisco courtroom today - where Judge James Donato just ordered Google to make it easier to install rival app stores on Android. It's been nearly three years since a jury unanimously decided that Google had an illegal monopoly over Android apps, and almost two years since Judge Donato decided the best way of undoing that monopoly would be to crack open Android app distribution. Donato ordered Google to carry rival Android app stores inside its own Google Play Store, and to provide rivals with complete acce … Read the full story at The Verge.",
-          "feed_position": 6
         }
       ],
-      "featured_image": "http://www.techmeme.com/260814/i8.jpg",
-      "popularity_score": 2018.4431294444444
+      "featured_image": "https://www.engadget.com/img/gallery/google-must-make-it-easier-to-install-alternative-app-stores-judge-orders/l-intro-1786732569.jpg",
+      "popularity_score": 3018.9381680555557
     },
     {
-      "id": "cluster_23",
-      "coverage": 2,
-      "updated_at": "2026-08-14T05:21:17-04:00",
-      "title": "Apple trained its own AI model for China with help from Alibaba",
-      "neutral_headline": "Apple trained its own AI model for China with help from Alibaba",
+      "id": "cluster_27",
+      "coverage": 3,
+      "updated_at": "Fri, 14 Aug 2026 16:08:11 GMT",
+      "title": "Apple is warning users of new spyware attacks - what to do if you're a target",
+      "neutral_headline": "Apple is warning users of new spyware attacks - what to do if you're a target",
       "bullet_summary": [
-        "O) has trained a large language model specifically for the China market, three people familiar with the matter said &hellip;",
-        "Reported by The Verge, TechMeme"
+        "Reported by ZDNet, Engadget, TechCrunch"
       ],
       "items": [
         {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-          "published_at": "2026-08-14T05:21:17-04:00",
-          "title": "Apple trained its own AI model for China with help from Alibaba",
-          "standfirst": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focused large language model was developed in partnership with Alibaba and trained with the company's support, Reuters reports, citing three unnamed people familiar with [&#8230;]",
-          "content": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focused large language model was developed in partnership with Alibaba and trained with the company's support, Reuters reports, citing three unnamed people familiar with the matter. Developing a custom model of its own marks a departure from Apple's previous strategy in the country and would give the company more control over its products in the competitive Chinese smartphone market. Historically, Apple has used domestic Chines … Read the full story at The Verge.",
+          "source": "ZDNet",
+          "url": "https://www.zdnet.com/article/apple-warns-targetted-spyware-attacks-what-to-do/",
+          "published_at": "Fri, 14 Aug 2026 16:08:11 GMT",
+          "title": "Apple is warning users of new spyware attacks - what to do if you're a target",
+          "standfirst": "New spyware attacks are aimed at journalists, activists, politicians, diplomats, and others. Here's how Apple is notifying them and what they should do - after turning on Lockdown Mode.",
+          "content": "New spyware attacks are aimed at journalists, activists, politicians, diplomats, and others. Here's how Apple is notifying them and what they should do - after turning on Lockdown Mode.",
           "feed_position": 2
         },
-        {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/260814/p2#a260814p2",
-          "published_at": "Fri, 14 Aug 2026 00:55:01 -0400",
-          "title": "Sources: Apple trained a China-specific LLM with Alibaba's support, which would make Apple the first foreign company to offer a proprietary AI model in China (Reuters)",
-          "standfirst": "Reuters: Sources: Apple trained a China-specific LLM with Alibaba's support, which would make Apple the first foreign company to offer a proprietary AI model in China &mdash; Apple (AAPL.O) has trained a large language model specifically for the China market, three people familiar with the matter said &hellip;",
-          "content": "Reuters: Sources: Apple trained a China-specific LLM with Alibaba's support, which would make Apple the first foreign company to offer a proprietary AI model in China &mdash; Apple (AAPL.O) has trained a large language model specifically for the China market, three people familiar with the matter said &hellip;",
-          "feed_position": 10,
-          "image_url": "http://www.techmeme.com/260814/i2.jpg"
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/260814/i2.jpg",
-      "popularity_score": 2017.7142405555555
-    },
-    {
-      "id": "cluster_31",
-      "coverage": 2,
-      "updated_at": "Fri, 14 Aug 2026 06:12:39 +0000",
-      "title": "Trump slaps a 100 percent tariff on heavy and 'sensitive' drones",
-      "neutral_headline": "Trump slaps a 100 percent tariff on heavy and 'sensitive' drones",
-      "bullet_summary": [
-        "Reported by Engadget, TechMeme"
-      ],
-      "items": [
-        {
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2236830/trump-slaps-100-percent-tariff-on-heavy-and-sensitive-drones/",
-          "published_at": "Fri, 14 Aug 2026 06:12:39 +0000",
-          "title": "Trump slaps a 100 percent tariff on heavy and 'sensitive' drones",
-          "standfirst": "President Trump has imposed tariffs up to 100 percent on drones that are &#34;particularly sensitive&#34; for national security.",
-          "content": "President Trump has imposed tariffs up to 100 percent on drones that are &#34;particularly sensitive&#34; for national security.",
-          "feed_position": 2,
-          "image_url": "https://www.engadget.com/img/gallery/trump-slaps-100-percent-tariff-on-heavy-and-sensitive-drones/l-intro-1786694278.jpg"
-        },
-        {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/260814/p3#a260814p3",
-          "published_at": "Fri, 14 Aug 2026 01:10:01 -0400",
-          "title": "The White House announces new tariffs on drones and components, including a 100% levy on \"particularly sensitive\" models, aiming to cut reliance on Chinese tech (Demetri Sevastopulo/Financial Times)",
-          "standfirst": "Demetri Sevastopulo / Financial Times: The White House announces new tariffs on drones and components, including a 100% levy on &ldquo;particularly sensitive&rdquo; models, aiming to cut reliance on Chinese tech &mdash; US to impose up to 100% levies on unmanned aircraft and their components &mdash; President Donald Trump has imposed sweeping &hellip;",
-          "content": "Demetri Sevastopulo / Financial Times: The White House announces new tariffs on drones and components, including a 100% levy on &ldquo;particularly sensitive&rdquo; models, aiming to cut reliance on Chinese tech &mdash; US to impose up to 100% levies on unmanned aircraft and their components &mdash; President Donald Trump has imposed sweeping &hellip;",
-          "feed_position": 9,
-          "image_url": "http://www.techmeme.com/260814/i3.jpg"
-        }
-      ],
-      "featured_image": "https://www.engadget.com/img/gallery/trump-slaps-100-percent-tariff-on-heavy-and-sensitive-drones/l-intro-1786694278.jpg",
-      "popularity_score": 2014.5703516666667
-    },
-    {
-      "id": "cluster_32",
-      "coverage": 2,
-      "updated_at": "Fri, 14 Aug 2026 05:27:46 +0000",
-      "title": "Apple sends out warnings to targets of mercenary spyware attacks",
-      "neutral_headline": "Apple sends out warnings to targets of mercenary spyware attacks",
-      "bullet_summary": [
-        "Reported by Engadget, TechCrunch"
-      ],
-      "items": [
         {
           "source": "Engadget",
           "url": "https://www.engadget.com/2236825/apple-warnings-mercenary-spyware-attacks/",
@@ -197,7 +123,7 @@
           "title": "Apple sends out warnings to targets of mercenary spyware attacks",
           "standfirst": "Apple has recently sent out notifications, warning users that they'd been targeted by mercenary spyware attack.",
           "content": "Apple has recently sent out notifications, warning users that they'd been targeted by mercenary spyware attack.",
-          "feed_position": 3,
+          "feed_position": 9,
           "image_url": "https://www.engadget.com/img/gallery/apple-warnings-mercenary-spyware-attacks/l-intro-1786686155.jpg"
         },
         {
@@ -207,152 +133,278 @@
           "title": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
           "standfirst": "Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices.",
           "content": "Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices.",
-          "feed_position": 3
+          "feed_position": 13
         }
       ],
       "featured_image": "https://www.engadget.com/img/gallery/apple-warnings-mercenary-spyware-attacks/l-intro-1786686155.jpg",
-      "popularity_score": 2013.8222961111112
+      "popularity_score": 3016.4301125
     },
     {
-      "id": "cluster_53",
-      "coverage": 2,
-      "updated_at": "Thu, 13 Aug 2026 21:10:21 +0000",
-      "title": "X is testing a tool that will let users see if their posts have been 'shadowbanned'",
-      "neutral_headline": "X is testing a tool that will let users see if their posts have been 'shadowbanned'",
-      "bullet_summary": [
-        "Reported by Engadget, TechCrunch"
-      ],
-      "items": [
-        {
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2236672/x-is-testing-a-tool-that-will-let-users-see-if-their-posts-have-been-shadowbanned/",
-          "published_at": "Thu, 13 Aug 2026 21:10:21 +0000",
-          "title": "X is testing a tool that will let users see if their posts have been 'shadowbanned'",
-          "standfirst": "The feature is rolling out as the company open-sources more of its ranking algorithm.",
-          "content": "The feature is rolling out as the company open-sources more of its ranking algorithm.",
-          "feed_position": 7,
-          "image_url": "https://www.engadget.com/img/gallery/x-is-testing-a-tool-that-will-let-users-see-if-their-posts-have-been-shadowbanned/l-intro-1786665169.jpg"
-        },
-        {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/",
-          "published_at": "Thu, 13 Aug 2026 16:00:00 +0000",
-          "title": "X open sources its ranking algorithm, letting users see if they&#8217;ve been &#8216;shadowbanned&#8217;",
-          "standfirst": "X is expanding the open source code behind its 'For You' feed and launching new transparency tools that show users when its ranking systems have affected their accounts or posts.",
-          "content": "X is expanding the open source code behind its 'For You' feed and launching new transparency tools that show users when its ranking systems have affected their accounts or posts.",
-          "feed_position": 11
-        }
-      ],
-      "featured_image": "https://www.engadget.com/img/gallery/x-is-testing-a-tool-that-will-let-users-see-if-their-posts-have-been-shadowbanned/l-intro-1786665169.jpg",
-      "popularity_score": 2005.5320183333333
-    },
-    {
-      "id": "cluster_63",
-      "coverage": 2,
-      "updated_at": "Thu, 13 Aug 2026 18:52:06 +0000",
-      "title": "US government to allow private companies to carry out cyberattacks on its behalf",
-      "neutral_headline": "US government to allow private companies to carry out cyberattacks on its behalf",
-      "bullet_summary": [
-        "Reported by Engadget, TechCrunch"
-      ],
-      "items": [
-        {
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2236521/us-government-to-allow-private-companies-to-carry-out-cyberattacks-on-its-behalf/",
-          "published_at": "Thu, 13 Aug 2026 18:52:06 +0000",
-          "title": "US government to allow private companies to carry out cyberattacks on its behalf",
-          "standfirst": "US government to allow private companies to carry out cyberattacks on its behalf.",
-          "content": "US government to allow private companies to carry out cyberattacks on its behalf.",
-          "feed_position": 9,
-          "image_url": "https://www.engadget.com/img/gallery/us-government-to-allow-private-companies-to-carry-out-cyberattacks-on-its-behalf/l-intro-1786646964.jpg"
-        },
-        {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/13/in-a-first-us-will-allow-some-private-firms-to-carry-out-cyberattacks/",
-          "published_at": "Thu, 13 Aug 2026 14:09:05 +0000",
-          "title": "In a first, US will allow some private firms to carry out cyberattacks",
-          "standfirst": "The new order sweeps away decades of existing U.S. cybersecurity policy prohibiting private companies from conducting 'hack back' attacks or offensive cyber operations.",
-          "content": "The new order sweeps away decades of existing U.S. cybersecurity policy prohibiting private companies from conducting 'hack back' attacks or offensive cyber operations.",
-          "feed_position": 17
-        }
-      ],
-      "featured_image": "https://www.engadget.com/img/gallery/us-government-to-allow-private-companies-to-carry-out-cyberattacks-on-its-behalf/l-intro-1786646964.jpg",
-      "popularity_score": 2003.2278516666668
-    },
-    {
-      "id": "cluster_4",
+      "id": "cluster_10",
       "coverage": 1,
-      "updated_at": "Fri, 14 Aug 2026 11:00:05 +0000",
-      "title": "Samsung Galaxy Z Fold 8 Ultra review: The ultra foldable with an ultra price",
-      "neutral_headline": "Samsung Galaxy Z Fold 8 Ultra review: The ultra foldable with an ultra price",
-      "bullet_summary": [
-        "Reported by Ars Technica Main"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica Main",
-          "url": "https://arstechnica.com/gadgets/2026/08/samsung-galaxy-z-fold-8-ultra-review-the-ultra-foldable-with-an-ultra-price/",
-          "published_at": "Fri, 14 Aug 2026 11:00:05 +0000",
-          "title": "Samsung Galaxy Z Fold 8 Ultra review: The ultra foldable with an ultra price",
-          "standfirst": "Samsung didn't have to change much this year because its hardware is just that good.",
-          "content": "Samsung has largely defined the foldable phone category, but it's no longer alone in releasing flexible devices. Google, Motorola, and a raft of Chinese OEMs have their own take on this form factor. Is the new Galaxy Z Fold 8 Ultra really \"ultra\" enough to remain on top? This phone doesn't have the wide frame of the new Z Fold 8, instead matching the approximate size and shape of the company’s last few tablet-style foldables. The Z Fold 8 Ultra is not a big leap, but it continues Samsung's pattern of iterative foldable improvements. At this point, there's very little left to improve. The compromises of going with a foldable over a regular flat phone have largely been erased with the Z Fold 8 Ultra. Well, except for the price. Flatter and a little better Foldables used to be real pocket-busters, almost like carrying two phones glued together. Samsung has successively shaved a few millimeters off every year, taking a leap last year with the Z Fold 7. The Z Fold 8 Ultra is even a bit slimmer than that phone, but the difference is basically imperceptible. It still has the same buttons in the same places, including a fingerprint sensor in the power button.Read full article Comments",
-          "feed_position": 1,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Galaxy-Z-Fold-8-Ultra-4-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Galaxy-Z-Fold-8-Ultra-4-1152x648.jpg",
-      "popularity_score": 353.36090722222224
-    },
-    {
-      "id": "cluster_3",
-      "coverage": 1,
-      "updated_at": "Fri, 14 Aug 2026 11:00:49 +0000",
-      "title": "Rocket Report: Rocket Lab shows off its flexibility; Blue Origin&#039;s two-pad plan",
-      "neutral_headline": "Rocket Report: Rocket Lab shows off its flexibility; Blue Origin&#039;s two-pad plan",
-      "bullet_summary": [
-        "Reported by Ars Technica Main"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica Main",
-          "url": "https://arstechnica.com/space/2026/08/rocket-report-rocket-lab-shows-off-its-flexibility-blue-origins-two-pad-plan/",
-          "published_at": "Fri, 14 Aug 2026 11:00:49 +0000",
-          "title": "Rocket Report: Rocket Lab shows off its flexibility; Blue Origin&#039;s two-pad plan",
-          "standfirst": "\"We’ve never seen launch capacity so constrained.\"",
-          "content": "Welcome to Edition 9.06 of the Rocket Report! Rocket Lab made a lot of news this week with its quarterly update, and it is clear the company is making impressive progress as it becomes much more than a launch company. But at the end of the day, a lot of the company's success is predicated on the Neutron vehicle, and I'm not thrilled with Rocket Lab's ambiguity around its readiness. As a user on X noted, the company's language on Stage 2 being ready to ship to the launch site has not changed much in 12 months. As always, we welcome reader submissions, and if you don't want to miss an issue, please subscribe using the box below (the form will not appear on AMP-enabled versions of the site). Each report will include information on small-, medium-, and heavy-lift rockets as well as a quick look ahead at the next three launches on the calendar. Rocket Lab decides to get flexible. Rocket Lab plans to start launching its Electron vehicle even more frequently and flexibly, thanks to a new portable spaceport system called GHOST, Space.com reports. GHOST—short for \"Global Hypersonic & Orbital Spaceport Technology\"—turns the company's \"Electron and HASTE rockets into a launch-anywhere, launch-anytime capability for multi-launch flight campaigns and critical national security missions,\" the company said this week.Read full article Comments",
-          "feed_position": 0,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/News_LaunchComplex-36B-1152x648.webp"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/News_LaunchComplex-36B-1152x648.webp",
-      "popularity_score": 352.37312944444443
-    },
-    {
-      "id": "cluster_28",
-      "coverage": 1,
-      "updated_at": "Fri, 14 Aug 2026 07:01:15 +0000",
-      "title": "Organic-looking brake assemblies debut on new Czinger 21C Spyder",
-      "neutral_headline": "Organic-looking brake assemblies debut on new Czinger 21C Spyder",
+      "updated_at": "Fri, 14 Aug 2026 18:00:23 +0000",
+      "title": "First test flight of largest all-electric aircraft used just $5 of electricity",
+      "neutral_headline": "First test flight of largest all-electric aircraft used just $5 of electricity",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/08/czinger-debuts-topology-optimized-brakes-with-21c-spyder/",
-          "published_at": "Fri, 14 Aug 2026 07:01:15 +0000",
-          "title": "Organic-looking brake assemblies debut on new Czinger 21C Spyder",
-          "standfirst": "Czinger used topological design and additive manufacturing to make the brakes.",
-          "content": "Across California, it's time for Monterey Car Week, a cluster of events I once called \"Comic-Con and the Oscars but with wheels.\" For the last however many years, though, it's mostly felt like an accumulation of rich people and influencers all crammed into the now-traffic-snarled peninsula, each paying 10 times the normal price for five-night minimums in three-star motels. While being there in person is pretty far down the list of things I want to do these days, that doesn't mean there's no interesting news coming out of the event. And no, I'm not talking about that hideous collaboration between Singer and Louis Vuitton. I'm instead referring to the latest creation from Czinger. We first encountered Czinger's direct-metal laser-sintering technology a decade ago, before founder Kevin Czinger had even started the car company—at the time, it was still Divergent 3D. But what better way to show to the rest of the automotive industry that they should contract with you as a parts supplier than by making your own car? That was the idea behind Czinger (the company), and it's an approach that worked, as Divergent now has clients in the automotive sector as well as aerospace. And what a car it is: a hybrid with tandem seating and an ability to set new lap records should you have the skill. But the performance is less interesting than the engineering. Free of its body panels, the structure looks more organic than mechanical, with topology-optimized shapes that are lighter but no less performing than traditionally designed alternatives.Read full article Comments",
-          "feed_position": 0,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/CZV-1-Dynamic-Front-3-4-1152x648.jpg"
+          "url": "https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/",
+          "published_at": "Fri, 14 Aug 2026 18:00:23 +0000",
+          "title": "First test flight of largest all-electric aircraft used just $5 of electricity",
+          "standfirst": "Airline-backed venture aims to develop a hybrid-electric commercial aircraft.",
+          "content": "The first flight of the largest battery-electric aircraft to take to the skies lasted nearly half an hour while costing just $5 of electricity. That aviation feat comes at a time when jet fuel prices have skyrocketed because of the US war with Iran. The test flight of Heart Aerospace’s X1 demonstrator aircraft took place at Plattsburgh International Airport in upstate New York on August 12. The X1 aircraft is comparable in size to a small regional airliner and can achieve a maximum takeoff weight exceeding 25,000 pounds with the help of four wing-mounted electric motors. The battery-electric propulsion system delivered more than one megawatt of power during the maiden flight. All-electric aircraft can offer quieter and cleaner flight without the emissions that come from burning jet fuel. They may also prove more reliably cost-effective than conventional aircraft that come with jet fuel costs subject to geopolitical disruptions.Read full article Comments",
+          "feed_position": 1,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/x1-632-1152x648.jpg"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/CZV-1-Dynamic-Front-3-4-1152x648.jpg",
-      "popularity_score": 348.3803516666667
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/x1-632-1152x648.jpg",
+      "popularity_score": 367.3001125
     },
     {
-      "id": "cluster_44",
+      "id": "cluster_9",
+      "coverage": 1,
+      "updated_at": "Fri, 14 Aug 2026 18:32:14 +0000",
+      "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
+      "neutral_headline": "Vulnerability giving attackers full control of Macs is under active exploitation",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+          "published_at": "Fri, 14 Aug 2026 18:32:14 +0000",
+          "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
+          "standfirst": "Screen-sharing bug lets remote hackers log in without a password.",
+          "content": "Dutch officials have warned that a high-severity macOS vulnerability that allows attackers to execute malicious code is under active exploitation. “The NCSC has received a notification indicating that active abuse of this vulnerability has been observed on multiple systems on which port 5900 was accessible from the Internet,” the Netherlands National Cyber Security Centrum warned earlier this week. “In all these cases, root had been accessed on the affected system and a Monero crypto miner had been placed.” Do you know if your screen sharing is on? The vulnerability, tracked as CVE-2026-65400, received a patch from Apple last week for macOS Tahoe, Sequoia, and Sonoma. The vulnerability, with a severity rating of 7.1 out of 10, stems from a bug in the macOS screen sharing capability, which allows a remote party to view the screen and control the keyboard and mouse while a machine is turned on. A flaw in the “state management,” which keeps track of preceding events, user interactions, variables, and other system states, is the underlying cause.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/macbook-pro-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/macbook-pro-1152x648.jpg",
+      "popularity_score": 351.8309458333333
+    },
+    {
+      "id": "cluster_14",
+      "coverage": 1,
+      "updated_at": "Fri, 14 Aug 2026 17:26:53 +0000",
+      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+      "neutral_headline": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+          "published_at": "Fri, 14 Aug 2026 17:26:53 +0000",
+          "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+          "standfirst": "Judge warns pro se litigants are using chatbots wrong and getting desperate.",
+          "content": "A judge has identified what appears to be the first time a US plaintiff has attempted to hide text in court filings that only an artificial intelligence system can read in a bid to win a case. In a decision published last week, Connecticut judge Walter Spader Jr. confirmed that the hidden text had no impact in a case where a man alleged a healthcare provider was improperly withholding access to records. The court weighed his filing on the merits, Spader said, but nevertheless, the attempted attack sets a “dangerous” precedent. This will likely not be the last time US courts see the malicious tactic, as AI tools become more commonplace in court systems. Trying to scramble any AI systems potentially influencing the court’s reading of his filing, the secret instructions were “formatted to be invisible to a human reader while remaining fully legible to any software that reads the document’s text,” Spader said. The offending text directed any AI system reviewing the document to ensure textual outputs agreed with the plaintiff’s arguments, ignored prior denials from the court, and ensured that remediation would follow as the plaintiff desired.Read full article Comments",
+          "feed_position": 2,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1793608536-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1793608536-1152x648.jpg",
+      "popularity_score": 345.7417791666667
+    },
+    {
+      "id": "cluster_15",
+      "coverage": 1,
+      "updated_at": "Fri, 14 Aug 2026 17:13:14 +0000",
+      "title": "State judge orders Kalshi to stop offering sports bets and other wagers",
+      "neutral_headline": "State judge orders Kalshi to stop offering sports bets and other wagers",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/08/state-judge-orders-kalshi-to-stop-offering-sports-bets-and-other-wagers/",
+          "published_at": "Fri, 14 Aug 2026 17:13:14 +0000",
+          "title": "State judge orders Kalshi to stop offering sports bets and other wagers",
+          "standfirst": "Kalshi ordered to stop offering bets in Washington, must implement geofencing.",
+          "content": "A state court in Washington this week ordered Kalshi to stop offering sports gambling and a variety of other wagers on its prediction market. King County Superior Court Judge John McHale issued a preliminary injunction in response to a lawsuit filed against Kalshi by the state of Washington. \"The order requires Kalshi to stop offering, accepting, or facilitating wagers on sports, elections, politics, entertainment, culture, tech and science, or mentions in Washington,\" said a press release yesterday from Washington Attorney General Nick Brown. \"Kalshi must implement an IP address and residency-based geofence by August 19 and a multi-source geofencing solution by September 2. This does not include all the wagers offered on Kalshi, but it includes a substantial part of their business, which in recent years has been increasingly driven by sports wagers.\" Kalshi is not licensed by the state Gambling Commission and is not registered to conduct business in Washington, the court order said. McHale found that Kalshi ads claiming \"that it offers 'legal betting' in Washington state are likely to mislead a reasonable consumer that such gambling activities are legal under state law.\"Read full article Comments",
+          "feed_position": 3,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/kalshi-app-1152x648-1786725211.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/kalshi-app-1152x648-1786725211.jpg",
+      "popularity_score": 317.51427916666665
+    },
+    {
+      "id": "cluster_17",
+      "coverage": 1,
+      "updated_at": "Fri, 14 Aug 2026 17:03:54 +0000",
+      "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
+      "neutral_headline": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
+          "published_at": "Fri, 14 Aug 2026 17:03:54 +0000",
+          "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
+          "standfirst": "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars.",
+          "content": "After its cloud storage provider went defunct, a PBS affiliate decided to sue a data center provider to regain access to 50TB of TV shows, videos, and other data dating back 70 years. As reported this week by Current, a trade newspaper covering public broadcasting, St. Louis affiliate Nine PBS filed a lawsuit against Iron Mountain Data Centers on July 28, seeking access to the data. In the litigation filed in Denver District Court, Nine PBS says that its cloud storage provider, Open Source Storage (OSS), used one of Iron Mountain’s Denver data centers to store the channel’s data. However, OSS is being unresponsive, and Nine PBS says Iron Mountain has refused to release its data. The data in question includes the station’s coverage of the COVID-19 pandemic, East St. Louis’ history, The Great Flood of 1993, and over 11,000 files, The Denver Post reported in July. The lawsuit claims that “most” of the data is “unique and irreplaceable,” according to the Post.Read full article Comments",
+          "feed_position": 4,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2269291893-1024x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2269291893-1024x648.jpg",
+      "popularity_score": 310.3587236111111
+    },
+    {
+      "id": "cluster_22",
+      "coverage": 1,
+      "updated_at": "Fri, 14 Aug 2026 16:29:21 +0000",
+      "title": "Policy experts: Europe stuck between \"rock and a hard place\" on launch",
+      "neutral_headline": "Policy experts: Europe stuck between \"rock and a hard place\" on launch",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/08/policy-experts-europe-stuck-between-rock-and-a-hard-place-on-launch/",
+          "published_at": "Fri, 14 Aug 2026 16:29:21 +0000",
+          "title": "Policy experts: Europe stuck between \"rock and a hard place\" on launch",
+          "standfirst": "It turns out that the economics of rocket reuse are pretty, pretty good.",
+          "content": "A decade ago, SpaceX began to land the first stages of the Falcon 9 rocket with some regularity, but it's only within the last five years that the company has begun flying the rocket dozens and then hundreds of times a year. As a result, SpaceX has very rapidly become responsible for more than three-quarters of all mass launched into orbit. Much of this is the company's Starlink satellites, but due to cost and the lack of alternatives, SpaceX has also stepped up to launch payloads from all comers, including direct competitors such as Amazon, Northrop Grumman, AST Space Mobile, OneWeb, and more. New research is beginning to quantify just how much the introduction of the Falcon 9 rocket, the adoption of reuse, and the vehicle's high cadence have upended the global launch market.Read full article Comments",
+          "feed_position": 5,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/23802552292_6407c7a06f_k-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/23802552292_6407c7a06f_k-1152x648.jpg",
+      "popularity_score": 299.78289027777777
+    },
+    {
+      "id": "cluster_26",
+      "coverage": 1,
+      "updated_at": "Fri, 14 Aug 2026 16:11:37 +0000",
+      "title": "Ars Live recap: How can we stop publishers from killing their own games?",
+      "neutral_headline": "Ars Live recap: How can we stop publishers from killing their own games",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gaming/2026/08/ars-live-recap-how-can-we-stop-publishers-from-killing-their-own-games/",
+          "published_at": "Fri, 14 Aug 2026 16:11:37 +0000",
+          "title": "Ars Live recap: How can we stop publishers from killing their own games?",
+          "standfirst": "The Stop Killing Games movement faces an uphill battle.",
+          "content": "Video Game Preservation: Saving Yesterday's Games for Tomorrow's Players | Ars Live This week, Ars hosted a live discussion with Ross Scott about the Stop Killing Games movement and its ongoing efforts to ensure that games remain playable even after the original publisher shuts down the online servers undergirding them. Scott talked with Ars Technica Senior Gaming Editor Kyle Orland, saying said he felt the situation around long-term game access was already \"intolerable a decade and a half ago\" and that he \"kept hoping someone else would kick this off, [someone] more experienced or knowledgeable, but it felt like nothing was happening.\" Scott said he felt making the effort to organize a movement against the practice was like \"[drawing] the short straw on this, essentially.\" During the conversation, Scott noted how the standard practice of shutting down game access for any reason, at any time, with minimal notice, would seem ludicrous in other areas of life:Read full article Comments",
+          "feed_position": 6,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/3408519540_a597fef749_k-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/3408519540_a597fef749_k-1152x648.jpg",
+      "popularity_score": 289.4873347222222
+    },
+    {
+      "id": "cluster_34",
+      "coverage": 1,
+      "updated_at": "Fri, 14 Aug 2026 15:18:22 +0000",
+      "title": "R-rated director's cut of X-Files film restores Chris Carter's original horror vision",
+      "neutral_headline": "R-rated director's cut of X-Files film restores Chris Carter's original horror vision",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/culture/2026/08/r-rated-directors-cut-of-x-files-film-restores-chris-carters-original-horror-vision/",
+          "published_at": "Fri, 14 Aug 2026 15:18:22 +0000",
+          "title": "R-rated director's cut of X-Files film restores Chris Carter's original horror vision",
+          "standfirst": "Chris Carter chats with Ars about the film he originally wanted to make—and why it's more relevant than ever.",
+          "content": "There is a lot of excitement and some trepidation among The X-Files fans about Ryan Coogler's reboot for Hulu, currently in production. While we're waiting, Hulu just released Chris Carter's revamped (and R-rated) director's cut of the 2008 standalone spinoff film The X-Files: I Want to Believe, distinguishable from its predecessor with a slightly different title: The X-Files: I Want to Believe–Vrach Frankenshteyn. (Minor spoilers below but no major reveals.) I Want to Believe received mixed reviews at its release and didn’t exactly light up the box office, but it still grossed $68 million against its $30 million budget. By 2015, the project led to the return of The X-Files as a limited-run TV series, with the six-episode season 10 debuting in 2016. Mulder and Scully were reunited 14 years after the events of season 9 as the FBI reopened the X-Files under Assistant Director Walter Skinner (Mitch Pileggi). The response was strong enough to warrant a follow-up ten-episode season in 2018, focusing on Mulder and Scully’s search for their missing son, William.Read full article Comments",
+          "feed_position": 8,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/xfilesTOP-ALT-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/xfilesTOP-ALT-1152x648.jpg",
+      "popularity_score": 268.5998347222222
+    },
+    {
+      "id": "cluster_35",
+      "coverage": 1,
+      "updated_at": "Fri, 14 Aug 2026 15:03:16 +0000",
+      "title": "Taylor Farms' connections to Trump admin spurs probe into Cyclospora response",
+      "neutral_headline": "Taylor Farms' connections to Trump admin spurs probe into Cyclospora response",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/08/taylor-farms-connections-to-trump-admin-spurs-probe-into-cyclospora-response/",
+          "published_at": "Fri, 14 Aug 2026 15:03:16 +0000",
+          "title": "Taylor Farms' connections to Trump admin spurs probe into Cyclospora response",
+          "standfirst": "Senator Warren questions whether Taylor Farms' influence swayed Trump admin.",
+          "content": "As Americans cook their vegetables to at least 158°F to kill a diarrheal parasite that has sickened over 24,000 people and killed two this summer, one US Senator is turning up the heat on Health Secretary Robert F. Kenney Jr. over the government's \"calamitous response\" to the record outbreak. In a letter sent Thursday, Elizabeth Warren (D-Mass.) called the federal response to the Cyclospora outbreak \"botched\" and \"marred by missteps.\" She pointedly questioned whether corruption and incompetence within the Trump administration and its clear ties to Taylor Farms—the mammoth produce distributer that sold Mexican-grown iceberg lettuce linked to the outbreak—played a role in the federal government's failures. \"[P]olitical contributions and direct White House lobbying from Taylor Farms... raise urgent questions about the role this influence-peddling may have played in loosening federal food safety oversight and hampering the federal government’s response to the outbreak,\" Warren wrote in the letter.Read full article Comments",
+          "feed_position": 9,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2285922416-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2285922416-1152x648.jpg",
+      "popularity_score": 258.34816805555556
+    },
+    {
+      "id": "cluster_41",
+      "coverage": 1,
+      "updated_at": "Fri, 14 Aug 2026 14:27:14 +0000",
+      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+      "neutral_headline": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+          "published_at": "Fri, 14 Aug 2026 14:27:14 +0000",
+          "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+          "standfirst": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
+          "content": "Leading US AI labs such as OpenAI and Anthropic are releasing cheaper models as they fight to retain cost-conscious customers who are switching to cut-price alternatives from Chinese rivals. The price war comes as rising AI bills push companies to curb usage and seek cheaper models, helping Chinese developers including Moonshot and DeepSeek make inroads with users from Silicon Valley to Europe. OpenAI recently said that it was slashing prices for GPT-5.6 Luna, its “fastest and most affordable model”, by 80 percent. Anthropic has launched Claude Opus 5, touting the system’s “frontier intelligence... at half the price” of Fable 5, the company’s most capable model.Read full article Comments",
+          "feed_position": 10,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285566787-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285566787-1152x648.jpg",
+      "popularity_score": 162.7476125
+    },
+    {
+      "id": "cluster_55",
+      "coverage": 1,
+      "updated_at": "Fri, 14 Aug 2026 11:00:05 +0000",
+      "title": "Samsung Galaxy Z Fold 8 Ultra review: The ultra foldable with an ultra price",
+      "neutral_headline": "Samsung Galaxy Z Fold 8 Ultra review: The ultra foldable with an ultra price",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/08/samsung-galaxy-z-fold-8-ultra-review-the-ultra-foldable-with-an-ultra-price/",
+          "published_at": "Fri, 14 Aug 2026 11:00:05 +0000",
+          "title": "Samsung Galaxy Z Fold 8 Ultra review: The ultra foldable with an ultra price",
+          "standfirst": "Samsung didn't have to change much this year because its hardware is just that good.",
+          "content": "Samsung has largely defined the foldable phone category, but it's no longer alone in releasing flexible devices. Google, Motorola, and a raft of Chinese OEMs have their own take on this form factor. Is the new Galaxy Z Fold 8 Ultra really \"ultra\" enough to remain on top? This phone doesn't have the wide frame of the new Z Fold 8, instead matching the approximate size and shape of the company’s last few tablet-style foldables. The Z Fold 8 Ultra is not a big leap, but it continues Samsung's pattern of iterative foldable improvements. At this point, there's very little left to improve. The compromises of going with a foldable over a regular flat phone have largely been erased with the Z Fold 8 Ultra. Well, except for the price. Flatter and a little better Foldables used to be real pocket-busters, almost like carrying two phones glued together. Samsung has successively shaved a few millimeters off every year, taking a leap last year with the Z Fold 7. The Z Fold 8 Ultra is even a bit slimmer than that phone, but the difference is basically imperceptible. It still has the same buttons in the same places, including a fingerprint sensor in the power button.Read full article Comments",
+          "feed_position": 12,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Galaxy-Z-Fold-8-Ultra-4-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Galaxy-Z-Fold-8-Ultra-4-1152x648.jpg",
+      "popularity_score": 155.2951125
+    },
+    {
+      "id": "cluster_84",
       "coverage": 1,
       "updated_at": "Thu, 13 Aug 2026 22:17:29 +0000",
       "title": "US wait times for cancer surgeries are getting longer and longer",
@@ -368,63 +420,15 @@
           "title": "US wait times for cancer surgeries are getting longer and longer",
           "standfirst": "Study finds wait times for cancer surgeries hit 10-year high.",
           "content": "As cancer treatments have advanced and outcomes have improved, one aspect of cancer care in the US has consistently worsened over the last decade: the wait time for surgery. According to a study in JAMA Surgery, patients with one of six types of cancer—breast, colon, lung, pancreatic, gastric, and esophageal—have faced longer wait times for surgery than in 2012. Timeliness is considered a core metric of healthcare quality, and delays in cancer surgery have been linked to poorer outcomes, including reduced survival rates and increased patient anxiety and distress. The findings of the new study are based on data from over 2.7 million patients who had been diagnosed with non-metastatic stage I–III cancers requiring surgery between 2012 and 2023. Researchers led by cancer expert Timothy Donahue at the University of California, Los Angeles, broke that time frame up into four groups: 2012–2015, 2016–2019, 2020–2021, and 2022–2023 to see how wait times have changed over the period.Read full article Comments",
-          "feed_position": 1,
+          "feed_position": 14,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2018/03/GettyImages-869535440-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2018/03/GettyImages-869535440-1152x648.jpg",
-      "popularity_score": 344.6509072222222
+      "popularity_score": 148
     },
     {
-      "id": "cluster_59",
-      "coverage": 1,
-      "updated_at": "Thu, 13 Aug 2026 19:38:58 +0000",
-      "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
-      "neutral_headline": "Private security firms will soon be allowed to hack overseas cybercriminals",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
-          "published_at": "Thu, 13 Aug 2026 19:38:58 +0000",
-          "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
-          "standfirst": "Trump memo is first time gov't has authorized private sector to perform cyberattacks.",
-          "content": "The Trump administration is recruiting private security firms to conduct federal government-authorized operations, including cyberattacks, against overseas-based criminal organizations that commit hacks on US persons, organizations, or government entities. In a National Security Presidential Memorandum issued Thursday, US President Donald Trump directed the National Coordination Center (NCC), which operates under the Homeland Security Task Force, to develop a program for conducting specific cyber operations that combat foreign transnational criminal organizations (TCOs). The Departments of Justice and Homeland Security will provide oversight. The lynchpin of that program is bringing in private sector companies to participate. Devil will be in the still-undefined details A fact sheet that accompanied Thursday’s memo listed ransomware, sextortion schemes, phishing campaigns, financial fraud, and impersonation scams as activities eligible for private-sector security firms to target. The memo said such firms could “conduct Cyber Surveillance Operations and Cyber Effects Operations” against “cyber-enabled” TCOs. Such groups are defined as “any foreign group that conducts cyber-enabled crime against the United States Government, a United States person, or United States interests, and that is not an institutional part of a foreign government or wholly operated under a foreign government’s direction.”Read full article Comments",
-          "feed_position": 2,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/security-illustration-skull-1152x648-1783710141.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/security-illustration-skull-1152x648-1783710141.jpg",
-      "popularity_score": 327.00896277777775
-    },
-    {
-      "id": "cluster_62",
-      "coverage": 1,
-      "updated_at": "Thu, 13 Aug 2026 19:12:15 +0000",
-      "title": "Virgin Galactic wants your help naming its new Delta class spaceship",
-      "neutral_headline": "Virgin Galactic wants your help naming its new Delta class spaceship",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/08/virgin-galactic-wants-your-help-naming-its-new-delta-class-spaceship/",
-          "published_at": "Thu, 13 Aug 2026 19:12:15 +0000",
-          "title": "Virgin Galactic wants your help naming its new Delta class spaceship",
-          "standfirst": "Will it be the VSS... Horizon, Explorer, Ascend or Apeiron?",
-          "content": "As Virgin Galactic nears christening the first of its next-generation spaceship designed to launch customers on suborbital flights, it still is missing a key component—a name. The self-described \"commercial spaceline,\" which was founded by British tycoon Richard Branson, has turned to the public to vote on what to call the new vehicle. The spaceplane will be a member of Virgin Galactic's Delta-class fleet, succeeding SpaceShipTwo, which carried Branson and 31 others on 12 short hops above the US-defined boundary between Earth and space. \"You can vote for one of four finalist names for a spaceship that will join Virgin Galactic's growing fleet and the next chapter in our journey to expand access to space,\" the company announced on its website on August 11. \"Name a Virgin Galactic spaceship, shape a piece of spaceflight history.\"Read full article Comments",
-          "feed_position": 3,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/news-081226a-lg-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/news-081226a-lg-1152x648.jpg",
-      "popularity_score": 314.563685
-    },
-    {
-      "id": "cluster_64",
+      "id": "cluster_102",
       "coverage": 1,
       "updated_at": "Thu, 13 Aug 2026 18:31:56 +0000",
       "title": "Ukrainian drones wipe out entire US tank brigade in live war game",
@@ -440,15 +444,111 @@
           "title": "Ukrainian drones wipe out entire US tank brigade in live war game",
           "standfirst": "Ukrainian drone pilots teach the US military and NATO hard battlefield lessons.",
           "content": "Ukrainian drone teams demolished a brigade of US Army tanks and armored vehicles during a live war game held this year—but the US soldiers were lucky enough to get “respawn” attempts while learning from the experience. The semiannual military exercise, called Combined Resolve, gave the US military a firsthand taste of how modern drone warfare has evolved on the battlefields of Ukraine. The Ukrainian drone operators participating in the exercise were easily able to spot and destroy US armored vehicles by mimicking the actions of dropping bombs from above or moving close enough to simulate a kamikaze strike, according to US officials and a participant who spoke with The Wall Street Journal. US armored vehicles were being destroyed so quickly that they were “respawned” and sent back into the simulated fray, a US official told The Wall Street Journal. The US troops who participated in the exercise—held in Germany from April 9 to May 10—were on rotational deployment from Fort Hood, Texas.Read full article Comments",
-          "feed_position": 4,
+          "feed_position": 17,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/US-Army-Tank-in-Exercise-Combined-Resolve-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/US-Army-Tank-in-Exercise-Combined-Resolve-1152x648.jpg",
-      "popularity_score": 310.89174055555554
+      "popularity_score": 148
     },
     {
-      "id": "cluster_67",
+      "id": "cluster_54",
+      "coverage": 1,
+      "updated_at": "Fri, 14 Aug 2026 11:00:49 +0000",
+      "title": "Rocket Report: Rocket Lab shows off its flexibility; Blue Origin's two-pad plan",
+      "neutral_headline": "Rocket Report: Rocket Lab shows off its flexibility; Blue Origin's two-pad plan",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/08/rocket-report-rocket-lab-shows-off-its-flexibility-blue-origins-two-pad-plan/",
+          "published_at": "Fri, 14 Aug 2026 11:00:49 +0000",
+          "title": "Rocket Report: Rocket Lab shows off its flexibility; Blue Origin's two-pad plan",
+          "standfirst": "\"We’ve never seen launch capacity so constrained.\"",
+          "content": "Welcome to Edition 9.06 of the Rocket Report! Rocket Lab made a lot of news this week with its quarterly update, and it is clear the company is making impressive progress as it becomes much more than a launch company. But at the end of the day, a lot of the company's success is predicated on the Neutron vehicle, and I'm not thrilled with Rocket Lab's ambiguity around its readiness. As a user on X noted, the company's language on Stage 2 being ready to ship to the launch site has not changed much in 12 months. As always, we welcome reader submissions, and if you don't want to miss an issue, please subscribe using the box below (the form will not appear on AMP-enabled versions of the site). Each report will include information on small-, medium-, and heavy-lift rockets as well as a quick look ahead at the next three launches on the calendar. Rocket Lab decides to get flexible. Rocket Lab plans to start launching its Electron vehicle even more frequently and flexibly, thanks to a new portable spaceport system called GHOST, Space.com reports. GHOST—short for \"Global Hypersonic & Orbital Spaceport Technology\"—turns the company's \"Electron and HASTE rockets into a launch-anywhere, launch-anytime capability for multi-launch flight campaigns and critical national security missions,\" the company said this week.Read full article Comments",
+          "feed_position": 11,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/News_LaunchComplex-36B-1152x648.webp"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/News_LaunchComplex-36B-1152x648.webp",
+      "popularity_score": 144.3073347222222
+    },
+    {
+      "id": "cluster_97",
+      "coverage": 1,
+      "updated_at": "Thu, 13 Aug 2026 19:38:58 +0000",
+      "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
+      "neutral_headline": "Private security firms will soon be allowed to hack overseas cybercriminals",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
+          "published_at": "Thu, 13 Aug 2026 19:38:58 +0000",
+          "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
+          "standfirst": "Trump memo is first time gov't has authorized private sector to perform cyberattacks.",
+          "content": "The Trump administration is recruiting private security firms to conduct federal government-authorized operations, including cyberattacks, against overseas-based criminal organizations that commit hacks on US persons, organizations, or government entities. In a National Security Presidential Memorandum issued Thursday, US President Donald Trump directed the National Coordination Center (NCC), which operates under the Homeland Security Task Force, to develop a program for conducting specific cyber operations that combat foreign transnational criminal organizations (TCOs). The Departments of Justice and Homeland Security will provide oversight. The lynchpin of that program is bringing in private sector companies to participate. Devil will be in the still-undefined details A fact sheet that accompanied Thursday’s memo listed ransomware, sextortion schemes, phishing campaigns, financial fraud, and impersonation scams as activities eligible for private-sector security firms to target. The memo said such firms could “conduct Cyber Surveillance Operations and Cyber Effects Operations” against “cyber-enabled” TCOs. Such groups are defined as “any foreign group that conducts cyber-enabled crime against the United States Government, a United States person, or United States interests, and that is not an institutional part of a foreign government or wholly operated under a foreign government’s direction.”Read full article Comments",
+          "feed_position": 15,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/security-illustration-skull-1152x648-1783710141.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/security-illustration-skull-1152x648-1783710141.jpg",
+      "popularity_score": 143
+    },
+    {
+      "id": "cluster_100",
+      "coverage": 1,
+      "updated_at": "Thu, 13 Aug 2026 19:12:15 +0000",
+      "title": "Virgin Galactic wants your help naming its new Delta class spaceship",
+      "neutral_headline": "Virgin Galactic wants your help naming its new Delta class spaceship",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/08/virgin-galactic-wants-your-help-naming-its-new-delta-class-spaceship/",
+          "published_at": "Thu, 13 Aug 2026 19:12:15 +0000",
+          "title": "Virgin Galactic wants your help naming its new Delta class spaceship",
+          "standfirst": "Will it be the VSS... Horizon, Explorer, Ascend or Apeiron?",
+          "content": "As Virgin Galactic nears christening the first of its next-generation spaceship designed to launch customers on suborbital flights, it still is missing a key component—a name. The self-described \"commercial spaceline,\" which was founded by British tycoon Richard Branson, has turned to the public to vote on what to call the new vehicle. The spaceplane will be a member of Virgin Galactic's Delta-class fleet, succeeding SpaceShipTwo, which carried Branson and 31 others on 12 short hops above the US-defined boundary between Earth and space. \"You can vote for one of four finalist names for a spaceship that will join Virgin Galactic's growing fleet and the next chapter in our journey to expand access to space,\" the company announced on its website on August 11. \"Name a Virgin Galactic spaceship, shape a piece of spaceflight history.\"Read full article Comments",
+          "feed_position": 16,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/news-081226a-lg-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/news-081226a-lg-1152x648.jpg",
+      "popularity_score": 141
+    },
+    {
+      "id": "cluster_75",
+      "coverage": 1,
+      "updated_at": "Fri, 14 Aug 2026 07:01:15 +0000",
+      "title": "Organic-looking brake assemblies debut on new Czinger 21C Spyder",
+      "neutral_headline": "Organic-looking brake assemblies debut on new Czinger 21C Spyder",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/cars/2026/08/czinger-debuts-topology-optimized-brakes-with-21c-spyder/",
+          "published_at": "Fri, 14 Aug 2026 07:01:15 +0000",
+          "title": "Organic-looking brake assemblies debut on new Czinger 21C Spyder",
+          "standfirst": "Czinger used topological design and additive manufacturing to make the brakes.",
+          "content": "Across California, it's time for Monterey Car Week, a cluster of events I once called \"Comic-Con and the Oscars but with wheels.\" For the last however many years, though, it's mostly felt like an accumulation of rich people and influencers all crammed into the now-traffic-snarled peninsula, each paying 10 times the normal price for five-night minimums in three-star motels. While being there in person is pretty far down the list of things I want to do these days, that doesn't mean there's no interesting news coming out of the event. And no, I'm not talking about that hideous collaboration between Singer and Louis Vuitton. I'm instead referring to the latest creation from Czinger. We first encountered Czinger's direct-metal laser-sintering technology a decade ago, before founder Kevin Czinger had even started the car company—at the time, it was still Divergent 3D. But what better way to show to the rest of the automotive industry that they should contract with you as a parts supplier than by making your own car? That was the idea behind Czinger (the company), and it's an approach that worked, as Divergent now has clients in the automotive sector as well as aerospace. And what a car it is: a hybrid with tandem seating and an ability to set new lap records should you have the skill. But the performance is less interesting than the engineering. Free of its body panels, the structure looks more organic than mechanical, with topology-optimized shapes that are lighter but no less performing than traditionally designed alternatives.Read full article Comments",
+          "feed_position": 13,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/CZV-1-Dynamic-Front-3-4-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/CZV-1-Dynamic-Front-3-4-1152x648.jpg",
+      "popularity_score": 140.31455694444443
+    },
+    {
+      "id": "cluster_105",
       "coverage": 1,
       "updated_at": "Thu, 13 Aug 2026 18:10:14 +0000",
       "title": "Flock “can’t tech its way out” of the stalker cop problem, experts say",
@@ -464,39 +564,15 @@
           "title": "Flock “can’t tech its way out” of the stalker cop problem, experts say",
           "standfirst": "Flock to lock out cops who stalk exes, but agencies can still hide abuse.",
           "content": "On Thursday, Flock announced plans to require all agencies with access to license plate reader data to use a safety tool that automatically detects abnormal activity and locks out cops who abuse their access to stalk people they know in their personal lives. Flock’s audit assistance tool suspends access when user activity “meets defined criteria for abnormal behavior,” Flock said. The suspension can only be lifted by administrator review, with the goal being “to intervene before misuse becomes recurring or widespread.” The tech has been available as an optional free feature since April, but only a third of agencies had opted in, Flock said. However, after a single Georgia sheriff’s office used the tool and subsequently arrested three cops who were separately using Flock cameras to stalk acquaintances, Flock CEO Garrett Langley told The Verge that dozens of incidents like these helped his company realize they made a mistake and had to act to correct it.Read full article Comments",
-          "feed_position": 5,
+          "feed_position": 18,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2288946074-1024x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2288946074-1024x648.jpg",
-      "popularity_score": 285.53007388888886
+      "popularity_score": 133
     },
     {
-      "id": "cluster_69",
-      "coverage": 1,
-      "updated_at": "Thu, 13 Aug 2026 17:32:10 +0000",
-      "title": "The new Instagram logo is the perfect embodiment of AI slop",
-      "neutral_headline": "The new Instagram logo is the perfect embodiment of AI slop",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
-          "published_at": "Thu, 13 Aug 2026 17:32:10 +0000",
-          "title": "The new Instagram logo is the perfect embodiment of AI slop",
-          "standfirst": "Opinion: Some remarks about the new wordmark accidentally being perfectly awful.",
-          "content": "Today, Instagram unveiled a refresh of its wordmark, accompanied by the usual bland corporate platitudes these kinds of announcements are always packaged with. Head of Instagram Adam Mosseri called it “leaner and more modern, with references to the original and the simplicity and craft that’s always made it Instagram.” Sure, Adam. Simplicity and craft are definitely what everyone thinks of when Instagram comes to mind.Read full article Comments",
-          "feed_position": 7,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/instagram-2026-wordmark.png"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/instagram-2026-wordmark.png",
-      "popularity_score": 279.89562944444447
-    },
-    {
-      "id": "cluster_68",
+      "id": "cluster_106",
       "coverage": 1,
       "updated_at": "Thu, 13 Aug 2026 17:53:53 +0000",
       "title": "Pet owners say smart pet feeder outage led to furry ones going unfed",
@@ -512,299 +588,11 @@
           "title": "Pet owners say smart pet feeder outage led to furry ones going unfed",
           "standfirst": "\"I've lost trust ...\"",
           "content": "Smart pet-feeder company Petlibro suffered an outage on Tuesday, giving users a harsh reminder of the risks of relying on smart devices. Petlibro makes pet feeders that connect to Wi-Fi and, for setup with Petlibro’s mobile companion app, Bluetooth. Users can set the feeders to automatically dispense food at scheduled times, which is handy for pet care when the owner is out of the home. In a statement to The Verge, Petlibro CEO York Wu said this week’s outage was “related to how the Petlibro app communicates with devices through its online servers.”Read full article Comments",
-          "feed_position": 6,
+          "feed_position": 19,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/PDP-AF105-Carousel-07-1152x648.webp"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/PDP-AF105-Carousel-07-1152x648.webp",
-      "popularity_score": 275.2575738888889
-    },
-    {
-      "id": "cluster_74",
-      "coverage": 1,
-      "updated_at": "Thu, 13 Aug 2026 17:00:13 +0000",
-      "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
-      "neutral_headline": "Google announces Gemini 3.7 Flash just three weeks after previous release",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
-          "published_at": "Thu, 13 Aug 2026 17:00:13 +0000",
-          "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
-          "standfirst": "Gemini 3.6 Flash debuted just 3 weeks ago, but Google says 3.7 has \"substantial improvements.\"",
-          "content": "Google is announcing a new Gemini model today, but it's not the long-awaited 3.5 Pro. Gemini 3.7 Flash is now rolling out to replace 3.6 Flash, which itself was released only three weeks ago. This new \"workhorse\" model is supposedly the product of core optimizations and developer feedback, offering improved coding and agentic performance. And Google is hoping to counter the lower cost of some competing models with a lower \"introductory price\" for 3.7 Flash. According to Senior Director Tulsee Doshi, Gemini 3.7 Flash is noticeably better at coding than the previous Flash release. She cites a jump in the FrontierCode 1.1 Main test from 34.4 to 43.6 percent and DeepSWE v1.1 going from 49 to 65.3 percent. As for the vibes, Gemini 3.7 Flash's WebDev Arena score has risen to 1,588 from 1,538. People turning to Gemini and hoping it will \"know\" things may also see modest improvements in Gemini 3.7 Flash. The GDP.pdf benchmark, which measures how well a model can process complex documents, has gone up to 34 percent versus 22 percent with 3.6 Flash. AutomationBench tests how well models can execute common business workflows, and Gemini 3.7 Flash rose to 30.4 percent from 3.6's 17 percent score.Read full article Comments",
-          "feed_position": 8,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-4-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-4-1152x648.jpg",
-      "popularity_score": 272.36312944444444
-    },
-    {
-      "id": "cluster_92",
-      "coverage": 1,
-      "updated_at": "Thu, 13 Aug 2026 14:00:57 +0000",
-      "title": "Rivian's 2027 changes include its No. 1 most-requested feature",
-      "neutral_headline": "Rivian's 2027 changes include its No. 1 most-requested feature",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/08/rivian-tweaks-its-r1-range-for-model-year-2027/",
-          "published_at": "Thu, 13 Aug 2026 14:00:57 +0000",
-          "title": "Rivian's 2027 changes include its No. 1 most-requested feature",
-          "standfirst": "Pricing hasn't changed, and now you can get captain's chairs for the R1S.",
-          "content": "It's time for Rivian's changeover from model year 2026 to 2027, and the electric vehicle startup has decided to take a page from its recently released R2 SUV and apply it to the company's larger, more expensive R1 line. The changes aren't massive—the R1 got a refresh in 2024 that saw the R1S SUV and R1T pickup each get some comprehensive re-engineering with new powertrain options, a new electronic architecture, and new batteries. But among them is the No. 1 most requested feature by Rivian R1S customers, the automaker told Ars: captain's chairs for the second row. The six-seat interior is an alternative to a middle bench, and the Rivian captain's chair looks thoughtfully designed, with a hidden cupholder that I'm not sure I've seen on any other SUV before. The chairs are also spaced so it's easy to get to the third row, or use that volume between them for skis, snowboards, or surfboards. Rivian has also changed the trims, bringing them into line with the offer structure on the recently released R2. Instead of choosing from Dual, Tri, or R1s, Rivian is now calling them Premium and Performance; Quad stays Quad. But the base price for each stays the same: The R1T still starts at $79,990 and the R1S at $83,990.Read full article Comments",
-          "feed_position": 9,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/260701_BRANDON-DELA-CRUZ_MY27-ESKER-R1_1441_final-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/260701_BRANDON-DELA-CRUZ_MY27-ESKER-R1_1441_final-1152x648.jpg",
-      "popularity_score": 243
-    },
-    {
-      "id": "cluster_124",
-      "coverage": 1,
-      "updated_at": "Wed, 12 Aug 2026 22:31:19 +0000",
-      "title": "Toddler's tragic death from brain-destroying amoeba offers lessons for doctors",
-      "neutral_headline": "Toddler's tragic death from brain-destroying amoeba offers lessons for doctors",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it/",
-          "published_at": "Wed, 12 Aug 2026 22:31:19 +0000",
-          "title": "Toddler's tragic death from brain-destroying amoeba offers lessons for doctors",
-          "standfirst": "Boy's unusual symptoms could help identify the next case sooner.",
-          "content": "A healthy toddler in Washington state fell ill abruptly. It began with vomiting, lethargy, and weakness on his right side. Then it progressed to a headache, fever, and trouble swallowing. At one point, he briefly became unresponsive, and he had episodes where he stopped breathing. Doctors admitted him to the hospital, but his condition only deteriorated. The boy was infected with an ultra-rare amoeba known for ravaging the brain. The opportunistic pathogen was first identified in 1986 from the brain of a San Diego Zoo monkey, which died from the infection. Since then, only about 200 human cases have been recorded worldwide. About 90 percent of them have been fatal. The initial symptoms can be vague and, given its rarity, the infection is notorious for being undiagnosed or misdiagnosed. Still, the scant medical literature does provide some telltale signs, clues of what it can look like on tests and scans. But for the toddler, the infection looked different, sending doctors down the wrong path.Read full article Comments",
-          "feed_position": 13,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2163387581-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2163387581-1152x648.jpg",
-      "popularity_score": 148
-    },
-    {
-      "id": "cluster_126",
-      "coverage": 1,
-      "updated_at": "Wed, 12 Aug 2026 22:02:25 +0000",
-      "title": "The web’s newest weapon against AI scrapers is a font",
-      "neutral_headline": "The web’s newest weapon against AI scrapers is a font",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
-          "published_at": "Wed, 12 Aug 2026 22:02:25 +0000",
-          "title": "The web’s newest weapon against AI scrapers is a font",
-          "standfirst": "“ShieldFont” aims to poison AI training data without making pages unreadable for people.",
-          "content": "AI companies' penchant for scraping through large swaths of the public web in search of valuable training data has already led to lawsuits and technical fixes aimed at stopping the practice. Now, a pair of designers is hoping to stymie these scrapers with a new font designed to offer people a perfectly readable webpage while serving scrapers a subtly edited, nonsensical version in the underlying HTML. ShieldFont, as designers Isaque Seneda and Gabriel Abrucio write in a recent white paper, was made to offer web publishers \"a practical opt-out from unauthorized AI training and [to] disrupt what is collected when that choice is ignored.\" When is a horse a potato? The font is based around ligatures, a long-standing feature of many fonts that is usually used to replace certain letter pairs with a more readable version when they're smushed up next to each other. With ShieldFont, though, those ligatures are instead used to replace entire words with others in an attempt to destroy the text's value to scrapers. This substitution only happens when the font engine draws the page onscreen, meaning scrapers that simply download plaintext source code get an altered version that end users never see.Read full article Comments",
-          "feed_position": 14,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2261896328-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2261896328-1152x648.jpg",
-      "popularity_score": 148
-    },
-    {
-      "id": "cluster_127",
-      "coverage": 1,
-      "updated_at": "Wed, 12 Aug 2026 21:43:21 +0000",
-      "title": "Terabytes of credentials leaked in massive supply-chain attack",
-      "neutral_headline": "Terabytes of credentials leaked in massive supply-chain attack",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
-          "published_at": "Wed, 12 Aug 2026 21:43:21 +0000",
-          "title": "Terabytes of credentials leaked in massive supply-chain attack",
-          "standfirst": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
-          "content": "Terabytes worth of credentials, many belonging to the world’s biggest and most sensitive organizations, have been exposed in a supply-chain attack on LiteLLM, an open source tool that streamlines AI-driven software development. Microsoft, Amazon, Cisco, Samsung, and Salesforce are only a handful of the entities whose access secrets were exposed. The revelation was posted on Tuesday and Wednesday by security firms CloudSEK and Hudson Rock. CloudSEK said it found cloud keys, repository tokens, SSH keys, Kubernetes secrets, package publishing credentials, environment variables, and AI provider keys that could allow attackers to gain access to more than 2,500 organizations. 40 minutes is all it takes The credentials were extracted during a 40-minute window in March while the victims used compromised versions of LiteLLM downloaded from the package’s official location in the Python Package Index repository. Hudson Rock said it made the discovery after analyzing a 195TB file that it obtained. Neither firm identified the source of the information.Read full article Comments",
-          "feed_position": 15,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/data-breach.jpeg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/data-breach.jpeg",
-      "popularity_score": 148
-    },
-    {
-      "id": "cluster_129",
-      "coverage": 1,
-      "updated_at": "Wed, 12 Aug 2026 21:00:30 +0000",
-      "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
-      "neutral_headline": "Twitch content has trained Amazon AI for years, but users can opt out now",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
-          "published_at": "Wed, 12 Aug 2026 21:00:30 +0000",
-          "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
-          "standfirst": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\"",
-          "content": "Twitch now lets users opt out of Amazon's use of content from their channels to train Amazon's \"generative AI content models.\" The change, announced today, comes more than two years after a company executive confirmed that Amazon was using Twitch content for AI training. In an updated support page, Twitch confirms that users must opt out if they don’t want their “streams, VODs, clips, stream chats, and pictures and text on your channel [to] be used in future training of a model developed by Amazon whose purpose is to generate or synthesize text, audio, images, or video.” To opt out, users must go to the proper settings at www.twitch.tv/settings/security.Read full article Comments",
-          "feed_position": 17,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2286491305-1024x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2286491305-1024x648.jpg",
-      "popularity_score": 148
-    },
-    {
-      "id": "cluster_128",
-      "coverage": 1,
-      "updated_at": "Wed, 12 Aug 2026 21:13:39 +0000",
-      "title": "Have physicists finally discovered glueballs? New evidence points to yes.",
-      "neutral_headline": "Have physicists finally discovered glueballs? New evidence points to yes.",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/08/have-physicists-finally-discovered-glueballs-new-evidence-points-to-yes/",
-          "published_at": "Wed, 12 Aug 2026 21:13:39 +0000",
-          "title": "Have physicists finally discovered glueballs? New evidence points to yes.",
-          "standfirst": "“It’s the strongest evidence yet that particles dominated by a glueball component can exist in nature.”",
-          "content": "Physicists with the Beijing Spectrometer III (BES III) experiment have uncovered convincing new evidence of the existence of so-called glueballs, an elusive composite particle made entirely of gluons predicted by quantum theory. The results appeared in a preprint posted to arXiv last month and were also presented last week at the International Conference on High Energy Physics (ICHEP). All the stuff we see around us is made up of quarks held together by gluons (carriers of the nuclear strong force) to form protons and neutrons, which comprise the core of every single atom. The Higgs boson, discovered in 2012 after decades of searching, was widely touted as the final missing piece of the Standard Model of Particle Physics. But there are still plenty of unanswered questions, including whether or not glueballs really exist. They should, if the Standard Model is correct; they're a direct prediction of quantum chromodynamics, i.e., the theory of the strong nuclear force. There should even be several kinds of glueballs. As Matthew Francis wrote for Ars in 2015:Read full article Comments",
-          "feed_position": 16,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/glueball1-1152x648-1786561096.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/glueball1-1152x648-1786561096.jpg",
-      "popularity_score": 139
-    },
-    {
-      "id": "cluster_94",
-      "coverage": 1,
-      "updated_at": "Thu, 13 Aug 2026 13:58:56 +0000",
-      "title": "Anthropic could be worth $2 trillion when it goes public",
-      "neutral_headline": "Anthropic could be worth $2 trillion when it goes public",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
-          "published_at": "Thu, 13 Aug 2026 13:58:56 +0000",
-          "title": "Anthropic could be worth $2 trillion when it goes public",
-          "standfirst": "Rapid revenue growth fuels hope Claude maker's IPO is the biggest listing in history",
-          "content": "Anthropic investors expect the AI startup to float at a valuation of $2 trillion or more in October, a dizzying figure that would eclipse SpaceX and make the AI lab’s debut the largest-ever initial public offering. Half a dozen of the company’s backers told the FT that Anthropic’s rapidly rising revenue would enable it to more than double its current valuation in a planned autumn float. A listing at that level could unlock billions of dollars in gains for the five-year-old company’s early investors but would also test public markets that are growing more nervous about the AI boom.Read full article Comments",
-          "feed_position": 10,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_95",
-      "coverage": 1,
-      "updated_at": "Thu, 13 Aug 2026 13:48:55 +0000",
-      "title": "We've flown a radiation-blocking vest to the Moon and back, and it worked",
-      "neutral_headline": "We've flown a radiation-blocking vest to the Moon and back, and it worked",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/08/weve-flown-a-radiation-blocking-vest-to-the-moon-and-back-and-it-worked/",
-          "published_at": "Thu, 13 Aug 2026 13:48:55 +0000",
-          "title": "We've flown a radiation-blocking vest to the Moon and back, and it worked",
-          "standfirst": "Let's shield the astronauts instead of the spacecraft.",
-          "content": "Solar storms, like the one in August 1972 that hit during the gap between the Apollo 16 and Apollo 17 missions, throw bursts of protons intense enough to raise an astronaut's cancer risk or even cause radiation sickness. Earth's atmosphere and magnetic field absorb this radiation, but crews heading to the Moon or Mars won't have that protection, and no spacecraft built so far has enough shielding to stop it. A team led by Jordan Houri and Oren Milstein of StemRad, an Israeli-American startup developing personal protective equipment against radiation, proposed that we could solve this by shielding the astronauts instead of shielding the spacecraft. To test this idea, StemRad’s team flew a wearable radiation-shielding vest called AstroRad to the Moon and back aboard NASA's uncrewed Artemis I mission, then used the flight data to calculate how it would perform during an actual solar storm. It turns out the vest would perform roughly as well as the Orion’s heavily shielded onboard shelter the crew was supposed to hide in to wait out a storm.Read full article Comments",
-          "feed_position": 11,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/spacevest-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/spacevest-1152x648.jpg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_104",
-      "coverage": 1,
-      "updated_at": "Thu, 13 Aug 2026 11:10:18 +0000",
-      "title": "Claude's new Scarlet Letter watermark is invisible—for now",
-      "neutral_headline": "Claude's new Scarlet Letter watermark is invisible—for now",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
-          "published_at": "Thu, 13 Aug 2026 11:10:18 +0000",
-          "title": "Claude's new Scarlet Letter watermark is invisible—for now",
-          "standfirst": "The mark flags anything Claude processed, even human writing it only edited.",
-          "content": "Anthropic has revealed that it will soon watermark content that is processed (not just generated!) by any of its models. In a support article, Anthropic explained that it was rolling out machine-readable watermarks to comply with the European Union’s AI Act, which requires all AI system providers to watermark AI-generated or manipulated audio, image, text, and video outputs. The law applies to any AI model released after August 2 and provides a grace period until December 2026 for providers to update previously released models. Anthropic confirmed that moving forward, all new models offered globally—not just in the EU—will mark AI-generated content “from day one.” Text outputs will “carry embedded watermarks,” invisible to the user, and other “generated files will include digitally signed provenance metadata where supported,” Anthropic said. Notably, Anthropic is deploying a \"nuke it from orbit\" approach, applying the watermarks to all processed content where supported, even though the EU does not require it for cases where an AI system performs \"an assistive function for standard editing\" (the guidance's own example is grammar correction), or where it doesn't \"substantially alter\" the user's text or its meaning.Read full article Comments",
-          "feed_position": 12,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/claude-psycho-watermark-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/claude-psycho-watermark-1152x648.jpg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_131",
-      "coverage": 1,
-      "updated_at": "Wed, 12 Aug 2026 20:20:52 +0000",
-      "title": "Trump sued over \"brazen\" scheme to sell Truth Social API access for $100K a month",
-      "neutral_headline": "Trump sued over \"brazen\" scheme to sell Truth Social API access for $100K a month",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/08/trump-sued-over-brazen-scheme-to-sell-truth-social-api-access-for-100k-a-month/",
-          "published_at": "Wed, 12 Aug 2026 20:20:52 +0000",
-          "title": "Trump sued over \"brazen\" scheme to sell Truth Social API access for $100K a month",
-          "standfirst": "With Truth API, Trump is \"selling priority access to news he himself generates.\"",
-          "content": "President Trump was sued by nonprofit news groups today over Truth Social's \"Truth API\" that sells real-time access to posts from Trump and other top users of the social network. Trump is profiting from selling preferential access to government information, the lawsuit said. Trump's social media company this month started charging customers up to $100,000 per month for the earliest access to posts that can have immediate impacts on financial markets. The first customers are mostly high-frequency trading firms that could benefit financially from getting official government news milliseconds before others. \"This scheme is profoundly corrupt. The President stands to gain financially by giving 'market-moving' government information to those who are willing and able to pay his personal company,\" the lawsuit said.Read full article Comments",
-          "feed_position": 18,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/trump-pointing-1152x648-1786564574.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/trump-pointing-1152x648-1786564574.jpg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_133",
-      "coverage": 1,
-      "updated_at": "Wed, 12 Aug 2026 19:40:46 +0000",
-      "title": "US boosts drone surveillance as flesh-eating screwworms spread in Texas",
-      "neutral_headline": "US boosts drone surveillance as flesh-eating screwworms spread in Texas",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/08/us-boosts-drone-surveillance-as-flesh-eating-screwworms-spread-in-texas/",
-          "published_at": "Wed, 12 Aug 2026 19:40:46 +0000",
-          "title": "US boosts drone surveillance as flesh-eating screwworms spread in Texas",
-          "standfirst": "Hundreds of Homeland Security drones retasked to survey wildlife and livestock.",
-          "content": "Hundreds of US government drones have switched from border surveillance to a different surveillance mission this summer—looking for signs of screwworm infestations in wild animals and livestock herds. The flesh-eating New World Screwworm is the parasitic larva that emerges from eggs laid by flies in the open wounds or body openings of warm-blooded animals and humans, with untreated cases potentially leading to severe injury or death. Since the first screwworm cases were detected in South Texas in June, the US Department of Agriculture and US Customs and Border Protection have been conducting “one of the most extensive animal-health surveillance operations in the country,” the USDA said on August 10 in social media posts on platforms like X and Facebook. The effort involves at least 200 drones owned by the Department of Homeland Security, which includes the Customs and Border Protection (CBP) agency. But the actual number in use \"varies depending on availability and need,\" a USDA spokesperson told Ars.Read full article Comments",
-          "feed_position": 19,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/CBP-drone-for-screwworm-surveillance-1152x648.jpeg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/CBP-drone-for-screwworm-surveillance-1152x648.jpeg",
       "popularity_score": 133
     }
   ]
