@@ -1,17 +1,107 @@
 {
   "clinical": {
-    "updated_at": "2026-08-14T04:43:00.492Z",
+    "updated_at": "2026-08-14T08:08:10.122Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-08-14T04:43:00.492Z",
+    "updated_at": "2026-08-14T08:08:10.123Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-08-14T04:43:02.150Z",
+    "updated_at": "2026-08-14T08:08:12.571Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Fri, 14 Aug 2026 07:53:24 GMT",
+        "title": "Sensitive medical data sent over unencrypted pager network",
+        "neutral_headline": "Sensitive medical data sent over unencrypted pager network",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.co.uk/news/videos/c5ywz5q4vx8o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Fri, 14 Aug 2026 07:53:24 GMT",
+            "title": "Sensitive medical data sent over unencrypted pager network",
+            "standfirst": "NHS Blood and Transplant apologises after sensitive data sent over unencrypted pager network.",
+            "content": "NHS Blood and Transplant apologises after sensitive data sent over unencrypted pager network.",
+            "feed_position": 47,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/186f/live/b97ab450-97b4-11f1-870d-5d08c49babb2.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/186f/live/b97ab450-97b4-11f1-870d-5d08c49babb2.jpg"
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Fri, 14 Aug 2026 07:00:22 GMT",
+        "title": "‘We’re seeing lots of people who feel dizzy’: how heatwaves are taking a toll on people’s health and the NHS",
+        "neutral_headline": "‘We’re seeing lots of people who feel dizzy’: how heatwaves are taking a toll...",
+        "bullet_summary": [
+          "Reported by Guardian Health"
+        ],
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/society/2026/aug/14/heatwaves-nhs-health-elderly-people-falls-dizziness-doctors-nurses",
+            "published_at": "Fri, 14 Aug 2026 07:00:22 GMT",
+            "title": "‘We’re seeing lots of people who feel dizzy’: how heatwaves are taking a toll on people’s health and the NHS",
+            "standfirst": "Doctors and nurses describe rise in fall injuries and other heat-related problems on top of stifling working conditions“The big thing A&E doctors are seeing during extreme heat now is falls in the elderly,” says Dr Adrian Boyle, an A&E consultant at Addenbrooke’s hospital in Cambridge.“During this summer’s five heatwaves I’ve seen elderly people get light-headed and dizzy and fall down a whole flight of stairs and break multiple bones, purely because of the heat. The last fall down stairs because of the heat resulted in multiple broken ribs, a wrist and her lower leg. Continue reading...",
+            "content": "Doctors and nurses describe rise in fall injuries and other heat-related problems on top of stifling working conditions“The big thing A&E doctors are seeing during extreme heat now is falls in the elderly,” says Dr Adrian Boyle, an A&E consultant at Addenbrooke’s hospital in Cambridge.“During this summer’s five heatwaves I’ve seen elderly people get light-headed and dizzy and fall down a whole flight of stairs and break multiple bones, purely because of the heat. The last fall down stairs because of the heat resulted in multiple broken ribs, a wrist and her lower leg. Continue reading...",
+            "feed_position": 0
+          }
+        ]
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Fri, 14 Aug 2026 05:07:46 GMT",
+        "title": "Hidden moth population found after 70 years",
+        "neutral_headline": "Hidden moth population found after 70 years",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/news/articles/c1712kz5qpgo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Fri, 14 Aug 2026 05:07:46 GMT",
+            "title": "Hidden moth population found after 70 years",
+            "standfirst": "Dr Dave Wainwright describes the discovery as one of the highlights of his career.",
+            "content": "Dr Dave Wainwright describes the discovery as one of the highlights of his career.",
+            "feed_position": 13,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5164/live/12a5a3c0-9727-11f1-808c-532494fd22c7.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5164/live/12a5a3c0-9727-11f1-808c-532494fd22c7.jpg"
+      },
+      {
+        "id": "cluster_3",
+        "coverage": 1,
+        "updated_at": "Fri, 14 Aug 2026 04:57:09 GMT",
+        "title": "'Squashed poo' a sign of water voles' success",
+        "neutral_headline": "'Squashed poo' a sign of water voles' success",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/news/articles/c1d1097w45no?at_medium=RSS&at_campaign=rss",
+            "published_at": "Fri, 14 Aug 2026 04:57:09 GMT",
+            "title": "'Squashed poo' a sign of water voles' success",
+            "standfirst": "Signs suggest the water vole population on the Hogsmill River in Surrey has been reestablished.",
+            "content": "Signs suggest the water vole population on the Hogsmill River in Surrey has been reestablished.",
+            "feed_position": 14,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a36c/live/005dde40-917c-11f1-b59e-3d7a9337129d.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a36c/live/005dde40-917c-11f1-b59e-3d7a9337129d.jpg"
+      },
+      {
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Fri, 14 Aug 2026 02:13:27 GMT",
         "title": "Indian solar mission's new findings throw light on enduring Sun mysteries",
@@ -34,7 +124,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb77/live/70033380-90be-11f1-b8f3-bf6a2c059a9b.jpg"
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 23:15:44 GMT",
         "title": "You got hold of eclipse glasses just in time - here's what to do with them now",
@@ -57,7 +147,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18e0/live/85ce4490-9733-11f1-870d-5d08c49babb2.jpg"
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 20:00:00 GMT",
         "title": "BBC Inside Science",
@@ -69,7 +159,7 @@
         "items": [
           {
             "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
+            "url": "https://www.bbc.co.uk/sounds/play/w3ct9780?at_medium=RSS&at_campaign=rss",
             "published_at": "Thu, 13 Aug 2026 20:00:00 GMT",
             "title": "BBC Inside Science",
             "standfirst": "Researchers have announced synthetic viruses designed by artificial intelligence.",
@@ -81,7 +171,7 @@
         "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 19:46:27 GMT",
         "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
@@ -104,7 +194,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73db/live/5d4d0250-9728-11f1-808c-532494fd22c7.jpg"
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 18:10:07 GMT",
         "title": "New UN plastic treaty is going backwards, experts say",
@@ -120,12 +210,12 @@
             "title": "New UN plastic treaty is going backwards, experts say",
             "standfirst": "NGOs say agreement held back by tenuous human health commitments and lobbying from plastic industryThe latest version of the long overdue plastic treaty is even less ambitious than the previous one, according to experts.A year after UN plastics treaty negotiations collapsed in Geneva in 2025, diplomats met informally in Nairobi between 30 June and 3 July, aiming to flesh out a new “no surprises” document. Continue reading...",
             "content": "NGOs say agreement held back by tenuous human health commitments and lobbying from plastic industryThe latest version of the long overdue plastic treaty is even less ambitious than the previous one, according to experts.A year after UN plastics treaty negotiations collapsed in Geneva in 2025, diplomats met informally in Nairobi between 30 June and 3 July, aiming to flesh out a new “no surprises” document. Continue reading...",
-            "feed_position": 0
+            "feed_position": 1
           }
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 18:00:18 GMT",
         "title": "What is the MMR vaccine and how does Trump’s executive order affect parents and children?",
@@ -141,7 +231,7 @@
             "title": "What is the MMR vaccine and how does Trump’s executive order affect parents and children?",
             "standfirst": "President’s order calls for several changes to childhood vaccinations – and experts say it’ll lead to confusionOn Monday, Donald Trump signed an executive order pushing for revisions to how children in the US are vaccinated.The executive order calls for several changes. These include fewer vaccinations overall and a recommendation that the combined measles, mumps and rubella (MMR) vaccine be replaced with separate shots for each disease administered during separate medical visits. The latter direction is currently impossible to implement because no stand-alone shots for these diseases are licensed in the US. Continue reading...",
             "content": "President’s order calls for several changes to childhood vaccinations – and experts say it’ll lead to confusionOn Monday, Donald Trump signed an executive order pushing for revisions to how children in the US are vaccinated.The executive order calls for several changes. These include fewer vaccinations overall and a recommendation that the combined measles, mumps and rubella (MMR) vaccine be replaced with separate shots for each disease administered during separate medical visits. The latter direction is currently impossible to implement because no stand-alone shots for these diseases are licensed in the US. Continue reading...",
-            "feed_position": 1
+            "feed_position": 2
           },
           {
             "source": "Guardian Health",
@@ -150,12 +240,12 @@
             "title": "How Trump’s order on vaccines is sowing confusion, doubt and fear",
             "standfirst": "The order cannot effect change, and is only ‘undermining trust in vaccines’ as CDC guidance remains the sameDonald Trump’s executive order on vaccines does not change the US recommendations for the shots – but experts say it does create confusion and doubt about vaccines, which will lead to more illness and possibly deaths among children and will make it harder for families and pediatricians to protect them.The executive order was an attempt to reinstate sweeping changes to the vaccine schedule made earlier this year by Robert F Kennedy Jr, secretary of the US Department of Health and Human Services and a longtime vaccine opponent – changes that were later halted by a federal judge. Continue reading...",
             "content": "The order cannot effect change, and is only ‘undermining trust in vaccines’ as CDC guidance remains the sameDonald Trump’s executive order on vaccines does not change the US recommendations for the shots – but experts say it does create confusion and doubt about vaccines, which will lead to more illness and possibly deaths among children and will make it harder for families and pediatricians to protect them.The executive order was an attempt to reinstate sweeping changes to the vaccine schedule made earlier this year by Robert F Kennedy Jr, secretary of the US Department of Health and Human Services and a longtime vaccine opponent – changes that were later halted by a federal judge. Continue reading...",
-            "feed_position": 8
+            "feed_position": 9
           }
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 16:59:56 GMT",
         "title": "Crowds reflect on watching 'incredible' eclipse",
@@ -178,7 +268,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/806f/live/6dea0140-9731-11f1-bbb3-ebc49f706d46.jpg"
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 16:55:54 GMT",
         "title": "116 Grams: A Play to Lose Weight review – a shocking satire of body policing",
@@ -194,12 +284,12 @@
             "title": "116 Grams: A Play to Lose Weight review – a shocking satire of body policing",
             "standfirst": "Zoo Southside, Edinburgh Letícia Rodrigues takes on the titular challenge in this show about shame, rage and how female bodies are surveilledA smiling woman steps on to the weighing scales in front of the stage. She is glamorous with bobbed blond hair, gleaming nails and a trendy red trouser suit. She is exactly 84kg, she states. It is an opening gesture reminiscent of an old-school diet club like the one her mother first took her to at the age of eight.Letícia Rodrigues’s show is autobiographical, albeit dramatised through a character called Gorda who, like her, is Brazilian and has been deemed overweight for most of her life. So she is planning to lose the fat in each of her shows. The weigh-in will be followed by a weigh-out at the end of the hour. The goal is to be 116 grams thinner and so the show is also a training session, she says. Continue reading...",
             "content": "Zoo Southside, Edinburgh Letícia Rodrigues takes on the titular challenge in this show about shame, rage and how female bodies are surveilledA smiling woman steps on to the weighing scales in front of the stage. She is glamorous with bobbed blond hair, gleaming nails and a trendy red trouser suit. She is exactly 84kg, she states. It is an opening gesture reminiscent of an old-school diet club like the one her mother first took her to at the age of eight.Letícia Rodrigues’s show is autobiographical, albeit dramatised through a character called Gorda who, like her, is Brazilian and has been deemed overweight for most of her life. So she is planning to lose the fat in each of her shows. The weigh-in will be followed by a weigh-out at the end of the hour. The goal is to be 116 grams thinner and so the show is also a training session, she says. Continue reading...",
-            "feed_position": 2
+            "feed_position": 3
           }
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 16:41:29 GMT",
         "title": "Hundreds attend teenager's eclipse party",
@@ -222,7 +312,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b82e/live/6eb64b90-9729-11f1-808c-532494fd22c7.jpg"
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 16:38:57 GMT",
         "title": "Food Standards Agency should do more in the fight against ultra-processed foods | Letters",
@@ -238,12 +328,12 @@
             "title": "Food Standards Agency should do more in the fight against ultra-processed foods | Letters",
             "standfirst": "Mike Pender responds to an article by Felicity Lawrence in which she reflects on why food firms are panicking and suingFelicity Lawrence’s alarming piece on ultra-processed foods (Why are ultra-processed food firms panicking and suing? Because they know time is running out, 7 August) made no mention of the UK’s Food Standards Agency, whose primary statutory objective is to protect public health from risks arising from the consumption of food.The FSA is an independent, non-ministerial government department. Its advice to ministers, and guidance to consumers, is informed by the most up-to-date scientific evidence, free of political or commercial considerations. Continue reading...",
             "content": "Mike Pender responds to an article by Felicity Lawrence in which she reflects on why food firms are panicking and suingFelicity Lawrence’s alarming piece on ultra-processed foods (Why are ultra-processed food firms panicking and suing? Because they know time is running out, 7 August) made no mention of the UK’s Food Standards Agency, whose primary statutory objective is to protect public health from risks arising from the consumption of food.The FSA is an independent, non-ministerial government department. Its advice to ministers, and guidance to consumers, is informed by the most up-to-date scientific evidence, free of political or commercial considerations. Continue reading...",
-            "feed_position": 3
+            "feed_position": 4
           }
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 16:38:53 GMT",
         "title": "Parkrun is a joy for many. Get involved | Letters",
@@ -259,12 +349,12 @@
             "title": "Parkrun is a joy for many. Get involved | Letters",
             "standfirst": "Bill Hunter says the weekly 5k race at locations across the UK and beyond is for everyone, and should be celebrated, while Helen Beioley says it is the perfect excuse to meet friends and consume a croissant afterI am sorry that the parkrun spoils Janet Knowlson’s experience of her local park (Letters, 7 August). I wonder if she has ever spoken to a parkrunner or a volunteer? Many would tell of the camaraderie and their improved physical and mental health. Strangers become friends and even partners. We do not take over the park, as she alleges, rather we recognise that we share the space with other park users and are respectful of their rights and needs. Parkrun is for everyone and anyone, from children upwards, and not only runners. It is only competitive if you want it to be, and is equally welcoming to walkers. Parkrun is a huge success story, both in the UK and many other countries, and should be celebrated. It receives no public funding and each event relies on an army of volunteers, without whom it wouldn’t happen. Long may it continue. Bill HunterHonley, West Yorkshire• In response to Janet Knowlson’s letter complaining about the disruption to her daily peaceful walk through her park by parkrun, please can I suggest that she avoid just this one specific hour a week? Parkrun is an inclusive joy for hundreds of thousands of runners and walkers of all shapes, sizes, ages and levels of fitness. For me, it’s the perfect excuse to meet up with mates and wallop down a huge almond croissant as a post-run(walk) reward.Helen BeioleyFrance Lynch, Stroud Continue reading...",
             "content": "Bill Hunter says the weekly 5k race at locations across the UK and beyond is for everyone, and should be celebrated, while Helen Beioley says it is the perfect excuse to meet friends and consume a croissant afterI am sorry that the parkrun spoils Janet Knowlson’s experience of her local park (Letters, 7 August). I wonder if she has ever spoken to a parkrunner or a volunteer? Many would tell of the camaraderie and their improved physical and mental health. Strangers become friends and even partners. We do not take over the park, as she alleges, rather we recognise that we share the space with other park users and are respectful of their rights and needs. Parkrun is for everyone and anyone, from children upwards, and not only runners. It is only competitive if you want it to be, and is equally welcoming to walkers. Parkrun is a huge success story, both in the UK and many other countries, and should be celebrated. It receives no public funding and each event relies on an army of volunteers, without whom it wouldn’t happen. Long may it continue. Bill HunterHonley, West Yorkshire• In response to Janet Knowlson’s letter complaining about the disruption to her daily peaceful walk through her park by parkrun, please can I suggest that she avoid just this one specific hour a week? Parkrun is an inclusive joy for hundreds of thousands of runners and walkers of all shapes, sizes, ages and levels of fitness. For me, it’s the perfect excuse to meet up with mates and wallop down a huge almond croissant as a post-run(walk) reward.Helen BeioleyFrance Lynch, Stroud Continue reading...",
-            "feed_position": 4
+            "feed_position": 5
           }
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 16:37:11 GMT",
         "title": "Builder with own observatory captures solar eclipse",
@@ -287,7 +377,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c58e/live/dd423f50-9720-11f1-b2ab-0dd01740f9f6.png"
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 15:53:37 GMT",
         "title": "Temperatures soar to 38C as amber extreme heat warning in effect",
@@ -310,7 +400,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f41d/live/5386c300-9665-11f1-a6eb-474cf36e6c34.png"
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 14:54:32 GMT",
         "title": "Polls open in Clacton, where Farage spent more than £10,000 in byelection against Count Binface – as it happened",
@@ -326,12 +416,12 @@
             "title": "Polls open in Clacton, where Farage spent more than £10,000 in byelection against Count Binface – as it happened",
             "standfirst": "The Reform UK leader resigned as the MP for Clacton at the start of July and forced a byelectionThe number of patients in England being cared for in hospital corridors or makeshift areas has remained above 3,000 a day for the second month in a row, as the NHS experiences a “summer surge”, the Press Association reports.This was happening as A&E attendance numbers reached 2.5m in July – higher than any other single month on record. May and June were also record months for A&E attendance, in part because of the extreme heat.Yvette Cooper, the health secretary, warned yesterday the health service must start planning for summer pressures in the same way as winter.However, the data shows overall waiting times for treatment fell slightly in June after rising for two months in a row.The NHS normally experiences spikes in demand during the summer months, as the public spends more time outside which can lead to a rise in accidents. But this summer has seen unprecedented pressure, with the heat contributing to an increase in admissions caused by more outdoor activity and respiratory issues linked to dry weather, as well as worsening of underlying medical conditions.The first minister is right to ask about this. This is 1,500 jobs in the north of Scotland. It’s also an area that is being transformed by that move towards offshore renewables, Scotland continuing to contribute.It’s an area which is, in general terms, important for security. Scotland is contributing to European energy security, which is a concern across Europe when you speak to leaders there. Continue reading...",
             "content": "The Reform UK leader resigned as the MP for Clacton at the start of July and forced a byelectionThe number of patients in England being cared for in hospital corridors or makeshift areas has remained above 3,000 a day for the second month in a row, as the NHS experiences a “summer surge”, the Press Association reports.This was happening as A&E attendance numbers reached 2.5m in July – higher than any other single month on record. May and June were also record months for A&E attendance, in part because of the extreme heat.Yvette Cooper, the health secretary, warned yesterday the health service must start planning for summer pressures in the same way as winter.However, the data shows overall waiting times for treatment fell slightly in June after rising for two months in a row.The NHS normally experiences spikes in demand during the summer months, as the public spends more time outside which can lead to a rise in accidents. But this summer has seen unprecedented pressure, with the heat contributing to an increase in admissions caused by more outdoor activity and respiratory issues linked to dry weather, as well as worsening of underlying medical conditions.The first minister is right to ask about this. This is 1,500 jobs in the north of Scotland. It’s also an area that is being transformed by that move towards offshore renewables, Scotland continuing to contribute.It’s an area which is, in general terms, important for security. Scotland is contributing to European energy security, which is a concern across Europe when you speak to leaders there. Continue reading...",
-            "feed_position": 5
+            "feed_position": 6
           }
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 13:39:18 GMT",
         "title": "Did the eclipse damage your eyes?",
@@ -354,7 +444,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9e6/live/75110ae0-9713-11f1-870d-5d08c49babb2.jpg"
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 12:00:00 GMT",
         "title": "California bans paraquat, highly toxic herbicide outlawed in more than 70 countries",
@@ -370,100 +460,14 @@
             "title": "California bans paraquat, highly toxic herbicide outlawed in more than 70 countries",
             "standfirst": "State is US’s largest user of pesticide that is virtually proven to cause Parkinson’s diseaseCalifornia is banning paraquat, a highly toxic, controversial herbicide used across millions of acres of American cropland.Public health advocates characterize it as a deadly substance that is virtually proven to cause Parkinson’s disease. It is already outlawed in more than 70 countries, including China, the UK and the EU. Yet in the US, the Environmental Protection Agency (EPA) reapproved it for use in 2021 and 2024. Continue reading...",
             "content": "State is US’s largest user of pesticide that is virtually proven to cause Parkinson’s diseaseCalifornia is banning paraquat, a highly toxic, controversial herbicide used across millions of acres of American cropland.Public health advocates characterize it as a deadly substance that is virtually proven to cause Parkinson’s disease. It is already outlawed in more than 70 countries, including China, the UK and the EU. Yet in the US, the Environmental Protection Agency (EPA) reapproved it for use in 2021 and 2024. Continue reading...",
-            "feed_position": 6
-          }
-        ]
-      },
-      {
-        "id": "cluster_16",
-        "coverage": 1,
-        "updated_at": "Thu, 13 Aug 2026 11:57:28 GMT",
-        "title": "Eclipse warning: The key signs you may have damaged your eyes",
-        "neutral_headline": "Eclipse warning: The key signs you may have damaged your eyes",
-        "bullet_summary": [
-          "Reported by BBC Health"
-        ],
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.co.uk/news/articles/c4gk0dq81j2o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Thu, 13 Aug 2026 11:57:28 GMT",
-            "title": "Eclipse warning: The key signs you may have damaged your eyes",
-            "standfirst": "Symptoms after looking at the sun without eclipse glasses can include blurred vision",
-            "content": "Symptoms after looking at the sun without eclipse glasses can include blurred vision",
-            "feed_position": 1,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c00/live/eea36380-9727-11f1-870d-5d08c49babb2.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c00/live/eea36380-9727-11f1-870d-5d08c49babb2.jpg"
-      },
-      {
-        "id": "cluster_17",
-        "coverage": 1,
-        "updated_at": "Thu, 13 Aug 2026 11:00:56 GMT",
-        "title": "Trump administration finalizes rule to end federal support for gender-affirming care",
-        "neutral_headline": "Trump administration finalizes rule to end federal support for gender-affirming care",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/us-news/2026/aug/13/trump-administration-gender-affirming-care",
-            "published_at": "Thu, 13 Aug 2026 11:00:56 GMT",
-            "title": "Trump administration finalizes rule to end federal support for gender-affirming care",
-            "standfirst": "Move blocking funds through Medicaid and Chip to make it harder for vulnerable children to get healthcare, experts sayThe Trump administration finalized a rule on Tuesday to end gender-affirming care through Medicaid and the Children’s Health Insurance Program (Chip), a move that will make it harder for vulnerable children to access healthcare and that eschews evidence to advance an anti-transgender ideology, opponents say.The rule is set to take effect on 13 October – but legal challenges could delay or block it entirely. Continue reading...",
-            "content": "Move blocking funds through Medicaid and Chip to make it harder for vulnerable children to get healthcare, experts sayThe Trump administration finalized a rule on Tuesday to end gender-affirming care through Medicaid and the Children’s Health Insurance Program (Chip), a move that will make it harder for vulnerable children to access healthcare and that eschews evidence to advance an anti-transgender ideology, opponents say.The rule is set to take effect on 13 October – but legal challenges could delay or block it entirely. Continue reading...",
             "feed_position": 7
-          }
-        ]
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Thu, 13 Aug 2026 09:00:54 GMT",
-        "title": "What end-of-life experts know about living well: love your wrinkles, celebrate birthdays and don’t obsess over work",
-        "neutral_headline": "What end-of-life experts know about living well: love your wrinkles, celebrate...",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/lifeandstyle/2026/aug/13/what-end-of-life-experts-know-about-living-well-love-your-wrinkles-celebrate-birthdays-and-dont-obsess-over-work",
-            "published_at": "Thu, 13 Aug 2026 09:00:54 GMT",
-            "title": "What end-of-life experts know about living well: love your wrinkles, celebrate birthdays and don’t obsess over work",
-            "standfirst": "How can our understanding of mortality shape the way we live? Palliative care doctors and death doulas share the lessons they have learnedWe will all face death one day, but our attitude towards this is individual. How can our understanding of mortality shape our approach to life? Here, palliative care doctors and death doulas share what they know about the end – and how it informs the way they live. Continue reading...",
-            "content": "How can our understanding of mortality shape the way we live? Palliative care doctors and death doulas share the lessons they have learnedWe will all face death one day, but our attitude towards this is individual. How can our understanding of mortality shape our approach to life? Here, palliative care doctors and death doulas share what they know about the end – and how it informs the way they live. Continue reading...",
-            "feed_position": 9
-          }
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Thu, 13 Aug 2026 08:59:43 GMT",
-        "title": "Stop the bites! How to survive another summer of mosquitoes, midges and horseflies",
-        "neutral_headline": "Stop the bites. How to survive another summer of mosquitoes, midges and horseflies",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/environment/2026/aug/13/stop-the-bites-how-to-survive-another-summer-of-mosquitoes-midges-and-horseflies",
-            "published_at": "Thu, 13 Aug 2026 08:59:43 GMT",
-            "title": "Stop the bites! How to survive another summer of mosquitoes, midges and horseflies",
-            "standfirst": "Dress like a zebra, wash your feet, keep off the beer: insect experts explain what works and what doesn’t – and why some of us get bitten more than othersIt’s a good time to be a mosquito or other blood-sucking insect. In the UK and beyond, they are enjoying the summer heat, and there are lots of humans outdoors, some wearing very little, like an all-you-can-eat walking buffet. Some of the humans are drinking beer, which apparently makes them even more irresistible to mosquitoes. Many of us are warm and sweaty, which is all the better for the blood-suckers seeking us out.Insect populations are changing because of the warming climate and there are organisations keeping an eye on invasive species, especially mosquitoes, which can be vectors for diseases such as dengue and malaria (globally, more than 600,000 people a year die from malaria). The UK “will have a threat from mosquito-borne diseases as time goes on,” says James Logan, professor of medical entomology at the London School of Hygiene and Tropical Medicine, and CEO of Dot, an “odour intelligence” company. “The biggest threats are arboviruses [viruses transmitted by arthropods, especially insects and ticks], such as dengue. We have mosquitoes throughout [mainland] Europe now that can transmit dengue. We also know that we do get those mosquitoes coming across to the UK, but they don’t seem to be breeding here successfully and surviving over the winter.” But, he warns, with milder winters and warmer summers, it is only a matter of time. Continue reading...",
-            "content": "Dress like a zebra, wash your feet, keep off the beer: insect experts explain what works and what doesn’t – and why some of us get bitten more than othersIt’s a good time to be a mosquito or other blood-sucking insect. In the UK and beyond, they are enjoying the summer heat, and there are lots of humans outdoors, some wearing very little, like an all-you-can-eat walking buffet. Some of the humans are drinking beer, which apparently makes them even more irresistible to mosquitoes. Many of us are warm and sweaty, which is all the better for the blood-suckers seeking us out.Insect populations are changing because of the warming climate and there are organisations keeping an eye on invasive species, especially mosquitoes, which can be vectors for diseases such as dengue and malaria (globally, more than 600,000 people a year die from malaria). The UK “will have a threat from mosquito-borne diseases as time goes on,” says James Logan, professor of medical entomology at the London School of Hygiene and Tropical Medicine, and CEO of Dot, an “odour intelligence” company. “The biggest threats are arboviruses [viruses transmitted by arthropods, especially insects and ticks], such as dengue. We have mosquitoes throughout [mainland] Europe now that can transmit dengue. We also know that we do get those mosquitoes coming across to the UK, but they don’t seem to be breeding here successfully and surviving over the winter.” But, he warns, with milder winters and warmer summers, it is only a matter of time. Continue reading...",
-            "feed_position": 10
           }
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-08-14T04:43:02.150Z",
+    "updated_at": "2026-08-14T08:08:12.571Z",
     "clusters": []
   }
 }
