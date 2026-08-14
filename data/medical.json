@@ -1,17 +1,41 @@
 {
   "clinical": {
-    "updated_at": "2026-08-14T08:08:10.122Z",
+    "updated_at": "2026-08-14T11:38:20.945Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-08-14T08:08:10.123Z",
+    "updated_at": "2026-08-14T11:38:20.946Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-08-14T08:08:12.571Z",
+    "updated_at": "2026-08-14T11:38:23.324Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Fri, 14 Aug 2026 11:08:27 GMT",
+        "title": "'The department has lost touch with farmers' - call for minister's resignation over cattle cull",
+        "neutral_headline": "'The department has lost touch with farmers' - call for...",
+        "bullet_summary": [
+          "The minister has previously said there was \"no reasonable alternative\" to the cattle being euthanised on site after the 51 cattle were culled following a court order",
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/news/articles/cdj0pv2m812o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Fri, 14 Aug 2026 11:08:27 GMT",
+            "title": "'The department has lost touch with farmers' - call for minister's resignation over cattle cull",
+            "standfirst": "The minister has previously said there was \"no reasonable alternative\" to the cattle being euthanised on site after the 51 cattle were culled following a court order.",
+            "content": "The minister has previously said there was \"no reasonable alternative\" to the cattle being euthanised on site after the 51 cattle were culled following a court order.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c579/live/655d10f0-974d-11f1-870d-5d08c49babb2.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c579/live/655d10f0-974d-11f1-870d-5d08c49babb2.jpg"
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Fri, 14 Aug 2026 07:53:24 GMT",
         "title": "Sensitive medical data sent over unencrypted pager network",
@@ -34,7 +58,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/186f/live/b97ab450-97b4-11f1-870d-5d08c49babb2.jpg"
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Fri, 14 Aug 2026 07:00:22 GMT",
         "title": "‘We’re seeing lots of people who feel dizzy’: how heatwaves are taking a toll on people’s health and the NHS",
@@ -55,7 +79,7 @@
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Fri, 14 Aug 2026 05:07:46 GMT",
         "title": "Hidden moth population found after 70 years",
@@ -78,7 +102,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5164/live/12a5a3c0-9727-11f1-808c-532494fd22c7.jpg"
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Fri, 14 Aug 2026 04:57:09 GMT",
         "title": "'Squashed poo' a sign of water voles' success",
@@ -101,7 +125,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a36c/live/005dde40-917c-11f1-b59e-3d7a9337129d.jpg"
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Fri, 14 Aug 2026 02:13:27 GMT",
         "title": "Indian solar mission's new findings throw light on enduring Sun mysteries",
@@ -117,14 +141,14 @@
             "title": "Indian solar mission's new findings throw light on enduring Sun mysteries",
             "standfirst": "Why is the Sun's corona millions of degrees hotter than its surface? And how does it maintain its inexplicably high temperature?",
             "content": "Why is the Sun's corona millions of degrees hotter than its surface? And how does it maintain its inexplicably high temperature?",
-            "feed_position": 0,
+            "feed_position": 1,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb77/live/70033380-90be-11f1-b8f3-bf6a2c059a9b.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb77/live/70033380-90be-11f1-b8f3-bf6a2c059a9b.jpg"
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 23:15:44 GMT",
         "title": "You got hold of eclipse glasses just in time - here's what to do with them now",
@@ -147,7 +171,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18e0/live/85ce4490-9733-11f1-870d-5d08c49babb2.jpg"
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 20:00:00 GMT",
         "title": "BBC Inside Science",
@@ -171,7 +195,7 @@
         "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 19:46:27 GMT",
         "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
@@ -187,14 +211,14 @@
             "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
             "standfirst": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
             "content": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
-            "feed_position": 1,
+            "feed_position": 2,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73db/live/5d4d0250-9728-11f1-808c-532494fd22c7.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73db/live/5d4d0250-9728-11f1-808c-532494fd22c7.jpg"
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 18:10:07 GMT",
         "title": "New UN plastic treaty is going backwards, experts say",
@@ -215,7 +239,7 @@
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 18:00:18 GMT",
         "title": "What is the MMR vaccine and how does Trump’s executive order affect parents and children?",
@@ -245,7 +269,7 @@
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 16:59:56 GMT",
         "title": "Crowds reflect on watching 'incredible' eclipse",
@@ -268,7 +292,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/806f/live/6dea0140-9731-11f1-bbb3-ebc49f706d46.jpg"
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 16:55:54 GMT",
         "title": "116 Grams: A Play to Lose Weight review – a shocking satire of body policing",
@@ -289,7 +313,7 @@
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 16:41:29 GMT",
         "title": "Hundreds attend teenager's eclipse party",
@@ -312,7 +336,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b82e/live/6eb64b90-9729-11f1-808c-532494fd22c7.jpg"
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 16:38:57 GMT",
         "title": "Food Standards Agency should do more in the fight against ultra-processed foods | Letters",
@@ -333,7 +357,7 @@
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 16:38:53 GMT",
         "title": "Parkrun is a joy for many. Get involved | Letters",
@@ -354,7 +378,7 @@
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 16:37:11 GMT",
         "title": "Builder with own observatory captures solar eclipse",
@@ -377,7 +401,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c58e/live/dd423f50-9720-11f1-b2ab-0dd01740f9f6.png"
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 15:53:37 GMT",
         "title": "Temperatures soar to 38C as amber extreme heat warning in effect",
@@ -393,14 +417,14 @@
             "title": "Temperatures soar to 38C as amber extreme heat warning in effect",
             "standfirst": "Heat is spiking again on Thursday with a rare warning in place and more records falling.",
             "content": "Heat is spiking again on Thursday with a rare warning in place and more records falling.",
-            "feed_position": 2,
+            "feed_position": 3,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f41d/live/5386c300-9665-11f1-a6eb-474cf36e6c34.png"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f41d/live/5386c300-9665-11f1-a6eb-474cf36e6c34.png"
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 14:54:32 GMT",
         "title": "Polls open in Clacton, where Farage spent more than £10,000 in byelection against Count Binface – as it happened",
@@ -421,7 +445,7 @@
         ]
       },
       {
-        "id": "cluster_18",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 13:39:18 GMT",
         "title": "Did the eclipse damage your eyes?",
@@ -442,32 +466,11 @@
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9e6/live/75110ae0-9713-11f1-870d-5d08c49babb2.jpg"
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Thu, 13 Aug 2026 12:00:00 GMT",
-        "title": "California bans paraquat, highly toxic herbicide outlawed in more than 70 countries",
-        "neutral_headline": "California bans paraquat, highly toxic herbicide outlawed in more than 70 countries",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/us-news/2026/aug/13/california-paraquat-ban-pesticide",
-            "published_at": "Thu, 13 Aug 2026 12:00:00 GMT",
-            "title": "California bans paraquat, highly toxic herbicide outlawed in more than 70 countries",
-            "standfirst": "State is US’s largest user of pesticide that is virtually proven to cause Parkinson’s diseaseCalifornia is banning paraquat, a highly toxic, controversial herbicide used across millions of acres of American cropland.Public health advocates characterize it as a deadly substance that is virtually proven to cause Parkinson’s disease. It is already outlawed in more than 70 countries, including China, the UK and the EU. Yet in the US, the Environmental Protection Agency (EPA) reapproved it for use in 2021 and 2024. Continue reading...",
-            "content": "State is US’s largest user of pesticide that is virtually proven to cause Parkinson’s diseaseCalifornia is banning paraquat, a highly toxic, controversial herbicide used across millions of acres of American cropland.Public health advocates characterize it as a deadly substance that is virtually proven to cause Parkinson’s disease. It is already outlawed in more than 70 countries, including China, the UK and the EU. Yet in the US, the Environmental Protection Agency (EPA) reapproved it for use in 2021 and 2024. Continue reading...",
-            "feed_position": 7
-          }
-        ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-08-14T08:08:12.571Z",
+    "updated_at": "2026-08-14T11:38:23.324Z",
     "clusters": []
   }
 }
