@@ -1,17 +1,40 @@
 {
   "clinical": {
-    "updated_at": "2026-08-13T23:33:05.394Z",
+    "updated_at": "2026-08-14T04:43:00.492Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-08-13T23:33:05.394Z",
+    "updated_at": "2026-08-14T04:43:00.492Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-08-13T23:33:08.349Z",
+    "updated_at": "2026-08-14T04:43:02.150Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Fri, 14 Aug 2026 02:13:27 GMT",
+        "title": "Indian solar mission's new findings throw light on enduring Sun mysteries",
+        "neutral_headline": "Indian solar mission's new findings throw light on enduring Sun mysteries",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/news/articles/c934wqpd74xo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Fri, 14 Aug 2026 02:13:27 GMT",
+            "title": "Indian solar mission's new findings throw light on enduring Sun mysteries",
+            "standfirst": "Why is the Sun's corona millions of degrees hotter than its surface? And how does it maintain its inexplicably high temperature?",
+            "content": "Why is the Sun's corona millions of degrees hotter than its surface? And how does it maintain its inexplicably high temperature?",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb77/live/70033380-90be-11f1-b8f3-bf6a2c059a9b.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb77/live/70033380-90be-11f1-b8f3-bf6a2c059a9b.jpg"
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 23:15:44 GMT",
         "title": "You got hold of eclipse glasses just in time - here's what to do with them now",
@@ -27,14 +50,14 @@
             "title": "You got hold of eclipse glasses just in time - here's what to do with them now",
             "standfirst": "Solar specs are tricky to recycle because of their lenses, so here are three things to do instead.",
             "content": "Solar specs are tricky to recycle because of their lenses, so here are three things to do instead.",
-            "feed_position": 18,
+            "feed_position": 19,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18e0/live/85ce4490-9733-11f1-870d-5d08c49babb2.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18e0/live/85ce4490-9733-11f1-870d-5d08c49babb2.jpg"
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 20:00:00 GMT",
         "title": "BBC Inside Science",
@@ -46,7 +69,7 @@
         "items": [
           {
             "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/sounds/play/w3ct9780?at_medium=RSS&at_campaign=rss",
+            "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
             "published_at": "Thu, 13 Aug 2026 20:00:00 GMT",
             "title": "BBC Inside Science",
             "standfirst": "Researchers have announced synthetic viruses designed by artificial intelligence.",
@@ -58,7 +81,7 @@
         "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 19:46:27 GMT",
         "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
@@ -74,14 +97,14 @@
             "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
             "standfirst": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
             "content": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
-            "feed_position": 0,
+            "feed_position": 1,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73db/live/5d4d0250-9728-11f1-808c-532494fd22c7.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73db/live/5d4d0250-9728-11f1-808c-532494fd22c7.jpg"
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 18:10:07 GMT",
         "title": "New UN plastic treaty is going backwards, experts say",
@@ -102,7 +125,7 @@
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 18:00:18 GMT",
         "title": "What is the MMR vaccine and how does Trump’s executive order affect parents and children?",
@@ -132,7 +155,7 @@
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 16:59:56 GMT",
         "title": "Crowds reflect on watching 'incredible' eclipse",
@@ -148,14 +171,14 @@
             "title": "Crowds reflect on watching 'incredible' eclipse",
             "standfirst": "People headed to beaches, parks and hills in their droves to catch the rare event.",
             "content": "People headed to beaches, parks and hills in their droves to catch the rare event.",
-            "feed_position": 19,
+            "feed_position": 20,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/806f/live/6dea0140-9731-11f1-bbb3-ebc49f706d46.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/806f/live/6dea0140-9731-11f1-bbb3-ebc49f706d46.jpg"
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 16:55:54 GMT",
         "title": "116 Grams: A Play to Lose Weight review – a shocking satire of body policing",
@@ -176,7 +199,7 @@
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 16:41:29 GMT",
         "title": "Hundreds attend teenager's eclipse party",
@@ -192,14 +215,14 @@
             "title": "Hundreds attend teenager's eclipse party",
             "standfirst": "Teenager Aston Smith dreams of working for SpaceX.",
             "content": "Teenager Aston Smith dreams of working for SpaceX.",
-            "feed_position": 20,
+            "feed_position": 21,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b82e/live/6eb64b90-9729-11f1-808c-532494fd22c7.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b82e/live/6eb64b90-9729-11f1-808c-532494fd22c7.jpg"
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 16:38:57 GMT",
         "title": "Food Standards Agency should do more in the fight against ultra-processed foods | Letters",
@@ -220,7 +243,7 @@
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 16:38:53 GMT",
         "title": "Parkrun is a joy for many. Get involved | Letters",
@@ -241,7 +264,7 @@
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 16:37:11 GMT",
         "title": "Builder with own observatory captures solar eclipse",
@@ -257,14 +280,14 @@
             "title": "Builder with own observatory captures solar eclipse",
             "standfirst": "Simon Wallace, who got hooked on astrophotography in lockdown, shares his images of the spectacle.",
             "content": "Simon Wallace, who got hooked on astrophotography in lockdown, shares his images of the spectacle.",
-            "feed_position": 21,
+            "feed_position": 22,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c58e/live/dd423f50-9720-11f1-b2ab-0dd01740f9f6.png"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c58e/live/dd423f50-9720-11f1-b2ab-0dd01740f9f6.png"
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 15:53:37 GMT",
         "title": "Temperatures soar to 38C as amber extreme heat warning in effect",
@@ -280,34 +303,11 @@
             "title": "Temperatures soar to 38C as amber extreme heat warning in effect",
             "standfirst": "Heat is spiking again on Thursday with a rare warning in place and more records falling.",
             "content": "Heat is spiking again on Thursday with a rare warning in place and more records falling.",
-            "feed_position": 1,
+            "feed_position": 2,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f41d/live/5386c300-9665-11f1-a6eb-474cf36e6c34.png"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f41d/live/5386c300-9665-11f1-a6eb-474cf36e6c34.png"
-      },
-      {
-        "id": "cluster_12",
-        "coverage": 1,
-        "updated_at": "Thu, 13 Aug 2026 14:56:56 GMT",
-        "title": "Boy, 8, enjoys historic solar eclipse",
-        "neutral_headline": "Boy, 8, enjoys historic solar eclipse",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/news/videos/c8dn8zrr521o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Thu, 13 Aug 2026 14:56:56 GMT",
-            "title": "Boy, 8, enjoys historic solar eclipse",
-            "standfirst": "Jacob describes how he feels about watching the historic moment.",
-            "content": "Jacob describes how he feels about watching the historic moment.",
-            "feed_position": 22,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f15d/live/795e43f0-971e-11f1-a7ab-8b30adf0800a.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f15d/live/795e43f0-971e-11f1-a7ab-8b30adf0800a.jpg"
       },
       {
         "id": "cluster_13",
@@ -463,7 +463,7 @@
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-08-13T23:33:08.349Z",
+    "updated_at": "2026-08-14T04:43:02.150Z",
     "clusters": []
   }
 }
