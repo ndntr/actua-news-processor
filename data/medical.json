@@ -1,17 +1,61 @@
 {
   "clinical": {
-    "updated_at": "2026-08-15T03:31:55.861Z",
+    "updated_at": "2026-08-15T07:23:21.546Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-08-15T03:31:55.861Z",
+    "updated_at": "2026-08-15T07:23:21.546Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-08-15T03:31:57.591Z",
+    "updated_at": "2026-08-15T07:23:23.443Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Sat, 15 Aug 2026 07:00:50 GMT",
+        "title": "‘A tax on being thin’: only high earners make overall savings on food bills from weight-loss drugs",
+        "neutral_headline": "‘A tax on being thin’: only high earners make overall savings...",
+        "bullet_summary": [
+          "Reported by Guardian Health"
+        ],
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/science/2026/aug/15/high-earners-savings-weight-loss-drugs-income-glp-1",
+            "published_at": "Sat, 15 Aug 2026 07:00:50 GMT",
+            "title": "‘A tax on being thin’: only high earners make overall savings on food bills from weight-loss drugs",
+            "standfirst": "Users need discretionary income of nearly £100,000 a year to make savings on their grocery spend after paying £1,200 for GLP-1s, analysis findsThe high cost of weight-loss medication is a “regressive tax on being thin” because the outlay outweighs any saving on food costs for all but the highest earners.Someone needs to have discretionary income of nearly £100,000 a year to actually save money after covering the £1,200 annual cost of GLP-1 medication, according to an analysis by the consultancy Baringa. Continue reading...",
+            "content": "Users need discretionary income of nearly £100,000 a year to make savings on their grocery spend after paying £1,200 for GLP-1s, analysis findsThe high cost of weight-loss medication is a “regressive tax on being thin” because the outlay outweighs any saving on food costs for all but the highest earners.Someone needs to have discretionary income of nearly £100,000 a year to actually save money after covering the £1,200 annual cost of GLP-1 medication, according to an analysis by the consultancy Baringa. Continue reading...",
+            "feed_position": 0
+          }
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Sat, 15 Aug 2026 06:08:29 GMT",
+        "title": "Solar eclipse inspires talk of Pac-man and Shinto myths",
+        "neutral_headline": "Solar eclipse inspires talk of Pac-man and Shinto myths",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/news/articles/c33020jgyllo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sat, 15 Aug 2026 06:08:29 GMT",
+            "title": "Solar eclipse inspires talk of Pac-man and Shinto myths",
+            "standfirst": "Thousands turned out to watch the solar eclipse in the South West; here's what they made of it.",
+            "content": "Thousands turned out to watch the solar eclipse in the South West; here's what they made of it.",
+            "feed_position": 18,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6f4/live/bd078d30-9707-11f1-b72c-211ea4e0afc4.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6f4/live/bd078d30-9707-11f1-b72c-211ea4e0afc4.jpg"
+      },
+      {
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Fri, 14 Aug 2026 21:46:55 GMT",
         "title": "Draft dark skies guidance drawn up for the Highlands",
@@ -27,14 +71,14 @@
             "title": "Draft dark skies guidance drawn up for the Highlands",
             "standfirst": "The plan to reduce light pollution could be put out for public consultation at a later date.",
             "content": "The plan to reduce light pollution could be put out for public consultation at a later date.",
-            "feed_position": 18,
+            "feed_position": 19,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38c1/live/4c7ae230-97e6-11f1-a76b-f1c27c51f3da.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38c1/live/4c7ae230-97e6-11f1-a76b-f1c27c51f3da.jpg"
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Fri, 14 Aug 2026 17:16:18 GMT",
         "title": "Why is Selena Gomez being sued?",
@@ -67,7 +111,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03bc/live/fd596700-9801-11f1-bc94-d3a8a062b873.jpg"
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Fri, 14 Aug 2026 16:42:40 GMT",
         "title": "Rare breeding bat found roosting near reservoir",
@@ -91,7 +135,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c2d/live/aa166000-97f9-11f1-9577-b1309b6ea3af.jpg"
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Fri, 14 Aug 2026 16:21:39 GMT",
         "title": "Canadian plasma clinics pause collections after deaths of two donors",
@@ -107,12 +151,12 @@
             "title": "Canadian plasma clinics pause collections after deaths of two donors",
             "standfirst": "Grifols, which runs private chain of clinics, to temporarily stop taking donations after new government investigationA chain of private plasma donation clinics in Canada has said it is pausing collections after the deaths of two donors and a new government investigation into potential unsafe practices.Grifols, a Spanish healthcare company which runs 17 clinics in Canada and is the country’s only private clinic for plasma donation, said it informed Health Canada of its decision to temporarily pause collections on Wednesday. Continue reading...",
             "content": "Grifols, which runs private chain of clinics, to temporarily stop taking donations after new government investigationA chain of private plasma donation clinics in Canada has said it is pausing collections after the deaths of two donors and a new government investigation into potential unsafe practices.Grifols, a Spanish healthcare company which runs 17 clinics in Canada and is the country’s only private clinic for plasma donation, said it informed Health Canada of its decision to temporarily pause collections on Wednesday. Continue reading...",
-            "feed_position": 0
+            "feed_position": 1
           }
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Fri, 14 Aug 2026 16:07:57 GMT",
         "title": "'Days of the farmers' union dictating policy are over' - Muir",
@@ -135,7 +179,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a261/live/4e1c1f00-97fa-11f1-9577-b1309b6ea3af.jpg"
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Fri, 14 Aug 2026 16:00:32 GMT",
         "title": "Iceberg, romaine, kale: which salad greens are healthiest?",
@@ -151,12 +195,12 @@
             "title": "Iceberg, romaine, kale: which salad greens are healthiest?",
             "standfirst": "If you’re trying to meet your daily serving of 2.5 cups of vegetables, you might have some questionsIf you want to eat lettuce, that no longer just means iceberg. In our bountiful age, there are many options: romaine, red-leaf lettuce, butter lettuce, beet greens, bok choy, bitter radicchio, every developmental stage of arugula.Sometimes, it’s simply up to preference. But if you’re trying to meet your daily serving of 2.5 cups of vegetables – or you’re rethinking your salad choices amid the US cyclospora outbreak, you might have some questions about which greens to go with. Continue reading...",
             "content": "If you’re trying to meet your daily serving of 2.5 cups of vegetables, you might have some questionsIf you want to eat lettuce, that no longer just means iceberg. In our bountiful age, there are many options: romaine, red-leaf lettuce, butter lettuce, beet greens, bok choy, bitter radicchio, every developmental stage of arugula.Sometimes, it’s simply up to preference. But if you’re trying to meet your daily serving of 2.5 cups of vegetables – or you’re rethinking your salad choices amid the US cyclospora outbreak, you might have some questions about which greens to go with. Continue reading...",
-            "feed_position": 1
+            "feed_position": 2
           }
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Fri, 14 Aug 2026 15:58:21 GMT",
         "title": "Electric vehicle sales targets could be cut after pressure from car makers",
@@ -179,7 +223,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab99/live/07185cc0-97e8-11f1-a76b-f1c27c51f3da.jpg"
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Fri, 14 Aug 2026 12:00:27 GMT",
         "title": "Can antihistamines really help with PMDD and menopausal symptoms?",
@@ -195,12 +239,12 @@
             "title": "Can antihistamines really help with PMDD and menopausal symptoms?",
             "standfirst": "Debilitating symptoms lead some to try over-the-counter medications Allegra and Pepcid due to a social media trendPremenstrual dysphoric disorder (PMDD) and menopause can come with debilitating symptoms, like intense emotional changes and exhaustion.All over social media, women are claiming that a simple hack has helped enormously: a combination of two over-the-counter medications, both antihistamines – typically, the name brands Pepcid AC and Allegra. Continue reading...",
             "content": "Debilitating symptoms lead some to try over-the-counter medications Allegra and Pepcid due to a social media trendPremenstrual dysphoric disorder (PMDD) and menopause can come with debilitating symptoms, like intense emotional changes and exhaustion.All over social media, women are claiming that a simple hack has helped enormously: a combination of two over-the-counter medications, both antihistamines – typically, the name brands Pepcid AC and Allegra. Continue reading...",
-            "feed_position": 2
+            "feed_position": 3
           }
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Fri, 14 Aug 2026 07:53:24 GMT",
         "title": "Sensitive medical data sent over unencrypted pager network",
@@ -223,7 +267,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/186f/live/b97ab450-97b4-11f1-870d-5d08c49babb2.jpg"
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Fri, 14 Aug 2026 07:00:22 GMT",
         "title": "‘We’re seeing lots of people who feel dizzy’: how heatwaves are taking a toll on people’s health and the NHS",
@@ -239,12 +283,12 @@
             "title": "‘We’re seeing lots of people who feel dizzy’: how heatwaves are taking a toll on people’s health and the NHS",
             "standfirst": "Doctors and nurses describe rise in fall injuries and other heat-related problems on top of stifling working conditions“The big thing A&E doctors are seeing during extreme heat now is falls in the elderly,” says Dr Adrian Boyle, an A&E consultant at Addenbrooke’s hospital in Cambridge.“During this summer’s five heatwaves I’ve seen elderly people get light-headed and dizzy and fall down a whole flight of stairs and break multiple bones, purely because of the heat. The last fall down stairs because of the heat resulted in multiple broken ribs, a wrist and her lower leg. Continue reading...",
             "content": "Doctors and nurses describe rise in fall injuries and other heat-related problems on top of stifling working conditions“The big thing A&E doctors are seeing during extreme heat now is falls in the elderly,” says Dr Adrian Boyle, an A&E consultant at Addenbrooke’s hospital in Cambridge.“During this summer’s five heatwaves I’ve seen elderly people get light-headed and dizzy and fall down a whole flight of stairs and break multiple bones, purely because of the heat. The last fall down stairs because of the heat resulted in multiple broken ribs, a wrist and her lower leg. Continue reading...",
-            "feed_position": 3
+            "feed_position": 4
           }
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Fri, 14 Aug 2026 05:07:46 GMT",
         "title": "Hidden moth population found after 70 years",
@@ -267,7 +311,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5164/live/12a5a3c0-9727-11f1-808c-532494fd22c7.jpg"
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Fri, 14 Aug 2026 04:57:09 GMT",
         "title": "'Squashed poo' a sign of water voles' success",
@@ -290,7 +334,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a36c/live/005dde40-917c-11f1-b59e-3d7a9337129d.jpg"
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Fri, 14 Aug 2026 02:13:27 GMT",
         "title": "Indian solar mission's new findings throw light on enduring Sun mysteries",
@@ -313,7 +357,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb77/live/70033380-90be-11f1-b8f3-bf6a2c059a9b.jpg"
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 23:15:44 GMT",
         "title": "You got hold of eclipse glasses just in time - here's what to do with them now",
@@ -329,14 +373,14 @@
             "title": "You got hold of eclipse glasses just in time - here's what to do with them now",
             "standfirst": "Solar specs are tricky to recycle because of their lenses, so here are three things to do instead.",
             "content": "Solar specs are tricky to recycle because of their lenses, so here are three things to do instead.",
-            "feed_position": 20,
+            "feed_position": 21,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18e0/live/85ce4490-9733-11f1-870d-5d08c49babb2.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18e0/live/85ce4490-9733-11f1-870d-5d08c49babb2.jpg"
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 20:00:00 GMT",
         "title": "BBC Inside Science",
@@ -360,7 +404,7 @@
         "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 19:46:27 GMT",
         "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
@@ -383,7 +427,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73db/live/5d4d0250-9728-11f1-808c-532494fd22c7.jpg"
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 18:10:07 GMT",
         "title": "New UN plastic treaty is going backwards, experts say",
@@ -399,12 +443,12 @@
             "title": "New UN plastic treaty is going backwards, experts say",
             "standfirst": "NGOs say agreement held back by tenuous human health commitments and lobbying from plastic industryThe latest version of the long overdue plastic treaty is even less ambitious than the previous one, according to experts.A year after UN plastics treaty negotiations collapsed in Geneva in 2025, diplomats met informally in Nairobi between 30 June and 3 July, aiming to flesh out a new “no surprises” document. Continue reading...",
             "content": "NGOs say agreement held back by tenuous human health commitments and lobbying from plastic industryThe latest version of the long overdue plastic treaty is even less ambitious than the previous one, according to experts.A year after UN plastics treaty negotiations collapsed in Geneva in 2025, diplomats met informally in Nairobi between 30 June and 3 July, aiming to flesh out a new “no surprises” document. Continue reading...",
-            "feed_position": 4
+            "feed_position": 5
           }
         ]
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Thu, 13 Aug 2026 18:00:18 GMT",
         "title": "What is the MMR vaccine and how does Trump’s executive order affect parents and children?",
@@ -420,7 +464,7 @@
             "title": "What is the MMR vaccine and how does Trump’s executive order affect parents and children?",
             "standfirst": "President’s order calls for several changes to childhood vaccinations – and experts say it’ll lead to confusionOn Monday, Donald Trump signed an executive order pushing for revisions to how children in the US are vaccinated.The executive order calls for several changes. These include fewer vaccinations overall and a recommendation that the combined measles, mumps and rubella (MMR) vaccine be replaced with separate shots for each disease administered during separate medical visits. The latter direction is currently impossible to implement because no stand-alone shots for these diseases are licensed in the US. Continue reading...",
             "content": "President’s order calls for several changes to childhood vaccinations – and experts say it’ll lead to confusionOn Monday, Donald Trump signed an executive order pushing for revisions to how children in the US are vaccinated.The executive order calls for several changes. These include fewer vaccinations overall and a recommendation that the combined measles, mumps and rubella (MMR) vaccine be replaced with separate shots for each disease administered during separate medical visits. The latter direction is currently impossible to implement because no stand-alone shots for these diseases are licensed in the US. Continue reading...",
-            "feed_position": 5
+            "feed_position": 6
           },
           {
             "source": "Guardian Health",
@@ -429,58 +473,14 @@
             "title": "How Trump’s order on vaccines is sowing confusion, doubt and fear",
             "standfirst": "The order cannot effect change, and is only ‘undermining trust in vaccines’ as CDC guidance remains the sameDonald Trump’s executive order on vaccines does not change the US recommendations for the shots – but experts say it does create confusion and doubt about vaccines, which will lead to more illness and possibly deaths among children and will make it harder for families and pediatricians to protect them.The executive order was an attempt to reinstate sweeping changes to the vaccine schedule made earlier this year by Robert F Kennedy Jr, secretary of the US Department of Health and Human Services and a longtime vaccine opponent – changes that were later halted by a federal judge. Continue reading...",
             "content": "The order cannot effect change, and is only ‘undermining trust in vaccines’ as CDC guidance remains the sameDonald Trump’s executive order on vaccines does not change the US recommendations for the shots – but experts say it does create confusion and doubt about vaccines, which will lead to more illness and possibly deaths among children and will make it harder for families and pediatricians to protect them.The executive order was an attempt to reinstate sweeping changes to the vaccine schedule made earlier this year by Robert F Kennedy Jr, secretary of the US Department of Health and Human Services and a longtime vaccine opponent – changes that were later halted by a federal judge. Continue reading...",
-            "feed_position": 12
-          }
-        ]
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Thu, 13 Aug 2026 16:59:56 GMT",
-        "title": "Crowds reflect on watching 'incredible' eclipse",
-        "neutral_headline": "Crowds reflect on watching '' eclipse",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/news/articles/cr59pgp9pvro?at_medium=RSS&at_campaign=rss",
-            "published_at": "Thu, 13 Aug 2026 16:59:56 GMT",
-            "title": "Crowds reflect on watching 'incredible' eclipse",
-            "standfirst": "People headed to beaches, parks and hills in their droves to catch the rare event.",
-            "content": "People headed to beaches, parks and hills in their droves to catch the rare event.",
-            "feed_position": 21,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/806f/live/6dea0140-9731-11f1-bbb3-ebc49f706d46.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/806f/live/6dea0140-9731-11f1-bbb3-ebc49f706d46.jpg"
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Thu, 13 Aug 2026 16:55:54 GMT",
-        "title": "116 Grams: A Play to Lose Weight review – a shocking satire of body policing",
-        "neutral_headline": "116 Grams: A Play to Lose Weight review – a satire of body policing",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/stage/2026/aug/13/116-grams-a-play-to-lose-weight-review-zoo-southside-edinburgh",
-            "published_at": "Thu, 13 Aug 2026 16:55:54 GMT",
-            "title": "116 Grams: A Play to Lose Weight review – a shocking satire of body policing",
-            "standfirst": "Zoo Southside, Edinburgh Letícia Rodrigues takes on the titular challenge in this show about shame, rage and how female bodies are surveilledA smiling woman steps on to the weighing scales in front of the stage. She is glamorous with bobbed blond hair, gleaming nails and a trendy red trouser suit. She is exactly 84kg, she states. It is an opening gesture reminiscent of an old-school diet club like the one her mother first took her to at the age of eight.Letícia Rodrigues’s show is autobiographical, albeit dramatised through a character called Gorda who, like her, is Brazilian and has been deemed overweight for most of her life. So she is planning to lose the fat in each of her shows. The weigh-in will be followed by a weigh-out at the end of the hour. The goal is to be 116 grams thinner and so the show is also a training session, she says. Continue reading...",
-            "content": "Zoo Southside, Edinburgh Letícia Rodrigues takes on the titular challenge in this show about shame, rage and how female bodies are surveilledA smiling woman steps on to the weighing scales in front of the stage. She is glamorous with bobbed blond hair, gleaming nails and a trendy red trouser suit. She is exactly 84kg, she states. It is an opening gesture reminiscent of an old-school diet club like the one her mother first took her to at the age of eight.Letícia Rodrigues’s show is autobiographical, albeit dramatised through a character called Gorda who, like her, is Brazilian and has been deemed overweight for most of her life. So she is planning to lose the fat in each of her shows. The weigh-in will be followed by a weigh-out at the end of the hour. The goal is to be 116 grams thinner and so the show is also a training session, she says. Continue reading...",
-            "feed_position": 6
+            "feed_position": 13
           }
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-08-15T03:31:57.591Z",
+    "updated_at": "2026-08-15T07:23:23.443Z",
     "clusters": []
   }
 }
