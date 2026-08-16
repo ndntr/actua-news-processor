@@ -1,17 +1,40 @@
 {
   "clinical": {
-    "updated_at": "2026-08-16T19:15:20.305Z",
+    "updated_at": "2026-08-16T23:12:07.271Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-08-16T19:15:20.305Z",
+    "updated_at": "2026-08-16T23:12:07.271Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-08-16T19:15:23.359Z",
+    "updated_at": "2026-08-16T23:12:09.661Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Sun, 16 Aug 2026 20:01:51 GMT",
+        "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
+        "neutral_headline": "Belgian wildfire doubles in size on third day tearing through nature reserve",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sun, 16 Aug 2026 20:01:51 GMT",
+            "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
+            "standfirst": "Hundreds of firefighters are trying to contain the flames consuming the major park.",
+            "content": "Hundreds of firefighters are trying to contain the flames consuming the major park.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8457/live/7c724440-999b-11f1-b2ab-0dd01740f9f6.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8457/live/7c724440-999b-11f1-b2ab-0dd01740f9f6.jpg"
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Sun, 16 Aug 2026 18:46:12 GMT",
         "title": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
@@ -27,14 +50,14 @@
             "title": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
             "standfirst": "A search-and-rescue operation is under way after properties were uprooted from their foundations.",
             "content": "A search-and-rescue operation is under way after properties were uprooted from their foundations.",
-            "feed_position": 0,
+            "feed_position": 1,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/995d/live/6816b320-9944-11f1-a7ab-8b30adf0800a.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/995d/live/6816b320-9944-11f1-a7ab-8b30adf0800a.jpg"
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Sun, 16 Aug 2026 16:54:42 GMT",
         "title": "Women should not have to travel for hours to give birth | Letters",
@@ -55,7 +78,7 @@
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Sun, 16 Aug 2026 16:54:13 GMT",
         "title": "How surrogacy helped my sister and friends | Letters",
@@ -76,7 +99,7 @@
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Sun, 16 Aug 2026 16:00:29 GMT",
         "title": "Can exercise really help improve my sex life?",
@@ -95,29 +118,6 @@
             "feed_position": 2
           }
         ]
-      },
-      {
-        "id": "cluster_4",
-        "coverage": 1,
-        "updated_at": "Sun, 16 Aug 2026 15:25:38 GMT",
-        "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
-        "neutral_headline": "Belgian wildfire doubles in size on third day tearing through nature reserve",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Sun, 16 Aug 2026 15:25:38 GMT",
-            "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
-            "standfirst": "Hundreds of firefighters are trying to contain the flames consuming the major park.",
-            "content": "Hundreds of firefighters are trying to contain the flames consuming the major park.",
-            "feed_position": 1,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8457/live/7c724440-999b-11f1-b2ab-0dd01740f9f6.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8457/live/7c724440-999b-11f1-b2ab-0dd01740f9f6.jpg"
       },
       {
         "id": "cluster_5",
@@ -432,7 +432,7 @@
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-08-16T19:15:23.359Z",
+    "updated_at": "2026-08-16T23:12:09.661Z",
     "clusters": []
   }
 }
