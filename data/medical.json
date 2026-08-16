@@ -1,17 +1,63 @@
 {
   "clinical": {
-    "updated_at": "2026-08-15T23:12:31.148Z",
+    "updated_at": "2026-08-16T03:40:55.343Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-08-15T23:12:31.148Z",
+    "updated_at": "2026-08-16T03:40:55.344Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-08-15T23:12:35.949Z",
+    "updated_at": "2026-08-16T03:40:57.533Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Sat, 15 Aug 2026 23:42:33 GMT",
+        "title": "What's driving men to get penis fillers, despite the risks?",
+        "neutral_headline": "What's driving men to get penis fillers, despite the risks",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.co.uk/news/articles/c626d3xqd83o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sat, 15 Aug 2026 23:42:33 GMT",
+            "title": "What's driving men to get penis fillers, despite the risks?",
+            "standfirst": "Men who have had the procedure can expect 10-20% more girth for the next six to nine months - but it can go wrong.",
+            "content": "Men who have had the procedure can expect 10-20% more girth for the next six to nine months - but it can go wrong.",
+            "feed_position": 13,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78d0/live/953e6ee0-877b-11f1-a7ab-8b30adf0800a.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78d0/live/953e6ee0-877b-11f1-a7ab-8b30adf0800a.jpg"
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Sat, 15 Aug 2026 23:34:24 GMT",
+        "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+        "neutral_headline": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sat, 15 Aug 2026 23:34:24 GMT",
+            "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+            "standfirst": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island.",
+            "content": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddd3/live/455f2ee0-98e3-11f1-b2ab-0dd01740f9f6.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddd3/live/455f2ee0-98e3-11f1-b2ab-0dd01740f9f6.jpg"
+      },
+      {
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Sat, 15 Aug 2026 23:04:29 GMT",
         "title": "The influencers getting bitten while chasing the perfect shark shot",
@@ -34,30 +80,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0c6/live/9c4c4980-9727-11f1-808c-532494fd22c7.png"
       },
       {
-        "id": "cluster_1",
-        "coverage": 1,
-        "updated_at": "Sat, 15 Aug 2026 21:56:10 GMT",
-        "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
-        "neutral_headline": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Sat, 15 Aug 2026 21:56:10 GMT",
-            "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
-            "standfirst": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island.",
-            "content": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island.",
-            "feed_position": 0,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddd3/live/455f2ee0-98e3-11f1-b2ab-0dd01740f9f6.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddd3/live/455f2ee0-98e3-11f1-b2ab-0dd01740f9f6.jpg"
-      },
-      {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Sat, 15 Aug 2026 17:47:42 GMT",
         "title": "Firefighters battle wildfire tearing through Belgian nature reserve",
@@ -80,7 +103,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f13/live/01221bd0-98d3-11f1-9687-fb984065014d.jpg"
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Sat, 15 Aug 2026 16:01:10 GMT",
         "title": "Massive egg recall in US south and south-west due to salmonella outbreak",
@@ -101,7 +124,7 @@
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Sat, 15 Aug 2026 13:46:26 GMT",
         "title": "Hollywood actor seeks help from vicar for series",
@@ -124,7 +147,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad9f/live/4ffaad50-989a-11f1-9ae7-1bd1ccf14171.jpg"
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Sat, 15 Aug 2026 11:08:51 GMT",
         "title": "Cornish sardines back on menu for penguins",
@@ -147,7 +170,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f182/live/44c31190-9654-11f1-9a70-ddb12b8bcc9e.jpg"
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Sat, 15 Aug 2026 11:00:56 GMT",
         "title": "Lindsay Clancy murder trial: prosecutors revive theory of faked suicide attempt",
@@ -169,7 +192,7 @@
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Sat, 15 Aug 2026 08:32:34 GMT",
         "title": "Draft dark skies guidance drawn up for the Highlands",
@@ -192,7 +215,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38c1/live/4c7ae230-97e6-11f1-a76b-f1c27c51f3da.jpg"
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Sat, 15 Aug 2026 08:01:29 GMT",
         "title": "‘Dangerously hostile’: heatwaves leave hospital wards unsafe, data reveals",
@@ -214,7 +237,7 @@
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Sat, 15 Aug 2026 07:00:50 GMT",
         "title": "‘A tax on being thin’: only high earners make overall savings on food bills from weight-loss drugs",
@@ -235,7 +258,7 @@
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Sat, 15 Aug 2026 06:08:29 GMT",
         "title": "Solar eclipse inspires talk of Pac-man and Shinto myths",
@@ -258,7 +281,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6f4/live/bd078d30-9707-11f1-b72c-211ea4e0afc4.jpg"
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Fri, 14 Aug 2026 17:16:18 GMT",
         "title": "Why is Selena Gomez being sued?",
@@ -291,7 +314,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03bc/live/fd596700-9801-11f1-bc94-d3a8a062b873.jpg"
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Fri, 14 Aug 2026 16:42:40 GMT",
         "title": "Rare breeding bat found roosting near reservoir",
@@ -315,7 +338,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c2d/live/aa166000-97f9-11f1-9577-b1309b6ea3af.jpg"
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Fri, 14 Aug 2026 16:21:39 GMT",
         "title": "Canadian plasma clinics pause collections after deaths of two donors",
@@ -336,7 +359,7 @@
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Fri, 14 Aug 2026 16:07:57 GMT",
         "title": "'Days of the farmers' union dictating policy are over' - Muir",
@@ -359,7 +382,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a261/live/4e1c1f00-97fa-11f1-9577-b1309b6ea3af.jpg"
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Fri, 14 Aug 2026 16:00:32 GMT",
         "title": "Iceberg, romaine, kale: which salad greens are healthiest?",
@@ -380,7 +403,7 @@
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Fri, 14 Aug 2026 15:58:21 GMT",
         "title": "Electric vehicle sales targets could be cut after pressure from car makers",
@@ -403,7 +426,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab99/live/07185cc0-97e8-11f1-a76b-f1c27c51f3da.jpg"
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Fri, 14 Aug 2026 12:00:27 GMT",
         "title": "Can antihistamines really help with PMDD and menopausal symptoms?",
@@ -424,7 +447,7 @@
         ]
       },
       {
-        "id": "cluster_18",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Fri, 14 Aug 2026 07:53:24 GMT",
         "title": "Sensitive medical data sent over unencrypted pager network",
@@ -445,32 +468,11 @@
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/186f/live/b97ab450-97b4-11f1-870d-5d08c49babb2.jpg"
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Fri, 14 Aug 2026 07:00:22 GMT",
-        "title": "‘We’re seeing lots of people who feel dizzy’: how heatwaves are taking a toll on people’s health and the NHS",
-        "neutral_headline": "‘We’re seeing lots of people who feel dizzy’: how heatwaves are taking a toll...",
-        "bullet_summary": [
-          "Reported by Guardian Health"
-        ],
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2026/aug/14/heatwaves-nhs-health-elderly-people-falls-dizziness-doctors-nurses",
-            "published_at": "Fri, 14 Aug 2026 07:00:22 GMT",
-            "title": "‘We’re seeing lots of people who feel dizzy’: how heatwaves are taking a toll on people’s health and the NHS",
-            "standfirst": "Doctors and nurses describe rise in fall injuries and other heat-related problems on top of stifling working conditions“The big thing A&E doctors are seeing during extreme heat now is falls in the elderly,” says Dr Adrian Boyle, an A&E consultant at Addenbrooke’s hospital in Cambridge.“During this summer’s five heatwaves I’ve seen elderly people get light-headed and dizzy and fall down a whole flight of stairs and break multiple bones, purely because of the heat. The last fall down stairs because of the heat resulted in multiple broken ribs, a wrist and her lower leg. Continue reading...",
-            "content": "Doctors and nurses describe rise in fall injuries and other heat-related problems on top of stifling working conditions“The big thing A&E doctors are seeing during extreme heat now is falls in the elderly,” says Dr Adrian Boyle, an A&E consultant at Addenbrooke’s hospital in Cambridge.“During this summer’s five heatwaves I’ve seen elderly people get light-headed and dizzy and fall down a whole flight of stairs and break multiple bones, purely because of the heat. The last fall down stairs because of the heat resulted in multiple broken ribs, a wrist and her lower leg. Continue reading...",
-            "feed_position": 7
-          }
-        ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-08-15T23:12:35.949Z",
+    "updated_at": "2026-08-16T03:40:57.533Z",
     "clusters": []
   }
 }
