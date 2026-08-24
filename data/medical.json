@@ -1,17 +1,40 @@
 {
   "clinical": {
-    "updated_at": "2026-08-23T23:13:07.131Z",
+    "updated_at": "2026-08-24T03:47:08.468Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-08-23T23:13:07.131Z",
+    "updated_at": "2026-08-24T03:47:08.468Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-08-23T23:13:08.307Z",
+    "updated_at": "2026-08-24T03:47:09.770Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Sun, 23 Aug 2026 23:14:04 GMT",
+        "title": "Doctors said I was too young to have endometriosis at 13 - I had to take morphine to cope",
+        "neutral_headline": "Doctors said I was too young to have endometriosis at 13 - I...",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.co.uk/news/articles/ceqe8exvwwwo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sun, 23 Aug 2026 23:14:04 GMT",
+            "title": "Doctors said I was too young to have endometriosis at 13 - I had to take morphine to cope",
+            "standfirst": "Grace, 14, feels doctors were dismissive of her pain. She wants others to know the symptoms.",
+            "content": "Grace, 14, feels doctors were dismissive of her pain. She wants others to know the symptoms.",
+            "feed_position": 23,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b09c/live/25655b50-9b04-11f1-bb80-c1b1e1adeea5.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b09c/live/25655b50-9b04-11f1-bb80-c1b1e1adeea5.jpg"
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Sun, 23 Aug 2026 23:10:18 GMT",
         "title": "How easy is it to find an NHS dentist? It depends where you live",
@@ -34,7 +57,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e3c/live/56fd13c0-9d65-11f1-a291-b542ee92de7c.jpg"
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Sun, 23 Aug 2026 22:17:53 GMT",
         "title": "Eight-year-old dies after contracting rare brain-eating amoeba in Louisiana",
@@ -56,7 +79,7 @@
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Sun, 23 Aug 2026 17:39:33 GMT",
         "title": "France links sharp rise in drownings to heatwaves",
@@ -79,7 +102,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46e9/live/b1ac6f30-9f1a-11f1-b2a2-8945a27a2843.jpg"
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Sun, 23 Aug 2026 16:57:19 GMT",
         "title": "It’s unwise to end local scrutiny of NHS trusts | Letters",
@@ -100,7 +123,7 @@
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Sun, 23 Aug 2026 11:00:31 GMT",
         "title": "Personal care products are awash in unlabeled toxic chemicals, study finds",
@@ -122,7 +145,7 @@
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Sun, 23 Aug 2026 10:50:36 GMT",
         "title": "Ebola day 100: why this outbreak could become the deadliest in history – video explainer",
@@ -143,7 +166,7 @@
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Sun, 23 Aug 2026 07:00:26 GMT",
         "title": "London’s low emission zone is working – so why are cities around the world so cautious about clean air?",
@@ -165,7 +188,7 @@
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Sat, 22 Aug 2026 23:16:43 GMT",
         "title": "How a new era of heatwaves could shake up the school calendar",
@@ -188,7 +211,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8be5/live/d972b6c0-9c70-11f1-b109-879e35c24276.jpg"
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Sat, 22 Aug 2026 15:44:00 GMT",
         "title": "40,000 bottles of eye drops across the US recalled over issues with sterility of product",
@@ -209,7 +232,7 @@
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Sat, 22 Aug 2026 11:31:09 GMT",
         "title": "Welsh county becomes global hotspot for carbon emissions after wildfires",
@@ -233,7 +256,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93b6/live/b1859b10-9e0e-11f1-95e0-53a570c83624.jpg"
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Sat, 22 Aug 2026 11:00:02 GMT",
         "title": "US kindergarten vaccination rates dip as exemptions hit record high",
@@ -254,7 +277,7 @@
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Sat, 22 Aug 2026 11:00:02 GMT",
         "title": "Trump’s new attorney general poses a huge threat to abortion rights | Moira Donegan",
@@ -276,7 +299,7 @@
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Sat, 22 Aug 2026 10:18:20 GMT",
         "title": "Council set to axe climate emergency declaration",
@@ -299,7 +322,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf73/live/ee9a19c0-9d7f-11f1-8bc3-150f4c5f088b.jpg"
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Sat, 22 Aug 2026 06:22:29 GMT",
         "title": "The 'hidden gem' offering a place to grow, connect and heal",
@@ -320,34 +343,11 @@
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfab/live/537e85a0-9665-11f1-a654-971f565de941.jpg"
-      },
-      {
-        "id": "cluster_14",
-        "coverage": 1,
-        "updated_at": "Fri, 21 Aug 2026 23:56:48 GMT",
-        "title": "How this 1960s ex-council house is managing to stay cool without air con",
-        "neutral_headline": "How this 1960s ex-council house is managing to stay cool without air con",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Fri, 21 Aug 2026 23:56:48 GMT",
-            "title": "How this 1960s ex-council house is managing to stay cool without air con",
-            "standfirst": "The Passivhaus standard is growing in popularity as UK homeowners adapt to hotter summer temperatures.",
-            "content": "The Passivhaus standard is growing in popularity as UK homeowners adapt to hotter summer temperatures.",
-            "feed_position": 3,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14fa/live/18d84ae0-9d62-11f1-a979-27696fc3a013.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14fa/live/18d84ae0-9d62-11f1-a979-27696fc3a013.jpg"
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-08-23T23:13:08.307Z",
+    "updated_at": "2026-08-24T03:47:09.770Z",
     "clusters": []
   }
 }
