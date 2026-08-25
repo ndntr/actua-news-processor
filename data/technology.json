@@ -1,8 +1,40 @@
 {
-  "updated_at": "2026-08-25T07:37:09.700Z",
+  "updated_at": "2026-08-25T11:19:48.083Z",
   "clusters": [
     {
-      "id": "cluster_28",
+      "id": "cluster_13",
+      "coverage": 2,
+      "updated_at": "2026-08-25T05:15:03-04:00",
+      "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+      "neutral_headline": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+      "bullet_summary": [
+        "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s attorney general announced an investigation into the incident",
+        "Reported by The Verge, TechCrunch"
+      ],
+      "items": [
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+          "published_at": "2026-08-25T05:15:03-04:00",
+          "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+          "standfirst": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last month. The investigation seeks to determine whether OpenAI's safety practices violated state consumer protection laws and pose a risk to Alabama [&#8230;]",
+          "content": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last month. The investigation seeks to determine whether OpenAI's safety practices violated state consumer protection laws and pose a risk to Alabama citizens, the AG's office said in a statement. \"This AI lab leak showed that Alabamians' and Americans' worst fears about artificial intelligence are not just theoretical,\" said Attorney General Steve Marshall. \"Our investigation seeks to uncover the facts and address hard truths abo … Read the full story at The Verge.",
+          "feed_position": 1
+        },
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
+          "published_at": "Mon, 24 Aug 2026 19:58:17 +0000",
+          "title": "Alabama launches investigation into OpenAI&#8217;s hack of Hugging Face",
+          "standfirst": "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s attorney general announced an investigation into the incident.",
+          "content": "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s attorney general announced an investigation into the incident.",
+          "feed_position": 6
+        }
+      ],
+      "popularity_score": 2017.9208102777777
+    },
+    {
+      "id": "cluster_44",
       "coverage": 2,
       "updated_at": "Mon, 24 Aug 2026 20:45:33 +0000",
       "title": "Zillow and Redfin settle FTC antitrust case",
@@ -28,13 +60,13 @@
           "title": "Zillow and Redfin settle FTC antitrust case over their rental listings partnership",
           "standfirst": "The FTC and Zillow have announced a settlement that ends the case alleging that a 2025 \"partnership\" between Zillow and Redfin violated antitrust laws. The FTC had alleged Zillow agreed to pay Redfin to syndicate its listings, while Redfin would end its own advertising contracts and promise not to compete with Zillow for multifamily listings. [&#8230;]",
           "content": "The FTC and Zillow have announced a settlement that ends the case alleging that a 2025 \"partnership\" between Zillow and Redfin violated antitrust laws. The FTC had alleged Zillow agreed to pay Redfin to syndicate its listings, while Redfin would end its own advertising contracts and promise not to compete with Zillow for multifamily listings. The FTC's settlement proposal allows Redfin to continue syndicating rental listings from Zillow \"unencumbered by the anticompetitive restraints\" in the original deal, but also requires Redfin to restart its own rental listings advertising business, which it wound down as part of the partnership. Dani … Read the full story at The Verge.",
-          "feed_position": 2
+          "feed_position": 5
         }
       ],
-      "popularity_score": 2009.1398055555555
+      "popularity_score": 2005.4291436111112
     },
     {
-      "id": "cluster_56",
+      "id": "cluster_69",
       "coverage": 2,
       "updated_at": "Mon, 24 Aug 2026 16:49:00 +0000",
       "title": "ESPN is raising prices on most of its streaming subscriptions, even bundles with Disney+",
@@ -60,14 +92,14 @@
           "title": "ESPN streaming plans are getting more expensive",
           "standfirst": "ESPN is hiking the price of its subscription on September 17th, a change that will also impact its bundles with Disney Plus. In a support page spotted earlier by Sports Media Watch, ESPN says its ad-supported Select membership will cost $13.99 instead of $12.99 / month, while its Unlimited plan will rise to $31.99 from [&#8230;]",
           "content": "ESPN is hiking the price of its subscription on September 17th, a change that will also impact its bundles with Disney Plus. In a support page spotted earlier by Sports Media Watch, ESPN says its ad-supported Select membership will cost $13.99 instead of $12.99 / month, while its Unlimited plan will rise to $31.99 from $29.99 / month. The annual ESPN Select plan is also going to $139.99 from $129.99 / year, and the annual Unlimited tier is increasing to $319.99 from $299.99 / year. Meanwhile, Disney Plus bundles with ESPN Select are going up in price as well. Here's a rundown of the changes: Disney Plus (with ads), Hulu (with ads), and ES … Read the full story at The Verge.",
-          "feed_position": 5
+          "feed_position": 8
         }
       ],
       "featured_image": "https://www.engadget.com/img/gallery/espn-is-raising-prices-on-most-of-its-streaming-subscriptions-even-bundles-with-disney/l-intro-1787590062.jpg",
-      "popularity_score": 2005.1973055555557
+      "popularity_score": 2001.486643611111
     },
     {
-      "id": "cluster_18",
+      "id": "cluster_37",
       "coverage": 1,
       "updated_at": "Mon, 24 Aug 2026 21:45:53 +0000",
       "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
@@ -88,10 +120,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2211086231-1152x648.jpg",
-      "popularity_score": 364.14536111111113
+      "popularity_score": 360.4346991666667
     },
     {
-      "id": "cluster_19",
+      "id": "cluster_38",
       "coverage": 1,
       "updated_at": "Mon, 24 Aug 2026 21:32:16 +0000",
       "title": "Data centers become \"killer application\" for new power transformer tech",
@@ -112,10 +144,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/deployed-SST-1152x648.jpg",
-      "popularity_score": 332.91841666666664
+      "popularity_score": 329.2077547222222
     },
     {
-      "id": "cluster_25",
+      "id": "cluster_42",
       "coverage": 1,
       "updated_at": "Mon, 24 Aug 2026 21:04:48 +0000",
       "title": "RFK Jr. may upend how vaccine recommendations are categorized",
@@ -136,10 +168,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2289379931-1152x648.jpg",
-      "popularity_score": 322.46063888888887
+      "popularity_score": 318.7499769444444
     },
     {
-      "id": "cluster_32",
+      "id": "cluster_47",
       "coverage": 1,
       "updated_at": "Mon, 24 Aug 2026 20:17:41 +0000",
       "title": "Ads and tracking infiltrated TVs. Now they're coming for monitors.",
@@ -160,10 +192,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-159905320-1024x648.jpg",
-      "popularity_score": 311.6753611111111
+      "popularity_score": 307.96469916666666
     },
     {
-      "id": "cluster_40",
+      "id": "cluster_54",
       "coverage": 1,
       "updated_at": "Mon, 24 Aug 2026 19:42:50 +0000",
       "title": "GM vehicles under federal scrutiny after hundreds of reports",
@@ -184,10 +216,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/Lyriq-V015_v4-1152x648.jpg",
-      "popularity_score": 301.0945277777778
+      "popularity_score": 297.38386583333335
     },
     {
-      "id": "cluster_55",
+      "id": "cluster_68",
       "coverage": 1,
       "updated_at": "Mon, 24 Aug 2026 16:59:07 +0000",
       "title": "Buyer beware: Those mummified remains might carry toxic spores",
@@ -208,10 +240,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/curse7-1152x648.jpg",
-      "popularity_score": 293.3659166666667
+      "popularity_score": 289.6552547222222
     },
     {
-      "id": "cluster_43",
+      "id": "cluster_56",
       "coverage": 1,
       "updated_at": "Mon, 24 Aug 2026 19:19:21 +0000",
       "title": "Inaudible sounds used to fingerprint browsers catch AliExpress red-handed",
@@ -232,10 +264,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/browser-fingerprint-1000x648.jpeg",
-      "popularity_score": 290.7031388888889
+      "popularity_score": 286.99247694444443
     },
     {
-      "id": "cluster_58",
+      "id": "cluster_71",
       "coverage": 1,
       "updated_at": "Mon, 24 Aug 2026 16:41:45 +0000",
       "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
@@ -256,10 +288,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-1024x648.jpg",
-      "popularity_score": 283.0764722222222
+      "popularity_score": 279.36581027777777
     },
     {
-      "id": "cluster_60",
+      "id": "cluster_73",
       "coverage": 1,
       "updated_at": "Mon, 24 Aug 2026 16:02:54 +0000",
       "title": "F1 in the Netherlands: The driver you most want to beat is your teammate",
@@ -280,10 +312,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2291183505-1152x648.jpg",
-      "popularity_score": 257.4289722222222
+      "popularity_score": 253.7183102777778
     },
     {
-      "id": "cluster_71",
+      "id": "cluster_84",
       "coverage": 1,
       "updated_at": "Mon, 24 Aug 2026 14:43:56 +0000",
       "title": "Trump tried to curb clean energy. It’s booming anyway.",
@@ -304,10 +336,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2289637867.jpg",
-      "popularity_score": 246.1128611111111
+      "popularity_score": 243
     },
     {
-      "id": "cluster_90",
+      "id": "cluster_100",
       "coverage": 1,
       "updated_at": "Mon, 24 Aug 2026 11:00:01 +0000",
       "title": "Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo",
@@ -331,7 +363,7 @@
       "popularity_score": 144
     },
     {
-      "id": "cluster_107",
+      "id": "cluster_117",
       "coverage": 1,
       "updated_at": "Sun, 23 Aug 2026 14:30:16 +0000",
       "title": "Due to need for \"absolute success,\" China delays critical Moon launch to 2027",
@@ -353,30 +385,6 @@
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2012/06/shackleton_center_cropped-1152x648.jpg",
       "popularity_score": 133
-    },
-    {
-      "id": "cluster_112",
-      "coverage": 1,
-      "updated_at": "Sun, 23 Aug 2026 11:02:54 +0000",
-      "title": "Volcanoes that made history",
-      "neutral_headline": "Volcanoes that made history",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/08/volcanoes-that-made-history/",
-          "published_at": "Sun, 23 Aug 2026 11:02:54 +0000",
-          "title": "Volcanoes that made history",
-          "standfirst": "Enormous eruptions altered Earth’s climate and societies all over the globe.",
-          "content": "The first telegram arrived in Singapore on a Monday, sent from the city of Batavia in the Dutch East Indies (now Jakarta, Indonesia). “Terrific detonations from Krakatau (volcanic island),” it reported. Soon afterward: “Stones falling. Village near Anjer washed away.” The wires continued clattering out news of bridges destroyed, boats smashed, lighthouses “disappeared.” By noon on Tuesday, the scope of the natural disaster was clear: “Where once Mount Krakatau stood the sea now plays.” Within days, the source of the destruction was known worldwide. On the morning of August 27, 1883, a volcanic eruption had obliterated two islands in the strait between Java and Sumatra, and most of a third. More than 36,000 people perished, the majority in devastating tsunamis that raced outward from the colossal explosion. Thanks to Victorian-era telecommunications, it was the first time in history that people around the globe could begin to document, in near real time, the immediate and long-term effects of a catastrophic volcanic eruption. What they learned over the next few years laid the foundations for the modern science of volcanology. And it was an especially eye-opening lesson in how the biggest eruptions can influence climate, agriculture, and even the course of human history.Read full article Comments",
-          "feed_position": 12,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1001695938-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1001695938-1152x648.jpg",
-      "popularity_score": 130
     }
   ]
 }
