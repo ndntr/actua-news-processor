@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-26T03:46:30.952Z",
+  "updated_at": "2026-08-26T07:39:12.562Z",
   "clusters": [
     {
-      "id": "cluster_50",
-      "coverage": 4,
+      "id": "cluster_63",
+      "coverage": 3,
       "updated_at": "Tue, 25 Aug 2026 17:50:33 +0000",
       "title": "Claude Cowork finally remembers what you told the app in chat",
       "neutral_headline": "Claude Cowork finally remembers what you told the app in chat",
       "bullet_summary": [
-        "Reported by TechCrunch, TechMeme, ZDNet and others"
+        "Reported by TechCrunch, ZDNet, Engadget"
       ],
       "items": [
         {
@@ -18,17 +18,7 @@
           "title": "Claude Cowork finally remembers what you told the app in chat",
           "standfirst": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
           "content": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
-          "feed_position": 9
-        },
-        {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/260825/p36#a260825p36",
-          "published_at": "Tue, 25 Aug 2026 13:10:01 -0400",
-          "title": "Anthropic merges the memory systems for Claude chat and Claude Cowork, making Claude chat history available to Cowork unless users opt out (David Gewirtz/ZDNET)",
-          "standfirst": "David Gewirtz / ZDNET: Anthropic merges the memory systems for Claude chat and Claude Cowork, making Claude chat history available to Cowork unless users opt out &mdash; ZDNET's key takeaways &mdash; Claude chat and Cowork now share one memory system. &mdash; Memory updates as you chat, with sensitive-data controls.",
-          "content": "David Gewirtz / ZDNET: Anthropic merges the memory systems for Claude chat and Claude Cowork, making Claude chat history available to Cowork unless users opt out &mdash; ZDNET's key takeaways &mdash; Claude chat and Cowork now share one memory system. &mdash; Memory updates as you chat, with sensitive-data controls.",
-          "feed_position": 13,
-          "image_url": "http://www.techmeme.com/260825/i36.jpg"
+          "feed_position": 10
         },
         {
           "source": "ZDNet",
@@ -46,15 +36,49 @@
           "title": "Claude's memory now works across both chats and Cowork sessions",
           "standfirst": "Anthropic is giving users more control over what memories Claude saves.",
           "content": "Anthropic is giving users more control over what memories Claude saves.",
-          "feed_position": 12,
+          "feed_position": 13,
           "image_url": "https://www.engadget.com/img/gallery/claude-memory-now-works-across-both-chats-and-cowork-sessions/l-intro-1787677590.jpg"
         }
       ],
-      "featured_image": "http://www.techmeme.com/260825/i36.jpg",
-      "popularity_score": 4010.0672355555557
+      "featured_image": "https://www.engadget.com/img/gallery/claude-memory-now-works-across-both-chats-and-cowork-sessions/l-intro-1787677590.jpg",
+      "popularity_score": 3006.189010833333
     },
     {
-      "id": "cluster_15",
+      "id": "cluster_1",
+      "coverage": 2,
+      "updated_at": "Wed, 26 Aug 2026 07:05:00 +0000",
+      "title": "SpaceX is building a $100 billion 'Starbase' launch site in Louisiana",
+      "neutral_headline": "SpaceX is building a $100 billion 'Starbase' launch site in Louisiana",
+      "bullet_summary": [
+        "Reported by Engadget, Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2244379/spacex-is-building-a-100-billion-starbase-launch-site-in-louisiana/",
+          "published_at": "Wed, 26 Aug 2026 07:05:00 +0000",
+          "title": "SpaceX is building a $100 billion 'Starbase' launch site in Louisiana",
+          "standfirst": "'We're preparing to build a spaceport that, until now, has only existed in science fiction,'",
+          "content": "'We're preparing to build a spaceport that, until now, has only existed in science fiction,'",
+          "feed_position": 0,
+          "image_url": "https://www.engadget.com/img/gallery/spacex-is-building-a-100-billion-starbase-launch-site-in-louisiana/l-intro-1787727542.jpg"
+        },
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/08/spacex-intends-to-invest-up-to-100-billion-in-massive-louisiana-spaceport/",
+          "published_at": "Tue, 25 Aug 2026 17:26:15 +0000",
+          "title": "SpaceX intends to invest up to $100 billion in massive Louisiana spaceport",
+          "standfirst": "\"This will be a project like no other.\"",
+          "content": "Louisiana Gov. Jeff Landry said Tuesday that SpaceX will commit $100 billion to develop Starship factories and launch pads in the state's coastal areas. In doing so, the company seeks to replicate the Starbase facility it has built over the last decade in southern Texas on a larger scale. The announcement capped months of speculation about SpaceX's interest in a sprawling parcel of land along the Gulf coast of Louisiana, which offers room to build multiple launch towers and offers access to the methane propellant that fuels the Starship rocket. Gwynne Shotwell, the president and chief operating officer of SpaceX, said the \"Starbase Louisiana\" facility would become a self-sustaining spaceport with propellant production, power generation, deep-water shipping capabilities, vehicle processing facilities, and an airport on site.Read full article Comments",
+          "feed_position": 5,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/spacex-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://www.engadget.com/img/gallery/spacex-is-building-a-100-billion-starbase-launch-site-in-louisiana/l-intro-1787727542.jpg",
+      "popularity_score": 2019.4298441666667
+    },
+    {
+      "id": "cluster_33",
       "coverage": 2,
       "updated_at": "Tue, 25 Aug 2026 18:20:01 -0400",
       "title": "Nitter, an open-source front end that let users read X without an account, says X sent cease-and-desist letters demanding a takedown; Nitter.net is now offline (Sarah Perez/TechCrunch)",
@@ -70,7 +94,7 @@
           "title": "Nitter, an open-source front end that let users read X without an account, says X sent cease-and-desist letters demanding a takedown; Nitter.net is now offline (Sarah Perez/TechCrunch)",
           "standfirst": "Sarah Perez / TechCrunch: Nitter, an open-source front end that let users read X without an account, says X sent cease-and-desist letters demanding a takedown; Nitter.net is now offline &mdash; Nitter, an open source project that allowed people to read X posts without logging into or even opening the X app &hellip;",
           "content": "Sarah Perez / TechCrunch: Nitter, an open-source front end that let users read X without an account, says X sent cease-and-desist letters demanding a takedown; Nitter.net is now offline &mdash; Nitter, an open source project that allowed people to read X posts without logging into or even opening the X app &hellip;",
-          "feed_position": 5,
+          "feed_position": 14,
           "image_url": "http://www.techmeme.com/260825/i44.jpg"
         },
         {
@@ -80,14 +104,14 @@
           "title": "X sends cease-and-desist to open source project Nitter over alleged scraping",
           "standfirst": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X front ends, demanding its instances and code repository be taken down over alleged scraping.",
           "content": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X front ends, demanding its instances and code repository be taken down over alleged scraping.",
-          "feed_position": 3
+          "feed_position": 4
         }
       ],
       "featured_image": "http://www.techmeme.com/260825/i44.jpg",
-      "popularity_score": 2014.5583466666667
+      "popularity_score": 2010.6801219444444
     },
     {
-      "id": "cluster_17",
+      "id": "cluster_35",
       "coverage": 2,
       "updated_at": "Tue, 25 Aug 2026 21:46:07 +0000",
       "title": "Instagram adds feature that automatically trims clips for Reels",
@@ -103,7 +127,7 @@
           "title": "Instagram adds feature that automatically trims clips for Reels",
           "standfirst": "First Draft takes care of the busywork of video editing.",
           "content": "First Draft takes care of the busywork of video editing.",
-          "feed_position": 3,
+          "feed_position": 4,
           "image_url": "https://www.engadget.com/img/gallery/instagram-adds-feature-that-automatically-trims-your-clips/l-intro-1787694097.jpg"
         },
         {
@@ -117,10 +141,10 @@
         }
       ],
       "featured_image": "https://www.engadget.com/img/gallery/instagram-adds-feature-that-automatically-trims-your-clips/l-intro-1787694097.jpg",
-      "popularity_score": 2013.9933466666666
+      "popularity_score": 2010.1151219444444
     },
     {
-      "id": "cluster_76",
+      "id": "cluster_86",
       "coverage": 2,
       "updated_at": "Tue, 25 Aug 2026 15:29:00 GMT",
       "title": "Apple's M5 Ultra is its most powerful chip ever - with 4x faster AI performance than M3 Ultra",
@@ -145,13 +169,13 @@
           "title": "Apple debuts its &#8216;most powerful chip ever&#8217; in M5 Ultra and M6",
           "standfirst": "Apple unveils these new processors alongside an updated Mac Mini and Mac Studio.",
           "content": "Apple unveils these new processors alongside an updated Mac Mini and Mac Studio.",
-          "feed_position": 17
+          "feed_position": 18
         }
       ],
-      "popularity_score": 2007.7080688888889
+      "popularity_score": 2003.8298441666666
     },
     {
-      "id": "cluster_13",
+      "id": "cluster_31",
       "coverage": 1,
       "updated_at": "Tue, 25 Aug 2026 22:21:06 +0000",
       "title": "The world's busiest spaceport is about to get a lot quieter, at least for now",
@@ -172,10 +196,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/f9_streak1-1152x648.jpg",
-      "popularity_score": 355.5764022222222
+      "popularity_score": 351.6981775
     },
     {
-      "id": "cluster_25",
+      "id": "cluster_41",
       "coverage": 1,
       "updated_at": "Tue, 25 Aug 2026 20:59:03 +0000",
       "title": "World humanoid robot games show runners breaking records, bursting into flames",
@@ -196,10 +220,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/World-Humanoid-Robot-Games-2026-1152x648.jpg",
-      "popularity_score": 344.2089022222222
+      "popularity_score": 340.3306775
     },
     {
-      "id": "cluster_40",
+      "id": "cluster_53",
       "coverage": 1,
       "updated_at": "Tue, 25 Aug 2026 18:32:30 +0000",
       "title": "Google's anti-nausea Motion Assist dots finally rolling out on Android",
@@ -220,10 +244,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Motion-Assist-Pixel-11-1152x648.jpg",
-      "popularity_score": 325.7664022222222
+      "popularity_score": 321.8881775
     },
     {
-      "id": "cluster_36",
+      "id": "cluster_50",
       "coverage": 1,
       "updated_at": "Tue, 25 Aug 2026 18:59:12 +0000",
       "title": "Preserving glow-in-the-dark art and fashion for future generations",
@@ -244,10 +268,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/glowindark3-1152x648.jpg",
-      "popularity_score": 324.2114022222222
+      "popularity_score": 320.3331775
     },
     {
-      "id": "cluster_51",
+      "id": "cluster_64",
       "coverage": 1,
       "updated_at": "Tue, 25 Aug 2026 17:39:38 +0000",
       "title": "Two unvaccinated people die from measles in Pennsylvania, officials confirm",
@@ -268,34 +292,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2053751760-1152x648.jpg",
-      "popularity_score": 302.8852911111111
+      "popularity_score": 299.0070663888889
     },
     {
-      "id": "cluster_56",
-      "coverage": 1,
-      "updated_at": "Tue, 25 Aug 2026 17:26:15 +0000",
-      "title": "SpaceX intends to invest up to $100 billion in massive Louisiana spaceport",
-      "neutral_headline": "SpaceX intends to invest up to $100 billion in massive Louisiana spaceport",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/08/spacex-intends-to-invest-up-to-100-billion-in-massive-louisiana-spaceport/",
-          "published_at": "Tue, 25 Aug 2026 17:26:15 +0000",
-          "title": "SpaceX intends to invest up to $100 billion in massive Louisiana spaceport",
-          "standfirst": "\"This will be a project like no other.\"",
-          "content": "Louisiana Gov. Jeff Landry said Tuesday that SpaceX will commit $100 billion to develop Starship factories and launch pads in the state's coastal areas. In doing so, the company seeks to replicate the Starbase facility it has built over the last decade in southern Texas on a larger scale. The announcement capped months of speculation about SpaceX's interest in a sprawling parcel of land along the Gulf coast of Louisiana, which offers room to build multiple launch towers and offers access to the methane propellant that fuels the Starship rocket. Gwynne Shotwell, the president and chief operating officer of SpaceX, said the \"Starbase Louisiana\" facility would become a self-sustaining spaceport with propellant production, power generation, deep-water shipping capabilities, vehicle processing facilities, and an airport on site.Read full article Comments",
-          "feed_position": 5,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/spacex-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/spacex-1152x648.jpg",
-      "popularity_score": 300.6622355555556
-    },
-    {
-      "id": "cluster_67",
+      "id": "cluster_77",
       "coverage": 1,
       "updated_at": "Tue, 25 Aug 2026 16:16:57 +0000",
       "title": "Lab supply companies have been selling antibodies using manipulated images",
@@ -316,10 +316,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1184711342-1152x648.jpg",
-      "popularity_score": 281.50723555555555
+      "popularity_score": 277.6290108333333
     },
     {
-      "id": "cluster_88",
+      "id": "cluster_96",
       "coverage": 1,
       "updated_at": "Tue, 25 Aug 2026 13:00:11 +0000",
       "title": "Apple's new desktop computers are designed specifically for local AI development",
@@ -340,10 +340,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Mac-Studio-2026-1152x648-1787611177.jpg",
-      "popularity_score": 281.2277911111111
+      "popularity_score": 277.3495663888889
     },
     {
-      "id": "cluster_78",
+      "id": "cluster_88",
       "coverage": 1,
       "updated_at": "Tue, 25 Aug 2026 15:10:03 +0000",
       "title": "AI won’t replace radiologists, but it will dramatically change their jobs",
@@ -364,10 +364,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2280376449-1024x648.jpg",
-      "popularity_score": 275.39223555555554
+      "popularity_score": 271.5140108333333
     },
     {
-      "id": "cluster_68",
+      "id": "cluster_78",
       "coverage": 1,
       "updated_at": "Tue, 25 Aug 2026 16:04:37 +0000",
       "title": "New bootloader lets you take the \"Meta\" out of the original Meta Quest",
@@ -388,10 +388,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/quest1-1152x648.png",
-      "popularity_score": 271.30168
+      "popularity_score": 267.4234552777778
     },
     {
-      "id": "cluster_108",
+      "id": "cluster_114",
       "coverage": 1,
       "updated_at": "Mon, 24 Aug 2026 21:45:53 +0000",
       "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
@@ -415,7 +415,7 @@
       "popularity_score": 154
     },
     {
-      "id": "cluster_123",
+      "id": "cluster_129",
       "coverage": 1,
       "updated_at": "Mon, 24 Aug 2026 16:59:07 +0000",
       "title": "Buyer beware: Those mummified remains might carry toxic spores",
@@ -439,7 +439,7 @@
       "popularity_score": 148
     },
     {
-      "id": "cluster_124",
+      "id": "cluster_130",
       "coverage": 1,
       "updated_at": "Mon, 24 Aug 2026 16:41:45 +0000",
       "title": "Nvidia senior manager tied to ex-Supermicro staff's AI smuggling scheme",
@@ -463,7 +463,7 @@
       "popularity_score": 148
     },
     {
-      "id": "cluster_109",
+      "id": "cluster_115",
       "coverage": 1,
       "updated_at": "Mon, 24 Aug 2026 21:32:16 +0000",
       "title": "Data centers become \"killer application\" for new power transformer tech",
@@ -487,7 +487,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_111",
+      "id": "cluster_117",
       "coverage": 1,
       "updated_at": "Mon, 24 Aug 2026 21:04:48 +0000",
       "title": "RFK Jr. may upend how vaccine recommendations are categorized",
@@ -511,7 +511,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_114",
+      "id": "cluster_120",
       "coverage": 1,
       "updated_at": "Mon, 24 Aug 2026 20:17:41 +0000",
       "title": "Ads and tracking infiltrated TVs. Now they're coming for monitors.",
@@ -535,7 +535,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_115",
+      "id": "cluster_121",
       "coverage": 1,
       "updated_at": "Mon, 24 Aug 2026 19:42:50 +0000",
       "title": "GM vehicles under federal scrutiny after hundreds of reports",
@@ -559,7 +559,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_117",
+      "id": "cluster_123",
       "coverage": 1,
       "updated_at": "Mon, 24 Aug 2026 19:19:21 +0000",
       "title": "Inaudible sounds used to fingerprint browsers catch AliExpress red-handed",
@@ -583,7 +583,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_125",
+      "id": "cluster_131",
       "coverage": 1,
       "updated_at": "Mon, 24 Aug 2026 16:02:54 +0000",
       "title": "F1 in the Netherlands: The driver you most want to beat is your teammate",
@@ -607,7 +607,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_127",
+      "id": "cluster_133",
       "coverage": 1,
       "updated_at": "Mon, 24 Aug 2026 14:43:56 +0000",
       "title": "Trump tried to curb clean energy. It’s booming anyway.",
