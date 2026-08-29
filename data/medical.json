@@ -1,17 +1,40 @@
 {
   "clinical": {
-    "updated_at": "2026-08-29T01:57:23.111Z",
+    "updated_at": "2026-08-29T09:36:49.839Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-08-29T01:57:23.111Z",
+    "updated_at": "2026-08-29T09:36:49.839Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-08-29T01:57:26.231Z",
+    "updated_at": "2026-08-29T09:36:52.404Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Sat, 29 Aug 2026 06:05:15 GMT",
+        "title": "How the weather in space can affect us on Earth - and the team trying to protect us",
+        "neutral_headline": "How the weather in space can affect us on Earth - and the team trying to protect us",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/news/articles/czjlzdw8gp0o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sat, 29 Aug 2026 06:05:15 GMT",
+            "title": "How the weather in space can affect us on Earth - and the team trying to protect us",
+            "standfirst": "The weather in space has the potential to impact our lives here on Earth in a fundamental way.",
+            "content": "The weather in space has the potential to impact our lives here on Earth in a fundamental way.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e397/live/f7594f20-a2bd-11f1-aed2-8d6da8d75094.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e397/live/f7594f20-a2bd-11f1-aed2-8d6da8d75094.jpg"
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Sat, 29 Aug 2026 00:53:13 GMT",
         "title": "Strong winds and thunderstorms kick off the bank holiday weekend",
@@ -27,7 +50,7 @@
             "title": "Strong winds and thunderstorms kick off the bank holiday weekend",
             "standfirst": "Cooler and showery conditions will continue across the weekend and into Monday, bringing a record-breaking summer to a rather damp close as Matt Taylor explains.",
             "content": "Cooler and showery conditions will continue across the weekend and into Monday, bringing a record-breaking summer to a rather damp close as Matt Taylor explains.",
-            "feed_position": 0,
+            "feed_position": 1,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4196/live/2c190870-a2e3-11f1-a291-b542ee92de7c.jpg"
           },
           {
@@ -37,34 +60,11 @@
             "title": "Bank holiday weekend to see more thunderstorms and rain",
             "standfirst": "The weather will remain unsettled across the next few days with showers, longer spells of rain and thunderstorms all likely at times across the weekend.",
             "content": "The weather will remain unsettled across the next few days with showers, longer spells of rain and thunderstorms all likely at times across the weekend.",
-            "feed_position": 5,
+            "feed_position": 4,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0ae/live/5bf17290-a2b0-11f1-ab20-f9f4f61e8913.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4196/live/2c190870-a2e3-11f1-a291-b542ee92de7c.jpg"
-      },
-      {
-        "id": "cluster_1",
-        "coverage": 1,
-        "updated_at": "Sat, 29 Aug 2026 00:51:02 GMT",
-        "title": "Mountain of broken fridges growing across England and Wales",
-        "neutral_headline": "Mountain of broken fridges growing across England and Wales",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/news/articles/c23x8k1ry27o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Sat, 29 Aug 2026 00:51:02 GMT",
-            "title": "Mountain of broken fridges growing across England and Wales",
-            "standfirst": "This year's multiple heat waves have increased the numbers of fridges and freezers breaking down.",
-            "content": "This year's multiple heat waves have increased the numbers of fridges and freezers breaking down.",
-            "feed_position": 1,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a8b/live/c6083ba0-a2d8-11f1-941c-8741c1a72471.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a8b/live/c6083ba0-a2d8-11f1-941c-8741c1a72471.jpg"
       },
       {
         "id": "cluster_2",
@@ -92,29 +92,6 @@
       {
         "id": "cluster_3",
         "coverage": 1,
-        "updated_at": "Fri, 28 Aug 2026 20:44:07 GMT",
-        "title": "How the weather in space can affect us on Earth - and the team trying to protect us",
-        "neutral_headline": "How the weather in space can affect us on Earth - and the team trying to protect us",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/news/articles/czjlzdw8gp0o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Fri, 28 Aug 2026 20:44:07 GMT",
-            "title": "How the weather in space can affect us on Earth - and the team trying to protect us",
-            "standfirst": "The weather in space has the potential to impact our lives here on Earth in a fundamental way.",
-            "content": "The weather in space has the potential to impact our lives here on Earth in a fundamental way.",
-            "feed_position": 3,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e397/live/f7594f20-a2bd-11f1-aed2-8d6da8d75094.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e397/live/f7594f20-a2bd-11f1-aed2-8d6da8d75094.jpg"
-      },
-      {
-        "id": "cluster_4",
-        "coverage": 1,
         "updated_at": "Fri, 28 Aug 2026 18:34:46 GMT",
         "title": "Clive Parkinson obituary",
         "neutral_headline": "Clive Parkinson obituary",
@@ -134,7 +111,7 @@
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Fri, 28 Aug 2026 17:59:31 GMT",
         "title": "'Our parents were crossing the border an hour before the flood hit'",
@@ -150,14 +127,14 @@
             "title": "'Our parents were crossing the border an hour before the flood hit'",
             "standfirst": "Authorities say nearly 2,000 people are missing, including more than 100 Americans and Canadians, as families await word on loved ones after the Nepal flash floods.",
             "content": "Authorities say nearly 2,000 people are missing, including more than 100 Americans and Canadians, as families await word on loved ones after the Nepal flash floods.",
-            "feed_position": 4,
+            "feed_position": 3,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/192a/live/9d95b090-a237-11f1-80a2-67c89a95284e.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/192a/live/9d95b090-a237-11f1-80a2-67c89a95284e.jpg"
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Fri, 28 Aug 2026 17:00:03 GMT",
         "title": "New heart attack definition promises better care for women",
@@ -178,7 +155,7 @@
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Fri, 28 Aug 2026 16:42:32 GMT",
         "title": "Salmonella cases in UK likely to rise until source of outbreak is found",
@@ -199,7 +176,7 @@
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Fri, 28 Aug 2026 15:13:43 GMT",
         "title": "UK urged to ban imports of Brazilian meat over health concerns",
@@ -220,7 +197,7 @@
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Fri, 28 Aug 2026 13:49:10 GMT",
         "title": "Vaccine misinformation spreads as RFK Jr suggests two measles deaths were ‘fabricated’",
@@ -241,7 +218,7 @@
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Fri, 28 Aug 2026 13:05:16 GMT",
         "title": "Sweetener used in chewing gum and jam linked to strokes and heart attacks",
@@ -262,7 +239,7 @@
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Fri, 28 Aug 2026 12:49:55 GMT",
         "title": "Watch: Stargazers around the world glimpse 'Blood Moon' lunar eclipse",
@@ -280,42 +257,12 @@
             "content": "Some parts of the globe had a chance to see the rare event when the Sun, Earth and Moon line up in the night sky.",
             "feed_position": 19,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53e7/live/2e2c0bf0-a2cd-11f1-941c-8741c1a72471.jpg"
-          },
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/weather/articles/c5y4n7y89w7o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Thu, 27 Aug 2026 06:03:15 GMT",
-            "title": "Moon set to turn red as rare partial lunar eclipse graces UK skies on Friday",
-            "standfirst": "The Moon could glow an eerie red in the early hours of Friday but cloud cover may spoil the spectacle for some parts of the UK.",
-            "content": "The Moon could glow an eerie red in the early hours of Friday but cloud cover may spoil the spectacle for some parts of the UK.",
-            "feed_position": 12,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b60/live/f6d62c90-a1e5-11f1-b132-bb16290da3a7.jpg"
-          },
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/news/articles/crerdrlepg8o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Thu, 27 Aug 2026 05:23:21 GMT",
-            "title": "How can you see Friday's 'Magical' Blood Moon?",
-            "standfirst": "A blood red moon may be visible in the early hours of Friday during a partial lunar eclipse.",
-            "content": "A blood red moon may be visible in the early hours of Friday during a partial lunar eclipse.",
-            "feed_position": 20,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/400e/live/7140cbd0-a091-11f1-b109-879e35c24276.jpg"
-          },
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/news/articles/cq5xe322ezgo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Thu, 27 Aug 2026 05:15:52 GMT",
-            "title": "How to watch the partial lunar eclipse from Northern Ireland",
-            "standfirst": "Skygazers may see a partial lunar eclipse early on Friday, as the Moon enters Earth's shadow.",
-            "content": "Skygazers may see a partial lunar eclipse early on Friday, as the Moon enters Earth's shadow.",
-            "feed_position": 21,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf60/live/15d4ce10-8c22-11f0-b391-6936825093bd.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53e7/live/2e2c0bf0-a2cd-11f1-941c-8741c1a72471.jpg"
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Fri, 28 Aug 2026 12:00:57 GMT",
         "title": "‘So much fringe science’: RFK Jr’s advisers are pushing an extreme makeover in autism research",
@@ -336,7 +283,7 @@
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Fri, 28 Aug 2026 10:30:44 GMT",
         "title": "GPS collars making shepherds' lives 'much easier'",
@@ -359,7 +306,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58c8/live/abc39930-a21d-11f1-8d29-591eef351b23.jpg"
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Fri, 28 Aug 2026 10:23:21 GMT",
         "title": "What are the symptoms of Hypermobility Spectrum Disorder?",
@@ -392,7 +339,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9528/live/a92fa6a0-a2c7-11f1-a291-b542ee92de7c.jpg"
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Fri, 28 Aug 2026 09:29:37 GMT",
         "title": "ADHD and autism costs in England ‘running out of control’, NHS leaders warn",
@@ -414,7 +361,7 @@
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Fri, 28 Aug 2026 03:23:21 GMT",
         "title": "'The flood took everything': Nepal survivors describe horror of loved ones being swept away",
@@ -430,14 +377,14 @@
             "title": "'The flood took everything': Nepal survivors describe horror of loved ones being swept away",
             "standfirst": "One woman says her father, mother, sister and sister's children were carried away before her eyes.",
             "content": "One woman says her father, mother, sister and sister's children were carried away before her eyes.",
-            "feed_position": 6,
+            "feed_position": 5,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c53/live/5e79d6c0-a1e2-11f1-aed2-8d6da8d75094.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c53/live/5e79d6c0-a1e2-11f1-aed2-8d6da8d75094.jpg"
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Fri, 28 Aug 2026 01:23:09 GMT",
         "title": "NHS bosses warn of chaos in ADHD and autism care",
@@ -460,7 +407,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8406/live/9fc9a130-a22f-11f1-b109-879e35c24276.png"
       },
       {
-        "id": "cluster_18",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Fri, 28 Aug 2026 01:19:48 GMT",
         "title": "FDA approves updated Covid-19 vaccines for dominant XFG variant",
@@ -481,7 +428,7 @@
         ]
       },
       {
-        "id": "cluster_19",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Thu, 27 Aug 2026 23:01:41 GMT",
         "title": "Thousands of UK women have undiagnosed PTSD after childbirth each year, study finds",
@@ -500,11 +447,42 @@
             "feed_position": 9
           }
         ]
+      },
+      {
+        "id": "cluster_19",
+        "coverage": 1,
+        "updated_at": "Thu, 27 Aug 2026 22:11:05 GMT",
+        "title": "Senator calls for criminal investigation of RFK Jr after Guardian report",
+        "neutral_headline": "Senator calls for criminal investigation of RFK Jr after Guardian report",
+        "bullet_summary": [
+          "Ron Wyden of Oregon said: “RFK’s platform is built on lies and grifts that leave a trail of dead children in their wake",
+          "In one he wrote to the Samoan prime minister before the trip, Kennedy explicitly said he wanted to study the measles, mumps and rubella (MMR) vaccine in the Pacific island nation"
+        ],
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/us-news/2026/aug/27/rfk-jr-confirmation-hearing-investigation",
+            "published_at": "Thu, 27 Aug 2026 22:11:05 GMT",
+            "title": "Senator calls for criminal investigation of RFK Jr after Guardian report",
+            "standfirst": "Newly obtained records indicate health secretary lied about Samoa trip during Senate confirmation hearings last yearA senior Democratic senator is calling for a criminal investigation into the US health secretary, Robert F Kennedy Jr, following reporting by the Guardian that indicated he lied during Senate confirmation hearings last year.Ron Wyden of Oregon said: “RFK’s platform is built on lies and grifts that leave a trail of dead children in their wake. There are consequences for lying to Congress.” Continue reading...",
+            "content": "Newly obtained records indicate health secretary lied about Samoa trip during Senate confirmation hearings last yearA senior Democratic senator is calling for a criminal investigation into the US health secretary, Robert F Kennedy Jr, following reporting by the Guardian that indicated he lied during Senate confirmation hearings last year.Ron Wyden of Oregon said: “RFK’s platform is built on lies and grifts that leave a trail of dead children in their wake. There are consequences for lying to Congress.” Continue reading...",
+            "feed_position": 10
+          },
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/us-news/2026/aug/27/rfk-jr-senate-confirmation-hearing-testimony-vaccines",
+            "published_at": "Thu, 27 Aug 2026 12:00:14 GMT",
+            "title": "RFK Jr lied in Senate confirmation hearings, newly revealed documents indicate",
+            "standfirst": "Letters obtained by Guardian and AP contradict testimony that 2019 visit to Samoa had ‘nothing to do with vaccines’Newly obtained documents indicate that the US health secretary, Robert F Kennedy Jr, lied during two congressional hearings last year, when he told lawmakers who held the key to his confirmation that a 2019 visit to Samoa had “nothing to do with vaccines”.Letters obtained by the Guardian and the Associated Press contradict that testimony. In one he wrote to the Samoan prime minister before the trip, Kennedy explicitly said he wanted to study the measles, mumps and rubella (MMR) vaccine in the Pacific island nation. In it, he used the words “vaccine” or “vaccination” eight times. Continue reading...",
+            "content": "Letters obtained by Guardian and AP contradict testimony that 2019 visit to Samoa had ‘nothing to do with vaccines’Newly obtained documents indicate that the US health secretary, Robert F Kennedy Jr, lied during two congressional hearings last year, when he told lawmakers who held the key to his confirmation that a 2019 visit to Samoa had “nothing to do with vaccines”.Letters obtained by the Guardian and the Associated Press contradict that testimony. In one he wrote to the Samoan prime minister before the trip, Kennedy explicitly said he wanted to study the measles, mumps and rubella (MMR) vaccine in the Pacific island nation. In it, he used the words “vaccine” or “vaccination” eight times. Continue reading...",
+            "feed_position": 16
+          }
+        ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-08-29T01:57:26.231Z",
+    "updated_at": "2026-08-29T09:36:52.404Z",
     "clusters": []
   }
 }
