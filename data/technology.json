@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-05T07:15:54.902Z",
+  "updated_at": "2026-09-05T13:37:18.680Z",
   "clusters": [
     {
-      "id": "cluster_49",
+      "id": "cluster_64",
       "coverage": 3,
       "updated_at": "Fri, 04 Sep 2026 15:17:12 +0000",
       "title": "Tesla’s Cybercab Officially Launches Today. It’s Already Under Investigation",
@@ -18,7 +18,7 @@
           "title": "Tesla’s Cybercab Officially Launches Today. It’s Already Under Investigation",
           "standfirst": "The US government is investigating whether the Cybercab, which lacks a steering wheel and pedals, meets vehicle safety standards.",
           "content": "The US government is investigating whether the Cybercab, which lacks a steering wheel and pedals, meets vehicle safety standards.",
-          "feed_position": 2,
+          "feed_position": 8,
           "image_url": "https://media.wired.com/photos/6a9ad63d482e2501722eeac3/master/pass/GettyImages-2193378836.jpg"
         },
         {
@@ -28,7 +28,7 @@
           "title": "Tesla starts offering Cybercab robotaxi rides",
           "standfirst": "Tesla has officially launched the Cybercab, its autonomous vehicle with no steering wheel.",
           "content": "Tesla has officially launched the Cybercab, its autonomous vehicle with no steering wheel.",
-          "feed_position": 12,
+          "feed_position": 18,
           "image_url": "https://www.engadget.com/img/gallery/tesla-offering-cybercab-robotaxi-rides/l-intro-1788504257.jpg"
         },
         {
@@ -42,44 +42,43 @@
         }
       ],
       "featured_image": "https://media.wired.com/photos/6a9ad63d482e2501722eeac3/master/pass/GettyImages-2193378836.jpg",
-      "popularity_score": 3004.021416111111
+      "popularity_score": 3000
     },
     {
-      "id": "cluster_48",
+      "id": "cluster_8",
       "coverage": 2,
-      "updated_at": "Fri, 04 Sep 2026 15:32:50 +0000",
-      "title": "Nintendo just announced two Direct livestream events for next week",
-      "neutral_headline": "Nintendo just announced two Direct livestream events for next week",
+      "updated_at": "2026-09-05T07:15:55-04:00",
+      "title": "OpenAI admits to German wiki ‘incident’",
+      "neutral_headline": "OpenAI admits to German wiki ‘incident’",
       "bullet_summary": [
-        "Nintendo just announced two Direct events for next week, scheduled back to back",
-        "Reported by Engadget, The Verge"
+        "Reported by The Verge, TechMeme"
       ],
       "items": [
         {
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2251134/nintendo-announced-two-direct-livestream-events-for-next-week/",
-          "published_at": "Fri, 04 Sep 2026 15:32:50 +0000",
-          "title": "Nintendo just announced two Direct livestream events for next week",
-          "standfirst": "Zelda takes center stage on September 8 and everything else is being saved for September 9.",
-          "content": "Zelda takes center stage on September 8 and everything else is being saved for September 9.",
-          "feed_position": 3,
-          "image_url": "https://www.engadget.com/img/gallery/nintendo-just-announced-two-direct-livestream-events-for-next-week/l-intro-1788535661.jpg"
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+          "published_at": "2026-09-05T07:15:55-04:00",
+          "title": "OpenAI admits to German wiki ‘incident’",
+          "standfirst": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our agents wrote to several internet sites,\" OpenAI wrote [&#8230;]",
+          "content": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our agents wrote to several internet sites,\" OpenAI wrote in a post on X on Saturday morning, \"it's past time for us to define standards for when and how we share misalignment incidents, not just misalignment properties of our models.\" OpenAI said it has typically treated cases of AI agents acting in unintended ways as a \"research question,\" but that r … Read the full story at The Verge.",
+          "feed_position": 1
         },
         {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/games/990207/nintendo-direct-zelda-40th",
-          "published_at": "2026-09-04T10:29:44-04:00",
-          "title": "Nintendo&#8217;s next two Direct events are both happening next week",
-          "standfirst": "Nintendo just announced two Direct events for next week, scheduled back to back. First up is the Legend of Zelda 40th Anniversary Direct on September 8th at 10AM ET / 7AM PT. It's set to last around 30 minutes, streaming live on Nintendo's YouTube channel or the Nintendo Today app. Images recently leaked showing a [&#8230;]",
-          "content": "Nintendo just announced two Direct events for next week, scheduled back to back. First up is the Legend of Zelda 40th Anniversary Direct on September 8th at 10AM ET / 7AM PT. It's set to last around 30 minutes, streaming live on Nintendo's YouTube channel or the Nintendo Today app. Images recently leaked showing a special-edition 40th anniversary Zelda Switch 2 console and controller, plus there's the Ocarina of Time remake that's on the way, as well as the live-action Zelda movie expected to hit theaters sometime next year. The next day, Nintendo is also running a regular Direct showcase at 10AM ET / 7AM PT that will run for around 45 mi … Read the full story at The Verge.",
-          "feed_position": 9
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/260905/p7#a260905p7",
+          "published_at": "Sat, 05 Sep 2026 03:35:25 -0400",
+          "title": "In response to the \"wiki incident\", OpenAI says it is working on a framework for reporting misalignment incidents during training, evaluation, and deployment (@openai)",
+          "standfirst": "@openai: In response to the &ldquo;wiki incident&rdquo;, OpenAI says it is working on a framework for reporting misalignment incidents during training, evaluation, and deployment &mdash; How we think about the &ldquo;wiki incident,&rdquo; where our agents wrote to several internet sites: it's past time for us &hellip;",
+          "content": "@openai: In response to the &ldquo;wiki incident&rdquo;, OpenAI says it is working on a framework for reporting misalignment incidents during training, evaluation, and deployment &mdash; How we think about the &ldquo;wiki incident,&rdquo; where our agents wrote to several internet sites: it's past time for us &hellip;",
+          "feed_position": 1,
+          "image_url": "http://www.techmeme.com/260905/i7.jpg"
         }
       ],
-      "featured_image": "https://www.engadget.com/img/gallery/nintendo-just-announced-two-direct-livestream-events-for-next-week/l-intro-1788535661.jpg",
-      "popularity_score": 2004.2819716666668
+      "featured_image": "http://www.techmeme.com/260905/i7.jpg",
+      "popularity_score": 2017.6434222222222
     },
     {
-      "id": "cluster_61",
+      "id": "cluster_74",
       "coverage": 2,
       "updated_at": "Fri, 04 Sep 2026 13:21:37 +0000",
       "title": "US military disabled ad tracking on troops&#8217; devices following reports of targeted attacks",
@@ -104,13 +103,13 @@
           "title": "US military disables ad trackers on troops’ phones amid security fears",
           "standfirst": "Senator releases letters from armed forces after reports of location data being used to track US troops in Middle EastUS military officials say they have disabled advertising trackers on a range of phones and computers, according to letters released on Friday by the US senator Ron Wyden and ⁠statements given to Reuters.The development follows reports ​that commercially available location data had been used to target American forces in the Middle East. Continue reading...",
           "content": "Senator releases letters from armed forces after reports of location data being used to track US troops in Middle EastUS military officials say they have disabled advertising trackers on a range of phones and computers, according to letters released on Friday by the US senator Ron Wyden and ⁠statements given to Reuters.The development follows reports ​that commercially available location data had been used to target American forces in the Middle East. Continue reading...",
-          "feed_position": 1
+          "feed_position": 2
         }
       ],
-      "popularity_score": 2002.0950272222221
+      "popularity_score": 2000
     },
     {
-      "id": "cluster_16",
+      "id": "cluster_33",
       "coverage": 1,
       "updated_at": "Fri, 04 Sep 2026 22:17:36 +0000",
       "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
@@ -131,10 +130,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg",
-      "popularity_score": 349.0280827777778
+      "popularity_score": 342.6714777777778
     },
     {
-      "id": "cluster_15",
+      "id": "cluster_32",
       "coverage": 1,
       "updated_at": "Fri, 04 Sep 2026 22:49:17 +0000",
       "title": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
@@ -155,10 +154,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Mercury_Transfer_Module_separation-1152x648.jpg",
-      "popularity_score": 344.5561383333333
+      "popularity_score": 338.1995333333333
     },
     {
-      "id": "cluster_23",
+      "id": "cluster_38",
       "coverage": 1,
       "updated_at": "Fri, 04 Sep 2026 20:22:41 +0000",
       "title": "Measles killed 6-week-old baby, coroner confirms after RFK Jr. disputed deaths",
@@ -179,10 +178,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-509481102-scaled-1152x648-1729196833.jpg",
-      "popularity_score": 322.112805
+      "popularity_score": 315.7562
     },
     {
-      "id": "cluster_25",
+      "id": "cluster_40",
       "coverage": 1,
       "updated_at": "Fri, 04 Sep 2026 19:46:34 +0000",
       "title": "Trump admin fights ABC lawsuit as watchdogs worry Disney will settle with FCC",
@@ -203,10 +202,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/disney-logo-1152x648-1788549990.jpg",
-      "popularity_score": 311.51086055555555
+      "popularity_score": 305.15425555555555
     },
     {
-      "id": "cluster_27",
+      "id": "cluster_42",
       "coverage": 1,
       "updated_at": "Fri, 04 Sep 2026 19:01:02 +0000",
       "title": "Medieval manuscripts are \"biological time capsules\" for deadly sheeppox virus",
@@ -227,10 +226,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/sheeppox-1152x648-1788203007.jpg",
-      "popularity_score": 306.7519716666667
+      "popularity_score": 300.3953666666667
     },
     {
-      "id": "cluster_34",
+      "id": "cluster_49",
       "coverage": 1,
       "updated_at": "Fri, 04 Sep 2026 17:18:12 +0000",
       "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
@@ -251,10 +250,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/no-eyes-1152x648.jpg",
-      "popularity_score": 294.0380827777778
+      "popularity_score": 288
     },
     {
-      "id": "cluster_33",
+      "id": "cluster_48",
       "coverage": 1,
       "updated_at": "Fri, 04 Sep 2026 17:35:02 +0000",
       "title": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
@@ -275,10 +274,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-1152x648.jpg",
-      "popularity_score": 289.31863833333335
+      "popularity_score": 283
     },
     {
-      "id": "cluster_37",
+      "id": "cluster_52",
       "coverage": 1,
       "updated_at": "Fri, 04 Sep 2026 16:57:24 +0000",
       "title": "Pentagon rescinds new testosterone screening policy without explanation",
@@ -299,10 +298,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2293221834-1152x648.jpg",
-      "popularity_score": 273.6914161111111
+      "popularity_score": 268
     },
     {
-      "id": "cluster_39",
+      "id": "cluster_54",
       "coverage": 1,
       "updated_at": "Fri, 04 Sep 2026 16:42:53 +0000",
       "title": "A ratings board wouldn't let Valve release a trailer. It \"leaked\" it instead.",
@@ -323,10 +322,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/l4d2-1152x648-1788538783.png",
-      "popularity_score": 273.4494716666667
+      "popularity_score": 268
     },
     {
-      "id": "cluster_40",
+      "id": "cluster_55",
       "coverage": 1,
       "updated_at": "Fri, 04 Sep 2026 16:24:24 +0000",
       "title": "Second complete map of a fruit fly brain completed",
@@ -347,10 +346,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/image-1152x648.jpeg",
-      "popularity_score": 260.1414161111111
+      "popularity_score": 255
     },
     {
-      "id": "cluster_71",
+      "id": "cluster_84",
       "coverage": 1,
       "updated_at": "Fri, 04 Sep 2026 11:00:05 +0000",
       "title": "Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+",
@@ -374,7 +373,7 @@
       "popularity_score": 148
     },
     {
-      "id": "cluster_46",
+      "id": "cluster_61",
       "coverage": 1,
       "updated_at": "Fri, 04 Sep 2026 15:46:33 +0000",
       "title": "Trump White House just tossed a grenade into international space relations",
@@ -395,10 +394,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2019/08/GettyImages-1164167940-1152x648.jpg",
-      "popularity_score": 145.51058277777778
+      "popularity_score": 141
     },
     {
-      "id": "cluster_41",
+      "id": "cluster_56",
       "coverage": 1,
       "updated_at": "Fri, 04 Sep 2026 16:22:18 +0000",
       "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
@@ -419,10 +418,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285051730-1152x648.jpg",
-      "popularity_score": 138.10641611111112
+      "popularity_score": 133
     },
     {
-      "id": "cluster_45",
+      "id": "cluster_60",
       "coverage": 1,
       "updated_at": "Fri, 04 Sep 2026 15:59:47 +0000",
       "title": "Musk wins court order to block use of “Twitter,” but not “tweet” and bird logo",
@@ -443,10 +442,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1552425754-1152x648.jpg",
-      "popularity_score": 137.73113833333332
+      "popularity_score": 133
     },
     {
-      "id": "cluster_62",
+      "id": "cluster_75",
       "coverage": 1,
       "updated_at": "Fri, 04 Sep 2026 12:48:36 +0000",
       "title": "Rocket Report: Engines installed for Artemis III; Long March 6C breakup in LEO",
@@ -468,10 +467,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/KSC-20260901-PH-RCR02_0049orig-1152x648-1788507222.jpg",
-      "popularity_score": 134.54474944444445
+      "popularity_score": 133
     },
     {
-      "id": "cluster_99",
+      "id": "cluster_109",
       "coverage": 1,
       "updated_at": "Thu, 03 Sep 2026 22:13:50 +0000",
       "title": "Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them",
@@ -495,7 +494,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_107",
+      "id": "cluster_114",
       "coverage": 1,
       "updated_at": "Thu, 03 Sep 2026 21:10:59 +0000",
       "title": "Xbox imposes harsh new time limits for Game Pass game streaming",
@@ -519,7 +518,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_109",
+      "id": "cluster_116",
       "coverage": 1,
       "updated_at": "Thu, 03 Sep 2026 20:14:48 +0000",
       "title": "150 research primates got diarrhea, flooding lab with priceless vaccine data",
@@ -543,7 +542,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_110",
+      "id": "cluster_117",
       "coverage": 1,
       "updated_at": "Thu, 03 Sep 2026 19:52:06 +0000",
       "title": "Confused about which VPN is right, US senator asks the NSA for guidance",
@@ -567,7 +566,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_111",
+      "id": "cluster_118",
       "coverage": 1,
       "updated_at": "Thu, 03 Sep 2026 19:42:02 +0000",
       "title": "Supreme Court urged to let states regulate sports bets on prediction markets",
