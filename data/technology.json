@@ -1,8 +1,85 @@
 {
-  "updated_at": "2026-09-05T20:51:52.027Z",
+  "updated_at": "2026-09-06T00:26:59.355Z",
   "clusters": [
     {
-      "id": "cluster_19",
+      "id": "cluster_1",
+      "coverage": 3,
+      "updated_at": "Sat, 05 Sep 2026 22:49:55 +0000",
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "neutral_headline": "Two more news organizations sue OpenAI and Microsoft for copyright infringement",
+      "bullet_summary": [
+        "Reported by TechCrunch, TechMeme, Engadget"
+      ],
+      "items": [
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+          "published_at": "Sat, 05 Sep 2026 22:49:55 +0000",
+          "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+          "standfirst": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+          "content": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+          "feed_position": 0
+        },
+        {
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/260905/p13#a260905p13",
+          "published_at": "Sat, 05 Sep 2026 16:50:47 -0400",
+          "title": "The Seattle Times and Newsday sue OpenAI and Microsoft, alleging the companies trained AI on their journalism; Microsoft and OpenAI are funders of Seattle Times (Todd Bishop/GeekWire)",
+          "standfirst": "Todd Bishop / GeekWire: The Seattle Times and Newsday sue OpenAI and Microsoft, alleging the companies trained AI on their journalism; Microsoft and OpenAI are funders of Seattle Times &mdash; Microsoft was sued Friday by the parent company of its hometown daily newspaper, The Seattle Times Co., which joined with Newsday &hellip;",
+          "content": "Todd Bishop / GeekWire: The Seattle Times and Newsday sue OpenAI and Microsoft, alleging the companies trained AI on their journalism; Microsoft and OpenAI are funders of Seattle Times &mdash; Microsoft was sued Friday by the parent company of its hometown daily newspaper, The Seattle Times Co., which joined with Newsday &hellip;",
+          "feed_position": 1,
+          "image_url": "http://www.techmeme.com/260905/i13.jpg"
+        },
+        {
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2251707/seattle-times-newsday-sue-openai-microsoft-for-copyright-infringement/",
+          "published_at": "Sat, 05 Sep 2026 17:46:29 +0000",
+          "title": "Two more news organizations sue OpenAI and Microsoft for copyright infringement",
+          "standfirst": "The Seattle Times and Newsday accused the two AI giants of using their content without permission.",
+          "content": "The Seattle Times and Newsday accused the two AI giants of using their content without permission.",
+          "feed_position": 6,
+          "image_url": "https://www.engadget.com/img/gallery/two-more-news-organizations-sue-openai-and-microsoft-for-copyright-infringement/l-intro-1788630220.jpg"
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/260905/i13.jpg",
+      "popularity_score": 3018.382123888889
+    },
+    {
+      "id": "cluster_5",
+      "coverage": 2,
+      "updated_at": "Sat, 05 Sep 2026 21:17:18 +0000",
+      "title": "OpenAI responds after report exposed another incident in which its AI agents went rogue",
+      "neutral_headline": "OpenAI responds after report exposed another incident in which...",
+      "bullet_summary": [
+        "Reuters reported earlier this week that the agents hijacked a German wiki forum in an incident OpenAI did not disclose",
+        "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum"
+      ],
+      "items": [
+        {
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2251725/openai-responds-after-report-exposed-another-incident-in-which-its-ai-agents-went-rogue/",
+          "published_at": "Sat, 05 Sep 2026 21:17:18 +0000",
+          "title": "OpenAI responds after report exposed another incident in which its AI agents went rogue",
+          "standfirst": "Reuters reported earlier this week that the agents hijacked a German wiki forum in an incident OpenAI did not disclose.",
+          "content": "Reuters reported earlier this week that the agents hijacked a German wiki forum in an incident OpenAI did not disclose.",
+          "feed_position": 2,
+          "image_url": "https://www.engadget.com/img/gallery/openai-responds-after-report-exposed-another-incident-in-which-its-ai-agents-went-rogue/l-intro-1788642295.jpg"
+        },
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+          "published_at": "Sat, 05 Sep 2026 18:05:27 +0000",
+          "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+          "standfirst": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+          "content": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+          "feed_position": 2
+        }
+      ],
+      "featured_image": "https://www.engadget.com/img/gallery/openai-responds-after-report-exposed-another-incident-in-which-its-ai-agents-went-rogue/l-intro-1788642295.jpg",
+      "popularity_score": 2016.8385127777779
+    },
+    {
+      "id": "cluster_23",
       "coverage": 2,
       "updated_at": "Sat, 05 Sep 2026 15:17:36 +0000",
       "title": "Tesla’s Cybercab has been deployed, and it’s already under investigation",
@@ -33,10 +110,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2183782392-1152x648.jpg",
-      "popularity_score": 2014.4288813888888
+      "popularity_score": 2010.8435127777777
     },
     {
-      "id": "cluster_37",
+      "id": "cluster_38",
       "coverage": 2,
       "updated_at": "2026-09-05T07:15:55-04:00",
       "title": "OpenAI admits to German wiki ‘incident’",
@@ -52,7 +129,7 @@
           "title": "OpenAI admits to German wiki ‘incident’",
           "standfirst": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our agents wrote to several internet sites,\" OpenAI wrote [&#8230;]",
           "content": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our agents wrote to several internet sites,\" OpenAI wrote in a post on X on Saturday morning, \"it's past time for us to define standards for when and how we share misalignment incidents, not just misalignment properties of our models.\" OpenAI said it has typically treated cases of AI agents acting in unintended ways as a \"research question,\" but that r … Read the full story at The Verge.",
-          "feed_position": 4
+          "feed_position": 6
         },
         {
           "source": "TechMeme",
@@ -61,15 +138,15 @@
           "title": "In response to the \"wiki incident\", OpenAI says it is working on a framework for reporting misalignment incidents during training, evaluation, and deployment (@openai)",
           "standfirst": "@openai: In response to the &ldquo;wiki incident&rdquo;, OpenAI says it is working on a framework for reporting misalignment incidents during training, evaluation, and deployment &mdash; How we think about the &ldquo;wiki incident,&rdquo; where our agents wrote to several internet sites: it's past time for us &hellip;",
           "content": "@openai: In response to the &ldquo;wiki incident&rdquo;, OpenAI says it is working on a framework for reporting misalignment incidents during training, evaluation, and deployment &mdash; How we think about the &ldquo;wiki incident,&rdquo; where our agents wrote to several internet sites: it's past time for us &hellip;",
-          "feed_position": 6,
+          "feed_position": 7,
           "image_url": "http://www.techmeme.com/260905/i7.jpg"
         }
       ],
       "featured_image": "http://www.techmeme.com/260905/i7.jpg",
-      "popularity_score": 2010.4008258333333
+      "popularity_score": 2006.8154572222222
     },
     {
-      "id": "cluster_88",
+      "id": "cluster_86",
       "coverage": 2,
       "updated_at": "Fri, 04 Sep 2026 13:21:37 +0000",
       "title": "US military disabled ad tracking on troops&#8217; devices following reports of targeted attacks",
@@ -85,7 +162,7 @@
           "title": "US military disabled ad tracking on troops&#8217; devices following reports of targeted attacks",
           "standfirst": "A senator's letter confirms the U.S. military moved to prevent the tracking after foreign adversaries used location data to target troops.",
           "content": "A senator's letter confirms the U.S. military moved to prevent the tracking after foreign adversaries used location data to target troops.",
-          "feed_position": 15
+          "feed_position": 16
         },
         {
           "source": "Guardian Tech",
@@ -220,7 +297,7 @@
       "popularity_score": 289
     },
     {
-      "id": "cluster_71",
+      "id": "cluster_69",
       "coverage": 1,
       "updated_at": "Fri, 04 Sep 2026 17:18:12 +0000",
       "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
@@ -244,7 +321,7 @@
       "popularity_score": 278
     },
     {
-      "id": "cluster_70",
+      "id": "cluster_68",
       "coverage": 1,
       "updated_at": "Fri, 04 Sep 2026 17:35:02 +0000",
       "title": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
@@ -268,7 +345,7 @@
       "popularity_score": 273
     },
     {
-      "id": "cluster_73",
+      "id": "cluster_71",
       "coverage": 1,
       "updated_at": "Fri, 04 Sep 2026 16:57:24 +0000",
       "title": "Pentagon rescinds new testosterone screening policy without explanation",
@@ -292,7 +369,7 @@
       "popularity_score": 258
     },
     {
-      "id": "cluster_75",
+      "id": "cluster_73",
       "coverage": 1,
       "updated_at": "Fri, 04 Sep 2026 16:42:53 +0000",
       "title": "A ratings board wouldn't let Valve release a trailer. It \"leaked\" it instead.",
@@ -316,7 +393,7 @@
       "popularity_score": 258
     },
     {
-      "id": "cluster_94",
+      "id": "cluster_92",
       "coverage": 1,
       "updated_at": "Fri, 04 Sep 2026 11:00:05 +0000",
       "title": "Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+",
@@ -340,7 +417,7 @@
       "popularity_score": 148
     },
     {
-      "id": "cluster_76",
+      "id": "cluster_74",
       "coverage": 1,
       "updated_at": "Fri, 04 Sep 2026 16:24:24 +0000",
       "title": "Second complete map of a fruit fly brain completed",
@@ -364,7 +441,7 @@
       "popularity_score": 145
     },
     {
-      "id": "cluster_81",
+      "id": "cluster_79",
       "coverage": 1,
       "updated_at": "Fri, 04 Sep 2026 15:46:33 +0000",
       "title": "Trump White House just tossed a grenade into international space relations",
@@ -388,7 +465,7 @@
       "popularity_score": 141
     },
     {
-      "id": "cluster_77",
+      "id": "cluster_75",
       "coverage": 1,
       "updated_at": "Fri, 04 Sep 2026 16:22:18 +0000",
       "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
@@ -412,7 +489,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_80",
+      "id": "cluster_78",
       "coverage": 1,
       "updated_at": "Fri, 04 Sep 2026 15:59:47 +0000",
       "title": "Musk wins court order to block use of “Twitter,” but not “tweet” and bird logo",
@@ -436,7 +513,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_89",
+      "id": "cluster_87",
       "coverage": 1,
       "updated_at": "Fri, 04 Sep 2026 12:48:36 +0000",
       "title": "Rocket Report: Engines installed for Artemis III; Long March 6C breakup in LEO",
@@ -458,54 +535,6 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/KSC-20260901-PH-RCR02_0049orig-1152x648-1788507222.jpg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_116",
-      "coverage": 1,
-      "updated_at": "Thu, 03 Sep 2026 22:13:50 +0000",
-      "title": "Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them",
-      "neutral_headline": "Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them/",
-          "published_at": "Thu, 03 Sep 2026 22:13:50 +0000",
-          "title": "Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them",
-          "standfirst": "CDC staff had already accepted the measles death reports when RFK Jr. meddled.",
-          "content": "The Centers for Disease Control and Prevention is still secretly counting two measles deaths that were deleted from the agency's public measles data—a deletion that occurred at the direct request of anti-vaccine Health Secretary Robert F. Kennedy Jr., according to two reports released today. Early today, Reuters reported that Kennedy instructed new CDC director Erica Schwartz to delete the two deaths from the agency's website. CDC staff had reportedly already reviewed information about the deaths and accepted the characterization that they were measles-related. Still, Schwartz deleted the deaths without objection, insiders told Reuters. According to previous reporting, the two deaths were added and then removed from the CDC's website within hours on August 30. The deaths were of a newborn and a child, and they were reported last week by health officials in Pennsylvania. The state's ongoing measles outbreak has sickened 540 so far, including 119 just in the last week.Read full article Comments",
-          "feed_position": 16,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2233024483-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2233024483-1152x648.jpg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_121",
-      "coverage": 1,
-      "updated_at": "Thu, 03 Sep 2026 21:10:59 +0000",
-      "title": "Xbox imposes harsh new time limits for Game Pass game streaming",
-      "neutral_headline": "Xbox imposes harsh new time limits for Game Pass game streaming",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gaming/2026/09/xbox-imposes-harsh-new-time-limits-for-game-pass-game-streaming/",
-          "published_at": "Thu, 03 Sep 2026 21:10:59 +0000",
-          "title": "Xbox imposes harsh new time limits for Game Pass game streaming",
-          "standfirst": "Over 1 million Game Pass subscribers will have to pay more for their heavy streaming use.",
-          "content": "In 2020, Microsoft announced that Game Pass Ultimate subscriptions would include unlimited access to its new Xbox Cloud Gaming service (then still known as Project xCloud). Now, that kind of streaming buffet service is coming to an end, as Microsoft announced strict new limits on how much streaming is included in its various Game Pass subscriptions. Starting in November, Game Pass subscriptions will include the following monthly limits on game streaming time: Game Pass Ultimate ($23/month): 15 hours Game Pass Premium ($15/month): 10 hours Game Pass Essential ($10/month): 5 hours Subscribers who use up their monthly streaming allotment will be able to buy additional time, Microsoft said, without sharing specific pricing or availability for that streaming time. Access to downloadable versions of games included in a Game Pass subscription remains unaffected.Read full article Comments",
-          "feed_position": 17,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/xcloud02-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/xcloud02-1152x648.jpg",
       "popularity_score": 133
     }
   ]
