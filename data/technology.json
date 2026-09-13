@@ -1,16 +1,112 @@
 {
-  "updated_at": "2026-09-13T14:44:50.226Z",
+  "updated_at": "2026-09-13T21:12:50.621Z",
   "clusters": [
     {
-      "id": "cluster_46",
+      "id": "cluster_0",
       "coverage": 3,
-      "updated_at": "Sat, 12 Sep 2026 19:34:44 +0000",
-      "title": "Anthropic CEO outlines plan to slow AI development",
-      "neutral_headline": "Anthropic CEO outlines plan to slow AI development",
+      "updated_at": "Sun, 13 Sep 2026 20:50:26 +0000",
+      "title": "Sam Altman says OpenAI won't file for IPO this year",
+      "neutral_headline": "Sam Altman says OpenAI won't file for IPO this year",
       "bullet_summary": [
-        "Reported by TechCrunch, The Verge, Guardian Tech"
+        "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune",
+        "Reported by Engadget, The Verge, TechCrunch"
       ],
       "items": [
+        {
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2256984/sam-altman-says-openai-wont-file-for-ipo-this-year/",
+          "published_at": "Sun, 13 Sep 2026 20:50:26 +0000",
+          "title": "Sam Altman says OpenAI won't file for IPO this year",
+          "standfirst": "OpenAI's CEO called it an \"ill-advised moment to go public\" in an interview with Fortune.",
+          "content": "OpenAI's CEO called it an \"ill-advised moment to go public\" in an interview with Fortune.",
+          "feed_position": 0,
+          "image_url": "https://www.engadget.com/img/gallery/sam-altman-says-openai-wont-file-for-ipo-this-year/l-intro-1789331786.jpg"
+        },
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+          "published_at": "2026-09-12T17:16:28-04:00",
+          "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+          "standfirst": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control. On the latter, he [&#8230;]",
+          "content": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control. On the latter, he said it was \"absolutely\" possible, but vowed to take actions to prevent that from happening, even if it meant pausing training, adding that \"there are risks we should not be able to incur on behalf of humanity.\" \"We're not rushing into an IPO. I actually think that, given everything happening with safety, th … Read the full story at The Verge.",
+          "feed_position": 8
+        },
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+          "published_at": "Sat, 12 Sep 2026 20:19:16 +0000",
+          "title": "OpenAI’s Sam Altman says it would be &#8216;ill-advised&#8217; to go public in 2026",
+          "standfirst": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+          "content": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+          "feed_position": 7
+        }
+      ],
+      "featured_image": "https://www.engadget.com/img/gallery/sam-altman-says-openai-wont-file-for-ipo-this-year/l-intro-1789331786.jpg",
+      "popularity_score": 3019.626494166667
+    },
+    {
+      "id": "cluster_10",
+      "coverage": 3,
+      "updated_at": "2026-09-13T14:30:16-04:00",
+      "title": "Apple is reportedly working on iPhone game controllers",
+      "neutral_headline": "Apple is reportedly working on iPhone game controllers",
+      "bullet_summary": [
+        "But last week, MacRumors reported finding two references in macOS 26",
+        "Bloomberg's Mark Gurman said there are two gaming controllers in the works"
+      ],
+      "items": [
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
+          "published_at": "2026-09-13T14:30:16-04:00",
+          "title": "Apple is reportedly working on iPhone game controllers",
+          "standfirst": "Bloomberg's Mark Gurman says Apple is developing two game controllers for the iPhone and will likely sell them under the Beats brand. Rumors that Apple might enter the game controller business have circulated for some time. But last week, MacRumors reported finding two references in macOS 26.7's code to two game controllers identified as first-party [&#8230;]",
+          "content": "Bloomberg's Mark Gurman says Apple is developing two game controllers for the iPhone and will likely sell them under the Beats brand. Rumors that Apple might enter the game controller business have circulated for some time. But last week, MacRumors reported finding two references in macOS 26.7's code to two game controllers identified as first-party devices. Despite the code being found in macOS, not iOS, Gurman says the controllers are designed for iPhones. Additionally, he says that it is Beats executives leading the charge on this product. Apple sometimes uses its subsidiary brand to experiment with new product categories and compete at … Read the full story at The Verge.",
+          "feed_position": 1
+        },
+        {
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2256955/apples-rumored-gaming-controller-for-iphone-could-feature-beats-branding/",
+          "published_at": "Sun, 13 Sep 2026 18:02:36 +0000",
+          "title": "Apple's rumored gaming controller for iPhone could feature Beats branding",
+          "standfirst": "Bloomberg's Mark Gurman said there are two gaming controllers in the works.",
+          "content": "Bloomberg's Mark Gurman said there are two gaming controllers in the works.",
+          "feed_position": 4,
+          "image_url": "https://www.engadget.com/img/gallery/apples-rumored-gaming-controller-for-iphone-could-feature-beats-branding/l-intro-1789322321.jpg"
+        },
+        {
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/260913/p6#a260913p6",
+          "published_at": "Sun, 13 Sep 2026 10:55:02 -0400",
+          "title": "iPhone Duo will usher foldables into the mainstream, just as iPhone did with smartphones; sources: iPhone game controllers will launch under the Beats brand (Mark Gurman/Bloomberg)",
+          "standfirst": "Mark Gurman / Bloomberg: iPhone Duo will usher foldables into the mainstream, just as iPhone did with smartphones; sources: iPhone game controllers will launch under the Beats brand &mdash; Also: The company prepares a retail store shake-up. &mdash; Apple's iPhone Duo will go down as one of the company's historic products &hellip;",
+          "content": "Mark Gurman / Bloomberg: iPhone Duo will usher foldables into the mainstream, just as iPhone did with smartphones; sources: iPhone game controllers will launch under the Beats brand &mdash; Also: The company prepares a retail store shake-up. &mdash; Apple's iPhone Duo will go down as one of the company's historic products &hellip;",
+          "feed_position": 5,
+          "image_url": "http://www.techmeme.com/260913/i6.jpg"
+        }
+      ],
+      "featured_image": "https://www.engadget.com/img/gallery/apples-rumored-gaming-controller-for-iphone-could-feature-beats-branding/l-intro-1789322321.jpg",
+      "popularity_score": 3017.2903830555556
+    },
+    {
+      "id": "cluster_4",
+      "coverage": 2,
+      "updated_at": "2026-09-13T15:41:48-04:00",
+      "title": "Trump and Mike Johnson think the AI industry is overreacting",
+      "neutral_headline": "Trump and Mike Johnson think the AI industry is overreacting",
+      "bullet_summary": [
+        "Reported by The Verge, TechCrunch"
+      ],
+      "items": [
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+          "published_at": "2026-09-13T15:41:48-04:00",
+          "title": "Trump and Mike Johnson think the AI industry is overreacting",
+          "standfirst": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. Donald Trump and House Speaker Mike Johnson, however, [&#8230;]",
+          "content": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. Donald Trump and House Speaker Mike Johnson, however, seem to think the AI executives are being overreactive and fear that a pause could lead to China outpacing the US in the AI race. According to the Financial Times, Trump said \"Look, we're leading China in AI … and, frankly, I want to keep it that way, because whoever wins AI, wins.\" Jo … Read the full story at The Verge.",
+          "feed_position": 0
+        },
         {
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
@@ -18,37 +114,52 @@
           "title": "Anthropic CEO outlines plan to slow AI development",
           "standfirst": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
           "content": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
-          "feed_position": 3
-        },
-        {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-          "published_at": "2026-09-12T12:23:40-04:00",
-          "title": "Anthropic CEO says it’s time to pump the brakes on AI",
-          "standfirst": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace the frontier\" - jargon that simply means to slow [&#8230;]",
-          "content": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace the frontier\" - jargon that simply means to slow the pace of training and development to give companies time to build safeguards and regulators to evaluate models. Amodei says that giving external evaluators wide-ranging access is just the first step, and one it is taking now unilaterally. Step two would involve the industry coming together as a whole, likely with gove … Read the full story at The Verge.",
           "feed_position": 8
-        },
-        {
-          "source": "Guardian Tech",
-          "url": "https://www.theguardian.com/technology/2026/sep/12/we-must-slow-the-pace-ceo-of-anthropic-calls-for-an-ai-slowdown",
-          "published_at": "Sat, 12 Sep 2026 15:46:01 GMT",
-          "title": "‘We must slow the pace’: CEO of Anthropic calls for an AI slowdown",
-          "standfirst": "In a social media post, Dario Amodei proposed a plan including third-party evaluations of AI systemsThe CEO of the artificial intelligence company Anthropic issued a new appeal on Saturday for the AI industry to “slow down” and offered a three-part plan for doing so, saying that his company would “unilaterally” commit to the first of the steps.In a post on social media, Dario Amodei shared a link to an essay titled We Must Pace the Frontier in which he laid out how Anthropic would provide “third-party evaluators with permanent, employee-level access to our systems, so that they can verify adherence to our safety measures, report on incidents, and assess models’ alignment during training”. Continue reading...",
-          "content": "In a social media post, Dario Amodei proposed a plan including third-party evaluations of AI systemsThe CEO of the artificial intelligence company Anthropic issued a new appeal on Saturday for the AI industry to “slow down” and offered a three-part plan for doing so, saying that his company would “unilaterally” commit to the first of the steps.In a post on social media, Dario Amodei shared a link to an essay titled We Must Pace the Frontier in which he laid out how Anthropic would provide “third-party evaluators with permanent, employee-level access to our systems, so that they can verify adherence to our safety measures, report on incidents, and assess models’ alignment during training”. Continue reading...",
-          "feed_position": 0
         }
       ],
-      "popularity_score": 3000.831603888889
+      "popularity_score": 2018.4826052777778
     },
     {
-      "id": "cluster_29",
+      "id": "cluster_9",
+      "coverage": 2,
+      "updated_at": "Sun, 13 Sep 2026 19:10:31 +0000",
+      "title": "Tesla's second-gen Roadster is finally getting a debut nearly a decade later",
+      "neutral_headline": "Tesla's second-gen Roadster is finally getting a debut nearly a decade later",
+      "bullet_summary": [
+        "Tesla’s halo sports car was first announced in November 2017",
+        "Reported by Engadget, TechCrunch"
+      ],
+      "items": [
+        {
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2256966/teslas-second-gen-roadster-is-finally-getting-a-debut-nearly-a-decade-later/",
+          "published_at": "Sun, 13 Sep 2026 19:10:31 +0000",
+          "title": "Tesla's second-gen Roadster is finally getting a debut nearly a decade later",
+          "standfirst": "The reveal is scheduled for October 10, so long as it's not delayed again.",
+          "content": "The reveal is scheduled for October 10, so long as it's not delayed again.",
+          "feed_position": 2,
+          "image_url": "https://www.engadget.com/img/gallery/teslas-second-gen-roadster-is-finally-getting-a-debut-nearly-a-decade-later/l-intro-1789326134.jpg"
+        },
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
+          "published_at": "Sat, 12 Sep 2026 19:21:19 +0000",
+          "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
+          "standfirst": "Tesla’s halo sports car was first announced in November 2017.",
+          "content": "Tesla’s halo sports car was first announced in November 2017.",
+          "feed_position": 9
+        }
+      ],
+      "featured_image": "https://www.engadget.com/img/gallery/teslas-second-gen-roadster-is-finally-getting-a-debut-nearly-a-decade-later/l-intro-1789326134.jpg",
+      "popularity_score": 2017.961216388889
+    },
+    {
+      "id": "cluster_54",
       "coverage": 2,
       "updated_at": "Sat, 12 Sep 2026 23:15:02 -0400",
       "title": "Automattic confirms Matt Mullenweg has returned to his position as chairman and CEO \"with full support of the board\", after an attempted ouster this week (Sarah Perez/TechCrunch)",
       "neutral_headline": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
       "bullet_summary": [
-        "Automattic has not yet confirmed the apparent reversal",
         "Reported by TechMeme, TechCrunch"
       ],
       "items": [
@@ -59,7 +170,7 @@
           "title": "Automattic confirms Matt Mullenweg has returned to his position as chairman and CEO \"with full support of the board\", after an attempted ouster this week (Sarah Perez/TechCrunch)",
           "standfirst": "Sarah Perez / TechCrunch: Automattic confirms Matt Mullenweg has returned to his position as chairman and CEO &ldquo;with full support of the board&rdquo;, after an attempted ouster this week &mdash; After a tumultuous week, which saw WordPress founder Matt Mullenweg ousted from his position as CEO of Automattic &hellip;",
           "content": "Sarah Perez / TechCrunch: Automattic confirms Matt Mullenweg has returned to his position as chairman and CEO &ldquo;with full support of the board&rdquo;, after an attempted ouster this week &mdash; After a tumultuous week, which saw WordPress founder Matt Mullenweg ousted from his position as CEO of Automattic &hellip;",
-          "feed_position": 5,
+          "feed_position": 11,
           "image_url": "http://www.techmeme.com/260912/i20.jpg"
         },
         {
@@ -69,88 +180,14 @@
           "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
           "standfirst": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"",
           "content": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"",
-          "feed_position": 1
-        },
-        {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
-          "published_at": "Fri, 11 Sep 2026 15:19:00 +0000",
-          "title": "Matt Mullenweg tells (trolls?) Automattic staff, saying he&#8217;s back in control after CEO ouster",
-          "standfirst": "In a Slack message seen by TechCrunch, Matt Mullenweg told Automattic employees he’s back in control of the company, days after its board put him on leave. Automattic has not yet confirmed the apparent reversal.",
-          "content": "In a Slack message seen by TechCrunch, Matt Mullenweg told Automattic employees he’s back in control of the company, days after its board put him on leave. Automattic has not yet confirmed the apparent reversal.",
-          "feed_position": 16
+          "feed_position": 6
         }
       ],
       "featured_image": "http://www.techmeme.com/260912/i20.jpg",
-      "popularity_score": 2008.5032705555554
+      "popularity_score": 2002.0364941666667
     },
     {
-      "id": "cluster_35",
-      "coverage": 2,
-      "updated_at": "Sat, 12 Sep 2026 23:00:37 GMT",
-      "title": "OpenAI IPO will not happen in 2026 amid AI safety fears, Sam Altman says",
-      "neutral_headline": "OpenAI IPO will not happen in 2026 amid AI safety fears, Sam Altman says",
-      "bullet_summary": [
-        "Reported by Guardian Tech, TechMeme"
-      ],
-      "items": [
-        {
-          "source": "Guardian Tech",
-          "url": "https://www.theguardian.com/us-news/2026/sep/12/openai-delays-ipo-sam-altman-ai-safety-concerns",
-          "published_at": "Sat, 12 Sep 2026 23:00:37 GMT",
-          "title": "OpenAI IPO will not happen in 2026 amid AI safety fears, Sam Altman says",
-          "standfirst": "OpenAI’s decision comes after dire warnings about rapidly progressing technology and lawmakers’ calls for new rulesOpenAI will not go public in 2026, Sam Altman said in a Fortune interview published on Saturday, citing safety concerns over artificial intelligence.“I actually think that, given everything happening with safety, right now would be an ill-advised moment to go public, and we don’t feel pressure on that,” Altman, OpenAI’s CEO, told Fortune. Continue reading...",
-          "content": "OpenAI’s decision comes after dire warnings about rapidly progressing technology and lawmakers’ calls for new rulesOpenAI will not go public in 2026, Sam Altman said in a Fortune interview published on Saturday, citing safety concerns over artificial intelligence.“I actually think that, given everything happening with safety, right now would be an ill-advised moment to go public, and we don’t feel pressure on that,” Altman, OpenAI’s CEO, told Fortune. Continue reading...",
-          "feed_position": 9
-        },
-        {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/260912/p16#a260912p16",
-          "published_at": "Sat, 12 Sep 2026 15:35:05 -0400",
-          "title": "Sam Altman confirms OpenAI won't go public this year saying \"given everything happening with safety, right now would be an ill-advised moment to go public\" (Jason Ma/Fortune)",
-          "standfirst": "Jason Ma / Fortune: Sam Altman confirms OpenAI won't go public this year saying &ldquo;given everything happening with safety, right now would be an ill-advised moment to go public&rdquo; &mdash; Wall Street will have to wait for one of the most highly anticipated initial public offerings as OpenAI CEO Sam Altman confirmed it will not happen in 2026.",
-          "content": "Jason Ma / Fortune: Sam Altman confirms OpenAI won't go public this year saying &ldquo;given everything happening with safety, right now would be an ill-advised moment to go public&rdquo; &mdash; Wall Street will have to wait for one of the most highly anticipated initial public offerings as OpenAI CEO Sam Altman confirmed it will not happen in 2026.",
-          "feed_position": 9,
-          "image_url": "http://www.techmeme.com/260912/i16.jpg"
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/260912/i16.jpg",
-      "popularity_score": 2004.2629927777778
-    },
-    {
-      "id": "cluster_42",
-      "coverage": 2,
-      "updated_at": "2026-09-12T17:16:28-04:00",
-      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
-      "neutral_headline": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
-      "bullet_summary": [
-        "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune",
-        "Reported by The Verge, TechCrunch"
-      ],
-      "items": [
-        {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
-          "published_at": "2026-09-12T17:16:28-04:00",
-          "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
-          "standfirst": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control. On the latter, he [&#8230;]",
-          "content": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control. On the latter, he said it was \"absolutely\" possible, but vowed to take actions to prevent that from happening, even if it meant pausing training, adding that \"there are risks we should not be able to incur on behalf of humanity.\" \"We're not rushing into an IPO. I actually think that, given everything happening with safety, th … Read the full story at The Verge.",
-          "feed_position": 5
-        },
-        {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-          "published_at": "Sat, 12 Sep 2026 20:19:16 +0000",
-          "title": "OpenAI’s Sam Altman says it would be &#8216;ill-advised&#8217; to go public in 2026",
-          "standfirst": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
-          "content": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
-          "feed_position": 2
-        }
-      ],
-      "popularity_score": 2002.5271594444444
-    },
-    {
-      "id": "cluster_14",
+      "id": "cluster_39",
       "coverage": 1,
       "updated_at": "Sun, 13 Sep 2026 11:00:41 +0000",
       "title": "I fixed a tractor using John Deere’s self-repair service. Farmers aren’t sold on it.",
@@ -171,10 +208,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/John-Deere-5ML-Tractor-1152x648.jpg",
-      "popularity_score": 364.2641038888889
+      "popularity_score": 357.7973275
     },
     {
-      "id": "cluster_63",
+      "id": "cluster_67",
       "coverage": 1,
       "updated_at": "Sat, 12 Sep 2026 11:00:53 +0000",
       "title": "I spent $4,000 on a robot dog from China",
@@ -198,7 +235,7 @@
       "popularity_score": 320
     },
     {
-      "id": "cluster_72",
+      "id": "cluster_75",
       "coverage": 1,
       "updated_at": "Fri, 11 Sep 2026 23:34:45 +0000",
       "title": "Some satellite companies still have an appetite for boutique launch services",
@@ -222,7 +259,7 @@
       "popularity_score": 313
     },
     {
-      "id": "cluster_74",
+      "id": "cluster_77",
       "coverage": 1,
       "updated_at": "Fri, 11 Sep 2026 21:41:16 +0000",
       "title": "Random rewards enrich classic game-theory insights",
@@ -246,7 +283,7 @@
       "popularity_score": 300
     },
     {
-      "id": "cluster_76",
+      "id": "cluster_79",
       "coverage": 1,
       "updated_at": "Fri, 11 Sep 2026 21:14:26 +0000",
       "title": "Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland",
@@ -268,127 +305,6 @@
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2233742597-1152x648.jpg",
       "popularity_score": 293
-    },
-    {
-      "id": "cluster_84",
-      "coverage": 1,
-      "updated_at": "Fri, 11 Sep 2026 19:34:09 +0000",
-      "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
-      "neutral_headline": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
-          "published_at": "Fri, 11 Sep 2026 19:34:09 +0000",
-          "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
-          "standfirst": "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says.",
-          "content": "The New Mexico Supreme Court held a ChatGPT-using lawyer in direct contempt of court for submitting a brief with \"false testimony from wholly fabricated witnesses,\" including fake police testimony and other mistakes. The state's top court referred the lawyer to a disciplinary board for further proceedings and concluded that he \"demonstrated a lack of remorse and a lack of concern for his client.\" Attorney Stephen Aarons \"admitted to the Court that he did not verify the factual claims and legal authority in his AI-generated brief before signing it and filing it with the Court, and that he did not inform his client of this failure or that the brief in chief contained multiple factual and legal misrepresentations,\" the state Supreme Court said in an order on Wednesday. Aarons has been a criminal defense lawyer in New Mexico for over 40 years and was hired by a defendant's family members to appeal a murder conviction. Aaron's now-former client, Oscar Renee Sandoval, was sentenced to life in prison in February 2025 after being convicted of killing Shiereen Al-Jibury, who was his partner and the mother of his children.Read full article Comments",
-          "feed_position": 6,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chatgpt-icon-1152x648-1789154124.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chatgpt-icon-1152x648-1789154124.jpg",
-      "popularity_score": 293
-    },
-    {
-      "id": "cluster_80",
-      "coverage": 1,
-      "updated_at": "Fri, 11 Sep 2026 20:32:59 +0000",
-      "title": "Trump's forced coal plant extensions thrown out by judge",
-      "neutral_headline": "Trump's forced coal plant extensions thrown out by judge",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/",
-          "published_at": "Fri, 11 Sep 2026 20:32:59 +0000",
-          "title": "Trump's forced coal plant extensions thrown out by judge",
-          "standfirst": "The Department of Energy declared an \"emergency\" when none existed.",
-          "content": "The use of coal to generate electricity on the US grid has been plunging for nearly two decades, and the first Trump administration was unable to affect the trend. So his second administration has attempted more aggressive interventions to prop up coal use. One of its most direct means of doing so is to order coal plants that were scheduled to close to remain open, even if there is no need for them. The administration's justification for these orders is a statute that allows the Department of Energy (DOE) to declare an emergency in the case of wartime or a sudden shortfall in generation. A number of parties, including states where coal plants have been slated to close, have challenged this declaration. And on Friday, in the first of these cases to make its way through the courts, the declaration was judged to be contrary to the statute. While this only affects a single coal plant in Michigan, the reasoning of the decision will apply to every coal plant closure that has been blocked by the DOE. No emergency The decision was issued by a unanimous three-judge panel from the DC Circuit's Court of Appeals. It focuses on the J.H. Campbell Generating Plant, which was scheduled to close last year but has been kept open by a total of five emergency declarations by the DOE, each limited to 90 days by the Federal Power Act. At issue was section 202(c) of that Act, which allows the DOE to declare emergencies when the US is at war or when “an emergency exists by reason of a sudden increase in the demand for electric energy, or a shortage of electric energy.”Read full article Comments",
-          "feed_position": 5,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2225114161.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2225114161.jpg",
-      "popularity_score": 283
-    },
-    {
-      "id": "cluster_89",
-      "coverage": 1,
-      "updated_at": "Fri, 11 Sep 2026 18:49:39 +0000",
-      "title": "Scientists unlock secrets of ancient Egyptian materials with proteomics",
-      "neutral_headline": "Scientists unlock secrets of ancient Egyptian materials with proteomics",
-      "bullet_summary": [
-        "Analysis revealed seed proteins from sesame and moringa, which held religious and symbolic significance",
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/09/scientists-unlock-secrets-of-ancient-egyptian-materials-with-proteomics/",
-          "published_at": "Fri, 11 Sep 2026 18:49:39 +0000",
-          "title": "Scientists unlock secrets of ancient Egyptian materials with proteomics",
-          "standfirst": "Analysis revealed seed proteins from sesame and moringa, which held religious and symbolic significance.",
-          "content": "Credit: Museum of Mediterranean and Near Eastern Antiquities, Stockholm Credit: Museum of Mediterranean and Near Eastern Antiquities, Stockholm The precise composition of ancient Egyptian paints, binders, adhesives, and similar materials used to make artifacts is largely unknown, in part because a full analysis would require taking samples that would damage those valuable artifacts. The development of cutting-edge, non-destructive techniques has been helping to unlock those secrets, aiding conservation efforts. Most recently, researchers have used mass spectrometry-based proteomics to analyze the glues and adhesives in a broad set of Egyptian artifacts, according to a new paper published in the journal Science Advances. They found plenty of expected sources, such as animal collagens and egg proteins, but also plant proteins, specifically from sesame and drumstick tree (moringa) cereals. As previously reported, the ancient Egyptians had a highly formalized (and easily recognizable) painting style, and there has been considerable interest in gaining insights into the specific pigments and painting techniques employed. Common pigments included hematite and realgar for red; goethite and orpiment for yellow; Egyptian blue; Egyptian green; carbon-based black; and calcite, gypsum, anhydrite, and huntite for white. (Just last year, Washington State University researchers were able to re-create Egyptian blue by mixing together silicon dioxide, copper, calcium, and sodium carbonate in varying proportions and heating them at very high temperatures akin to those of ancient kilns.)Read full article Comments",
-          "feed_position": 7,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/egypt1-1-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/egypt1-1-1152x648.jpg",
-      "popularity_score": 263
-    },
-    {
-      "id": "cluster_90",
-      "coverage": 1,
-      "updated_at": "Fri, 11 Sep 2026 18:22:22 +0000",
-      "title": "Oracle tries to appease Stargate data center opponents with renewables push",
-      "neutral_headline": "Oracle tries to appease Stargate data center opponents with renewables push",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
-          "published_at": "Fri, 11 Sep 2026 18:22:22 +0000",
-          "title": "Oracle tries to appease Stargate data center opponents with renewables push",
-          "standfirst": "Renewables pledge won’t change the Oracle and OpenAI data center’s use of gas.",
-          "content": "Oracle’s proposed investment in 2 gigawatts of renewable energy projects for New Mexico comes as local opposition could delay development of the Project Jupiter data center that Oracle is building for OpenAI. The two tech companies are developing the $165 billion Project Jupiter data center in Santa Teresa, New Mexico, as part of the broader Stargate AI infrastructure project announced by President Donald Trump in 2025. But Project Jupiter faces local protests and court battles over concerns about its environmental impacts—and the latest Oracle announcement on September 8 seeking proposals for renewable energy projects does not change the fact that the data center will be powered by fuel cells that consume natural gas. “Like all matching programs, this would be synthetic in the sense that 2 GW of renewables wouldn't directly power the data center,” wrote Michael Thomas, CEO of the Cleanview data platform that tracks renewable energy and data center projects, in a LinkedIn post.Read full article Comments",
-          "feed_position": 8,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Project-Jupiter-data-center-construction-July-2026-1152x648.png"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Project-Jupiter-data-center-construction-July-2026-1152x648.png",
-      "popularity_score": 253
-    },
-    {
-      "id": "cluster_92",
-      "coverage": 1,
-      "updated_at": "Fri, 11 Sep 2026 16:20:43 +0000",
-      "title": "NASA moving at warp speed to set up US Space Academy",
-      "neutral_headline": "NASA moving at warp speed to set up US Space Academy",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/",
-          "published_at": "Fri, 11 Sep 2026 16:20:43 +0000",
-          "title": "NASA moving at warp speed to set up US Space Academy",
-          "standfirst": "NASA asks US states to show them the money.",
-          "content": "NASA has released a document that provides some initial details about the proposed United States Space Academy, and it's clear that the space agency wants to move quickly in establishing the institution. According to the document's timeline, NASA seeks a groundbreaking for a permanent campus no later than next year, the first class to be enrolled and begin studies in temporary facilities in 2028, and a transition to a permanent campus in 2031. What will that campus look like?Read full article Comments",
-          "feed_position": 9,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2291885998-1152x648-1789141845.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2291885998-1152x648-1789141845.jpg",
-      "popularity_score": 251
     }
   ]
 }
