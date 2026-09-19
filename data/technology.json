@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-19T00:51:20.411Z",
+  "updated_at": "2026-09-19T07:42:02.040Z",
   "clusters": [
     {
-      "id": "cluster_17",
+      "id": "cluster_25",
       "coverage": 3,
       "updated_at": "2026-09-18T17:07:24-04:00",
       "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
@@ -43,10 +43,10 @@
         }
       ],
       "featured_image": "https://www.engadget.com/img/gallery/microsoft-executive-called-openais-web-scraping-the-largest-theft-of-labor-in-human-history/l-intro-1789729969.jpg",
-      "popularity_score": 3016.267663611111
+      "popularity_score": 3009.4227669444444
     },
     {
-      "id": "cluster_54",
+      "id": "cluster_57",
       "coverage": 3,
       "updated_at": "2026-09-18T11:30:16-04:00",
       "title": "Security researchers used Claude to help them hack into OpenAI",
@@ -82,14 +82,81 @@
           "title": "OpenAI ‘ethically hacked’ with help of Anthropic’s Claude chatbot",
           "standfirst": "US cybersecurity researchers who conducted hack say ‘scope of what we could theoretically access was huge’Cybersecurity researchers have hacked into OpenAI with the help of Anthropic’s Claude chatbot, in the latest example of security issues at the company.A team at a US-based startup compromised a number of OpenAI employees’ ChatGPT accounts, starting a process that enabled them to access their target’s software cache – and potentially more. Continue reading...",
           "content": "US cybersecurity researchers who conducted hack say ‘scope of what we could theoretically access was huge’Cybersecurity researchers have hacked into OpenAI with the help of Anthropic’s Claude chatbot, in the latest example of security issues at the company.A team at a US-based startup compromised a number of OpenAI employees’ ChatGPT accounts, starting a process that enabled them to access their target’s software cache – and potentially more. Continue reading...",
-          "feed_position": 8
+          "feed_position": 9
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ailogos-1152x648.jpg",
-      "popularity_score": 3010.6487747222222
+      "popularity_score": 3003.8038780555557
     },
     {
-      "id": "cluster_11",
+      "id": "cluster_6",
+      "coverage": 2,
+      "updated_at": "Sat, 19 Sep 2026 00:55:01 -0400",
+      "title": "India requires caller ID and call-management apps to share users' spam reports with telcos; Truecaller calls it a \"one-way exchange\" that is \"anti-competitive\" (Jagmeet Singh/TechCrunch)",
+      "neutral_headline": "India forces caller-ID apps to feed spam reports to telcos",
+      "bullet_summary": [
+        "Reported by TechMeme, TechCrunch"
+      ],
+      "items": [
+        {
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/260919/p1#a260919p1",
+          "published_at": "Sat, 19 Sep 2026 00:55:01 -0400",
+          "title": "India requires caller ID and call-management apps to share users' spam reports with telcos; Truecaller calls it a \"one-way exchange\" that is \"anti-competitive\" (Jagmeet Singh/TechCrunch)",
+          "standfirst": "Jagmeet Singh / TechCrunch: India requires caller ID and call-management apps to share users' spam reports with telcos; Truecaller calls it a &ldquo;one-way exchange&rdquo; that is &ldquo;anti-competitive&rdquo; &mdash; India has extended its anti-spam regime to require caller-ID and call-management apps to share users' spam reports &hellip;",
+          "content": "Jagmeet Singh / TechCrunch: India requires caller ID and call-management apps to share users' spam reports with telcos; Truecaller calls it a &ldquo;one-way exchange&rdquo; that is &ldquo;anti-competitive&rdquo; &mdash; India has extended its anti-spam regime to require caller-ID and call-management apps to share users' spam reports &hellip;",
+          "feed_position": 4,
+          "image_url": "http://www.techmeme.com/260919/i1.jpg"
+        },
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+          "published_at": "Sat, 19 Sep 2026 01:00:00 +0000",
+          "title": "India forces caller-ID apps to feed spam reports to telcos",
+          "standfirst": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+          "content": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+          "feed_position": 0
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/260919/i1.jpg",
+      "popularity_score": 2017.2163780555557
+    },
+    {
+      "id": "cluster_7",
+      "coverage": 2,
+      "updated_at": "Fri, 18 Sep 2026 22:45:01 -0400",
+      "title": "Internal email: Flock is rolling out a voluntary severance program; sources say a significant number of Flock's ~1,500 employees may depart, as customers flee (Wired)",
+      "neutral_headline": "Flock Offers Employees Buyouts as Customers Flee",
+      "bullet_summary": [
+        "Reported by TechMeme, Wired Tech"
+      ],
+      "items": [
+        {
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/260918/p41#a260918p41",
+          "published_at": "Fri, 18 Sep 2026 22:45:01 -0400",
+          "title": "Internal email: Flock is rolling out a voluntary severance program; sources say a significant number of Flock's ~1,500 employees may depart, as customers flee (Wired)",
+          "standfirst": "Wired: Internal email: Flock is rolling out a voluntary severance program; sources say a significant number of Flock's ~1,500 employees may depart, as customers flee &mdash; As dozens of cities end contracts for its controversial license plate readers, Flock is rolling out a voluntary severance program, WIRED has learned.",
+          "content": "Wired: Internal email: Flock is rolling out a voluntary severance program; sources say a significant number of Flock's ~1,500 employees may depart, as customers flee &mdash; As dozens of cities end contracts for its controversial license plate readers, Flock is rolling out a voluntary severance program, WIRED has learned.",
+          "feed_position": 5,
+          "image_url": "http://www.techmeme.com/260918/i41.jpg"
+        },
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees/",
+          "published_at": "Sat, 19 Sep 2026 02:22:54 +0000",
+          "title": "Flock Offers Employees Buyouts as Customers Flee",
+          "standfirst": "As dozens of cities end contracts for its controversial license plate readers, Flock is rolling out a voluntary severance program, WIRED has learned.",
+          "content": "As dozens of cities end contracts for its controversial license plate readers, Flock is rolling out a voluntary severance program, WIRED has learned.",
+          "feed_position": 8,
+          "image_url": "https://media.wired.com/photos/6aade6510dbdc43ec89970ee/master/pass/2265184841"
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/260918/i41.jpg",
+      "popularity_score": 2015.049711388889
+    },
+    {
+      "id": "cluster_22",
       "coverage": 2,
       "updated_at": "Fri, 18 Sep 2026 22:44:45 +0000",
       "title": "AI almost led the US military to start a war with China, report says",
@@ -116,14 +183,14 @@
           "standfirst": "But the military's overall use of AI seems to be accelerating.",
           "content": "The US narrowly avoided boarding a Chinese ship based on an \"entirely false\" US intelligence report generated with the help of AI tools, according to a CNN report. That erroneous intelligence, submitted by a US Special Operations Command analyst, suggested the Chinese ship was transporting nuclear arms program components through the Middle East, according to \"four sources familiar with the episode\" cited by CNN. The US military was preparing to intercept and board the ship, with air support, before officials discovered a chatbot used in generating the report had \"inaccurately identified the material the ship was carrying.\" One source told CNN the AI-powered fiasco \"almost started a war.\"Read full article Comments",
           "feed_position": 0,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2249618531-1152x648.jpg"
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chinese-cargo-ship-ai-target-1152x648.jpg"
         }
       ],
       "featured_image": "https://www.engadget.com/img/gallery/ai-almost-led-the-us-military-to-attack-china-report-says/l-intro-1789771253.jpg",
-      "popularity_score": 2017.8901636111111
+      "popularity_score": 2011.0452669444444
     },
     {
-      "id": "cluster_37",
+      "id": "cluster_40",
       "coverage": 2,
       "updated_at": "2026-09-18T14:27:04-04:00",
       "title": "Disney’s first CTO is Character.AI’s former CEO",
@@ -149,13 +216,13 @@
           "title": "Disney&#8217;s first CTO led an AI startup it once accused of copying its characters",
           "standfirst": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
           "content": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
-          "feed_position": 9
+          "feed_position": 10
         }
       ],
-      "popularity_score": 2013.595441388889
+      "popularity_score": 2006.7505447222222
     },
     {
-      "id": "cluster_31",
+      "id": "cluster_34",
       "coverage": 1,
       "updated_at": "Fri, 18 Sep 2026 19:20:50 +0000",
       "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
@@ -176,10 +243,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/DCA-airport-1152x648.jpg",
-      "popularity_score": 347.4915525
+      "popularity_score": 340.6466555555556
     },
     {
-      "id": "cluster_40",
+      "id": "cluster_43",
       "coverage": 1,
       "updated_at": "Fri, 18 Sep 2026 17:49:50 +0000",
       "title": "Finding the cells that put our brain to sleep",
@@ -200,10 +267,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-623682073-1152x648.jpg",
-      "popularity_score": 327.97488583333336
+      "popularity_score": 321.1299888888889
     },
     {
-      "id": "cluster_39",
+      "id": "cluster_42",
       "coverage": 1,
       "updated_at": "Fri, 18 Sep 2026 17:57:41 +0000",
       "title": "FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar",
@@ -224,10 +291,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/paramount-water-tower-logo-1152x648-1784928766.jpg",
-      "popularity_score": 326.1057191666667
+      "popularity_score": 319.2608222222222
     },
     {
-      "id": "cluster_43",
+      "id": "cluster_46",
       "coverage": 1,
       "updated_at": "Fri, 18 Sep 2026 17:28:50 +0000",
       "title": "US government website used Chinese model the FBI called \"malicious\"",
@@ -248,10 +315,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2260760373-1024x648.jpg",
-      "popularity_score": 305.62488583333334
+      "popularity_score": 298.7799888888889
     },
     {
-      "id": "cluster_70",
+      "id": "cluster_72",
       "coverage": 1,
       "updated_at": "Fri, 18 Sep 2026 13:56:57 +0000",
       "title": "Meet the winner of Nikon's Small World in Motion video contest",
@@ -272,10 +339,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/nikonTOP-1152x648.jpg",
-      "popularity_score": 297.09349694444444
+      "popularity_score": 290.2486
     },
     {
-      "id": "cluster_79",
+      "id": "cluster_81",
       "coverage": 1,
       "updated_at": "Fri, 18 Sep 2026 11:00:11 +0000",
       "title": "Rocket Report: China wants a Raptor 3 engine; SpaceX set for big Starship test",
@@ -296,7 +363,7 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Vega-C_takes_FLEX_and_Sentinel-3C_into_orbit_pillars-1152x648.jpg",
-      "popularity_score": 282.1473858333333
+      "popularity_score": 276
     },
     {
       "id": "cluster_95",
