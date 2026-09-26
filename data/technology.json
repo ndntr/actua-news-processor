@@ -1,42 +1,42 @@
 {
-  "updated_at": "2026-09-26T08:11:56.589Z",
+  "updated_at": "2026-09-26T14:49:20.848Z",
   "clusters": [
     {
-      "id": "cluster_12",
+      "id": "cluster_14",
       "coverage": 2,
-      "updated_at": "Sat, 26 Sep 2026 00:24:43 GMT",
-      "title": "OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity",
-      "neutral_headline": "OpenAI says agents leaked 53 images from ChatGPT users in...",
+      "updated_at": "Sat, 26 Sep 2026 11:58:20 +0000",
+      "title": "OpenAI's agents targeted and infiltrated US government websites",
+      "neutral_headline": "OpenAI's agents targeted and infiltrated US government websites",
       "bullet_summary": [
-        "The latest example came on Friday when OpenAI said its agents had leaked 53 images from ChatGPT users",
-        "Reported by Guardian Tech, TechMeme"
+        "Reported by Engadget, TechMeme"
       ],
       "items": [
         {
-          "source": "Guardian Tech",
-          "url": "https://www.theguardian.com/technology/2026/sep/25/openai-agents-leaked-53-images-chatgpt",
-          "published_at": "Sat, 26 Sep 2026 00:24:43 GMT",
-          "title": "OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity",
-          "standfirst": "Disclosure reveals ⁠new area of privacy risk for the company and illustrates ​how difficult it is to inventory unauthorized activity tied to its agentsTwo ⁠months after OpenAI disclosed the accidental hacking of Hugging Face, the ChatGPT maker is still working to understand the full scope of its rogue agent activity, two people briefed on the matter told Reuters.The latest example came on Friday when OpenAI said its agents had leaked 53 images from ChatGPT users. OpenAI declined to say if the images were AI-generated or identified real people. It also declined to ⁠say when the images were posted. Continue reading...",
-          "content": "Disclosure reveals ⁠new area of privacy risk for the company and illustrates ​how difficult it is to inventory unauthorized activity tied to its agentsTwo ⁠months after OpenAI disclosed the accidental hacking of Hugging Face, the ChatGPT maker is still working to understand the full scope of its rogue agent activity, two people briefed on the matter told Reuters.The latest example came on Friday when OpenAI said its agents had leaked 53 images from ChatGPT users. OpenAI declined to say if the images were AI-generated or identified real people. It also declined to ⁠say when the images were posted. Continue reading...",
-          "feed_position": 0
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2269776/openai-agents-targeted-us-government-websites/",
+          "published_at": "Sat, 26 Sep 2026 11:58:20 +0000",
+          "title": "OpenAI's agents targeted and infiltrated US government websites",
+          "standfirst": "OpenAI's agents targeted websites operated by the Commerce Department, the Securities and Exchange Commission and the Department of Education during testing.",
+          "content": "OpenAI's agents targeted websites operated by the Commerce Department, the Securities and Exchange Commission and the Department of Education during testing.",
+          "feed_position": 7,
+          "image_url": "https://www.engadget.com/img/gallery/openais-agents-targeted-and-infiltrated-us-government-websites/l-intro-1790423459.jpg"
         },
         {
           "source": "TechMeme",
-          "url": "https://www.techmeme.com/260925/p20#a260925p20",
-          "published_at": "Fri, 25 Sep 2026 17:00:51 -0400",
-          "title": "Sources: OpenAI found ~24 incidents of its agents acting in undesirable ways as of mid-September; OpenAI says its agents leaked 53 images from ChatGPT users (Reuters)",
-          "standfirst": "Reuters: Sources: OpenAI found ~24 incidents of its agents acting in undesirable ways as of mid-September; OpenAI says its agents leaked 53 images from ChatGPT users &mdash; Two months after OpenAI disclosed the accidental hacking of Hugging Face, the ChatGPT maker is still working to understand &hellip;",
-          "content": "Reuters: Sources: OpenAI found ~24 incidents of its agents acting in undesirable ways as of mid-September; OpenAI says its agents leaked 53 images from ChatGPT users &mdash; Two months after OpenAI disclosed the accidental hacking of Hugging Face, the ChatGPT maker is still working to understand &hellip;",
-          "feed_position": 13,
-          "image_url": "http://www.techmeme.com/260925/i20.jpg"
+          "url": "https://www.techmeme.com/260925/p25#a260925p25",
+          "published_at": "Fri, 25 Sep 2026 20:00:47 -0400",
+          "title": "Researchers: OpenAI's agents meddled with the US Commerce Dept. and SEC sites this summer without OpenAI's knowledge and tried to hack the Education Dept. site (New York Times)",
+          "standfirst": "New York Times: Researchers: OpenAI's agents meddled with the US Commerce Dept. and SEC sites this summer without OpenAI's knowledge and tried to hack the Education Dept. site &mdash; The company did not learn until recently that its technology had meddled with websites for the Education Department &hellip;",
+          "content": "New York Times: Researchers: OpenAI's agents meddled with the US Commerce Dept. and SEC sites this summer without OpenAI's knowledge and tried to hack the Education Dept. site &mdash; The company did not learn until recently that its technology had meddled with websites for the Education Department &hellip;",
+          "feed_position": 11,
+          "image_url": "http://www.techmeme.com/260925/i25.jpg"
         }
       ],
-      "featured_image": "http://www.techmeme.com/260925/i20.jpg",
-      "popularity_score": 2012.2128919444444
+      "featured_image": "https://www.engadget.com/img/gallery/openais-agents-targeted-and-infiltrated-us-government-websites/l-intro-1790423459.jpg",
+      "popularity_score": 2017.1497644444444
     },
     {
-      "id": "cluster_20",
+      "id": "cluster_46",
       "coverage": 2,
       "updated_at": "Fri, 25 Sep 2026 18:30:03 -0400",
       "title": "OpenAI says the 53 images its agents uploaded were on \"image-hosting sites as links that weren't publicly listed\" and \"most\" of the images have been removed (@openai)",
@@ -52,7 +52,7 @@
           "title": "OpenAI says the 53 images its agents uploaded were on \"image-hosting sites as links that weren't publicly listed\" and \"most\" of the images have been removed (@openai)",
           "standfirst": "@openai: OpenAI says the 53 images its agents uploaded were on &ldquo;image-hosting sites as links that weren't publicly listed&rdquo; and &ldquo;most&rdquo; of the images have been removed &mdash; We've shared details on how AI agents in our research environment sent training and evaluation data to third-party services when they shouldn't have. Most of that data did not come from users. We have discovered 53 cases where images that people had uploaded were posted to image-hosting sites as l...",
           "content": "@openai: OpenAI says the 53 images its agents uploaded were on &ldquo;image-hosting sites as links that weren't publicly listed&rdquo; and &ldquo;most&rdquo; of the images have been removed &mdash; We've shared details on how AI agents in our research environment sent training and evaluation data to third-party services when they shouldn't have. Most of that data did not come from users. We have discovered 53 cases where images that people had uploaded were posted to image-hosting sites as l...",
-          "feed_position": 11,
+          "feed_position": 14,
           "image_url": "http://www.techmeme.com/img/pml.png"
         },
         {
@@ -62,48 +62,38 @@
           "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab&#8217;s knowledge",
           "standfirst": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
           "content": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
-          "feed_position": 3
+          "feed_position": 4
         }
       ],
       "featured_image": "http://www.techmeme.com/img/pml.png",
-      "popularity_score": 2010.3017808333334
+      "popularity_score": 2003.6783755555555
     },
     {
-      "id": "cluster_114",
-      "coverage": 2,
-      "updated_at": "Thu, 24 Sep 2026 18:52:23 +0000",
-      "title": "We have a trailer for Musk documentary Elon called a \"hit piece\"",
-      "neutral_headline": "We have a trailer for Musk documentary Elon called a \"hit piece\"",
+      "id": "cluster_21",
+      "coverage": 1,
+      "updated_at": "Sat, 26 Sep 2026 10:45:09 +0000",
+      "title": "Tesla’s big electric truck faces an even bigger infrastructure challenge",
+      "neutral_headline": "Tesla’s big electric truck faces an even bigger infrastructure challenge",
       "bullet_summary": [
-        "Reported by Ars Technica, Engadget"
+        "Reported by Ars Technica Main"
       ],
       "items": [
         {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/culture/2026/09/we-have-a-trailer-for-musk-documentary-elon-called-a-hit-piece/",
-          "published_at": "Thu, 24 Sep 2026 18:52:23 +0000",
-          "title": "We have a trailer for Musk documentary Elon called a \"hit piece\"",
-          "standfirst": "Oscar-winning documentarian Alex Gibney focuses on the world's wealthiest man.",
-          "content": "Oscar-winning documentary filmmaker Alex Gibney has never been one to shy away from controversy. His latest feature, Musk, has stirred up plenty even before its release, drawing the ire of its subject, Elon Musk, and threats of a defamation lawsuit. After the film debuted two weeks ago at the Venice International Film Festival, rumors swirled that Universal Pictures was getting cold feet about theatrically releasing the film in international markets. Those rumors appear to be unfounded (at least for now). And Musk is still on track for a US theatrical release, thanks to the folks at domestic distributor Bleecker Street Media, which released the official trailer today. Gibney has been making documentaries since the 1980s, covering such varied subjects as Jimi Hendrix, Hunter S. Thompson and gonzo journalism, WikiLeaks, Scientology, Steve Jobs, Elizabeth Holmes (the subject of another forthcoming documentary, You Can See Everything, featuring comedian Nathan Fielder), Boris Becker, The Sopranos creator David Chase, alleged Russian interference in the US 2016 presidential election, the opioid epidemic, and cyclist Lance Armstrong. He snagged his first Oscar nomination for 2005's Enron: The Smartest Guys in the Room, and won the Oscar for Best Documentary Feature two years later for Taxi to the Dark Side.Read full article Comments",
-          "feed_position": 19,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/elonTOP-1152x648-1790271240.jpg"
-        },
-        {
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2268124/we-finally-have-a-trailer-for-that-four-hour-elon-musk-documentary/",
-          "published_at": "Thu, 24 Sep 2026 18:52:14 +0000",
-          "title": "We finally have a trailer for that four-hour Elon Musk documentary",
-          "standfirst": "It was directed by Alex Gibney, who has made films about Enron, Scientology and Elizabeth Holmes.",
-          "content": "It was directed by Alex Gibney, who has made films about Enron, Scientology and Elizabeth Holmes.",
-          "feed_position": 15,
-          "image_url": "https://www.engadget.com/img/gallery/we-finally-have-a-trailer-for-that-four-hour-elon-musk-documentary/l-intro-1790275722.jpg"
+          "source": "Ars Technica Main",
+          "url": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/",
+          "published_at": "Sat, 26 Sep 2026 10:45:09 +0000",
+          "title": "Tesla’s big electric truck faces an even bigger infrastructure challenge",
+          "standfirst": "The 500-mile Semi arrives as charging gaps still limit electric trucking.",
+          "content": "Tesla CEO Elon Musk has insisted investors think of his electric automaker as a robotics and autonomous vehicle company now. He’s targeted a $20 trillion valuation—nearly four times the value of market leader Nvidia—on that premise. But his Tesla team was in Sparks, Nevada, on Thursday to focus on, well, an electric vehicle: the long-awaited Tesla Semi. The Semi concept first rolled onto a Tesla event stage in late 2017. Nearly a decade later, Tesla officially launched high-volume production at a livestreamed but invite-only event at the company’s factory. It targeted a niche audience: the cost-conscious people who manage large trucking fleets. A handful of them, all men, trooped across the stage to be thanked for their orders to a pulsing techno beat. “It’s going to be, really, a driver’s truck. It’s like a sports car in truck form.” Musk said in a pre-taped video played during the evening event. (Musk, for years the ringmaster at Tesla’s circus-like events, skipped his second vehicle debut in a row; he was attending a White House China State Dinner featuring President Xi Jinping.)Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/teslasemi-1024x648.jpg"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/elonTOP-1152x648-1790271240.jpg",
-      "popularity_score": 2000
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/teslasemi-1024x648.jpg",
+      "popularity_score": 354.9300422222222
     },
     {
-      "id": "cluster_18",
+      "id": "cluster_44",
       "coverage": 1,
       "updated_at": "Fri, 25 Sep 2026 23:00:26 +0000",
       "title": "Can Trump ever be wrong? His pick to lead FDA refused to say.",
@@ -124,10 +114,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296270903-1024x648.jpg",
-      "popularity_score": 349.8081697222222
+      "popularity_score": 343.18476444444445
     },
     {
-      "id": "cluster_24",
+      "id": "cluster_49",
       "coverage": 1,
       "updated_at": "Fri, 25 Sep 2026 21:10:51 +0000",
       "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
@@ -148,20 +138,20 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Tesla-Optimus-V3-humanoid-robot-1152x648.jpg",
-      "popularity_score": 342.98178083333335
+      "popularity_score": 336.35837555555554
     },
     {
-      "id": "cluster_22",
+      "id": "cluster_48",
       "coverage": 1,
       "updated_at": "Fri, 25 Sep 2026 21:36:20 +0000",
       "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
       "neutral_headline": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
       "bullet_summary": [
-        "Reported by Ars Technica Main"
+        "Reported by Ars Technica"
       ],
       "items": [
         {
-          "source": "Ars Technica Main",
+          "source": "Ars Technica",
           "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
           "published_at": "Fri, 25 Sep 2026 21:36:20 +0000",
           "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
@@ -172,10 +162,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg",
-      "popularity_score": 332.40650305555556
+      "popularity_score": 325.78309777777775
     },
     {
-      "id": "cluster_32",
+      "id": "cluster_56",
       "coverage": 1,
       "updated_at": "Fri, 25 Sep 2026 19:34:42 +0000",
       "title": "Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)",
@@ -196,10 +186,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/iPhone-18-Pro-1152x648.jpg",
-      "popularity_score": 323.3792808333333
+      "popularity_score": 316.7558755555556
     },
     {
-      "id": "cluster_31",
+      "id": "cluster_55",
       "coverage": 1,
       "updated_at": "Fri, 25 Sep 2026 19:38:59 +0000",
       "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
@@ -220,10 +210,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/malware-infected-laptop-1152x648.jpg",
-      "popularity_score": 322.45066972222224
+      "popularity_score": 315.82726444444444
     },
     {
-      "id": "cluster_34",
+      "id": "cluster_58",
       "coverage": 1,
       "updated_at": "Fri, 25 Sep 2026 19:11:05 +0000",
       "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
@@ -244,10 +234,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/graduates-1152x648.jpg",
-      "popularity_score": 304.9856697222222
+      "popularity_score": 298.36226444444446
     },
     {
-      "id": "cluster_36",
+      "id": "cluster_60",
       "coverage": 1,
       "updated_at": "Fri, 25 Sep 2026 18:42:57 +0000",
       "title": "Paramount/WBD merger conditions give the public \"virtually nothing,\" judge is told",
@@ -268,10 +258,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/paramount-water-tower-logo-1152x648-1784928766.jpg",
-      "popularity_score": 279.5167808333333
+      "popularity_score": 273
     },
     {
-      "id": "cluster_42",
+      "id": "cluster_66",
       "coverage": 1,
       "updated_at": "Fri, 25 Sep 2026 17:57:37 +0000",
       "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
@@ -292,10 +282,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/microsoft-copilot-windows-1024x648.jpg",
-      "popularity_score": 267.7612252777778
+      "popularity_score": 262
     },
     {
-      "id": "cluster_40",
+      "id": "cluster_64",
       "coverage": 1,
       "updated_at": "Fri, 25 Sep 2026 18:27:18 +0000",
       "title": "Is solar's growth finally slowing in the US?",
@@ -316,10 +306,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1486053188-1152x648.jpg",
-      "popularity_score": 266.2559475
+      "popularity_score": 260
     },
     {
-      "id": "cluster_64",
+      "id": "cluster_84",
       "coverage": 1,
       "updated_at": "Fri, 25 Sep 2026 15:35:23 +0000",
       "title": "After seven years, a spacecraft company is releasing its Otters into the wild",
@@ -340,10 +330,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Otter_Celebration_Trevor_Bennett-1152x648.png",
-      "popularity_score": 260.39066972222224
+      "popularity_score": 257
     },
     {
-      "id": "cluster_83",
+      "id": "cluster_99",
       "coverage": 1,
       "updated_at": "Fri, 25 Sep 2026 11:00:28 +0000",
       "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
@@ -367,7 +357,7 @@
       "popularity_score": 148
     },
     {
-      "id": "cluster_102",
+      "id": "cluster_118",
       "coverage": 1,
       "updated_at": "Thu, 24 Sep 2026 22:29:48 +0000",
       "title": "CDC opens state ordering for COVID-19 vaccines after unexplained delay",
@@ -391,7 +381,31 @@
       "popularity_score": 148
     },
     {
-      "id": "cluster_72",
+      "id": "cluster_124",
+      "coverage": 1,
+      "updated_at": "Thu, 24 Sep 2026 18:52:23 +0000",
+      "title": "We have a trailer for Musk documentary Elon called a \"hit piece\"",
+      "neutral_headline": "We have a trailer for Musk documentary Elon called a \"hit piece\"",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/culture/2026/09/we-have-a-trailer-for-musk-documentary-elon-called-a-hit-piece/",
+          "published_at": "Thu, 24 Sep 2026 18:52:23 +0000",
+          "title": "We have a trailer for Musk documentary Elon called a \"hit piece\"",
+          "standfirst": "Oscar-winning documentarian Alex Gibney focuses on the world's wealthiest man.",
+          "content": "Oscar-winning documentary filmmaker Alex Gibney has never been one to shy away from controversy. His latest feature, Musk, has stirred up plenty even before its release, drawing the ire of its subject, Elon Musk, and threats of a defamation lawsuit. After the film debuted two weeks ago at the Venice International Film Festival, rumors swirled that Universal Pictures was getting cold feet about theatrically releasing the film in international markets. Those rumors appear to be unfounded (at least for now). And Musk is still on track for a US theatrical release, thanks to the folks at domestic distributor Bleecker Street Media, which released the official trailer today. Gibney has been making documentaries since the 1980s, covering such varied subjects as Jimi Hendrix, Hunter S. Thompson and gonzo journalism, WikiLeaks, Scientology, Steve Jobs, Elizabeth Holmes (the subject of another forthcoming documentary, You Can See Everything, featuring comedian Nathan Fielder), Boris Becker, The Sopranos creator David Chase, alleged Russian interference in the US 2016 presidential election, the opioid epidemic, and cyclist Lance Armstrong. He snagged his first Oscar nomination for 2005's Enron: The Smartest Guys in the Room, and won the Oscar for Best Documentary Feature two years later for Taxi to the Dark Side.Read full article Comments",
+          "feed_position": 19,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/elonTOP-1152x648-1790271240.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/elonTOP-1152x648-1790271240.jpg",
+      "popularity_score": 148
+    },
+    {
+      "id": "cluster_90",
       "coverage": 1,
       "updated_at": "Fri, 25 Sep 2026 14:07:46 +0000",
       "title": "With PRIMA, NASA will try to build a billion-dollar space telescope in record time",
@@ -412,10 +426,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/prima_art-1152x648.jpg",
-      "popularity_score": 142.93039194444444
+      "popularity_score": 141
     },
     {
-      "id": "cluster_66",
+      "id": "cluster_86",
       "coverage": 1,
       "updated_at": "Fri, 25 Sep 2026 15:21:55 +0000",
       "title": "US being left behind in EV charging speeds as China goes sub-5 min to 70%",
@@ -436,10 +450,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Geely-robot-charger-1152x648.jpg",
-      "popularity_score": 142.16622527777778
+      "popularity_score": 139
     },
     {
-      "id": "cluster_74",
+      "id": "cluster_92",
       "coverage": 1,
       "updated_at": "Fri, 25 Sep 2026 13:45:49 +0000",
       "title": "Trump administration takes Musk’s side in fight over EU tech rules",
@@ -460,10 +474,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/x-eu-1152x648-1743790778.jpg",
-      "popularity_score": 134.56455861111112
+      "popularity_score": 133
     },
     {
-      "id": "cluster_84",
+      "id": "cluster_100",
       "coverage": 1,
       "updated_at": "Fri, 25 Sep 2026 11:00:10 +0000",
       "title": "Rocket Report: Era of cheap launch is over? Astra sets early 2027 target for return",
@@ -487,7 +501,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_104",
+      "id": "cluster_119",
       "coverage": 1,
       "updated_at": "Thu, 24 Sep 2026 21:40:07 +0000",
       "title": "Donald Duck's uncle was partly based on Wernher von Braun",
@@ -511,7 +525,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_111",
+      "id": "cluster_122",
       "coverage": 1,
       "updated_at": "Thu, 24 Sep 2026 19:30:42 +0000",
       "title": "F-Droid gets its biggest update in a decade with new UI and smoother app installs",
@@ -535,7 +549,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_113",
+      "id": "cluster_123",
       "coverage": 1,
       "updated_at": "Thu, 24 Sep 2026 19:07:19 +0000",
       "title": "New York defies Trump admin, asks court to shut down Polymarket gambling",
