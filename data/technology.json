@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-30T22:45:08.967Z",
+  "updated_at": "2026-10-01T01:43:35.409Z",
   "clusters": [
     {
-      "id": "cluster_46",
+      "id": "cluster_56",
       "coverage": 3,
       "updated_at": "2026-09-30T13:15:49-04:00",
       "title": "Here&#8217;s what AI leaders are saying about Trump’s new safety plan",
@@ -19,7 +19,7 @@
           "title": "Here&#8217;s what AI leaders are saying about Trump’s new safety plan",
           "standfirst": "After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous claims regarding fears around AI safety being a \"hoax\" cooked up by Democrats no longer apply now that he's renamed the technology to \"Super Intelligence.\" He [&#8230;]",
           "content": "If you think this shot is amusing, check out the panicked look on Zuckerberg’s face when Trump calls on him to speak. | Photo: Kevin Dietsch/Getty Images After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous claims regarding fears around AI safety being a \"hoax\" cooked up by Democrats no longer apply now that he's renamed the technology to \"Super Intelligence.\" He brushed off concerns that the government wasn't enforcing enough AI guardrails because US companies are \"dominating China.\" And instead of ushering in federal AI regulations, Trump now has \"the smartest people in the world watching over each other.\" The people in question here are Goog … Read the full story at The Verge.",
-          "feed_position": 5
+          "feed_position": 7
         },
         {
           "source": "Guardian Tech",
@@ -28,7 +28,7 @@
           "title": "‘President of the Unites States’: White House’s AI accord includes spelling error",
           "standfirst": "Donald Trump and six tech executives voluntarily signed the document, which included a misspelling, committing to safely developing AIThe White House misspelled “United States” under the signature of Donald Trump on an accord he signed with AI executives on Tuesday.At the bottom of the accord on “Super Intelligence”, the term Trump has used to rebrand artificial intelligence, the president’s signature appeared as “President of the Unites States”. Continue reading...",
           "content": "Donald Trump and six tech executives voluntarily signed the document, which included a misspelling, committing to safely developing AIThe White House misspelled “United States” under the signature of Donald Trump on an accord he signed with AI executives on Tuesday.At the bottom of the accord on “Super Intelligence”, the term Trump has used to rebrand artificial intelligence, the president’s signature appeared as “President of the Unites States”. Continue reading...",
-          "feed_position": 9
+          "feed_position": 10
         },
         {
           "source": "TechCrunch",
@@ -37,13 +37,79 @@
           "title": "Pledge signed by President Trump and top AI leaders misspells the United States",
           "standfirst": "On Tuesday, President Donald Trump and top AI leaders announced a signed pledge called a “Joint Commitment on Frontier Responsibilities” — a voluntary promise to implement more controls and safety measures as the rapid development of artificial intelligence continues. But there seems to be a catch.",
           "content": "On Tuesday, President Donald Trump and top AI leaders announced a signed pledge called a “Joint Commitment on Frontier Responsibilities” — a voluntary promise to implement more controls and safety measures as the rapid development of artificial intelligence continues. But there seems to be a catch.",
-          "feed_position": 15
+          "feed_position": 17
         }
       ],
-      "popularity_score": 3014.511120277778
+      "popularity_score": 3011.5371086111113
     },
     {
-      "id": "cluster_21",
+      "id": "cluster_4",
+      "coverage": 2,
+      "updated_at": "Thu, 01 Oct 2026 00:17:56 GMT",
+      "title": "Gavin Newsom signs laws to protect California workers from AI threat",
+      "neutral_headline": "Gavin Newsom signs laws to protect California workers from AI threat",
+      "bullet_summary": [
+        "Reported by Guardian Tech, TechMeme"
+      ],
+      "items": [
+        {
+          "source": "Guardian Tech",
+          "url": "https://www.theguardian.com/us-news/2026/sep/30/gavin-newsom-california-ai-threat",
+          "published_at": "Thu, 01 Oct 2026 00:17:56 GMT",
+          "title": "Gavin Newsom signs laws to protect California workers from AI threat",
+          "standfirst": "Democratic governor sharply critical of Donald Trump for not passing comprehensive federal AI regulationsGovernor Gavin Newsom signed laws Wednesday aimed at protecting California workers from the threats of artificial intelligence , including potential job losses and workplace surveillance.The laws ban employers from using the technology to predict a worker’s emotional state by using their biometric data, require employers to send written notices to workers if AI is responsible for mass layoffs and ban employers from relying on AI to decide to fire someone. Continue reading...",
+          "content": "Democratic governor sharply critical of Donald Trump for not passing comprehensive federal AI regulationsGovernor Gavin Newsom signed laws Wednesday aimed at protecting California workers from the threats of artificial intelligence , including potential job losses and workplace surveillance.The laws ban employers from using the technology to predict a worker’s emotional state by using their biometric data, require employers to send written notices to workers if AI is responsible for mass layoffs and ban employers from relying on AI to decide to fire someone. Continue reading...",
+          "feed_position": 7
+        },
+        {
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/260930/p52#a260930p52",
+          "published_at": "Wed, 30 Sep 2026 20:10:00 -0400",
+          "title": "California Governor Gavin Newsom signs the No Robo Bosses Act, which prevents employers in the state from relying solely on AI to fire or discipline workers (Paxton Honerkamp/CNBC)",
+          "standfirst": "Paxton Honerkamp / CNBC: California Governor Gavin Newsom signs the No Robo Bosses Act, which prevents employers in the state from relying solely on AI to fire or discipline workers &mdash; California Governor Gavin Newsom has signed a landmark AI law banning Golden State employers from relying solely on artificial intelligence to fire or discipline workers.",
+          "content": "Paxton Honerkamp / CNBC: California Governor Gavin Newsom signs the No Robo Bosses Act, which prevents employers in the state from relying solely on AI to fire or discipline workers &mdash; California Governor Gavin Newsom has signed a landmark AI law banning Golden State employers from relying solely on artificial intelligence to fire or discipline workers.",
+          "feed_position": 2,
+          "image_url": "http://www.techmeme.com/260930/i52.jpg"
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/260930/i52.jpg",
+      "popularity_score": 2018.5723863888888
+    },
+    {
+      "id": "cluster_9",
+      "coverage": 2,
+      "updated_at": "Wed, 30 Sep 2026 23:08:00 +0000",
+      "title": "The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next",
+      "neutral_headline": "The Pentagon taps Elon Musk and Palmer Luckey to help decide...",
+      "bullet_summary": [
+        "Reported by TechCrunch, TechMeme"
+      ],
+      "items": [
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/",
+          "published_at": "Wed, 30 Sep 2026 23:08:00 +0000",
+          "title": "The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next",
+          "standfirst": "Defense Secretary Pete Hegseth just launched a 120-day study on the future of warfare, led by Elon Musk, Palmer Luckey, and Newt Gingrich, and while it makes sense given their ties to the administration, critics could point out that Musk's and Luckey's companies already sell the kinds of technology the study is likely to recommend.",
+          "content": "Defense Secretary Pete Hegseth just launched a 120-day study on the future of warfare, led by Elon Musk, Palmer Luckey, and Newt Gingrich, and while it makes sense given their ties to the administration, critics could point out that Musk's and Luckey's companies already sell the kinds of technology the study is likely to recommend.",
+          "feed_position": 1
+        },
+        {
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/260930/p45#a260930p45",
+          "published_at": "Wed, 30 Sep 2026 16:35:00 -0400",
+          "title": "DOD taps Elon Musk, Palmer Luckey, and former House Speaker Newt Gingrich for Project Meridian, a 120-day study of capabilities the US may need in future wars (Luke Fountain/CNBC)",
+          "standfirst": "Luke Fountain / CNBC: DOD taps Elon Musk, Palmer Luckey, and former House Speaker Newt Gingrich for Project Meridian, a 120-day study of capabilities the US may need in future wars &mdash; The Pentagon is tapping Tesla and SpaceX CEO Elon Musk, defense technology entrepreneur and Anduril co-founder Palmer Luckey &hellip;",
+          "content": "Luke Fountain / CNBC: DOD taps Elon Musk, Palmer Luckey, and former House Speaker Newt Gingrich for Project Meridian, a 120-day study of capabilities the US may need in future wars &mdash; The Pentagon is tapping Tesla and SpaceX CEO Elon Musk, defense technology entrepreneur and Anduril co-founder Palmer Luckey &hellip;",
+          "feed_position": 9,
+          "image_url": "http://www.techmeme.com/260930/i45.jpg"
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/260930/i45.jpg",
+      "popularity_score": 2017.4068308333333
+    },
+    {
+      "id": "cluster_32",
       "coverage": 2,
       "updated_at": "Wed, 30 Sep 2026 15:35:01 -0400",
       "title": "Reddit says it is ending support for RSS feeds on November 13 because the feeds are a target for abuse by AI bots and is ending its public API access in March (Sarah Perez/TechCrunch)",
@@ -59,7 +125,7 @@
           "title": "Reddit says it is ending support for RSS feeds on November 13 because the feeds are a target for abuse by AI bots and is ending its public API access in March (Sarah Perez/TechCrunch)",
           "standfirst": "Sarah Perez / TechCrunch: Reddit says it is ending support for RSS feeds on November 13 because the feeds are a target for abuse by AI bots and is ending its public API access in March &mdash; Amid a number of updates for moderators and developers announced Wednesday comes bad news for supporters of a more open web: Reddit is ending support for RSS feeds.",
           "content": "Sarah Perez / TechCrunch: Reddit says it is ending support for RSS feeds on November 13 because the feeds are a target for abuse by AI bots and is ending its public API access in March &mdash; Amid a number of updates for moderators and developers announced Wednesday comes bad news for supporters of a more open web: Reddit is ending support for RSS feeds.",
-          "feed_position": 6,
+          "feed_position": 12,
           "image_url": "http://www.techmeme.com/260930/i42.jpg"
         },
         {
@@ -69,14 +135,14 @@
           "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
           "standfirst": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
           "content": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
-          "feed_position": 8
+          "feed_position": 10
         }
       ],
       "featured_image": "http://www.techmeme.com/260930/i42.jpg",
-      "popularity_score": 2016.8311202777777
+      "popularity_score": 2013.857108611111
     },
     {
-      "id": "cluster_36",
+      "id": "cluster_47",
       "coverage": 2,
       "updated_at": "Wed, 30 Sep 2026 18:25:04 +0000",
       "title": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
@@ -107,10 +173,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/openai-logo-1152x648-1784833184.jpg",
-      "popularity_score": 2015.6652869444445
+      "popularity_score": 2012.6912752777778
     },
     {
-      "id": "cluster_79",
+      "id": "cluster_81",
       "coverage": 2,
       "updated_at": "Wed, 30 Sep 2026 14:30:00 +0000",
       "title": "Instagram rolls out an AI video assistant for creators",
@@ -126,7 +192,7 @@
           "title": "Instagram rolls out an AI video assistant for creators",
           "standfirst": "This conversational AI assistant is intended to provide personalized feedback to creators, rather than generic advice.",
           "content": "This conversational AI assistant is intended to provide personalized feedback to creators, rather than generic advice.",
-          "feed_position": 17
+          "feed_position": 19
         },
         {
           "source": "Engadget",
@@ -135,15 +201,15 @@
           "title": "Meta introduces a new AI assistant for its Instagram creators",
           "standfirst": "The Edits assistant offers personalized guidance based on your audience and best-performing content.",
           "content": "The Edits assistant offers personalized guidance based on your audience and best-performing content.",
-          "feed_position": 11,
+          "feed_position": 12,
           "image_url": "https://www.engadget.com/img/gallery/meta-introduces-a-new-ai-assistant-for-its-instagram-creators/l-intro-1790775050.jpg"
         }
       ],
       "featured_image": "https://www.engadget.com/img/gallery/meta-introduces-a-new-ai-assistant-for-its-instagram-creators/l-intro-1790775050.jpg",
-      "popularity_score": 2011.7475091666668
+      "popularity_score": 2008.7734975
     },
     {
-      "id": "cluster_4",
+      "id": "cluster_15",
       "coverage": 1,
       "updated_at": "Wed, 30 Sep 2026 21:54:12 +0000",
       "title": "Dinosaur-killing impact crater might have been teeming with life",
@@ -164,10 +230,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1042124682-1152x648.jpg",
-      "popularity_score": 352.1508425
+      "popularity_score": 349.1768308333333
     },
     {
-      "id": "cluster_5",
+      "id": "cluster_16",
       "coverage": 1,
       "updated_at": "Wed, 30 Sep 2026 21:37:54 +0000",
       "title": "Fifth unvaccinated person dies of measles; CDC still not counting all deaths",
@@ -188,10 +254,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2257300982-1152x648.jpg",
-      "popularity_score": 341.8791758333333
+      "popularity_score": 338.9051641666667
     },
     {
-      "id": "cluster_6",
+      "id": "cluster_17",
       "coverage": 1,
       "updated_at": "Wed, 30 Sep 2026 21:19:56 +0000",
       "title": "Returning from vacation? The government can search your phone without a warrant.",
@@ -212,10 +278,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2288940295-1152x648.jpg",
-      "popularity_score": 331.5797313888889
+      "popularity_score": 328.6057197222222
     },
     {
-      "id": "cluster_19",
+      "id": "cluster_29",
       "coverage": 1,
       "updated_at": "Wed, 30 Sep 2026 20:11:08 +0000",
       "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
@@ -236,10 +302,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-1-1152x648.jpg",
-      "popularity_score": 327.43306472222224
+      "popularity_score": 324.45905305555556
     },
     {
-      "id": "cluster_12",
+      "id": "cluster_23",
       "coverage": 1,
       "updated_at": "Wed, 30 Sep 2026 20:44:48 +0000",
       "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
@@ -260,10 +326,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
-      "popularity_score": 325.9941758333333
+      "popularity_score": 323.0201641666667
     },
     {
-      "id": "cluster_8",
+      "id": "cluster_19",
       "coverage": 1,
       "updated_at": "Wed, 30 Sep 2026 21:06:56 +0000",
       "title": "A local network of implants uses your body as the wiring",
@@ -284,10 +350,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1531989233-1152x648.jpg",
-      "popularity_score": 321.36306472222225
+      "popularity_score": 318.38905305555556
     },
     {
-      "id": "cluster_22",
+      "id": "cluster_33",
       "coverage": 1,
       "updated_at": "Wed, 30 Sep 2026 19:31:25 +0000",
       "title": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
@@ -308,10 +374,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2294068904-1152x648.jpg",
-      "popularity_score": 294.77112027777775
+      "popularity_score": 291.7971086111111
     },
     {
-      "id": "cluster_20",
+      "id": "cluster_31",
       "coverage": 1,
       "updated_at": "Wed, 30 Sep 2026 19:53:33 +0000",
       "title": "Reddit is putting more limits on Old.Reddit.com",
@@ -332,10 +398,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2227553113-1-1024x648.jpg",
-      "popularity_score": 287.1400091666667
+      "popularity_score": 284.1659975
     },
     {
-      "id": "cluster_25",
+      "id": "cluster_36",
       "coverage": 1,
       "updated_at": "Wed, 30 Sep 2026 19:22:19 +0000",
       "title": "The Disney protests were a wake-up call about the risks of streaming mergers",
@@ -356,10 +422,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2236794248-1024x648.jpg",
-      "popularity_score": 274.6194536111111
+      "popularity_score": 271.6454419444444
     },
     {
-      "id": "cluster_32",
+      "id": "cluster_43",
       "coverage": 1,
       "updated_at": "Wed, 30 Sep 2026 18:47:01 +0000",
       "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
@@ -380,10 +446,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2297759490-1024x648.jpg",
-      "popularity_score": 274.0311202777778
+      "popularity_score": 271.0571086111111
     },
     {
-      "id": "cluster_59",
+      "id": "cluster_64",
       "coverage": 1,
       "updated_at": "Wed, 30 Sep 2026 16:03:48 +0000",
       "title": "Google's early attempt to pay websites for AI answers is struggling",
@@ -404,10 +470,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-1152x648.jpg",
-      "popularity_score": 173.3108425
+      "popularity_score": 170.33683083333332
     },
     {
-      "id": "cluster_66",
+      "id": "cluster_69",
       "coverage": 1,
       "updated_at": "Wed, 30 Sep 2026 15:54:52 +0000",
       "title": "Google figures out how to watermark AI-designed proteins",
@@ -428,7 +494,7 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2204734561-1152x648.jpg",
-      "popularity_score": 173.1619536111111
+      "popularity_score": 170.18794194444445
     },
     {
       "id": "cluster_84",
@@ -452,10 +518,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/sam-altman-1-1152x648.jpg",
-      "popularity_score": 156.35167583333333
+      "popularity_score": 153.37766416666668
     },
     {
-      "id": "cluster_50",
+      "id": "cluster_59",
       "coverage": 1,
       "updated_at": "Wed, 30 Sep 2026 16:48:56 +0000",
       "title": "So what's happening with Russia's new, long-delayed crewed spacecraft?",
@@ -476,10 +542,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1242530931-1024x648.jpg",
-      "popularity_score": 155.06306472222224
+      "popularity_score": 152.08905305555555
     },
     {
-      "id": "cluster_73",
+      "id": "cluster_75",
       "coverage": 1,
       "updated_at": "Wed, 30 Sep 2026 15:12:46 +0000",
       "title": "The PS5 hacking scene just took a big leap forward",
@@ -500,10 +566,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2186493403-1024x648.jpg",
-      "popularity_score": 152.46028694444445
+      "popularity_score": 149.4862752777778
     },
     {
-      "id": "cluster_77",
+      "id": "cluster_79",
       "coverage": 1,
       "updated_at": "Wed, 30 Sep 2026 14:42:58 +0000",
       "title": "BMW reveals US 3 series pricing: The EV carries a hefty premium",
@@ -524,10 +590,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/P90657631_highRes_the-new-bmw-3-series-1152x648.jpg",
-      "popularity_score": 150.96362027777778
+      "popularity_score": 147.98960861111112
     },
     {
-      "id": "cluster_74",
+      "id": "cluster_76",
       "coverage": 1,
       "updated_at": "Wed, 30 Sep 2026 15:01:40 +0000",
       "title": "Discord gives more advertisers more tools to target its users",
@@ -548,10 +614,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1244881649-1024x648.jpg",
-      "popularity_score": 145.27528694444445
+      "popularity_score": 142.3012752777778
     },
     {
-      "id": "cluster_75",
+      "id": "cluster_77",
       "coverage": 1,
       "updated_at": "Wed, 30 Sep 2026 15:00:56 +0000",
       "title": "What butterfly wings have in common with barbershop poles",
@@ -572,10 +638,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/butterfly1-1152x648.jpg",
-      "popularity_score": 145.26306472222223
+      "popularity_score": 142.28905305555554
     },
     {
-      "id": "cluster_97",
+      "id": "cluster_96",
       "coverage": 1,
       "updated_at": "Wed, 30 Sep 2026 11:15:14 +0000",
       "title": "Cloudflare plans to issue quantum-safe TLS certificates",
@@ -596,7 +662,7 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/https-1152x648.jpg",
-      "popularity_score": 141.50139805555557
+      "popularity_score": 138.52738638888889
     }
   ]
 }
