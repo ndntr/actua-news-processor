@@ -1,17 +1,80 @@
 {
   "clinical": {
-    "updated_at": "2026-10-09T22:59:00.946Z",
+    "updated_at": "2026-10-10T02:10:06.347Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-10-09T22:59:00.946Z",
+    "updated_at": "2026-10-10T02:10:06.347Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-10-09T22:59:07.142Z",
+    "updated_at": "2026-10-10T02:10:08.817Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Sat, 10 Oct 2026 01:58:56 GMT",
+        "title": "Life-threatening Hurricane Isaias makes landfall in Florida",
+        "neutral_headline": "Life-threatening Hurricane Isaias makes landfall in Florida",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sat, 10 Oct 2026 01:58:56 GMT",
+            "title": "Life-threatening Hurricane Isaias makes landfall in Florida",
+            "standfirst": "The storm took direct aim at Florida and is expected to impact Alabama, Georgia, and Louisiana.",
+            "content": "The storm took direct aim at Florida and is expected to impact Alabama, Georgia, and Louisiana.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32d0/live/ee00aa70-c443-11f1-8e13-7de7b0658be0.jpg"
+          },
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/news/videos/cmewe552de72o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Fri, 09 Oct 2026 16:46:32 GMT",
+            "title": "Isaias becomes major category three storm before landfall",
+            "standfirst": "Isaias, the first hurricane of the Atlantic season has been continuing to strengthen and is now a category three 'major' hurricane.",
+            "content": "Isaias, the first hurricane of the Atlantic season has been continuing to strengthen and is now a category three 'major' hurricane.",
+            "feed_position": 2,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73f6/live/ed683ba0-c3ee-11f1-9a39-31b474234113.jpg"
+          },
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/news/videos/cw073kg2dgr9o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Fri, 09 Oct 2026 14:23:57 GMT",
+            "title": "Hurricane Isaias strengthens as it heads towards land",
+            "standfirst": "Isaias will bring damaging winds, torrential rain and a storm surge with landfall expected late Friday.",
+            "content": "Isaias will bring damaging winds, torrential rain and a storm surge with landfall expected late Friday.",
+            "feed_position": 4,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be69/live/8ac843e0-c3ea-11f1-bc2e-018d645d8d21.jpg"
+          },
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/weather/articles/cw146l6pnvx0o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Fri, 09 Oct 2026 12:54:28 GMT",
+            "title": "Hurricane Isaias strengthens to a major category three storm",
+            "standfirst": "El Niño has led to a quiet season so far but the first Atlantic hurricane of the year is set to make landfall later on Friday into Saturday across the US Gulf Coast.",
+            "content": "El Niño has led to a quiet season so far but the first Atlantic hurricane of the year is set to make landfall later on Friday into Saturday across the US Gulf Coast.",
+            "feed_position": 6,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11af/live/b7dc7730-c3b2-11f1-a0b5-7b6bc14012a9.png"
+          },
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/news/videos/ckz65l2gne1po?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 08 Oct 2026 19:39:32 GMT",
+            "title": "BBC on Hurricane Isaias and its expected Gulf Coast landfall",
+            "standfirst": "BBC Weather's Chris Fawkes says the first hurricane of the 2026 Atlantic season could bring dangerous winds, storm surge and heavy rains to the Gulf Coast Friday.",
+            "content": "BBC Weather's Chris Fawkes says the first hurricane of the 2026 Atlantic season could bring dangerous winds, storm surge and heavy rains to the Gulf Coast Friday.",
+            "feed_position": 10,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b74f/live/9b2c8e90-c34e-11f1-bc2e-018d645d8d21.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32d0/live/ee00aa70-c443-11f1-8e13-7de7b0658be0.jpg"
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Fri, 09 Oct 2026 21:36:18 GMT",
         "title": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
@@ -32,7 +95,7 @@
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Fri, 09 Oct 2026 19:11:27 GMT",
         "title": "'People don't think recycling at work is part of their job description'",
@@ -48,14 +111,14 @@
             "title": "'People don't think recycling at work is part of their job description'",
             "standfirst": "Unclear labelling as well as a lack of recycling facilities at work or in public-facing businesses is an issue.",
             "content": "Unclear labelling as well as a lack of recycling facilities at work or in public-facing businesses is an issue.",
-            "feed_position": 0,
+            "feed_position": 1,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8143/live/ed655970-c3c2-11f1-8fc5-335d62f6730b.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8143/live/ed655970-c3c2-11f1-8fc5-335d62f6730b.jpg"
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Fri, 09 Oct 2026 17:24:16 GMT",
         "title": "NHS faces exodus of ADHD and autism services staff to private clinics",
@@ -104,59 +167,6 @@
         ]
       },
       {
-        "id": "cluster_3",
-        "coverage": 1,
-        "updated_at": "Fri, 09 Oct 2026 16:46:32 GMT",
-        "title": "Isaias becomes major category three storm before landfall",
-        "neutral_headline": "Isaias becomes major category three storm before landfall",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/news/videos/cmewe552de72o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Fri, 09 Oct 2026 16:46:32 GMT",
-            "title": "Isaias becomes major category three storm before landfall",
-            "standfirst": "Isaias, the first hurricane of the Atlantic season has been continuing to strengthen and is now a category three 'major' hurricane.",
-            "content": "Isaias, the first hurricane of the Atlantic season has been continuing to strengthen and is now a category three 'major' hurricane.",
-            "feed_position": 1,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73f6/live/ed683ba0-c3ee-11f1-9a39-31b474234113.jpg"
-          },
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/news/videos/cw073kg2dgr9o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Fri, 09 Oct 2026 14:23:57 GMT",
-            "title": "Hurricane Isaias strengthens as it heads towards land",
-            "standfirst": "Isaias will bring damaging winds, torrential rain and a storm surge with landfall expected late Friday.",
-            "content": "Isaias will bring damaging winds, torrential rain and a storm surge with landfall expected late Friday.",
-            "feed_position": 3,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be69/live/8ac843e0-c3ea-11f1-bc2e-018d645d8d21.jpg"
-          },
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/weather/articles/cw146l6pnvx0o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Fri, 09 Oct 2026 12:54:28 GMT",
-            "title": "Hurricane Isaias strengthens to a major category three storm",
-            "standfirst": "El Niño has led to a quiet season so far but the first Atlantic hurricane of the year is set to make landfall later on Friday into Saturday across the US Gulf Coast.",
-            "content": "El Niño has led to a quiet season so far but the first Atlantic hurricane of the year is set to make landfall later on Friday into Saturday across the US Gulf Coast.",
-            "feed_position": 5,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11af/live/b7dc7730-c3b2-11f1-a0b5-7b6bc14012a9.png"
-          },
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/news/videos/ckz65l2gne1po?at_medium=RSS&at_campaign=rss",
-            "published_at": "Thu, 08 Oct 2026 19:39:32 GMT",
-            "title": "BBC on Hurricane Isaias and its expected Gulf Coast landfall",
-            "standfirst": "BBC Weather's Chris Fawkes says the first hurricane of the 2026 Atlantic season could bring dangerous winds, storm surge and heavy rains to the Gulf Coast Friday.",
-            "content": "BBC Weather's Chris Fawkes says the first hurricane of the 2026 Atlantic season could bring dangerous winds, storm surge and heavy rains to the Gulf Coast Friday.",
-            "feed_position": 9,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b74f/live/9b2c8e90-c34e-11f1-bc2e-018d645d8d21.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73f6/live/ed683ba0-c3ee-11f1-9a39-31b474234113.jpg"
-      },
-      {
         "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Fri, 09 Oct 2026 16:13:09 GMT",
@@ -195,7 +205,7 @@
             "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
             "standfirst": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest.",
             "content": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest.",
-            "feed_position": 2,
+            "feed_position": 3,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b04d/live/ba559970-c3f2-11f1-bc2e-018d645d8d21.jpg"
           }
         ],
@@ -297,7 +307,7 @@
             "title": "'Tropical jungle' of wallabies, porcupines and parrots must move after neighbours complain",
             "standfirst": "James Wale moved to the site two years ago and keeps animals including wallabies and rare birds.",
             "content": "James Wale moved to the site two years ago and keeps animals including wallabies and rare birds.",
-            "feed_position": 4,
+            "feed_position": 5,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2854/live/9cb90da0-c3e0-11f1-95ba-dba767ffba7e.png"
           }
         ],
@@ -499,7 +509,7 @@
             "title": "£15m spent cleaning illegal waste supersite in ancient woodland",
             "standfirst": "Concerns remain over the ancient Kent woodland's future after 39,500 tonnes of rubbish were cleared.",
             "content": "Concerns remain over the ancient Kent woodland's future after 39,500 tonnes of rubbish were cleared.",
-            "feed_position": 6,
+            "feed_position": 7,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdc3/live/945b6820-c3a3-11f1-9a39-31b474234113.jpg"
           }
         ],
@@ -522,7 +532,7 @@
             "title": "Why are more roofs not made of solar tiles?",
             "standfirst": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?",
             "content": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?",
-            "feed_position": 7,
+            "feed_position": 8,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53f9/live/5f873b90-b0ea-11f1-8d94-cf0ec84c39cd.jpg"
           }
         ],
@@ -531,7 +541,7 @@
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-10-09T22:59:07.142Z",
+    "updated_at": "2026-10-10T02:10:08.817Z",
     "clusters": []
   }
 }
