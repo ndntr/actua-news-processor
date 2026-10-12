@@ -1,17 +1,40 @@
 {
   "clinical": {
-    "updated_at": "2026-10-12T01:57:50.810Z",
+    "updated_at": "2026-10-12T10:03:09.773Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-10-12T01:57:50.810Z",
+    "updated_at": "2026-10-12T10:03:09.773Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-10-12T01:57:52.889Z",
+    "updated_at": "2026-10-12T10:03:12.300Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Mon, 12 Oct 2026 05:24:10 GMT",
+        "title": "'Prepare for the unthinkable' warning over autumn flooding",
+        "neutral_headline": "'Prepare for the unthinkable' warning over autumn flooding",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/news/articles/cm4g1pqyqzqwo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 12 Oct 2026 05:24:10 GMT",
+            "title": "'Prepare for the unthinkable' warning over autumn flooding",
+            "standfirst": "Those living in flood-hit areas say they are worried, and have started preparing.",
+            "content": "Those living in flood-hit areas say they are worried, and have started preparing.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1025/live/7f85ec80-c543-11f1-b4f1-2359026a88ee.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1025/live/7f85ec80-c543-11f1-b4f1-2359026a88ee.jpg"
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Sun, 11 Oct 2026 23:48:25 GMT",
         "title": "Watch: Endangered orangutans released back into the wild after Borneo fires",
@@ -27,8 +50,8 @@
             "title": "Watch: Endangered orangutans released back into the wild after Borneo fires",
             "standfirst": "The critically endangered apes were rescued from intense wildfires that destroyed their habitat in August and September.",
             "content": "The critically endangered apes were rescued from intense wildfires that destroyed their habitat in August and September.",
-            "feed_position": 0,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/911a/live/4f78adc0-c5d9-11f1-8047-553502192765.jpg"
+            "feed_position": 1,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/352a/live/d99810b0-c5ff-11f1-b084-2bd4636c4658.jpg"
           },
           {
             "source": "BBC Science",
@@ -41,10 +64,10 @@
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e90/live/35c07920-c5a8-11f1-9a39-31b474234113.jpg"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/911a/live/4f78adc0-c5d9-11f1-8047-553502192765.jpg"
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/352a/live/d99810b0-c5ff-11f1-b084-2bd4636c4658.jpg"
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Sun, 11 Oct 2026 23:13:51 GMT",
         "title": "American ranchers wrestle with soaring costs - and their loyalty to Trump",
@@ -60,14 +83,14 @@
             "title": "American ranchers wrestle with soaring costs - and their loyalty to Trump",
             "standfirst": "Many farmers in states that backed the president say they are being hit from all sides, with the crucial midterm elections just weeks away.",
             "content": "Many farmers in states that backed the president say they are being hit from all sides, with the crucial midterm elections just weeks away.",
-            "feed_position": 1,
+            "feed_position": 2,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef78/live/3cd40f10-c34b-11f1-9ef0-9f3abff8feb9.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef78/live/3cd40f10-c34b-11f1-9ef0-9f3abff8feb9.jpg"
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Sun, 11 Oct 2026 23:03:45 GMT",
         "title": "Childhood cancer symptoms can be easily missed - here's what to look out for",
@@ -84,33 +107,10 @@
             "standfirst": "Although rare, cancer is the leading cause of death from disease among children under 15 in the UK.",
             "content": "Although rare, cancer is the leading cause of death from disease among children under 15 in the UK.",
             "feed_position": 0,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74b6/live/3da400a0-c187-11f1-bc2e-018d645d8d21.jpg"
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c63c/live/d8be8750-c604-11f1-9a39-31b474234113.jpg"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74b6/live/3da400a0-c187-11f1-bc2e-018d645d8d21.jpg"
-      },
-      {
-        "id": "cluster_3",
-        "coverage": 1,
-        "updated_at": "Sun, 11 Oct 2026 20:51:30 GMT",
-        "title": "'Prepare for the unthinkable' warning over autumn flooding",
-        "neutral_headline": "'Prepare for the unthinkable' warning over autumn flooding",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/news/articles/cm4g1pqyqzqwo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Sun, 11 Oct 2026 20:51:30 GMT",
-            "title": "'Prepare for the unthinkable' warning over autumn flooding",
-            "standfirst": "Those living in flood-hit areas say they are worried, and have started preparing.",
-            "content": "Those living in flood-hit areas say they are worried, and have started preparing.",
-            "feed_position": 2,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1025/live/7f85ec80-c543-11f1-b4f1-2359026a88ee.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1025/live/7f85ec80-c543-11f1-b4f1-2359026a88ee.jpg"
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c63c/live/d8be8750-c604-11f1-9a39-31b474234113.jpg"
       },
       {
         "id": "cluster_4",
@@ -478,7 +478,7 @@
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-10-12T01:57:52.889Z",
+    "updated_at": "2026-10-12T10:03:12.300Z",
     "clusters": []
   }
 }
