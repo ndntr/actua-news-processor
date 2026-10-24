@@ -1,114 +1,85 @@
 {
-  "updated_at": "2026-10-24T14:10:56.731Z",
+  "updated_at": "2026-10-24T21:21:14.354Z",
   "clusters": [
     {
-      "id": "cluster_35",
-      "coverage": 4,
-      "updated_at": "Fri, 23 Oct 2026 20:30:01 -0400",
-      "title": "OpenAI says it built an \"offline world\" from cached web content to train isolated frontier models to browse, search for information, and use web apps (OpenAI)",
-      "neutral_headline": "OpenAI says it's cutting off internet access for frontier model training",
+      "id": "cluster_0",
+      "coverage": 2,
+      "updated_at": "Sat, 24 Oct 2026 20:46:34 +0000",
+      "title": "Starlink seems to be working normally again in Ukraine",
+      "neutral_headline": "Starlink seems to be working normally again in Ukraine",
       "bullet_summary": [
-        "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work",
-        "Reported by TechMeme, TechCrunch, Engadget and others"
+        "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access",
+        "Reported by TechCrunch, TechMeme"
       ],
       "items": [
         {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/261023/p25#a261023p25",
-          "published_at": "Fri, 23 Oct 2026 20:30:01 -0400",
-          "title": "OpenAI says it built an \"offline world\" from cached web content to train isolated frontier models to browse, search for information, and use web apps (OpenAI)",
-          "standfirst": "OpenAI: OpenAI says it built an &ldquo;offline world&rdquo; from cached web content to train isolated frontier models to browse, search for information, and use web apps &mdash; In order to work with software, AI models need computing environments: digital workspaces where they can write and run code &hellip;",
-          "content": "OpenAI: OpenAI says it built an &ldquo;offline world&rdquo; from cached web content to train isolated frontier models to browse, search for information, and use web apps &mdash; In order to work with software, AI models need computing environments: digital workspaces where they can write and run code &hellip;",
-          "feed_position": 7,
-          "image_url": "http://www.techmeme.com/261023/i25.jpg"
-        },
-        {
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-          "published_at": "Fri, 23 Oct 2026 23:05:49 +0000",
-          "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-          "standfirst": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-          "content": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-          "feed_position": 2
-        },
-        {
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2296019/openai-says-its-cutting-off-internet-access-for-frontier-model-training/",
-          "published_at": "Fri, 23 Oct 2026 22:37:02 +0000",
-          "title": "OpenAI says it's cutting off internet access for frontier model training",
-          "standfirst": "OpenAI says it will no longer allow frontier models to access the internet during training in an effort to put in new safety measures after a series of incidents.",
-          "content": "OpenAI says it will no longer allow frontier models to access the internet during training in an effort to put in new safety measures after a series of incidents.",
-          "feed_position": 10,
-          "image_url": "https://www.engadget.com/img/gallery/openai-says-its-cutting-off-internet-access-for-frontier-model-training/l-intro-1792794862.jpg"
-        },
-        {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-          "published_at": "2026-10-23T17:11:07-04:00",
-          "title": "OpenAI now trains its frontier AI models with no internet access",
-          "standfirst": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external systems.\" OpenAI paused training its frontier [&#8230;]",
-          "content": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external systems.\" OpenAI paused training its frontier AI models in September, after disclosing several incidents in which its AI agents broke out of their testing environments to hack third-party companies and government agencies, or swarm obscure websites. On October 1st, OpenAI resumed reinforcement learning training and internal inference with tighte … Read the full story at The Verge.",
-          "feed_position": 5
+          "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+          "published_at": "Sat, 24 Oct 2026 20:46:34 +0000",
+          "title": "Starlink seems to be working normally again in Ukraine",
+          "standfirst": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
+          "content": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
+          "feed_position": 0
         },
         {
           "source": "TechMeme",
-          "url": "https://www.techmeme.com/261023/p20#a261023p20",
-          "published_at": "Fri, 23 Oct 2026 16:20:00 -0400",
-          "title": "OpenAI plans to restrict internet access for its frontier models during training until adequate alignment, monitoring, and security safeguards are established (Rachel Metz/Bloomberg)",
-          "standfirst": "Rachel Metz / Bloomberg: OpenAI plans to restrict internet access for its frontier models during training until adequate alignment, monitoring, and security safeguards are established &mdash; OpenAI has begun cutting off internet access for its most capable artificial intelligence models during the training process &hellip;",
-          "content": "Rachel Metz / Bloomberg: OpenAI plans to restrict internet access for its frontier models during training until adequate alignment, monitoring, and security safeguards are established &mdash; OpenAI has begun cutting off internet access for its most capable artificial intelligence models during the training process &hellip;",
-          "feed_position": 12,
-          "image_url": "http://www.techmeme.com/261023/i20.jpg"
+          "url": "https://www.techmeme.com/261024/p4#a261024p4",
+          "published_at": "Sat, 24 Oct 2026 09:35:02 -0400",
+          "title": "Ukraine says Starshield was working normally again on Saturday morning; US officials said Trump asked Elon Musk to restore the service (Wall Street Journal)",
+          "standfirst": "Wall Street Journal: Ukraine says Starshield was working normally again on Saturday morning; US officials said Trump asked Elon Musk to restore the service &mdash; Speed restrictions imposed by Elon Musk's SpaceX have hampered Ukraine's drone forces since Oct. 14 &mdash; KYIV&mdash;Ukraine's military Starlink system &hellip;",
+          "content": "Wall Street Journal: Ukraine says Starshield was working normally again on Saturday morning; US officials said Trump asked Elon Musk to restore the service &mdash; Speed restrictions imposed by Elon Musk's SpaceX have hampered Ukraine's drone forces since Oct. 14 &mdash; KYIV&mdash;Ukraine's military Starlink system &hellip;",
+          "feed_position": 4,
+          "image_url": "http://www.techmeme.com/261024/i4.jpg"
         }
       ],
-      "featured_image": "http://www.techmeme.com/261023/i25.jpg",
-      "popularity_score": 4006.3178525
+      "featured_image": "http://www.techmeme.com/261024/i4.jpg",
+      "popularity_score": 2019.4221238888888
     },
     {
-      "id": "cluster_89",
-      "coverage": 3,
-      "updated_at": "Fri, 23 Oct 2026 09:01:01 +0000",
-      "title": "A startup called Warhound is genetically engineering dogs for the military",
-      "neutral_headline": "A startup called Warhound is genetically engineering dogs for the military",
+      "id": "cluster_22",
+      "coverage": 2,
+      "updated_at": "Sat, 24 Oct 2026 15:00:00 +0000",
+      "title": "These clever apps show off the iPhone Duo&#8217;s potential",
+      "neutral_headline": "These clever apps show off the iPhone Duo&#8217;s potential",
       "bullet_summary": [
-        "Reported by Engadget, TechCrunch, Wired Tech"
+        "Reported by TechCrunch, Wired Tech"
       ],
       "items": [
         {
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2295033/warhound-genetically-engineering-dogs-military/",
-          "published_at": "Fri, 23 Oct 2026 09:01:01 +0000",
-          "title": "A startup called Warhound is genetically engineering dogs for the military",
-          "standfirst": "Warhound is genetically engineering dogs for the military, law enforcement and first responder operations.",
-          "content": "Warhound is genetically engineering dogs for the military, law enforcement and first responder operations.",
-          "feed_position": 18,
-          "image_url": "https://www.engadget.com/img/gallery/a-startup-called-warhound-is-genetically-engineering-dogs-for-the-military/l-intro-1792745868.jpg"
-        },
-        {
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
-          "published_at": "Thu, 22 Oct 2026 23:15:00 +0000",
-          "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
-          "standfirst": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.",
-          "content": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.",
-          "feed_position": 16
+          "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
+          "published_at": "Sat, 24 Oct 2026 15:00:00 +0000",
+          "title": "These clever apps show off the iPhone Duo&#8217;s potential",
+          "standfirst": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.",
+          "content": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.",
+          "feed_position": 6
         },
         {
           "source": "Wired Tech",
-          "url": "https://www.wired.com/story/cool-cool-cool-palmer-luckey-made-a-genetically-modified-military-dog-startup/",
-          "published_at": "Thu, 22 Oct 2026 23:15:00 +0000",
-          "title": "Palmer Luckey and Ben Lamm Made a Genetically Modified Military Dog Startup",
-          "standfirst": "Warhound came out of stealth on Wednesday with $200 million in funding and a mission to create “elite working dogs” equipped with \"advanced body armor.\"",
-          "content": "Warhound came out of stealth on Wednesday with $200 million in funding and a mission to create “elite working dogs” equipped with \"advanced body armor.\"",
-          "feed_position": 25,
-          "image_url": "https://media.wired.com/photos/6ada855face4f27f64bac623/master/pass/Business_Palmer%20Luckey%20Says%20He%E2%80%99s%20Making%20Cyborg%20Death%20Dogs_v1.jpg"
+          "url": "https://www.wired.com/story/unique-apps-to-try-on-the-iphone-duo/",
+          "published_at": "Sat, 24 Oct 2026 10:45:00 +0000",
+          "title": "9 Unique Apps to Try on the iPhone Duo",
+          "standfirst": "Apple’s first folding phone is inspiring indie developers to create fun, quirky apps that take advantage of the screen and the hinge. Here are a few to try as you explore the Duo.",
+          "content": "Apple’s first folding phone is inspiring indie developers to create fun, quirky apps that take advantage of the screen and the hinge. Here are a few to try as you explore the Duo.",
+          "feed_position": 3,
+          "image_url": "https://media.wired.com/photos/6adb699efc34ba9fae2279b4/master/pass/Top%20Art%20SOURCE%20Julian%20Chokkattu.jpg"
+        },
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/8-things-to-know-about-the-apple-iphone-duo/",
+          "published_at": "Fri, 23 Oct 2026 09:15:00 +0000",
+          "title": "8 Things to Know About the iPhone Duo",
+          "standfirst": "Did you manage to score Apple’s first folding phone on launch day? Are you still mulling it over? Here are a few things to keep in mind.",
+          "content": "Did you manage to score Apple’s first folding phone on launch day? Are you still mulling it over? Here are a few things to keep in mind.",
+          "feed_position": 22,
+          "image_url": "https://media.wired.com/photos/6ada893690bbef8397f3e8ae/master/pass/DSC_9451.jpg"
         }
       ],
-      "featured_image": "https://www.engadget.com/img/gallery/a-startup-called-warhound-is-genetically-engineering-dogs-for-the-military/l-intro-1792745868.jpg",
-      "popularity_score": 3000
+      "featured_image": "https://media.wired.com/photos/6adb699efc34ba9fae2279b4/master/pass/Top%20Art%20SOURCE%20Julian%20Chokkattu.jpg",
+      "popularity_score": 2013.6460127777777
     },
     {
-      "id": "cluster_32",
+      "id": "cluster_62",
       "coverage": 2,
       "updated_at": "Fri, 23 Oct 2026 23:45:01 -0400",
       "title": "Google updates its privacy policy to clarify it could use data shared via Personal Intelligence from connected apps, including Gmail and Photos, to target ads (Shimul Sood/Android Authority)",
@@ -124,7 +95,7 @@
           "title": "Google updates its privacy policy to clarify it could use data shared via Personal Intelligence from connected apps, including Gmail and Photos, to target ads (Shimul Sood/Android Authority)",
           "standfirst": "Shimul Sood / Android Authority: Google updates its privacy policy to clarify it could use data shared via Personal Intelligence from connected apps, including Gmail and Photos, to target ads &mdash; Your inbox has secrets, and Google's ads might want in. &mdash; &bull; &hellip; TL;DR &mdash; Google updated its privacy policy &hellip;",
           "content": "Shimul Sood / Android Authority: Google updates its privacy policy to clarify it could use data shared via Personal Intelligence from connected apps, including Gmail and Photos, to target ads &mdash; Your inbox has secrets, and Google's ads might want in. &mdash; &bull; &hellip; TL;DR &mdash; Google updated its privacy policy &hellip;",
-          "feed_position": 4,
+          "feed_position": 8,
           "image_url": "http://www.techmeme.com/261023/i28.jpg"
         },
         {
@@ -139,10 +110,43 @@
         }
       ],
       "featured_image": "http://www.techmeme.com/261023/i28.jpg",
-      "popularity_score": 2009.5678525
+      "popularity_score": 2002.3962905555557
     },
     {
-      "id": "cluster_40",
+      "id": "cluster_65",
+      "coverage": 2,
+      "updated_at": "Fri, 23 Oct 2026 20:30:01 -0400",
+      "title": "OpenAI says it built an \"offline world\" from cached web content to train isolated frontier models to browse, search for information, and use web apps (OpenAI)",
+      "neutral_headline": "OpenAI now trains its frontier AI models with no internet access",
+      "bullet_summary": [
+        "Reported by TechMeme, The Verge"
+      ],
+      "items": [
+        {
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/261023/p25#a261023p25",
+          "published_at": "Fri, 23 Oct 2026 20:30:01 -0400",
+          "title": "OpenAI says it built an \"offline world\" from cached web content to train isolated frontier models to browse, search for information, and use web apps (OpenAI)",
+          "standfirst": "OpenAI: OpenAI says it built an &ldquo;offline world&rdquo; from cached web content to train isolated frontier models to browse, search for information, and use web apps &mdash; In order to work with software, AI models need computing environments: digital workspaces where they can write and run code &hellip;",
+          "content": "OpenAI: OpenAI says it built an &ldquo;offline world&rdquo; from cached web content to train isolated frontier models to browse, search for information, and use web apps &mdash; In order to work with software, AI models need computing environments: digital workspaces where they can write and run code &hellip;",
+          "feed_position": 11,
+          "image_url": "http://www.techmeme.com/261023/i25.jpg"
+        },
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+          "published_at": "2026-10-23T17:11:07-04:00",
+          "title": "OpenAI now trains its frontier AI models with no internet access",
+          "standfirst": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external systems.\" OpenAI paused training its frontier [&#8230;]",
+          "content": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external systems.\" OpenAI paused training its frontier AI models in September, after disclosing several incidents in which its AI agents broke out of their testing environments to hack third-party companies and government agencies, or swarm obscure websites. On October 1st, OpenAI resumed reinforcement learning training and internal inference with tighte … Read the full story at The Verge.",
+          "feed_position": 9
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/261023/i25.jpg",
+      "popularity_score": 2000
+    },
+    {
+      "id": "cluster_71",
       "coverage": 2,
       "updated_at": "Fri, 23 Oct 2026 17:55:01 -0400",
       "title": "Memo: Helen Chiang, Xbox's first COO, is leaving Microsoft on October 23, just months after the role was created; she spent 21 years at the company (Tom Warren/The Verge)",
@@ -158,7 +162,7 @@
           "title": "Memo: Helen Chiang, Xbox's first COO, is leaving Microsoft on October 23, just months after the role was created; she spent 21 years at the company (Tom Warren/The Verge)",
           "standfirst": "Tom Warren / The Verge: Memo: Helen Chiang, Xbox's first COO, is leaving Microsoft on October 23, just months after the role was created; she spent 21 years at the company &mdash; Helen Chiang is leaving Microsoft after 21 years. &hellip; Xbox is losing its first chief operating officer (COO) after creating the new role just a few months ago.",
           "content": "Tom Warren / The Verge: Memo: Helen Chiang, Xbox's first COO, is leaving Microsoft on October 23, just months after the role was created; she spent 21 years at the company &mdash; Helen Chiang is leaving Microsoft after 21 years. &hellip; Xbox is losing its first chief operating officer (COO) after creating the new role just a few months ago.",
-          "feed_position": 9,
+          "feed_position": 13,
           "image_url": "http://www.techmeme.com/261023/i23.jpg"
         },
         {
@@ -168,47 +172,14 @@
           "title": "Xbox’s first chief operating officer is out after just a few months",
           "standfirst": "Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge. Chiang has been at Microsoft for 21 years, serving as the head of Minecraft before being promoted to Xbox chief [&#8230;]",
           "content": "Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge. Chiang has been at Microsoft for 21 years, serving as the head of Minecraft before being promoted to Xbox chief operating officer in July. Xbox CEO Asha Sharma announced Chiang's departure in a surprisingly short memo today. \"Helen Chiang is leaving Microsoft today. I'm grateful for her years of service and wish her well,\" said Sharma. As Chiang is departing today, her immediate responsibilities are being split up between other Xbox leaders … Read the full story at The Verge.",
-          "feed_position": 4
+          "feed_position": 8
         }
       ],
       "featured_image": "http://www.techmeme.com/261023/i23.jpg",
-      "popularity_score": 2003.7345191666666
-    },
-    {
-      "id": "cluster_86",
-      "coverage": 2,
-      "updated_at": "Fri, 23 Oct 2026 09:59:15 +0000",
-      "title": "Oura sues Ultrahuman (again) to block its latest smart ring from the US market",
-      "neutral_headline": "Oura sues Ultrahuman (again) to block its latest smart ring from the US market",
-      "bullet_summary": [
-        "Reported by Engadget, TechCrunch"
-      ],
-      "items": [
-        {
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2295042/oura-sues-ultrahuman-yet-again-ring-pro/",
-          "published_at": "Fri, 23 Oct 2026 09:59:15 +0000",
-          "title": "Oura sues Ultrahuman (again) to block its latest smart ring from the US market",
-          "standfirst": "Oura has sued Ultrahuman again in a Texas federal court over its latest product, the Ring Pro.",
-          "content": "Oura has sued Ultrahuman again in a Texas federal court over its latest product, the Ring Pro.",
-          "feed_position": 17,
-          "image_url": "https://www.engadget.com/img/gallery/oura-sues-ultrahuman-yet-again-ring-pro/l-intro-1792756423.jpg"
-        },
-        {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
-          "published_at": "Fri, 23 Oct 2026 04:22:57 +0000",
-          "title": "Oura sues rival Ultrahuman again, threatening its US smart ring comeback",
-          "standfirst": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
-          "content": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
-          "feed_position": 12
-        }
-      ],
-      "featured_image": "https://www.engadget.com/img/gallery/oura-sues-ultrahuman-yet-again-ring-pro/l-intro-1792756423.jpg",
       "popularity_score": 2000
     },
     {
-      "id": "cluster_15",
+      "id": "cluster_43",
       "coverage": 1,
       "updated_at": "Sat, 24 Oct 2026 11:50:28 +0000",
       "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
@@ -229,10 +200,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/marscloud-1152x648.jpg",
-      "popularity_score": 364.6586858333333
+      "popularity_score": 357.4871238888889
     },
     {
-      "id": "cluster_19",
+      "id": "cluster_48",
       "coverage": 1,
       "updated_at": "Sat, 24 Oct 2026 11:00:09 +0000",
       "title": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
@@ -253,10 +224,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1458824614-1152x648.jpg",
-      "popularity_score": 339.8200747222222
+      "popularity_score": 332.6485127777778
     },
     {
-      "id": "cluster_38",
+      "id": "cluster_69",
       "coverage": 1,
       "updated_at": "Fri, 23 Oct 2026 22:48:25 +0000",
       "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
@@ -277,10 +248,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/centaur-1002x648.jpg",
-      "popularity_score": 317.6245191666667
+      "popularity_score": 313
     },
     {
-      "id": "cluster_43",
+      "id": "cluster_74",
       "coverage": 1,
       "updated_at": "Fri, 23 Oct 2026 20:28:43 +0000",
       "title": "Hegseth warns prediction market bets warp military judgment, endanger troops",
@@ -301,10 +272,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/polymarket-1152x648.jpg",
-      "popularity_score": 305.2961858333333
+      "popularity_score": 303
     },
     {
-      "id": "cluster_48",
+      "id": "cluster_76",
       "coverage": 1,
       "updated_at": "Fri, 23 Oct 2026 19:33:58 +0000",
       "title": "Inside the Pentagon, the pressure is on to find a home for a new spaceport",
@@ -325,10 +296,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/gallery-gallery_ng-2-ascent-2-1152x648.jpg",
-      "popularity_score": 292.38368583333335
+      "popularity_score": 291
     },
     {
-      "id": "cluster_51",
+      "id": "cluster_78",
       "coverage": 1,
       "updated_at": "Fri, 23 Oct 2026 19:20:27 +0000",
       "title": "Spotify ramps up policy enforcement on family plans",
@@ -349,10 +320,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2016/07/spotify-1152x648.png",
-      "popularity_score": 274.1584080555556
+      "popularity_score": 273
     },
     {
-      "id": "cluster_56",
+      "id": "cluster_82",
       "coverage": 1,
       "updated_at": "Fri, 23 Oct 2026 17:32:58 +0000",
       "title": "Crows can evaluate visual info twice as fast as mammals",
@@ -376,7 +347,7 @@
       "popularity_score": 269
     },
     {
-      "id": "cluster_57",
+      "id": "cluster_83",
       "coverage": 1,
       "updated_at": "Fri, 23 Oct 2026 17:18:31 +0000",
       "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
@@ -400,7 +371,7 @@
       "popularity_score": 268
     },
     {
-      "id": "cluster_59",
+      "id": "cluster_85",
       "coverage": 1,
       "updated_at": "Fri, 23 Oct 2026 16:58:39 +0000",
       "title": "RFK Jr.’s vaccine injury clinic could damage NIH hospital, board warns",
@@ -425,7 +396,7 @@
       "popularity_score": 243
     },
     {
-      "id": "cluster_61",
+      "id": "cluster_87",
       "coverage": 1,
       "updated_at": "Fri, 23 Oct 2026 16:35:00 +0000",
       "title": "Everybody panic: A Valve developer said \"HLX\" in public",
@@ -449,7 +420,7 @@
       "popularity_score": 154
     },
     {
-      "id": "cluster_75",
+      "id": "cluster_99",
       "coverage": 1,
       "updated_at": "Fri, 23 Oct 2026 11:30:22 +0000",
       "title": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
@@ -473,31 +444,7 @@
       "popularity_score": 148
     },
     {
-      "id": "cluster_100",
-      "coverage": 1,
-      "updated_at": "Thu, 22 Oct 2026 21:07:09 +0000",
-      "title": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
-      "neutral_headline": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/",
-          "published_at": "Thu, 22 Oct 2026 21:07:09 +0000",
-          "title": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
-          "standfirst": "Comcast plans job cuts and more AI agents for its shrinking cable customer base.",
-          "content": "Comcast reportedly plans significant job cuts in its cable division as the firm continues to lose residential broadband and TV customers. Comcast lost 144,000 residential broadband customers in Q3 2026, up from a 91,000-customer loss in the same quarter a year ago, the company said in its earnings report today. Comcast historically capitalized on a lack of competition for high-speed wired broadband. But now it faces stronger competition from fixed wireless providers and from fiber providers in parts of its cable territory. \"Fixed wireless remains aggressive and continues to take share, while fiber construction remains elevated, with pockets of irrational pricing and promotional activity,\" Comcast co-CEO Mike Cavanagh said today in an earnings call.Read full article Comments",
-          "feed_position": 19,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/getty-comcast-van-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/getty-comcast-van-1152x648.jpg",
-      "popularity_score": 148
-    },
-    {
-      "id": "cluster_79",
+      "id": "cluster_101",
       "coverage": 1,
       "updated_at": "Fri, 23 Oct 2026 11:15:03 +0000",
       "title": "Review: Crystal Lake suffers a bit from its obsession with Pam Voorhees",
@@ -521,7 +468,7 @@
       "popularity_score": 144
     },
     {
-      "id": "cluster_96",
+      "id": "cluster_116",
       "coverage": 1,
       "updated_at": "Thu, 22 Oct 2026 22:25:33 +0000",
       "title": "Switch 2 security takes a hit as hackers unlock homebrew access",
@@ -546,7 +493,7 @@
       "popularity_score": 143
     },
     {
-      "id": "cluster_80",
+      "id": "cluster_102",
       "coverage": 1,
       "updated_at": "Fri, 23 Oct 2026 11:00:57 +0000",
       "title": "Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready",
@@ -570,7 +517,7 @@
       "popularity_score": 141
     },
     {
-      "id": "cluster_60",
+      "id": "cluster_86",
       "coverage": 1,
       "updated_at": "Fri, 23 Oct 2026 16:51:59 +0000",
       "title": "Knicks sent employees fake offer of championship rings in phishing test: Report",
@@ -594,7 +541,7 @@
       "popularity_score": 138
     },
     {
-      "id": "cluster_99",
+      "id": "cluster_118",
       "coverage": 1,
       "updated_at": "Thu, 22 Oct 2026 21:52:31 +0000",
       "title": "Latest estimate for Starship launches required to support a Moon landing? 22.",
@@ -618,7 +565,7 @@
       "popularity_score": 138
     },
     {
-      "id": "cluster_72",
+      "id": "cluster_97",
       "coverage": 1,
       "updated_at": "Fri, 23 Oct 2026 13:43:21 +0000",
       "title": "The reactor meant to showcase nuclear’s comeback keeps hitting problems",
@@ -642,7 +589,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_97",
+      "id": "cluster_117",
       "coverage": 1,
       "updated_at": "Thu, 22 Oct 2026 22:12:19 +0000",
       "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
