@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-24T01:17:20.895Z",
+  "updated_at": "2026-10-24T07:47:18.953Z",
   "clusters": [
     {
-      "id": "cluster_0",
+      "id": "cluster_7",
       "coverage": 4,
       "updated_at": "Fri, 23 Oct 2026 20:30:01 -0400",
       "title": "OpenAI says it built an \"offline world\" from cached web content to train isolated frontier models to browse, search for information, and use web apps (OpenAI)",
@@ -19,7 +19,7 @@
           "title": "OpenAI says it built an \"offline world\" from cached web content to train isolated frontier models to browse, search for information, and use web apps (OpenAI)",
           "standfirst": "OpenAI: OpenAI says it built an &ldquo;offline world&rdquo; from cached web content to train isolated frontier models to browse, search for information, and use web apps &mdash; In order to work with software, AI models need computing environments: digital workspaces where they can write and run code &hellip;",
           "content": "OpenAI: OpenAI says it built an &ldquo;offline world&rdquo; from cached web content to train isolated frontier models to browse, search for information, and use web apps &mdash; In order to work with software, AI models need computing environments: digital workspaces where they can write and run code &hellip;",
-          "feed_position": 0,
+          "feed_position": 5,
           "image_url": "http://www.techmeme.com/261023/i25.jpg"
         },
         {
@@ -57,12 +57,55 @@
           "title": "OpenAI plans to restrict internet access for its frontier models during training until adequate alignment, monitoring, and security safeguards are established (Rachel Metz/Bloomberg)",
           "standfirst": "Rachel Metz / Bloomberg: OpenAI plans to restrict internet access for its frontier models during training until adequate alignment, monitoring, and security safeguards are established &mdash; OpenAI has begun cutting off internet access for its most capable artificial intelligence models during the training process &hellip;",
           "content": "Rachel Metz / Bloomberg: OpenAI plans to restrict internet access for its frontier models during training until adequate alignment, monitoring, and security safeguards are established &mdash; OpenAI has begun cutting off internet access for its most capable artificial intelligence models during the training process &hellip;",
-          "feed_position": 5,
+          "feed_position": 10,
           "image_url": "http://www.techmeme.com/261023/i20.jpg"
         }
       ],
       "featured_image": "http://www.techmeme.com/261023/i25.jpg",
-      "popularity_score": 4019.2111402777778
+      "popularity_score": 4012.711679722222
+    },
+    {
+      "id": "cluster_4",
+      "coverage": 3,
+      "updated_at": "Fri, 23 Oct 2026 23:45:01 -0400",
+      "title": "Google updates its privacy policy to clarify it could use data shared via Personal Intelligence from connected apps, including Gmail and Photos, to target ads (Shimul Sood/Android Authority)",
+      "neutral_headline": "Updated Google privacy policy says your Gmail might be used for advertising",
+      "bullet_summary": [
+        "Reported by TechMeme, Ars Technica, The Verge"
+      ],
+      "items": [
+        {
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/261023/p28#a261023p28",
+          "published_at": "Fri, 23 Oct 2026 23:45:01 -0400",
+          "title": "Google updates its privacy policy to clarify it could use data shared via Personal Intelligence from connected apps, including Gmail and Photos, to target ads (Shimul Sood/Android Authority)",
+          "standfirst": "Shimul Sood / Android Authority: Google updates its privacy policy to clarify it could use data shared via Personal Intelligence from connected apps, including Gmail and Photos, to target ads &mdash; Your inbox has secrets, and Google's ads might want in. &mdash; &bull; &hellip; TL;DR &mdash; Google updated its privacy policy &hellip;",
+          "content": "Shimul Sood / Android Authority: Google updates its privacy policy to clarify it could use data shared via Personal Intelligence from connected apps, including Gmail and Photos, to target ads &mdash; Your inbox has secrets, and Google's ads might want in. &mdash; &bull; &hellip; TL;DR &mdash; Google updated its privacy policy &hellip;",
+          "feed_position": 2,
+          "image_url": "http://www.techmeme.com/261023/i28.jpg"
+        },
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
+          "published_at": "Fri, 23 Oct 2026 20:19:55 +0000",
+          "title": "Updated Google privacy policy says your Gmail might be used for advertising",
+          "standfirst": "Turning on Personal Intelligence gives the company more data for ad targeting.",
+          "content": "Using Google's products and services has always been fundamentally precarious—doing so gives the world's largest advertising company a lot of juicy personal data. Google has long said it won't use the sensitive data from products like Gmail, Drive, and Photos for ad personalization, but a change to the company's privacy policy appears to dismantle that firewall. On October 16, Google issued an update to its privacy policy, spotted by Android Authority. The ad personalization section used to include a clear limit on data from certain apps. \"We don’t show you personalized ads based on your content from Drive, Gmail, or Photos,\" the document said. Now, Google has updated it with the following language. Updated language on when your sensitive data might inform ads. Credit: Google This equivocation opens the door to using data from apps like Gmail and Photos in ads when it's shared with other Google services, and it just so happens Google has a mechanism for doing that, with Personal Intelligence. The company released Personal Intelligence in early 2026, allowing users to hand data from multiple apps to Google AI products. The idea is that the added context from your existing data will lead to better AI answers, but it's also proving to be a privacy minefield.Read full article Comments",
+          "feed_position": 2,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-1152x648.jpg"
+        },
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+          "published_at": "2026-10-23T12:52:55-04:00",
+          "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+          "standfirst": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous [&#8230;]",
+          "content": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous version simply said it wouldn't do that, as of October 16th, Google has added the line, \"unless you choose to make data from these services available to other Google services that support personalized ads.\" That means anyone who has connected their Drive, Gmail, or Google Photos to AI Mode and other Search tools … Read the full story at The Verge.",
+          "feed_position": 8
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/261023/i28.jpg",
+      "popularity_score": 3015.961679722222
     },
     {
       "id": "cluster_72",
@@ -105,10 +148,10 @@
         }
       ],
       "featured_image": "https://www.engadget.com/img/gallery/a-startup-called-warhound-is-genetically-engineering-dogs-for-the-military/l-intro-1792745868.jpg",
-      "popularity_score": 3003.7278069444446
+      "popularity_score": 3000
     },
     {
-      "id": "cluster_5",
+      "id": "cluster_12",
       "coverage": 2,
       "updated_at": "Fri, 23 Oct 2026 17:55:01 -0400",
       "title": "Memo: Helen Chiang, Xbox's first COO, is leaving Microsoft on October 23, just months after the role was created; she spent 21 years at the company (Tom Warren/The Verge)",
@@ -124,7 +167,7 @@
           "title": "Memo: Helen Chiang, Xbox's first COO, is leaving Microsoft on October 23, just months after the role was created; she spent 21 years at the company (Tom Warren/The Verge)",
           "standfirst": "Tom Warren / The Verge: Memo: Helen Chiang, Xbox's first COO, is leaving Microsoft on October 23, just months after the role was created; she spent 21 years at the company &mdash; Helen Chiang is leaving Microsoft after 21 years. &hellip; Xbox is losing its first chief operating officer (COO) after creating the new role just a few months ago.",
           "content": "Tom Warren / The Verge: Memo: Helen Chiang, Xbox's first COO, is leaving Microsoft on October 23, just months after the role was created; she spent 21 years at the company &mdash; Helen Chiang is leaving Microsoft after 21 years. &hellip; Xbox is losing its first chief operating officer (COO) after creating the new role just a few months ago.",
-          "feed_position": 2,
+          "feed_position": 7,
           "image_url": "http://www.techmeme.com/261023/i23.jpg"
         },
         {
@@ -138,40 +181,7 @@
         }
       ],
       "featured_image": "http://www.techmeme.com/261023/i23.jpg",
-      "popularity_score": 2016.6278069444445
-    },
-    {
-      "id": "cluster_10",
-      "coverage": 2,
-      "updated_at": "Fri, 23 Oct 2026 20:19:55 +0000",
-      "title": "Updated Google privacy policy says your Gmail might be used for advertising",
-      "neutral_headline": "Updated Google privacy policy says your Gmail might be used for advertising",
-      "bullet_summary": [
-        "Reported by Ars Technica, The Verge"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
-          "published_at": "Fri, 23 Oct 2026 20:19:55 +0000",
-          "title": "Updated Google privacy policy says your Gmail might be used for advertising",
-          "standfirst": "Turning on Personal Intelligence gives the company more data for ad targeting.",
-          "content": "Using Google's products and services has always been fundamentally precarious—doing so gives the world's largest advertising company a lot of juicy personal data. Google has long said it won't use the sensitive data from products like Gmail, Drive, and Photos for ad personalization, but a change to the company's privacy policy appears to dismantle that firewall. On October 16, Google issued an update to its privacy policy, spotted by Android Authority. The ad personalization section used to include a clear limit on data from certain apps. \"We don’t show you personalized ads based on your content from Drive, Gmail, or Photos,\" the document said. Now, Google has updated it with the following language. Updated language on when your sensitive data might inform ads. Credit: Google This equivocation opens the door to using data from apps like Gmail and Photos in ads when it's shared with other Google services, and it just so happens Google has a mechanism for doing that, with Personal Intelligence. The company released Personal Intelligence in early 2026, allowing users to hand data from multiple apps to Google AI products. The idea is that the added context from your existing data will lead to better AI answers, but it's also proving to be a privacy minefield.Read full article Comments",
-          "feed_position": 2,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-1152x648.jpg"
-        },
-        {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-          "published_at": "2026-10-23T12:52:55-04:00",
-          "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-          "standfirst": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous [&#8230;]",
-          "content": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous version simply said it wouldn't do that, as of October 16th, Google has added the line, \"unless you choose to make data from these services available to other Google services that support personalized ads.\" That means anyone who has connected their Drive, Gmail, or Google Photos to AI Mode and other Search tools … Read the full story at The Verge.",
-          "feed_position": 8
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-1152x648.jpg",
-      "popularity_score": 2015.0428069444445
+      "popularity_score": 2010.128346388889
     },
     {
       "id": "cluster_68",
@@ -204,7 +214,7 @@
         }
       ],
       "featured_image": "https://www.engadget.com/img/gallery/oura-sues-ultrahuman-yet-again-ring-pro/l-intro-1792756423.jpg",
-      "popularity_score": 2004.6983625
+      "popularity_score": 2000
     },
     {
       "id": "cluster_103",
@@ -240,7 +250,7 @@
       "popularity_score": 2000
     },
     {
-      "id": "cluster_3",
+      "id": "cluster_10",
       "coverage": 1,
       "updated_at": "Fri, 23 Oct 2026 22:48:25 +0000",
       "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
@@ -261,10 +271,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/centaur-1002x648.jpg",
-      "popularity_score": 350.51780694444443
+      "popularity_score": 344.0183463888889
     },
     {
-      "id": "cluster_8",
+      "id": "cluster_15",
       "coverage": 1,
       "updated_at": "Fri, 23 Oct 2026 20:28:43 +0000",
       "title": "Hegseth warns prediction market bets warp military judgment, endanger troops",
@@ -285,10 +295,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/polymarket-1152x648.jpg",
-      "popularity_score": 338.1894736111111
+      "popularity_score": 331.69001305555554
     },
     {
-      "id": "cluster_14",
+      "id": "cluster_20",
       "coverage": 1,
       "updated_at": "Fri, 23 Oct 2026 19:33:58 +0000",
       "title": "Inside the Pentagon, the pressure is on to find a home for a new spaceport",
@@ -309,10 +319,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/gallery-gallery_ng-2-ascent-2-1152x648.jpg",
-      "popularity_score": 325.2769736111111
+      "popularity_score": 318.7775130555556
     },
     {
-      "id": "cluster_17",
+      "id": "cluster_23",
       "coverage": 1,
       "updated_at": "Fri, 23 Oct 2026 19:20:27 +0000",
       "title": "Spotify ramps up policy enforcement on family plans",
@@ -333,10 +343,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2016/07/spotify-1152x648.png",
-      "popularity_score": 307.0516958333333
+      "popularity_score": 300.55223527777775
     },
     {
-      "id": "cluster_27",
+      "id": "cluster_32",
       "coverage": 1,
       "updated_at": "Fri, 23 Oct 2026 17:32:58 +0000",
       "title": "Crows can evaluate visual info twice as fast as mammals",
@@ -357,10 +367,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1472974929-1152x648.jpg",
-      "popularity_score": 301.26030694444444
+      "popularity_score": 294.76084638888887
     },
     {
-      "id": "cluster_28",
+      "id": "cluster_33",
       "coverage": 1,
       "updated_at": "Fri, 23 Oct 2026 17:18:31 +0000",
       "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
@@ -381,10 +391,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Intel-fab-interior-1152x648.jpg",
-      "popularity_score": 300.0194736111111
+      "popularity_score": 293.5200130555556
     },
     {
-      "id": "cluster_37",
+      "id": "cluster_39",
       "coverage": 1,
       "updated_at": "Fri, 23 Oct 2026 16:35:00 +0000",
       "title": "Everybody panic: A Valve developer said \"HLX\" in public",
@@ -405,10 +415,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2017/08/024-1152x648-1740609184.jpg",
-      "popularity_score": 275.29419583333333
+      "popularity_score": 268.79473527777776
     },
     {
-      "id": "cluster_32",
+      "id": "cluster_36",
       "coverage": 1,
       "updated_at": "Fri, 23 Oct 2026 16:58:39 +0000",
       "title": "RFK Jr.’s vaccine injury clinic could damage NIH hospital, board warns",
@@ -430,10 +440,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298718210-1152x648.jpg",
-      "popularity_score": 274.6883625
+      "popularity_score": 268.18890194444447
     },
     {
-      "id": "cluster_34",
+      "id": "cluster_37",
       "coverage": 1,
       "updated_at": "Fri, 23 Oct 2026 16:51:59 +0000",
       "title": "Knicks sent employees fake offer of championship rings in phishing test: Report",
@@ -454,7 +464,7 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/james-dolan-knicks-championship-1152x648-1792772606.jpg",
-      "popularity_score": 269.5772513888889
+      "popularity_score": 263.0777908333333
     },
     {
       "id": "cluster_56",
@@ -478,31 +488,7 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Starlink-terminal-in-Ukraine-1152x648.jpg",
-      "popularity_score": 154.21697361111111
-    },
-    {
-      "id": "cluster_60",
-      "coverage": 1,
-      "updated_at": "Fri, 23 Oct 2026 11:15:03 +0000",
-      "title": "Review: Crystal Lake suffers a bit from its obsession with Pam Voorhees",
-      "neutral_headline": "Review: Crystal Lake suffers a bit from its obsession with Pam Voorhees",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/culture/2026/10/review-crystal-lake-suffers-a-bit-from-its-obsession-with-pam-voorhees/",
-          "published_at": "Fri, 23 Oct 2026 11:15:03 +0000",
-          "title": "Review: Crystal Lake suffers a bit from its obsession with Pam Voorhees",
-          "standfirst": "Friday the 13th prequel series based on Jason’s mom drags at first, then hits a vein.",
-          "content": "Peacock series Crystal Lake doesn’t feel like a Friday the 13th movie when you first press play, even though it’s set up to be a prequel to the original film. (This review includes spoilers of the original Friday the 13th movie but avoids major Crystal Lake spoilers.) Instead, Crystal Lake strives to build a drama that’s half homage, half uncharted territory, while giving a long-awaited backstory to Pamela Voorhees. The original villain in the first film, Pam Voorhees, shocked audiences in 1980 by popping up out of nowhere in the midst of a brutal camp counselor killing spree, then confronting the final girl with a Norman Bates-like delivery of the movie’s chilling tagline, “Kill her, mommy,” using the voice of her drowned son, Jason. Betsy Palmer as Pam Voorhees in Friday the 13th. Credit: via Paramount Pictures Linda Cardellini as Pam Voorhees in Crystal Lake. Credit: via Peacock Although the hockey-masked killer, Jason Voorhees, became the horror icon at the center of the franchise, his mom, Pam, continued to fascinate fans, who knew very little about her. Beheaded in the first film after just 13 minutes onscreen, her spirit would occasionally appear in later films, but the original actor, Betsy Palmer, who portrayed Pam refused to return, largely because the character has no depth.Read full article Comments",
-          "feed_position": 12,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Crystal-Lake-via-Peacock-Matt-Infante-1000x648.webp"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Crystal-Lake-via-Peacock-Matt-Infante-1000x648.webp",
-      "popularity_score": 149.96169583333332
+      "popularity_score": 148
     },
     {
       "id": "cluster_87",
@@ -553,28 +539,28 @@
       "popularity_score": 148
     },
     {
-      "id": "cluster_61",
+      "id": "cluster_60",
       "coverage": 1,
-      "updated_at": "Fri, 23 Oct 2026 11:00:57 +0000",
-      "title": "Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready",
-      "neutral_headline": "Rocket Report: SpaceX says no thanks to military launches;...",
+      "updated_at": "Fri, 23 Oct 2026 11:15:03 +0000",
+      "title": "Review: Crystal Lake suffers a bit from its obsession with Pam Voorhees",
+      "neutral_headline": "Review: Crystal Lake suffers a bit from its obsession with Pam Voorhees",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/",
-          "published_at": "Fri, 23 Oct 2026 11:00:57 +0000",
-          "title": "Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready",
-          "standfirst": "\"We believe Canada should be able to reach orbit on its own terms.\"",
-          "content": "Welcome to Edition 9.16 of the Rocket Report! Lots of SpaceX-related news this week including a couple of Thursday shockers. In one story, the company told the US Space Force thanks, but no thanks after being offered three military launch contracts. Then, on the civil space side of things, SpaceX's Starship may required up to 22 refuelings to support a lunar landing, a NASA safety panel said. As always, we welcome reader submissions, and if you don't want to miss an issue, please subscribe using the box below (the form will not appear on AMP-enabled versions of the site). Each report will include information on small-, medium-, and heavy-lift rockets as well as a quick look ahead at the next three launches on the calendar. Miura 5 getting closer to launch. PLD Space says its Miura 5 rocket, due to undertake its inaugural launch next year, is nearing final integration, Aviation Week reports. The rocket is one of three Miura 5s the company has already manufactured, with the other two designed to qualify key system elements, CEO Raúl Torres said in an October 19 program update. PLD Space now targets a first flight of the small-lift vehicle before mid-2027.Read full article Comments",
-          "feed_position": 13,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/reaction-dynamics-1152x648.jpg"
+          "url": "https://arstechnica.com/culture/2026/10/review-crystal-lake-suffers-a-bit-from-its-obsession-with-pam-voorhees/",
+          "published_at": "Fri, 23 Oct 2026 11:15:03 +0000",
+          "title": "Review: Crystal Lake suffers a bit from its obsession with Pam Voorhees",
+          "standfirst": "Friday the 13th prequel series based on Jason’s mom drags at first, then hits a vein.",
+          "content": "Peacock series Crystal Lake doesn’t feel like a Friday the 13th movie when you first press play, even though it’s set up to be a prequel to the original film. (This review includes spoilers of the original Friday the 13th movie but avoids major Crystal Lake spoilers.) Instead, Crystal Lake strives to build a drama that’s half homage, half uncharted territory, while giving a long-awaited backstory to Pamela Voorhees. The original villain in the first film, Pam Voorhees, shocked audiences in 1980 by popping up out of nowhere in the midst of a brutal camp counselor killing spree, then confronting the final girl with a Norman Bates-like delivery of the movie’s chilling tagline, “Kill her, mommy,” using the voice of her drowned son, Jason. Betsy Palmer as Pam Voorhees in Friday the 13th. Credit: via Paramount Pictures Linda Cardellini as Pam Voorhees in Crystal Lake. Credit: via Peacock Although the hockey-masked killer, Jason Voorhees, became the horror icon at the center of the franchise, his mom, Pam, continued to fascinate fans, who knew very little about her. Beheaded in the first film after just 13 minutes onscreen, her spirit would occasionally appear in later films, but the original actor, Betsy Palmer, who portrayed Pam refused to return, largely because the character has no depth.Read full article Comments",
+          "feed_position": 12,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Crystal-Lake-via-Peacock-Matt-Infante-1000x648.webp"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/reaction-dynamics-1152x648.jpg",
-      "popularity_score": 146.72669583333334
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Crystal-Lake-via-Peacock-Matt-Infante-1000x648.webp",
+      "popularity_score": 144
     },
     {
       "id": "cluster_81",
@@ -602,28 +588,28 @@
       "popularity_score": 143
     },
     {
-      "id": "cluster_52",
+      "id": "cluster_61",
       "coverage": 1,
-      "updated_at": "Fri, 23 Oct 2026 13:43:21 +0000",
-      "title": "The reactor meant to showcase nuclear’s comeback keeps hitting problems",
-      "neutral_headline": "The reactor meant to showcase nuclear’s comeback keeps hitting problems",
+      "updated_at": "Fri, 23 Oct 2026 11:00:57 +0000",
+      "title": "Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready",
+      "neutral_headline": "Rocket Report: SpaceX says no thanks to military launches;...",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/",
-          "published_at": "Fri, 23 Oct 2026 13:43:21 +0000",
-          "title": "The reactor meant to showcase nuclear’s comeback keeps hitting problems",
-          "standfirst": "A contractor fell into a reactor cavity and a bundle of fuel rods almost fell over.",
-          "content": "US regulators have issued a warning to a nuclear project critical to Donald Trump’s efforts to revive the industry, after a contractor fell into a reactor cavity and a bundle of fuel rods nearly tipped over during refueling. The US Nuclear Regulatory Commission told Holtec International, a company racing to reopen a shuttered reactor at the Palisades nuclear power plant in Michigan, to address a “chilled work environment” that has made staff hesitant to raise safety concerns without fear of retaliation. The warning has prompted concerns among critics that financial and political pressures to revitalize nuclear power as an answer to booming AI-driven energy demand are increasing risks of accidents.Read full article Comments",
-          "feed_position": 10,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/palisades-nuke-1024x648.jpg"
+          "url": "https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/",
+          "published_at": "Fri, 23 Oct 2026 11:00:57 +0000",
+          "title": "Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready",
+          "standfirst": "\"We believe Canada should be able to reach orbit on its own terms.\"",
+          "content": "Welcome to Edition 9.16 of the Rocket Report! Lots of SpaceX-related news this week including a couple of Thursday shockers. In one story, the company told the US Space Force thanks, but no thanks after being offered three military launch contracts. Then, on the civil space side of things, SpaceX's Starship may required up to 22 refuelings to support a lunar landing, a NASA safety panel said. As always, we welcome reader submissions, and if you don't want to miss an issue, please subscribe using the box below (the form will not appear on AMP-enabled versions of the site). Each report will include information on small-, medium-, and heavy-lift rockets as well as a quick look ahead at the next three launches on the calendar. Miura 5 getting closer to launch. PLD Space says its Miura 5 rocket, due to undertake its inaugural launch next year, is nearing final integration, Aviation Week reports. The rocket is one of three Miura 5s the company has already manufactured, with the other two designed to qualify key system elements, CEO Raúl Torres said in an October 19 program update. PLD Space now targets a first flight of the small-lift vehicle before mid-2027.Read full article Comments",
+          "feed_position": 13,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/reaction-dynamics-1152x648.jpg"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/palisades-nuke-1024x648.jpg",
-      "popularity_score": 141.4333625
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/reaction-dynamics-1152x648.jpg",
+      "popularity_score": 141
     },
     {
       "id": "cluster_84",
@@ -648,6 +634,30 @@
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HS7_82eXsAAa-Hx-1152x648.jpeg",
       "popularity_score": 138
+    },
+    {
+      "id": "cluster_52",
+      "coverage": 1,
+      "updated_at": "Fri, 23 Oct 2026 13:43:21 +0000",
+      "title": "The reactor meant to showcase nuclear’s comeback keeps hitting problems",
+      "neutral_headline": "The reactor meant to showcase nuclear’s comeback keeps hitting problems",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/",
+          "published_at": "Fri, 23 Oct 2026 13:43:21 +0000",
+          "title": "The reactor meant to showcase nuclear’s comeback keeps hitting problems",
+          "standfirst": "A contractor fell into a reactor cavity and a bundle of fuel rods almost fell over.",
+          "content": "US regulators have issued a warning to a nuclear project critical to Donald Trump’s efforts to revive the industry, after a contractor fell into a reactor cavity and a bundle of fuel rods nearly tipped over during refueling. The US Nuclear Regulatory Commission told Holtec International, a company racing to reopen a shuttered reactor at the Palisades nuclear power plant in Michigan, to address a “chilled work environment” that has made staff hesitant to raise safety concerns without fear of retaliation. The warning has prompted concerns among critics that financial and political pressures to revitalize nuclear power as an answer to booming AI-driven energy demand are increasing risks of accidents.Read full article Comments",
+          "feed_position": 10,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/palisades-nuke-1024x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/palisades-nuke-1024x648.jpg",
+      "popularity_score": 134.93390194444444
     },
     {
       "id": "cluster_82",
