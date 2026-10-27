@@ -1,17 +1,17 @@
 {
   "clinical": {
-    "updated_at": "2026-10-26T22:58:05.055Z",
+    "updated_at": "2026-10-27T01:50:30.086Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-10-26T22:58:05.055Z",
+    "updated_at": "2026-10-27T01:50:30.086Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-10-26T22:58:07.053Z",
+    "updated_at": "2026-10-27T01:50:36.497Z",
     "clusters": [
       {
-        "id": "cluster_3",
+        "id": "cluster_5",
         "coverage": 2,
         "updated_at": "Mon, 26 Oct 2026 18:05:16 GMT",
         "title": "NHS consultants to go on two-day strike in England in November",
@@ -45,12 +45,58 @@
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Tue, 27 Oct 2026 00:00:44 GMT",
+        "title": "'What does it say if a woman can't give birth in her own city?'",
+        "neutral_headline": "'What does it say if a woman can't give birth in her own city?'",
+        "bullet_summary": [
+          "Reported by BBC Health"
+        ],
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.co.uk/news/articles/c6z0vp0l5nj8o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Tue, 27 Oct 2026 00:00:44 GMT",
+            "title": "'What does it say if a woman can't give birth in her own city?'",
+            "standfirst": "The Southern Health Trust plans to temporarily transfer inpatient maternity services from Daisy Hill to Craigavon.",
+            "content": "The Southern Health Trust plans to temporarily transfer inpatient maternity services from Daisy Hill to Craigavon.",
+            "feed_position": 13,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eb1/live/167d95f0-d13f-11f1-8d4e-ef1672a07d66.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eb1/live/167d95f0-d13f-11f1-8d4e-ef1672a07d66.jpg"
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Mon, 26 Oct 2026 23:00:14 GMT",
+        "title": "New weather warnings as third storm set to hit Scotland",
+        "neutral_headline": "New weather warnings as third storm set to hit Scotland",
+        "bullet_summary": [
+          "Reported by BBC Science"
+        ],
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 26 Oct 2026 23:00:14 GMT",
+            "title": "New weather warnings as third storm set to hit Scotland",
+            "standfirst": "The country is braced for the third storm in as many days as communities continue to clean up after the weekend.",
+            "content": "The country is braced for the third storm in as many days as communities continue to clean up after the weekend.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aba6/live/8eb52fa0-d14a-11f1-9eb5-811878e0f07d.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aba6/live/8eb52fa0-d14a-11f1-9eb5-811878e0f07d.jpg"
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
         "updated_at": "Mon, 26 Oct 2026 22:43:44 GMT",
         "title": "Storm Boelo leaves 22,000 without power as Met Office issues new wind warning",
         "neutral_headline": "Storm Boelo leaves 22,000 without power as Met Office issues new wind warning",
         "bullet_summary": [
           "Northern Ireland Electricity Networks (NIE) said around 12,500 properties were without power at one stage",
-          "Authorities said they were dealing with flooding and fallen trees as Storm Boelo followed Storm Austen"
+          "Reported by BBC Science"
         ],
         "items": [
           {
@@ -60,7 +106,7 @@
             "title": "Storm Boelo leaves 22,000 without power as Met Office issues new wind warning",
             "standfirst": "A yellow warning for strong winds came in effect at 18:00 on Monday across the west coast of England, Wales and Scotland and eastern parts of Northern Ireland.",
             "content": "A yellow warning for strong winds came in effect at 18:00 on Monday across the west coast of England, Wales and Scotland and eastern parts of Northern Ireland.",
-            "feed_position": 0,
+            "feed_position": 1,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45fe/live/d45701d0-d165-11f1-93e1-3b657b665bcf.jpg"
           },
           {
@@ -70,7 +116,7 @@
             "title": "Storm Boelo clears but more wind and rain bear down on UK",
             "standfirst": "Another area of low pressure will pass close to the north-west UK with a Met Office yellow wind warning issued for Tuesday.",
             "content": "Another area of low pressure will pass close to the north-west UK with a Met Office yellow wind warning issued for Tuesday.",
-            "feed_position": 5,
+            "feed_position": 6,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f03a/live/f0799ce0-d07c-11f1-a4ba-351760cfea6a.jpg"
           },
           {
@@ -80,7 +126,7 @@
             "title": "Two men killed by falling trees as Storm Boelo leaves 90,000 properties without power",
             "standfirst": "An amber wind warning has now expired after severe weather sweeps across the UK.",
             "content": "An amber wind warning has now expired after severe weather sweeps across the UK.",
-            "feed_position": 6,
+            "feed_position": 7,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e48f/live/1f535ba0-d10e-11f1-a701-fddedf244c16.jpg"
           },
           {
@@ -90,7 +136,7 @@
             "title": "Majority of homes in NI have power restored after Storm Boelo",
             "standfirst": "Northern Ireland Electricity Networks (NIE) said around 12,500 properties were without power at one stage.",
             "content": "Northern Ireland Electricity Networks (NIE) said around 12,500 properties were without power at one stage.",
-            "feed_position": 8,
+            "feed_position": 9,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e43/live/38d73e10-d074-11f1-afcb-6b9b9432d8fc.jpg"
           },
           {
@@ -100,7 +146,7 @@
             "title": "In pictures: Storm Boelo leaves a trail of destruction across Scotland",
             "standfirst": "The severe weather brought strong winds and heavy rain to large parts of Scotland.",
             "content": "The severe weather brought strong winds and heavy rain to large parts of Scotland.",
-            "feed_position": 9,
+            "feed_position": 10,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7ec/live/12a2d690-d0ac-11f1-b441-2b33b063138f.jpg"
           },
           {
@@ -110,7 +156,7 @@
             "title": "Man killed by falling tree as Storm Boelo batters Scotland",
             "standfirst": "The 60-year-old man was struck by the tree near Castle Douglas as Storm Boelo brought strong winds and heavy rain to Scotland.",
             "content": "The 60-year-old man was struck by the tree near Castle Douglas as Storm Boelo brought strong winds and heavy rain to Scotland.",
-            "feed_position": 10,
+            "feed_position": 11,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a290/live/f2b0ec40-d09d-11f1-aeb2-977af36708cb.jpg"
           },
           {
@@ -120,24 +166,14 @@
             "title": "The aftermath of Storm Boelo across Scotland",
             "standfirst": "Flooding, travel disruption and fallen trees - Storm Boelo has left it's mark across Scotland.",
             "content": "Flooding, travel disruption and fallen trees - Storm Boelo has left it's mark across Scotland.",
-            "feed_position": 11,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd62/live/a13d2c60-d0a8-11f1-93e1-3b657b665bcf.jpg"
-          },
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/news/articles/c6n9rzde1n80o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Sun, 25 Oct 2026 18:50:09 GMT",
-            "title": "Travel disruption and power cuts after back-to-back storms",
-            "standfirst": "Authorities said they were dealing with flooding and fallen trees as Storm Boelo followed Storm Austen.",
-            "content": "Authorities said they were dealing with flooding and fallen trees as Storm Boelo followed Storm Austen.",
             "feed_position": 12,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c08/live/5c830e00-d080-11f1-a4ba-351760cfea6a.jpg"
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd62/live/a13d2c60-d0a8-11f1-93e1-3b657b665bcf.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45fe/live/d45701d0-d165-11f1-93e1-3b657b665bcf.jpg"
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Mon, 26 Oct 2026 18:09:49 GMT",
         "title": "Political battle intensifies within Labour over Rosebank oil field",
@@ -153,14 +189,14 @@
             "title": "Political battle intensifies within Labour over Rosebank oil field",
             "standfirst": "Scottish Labour leader Michael Marra is urging the energy secretary to approve the controversial plans.",
             "content": "Scottish Labour leader Michael Marra is urging the energy secretary to approve the controversial plans.",
-            "feed_position": 1,
+            "feed_position": 2,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2643/live/6503a5b0-cd58-11f1-bc2e-018d645d8d21.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2643/live/6503a5b0-cd58-11f1-bc2e-018d645d8d21.jpg"
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Mon, 26 Oct 2026 18:09:39 GMT",
         "title": "'Safety first' as wedding guests stranded on island after Storm Boelo",
@@ -176,14 +212,14 @@
             "title": "'Safety first' as wedding guests stranded on island after Storm Boelo",
             "standfirst": "Wedding guests at an island in County Fermanagh were left stranded due to the storm.",
             "content": "Wedding guests at an island in County Fermanagh were left stranded due to the storm.",
-            "feed_position": 2,
+            "feed_position": 3,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fbf/live/c9d30170-d14a-11f1-9eb5-811878e0f07d.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fbf/live/c9d30170-d14a-11f1-9eb5-811878e0f07d.jpg"
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Mon, 26 Oct 2026 17:47:22 GMT",
         "title": "Thawed chicken to non-stick pans, we answered your food and kitchen safety questions",
@@ -204,7 +240,7 @@
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Mon, 26 Oct 2026 17:39:24 GMT",
         "title": "Bigger does not always mean better in hospital care | Letter",
@@ -225,7 +261,7 @@
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Mon, 26 Oct 2026 15:15:20 GMT",
         "title": "Exercise helps woman recover from partying life",
@@ -248,7 +284,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a0e/live/fe4404f0-cbd1-11f1-aba9-2bb2608f11d9.jpg"
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Mon, 26 Oct 2026 14:54:40 GMT",
         "title": "Part of Antarctica named after former BBC science correspondent",
@@ -264,14 +300,14 @@
             "title": "Part of Antarctica named after former BBC science correspondent",
             "standfirst": "A stretch of water in the west of the continent is now called the Amos Channel after the ex-BBC journalist.",
             "content": "A stretch of water in the west of the continent is now called the Amos Channel after the ex-BBC journalist.",
-            "feed_position": 3,
+            "feed_position": 4,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85dc/live/45574340-ce23-11f1-9f18-490cec60aa0f.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85dc/live/45574340-ce23-11f1-9f18-490cec60aa0f.jpg"
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Mon, 26 Oct 2026 11:27:39 GMT",
         "title": "Stunning photos capture October's Hunter's Moon around the world",
@@ -287,14 +323,14 @@
             "title": "Stunning photos capture October's Hunter's Moon around the world",
             "standfirst": "October's full Moon, nicknamed the Hunter's Moon, lit up the night sky this weekend.",
             "content": "October's full Moon, nicknamed the Hunter's Moon, lit up the night sky this weekend.",
-            "feed_position": 4,
+            "feed_position": 5,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f993/live/5a4ff260-d125-11f1-9a61-7b8d75492b97.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f993/live/5a4ff260-d125-11f1-9a61-7b8d75492b97.jpg"
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Mon, 26 Oct 2026 11:01:59 GMT",
         "title": "What do we still need to know about the Tyne nurdle spill?",
@@ -317,7 +353,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64fe/live/fb55c910-868d-11f1-a8a9-6d36c8f2857e.jpg"
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Mon, 26 Oct 2026 11:00:41 GMT",
         "title": "The pet I’ll never forget: Clement was hit by a car and left to die in a ditch – then found his beautiful purpose",
@@ -339,7 +375,7 @@
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Mon, 26 Oct 2026 10:57:49 GMT",
         "title": "On frontline at hospital denying online claims it is 'dangerous' and 'dreadful'",
@@ -355,14 +391,14 @@
             "title": "On frontline at hospital denying online claims it is 'dangerous' and 'dreadful'",
             "standfirst": "Grange University Hospital has faced criticism over long delays, overcrowding and staff shortages.",
             "content": "Grange University Hospital has faced criticism over long delays, overcrowding and staff shortages.",
-            "feed_position": 13,
+            "feed_position": 14,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ad8/live/3f1d5cb0-d14a-11f1-93e1-3b657b665bcf.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ad8/live/3f1d5cb0-d14a-11f1-93e1-3b657b665bcf.jpg"
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Mon, 26 Oct 2026 10:29:40 GMT",
         "title": "'We're very busy' - Inside Wales' newest hospital",
@@ -378,14 +414,14 @@
             "title": "'We're very busy' - Inside Wales' newest hospital",
             "standfirst": "BBC Wales correspondent Owain Clarke visited the Grange Hospital following concerns about its safety.",
             "content": "BBC Wales correspondent Owain Clarke visited the Grange Hospital following concerns about its safety.",
-            "feed_position": 14,
+            "feed_position": 15,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/838c/live/ffc540f0-cef6-11f1-93e1-3b657b665bcf.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/838c/live/ffc540f0-cef6-11f1-93e1-3b657b665bcf.jpg"
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Mon, 26 Oct 2026 10:29:34 GMT",
         "title": "Can you tell ferritin levels from your face?",
@@ -408,7 +444,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/effc/live/07d109b0-ce33-11f1-9a39-31b474234113.jpg"
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Mon, 26 Oct 2026 06:33:07 GMT",
         "title": "Plans to create a wildflower meadow take shape",
@@ -431,7 +467,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c405/live/699a5480-d07c-11f1-a4ba-351760cfea6a.jpg"
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Mon, 26 Oct 2026 06:18:37 GMT",
         "title": "Weary driver creates AI 'litter-tracking dashcam'",
@@ -454,7 +490,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2807/live/3568ade0-cef8-11f1-accf-3309656ad0bb.png"
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Mon, 26 Oct 2026 06:09:56 GMT",
         "title": "The dump detectives on the trail of the fly-tippers",
@@ -477,7 +513,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5faa/live/0c30cb10-ce17-11f1-bbba-c577fd901ff7.png"
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Mon, 26 Oct 2026 06:03:12 GMT",
         "title": "Fire-hit nature reserve 'will never be the same'",
@@ -498,57 +534,11 @@
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b53f/live/03d53ed0-d103-11f1-8682-97cb7b6dc42a.jpg"
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Mon, 26 Oct 2026 01:43:55 GMT",
-        "title": "Is 'ferritin face' a real thing - and can you really spot low iron from looks?",
-        "neutral_headline": "Is 'ferritin face' a real thing - and can you really spot low iron from looks",
-        "bullet_summary": [
-          "Reported by BBC Health"
-        ],
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.co.uk/news/articles/cmlykvpdx4x0o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Mon, 26 Oct 2026 01:43:55 GMT",
-            "title": "Is 'ferritin face' a real thing - and can you really spot low iron from looks?",
-            "standfirst": "Videos in which people claim to spot the signs of low iron have attracted millions of views online.",
-            "content": "Videos in which people claim to spot the signs of low iron have attracted millions of views online.",
-            "feed_position": 2,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c425/live/edea3700-cedd-11f1-b441-2b33b063138f.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c425/live/edea3700-cedd-11f1-b441-2b33b063138f.jpg"
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Mon, 26 Oct 2026 00:13:09 GMT",
-        "title": "From agriculture to AI-griculture: How tech is changing farming",
-        "neutral_headline": "From agriculture to AI-griculture: How tech is changing farming",
-        "bullet_summary": [
-          "Reported by BBC Science"
-        ],
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/news/articles/cw80zk9k51j1o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Mon, 26 Oct 2026 00:13:09 GMT",
-            "title": "From agriculture to AI-griculture: How tech is changing farming",
-            "standfirst": "From remote monitoring of cattle to automation of processes that took up valuable time, farmers in NI are rapidly becoming skilled in technology.",
-            "content": "From remote monitoring of cattle to automation of processes that took up valuable time, farmers in NI are rapidly becoming skilled in technology.",
-            "feed_position": 7,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34b7/live/93f2a830-cefc-11f1-accf-3309656ad0bb.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34b7/live/93f2a830-cefc-11f1-accf-3309656ad0bb.jpg"
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-10-26T22:58:07.053Z",
+    "updated_at": "2026-10-27T01:50:36.497Z",
     "clusters": []
   }
 }
