@@ -1,8 +1,51 @@
 {
-  "updated_at": "2026-10-27T22:47:17.334Z",
+  "updated_at": "2026-10-28T01:56:43.036Z",
   "clusters": [
     {
-      "id": "cluster_57",
+      "id": "cluster_11",
+      "coverage": 3,
+      "updated_at": "Tue, 27 Oct 2026 23:04:49 +0000",
+      "title": "Discord public server messages may be soon searchable on Google, but you can opt out",
+      "neutral_headline": "Discord public server messages may be soon searchable on Google, but you can opt out",
+      "bullet_summary": [
+        "Reported by Engadget, TechMeme, TechCrunch"
+      ],
+      "items": [
+        {
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2299126/discord-server-messages-google-searchable-opt-out/",
+          "published_at": "Tue, 27 Oct 2026 23:04:49 +0000",
+          "title": "Discord public server messages may be soon searchable on Google, but you can opt out",
+          "standfirst": "The platform's Discoverable Servers are about to get a lot more discoverable.",
+          "content": "The platform's Discoverable Servers are about to get a lot more discoverable.",
+          "feed_position": 2,
+          "image_url": "https://www.engadget.com/img/gallery/discord-public-server-messages-may-be-soon-searchable-on-google-but-you-can-opt-out/l-intro-1793141144.jpg"
+        },
+        {
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/261027/p32#a261027p32",
+          "published_at": "Tue, 27 Oct 2026 18:10:01 -0400",
+          "title": "Discord says it will let public-channel messages from servers listed in Server Discovery appear in web search from mid-December; admins and members can opt out (Lauren Forristal/TechCrunch)",
+          "standfirst": "Lauren Forristal / TechCrunch: Discord says it will let public-channel messages from servers listed in Server Discovery appear in web search from mid-December; admins and members can opt out &mdash; Discord announced on Tuesday it will make some conversations in its public servers searchable and easier to find on the internet.",
+          "content": "Lauren Forristal / TechCrunch: Discord says it will let public-channel messages from servers listed in Server Discovery appear in web search from mid-December; admins and members can opt out &mdash; Discord announced on Tuesday it will make some conversations in its public servers searchable and easier to find on the internet.",
+          "feed_position": 9,
+          "image_url": "http://www.techmeme.com/261027/i32.jpg"
+        },
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/27/discord-is-making-its-public-communities-more-searchable-and-people-have-concerns/",
+          "published_at": "Tue, 27 Oct 2026 21:22:35 +0000",
+          "title": "Discord is making its public communities more searchable, and people have concerns",
+          "standfirst": "In December, messages from Discord's public discoverable servers will begin appearing in search engine results.",
+          "content": "In December, messages from Discord's public discoverable servers will begin appearing in search engine results.",
+          "feed_position": 8
+        }
+      ],
+      "featured_image": "https://www.engadget.com/img/gallery/discord-public-server-messages-may-be-soon-searchable-on-google-but-you-can-opt-out/l-intro-1793141144.jpg",
+      "popularity_score": 3017.13499
+    },
+    {
+      "id": "cluster_68",
       "coverage": 2,
       "updated_at": "Tue, 27 Oct 2026 16:30:57 +0000",
       "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
@@ -18,7 +61,7 @@
           "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
           "standfirst": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
           "content": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
-          "feed_position": 9
+          "feed_position": 12
         },
         {
           "source": "Ars Technica",
@@ -27,59 +70,25 @@
           "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
           "standfirst": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon.",
           "content": "Last year, Google DeepMind sent gaming stocks tumbling with the reveal of its Genie 3 world model. Since then, world models have become a major focus of AI labs around the world, but Google isn't resting on its laurels. Researchers have been hard at work on an updated model that improves on Genie 3 in almost every way. And if you pay Google enough money, you might actually get to use Genie 4 before too long. It's easy to look at the output of Genie 4 and see a video game, which is why Genie 3 caused so much consternation in the gaming industry. DeepMind doesn't think about it that way, though. According to Google, world models are a key element in the march toward artificial general intelligence (AGI). A world model creates a virtual world, but it doesn't require pre-rendering environments or programming interactive elements. You simply tell the model what you want, and it generates the experience frame by frame in real time as you explore it. DeepMind says this technology could create infinite training environments for physical robots or unlock new avenues of rapid prototyping for creative fields. Of course, that requires the model to accurately simulate what you want. Genie 4 has several improvements that make its simulations more useful, and that's thanks in part to Google's updated Gemini models.Read full article Comments",
-          "feed_position": 5,
+          "feed_position": 10,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/vlcsnap-2026-10-27-10h06m52s461-1152x648.png"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/vlcsnap-2026-10-27-10h06m52s461-1152x648.png",
-      "popularity_score": 2013.727685
+      "popularity_score": 2010.5705455555556
     },
     {
-      "id": "cluster_64",
-      "coverage": 2,
-      "updated_at": "Tue, 27 Oct 2026 12:10:01 -0400",
-      "title": "Google launches Genie 4, a world model powered by Gemini 3.8 Flash designed to generate interactive AI simulations, initially as a preview to trusted testers (Jay Peters/The Verge)",
-      "neutral_headline": "Google’s next Genie AI model generates more realistic experiences",
-      "bullet_summary": [
-        "Google announced today its Genie 4 world model for generating interactive experiences using AI",
-        "Reported by TechMeme, The Verge"
-      ],
-      "items": [
-        {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/261027/p23#a261027p23",
-          "published_at": "Tue, 27 Oct 2026 12:10:01 -0400",
-          "title": "Google launches Genie 4, a world model powered by Gemini 3.8 Flash designed to generate interactive AI simulations, initially as a preview to trusted testers (Jay Peters/The Verge)",
-          "standfirst": "Jay Peters / The Verge: Google launches Genie 4, a world model powered by Gemini 3.8 Flash designed to generate interactive AI simulations, initially as a preview to trusted testers &mdash; The Genie 4 world model offers more realism and can create audio to accompany its interactive worlds.",
-          "content": "Jay Peters / The Verge: Google launches Genie 4, a world model powered by Gemini 3.8 Flash designed to generate interactive AI simulations, initially as a preview to trusted testers &mdash; The Genie 4 world model offers more realism and can create audio to accompany its interactive worlds.",
-          "feed_position": 11,
-          "image_url": "http://www.techmeme.com/261027/i23.jpg"
-        },
-        {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
-          "published_at": "2026-10-27T12:00:00-04:00",
-          "title": "Google’s next Genie AI model generates more realistic experiences",
-          "standfirst": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood to help [&#8230;]",
-          "content": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood to help with its simulations. It also can create experiences that are about two minutes long, up from one minute for the previous Genie 3 model. Google is pitching Genie 4 as a tool that could be helpful for things like pre-visualization for filmmakers, prototyping game ideas, and making training scenarios for robots. But the … Read the full story at The Verge.",
-          "feed_position": 9
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/261027/i23.jpg",
-      "popularity_score": 2013.3787961111111
-    },
-    {
-      "id": "cluster_0",
+      "id": "cluster_15",
       "coverage": 1,
       "updated_at": "Tue, 27 Oct 2026 22:37:30 +0000",
       "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
       "neutral_headline": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
       "bullet_summary": [
-        "Reported by Ars Technica Main"
+        "Reported by Ars Technica"
       ],
       "items": [
         {
-          "source": "Ars Technica Main",
+          "source": "Ars Technica",
           "url": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
           "published_at": "Tue, 27 Oct 2026 22:37:30 +0000",
           "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
@@ -90,10 +99,106 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/M6-iMac-1152x648.jpg",
-      "popularity_score": 370.8368516666667
+      "popularity_score": 367.67971222222224
+    },
+    {
+      "id": "cluster_19",
+      "coverage": 1,
+      "updated_at": "Tue, 27 Oct 2026 22:22:32 +0000",
+      "title": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
+      "neutral_headline": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/",
+          "published_at": "Tue, 27 Oct 2026 22:22:32 +0000",
+          "title": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
+          "standfirst": "International travel used to be the main risk of measles cases in the US—not anymore.",
+          "content": "Since measles was declared eliminated in the US in 2000, the country's occasional cases have come mainly from international travelers—visitors from far-flung places where the virus still spreads freely — or unvaccinated US residents who return from abroad with a highly infectious souvenir. But as vaccination rates have slipped nationwide in recent years and outbreaks grow bigger and more frequent, domestic travel now poses a greater risk than international incursions. In a study published this week in NEJM Evidence, Washington state health officials highlight that risk, detailing how an explosive outbreak in South Carolina reached their distant state through five distinct importation events over two weeks in January. In all, the introductions led to 26 cases among residents before officials stamped out the spread. South Carolina's measles outbreak began on October 2, 2025, and was declared over on April 26, 2026. Officials confirmed 997 cases in the state during the outbreak. At the time, it was the largest measles outbreak recorded since the virus was declared eliminated, but Pennsylvania's ongoing outbreak has since surpassed it.Read full article Comments",
+          "feed_position": 1,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-930111236-1152x648.jpeg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-930111236-1152x648.jpeg",
+      "popularity_score": 339.4302677777778
+    },
+    {
+      "id": "cluster_22",
+      "coverage": 1,
+      "updated_at": "Tue, 27 Oct 2026 22:04:50 +0000",
+      "title": "China's top-secret spaceplane can't hide in low-Earth orbit",
+      "neutral_headline": "China's top-secret spaceplane can't hide in low-Earth orbit",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/",
+          "published_at": "Tue, 27 Oct 2026 22:04:50 +0000",
+          "title": "China's top-secret spaceplane can't hide in low-Earth orbit",
+          "standfirst": "The DIA's threat assessment suggests China may soon place directed energy weapons in space.",
+          "content": "A winged Chinese spacecraft bearing a strong resemblance to the US military's X-37B spaceplane was photographed in orbit by a passing US-owned commercial satellite in 2024, and we finally have the image. The Chinese spaceplane has delta wings, payload bay doors, a dark heat shield, and a rear-mounted service module with power-generating solar arrays. In other words, the design of the winged ship is, to a great degree, a copy of the X-37B spaceplane flown by the US Space Force. The photo was taken by a commercial imaging satellite owned by a company called Vantor, known as Maxar in 2024. Vantor is one of several companies that provide reconnaissance imagery of locations around the world to the US military and US intelligence agencies. The same Earth-imaging satellites can point their telescopes at objects in space.Read full article Comments",
+          "feed_position": 2,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/shenlong_maxar-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/shenlong_maxar-1152x648.jpg",
+      "popularity_score": 337.13526777777776
+    },
+    {
+      "id": "cluster_24",
+      "coverage": 1,
+      "updated_at": "Tue, 27 Oct 2026 21:50:04 +0000",
+      "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+      "neutral_headline": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+          "published_at": "Tue, 27 Oct 2026 21:50:04 +0000",
+          "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+          "standfirst": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
+          "content": "A Delaware proposal to let companies be operated by AI agents would help the firms' human owners evade legal responsibility for reckless and harmful actions taken by the AI, US Rep. James Comer (R-Ky.) told Delaware Governor Matt Meyer in a letter yesterday. Comer, chairman of the House Committee on Oversight and Government Reform, told Meyer that the committee \"seeks assistance obtaining documents related to your state administration’s efforts to establish a new form of corporate entity to be known as an Artificial Intelligence Company (AIC).\" Comer said the proposal is ripe for abuse. \"We are concerned that Delaware’s AIC proposal could be used to protect powerful AI companies and their investors from responsibility for reckless harmful actions, while also protecting non-transparent forces seeking anticompetitive regulatory capture behind state AI initiatives,\" Comer's letter said.Read full article Comments",
+          "feed_position": 3,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-1152x648.jpg",
+      "popularity_score": 333.8891566666667
     },
     {
       "id": "cluster_30",
+      "coverage": 1,
+      "updated_at": "Tue, 27 Oct 2026 21:31:14 +0000",
+      "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+      "neutral_headline": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+          "published_at": "Tue, 27 Oct 2026 21:31:14 +0000",
+          "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+          "standfirst": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome.",
+          "content": "The Securities and Exchange Commission's publication on Monday of Anthropic's S-1 form—ahead of a heavily anticipated initial public offering—has led to plenty of discussion of whether the company's quickly ballooning revenues will be able to overcome its even higher costs. But amid the numbers and forward-looking optimism about AI \"rapidly transform[ing] every sector of the global economy in ways greater than the impact of industrialization, electricity, semiconductors, and the internet,\" Anthropic also spends an inordinate amount of time in its S-1 laying out the myriad risk factors that could bring the company down. Across 93 pages and over 70,000 words, Anthropic's S-1 \"Risk Factors\" section discusses literally hundreds of potential problems that could negatively impact its business in the coming years. Many of these potential risks are the kind of standard worries about competition, costs, customer acquisition, and potential regulation that almost any business must worry about. But some risks highlight interesting potential points of failure for Anthropic specifically and the hype-filled AI bubble more generally. After wading through Anthropic's book-length treatise on its greatest risks, we've narrowed the list to the seven most surprising, interesting, or thought-provoking potential problems. Consider this a far-from-comprehensive look that potential Anthropic investors should keep in mind.Read full article Comments",
+          "feed_position": 4,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/anthropic-crystal-ball-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/anthropic-crystal-ball-1152x648.jpg",
+      "popularity_score": 323.57526777777775
+    },
+    {
+      "id": "cluster_43",
       "coverage": 1,
       "updated_at": "Tue, 27 Oct 2026 19:32:07 +0000",
       "title": "Google begins certifying Registered App Stores for Android, but not in the US",
@@ -109,19 +214,19 @@
           "title": "Google begins certifying Registered App Stores for Android, but not in the US",
           "standfirst": "Easier app installs are coming to third-party stores, pending Google's stamp of approval.",
           "content": "Running an app ecosystem has gotten a lot more complex for Google after its loss in the Epic Games antitrust case. While US users can access app stores in Google Play by court order, international users will use Google's voluntary Registered App Stores program. Google has announced that stores wishing to be part of that program are now free to apply, and support will roll out to some Android devices later this year. App stores accepted into the program will enjoy preferential treatment on the Android platform. Users of approved stores will be able to install apps with a single click, similar to the experience in the Play Store. These stores will also be allowed to update apps silently in the background like Google's store does. \"In March, we announced the Registered App Stores program to give third-party app stores a more streamlined way to reach users while maintaining the safety and security of the Android ecosystem,\" said a Google spokesperson. \"Eligible app stores outside the US can now apply to register their stores ahead of the new simplified installation experience rolling out to users later this year.\"Read full article Comments",
-          "feed_position": 1,
+          "feed_position": 6,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-floating-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-floating-1152x648.jpg",
-      "popularity_score": 351.74712944444445
+      "popularity_score": 298.58999
     },
     {
-      "id": "cluster_24",
+      "id": "cluster_37",
       "coverage": 1,
       "updated_at": "Tue, 27 Oct 2026 20:25:55 +0000",
-      "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
-      "neutral_headline": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
+      "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+      "neutral_headline": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
@@ -130,90 +235,18 @@
           "source": "Ars Technica",
           "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
           "published_at": "Tue, 27 Oct 2026 20:25:55 +0000",
-          "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
+          "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
           "standfirst": "Critical flaw in EDK2 allows attackers to execute code early in the boot process.",
           "content": "Defenders across the world face the burden of responding to yet another botched code-execution vulnerability, this time in boot-time firmware used by most of the world’s server vendors and data centers. The vulnerability, with a severity rating of 9.5 out of 10, resides in the TianoCore EDK II, an open source codebase that hardware makers and cloud providers use to create the UEFI firmware that runs during the boot-up sequence. Last year, a representative of the UEFI Forum called EDK2 the \"preeminent solution / implementation of the UEFI specifications.\" Virtually all UEFI suppliers (sometimes still called IBVs or independent BIOS vendors), including AMI, Insyde, and Phoenix, use the reference code extensively. Project Mu, Microsoft's hardened EDK2 fork, used the code containing the vulnerable component as well. The vulnerability, tracked as CVE-2026-97631, is a memory-corruption flaw in an ICMP component that attackers can exploit to execute malicious code that runs before the operating system and firmware can implement defenses like Secure Boot, which establishes a chain of trust for all code, including the Trusted Platform Module (TPM), loaded during boot. While final payloads delivered by CVE-2026-97631 have no persistence—meaning they run only once—they can give attackers a wide opening to install other payloads that also run each time early in the boot process.Read full article Comments",
-          "feed_position": 0,
+          "feed_position": 5,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/malware.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/malware.jpg",
-      "popularity_score": 350.6437961111111
+      "popularity_score": 297.48665666666665
     },
     {
-      "id": "cluster_4",
-      "coverage": 1,
-      "updated_at": "Tue, 27 Oct 2026 22:22:32 +0000",
-      "title": "South Carolina&#039;s measles outbreak jumped to Washington state 5 times in 2 weeks",
-      "neutral_headline": "South Carolina&#039;s measles outbreak jumped to Washington state 5 times in 2 weeks",
-      "bullet_summary": [
-        "Reported by Ars Technica Main"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica Main",
-          "url": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/",
-          "published_at": "Tue, 27 Oct 2026 22:22:32 +0000",
-          "title": "South Carolina&#039;s measles outbreak jumped to Washington state 5 times in 2 weeks",
-          "standfirst": "International travel used to be the main risk of measles cases in the US—not anymore.",
-          "content": "Since measles was declared eliminated in the US in 2000, the country's occasional cases have come mainly from international travelers—visitors from far-flung places where the virus still spreads freely — or unvaccinated US residents who return from abroad with a highly infectious souvenir. But as vaccination rates have slipped nationwide in recent years and outbreaks grow bigger and more frequent, domestic travel now poses a greater risk than international incursions. In a study published this week in NEJM Evidence, Washington state health officials highlight that risk, detailing how an explosive outbreak in South Carolina reached their distant state through five distinct importation events over two weeks in January. In all, the introductions led to 26 cases among residents before officials stamped out the spread. South Carolina's measles outbreak began on October 2, 2025, and was declared over on April 26, 2026. Officials confirmed 997 cases in the state during the outbreak. At the time, it was the largest measles outbreak recorded since the virus was declared eliminated, but Pennsylvania's ongoing outbreak has since surpassed it.Read full article Comments",
-          "feed_position": 1,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-930111236-1152x648.jpeg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-930111236-1152x648.jpeg",
-      "popularity_score": 342.5874072222222
-    },
-    {
-      "id": "cluster_8",
-      "coverage": 1,
-      "updated_at": "Tue, 27 Oct 2026 22:04:50 +0000",
-      "title": "China&#039;s top-secret spaceplane can&#039;t hide in low-Earth orbit",
-      "neutral_headline": "China&#039;s top-secret spaceplane can&#039;t hide in low-Earth orbit",
-      "bullet_summary": [
-        "Reported by Ars Technica Main"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica Main",
-          "url": "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/",
-          "published_at": "Tue, 27 Oct 2026 22:04:50 +0000",
-          "title": "China&#039;s top-secret spaceplane can&#039;t hide in low-Earth orbit",
-          "standfirst": "The DIA's threat assessment suggests China may soon place directed energy weapons in space.",
-          "content": "A winged Chinese spacecraft bearing a strong resemblance to the US military's X-37B spaceplane was photographed in orbit by a passing US-owned commercial satellite in 2024, and we finally have the image. The Chinese spaceplane has delta wings, payload bay doors, a dark heat shield, and a rear-mounted service module with power-generating solar arrays. In other words, the design of the winged ship is, to a great degree, a copy of the X-37B spaceplane flown by the US Space Force. The photo was taken by a commercial imaging satellite owned by a company called Vantor, known as Maxar in 2024. Vantor is one of several companies that provide reconnaissance imagery of locations around the world to the US military and US intelligence agencies. The same Earth-imaging satellites can point their telescopes at objects in space.Read full article Comments",
-          "feed_position": 2,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/shenlong_maxar-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/shenlong_maxar-1152x648.jpg",
-      "popularity_score": 340.2924072222222
-    },
-    {
-      "id": "cluster_10",
-      "coverage": 1,
-      "updated_at": "Tue, 27 Oct 2026 21:50:04 +0000",
-      "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
-      "neutral_headline": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
-      "bullet_summary": [
-        "Reported by Ars Technica Main"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica Main",
-          "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
-          "published_at": "Tue, 27 Oct 2026 21:50:04 +0000",
-          "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
-          "standfirst": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
-          "content": "A Delaware proposal to let companies be operated by AI agents would help the firms' human owners evade legal responsibility for reckless and harmful actions taken by the AI, US Rep. James Comer (R-Ky.) told Delaware Governor Matt Meyer in a letter yesterday. Comer, chairman of the House Committee on Oversight and Government Reform, told Meyer that the committee \"seeks assistance obtaining documents related to your state administration’s efforts to establish a new form of corporate entity to be known as an Artificial Intelligence Company (AIC).\" Comer said the proposal is ripe for abuse. \"We are concerned that Delaware’s AIC proposal could be used to protect powerful AI companies and their investors from responsibility for reckless harmful actions, while also protecting non-transparent forces seeking anticompetitive regulatory capture behind state AI initiatives,\" Comer's letter said.Read full article Comments",
-          "feed_position": 3,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-1152x648.jpg",
-      "popularity_score": 337.04629611111113
-    },
-    {
-      "id": "cluster_43",
+      "id": "cluster_55",
       "coverage": 1,
       "updated_at": "Tue, 27 Oct 2026 18:05:55 +0000",
       "title": "Warner Bros. drops final trailer for Dune: Part Three",
@@ -229,15 +262,15 @@
           "title": "Warner Bros. drops final trailer for Dune: Part Three",
           "standfirst": "\"After years of combat, I've become the oppressor Chani had sworn to fight.\"",
           "content": "The end of the year is fast approaching and with it, the pre-Christmas release of Dune: Part Three, the final installment in Denis Villeneuve's acclaimed adaptation of sci-fi author Frank Herbert's novel(s). Warner Bros. gave us a broody and haunting extended teaser in March and a July trailer jam-packed with tantalizing hints of what to expect, along with plenty of Easter eggs to delight avid book fans. Now we've got one last action-packed trailer setting up the final act for iconic anti-hero Paul Atreides (Timothée Chalamet). (Spoilers for first two films in the franchise below.) Previously, 2021’s Dune culminated in the brutal defeat of House Atreides by rival House Harkonnen, with Paul and his mother, Lady Jessica (Rebecca Ferguson), fleeing to the desert and taking refuge among the Fremen. Among them is Chani (Zendaya), whom Paul has been seeing in visions all along.Read full article Comments",
-          "feed_position": 3,
+          "feed_position": 8,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/dune1-1152x648-1793122985.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/dune1-1152x648-1793122985.jpg",
-      "popularity_score": 333.3104627777778
+      "popularity_score": 280.15332333333333
     },
     {
-      "id": "cluster_36",
+      "id": "cluster_49",
       "coverage": 1,
       "updated_at": "Tue, 27 Oct 2026 18:49:08 +0000",
       "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
@@ -253,39 +286,15 @@
           "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
           "standfirst": "You can apparently now tell AI tools what sort of protein you want them to make.",
           "content": "Protein design tools may be getting increasingly sophisticated, but you still need a sophisticated understanding of protein structure for them to work. This can include knowing enzyme mechanisms down to the positions of specific amino acids, as well as the water molecules that also occupy the area where catalysis takes place. Once you specify these, the tools can build the rest of a protein around this target. A large collaboration of researchers based in China, however, decided to bring protein design to the masses, making a tool that can take natural language prompts and use them to produce proteins with the function you specify. If your measure for success is a working protein, then the success rate may not be great. But they still manage to get the job done. And, in a separate announcement, Hugging Face shared that it's now hosting a tool that does similar things on the DNA level. The equivalent of vibe coding may have come to protein design—at least if you have access to a lab where you can sort the good designs from the dozens of failed ones.Read full article Comments",
-          "feed_position": 2,
+          "feed_position": 7,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-615307388-832x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-615307388-832x648.jpg",
-      "popularity_score": 329.03074055555555
+      "popularity_score": 275.8736011111111
     },
     {
-      "id": "cluster_16",
-      "coverage": 1,
-      "updated_at": "Tue, 27 Oct 2026 21:31:14 +0000",
-      "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
-      "neutral_headline": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
-      "bullet_summary": [
-        "Reported by Ars Technica Main"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica Main",
-          "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
-          "published_at": "Tue, 27 Oct 2026 21:31:14 +0000",
-          "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
-          "standfirst": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome.",
-          "content": "The Securities and Exchange Commission's publication on Monday of Anthropic's S-1 form—ahead of a heavily anticipated initial public offering—has led to plenty of discussion of whether the company's quickly ballooning revenues will be able to overcome its even higher costs. But amid the numbers and forward-looking optimism about AI \"rapidly transform[ing] every sector of the global economy in ways greater than the impact of industrialization, electricity, semiconductors, and the internet,\" Anthropic also spends an inordinate amount of time in its S-1 laying out the myriad risk factors that could bring the company down. Across 93 pages and over 70,000 words, Anthropic's S-1 \"Risk Factors\" section discusses literally hundreds of potential problems that could negatively impact its business in the coming years. Many of these potential risks are the kind of standard worries about competition, costs, customer acquisition, and potential regulation that almost any business must worry about. But some risks highlight interesting potential points of failure for Anthropic specifically and the hype-filled AI bubble more generally. After wading through Anthropic's book-length treatise on its greatest risks, we've narrowed the list to the seven most surprising, interesting, or thought-provoking potential problems. Consider this a far-from-comprehensive look that potential Anthropic investors should keep in mind.Read full article Comments",
-          "feed_position": 4,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/anthropic-crystal-ball-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/anthropic-crystal-ball-1152x648.jpg",
-      "popularity_score": 326.7324072222222
-    },
-    {
-      "id": "cluster_61",
+      "id": "cluster_71",
       "coverage": 1,
       "updated_at": "Tue, 27 Oct 2026 16:17:58 +0000",
       "title": "Ford simplifies using your EV as a home battery with the $30K Fathom",
@@ -301,39 +310,15 @@
           "title": "Ford simplifies using your EV as a home battery with the $30K Fathom",
           "standfirst": "The Fathom pickup won’t need a wall-mounted inverter to output 10 kW to your house.",
           "content": "This morning, Ford revealed that buyers of the forthcoming Fathom—the company's sub-$30,000 electric pickup truck due next year—will get more than just a truck. Until now, vehicle-to-home technology—like the setup Ford developed for the now-discontinued F-150 Lightning—takes DC power from the electric vehicle and runs it through an inverter built into the wallbox to turn it into AC the house can use. But with the Fathom, that inverter is built into the truck from the start. So every Fathom will be able to act as a backup battery for your home. It’s typical: You wait a decade for a cheap electric truck, and then two come along almost at once. And they’re two radically different products from two radically different automakers that I think will reveal a few preferences from the EV-buying public. One is the Blank Slate, from a brand new startup offering a bare-bones two-door that capitalizes on features the Internet says it wants, like no onboard modem, no touchscreens, and no infotainment system. The other is the result of one of Detroit’s big three taking a long, hard look at Chinese EVs and asking itself, “How do we make a car that cheap?” Although the Ford Fathom will cost $5,000 more than a Slate, that money does buy an extra pair of doors, modern conveniences like an infotainment system, CarPlay, electric windows, and a vast dealership network to service the car. That may be helpful given how many recalls Ford issues each year.Read full article Comments",
-          "feed_position": 4,
+          "feed_position": 9,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/UEV_Ebox_1-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/UEV_Ebox_1-1152x648.jpg",
-      "popularity_score": 312.5112961111111
+      "popularity_score": 259.35415666666665
     },
     {
-      "id": "cluster_84",
-      "coverage": 1,
-      "updated_at": "Tue, 27 Oct 2026 14:20:26 +0000",
-      "title": "Apple iPhone Duo review: Two screens, two experiences, two thousand dollars",
-      "neutral_headline": "Apple iPhone Duo review: Two screens, two experiences, two thousand dollars",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars/",
-          "published_at": "Tue, 27 Oct 2026 14:20:26 +0000",
-          "title": "Apple iPhone Duo review: Two screens, two experiences, two thousand dollars",
-          "standfirst": "I respect Apple's first crack at a foldable phone, but I'm not sure I like it.",
-          "content": "I understand the appeal of foldable phones—they let manufacturers keep expanding screen sizes while still producing devices that can reasonably fit in a pocket. In practice, though, every foldable Android phone I've seen in public has had a ridiculously visible seam between the two halves of the screen, often with what looks like delamination from the underlying surface, giving the display an ugly, bubbly appearance. Back when Android phones began shipping with bigger and bigger screens and the iPhone was stuck at a miserly four inches, I was jealous. But I've never looked at anyone using a chunky, fragile-looking foldable phone in public and pined for Apple's take on the idea. Nevertheless, that take has arrived, in the form of the iPhone Duo. This $1,999-and-up foldable is the biggest change to the iPhone in years, with both hardware and software updates that dramatically change how you interact with the device.Read full article Comments",
-          "feed_position": 7,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/IMG_3790-1152x648.jpeg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/IMG_3790-1152x648.jpeg",
-      "popularity_score": 297.5524072222222
-    },
-    {
-      "id": "cluster_88",
+      "id": "cluster_90",
       "coverage": 1,
       "updated_at": "Tue, 27 Oct 2026 14:00:49 +0000",
       "title": "Some iPhone Duo screens are already failing, Apple says only a \"small number\" are affected",
@@ -349,63 +334,39 @@
           "title": "Some iPhone Duo screens are already failing, Apple says only a \"small number\" are affected",
           "standfirst": "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens.",
           "content": "The iPhone Duo launched last week, offering anyone willing to spend $2,000 a chance to experience Apple's first foldable phone. For some early buyers, the morning after isn't going great. Despite the company's big talk about its \"precision-engineered\" hinge, some devices appear to have a hardware flaw that destroys the device's impressive internal display within hours (or minutes) of use. The Internet is currently overflowing with images of busted iPhone Duos, all sporting almost identical damage. The OLED is marred by several bright lines originating just below the midpoint of the display. These bands of damaged pixels extend all the way to the bottom and right edges. Some units also show lines of dead pixels following the crease from the top to the area where the bright lines begin. Anyone who has seen a damaged OLED panel will be familiar with this type of defect. When the layers of the display are damaged, the pixels no longer receive the correct voltage to illuminate them. Instead, they get the full driving voltage and are permanently on at maximum brightness. Some pixels can get no voltage, leaving them totally black. The only fix is to replace the OLED, but swapping the iPhone Duo's screen reportedly costs half as much as the device itself.Read full article Comments",
-          "feed_position": 8,
+          "feed_position": 13,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/iphone-duo-oops-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/iphone-duo-oops-1152x648.jpg",
-      "popularity_score": 291.2254627777778
+      "popularity_score": 168.06832333333332
     },
     {
-      "id": "cluster_67",
+      "id": "cluster_88",
       "coverage": 1,
-      "updated_at": "Tue, 27 Oct 2026 15:50:19 +0000",
-      "title": "From cheap tool to premium subscription: When a beloved app's price skyrockets",
-      "neutral_headline": "From cheap tool to premium subscription: When a beloved app's price skyrockets",
+      "updated_at": "Tue, 27 Oct 2026 14:20:26 +0000",
+      "title": "Apple iPhone Duo review: Two screens, two experiences, two thousand dollars",
+      "neutral_headline": "Apple iPhone Duo review: Two screens, two experiences, two thousand dollars",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/10/from-cheap-tool-to-premium-subscription-when-a-beloved-apps-price-skyrockets/",
-          "published_at": "Tue, 27 Oct 2026 15:50:19 +0000",
-          "title": "From cheap tool to premium subscription: When a beloved app's price skyrockets",
-          "standfirst": "Huge price hikes force loyal users to reconsider their favorite apps.",
-          "content": "How much are you willing to pay to keep using your favorite app? Maybe you’ve used it for years. Perhaps it performs a function so essential and specific that you couldn’t imagine what you’d do without it. But when the developer announces an extraordinary price hike, you’re forced to consider how much you really value that app. Earlier this year, Evernote, a note-taking app, changed its subscription tiers, forcing some users to go from paying $130 per year to $250. The highest tier now costs more than 3.3 times as much as the most advanced tier did in 2023 and 10 times more than what Evernote charged for annual subscriptions from its 2008 launch until 2016.Read full article Comments",
-          "feed_position": 6,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1321941710-1152x648.jpg"
+          "url": "https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars/",
+          "published_at": "Tue, 27 Oct 2026 14:20:26 +0000",
+          "title": "Apple iPhone Duo review: Two screens, two experiences, two thousand dollars",
+          "standfirst": "I respect Apple's first crack at a foldable phone, but I'm not sure I like it.",
+          "content": "I understand the appeal of foldable phones—they let manufacturers keep expanding screen sizes while still producing devices that can reasonably fit in a pocket. In practice, though, every foldable Android phone I've seen in public has had a ridiculously visible seam between the two halves of the screen, often with what looks like delamination from the underlying surface, giving the display an ugly, bubbly appearance. Back when Android phones began shipping with bigger and bigger screens and the iPhone was stuck at a miserly four inches, I was jealous. But I've never looked at anyone using a chunky, fragile-looking foldable phone in public and pined for Apple's take on the idea. Nevertheless, that take has arrived, in the form of the iPhone Duo. This $1,999-and-up foldable is the biggest change to the iPhone in years, with both hardware and software updates that dramatically change how you interact with the device.Read full article Comments",
+          "feed_position": 12,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/IMG_3790-1152x648.jpeg"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1321941710-1152x648.jpg",
-      "popularity_score": 286.0504627777778
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/IMG_3790-1152x648.jpeg",
+      "popularity_score": 164.39526777777778
     },
     {
-      "id": "cluster_91",
-      "coverage": 1,
-      "updated_at": "Tue, 27 Oct 2026 13:32:35 +0000",
-      "title": "Sculpture re-creates odd optical effects of famed Lycurgus Cup",
-      "neutral_headline": "Sculpture re-creates odd optical effects of famed Lycurgus Cup",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/",
-          "published_at": "Tue, 27 Oct 2026 13:32:35 +0000",
-          "title": "Sculpture re-creates odd optical effects of famed Lycurgus Cup",
-          "standfirst": "University of Sheffield researchers figured out how to re-create the 1,600-year-old glass recipe.",
-          "content": "Dating back to around 400 CE and made of dichroic glass, the Lycurgus Cup is notable for exhibiting different colors depending on the light. (It gets its name from the scene depicted on its surface, of King Lycurgus of Thrace.) Light it from the front, and the cup looks green; light it from behind, and the color changes to a deep red. University of Sheffield scientists have re-created the original recipe to produce a contemporary glass sculpture with the same optical effect. The cup is considered one of the seven glass wonders of the world, one of just 40 glass cage cups that survived. Exactly why the unusual color effects of the Lycurgus Cup occurred was a mystery until 2007, when a team of scientists discovered the color shifts were due to the presence of nanoparticles in the glass—the result of Roman artisans adding finely ground gold and silver into the mix. Those nanoparticles change how the electrons in the cup vibrate in response to light so that the color one sees shifts with the observer’s vantage point. As we reported in 2019, it’s a similar phenomenon to the one responsible for the shifting colors of 19th-century daguerreotypes due to the scattering properties of nanoparticles. The Romans added salt when they melted the silicon (sand) to make the glass, and those salts contained gold atoms. In the melting process, those atoms aggregate and produce nanoparticles, which in turn produce the colors. It’s how any stained glass is made. It's also similar to how the precise lattice-like structure of photonic crystals produces iridescent colors in nature, like the wings of butterflies, or opals.Read full article Comments",
-          "feed_position": 9,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/lycurgusTOP-1152x648-1793103945.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/lycurgusTOP-1152x648-1793103945.jpg",
-      "popularity_score": 253.75490722222222
-    },
-    {
-      "id": "cluster_123",
+      "id": "cluster_122",
       "coverage": 1,
       "updated_at": "Mon, 26 Oct 2026 20:04:16 +0000",
       "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
@@ -421,7 +382,7 @@
           "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
           "standfirst": "Included is the ability to limit which applications Siri can directly access.",
           "content": "Today, Apple rolled out the 27.2 updates for its operating systems, including iOS, macOS, watchOS, tvOS, visionOS, and so on. Let's start with iOS 27.2. This update is heavily focused on Siri AI. It adds a memory feature to Siri, so it can \"recall your past conversations\" and reference them when chatting with you. It also expands what data sources Siri can access when giving responses to include voicemails, Messages attachments, and more.Read full article Comments",
-          "feed_position": 14,
+          "feed_position": 19,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Siri-AI-1152x648.png"
         }
       ],
@@ -429,55 +390,7 @@
       "popularity_score": 160
     },
     {
-      "id": "cluster_125",
-      "coverage": 1,
-      "updated_at": "Mon, 26 Oct 2026 19:04:40 +0000",
-      "title": "Apple reveals updated iPad mini with a bigger OLED screen for $700",
-      "neutral_headline": "Apple reveals updated iPad mini with a bigger OLED screen for $700",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/",
-          "published_at": "Mon, 26 Oct 2026 19:04:40 +0000",
-          "title": "Apple reveals updated iPad mini with a bigger OLED screen for $700",
-          "standfirst": "Apple claims this is the most significant update ever for the iPad mini line.",
-          "content": "The iPhone Duo may be a bit of a risk right now, but there's a new mid-size Apple touchscreen device that might do the job. Starting at $699, the 8th-gen iPad mini price has gone up, but there are some big changes. Apple says the refreshed 8th-gen iPad mini marks the most significant update ever for its petite tablet, featuring an OLED screen and the A20 Pro chip that we first saw in the iPhone 18 Pro and iPhone Duo. The new iPad mini has roughly the same footprint as the 2024 release, but the display is slightly larger thanks to a 24 percent reduction in bezel thickness. The device is almost a full millimeter thinner than the last iPad, coming in at just 5.4 mm. The chassis is also IP67 rated for water and dust protection. The 7th-Gen iPad mini didn't have any official IP rating. The 8.5-inch Super Retina XDR display (up from 8.3 inches) moves on from the IPS technology of the last-gen device to adopt OLED. That means dapper blacks and a much higher peak brightness—1,200 nits versus just 500 nits for the previous mini. It can also manage 1-nit minimum brightness so as not to sear your retinas in a dark room. There will also be a nano-textured matte display option. The display experience on the new mini should be much more in line with what we've come to expect from Apple's Pro-level devices.Read full article Comments",
-          "feed_position": 15,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-iPad-mini-hero-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-iPad-mini-hero-1152x648.jpg",
-      "popularity_score": 151
-    },
-    {
-      "id": "cluster_129",
-      "coverage": 1,
-      "updated_at": "Mon, 26 Oct 2026 18:09:08 +0000",
-      "title": "Musk accuses Ukraine of violating Starlink terms with deadly drone strikes",
-      "neutral_headline": "Musk accuses Ukraine of violating Starlink terms with deadly drone strikes",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/10/musk-accuses-ukraine-of-violating-starlink-terms-with-deadly-drone-strikes/",
-          "published_at": "Mon, 26 Oct 2026 18:09:08 +0000",
-          "title": "Musk accuses Ukraine of violating Starlink terms with deadly drone strikes",
-          "standfirst": "Ukraine says Starshield back to normal, denies misuse of Starlink commercial service.",
-          "content": "Elon Musk accused Ukraine of violating Starlink terms of service by using it for lethal drone strikes. Musk said Ukraine used the Starlink commercial service for offensive drone strikes. Musk's comment on Saturday came after SpaceX imposed a restriction preventing Ukraine from using the satellite technology on drones flying above certain speeds. One current and one former Ukraine official denied Musk's accusation and said previous limits imposed by SpaceX already prevented Ukraine's military from using Starlink in the way Musk described. Ukraine officials have accused Musk of throttling their use of Starshield, the military variant of Starlink that Ukraine has access to through a deal with the US government.Read full article Comments",
-          "feed_position": 17,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ukraine-starlink-1152x648-1793037272.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ukraine-starlink-1152x648-1793037272.jpg",
-      "popularity_score": 148
-    },
-    {
-      "id": "cluster_116",
+      "id": "cluster_115",
       "coverage": 1,
       "updated_at": "Mon, 26 Oct 2026 22:36:06 +0000",
       "title": "Microsoft offers to buy out a quarter of its workforce",
@@ -493,7 +406,7 @@
           "title": "Microsoft offers to buy out a quarter of its workforce",
           "standfirst": "Employees in the US, Canada, India, and the UK may receive offers to leave MS today.",
           "content": "On Monday, Microsoft said it is offering voluntary buyouts to eligible employees in select parts of the company. CNBC reports that the buyouts will be offered to roughly 60,000 employees, or about a quarter of its global workforce. The company describes the offer as an opportunity for employees who may have already been considering career moves outside Microsoft. While Microsoft did not give a direct reason for the buyout package, it comes as the company has spent the last several years managing costs amid investment in AI infrastructure and data-center buildout. Microsoft will extend the voluntary exit offer (VEO) to qualifying employees in the United States, India, Canada, and the United Kingdom. Microsoft employees at level 70 or below will be eligible for the buyout program. The company's employee rankings are internal, but according to the salary and career database Levels.fyi, levels 65–67 correspond to principal positions, and 68–70 are at the partner/distinguished level. According to Chief People Officer Amy Coleman, eligible organizations were selected \"based on each business’s priorities, customer commitments and workforce needs.\" The effort is the second time Microsoft has run a voluntary workforce reduction in 2026. In April, the company offered its first voluntary retirement package to 8,750 US employees. In July, the Xbox division laid off 3,200 employees, or about 20 percent of its entire gaming division. As reported by CNBC, about 30 percent of eligible employees accepted the retirement offer, lessening the impact of the planned layoffs, according to Coleman. While the offer in April went out to long-tenured employees who might be nearing the end of their career, the VEO expands the effort to a much larger potential pool.Read full article Comments",
-          "feed_position": 11,
+          "feed_position": 16,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/microsoft-1152x648.jpg"
         }
       ],
@@ -501,7 +414,55 @@
       "popularity_score": 145
     },
     {
+      "id": "cluster_76",
+      "coverage": 1,
+      "updated_at": "Tue, 27 Oct 2026 15:50:19 +0000",
+      "title": "From cheap tool to premium subscription: When a beloved app's price skyrockets",
+      "neutral_headline": "From cheap tool to premium subscription: When a beloved app's price skyrockets",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/10/from-cheap-tool-to-premium-subscription-when-a-beloved-apps-price-skyrockets/",
+          "published_at": "Tue, 27 Oct 2026 15:50:19 +0000",
+          "title": "From cheap tool to premium subscription: When a beloved app's price skyrockets",
+          "standfirst": "Huge price hikes force loyal users to reconsider their favorite apps.",
+          "content": "How much are you willing to pay to keep using your favorite app? Maybe you’ve used it for years. Perhaps it performs a function so essential and specific that you couldn’t imagine what you’d do without it. But when the developer announces an extraordinary price hike, you’re forced to consider how much you really value that app. Earlier this year, Evernote, a note-taking app, changed its subscription tiers, forcing some users to go from paying $130 per year to $250. The highest tier now costs more than 3.3 times as much as the most advanced tier did in 2023 and 10 times more than what Evernote charged for annual subscriptions from its 2008 launch until 2016.Read full article Comments",
+          "feed_position": 11,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1321941710-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1321941710-1152x648.jpg",
+      "popularity_score": 142.89332333333334
+    },
+    {
       "id": "cluster_93",
+      "coverage": 1,
+      "updated_at": "Tue, 27 Oct 2026 13:32:35 +0000",
+      "title": "Sculpture re-creates odd optical effects of famed Lycurgus Cup",
+      "neutral_headline": "Sculpture re-creates odd optical effects of famed Lycurgus Cup",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/",
+          "published_at": "Tue, 27 Oct 2026 13:32:35 +0000",
+          "title": "Sculpture re-creates odd optical effects of famed Lycurgus Cup",
+          "standfirst": "University of Sheffield researchers figured out how to re-create the 1,600-year-old glass recipe.",
+          "content": "Dating back to around 400 CE and made of dichroic glass, the Lycurgus Cup is notable for exhibiting different colors depending on the light. (It gets its name from the scene depicted on its surface, of King Lycurgus of Thrace.) Light it from the front, and the cup looks green; light it from behind, and the color changes to a deep red. University of Sheffield scientists have re-created the original recipe to produce a contemporary glass sculpture with the same optical effect. The cup is considered one of the seven glass wonders of the world, one of just 40 glass cage cups that survived. Exactly why the unusual color effects of the Lycurgus Cup occurred was a mystery until 2007, when a team of scientists discovered the color shifts were due to the presence of nanoparticles in the glass—the result of Roman artisans adding finely ground gold and silver into the mix. Those nanoparticles change how the electrons in the cup vibrate in response to light so that the color one sees shifts with the observer’s vantage point. As we reported in 2019, it’s a similar phenomenon to the one responsible for the shifting colors of 19th-century daguerreotypes due to the scattering properties of nanoparticles. The Romans added salt when they melted the silicon (sand) to make the glass, and those salts contained gold atoms. In the melting process, those atoms aggregate and produce nanoparticles, which in turn produce the colors. It’s how any stained glass is made. It's also similar to how the precise lattice-like structure of photonic crystals produces iridescent colors in nature, like the wings of butterflies, or opals.Read full article Comments",
+          "feed_position": 14,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/lycurgusTOP-1152x648-1793103945.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/lycurgusTOP-1152x648-1793103945.jpg",
+      "popularity_score": 140.5977677777778
+    },
+    {
+      "id": "cluster_95",
       "coverage": 1,
       "updated_at": "Tue, 27 Oct 2026 13:22:16 +0000",
       "title": "US officials want Section 702 renewed before damaging court ruling goes public",
@@ -517,63 +478,15 @@
           "title": "US officials want Section 702 renewed before damaging court ruling goes public",
           "standfirst": "Senators say officials hid a ruling on warrantless searches past its release deadline.",
           "content": "Two Democratic senators who have long overseen US intelligence say the Trump administration is illegally withholding a secret court’s findings from Congress until lawmakers renew a program that lets federal agents read Americans’ communications without a warrant. Seven months ago, the Foreign Intelligence Surveillance Court objected to search filters that let intelligence analysts pull Americans’ messages from intercepted data without the approvals, written justifications, or records the law requires. The court approved another year of surveillance anyway. The ruling has never been made public, and Senators Ron Wyden of Oregon and Adam Schiff of California say the administration’s own deadline for releasing it passed in September. The program, Section 702 of the Foreign Intelligence Surveillance Act (FISA), lapsed in June after Congress failed to renew it, though collection continues under the court’s March approval. The administration’s own public documentation says rulings like this one are reviewed for public release “within 180 days of issuance.” That window closed September 13, even as intelligence officials press lawmakers to reauthorize the program by the end of the year.Read full article Comments",
-          "feed_position": 10,
+          "feed_position": 15,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/court-spy-1024x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/court-spy-1024x648.jpg",
-      "popularity_score": 143.58296277777777
+      "popularity_score": 140.42582333333334
     },
     {
-      "id": "cluster_130",
-      "coverage": 1,
-      "updated_at": "Mon, 26 Oct 2026 17:26:36 +0000",
-      "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
-      "neutral_headline": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/",
-          "published_at": "Mon, 26 Oct 2026 17:26:36 +0000",
-          "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
-          "standfirst": "Investigators explain how highway thieves stole $100M in data center equipment.",
-          "content": "Highway thieves are using sophisticated digital tactics that investigators worry make it easy to rob trucks carrying millions in expensive data center equipment. NBC News spoke to “several industry leaders, consultants, and investigators advising law enforcement” offices probing the biggest thefts yet and reported that since June, thieves have “made away with more than $100 million in data center freight.” Here’s how they said thieves get away with it: First, thieves hack freight brokers’ accounts on shipment-listing websites and post fake shipments to lure real bids, then send a malicious link to any trucking companies that respond. Once victims click, thieves install software to take control of their accounts and start bidding on real shipments. Sometimes, a real delivery driver is hired to collect the cargo, unaware of the scam, and other times fake driver’s licenses are used to get accomplices hired. Either way, the goods are eventually transferred to a driver working with the thieves to resell the gear, and, in one of the largest thefts, tracking coordinates were spoofed to prevent digital monitoring.Read full article Comments",
-          "feed_position": 18,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/via-Cook-County-Sheriffs-Office-X-1152x648-1793033307.jpeg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/via-Cook-County-Sheriffs-Office-X-1152x648-1793033307.jpeg",
-      "popularity_score": 139
-    },
-    {
-      "id": "cluster_126",
-      "coverage": 1,
-      "updated_at": "Mon, 26 Oct 2026 18:50:41 +0000",
-      "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
-      "neutral_headline": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
-          "published_at": "Mon, 26 Oct 2026 18:50:41 +0000",
-          "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
-          "standfirst": "US robotics company stands by ICE deal as more than 300 employees warn of risk.",
-          "content": "Hundreds of employees at the US robotics firm Boston Dynamics signed a petition calling for executives to halt a sale of the company’s robot dogs to US Immigration and Customs Enforcement—but executives stood by the deal, while saying the robots would not be weaponized. On September 25, the Department of Homeland Security contract awarded $1.3 million to a Connecticut company called Radeco to provide ICE with modified versions of Boston Dynamics’ quadruped robots. But Boston Dynamics workers sent the petition letter with more than 300 signatures—half of them anonymous—to the company’s executives in early September and shared copies with The Boston Globe and WBUR public radio station. “Many of us have gotten messages from friends and family, asking us in disbelief and horror if this news is true, and how we can live with ourselves if it is,” according to the petition. “The risk for Boston Dynamics is simply too great to continue with this deal.”Read full article Comments",
-          "feed_position": 16,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Radeco-Cerberus-robot-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Radeco-Cerberus-robot-1152x648.jpg",
-      "popularity_score": 138
-    },
-    {
-      "id": "cluster_120",
+      "id": "cluster_119",
       "coverage": 1,
       "updated_at": "Mon, 26 Oct 2026 20:27:00 +0000",
       "title": "Worms mate in man's eyes, get plucked out right before larvae burst out",
@@ -589,7 +502,7 @@
           "title": "Worms mate in man's eyes, get plucked out right before larvae burst out",
           "standfirst": "Case study gives a whole new meaning to \"bedroom eyes.\"",
           "content": "After two months of discomfort, a man in South Korea went to an eye clinic where doctors pulled 11 living, wriggling worms from his eyes. They apparently made the most of their time on the man's peepers; at the time of extraction, many of the female worms were pregnant. The man narrowly avoided having them spew their loads of living larvae directly into his eyes. The man in this case was a 71-year-old crop farmer. He told doctors that for the previous two months he had the sensation of having something stuck in both his eyes, which were also red and blurry. When ophthalmologists took a look, they quickly saw the problem: multiple mobile, whitish roundworms. His eyes were not in good shape either, as one might expect. The blood vessels in the membrane over the eye, the conjunctiva, were enlarged, making his eyes look red. And the cells of his cornea—the transparent, dome-shaped outer layer of the eye—had eroded, potentially after the helminths' hanky-panky. According to a case report published in the New England Journal of Medicine, the doctors gave the man a topical treatment to numb his eyes and then began plucking out the worms one by one with fine forceps. They collected 11 adult worms, which ranged in size from 11 to 22 mm.Read full article Comments",
-          "feed_position": 12,
+          "feed_position": 17,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/larvae-released-1152x648.jpg"
         }
       ],
@@ -597,7 +510,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_121",
+      "id": "cluster_120",
       "coverage": 1,
       "updated_at": "Mon, 26 Oct 2026 20:15:07 +0000",
       "title": "Meet the real-life Scottish surgeon who inspired Sherlock Holmes",
@@ -613,35 +526,11 @@
           "title": "Meet the real-life Scottish surgeon who inspired Sherlock Holmes",
           "standfirst": "Lindsey Fitzharris chats with Ars about her new book, Sleuth-Hound: The Case of the Real Sherlock Holmes.",
           "content": "Sir Arthur Conan Doyle created one of the most beloved fictional detectives of all time in Sherlock Holmes, spawning countless novels, films, TV series, and so forth featuring the sleuth. Far fewer people know about the real-life inspiration for Holmes: a renowned surgeon at Scotland's University of Edinburgh named Joseph Bell, who taught Doyle when the author was still a young medical student. Bell is the subject of a new, eminently readable biography, Sleuth-Hound: The Case of the Real Sherlock Holmes, by medical historian Lindsey Fitzharris. A noted science communicator with a fondness for the medically macabre, Fitzharris published a biography of Scottish surgical pioneer Joseph Lister, The Butchering Art, in 2017—a great, if occasionally grisly, read. She followed up with 2022’s The Facemaker: A Visionary Surgeon’s Battle to Mend the Disfigured Soldiers of World War I, about a WWI surgeon named Harold Gillies who rebuilt the faces of injured soldiers. In 2020, Fitzharris hosted a documentary for the Smithsonian Channel, The Curious Life and Death Of…, exploring famous deaths, ranging from drug lord Pablo Escobar to magician Harry Houdini. Fitzharris performed virtual autopsies, experimented with blood samples, interviewed witnesses, and conducted real-time demonstrations in hopes of gleaning fresh insights. And last year she and her husband, caricaturist Adrian Teal, collaborated on an illustrated children's book, Dead Ends! Flukes, Flops, and Failures that Sparked Medical Marvels.Read full article Comments",
-          "feed_position": 13,
+          "feed_position": 18,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/sleuthTOP-1152x648-1792956138.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/sleuthTOP-1152x648-1792956138.jpg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_136",
-      "coverage": 1,
-      "updated_at": "Mon, 26 Oct 2026 14:48:24 +0000",
-      "title": "F1 in Texas: The American race that fans love to attend",
-      "neutral_headline": "F1 in Texas: The American race that fans love to attend",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/10/f1-in-texas-one-more-race-and-well-have-a-new-champion/",
-          "published_at": "Mon, 26 Oct 2026 14:48:24 +0000",
-          "title": "F1 in Texas: The American race that fans love to attend",
-          "standfirst": "Ars spends the weekend with the Audi Revolut F1 team at the Circuit of the Americas.",
-          "content": "Audi provided flights from Washington, DC, to Austin, Texas, and accommodation so Ars could attend the US Grand Prix. Ars does not accept paid editorial content. AUSTIN, Texas—Formula 1 returned to US shores this weekend with its annual visit to the Circuit of the Americas in Austin, Texas. Once in danger of falling off the calendar due to lack of interest, it’s now one of the most popular tracks on the calendar and, of the US’s three races, it's the one the real fans mostly attend. Unlike Miami or Las Vegas, which race on temporary street circuits, COTA is a permanent race track with plenty of run-off areas instead of concrete walls. Designed by motorcycle racer Kevin Schwanz—Herman Tilke’s company did only the buildings and infrastructure, contrary to popular belief—the track combines a mix of corner speeds with challenging turn sequences, a few heavy braking zones, and plenty of elevation changes. It’s a place Ars knows rather intimately by now. We’ve driven it in everything from an Audi TT-S to a Corvette ZR1 to a bicycle, and that’s just in the real world. Over the years, we’ve been there for F1 to learn about how the sport puts together its broadcasts, how Pirelli designs its tires, and how various tech partners help teams manage their data and strategies. We even saw the race through a neophyte’s eyes. And that’s just F1—we’ve logged many hours there with the World Endurance Championship and IMSA for the Lone Star Le Mans races in sweaty September.Read full article Comments",
-          "feed_position": 19,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/A2621582-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/A2621582-1152x648.jpg",
       "popularity_score": 133
     }
   ]
