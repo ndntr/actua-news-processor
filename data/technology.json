@@ -1,25 +1,36 @@
 {
-  "updated_at": "2026-11-03T23:49:40.288Z",
+  "updated_at": "2026-11-04T18:21:04.388Z",
   "clusters": [
     {
-      "id": "cluster_17",
+      "id": "cluster_26",
       "coverage": 3,
-      "updated_at": "2026-11-03T17:04:02-05:00",
-      "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
-      "neutral_headline": "Binance Says Hackers Used Well-Known Tricks to Carry Out a $6.34 Billion Heist",
+      "updated_at": "Wed, 04 Nov 2026 16:06:03 +0000",
+      "title": "Binance says hackers who stole billions in crypto spent months planning heist",
+      "neutral_headline": "Binance says hackers who stole billions in crypto spent months planning heist",
       "bullet_summary": [
-        "7bn) Binance heist used bogus job interviews, malicious software and an internal AI tool, the company has revealed",
-        "Reported by The Verge, Wired Tech, Guardian Tech"
+        "Binance has revealed more details about the cyber attack that resulted in the loss of $6",
+        "Reported by Ars Technica, Engadget, Wired Tech"
       ],
       "items": [
         {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
-          "published_at": "2026-11-03T17:04:02-05:00",
-          "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
-          "standfirst": "The largest crypto theft to date was pulled off by combining some well-known hacking techniques over the course of a few months, according to Binance. A postmortem from the company says the process started in June with one developer downloading a tampered installer apparently spread by a malicious Google ad, exposing details about the engineers [&#8230;]",
-          "content": "The largest crypto theft to date was pulled off by combining some well-known hacking techniques over the course of a few months, according to Binance. A postmortem from the company says the process started in June with one developer downloading a tampered installer apparently spread by a malicious Google ad, exposing details about the engineers and how they work. Then, in September, another engineer was targeted by someone pretending to be interested in hiring them; that person set up a series of calls and multiple rounds of interviews, shared social media pages to build trust, and eventually prompted them to download a fake interview assign … Read the full story at The Verge.",
-          "feed_position": 4
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/",
+          "published_at": "Wed, 04 Nov 2026 16:06:03 +0000",
+          "title": "Binance says hackers who stole billions in crypto spent months planning heist",
+          "standfirst": "Techniques included laptop infections, compromised internal tooling, and fake job interviews.",
+          "content": "The hackers who stole billions of dollars in cryptocurrency from the Binance exchange spent months working on the theft and used both social engineering and novel malware in the process, the company said Tuesday. The heist, which both the FBI and the TRM Security firm attributed to North Korean actors, initially targeted $6.34 billion in cryptocurrency from Binance wallets. The exchange has since frozen or intercepted $2.85 billion of that sum. Binance said it has set aside funds required to cover the loss and provided this link to a Proof of Reserves page. The $6.34 billion represents the biggest sum ever targeted in a cryptocurrency theft. Advanced persistent threat Binance said the people behind the heist began no later than June and continued until last Thursday, when they successfully compromised an engineer's laptop and withdrew assets from several wallets. Like just about every organization that suffers a public, high-consequence hack, Binance said the threat actor was sophisticated and resourceful.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/binance-1024x648.jpg"
+        },
+        {
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2306223/binance-attackers-fake-job-interviews-6-3-billion-crypto-heist/",
+          "published_at": "Wed, 04 Nov 2026 08:50:36 +0000",
+          "title": "Binance attackers used fake job interviews to pull off $6.3 billion crypto heist",
+          "standfirst": "Binance has revealed more details about the cyber attack that resulted in the loss of $6.34 billion in digital assets.",
+          "content": "Binance has revealed more details about the cyber attack that resulted in the loss of $6.34 billion in digital assets.",
+          "feed_position": 7,
+          "image_url": "https://www.engadget.com/img/gallery/binance-reveals-how-attackers-used-fake-job-interviews-to-launch-6-3-billion-crypto-heist/l-intro-1793781948.jpg"
         },
         {
           "source": "Wired Tech",
@@ -28,57 +39,116 @@
           "title": "Binance Says Hackers Used Well-Known Tricks to Carry Out a $6.34 Billion Heist",
           "standfirst": "Suspected North Korean attackers duped an engineer with a fake job interview and a malicious download to gain a foothold in the crypto firm’s system and steal billions, according to Binance.",
           "content": "Suspected North Korean attackers duped an engineer with a fake job interview and a malicious download to gain a foothold in the crypto firm’s system and steal billions, according to Binance.",
-          "feed_position": 3,
+          "feed_position": 29,
           "image_url": "https://media.wired.com/photos/6aea142af41713bdfbadc480/master/pass/Security_Suspected%20North%20Korean%20Hackers%20Stole%20$6.3%20Billion%20From%20Binance%20Using%20the%20Oldest%20Tricks%20in%20the%20Book_v1.jpg"
-        },
-        {
-          "source": "Guardian Tech",
-          "url": "https://www.theguardian.com/business/2026/nov/03/hackers-63bn-binance-heist-malware-bogus-job-interviews-cryptocurrency",
-          "published_at": "Tue, 03 Nov 2026 19:00:23 GMT",
-          "title": "Hackers behind $6.3bn Binance heist ‘used malware and bogus job interviews’",
-          "standfirst": "Firm reveals details about how its cryptocurrency exchange was compromised, saying operation began in JuneThe hackers behind the $6.3bn (£4.7bn) Binance heist used bogus job interviews, malicious software and an internal AI tool, the company has revealed.The world’s largest cryptocurrency exchange was compromised in an operation that began with an inadvertent download of malware in June, led to a recruitment scam in September and then a raid last week of “hot wallets” where billions of dollars worth of crypto-assets were taken. Continue reading...",
-          "content": "Firm reveals details about how its cryptocurrency exchange was compromised, saying operation began in JuneThe hackers behind the $6.3bn (£4.7bn) Binance heist used bogus job interviews, malicious software and an internal AI tool, the company has revealed.The world’s largest cryptocurrency exchange was compromised in an operation that began with an inadvertent download of malware in June, led to a recruitment scam in September and then a raid last week of “hot wallets” where billions of dollars worth of crypto-assets were taken. Continue reading...",
-          "feed_position": 9
         }
       ],
-      "featured_image": "https://media.wired.com/photos/6aea142af41713bdfbadc480/master/pass/Security_Suspected%20North%20Korean%20Hackers%20Stole%20$6.3%20Billion%20From%20Binance%20Using%20the%20Oldest%20Tricks%20in%20the%20Book_v1.jpg",
-      "popularity_score": 3018.239364722222
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/binance-1024x648.jpg",
+      "popularity_score": 3017.7496144444444
     },
     {
-      "id": "cluster_2",
+      "id": "cluster_8",
       "coverage": 2,
-      "updated_at": "Tue, 03 Nov 2026 18:30:02 -0500",
-      "title": "Valve announces changes to Steam's review process, as a surge in game submissions pushes review times to \"up to 12 business days\", instead of the usual 3-5 days (Jay Peters/The Verge)",
-      "neutral_headline": "Valve is making changes to deal with a ‘significant...",
+      "updated_at": "Wed, 04 Nov 2026 17:50:47 +0000",
+      "title": "God of War Laufey is delayed until May 20",
+      "neutral_headline": "God of War Laufey is delayed until May 20",
       "bullet_summary": [
-        "Reported by TechMeme, The Verge"
+        "God of War Laufey's release date is being delayed to May 20th, 2027, developer Santa Monica Studio announced today",
+        "Reported by Engadget, The Verge"
+      ],
+      "items": [
+        {
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2306802/god-of-war-laufey-is-delayed-until-may-20/",
+          "published_at": "Wed, 04 Nov 2026 17:50:47 +0000",
+          "title": "God of War Laufey is delayed until May 20",
+          "standfirst": "Santa Monica Studio will use the extra time to push the game &#34;to its fullest potential.&#34;",
+          "content": "Santa Monica Studio will use the extra time to push the game &#34;to its fullest potential.&#34;",
+          "feed_position": 0,
+          "image_url": "https://www.engadget.com/img/gallery/god-of-war-laufey-is-delayed-until-may-20/l-intro-1793814603.jpg"
+        },
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/games/1026448/sony-playstation-god-of-war-laufey-delay",
+          "published_at": "2026-11-04T12:10:31-05:00",
+          "title": "God of War Laufey delayed until May",
+          "standfirst": "God of War Laufey's release date is being delayed to May 20th, 2027, developer Santa Monica Studio announced today. It was set to launch on PlayStation 5 on February 16th. Here is Santa Monica Studio's full message about the delay: Since the reveal of God of War Laufey in June, we've been deeply grateful to [&#8230;]",
+          "content": "God of War Laufey's release date is being delayed to May 20th, 2027, developer Santa Monica Studio announced today. It was set to launch on PlayStation 5 on February 16th. Here is Santa Monica Studio's full message about the delay: Since the reveal of God of War Laufey in June, we've been deeply grateful to see so much excitement for Faye's journey through the Everywhen. We don't take for granted the trust placed in the studio to make an extraordinary experience worthy of the passion and dedication of our fans. With this in mind, we've made the decision to delay God of War Laufey's release to May 20th, 2027. We will make the most of ea … Read the full story at The Verge.",
+          "feed_position": 2
+        }
+      ],
+      "featured_image": "https://www.engadget.com/img/gallery/god-of-war-laufey-is-delayed-until-may-20/l-intro-1793814603.jpg",
+      "popularity_score": 2019.49517
+    },
+    {
+      "id": "cluster_42",
+      "coverage": 2,
+      "updated_at": "Wed, 04 Nov 2026 09:30:28 -0500",
+      "title": "Revolut hits a $115B valuation, up from $75B in November 2025, after a secondary share sale led by Glade Brook, Coatue, and others, as it plans a US bank launch (Jagmeet Singh/TechCrunch)",
+      "neutral_headline": "Revolut&#8217;s valuation jumps 53% to $115B in new share sale as...",
+      "bullet_summary": [
+        "Reported by TechMeme, TechCrunch"
       ],
       "items": [
         {
           "source": "TechMeme",
-          "url": "https://www.techmeme.com/261103/p40#a261103p40",
-          "published_at": "Tue, 03 Nov 2026 18:30:02 -0500",
-          "title": "Valve announces changes to Steam's review process, as a surge in game submissions pushes review times to \"up to 12 business days\", instead of the usual 3-5 days (Jay Peters/The Verge)",
-          "standfirst": "Jay Peters / The Verge: Valve announces changes to Steam's review process, as a surge in game submissions pushes review times to &ldquo;up to 12 business days&rdquo;, instead of the usual 3-5 days &mdash; Valve admits that it's now taking &lsquo;up to 12 business days&rsquo; to game submissions.",
-          "content": "Jay Peters / The Verge: Valve announces changes to Steam's review process, as a surge in game submissions pushes review times to &ldquo;up to 12 business days&rdquo;, instead of the usual 3-5 days &mdash; Valve admits that it's now taking &lsquo;up to 12 business days&rsquo; to game submissions.",
-          "feed_position": 0,
-          "image_url": "http://www.techmeme.com/261103/i40.jpg"
+          "url": "https://www.techmeme.com/261104/p33#a261104p33",
+          "published_at": "Wed, 04 Nov 2026 09:30:28 -0500",
+          "title": "Revolut hits a $115B valuation, up from $75B in November 2025, after a secondary share sale led by Glade Brook, Coatue, and others, as it plans a US bank launch (Jagmeet Singh/TechCrunch)",
+          "standfirst": "Jagmeet Singh / TechCrunch: Revolut hits a $115B valuation, up from $75B in November 2025, after a secondary share sale led by Glade Brook, Coatue, and others, as it plans a US bank launch &mdash; Revolut's investors have completed a secondary share sale that values the British fintech at $115 billion &hellip;",
+          "content": "Jagmeet Singh / TechCrunch: Revolut hits a $115B valuation, up from $75B in November 2025, after a secondary share sale led by Glade Brook, Coatue, and others, as it plans a US bank launch &mdash; Revolut's investors have completed a secondary share sale that values the British fintech at $115 billion &hellip;",
+          "feed_position": 11,
+          "image_url": "http://www.techmeme.com/261104/i33.jpg"
         },
         {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/games/1025722/valve-steam-game-increase-submissions",
-          "published_at": "2026-11-03T17:15:33-05:00",
-          "title": "Valve is making changes to deal with a ‘significant increase’ in Steam game submissions",
-          "standfirst": "In a new post today, Valve acknowledged that it's seen \"a significant increase in submissions for store and page review in recent months\" and says it's \"running a little behind\" by taking \"up to 12 business days\" for reviews instead of the typical 3-5 days. Indie developers have recently expressed frustrations over lengthy approval times [&#8230;]",
-          "content": "In a new post today, Valve acknowledged that it's seen \"a significant increase in submissions for store and page review in recent months\" and says it's \"running a little behind\" by taking \"up to 12 business days\" for reviews instead of the typical 3-5 days. Indie developers have recently expressed frustrations over lengthy approval times for Steam games, even causing some games to miss planned launch dates. Valve says that \"much\" of the delay is having to re-review games, so it's making some changes to the release checklist for developers to hopefully \"cut down on re-reviews for basic functional issues.\" The changes include requiring dev … Read the full story at The Verge.",
-          "feed_position": 3
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/",
+          "published_at": "Wed, 04 Nov 2026 14:10:10 +0000",
+          "title": "Revolut&#8217;s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank",
+          "standfirst": "Glade Brook, Coatue, and T. Rowe Price were among the investors that led the share sale.",
+          "content": "Glade Brook, Coatue, and T. Rowe Price were among the investors that led the share sale.",
+          "feed_position": 6
         }
       ],
-      "featured_image": "http://www.techmeme.com/261103/i40.jpg",
-      "popularity_score": 2019.6726980555557
+      "featured_image": "http://www.techmeme.com/261104/i33.jpg",
+      "popularity_score": 2016.1565588888889
     },
     {
-      "id": "cluster_20",
+      "id": "cluster_43",
+      "coverage": 2,
+      "updated_at": "Wed, 04 Nov 2026 09:20:04 -0500",
+      "title": "UK AI Minister Kanishka Narayan says AI is set to add £55B to £140B to the economy by 2030, below a £400B estimate from a Google-led report touted by officials (Ben Gartside/Wired)",
+      "neutral_headline": "UK Officials Said AI Would Add £400 Billion to the Economy.",
+      "bullet_summary": [
+        "Reported by TechMeme, Wired Tech"
+      ],
+      "items": [
+        {
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/261104/p32#a261104p32",
+          "published_at": "Wed, 04 Nov 2026 09:20:04 -0500",
+          "title": "UK AI Minister Kanishka Narayan says AI is set to add £55B to £140B to the economy by 2030, below a £400B estimate from a Google-led report touted by officials (Ben Gartside/Wired)",
+          "standfirst": "Ben Gartside / Wired: UK AI Minister Kanishka Narayan says AI is set to add &pound;55B to &pound;140B to the economy by 2030, below a &pound;400B estimate from a Google-led report touted by officials &mdash; The AI minister now concedes the estimated figure is less than a third of that. Researchers blame the country's slow rate of adoption",
+          "content": "Ben Gartside / Wired: UK AI Minister Kanishka Narayan says AI is set to add &pound;55B to &pound;140B to the economy by 2030, below a &pound;400B estimate from a Google-led report touted by officials &mdash; The AI minister now concedes the estimated figure is less than a third of that. Researchers blame the country's slow rate of adoption",
+          "feed_position": 12,
+          "image_url": "http://www.techmeme.com/261104/i32.jpg"
+        },
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
+          "published_at": "Wed, 04 Nov 2026 13:49:51 +0000",
+          "title": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google",
+          "standfirst": "The AI minister now concedes the estimated figure is less than a third of that. Researchers blame the country’s slow rate of adoption.",
+          "content": "The AI minister now concedes the estimated figure is less than a third of that. Researchers blame the country’s slow rate of adoption.",
+          "feed_position": 6,
+          "image_url": "https://media.wired.com/photos/6ae4f0b834d00005a9a1a2fc/master/pass/2026-10-12T133338Z_906189115_RC2EIMAWOQ1L_RTRMADP_3_AI-BRITAIN-SAFETY.jpg"
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/261104/i32.jpg",
+      "popularity_score": 2015.9832255555555
+    },
+    {
+      "id": "cluster_83",
       "coverage": 2,
       "updated_at": "Tue, 03 Nov 2026 21:27:50 +0000",
       "title": "Reddit is testing in-app search ads as traffic from Google declines",
@@ -94,7 +164,7 @@
           "title": "Reddit is testing in-app search ads as traffic from Google declines",
           "standfirst": "The company wants to help advertisers reach users who show a &#34;high purchase&#34; intent.",
           "content": "The company wants to help advertisers reach users who show a &#34;high purchase&#34; intent.",
-          "feed_position": 5,
+          "feed_position": 17,
           "image_url": "https://www.engadget.com/img/gallery/reddit-is-testing-search-ads-as-traffic-from-google-declines/l-intro-1793741097.jpg"
         },
         {
@@ -104,47 +174,86 @@
           "title": "Reddit tests ads in search results as traffic declines and growth concerns mount",
           "standfirst": "The new ad placements could help Reddit squeeze more revenue from existing users as Google's AI search changes how people discover its content.",
           "content": "The new ad placements could help Reddit squeeze more revenue from existing users as Google's AI search changes how people discover its content.",
-          "feed_position": 7
+          "feed_position": 17
         }
       ],
       "featured_image": "https://www.engadget.com/img/gallery/reddit-is-testing-search-ads-as-traffic-from-google-declines/l-intro-1793741097.jpg",
-      "popularity_score": 2017.6360313888888
+      "popularity_score": 2000
     },
     {
-      "id": "cluster_72",
-      "coverage": 2,
-      "updated_at": "Tue, 03 Nov 2026 17:02:49 +0000",
-      "title": "Microsoft has listed some concrete ways that Windows 11 is getting better with 8GB of RAM",
-      "neutral_headline": "Windows 11 can run better on PCs with 8GB now, Microsoft says – here’s why",
+      "id": "cluster_4",
+      "coverage": 1,
+      "updated_at": "Wed, 04 Nov 2026 18:00:40 +0000",
+      "title": "People say they want small smartphones—the Enough Phone will put that to the test",
+      "neutral_headline": "People say they want small smartphones—the Enough Phone will put that to the test",
       "bullet_summary": [
-        "Reported by Engadget, ZDNet"
+        "Reported by Ars Technica Main"
       ],
       "items": [
         {
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2305420/microsoft-has-listed-some-concrete-ways-that-windows-11-is-getting-better-with-8gb-of-ram/",
-          "published_at": "Tue, 03 Nov 2026 17:02:49 +0000",
-          "title": "Microsoft has listed some concrete ways that Windows 11 is getting better with 8GB of RAM",
-          "standfirst": "Windows 11 users with 8GB of RAM should start noticing improved performance in a wide range of apps.",
-          "content": "Windows 11 users with 8GB of RAM should start noticing improved performance in a wide range of apps.",
-          "feed_position": 18,
-          "image_url": "https://www.engadget.com/img/gallery/microsoft-has-listed-some-concrete-ways-that-windows-11-is-getting-better-with-8gb-of-ram/l-intro-1793725227.jpg"
-        },
-        {
-          "source": "ZDNet",
-          "url": "https://www.zdnet.com/tech/windows-11-pc-8gb-ram-update-now/",
-          "published_at": "2026-11-03T17:00:00Z",
-          "title": "Windows 11 can run better on PCs with 8GB now, Microsoft says – here’s why",
-          "standfirst": "The latest updates to Windows 11 offer improvements in speed, performance, and memory management.",
-          "content": "The latest updates to Windows 11 offer improvements in speed, performance, and memory management.",
-          "feed_position": 6
+          "source": "Ars Technica Main",
+          "url": "https://arstechnica.com/gadgets/2026/11/people-say-they-want-small-smartphones-the-enough-phone-will-put-that-to-the-test/",
+          "published_at": "Wed, 04 Nov 2026 18:00:40 +0000",
+          "title": "People say they want small smartphones—the Enough Phone will put that to the test",
+          "standfirst": "It won't win the specs race, but it will actually fit in your hand.",
+          "content": "The first modern smartphones had 3.5-inch screens, which can be hard to remember in today's world of gargantuan glass slabs. Sure, people talk about wanting smaller phones, but will they buy one? Enough Phone is betting they will. The company will begin taking preorders for its first device today, which is built around a petite 5.3-inch screen that is apparently the smallest it could find with decent performance metrics. The company's cheeky name is reflected in its approach to phone design. A flagship killer this is not, but it's probably \"enough\" for most people. It has a mid-range MediaTek processor, a single rear-facing camera, a polycarbonate body, and a fingerprint sensor in the power button. Specs at a glance: Enough Phone ($399 for a limited time, $599 MSRP) SoC MediaTek Dimensity 7500 Memory 8GB Storage 128GB with microSD Display 5.3-inch 1520x720 HD+ LCD Cameras Sony IMX766 50 MP, 32 MP selfie Software Android 17 or OdysseyOS Battery 3500 mAh (removable) Connectivity 5G, LTE, Wi-Fi 6, Bluetooth, NFC, SIM+eSIM Measurements 133×64×12 mm With that compact screen, the Enough Phone will be dwarfed by almost every existing smartphone. While it's a bit thicker, the device has almost the same footprint as the iPhone 13 Mini. Thinness takes a hit, as the designers have opted to make the battery user-replaceable. Like the Fairphone, you'll just have to remove a few screws to get the back cover off.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Enough-Phone-in-Hand-1152x648.jpg"
         }
       ],
-      "featured_image": "https://www.engadget.com/img/gallery/microsoft-has-listed-some-concrete-ways-that-windows-11-is-getting-better-with-8gb-of-ram/l-intro-1793725227.jpg",
-      "popularity_score": 2013.2190869444444
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Enough-Phone-in-Hand-1152x648.jpg",
+      "popularity_score": 357.6598922222222
     },
     {
-      "id": "cluster_34",
+      "id": "cluster_33",
+      "coverage": 1,
+      "updated_at": "Wed, 04 Nov 2026 15:42:18 +0000",
+      "title": "What I learned driving the Slate electric truck prototype",
+      "neutral_headline": "What I learned driving the Slate electric truck prototype",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/cars/2026/11/what-i-learned-driving-the-slate-electric-truck-prototype/",
+          "published_at": "Wed, 04 Nov 2026 15:42:18 +0000",
+          "title": "What I learned driving the Slate electric truck prototype",
+          "standfirst": "After 45 minutes behind the wheel, I am more optimistic about the $25,000 EV.",
+          "content": "If my 45-minute drive yesterday morning is anything to go by, I think Slate Auto will have quite the hit on its hands. The startup had one of its prototype trucks in town and asked if I wanted to check it out—no jumping on a plane or having to spend yet another night in an interchangeable hotel room, just a drive from southwest DC to Rockville, Maryland. Easy-peasy. The prototype truck had been well-used, with almost 6,000 miles (9,656 km) showing on the small and minimalist but very legible digital display that also shows your speed and, if you engage reverse, the backup camera. And while the cabin layout was representative of the production version, the surfaces most certainly weren’t—the prototype instead uses a lot of hard and shiny black plastic, with strips of Velcro here and there left over from when the interior had to be camouflaged when the vehicle was out in public. Getting acquainted with the Slate was refreshingly easy. The Morris Marina-like door handles open with a pleasing mechanical action. The seat and steering column adjust manually but with plenty of reach, something many budget models used to leave out to save on cost.Read full article Comments",
+          "feed_position": 1,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/slate-in-car-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/slate-in-car-1152x648.jpg",
+      "popularity_score": 346.3537811111111
+    },
+    {
+      "id": "cluster_38",
+      "coverage": 1,
+      "updated_at": "Wed, 04 Nov 2026 15:08:48 +0000",
+      "title": "The DEA banned a drug some opioid users called a miracle",
+      "neutral_headline": "The DEA banned a drug some opioid users called a miracle",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/11/the-dea-banned-a-drug-some-opioid-users-called-a-miracle/",
+          "published_at": "Wed, 04 Nov 2026 15:08:48 +0000",
+          "title": "The DEA banned a drug some opioid users called a miracle",
+          "standfirst": "Researchers say the Schedule I ban could kill studies of a promising opioid treatment.",
+          "content": "In 2012, as the driver of deaths in the opioid crisis began moving from prescription pills to heroin, Laura Bohn was tasked with finding safer drugs to manage pain. Funded by the National Institute on Drug Abuse, in 2017 she and other scientists revealed in the science journal Cell that several compounds—including a particularly promising one called SR-17018—could relieve pain in mice without causing respiratory depression. That’s a big deal, because respiratory depression is typically what causes people using opioids to stop breathing and die. Bohn, senior associate vice president of research at University of South Florida Health, says her team filed a patent on SR-17018. They went on to discover that mice using the chemical did not develop a high tolerance for it and that mice already dependent on morphine—a powerful opioid—could consume SR-17018 to reset their tolerance without suffering from painful withdrawal symptoms.Read full article Comments",
+          "feed_position": 2,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2017/11/GettyImages-679470044-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2017/11/GettyImages-679470044-1152x648.jpg",
+      "popularity_score": 329.7954477777778
+    },
+    {
+      "id": "cluster_90",
       "coverage": 1,
       "updated_at": "Tue, 03 Nov 2026 20:39:55 +0000",
       "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
@@ -160,15 +269,39 @@
           "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
           "standfirst": "Russia tries to fix exposed digital infrastructure as data center war backfires.",
           "content": "Russian tech companies are scrambling to harden and hide their data centers underground after Ukrainian drone strikes damaged facilities housing AI supercomputers and disrupted cloud services for millions of Russian users. Meanwhile, the Kremlin is requiring data center owners to reserve computing capacity for emergency state needs and has even authorized possible use of foreign data centers. These consequences of Russia's war against Ukraine come as the Russian military has bombarded Ukrainian cities with drones and missiles nearly night and day in recent months, along with specifically targeting Ukrainian data centers since late September. But Ukraine has retaliated with its own drone strikes on military and infrastructure targets across Russia, degrading or knocking out data centers operated by Russian tech giant Yandex, the state-owned bank Sberbank, social media site VKontakte, and the Russian Ministry of Finance. Now, state-owned telecommunications company Rostelcom has raised the possibility of moving some Russian data centers underground in talks with the nickel and palladium mining company Norilsk, according to Russian newspaper Vedomosti. The industry publication Data Center Dynamics also pointed to a recent proposal by a Russian regional governor to build data centers within open-pit coal mines while planting green public parks above as camouflage.Read full article Comments",
-          "feed_position": 0,
+          "feed_position": 4,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Russia-Borodinsky-coal-mine-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Russia-Borodinsky-coal-mine-1152x648.jpg",
-      "popularity_score": 364.83742027777777
+      "popularity_score": 308
     },
     {
-      "id": "cluster_53",
+      "id": "cluster_78",
+      "coverage": 1,
+      "updated_at": "Tue, 03 Nov 2026 22:39:37 +0000",
+      "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
+      "neutral_headline": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/",
+          "published_at": "Tue, 03 Nov 2026 22:39:37 +0000",
+          "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
+          "standfirst": "State tries to obtain broadband funds despite rejecting Trump admin condition.",
+          "content": "California is accepting $1.42 billion in broadband grant funding from the Trump administration, but the state is not accepting the Trump administration's demand that it stop enforcing a net neutrality law and other telecom regulations. California's stand against the Trump administration could result in multiple legal battles involving the state, federal government, and Internet providers seeking government funds. Although California told the federal government it would accept the money, it is reserving the right to challenge the condition imposed by the US. The state could delay or cancel plans to distribute broadband grants depending on how the process unfolds. The National Telecommunications and Information Administration (NTIA) decided last year that states must agree not to enforce any rate regulation or net neutrality rule on ISPs that receive money from the $42 billion Broadband Equity, Access, and Deployment (BEAD) program. California had to decide whether to accept its share of the fund despite that restriction. California is slated to spend $1.42 billion to deploy broadband to 270,571 locations and may ultimately receive up to $1.86 billion from BEAD for a mix of deployment and non-deployment projects.Read full article Comments",
+          "feed_position": 3,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/getty-fiber-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/getty-fiber-1152x648.jpg",
+      "popularity_score": 303.3090588888889
+    },
+    {
+      "id": "cluster_96",
       "coverage": 1,
       "updated_at": "Tue, 03 Nov 2026 18:30:27 +0000",
       "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
@@ -184,39 +317,15 @@
           "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
           "standfirst": "Lawsuit calls Brave \"supplier, dealer, and distributor\" of stolen news content.",
           "content": "The New York Times and other newspaper companies sued Brave Software yesterday, alleging that the browser maker illegally bypasses paywalls and sells stolen news content to AI companies. \"Brave is the supplier, dealer, and distributor of stolen copyrighted content for its own users and many of the most prominent GenAI companies, including Anthropic, Perplexity, Mistral, xAI, and Cohere,\" the NYT alleged in a lawsuit filed in US District Court for the Southern District of New York. Citing third-party revenue estimates, the suit claimed that \"Brave has made more than $100 million by copying and reselling publishers’ work without consent or permission,\" while \"publishers have received nothing.\" The lawsuit said, \"AI companies pay Brave to provide them with real-time online content from the Brave search index,\" and use content from the Brave index \"to train their own AI models\" and \"to respond to specific user queries.\" The NYT lawsuit points to Brave's website, which says the Brave Search API is \"used by some of the biggest names in AI, including Cohere, Mistral, Perplexity, and You.com.\"Read full article Comments",
-          "feed_position": 1,
+          "feed_position": 5,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/brave-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/brave-1152x648.jpg",
-      "popularity_score": 352.6796425
+      "popularity_score": 298
     },
     {
-      "id": "cluster_12",
-      "coverage": 1,
-      "updated_at": "Tue, 03 Nov 2026 22:39:37 +0000",
-      "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
-      "neutral_headline": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
-      "bullet_summary": [
-        "Reported by Ars Technica Main"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica Main",
-          "url": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/",
-          "published_at": "Tue, 03 Nov 2026 22:39:37 +0000",
-          "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
-          "standfirst": "State tries to obtain broadband funds despite rejecting Trump admin condition.",
-          "content": "California is accepting $1.42 billion in broadband grant funding from the Trump administration, but the state is not accepting the Trump administration's demand that it stop enforcing a net neutrality law and other telecom regulations. California's stand against the Trump administration could result in multiple legal battles involving the state, federal government, and Internet providers seeking government funds. Although California told the federal government it would accept the money, it is reserving the right to challenge the condition imposed by the US. The state could delay or cancel plans to distribute broadband grants depending on how the process unfolds. The National Telecommunications and Information Administration (NTIA) decided last year that states must agree not to enforce any rate regulation or net neutrality rule on ISPs that receive money from the $42 billion Broadband Equity, Access, and Deployment (BEAD) program. California had to decide whether to accept its share of the fund despite that restriction. California is slated to spend $1.42 billion to deploy broadband to 270,571 locations, and may ultimately receive up to $1.86 billion from BEAD for a mix of deployment and non-deployment projects.Read full article Comments",
-          "feed_position": 0,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/getty-fiber-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/getty-fiber-1152x648.jpg",
-      "popularity_score": 351.83242027777777
-    },
-    {
-      "id": "cluster_60",
+      "id": "cluster_99",
       "coverage": 1,
       "updated_at": "Tue, 03 Nov 2026 17:54:43 +0000",
       "title": "Google will let schools skip AI tools, but they have to give up search, too",
@@ -232,15 +341,15 @@
           "title": "Google will let schools skip AI tools, but they have to give up search, too",
           "standfirst": "Google will offer schools AI tools that purportedly don't give away the answers.",
           "content": "While Google is trying to move beyond Chromebooks, the ubiquity of these devices has made the company's education products huge in schools. Now, Google says it will let educators choose whether to allow its AI tools in the classroom. However, blocking AI tools also means giving up search, leaving schools with a difficult decision. Google's new overarching approach to AI in K-12 classrooms sounds good on the surface. After consulting educators, researchers, and lawmakers, Google has decided that schools using its education products will be opted out of AI tools by default. It will be up to administrators to manually enable them when these changes roll out in the coming months. When you look at what Google considers to be an AI tool, the nature of the Faustian bargain becomes clear. The affected products are Gemini, Gemini Notebook, Gemini in Classroom, and Google Search. There's no picking and choosing—you either allow all the AI or none of it.Read full article Comments",
-          "feed_position": 3,
+          "feed_position": 7,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-1152x648.jpg",
-      "popularity_score": 344.0840866666667
+      "popularity_score": 290
     },
     {
-      "id": "cluster_55",
+      "id": "cluster_97",
       "coverage": 1,
       "updated_at": "Tue, 03 Nov 2026 18:19:31 +0000",
       "title": "Buttons are back and storage is king when it comes to car interiors",
@@ -256,39 +365,15 @@
           "title": "Buttons are back and storage is king when it comes to car interiors",
           "standfirst": "We talk with Nissan designer Hiren Patel about how vehicle interior designs are changing.",
           "content": "As with interior design for houses, interior design for vehicles is also subject to fashion trends. And like any fashion trend, even the best ideas can become stale and played out with overuse. Some ideas weren’t the best, either, like demonstrably worse human-machine interfaces that add to driver distraction; yet, they still proliferated throughout the industry and across the cars offered for sale. But the good news is that the pushback seems to be working. “When the trend of the Piano Black and the switchless interior was happening, it was during a time when designers and companies and engineers and everybody were thinking that, 'Hey, we can just get rid of all these switches on the interior. We can put it all in the software. It'll save money. It'll save us tooling up all these extra parts for unique cars and all this stuff and make the interior more like a software experience.' And it was done with those intentions,” said Hiren Patel, senior design manager at Nissan. That resulted in cars with minimalist interiors that looked good in the dealership. But people drive their cars on roads; they don’t just sit inside them, parked inside a dealership. “So lots of people were complaining about it and saying, 'Hey, it takes my eyes off the road to change the temperature or to adjust my seat or do whatever.' It's not as easy as doing something on your phone where it's just right at your fingertips and intuitive,” Patel said.Read full article Comments",
-          "feed_position": 2,
+          "feed_position": 6,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/2027-Nissan-Rogue-Hybrid-05-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/2027-Nissan-Rogue-Hybrid-05-1152x648.jpg",
-      "popularity_score": 327.4974202777778
+      "popularity_score": 273
     },
     {
-      "id": "cluster_74",
-      "coverage": 1,
-      "updated_at": "Tue, 03 Nov 2026 16:50:32 +0000",
-      "title": "This space company is betting its future on a propellant available everywhere",
-      "neutral_headline": "This space company is betting its future on a propellant available everywhere",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere/",
-          "published_at": "Tue, 03 Nov 2026 16:50:32 +0000",
-          "title": "This space company is betting its future on a propellant available everywhere",
-          "standfirst": "Is that water in your spacecraft, or are you just happy to see the delta-V?",
-          "content": "Robert, Ryan, and Kirby Carlisle are three engineers who worked at SpaceX during the Falcon 9 era, seeing the revolution in the global launch industry from the inside. The brothers launched rockets, refurbished rockets, and sold rockets. But when it came time for them to leave SpaceX and start their own space company—a lifetime dream for the Carlisle brothers—they chose not to build rockets. Rather, they focused on spacecraft. In late 2022, the three Carlisles founded Argo Space to build infrastructure in space. Their vision was not just in-space transportation but also removing the need to use propellants from Earth to move around the heavens. They chose water, which is potentially harvestable on the Moon and found all over the Solar System, as a means of propulsion.Read full article Comments",
-          "feed_position": 6,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Argonaut-Transit-to-Moon-16x9-1-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Argonaut-Transit-to-Moon-16x9-1-1152x648.jpg",
-      "popularity_score": 315.0143644444444
-    },
-    {
-      "id": "cluster_69",
+      "id": "cluster_101",
       "coverage": 1,
       "updated_at": "Tue, 03 Nov 2026 17:08:21 +0000",
       "title": "Google dismantles botnet secretly running on 1.3 million Android TV boxes",
@@ -304,15 +389,15 @@
           "title": "Google dismantles botnet secretly running on 1.3 million Android TV boxes",
           "standfirst": "Google has cut ties with the company behind the botnet campaign.",
           "content": "Google's Threat Intelligence Group says it has shut down a massive botnet called x.cpe. At its height, x.cpe ran on more than 1.3 million Android TV devices, and unusually, these were Google-certified boxes. Google says its screening process missed the malware due to \"obfuscation techniques\" employed by Shenzhen-based Videostrong Technology. In a detailed blog post, the Threat Intelligence Group explains how the x.cpe botnet evolved quickly from a single-stage dropper into a modular three-stage malware platform that sold access to third parties. Manufacturers must have their devices certified if they want access to Google apps and branding, a process that is supposed to catch threats like this. However, Videostrong's compromised boxes, mostly sold under the MECOOL brand, evaded detection by using a backdoor to remotely install the malware after the devices were set up and online. After devices appeared online, a stub application called x.cpe or com.oemservice would phone home. This package did not have any malicious capabilities of its own, but it had the system-level permissions necessary to install malware modules at the operator's behest. It also disabled Play Protect, which would have otherwise flagged the silently installed packages as malicious.Read full article Comments",
-          "feed_position": 5,
+          "feed_position": 9,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/mecool-malware.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/mecool-malware.jpg",
-      "popularity_score": 308.3113088888889
+      "popularity_score": 255
     },
     {
-      "id": "cluster_66",
+      "id": "cluster_100",
       "coverage": 1,
       "updated_at": "Tue, 03 Nov 2026 17:21:29 +0000",
       "title": "Another child dies of measles as CDC reportedly holds up health alert",
@@ -328,87 +413,39 @@
           "title": "Another child dies of measles as CDC reportedly holds up health alert",
           "standfirst": "NY governor pointed to Kennedy's long-standing anti-vaccine work as spurring outbreaks.",
           "content": "A child in New York has died of measles, health officials in the state announced late Monday. It marks the first reported measles-associated death in New York in more than 30 years. It is the seventh measles-linked death reported in the US this year; all six of the other deaths were reported in Pennsylvania, which is experiencing a dramatic measles outbreak that has stricken over 1,430 people this year. Prior to the deaths, Pennsylvania hadn't seen a measles-related death in 35 years. The boom in vaccine-preventable outbreaks, cases, and tragic deaths is being fueled by slipping vaccination rates nationwide as health misinformation and anti-vaccine sentiments have taken hold. One of the most prominent anti-vaccine activists in the US currently serves as the US health secretary; Robert F. Kennedy Jr. spent decades prior to taking office attacking vaccines and spreading misinformation. He and his anti-vaccine organization, Children's Health Defense, have been one of the most prolific sources of anti-vaccine content. Since taking office, Kennedy has waged a multi-front war on vaccines that has included dismantling and obstructing federal vaccine recommendations; launching dubious studies to look for alleged, unspecified harms of vaccines; promoting alleged vaccine injuries; and continuing to spread misinformation about vaccines and vaccine-preventable illnesses.Read full article Comments",
-          "feed_position": 4,
+          "feed_position": 8,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2053751760-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2053751760-1152x648.jpg",
-      "popularity_score": 306.5301977777778
+      "popularity_score": 253
     },
     {
-      "id": "cluster_79",
+      "id": "cluster_102",
       "coverage": 1,
-      "updated_at": "Tue, 03 Nov 2026 16:03:13 +0000",
-      "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
-      "neutral_headline": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame",
+      "updated_at": "Tue, 03 Nov 2026 16:50:32 +0000",
+      "title": "This space company is betting its future on a propellant available everywhere",
+      "neutral_headline": "This space company is betting its future on a propellant available everywhere",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
-          "published_at": "Tue, 03 Nov 2026 16:03:13 +0000",
-          "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
-          "standfirst": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.",
-          "content": "In 2023, malware tracked as BlackLotus became the first publicly documented in-the-wild UEFI bootkit capable of bypassing Secure Boot on fully updated Windows 11 systems. With the industry-wide chain-of-trust mechanism subverted, the malware was able to run malicious code before Windows was fully loaded and many security defenses were operational. Microsoft had already patched the vulnerability that BlackLotus exploited in 2022. In 2023 and 2024, Microsoft issued additional updates. The first added a new certificate that no longer trusted the vulnerable boot managers. The second provided the means to revoke trust in the digital certificate used to sign older vulnerable Windows boot managers. The organizations infected by the new bootkit, which is tracked under the name BlackX, had installed all of these patches. So how did they fall victim? UEFI bootkit refresher Before discussing the incident further, a brief review of BlackLotus and UEFI malware is in order. Short for Unified Extensible Firmware Interface, UEFI is firmware that runs immediately after a computer is turned on. One of its main jobs is to load system configuration settings, identify and initialize hardware components, and prepare the computer to start its OS.Read full article Comments",
-          "feed_position": 7,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-1000x648.jpg"
+          "url": "https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere/",
+          "published_at": "Tue, 03 Nov 2026 16:50:32 +0000",
+          "title": "This space company is betting its future on a propellant available everywhere",
+          "standfirst": "Is that water in your spacecraft, or are you just happy to see the delta-V?",
+          "content": "Robert, Ryan, and Kirby Carlisle are three engineers who worked at SpaceX during the Falcon 9 era, seeing the revolution in the global launch industry from the inside. The brothers launched rockets, refurbished rockets, and sold rockets. But when it came time for them to leave SpaceX and start their own space company—a lifetime dream for the Carlisle brothers—they chose not to build rockets. Rather, they focused on spacecraft. In late 2022, the three Carlisles founded Argo Space to build infrastructure in space. Their vision was not just in-space transportation but also removing the need to use propellants from Earth to move around the heavens. They chose water, which is potentially harvestable on the Moon and found all over the Solar System, as a means of propulsion.Read full article Comments",
+          "feed_position": 10,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Argonaut-Transit-to-Moon-16x9-1-1152x648.jpg"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-1000x648.jpg",
-      "popularity_score": 287.22575333333333
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Argonaut-Transit-to-Moon-16x9-1-1152x648.jpg",
+      "popularity_score": 162
     },
     {
-      "id": "cluster_80",
-      "coverage": 1,
-      "updated_at": "Tue, 03 Nov 2026 15:39:30 +0000",
-      "title": "Trump wanted to give No Kings no air. Then, Meta suspended its Instagram.",
-      "neutral_headline": "Trump wanted to give No Kings no air. Then, Meta suspended its Instagram.",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/11/trump-wanted-to-give-no-kings-no-air-then-meta-suspended-its-instagram/",
-          "published_at": "Tue, 03 Nov 2026 15:39:30 +0000",
-          "title": "Trump wanted to give No Kings no air. Then, Meta suspended its Instagram.",
-          "standfirst": "Meta faces pressure to protect No Kings Instagram on election day.",
-          "content": "Over the weekend, the No Kings Coalition said Meta declined to commit to taking steps to prevent automated systems from suspending one of Instagram's most prominent pro-democracy accounts if activity surged around the page during the midterm elections. A demand for action came after Meta apologized for temporarily suspending the No Kings Instagram account and disabling access for four hours at the peak of an early voting push from the group. In a post on X, Meta’s Andy Stone said the account had been using a Claude AI tool in a way that made it appear to be a bot. But even though automated review detected the error within an hour, Stone acknowledged that additional hurdles kept admins locked out. State and federal lawmakers—as well as a coalition of 14 attorneys general—have asked Meta to further explain its actions. In a letter to No Kings, Meta offered to arrange a meeting with a technical expert who could better explain the mistake. But No Kings rejected the response, saying it failed to address any of the group's ongoing concerns and requesting a meeting with Meta senior leadership instead. The group stressed that the issue goes beyond its Instagram account, saying that Americans who rely on Meta's platforms need assurance that voting content won’t be suppressed ahead of or on election day. Among eight questions, the coalition asked Meta to publicly disclose any communications with the Trump administration about the No Kings account or the historic early voting day event.Read full article Comments",
-          "feed_position": 8,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/zuck-trump-no-kings-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/zuck-trump-no-kings-1152x648.jpg",
-      "popularity_score": 279.83047555555555
-    },
-    {
-      "id": "cluster_82",
-      "coverage": 1,
-      "updated_at": "Tue, 03 Nov 2026 14:49:00 +0000",
-      "title": "EPA throws in the towel on policing air pollution from factory farms",
-      "neutral_headline": "EPA throws in the towel on policing air pollution from factory farms",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/11/epa-throws-in-the-towel-on-policing-air-pollution-from-factory-farms/",
-          "published_at": "Tue, 03 Nov 2026 14:49:00 +0000",
-          "title": "EPA throws in the towel on policing air pollution from factory farms",
-          "standfirst": "Critics say EPA is effectively abandoning Clean Air Act enforcement at factory farms.",
-          "content": "The Environmental Protection Agency late last week announced it would end a 20-plus-year effort to develop methods to monitor air pollution from factory farms, effectively shuttering the agency’s stop-and-start attempts to regulate the potentially pollutant-spewing facilities under the Clean Air Act. The announcement came just days before the midterm elections and was characterized by the agency as a long-awaited reprieve for farmers, a historically important constituency for Trump and the Republican Party. When tens of thousands of animals are packed into one place, pollution from their waste is blown from ventilation fans or emanates from giant lagoons of liquid effluent. Livestock facilities emit fine particulate matter, ammonia, nitrogen oxides, sulfur dioxide, and volatile organic compounds, all contributing to a toxic mix. Research has shown that emissions from these operations are a major cause of air pollution, causing nearly 12,700 deaths in the United States a year.Read full article Comments",
-          "feed_position": 9,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/factory-farm-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/factory-farm-1152x648.jpg",
-      "popularity_score": 268.9888088888889
-    },
-    {
-      "id": "cluster_108",
+      "id": "cluster_122",
       "coverage": 1,
       "updated_at": "Mon, 02 Nov 2026 23:30:16 +0000",
       "title": "\"At Home in Space\" opens, caps Air and Space Museum renovation",
@@ -424,7 +461,7 @@
           "title": "\"At Home in Space\" opens, caps Air and Space Museum renovation",
           "standfirst": "The Smithsonian's National Air and Space Museum has all of its \"space\" back open.",
           "content": "After seven years of work and nearly $1 billion, the Smithsonian has completed the renovation of the National Air and Space Museum's flagship building in Washington, DC. On October 30, the museum debuted its last-to-open spaceflight exhibition, returning \"home\" with a gallery devoted to establishing a spacefaring civilization. \"Welcome to 'At Home in Space'!\" said curator Jennifer Levasseur, who guided us through a virtual tour of the gallery. \"This is the story of long-duration spaceflight in the last few decades. We generally call it 'reaching orbit.'\"Read full article Comments",
-          "feed_position": 11,
+          "feed_position": 15,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/news-103026a-lg-1152x648.jpg"
         }
       ],
@@ -432,55 +469,79 @@
       "popularity_score": 156
     },
     {
-      "id": "cluster_118",
+      "id": "cluster_104",
       "coverage": 1,
-      "updated_at": "Mon, 02 Nov 2026 18:05:31 +0000",
-      "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
-      "neutral_headline": "Claude’s new rules against game cloning won’t stop the AI copying boom",
+      "updated_at": "Tue, 03 Nov 2026 15:39:30 +0000",
+      "title": "Trump wanted to give No Kings no air. Then, Meta suspended its Instagram.",
+      "neutral_headline": "Trump wanted to give No Kings no air. Then, Meta suspended its Instagram.",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
-          "published_at": "Mon, 02 Nov 2026 18:05:31 +0000",
-          "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
-          "standfirst": "The tsunami of imitators is way bigger than any one model maker can stem.",
-          "content": "Last week, Anthropic introduced a new system prompt designed to stop its Claude models from re-creating specific, existing video games. While that move could help shield Anthropic from some liability, it's unlikely to slow much of the massive wave of AI-assisted game porting and copying that has emerged in recent months. A social media user and AI decompilation enthusiast going by the name \"chasm\" was among the first to note the prompt change late last week, saying a new rule seemed to be added to the Claude Code prompt on or around October 27. That rule—included in a json file under the name \"tengu_heron_brook\"—reads as follows: Do build original games, games in a genre, and games from the user’s own designs and assets. Don’t build a recreation of a specific existing game, even if it is renamed or called original. XDA later independently verified that the new rule appears in version 2.1.314 of the Claude Code binary, which was released on October 30. XDA also reported that the \"tengu_heron_brook\" rule had been used for other purposes in earlier versions and that the Claude Opus 5.5 model specifically seemed to have its own distinct and independent instructions restricting game recreations as part of its system prompt bundle.Read full article Comments",
-          "feed_position": 17,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1180626096-1152x648.jpg"
+          "url": "https://arstechnica.com/tech-policy/2026/11/trump-wanted-to-give-no-kings-no-air-then-meta-suspended-its-instagram/",
+          "published_at": "Tue, 03 Nov 2026 15:39:30 +0000",
+          "title": "Trump wanted to give No Kings no air. Then, Meta suspended its Instagram.",
+          "standfirst": "Meta faces pressure to protect No Kings Instagram on election day.",
+          "content": "Over the weekend, the No Kings Coalition said Meta declined to commit to taking steps to prevent automated systems from suspending one of Instagram's most prominent pro-democracy accounts if activity surged around the page during the midterm elections. A demand for action came after Meta apologized for temporarily suspending the No Kings Instagram account and disabling access for four hours at the peak of an early voting push from the group. In a post on X, Meta’s Andy Stone said the account had been using a Claude AI tool in a way that made it appear to be a bot. But even though automated review detected the error within an hour, Stone acknowledged that additional hurdles kept admins locked out. State and federal lawmakers—as well as a coalition of 14 attorneys general—have asked Meta to further explain its actions. In a letter to No Kings, Meta offered to arrange a meeting with a technical expert who could better explain the mistake. But No Kings rejected the response, saying it failed to address any of the group's ongoing concerns and requesting a meeting with Meta senior leadership instead. The group stressed that the issue goes beyond its Instagram account, saying that Americans who rely on Meta's platforms need assurance that voting content won’t be suppressed ahead of or on election day. Among eight questions, the coalition asked Meta to publicly disclose any communications with the Trump administration about the No Kings account or the historic early voting day event.Read full article Comments",
+          "feed_position": 12,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/zuck-trump-no-kings-1152x648.jpg"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1180626096-1152x648.jpg",
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/zuck-trump-no-kings-1152x648.jpg",
       "popularity_score": 148
     },
     {
-      "id": "cluster_117",
+      "id": "cluster_105",
       "coverage": 1,
-      "updated_at": "Mon, 02 Nov 2026 18:32:21 +0000",
-      "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
-      "neutral_headline": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
+      "updated_at": "Tue, 03 Nov 2026 14:49:00 +0000",
+      "title": "EPA throws in the towel on policing air pollution from factory farms",
+      "neutral_headline": "EPA throws in the towel on policing air pollution from factory farms",
       "bullet_summary": [
         "Reported by Ars Technica"
       ],
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
-          "published_at": "Mon, 02 Nov 2026 18:32:21 +0000",
-          "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
-          "standfirst": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.",
-          "content": "Apple’s new CEO, John Ternus, is apparently pushing the tech company’s development of household robots—and the first to debut may be a home robot designed to autonomously roam around while supporting FaceTime calls and switching lights on whenever a person enters the room. People who worked on Apple’s robotic projects told The Information that the AI-driven home robot, code-named J595, could be named HomeView Ultra in line with Apple’s new HomeView stationary smart display. The company is reportedly aiming to launch the robotic product with a possible price tag of $1,000 or more by 2027, although development delays may push that back to 2028. The earliest prototypes of the home robot first came out in 2018 and received approval from former Apple CEO Tim Cook to continue the project. The Information describes Apple’s engineers as trying to give the robot more capabilities beyond being a “fancy way to make FaceTime calls” in order to justify a high price tag, even as the team has spent years refining the software and incorporating more AI technologies.Read full article Comments",
-          "feed_position": 16,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Apple-CEO-John-Ternus-1152x648.jpg"
+          "url": "https://arstechnica.com/tech-policy/2026/11/epa-throws-in-the-towel-on-policing-air-pollution-from-factory-farms/",
+          "published_at": "Tue, 03 Nov 2026 14:49:00 +0000",
+          "title": "EPA throws in the towel on policing air pollution from factory farms",
+          "standfirst": "Critics say EPA is effectively abandoning Clean Air Act enforcement at factory farms.",
+          "content": "The Environmental Protection Agency late last week announced it would end a 20-plus-year effort to develop methods to monitor air pollution from factory farms, effectively shuttering the agency’s stop-and-start attempts to regulate the potentially pollutant-spewing facilities under the Clean Air Act. The announcement came just days before the midterm elections and was characterized by the agency as a long-awaited reprieve for farmers, a historically important constituency for Trump and the Republican Party. When tens of thousands of animals are packed into one place, pollution from their waste is blown from ventilation fans or emanates from giant lagoons of liquid effluent. Livestock facilities emit fine particulate matter, ammonia, nitrogen oxides, sulfur dioxide, and volatile organic compounds, all contributing to a toxic mix. Research has shown that emissions from these operations are a major cause of air pollution, causing nearly 12,700 deaths in the United States a year.Read full article Comments",
+          "feed_position": 13,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/factory-farm-1152x648.jpg"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Apple-CEO-John-Ternus-1152x648.jpg",
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/factory-farm-1152x648.jpg",
+      "popularity_score": 148
+    },
+    {
+      "id": "cluster_103",
+      "coverage": 1,
+      "updated_at": "Tue, 03 Nov 2026 16:03:13 +0000",
+      "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
+      "neutral_headline": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame",
+      "bullet_summary": [
+        "Reported by Ars Technica"
+      ],
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
+          "published_at": "Tue, 03 Nov 2026 16:03:13 +0000",
+          "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
+          "standfirst": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.",
+          "content": "In 2023, malware tracked as BlackLotus became the first publicly documented in-the-wild UEFI bootkit capable of bypassing Secure Boot on fully updated Windows 11 systems. With the industry-wide chain-of-trust mechanism subverted, the malware was able to run malicious code before Windows was fully loaded and many security defenses were operational. Microsoft had already patched the vulnerability that BlackLotus exploited in 2022. In 2023 and 2024, Microsoft issued additional updates. The first added a new certificate that no longer trusted the vulnerable boot managers. The second provided the means to revoke trust in the digital certificate used to sign older vulnerable Windows boot managers. The organizations infected by the new bootkit, which is tracked under the name BlackX, had installed all of these patches. So how did they fall victim? UEFI bootkit refresher Before discussing the incident further, a brief review of BlackLotus and UEFI malware is in order. Short for Unified Extensible Firmware Interface, UEFI is firmware that runs immediately after a computer is turned on. One of its main jobs is to load system configuration settings, identify and initialize hardware components, and prepare the computer to start its OS.Read full article Comments",
+          "feed_position": 11,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-1000x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-1000x648.jpg",
       "popularity_score": 145
     },
     {
-      "id": "cluster_88",
+      "id": "cluster_108",
       "coverage": 1,
       "updated_at": "Tue, 03 Nov 2026 14:00:07 +0000",
       "title": "Beyond screens: Mercedes-Benz's new holographic heads-up display",
@@ -496,15 +557,15 @@
           "title": "Beyond screens: Mercedes-Benz's new holographic heads-up display",
           "standfirst": "After pioneering the passenger screen, Mercedes has designs on the windshield.",
           "content": "Mercedes-Benz provided flights from Los Angeles to Stuttgart, Germany, and accommodation so Ars could experience the holographic display. Ars does not accept paid editorial content. Do screens in cars represent luxury? Judging by the latest car interiors, the answer would seem to be an emphatic “yes.” Screens aren't just getting larger; they are multiplying across the dashboard and morphing into different forms and concepts. Indeed, an interior’s screens are a pretty good indicator of what brand made the car—or at least how much the owner paid for it. But is this actually what customers want? Are more screens really better? And even if they are, luxury car features inevitably trickle down to cheaper, more mainstream offerings, and screens can only get so big. That leaves luxury automakers with another question to answer: “What’s next?” Mercedes-Benz is working on a new display alternative that could provide an answer. For now, it's known as the holographic display. Forget the images from Star Trek and Star Wars that just popped into your head, though. It's effectively a more advanced form of heads-up display, or HUD.Read full article Comments",
-          "feed_position": 10,
+          "feed_position": 14,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/26C0308_008-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/26C0308_008-1152x648.jpg",
-      "popularity_score": 143.17408666666665
+      "popularity_score": 133
     },
     {
-      "id": "cluster_110",
+      "id": "cluster_123",
       "coverage": 1,
       "updated_at": "Mon, 02 Nov 2026 22:54:35 +0000",
       "title": "Why large dogs age faster than small ones, and other October research highlights",
@@ -520,7 +581,7 @@
           "title": "Why large dogs age faster than small ones, and other October research highlights",
           "standfirst": "Plus invisible tattoos, medieval skeleton gets an ID, trapping a single antimatter particle, and more.",
           "content": "It’s a regrettable reality that there is never enough time to cover all the interesting scientific stories we come across. So every month, we highlight a handful of the best stories that nearly slipped through the cracks. October’s list includes an epigenetic mechanism for why large dogs age faster than smaller ones; physicists who trapped a single particle of antimatter for months; and invisible tattoo inks that only show up under UV light. Why large dogs age faster In many mammalian species, larger creatures tend to have longer lifespans. Mice, for instance, live an average of just two years, while some whales can last for as long as 200 years. Dogs, however, buck this pattern; larger dogs tend to age faster and die younger than smaller ones, which makes canines an ideal model for biologists to study to learn more about aging in general. Arizona State University scientists report that these lifespan differences seem to be due to so-called \"jumping genes,\" according to a paper published in the journal Science. The authors used data from 864 dogs collected in the Dog Aging Project to map patterns of DNA methylation (which influences how much certain genes are turned on or off) across the entire genome. It's part of the epigenome, whose markers can change over time in response to stress and other environmental factors. Genetic sequences, by contrast, are largely fixed. So DNA methylation is a good chemical indicator of aging and DNA regulation.Read full article Comments",
-          "feed_position": 12,
+          "feed_position": 16,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/doggos-1152x648-1793464886.jpg"
         }
       ],
@@ -528,7 +589,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_112",
+      "id": "cluster_124",
       "coverage": 1,
       "updated_at": "Mon, 02 Nov 2026 21:21:43 +0000",
       "title": "Third person dies of bird flu since virus started jumping to livestock",
@@ -544,7 +605,7 @@
           "title": "Third person dies of bird flu since virus started jumping to livestock",
           "standfirst": "The threat is still considered to be low, but the virus continues to spread.",
           "content": "A person in Washington state has died from bird flu after exposure at an infected dairy farm, state health officials reported Sunday. It marks the third human bird flu death in the US since a strain of highly pathogenic (H5) avian influenza (HPAI) made the unprecedented jump from wild, migratory birds to dairy cows, which was first reported in the US in March 2024. The person who died was a Yakima County resident and was said to have had underlying health conditions, which could have made the person more vulnerable to the infection. On Friday, county officials reported that the person was severely ill and hospitalized. In the subsequent announcement of the person's death, officials said they would not be releasing further information about the person, including their name, gender, or age, out of respect for the family's privacy. \"Our hearts go out to the individual's family and loved ones during this difficult time,\" Dave Atteberry, health officer for the Yakima Health District, said in a statement. \"Avian influenza can cause severe illness, particularly among people who have underlying health conditions. While this is a serious and heartbreaking outcome, the risk to the general public remains low.\"Read full article Comments",
-          "feed_position": 13,
+          "feed_position": 17,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2190742287-1152x648.jpg"
         }
       ],
@@ -552,7 +613,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_114",
+      "id": "cluster_125",
       "coverage": 1,
       "updated_at": "Mon, 02 Nov 2026 19:52:23 +0000",
       "title": "Googling \"Zelda\" today offers a glimpse of how search worked in 1998",
@@ -568,7 +629,7 @@
           "title": "Googling \"Zelda\" today offers a glimpse of how search worked in 1998",
           "standfirst": "\"The flow of time is always cruel.\"",
           "content": "The year was 1998. Britney Spears topped the charts, Bill Clinton was impeached, and a couple of little websites called Google and Ars Technica came online. It was also the year Nintendo released The Legend of Zelda: Ocarina of Time on the Nintendo 64. Google, which has come to dominate the Internet (Ars is still working on that), is celebrating the imminent release of the Ocarina of Time remaster by temporarily transporting us back to that storied year with a search Easter egg. To access the Google time machine, you just have to search for either \"Zelda\" or \"Ocarina of Time.\" Google will load the standard 2026 results page, but you'll see an animated Master Sword in the lower right corner. It appears on both mobile and desktop—just click the sword and enjoy the show. After a little time-skipping animation and a Link shout (you know the one), you'll swear it's 1998 again. The search page is transformed into a simple list of blue links with retro Google branding. This is particularly apt given the time-shifting mechanics in Ocarina of Time.Read full article Comments",
-          "feed_position": 14,
+          "feed_position": 18,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/zelda-google-1152x648.jpg"
         }
       ],
@@ -576,7 +637,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_116",
+      "id": "cluster_126",
       "coverage": 1,
       "updated_at": "Mon, 02 Nov 2026 19:13:26 +0000",
       "title": "Most of our measures of a key cognitive process don't agree",
@@ -592,59 +653,11 @@
           "title": "Most of our measures of a key cognitive process don't agree",
           "standfirst": "A big study with very little beyond negative results still gets published.",
           "content": "It's widely acknowledged that it's nearly impossible to publish negative results in scientific journals. \"We didn't see anything\" is a much harder sell than finding that a hypothesis is clearly right. Findings of no effect tend to either be shuffled off to low-profile journals or left behind as unpublished lab lore. The high-profile journal Nature, however, made a notable exception this week, publishing a study that tells us that a bunch of methods we have been using to try to measure a key emotional ability don't seem to be measuring the same thing. The results mean that we don't have a good way to measure the impact of a concept that is the basis of a key method in therapy. Inconsistencies One of the most successful forms of therapy is cognitive behavioral therapy, or CBT. In part, CBT is based on getting people to step back and engage in \"cognitive reappraisal.\" This requires people to think over a situation that has caused a negative emotional response and find ways to reinterpret it so that it has less impact on them. The ability to engage in this process has been linked to emotional resilience.Read full article Comments",
-          "feed_position": 15,
+          "feed_position": 19,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2182089944-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2182089944-1152x648.jpg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_124",
-      "coverage": 1,
-      "updated_at": "Mon, 02 Nov 2026 17:09:13 +0000",
-      "title": "China publicly discloses plan for a lunar landing within three years",
-      "neutral_headline": "China publicly discloses plan for a lunar landing within three years",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/",
-          "published_at": "Mon, 02 Nov 2026 17:09:13 +0000",
-          "title": "China publicly discloses plan for a lunar landing within three years",
-          "standfirst": "The plan does not include a mission similar to Apollo 8 or Artemis II.",
-          "content": "Chinese space officials confirmed this weekend that the Asian nation plans to land its astronauts on the Moon within three years. At the Seventh Manned Spaceflight Conference in Beijing, officials, including Wang Xiang, chief designer for the lunar exploration program, laid out the country's most publicly detailed plans yet for a series of missions leading up to a crewed lunar landing \"before 2030.\" China's lunar landings will involve a lunar-orbit rendezvous similar to what NASA did in the 1960s and early 1970s with the Apollo program. However, lacking a rocket as powerful as the Saturn V vehicle, the crew and lunar lander will launch separately to the Moon.Read full article Comments",
-          "feed_position": 18,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/china-1-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/china-1-1152x648.jpg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_130",
-      "coverage": 1,
-      "updated_at": "Mon, 02 Nov 2026 15:57:24 +0000",
-      "title": "F1 in Mexico City: Yet another Ferrari fiasco, but that’s not all",
-      "neutral_headline": "F1 in Mexico City: Yet another Ferrari fiasco, but that’s not all",
-      "bullet_summary": [
-        "Reported by Ars Technica"
-      ],
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/11/f1-in-mexico-city-we-have-a-new-world-champion/",
-          "published_at": "Mon, 02 Nov 2026 15:57:24 +0000",
-          "title": "F1 in Mexico City: Yet another Ferrari fiasco, but that’s not all",
-          "standfirst": "There was plenty of drama on and off the track for Formula 1 this weekend.",
-          "content": "Formula 1 has a new World Drivers' Champion. Just a few months after turning 20, Kimi Antonelli sealed his first title this weekend at Mexico City, becoming the sport’s youngest-ever champion. Elsewhere, there was drama aplenty, perhaps a consequence of the thin air affecting decision-making in some cases. The race was Ferrari’s to win, but yet again, the team handed victory to a rival this season, in this case Red Bull. Further down the grid, we saw a last-minute driver change in the Haas team, synchronized retirements from both Aston Martins, and the wheels literally coming off Cadillac Racing. And there was I, expecting a dull weekend. It might not be as high as Pikes Peak, but at an elevation of 7,350 feet (2,240 m) above sea level, the Autódromo Hermanos Rodríguez provides a unique challenge on the F1 calendar. Wings that would create huge amounts of downforce at circuits like Monaco just generate Monza-like levels in Mexico, and there’s little slipstream effect when following another car. Cooling tends to be a problem, too, with insufficient airflow across radiators, and obviously engine power is reduced with less oxygen to burn. The track is very flat, with a rather low-grip surface and mostly medium- and slow-speed corners, including a processional route through a stadium that was built in the 1990s, plus a very long run from the start into turn 1.Read full article Comments",
-          "feed_position": 19,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2302218135-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2302218135-1152x648.jpg",
       "popularity_score": 133
     }
   ]
